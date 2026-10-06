@@ -1,0 +1,17 @@
+name: Notify Frontend
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger frontend rebuild
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.FRONTEND_PAT }}
+          repository: bimaakbar-dev/yukionime
+          event-type: data-updated
