@@ -3,6 +3,8 @@ name: Notify Frontend
 on:
   push:
     branches: [main]
+    paths:
+      - 'data/**'
   workflow_dispatch:
 
 jobs:
