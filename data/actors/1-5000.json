@@ -665,6 +665,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "eriko-matsui",
+    "name": "Eriko Matsui",
+    "nameNative": "松井恵理子",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115835-3uhE3pEKEsEN.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "fairouz-ai",
     "name": "Fairouz Ai",
     "nameNative": "ファイルーズあい",
@@ -1913,6 +1920,7 @@
   {
     "id": "lynn",
     "name": "Lynn",
+    "nameNative": null,
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118806-2aFjOHv08Iwm.jpg",
     "defaultLanguage": "Japanese"
   },
@@ -2432,6 +2440,13 @@
     "name": "Miki Nagasawa",
     "nameNative": "長沢美樹",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95209-9RHgLGkMrska.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "miku-itou",
+    "name": "Miku Itou",
+    "nameNative": "伊藤美来",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118581-8tQ3U5oTXTTQ.jpg",
     "defaultLanguage": "Japanese"
   },
   {
@@ -4031,6 +4046,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "wakana-maruoka",
+    "name": "Wakana Maruoka",
+    "nameNative": "丸岡和佳奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n191136-8yc5pWw99zrS.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "wakana-yamazaki",
     "name": "Wakana Yamazaki",
     "nameNative": "山崎和佳奈",
@@ -4252,6 +4274,13 @@
     "name": "Yui Kano",
     "nameNative": "鹿野優以",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95682-qgtP8JjbsP8f.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "yui-ogura",
+    "name": "Yui Ogura",
+    "nameNative": "小倉唯",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105981-CDMPx1Q79Aum.png",
     "defaultLanguage": "Japanese"
   },
   {
