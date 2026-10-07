@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Fran",
+    "role": "main",
+    "voiceActors": [
+      "ai-kakuma"
+    ],
+    "nameNative": "フラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127603-CixEdBk9ItUU.png"
+  },
+  {
+    "name": "Shishou",
+    "role": "main",
+    "voiceActors": [
+      "shinichirou-miki"
+    ],
+    "nameNative": "師匠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137864-p4UOJKVpNM4Z.png"
+  },
+  {
+    "name": "Urushi",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-gotou"
+    ],
+    "nameNative": "ウルシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293724-KOceEu7fTBl3.jpg"
+  },
+  {
+    "name": "Jean du Vix",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuma-uchida"
+    ],
+    "nameNative": "ジャン・ドゥービー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294830-9o6CF7RaV9hn.png"
+  },
+  {
+    "name": "Lich",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ],
+    "nameNative": "リッチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406623-BBtJ93YkZEug.jpg"
+  }
+]
