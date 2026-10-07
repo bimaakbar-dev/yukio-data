@@ -1,5 +1,12 @@
 [
   {
+    "id": "rei-ichinomiya",
+    "name": "Rei Ichinomiya",
+    "nameNative": "一宮麗",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n363987-VS5nkDiaFIi3.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "reiji-kawashima",
     "name": "Reiji Kawashima",
     "nameNative": "川島零士",
@@ -221,6 +228,13 @@
     "name": "Ryouta Asari",
     "nameNative": "浅利遼太",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109469-BXzmsLnaNXp6.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "ryouta-iwasaki",
+    "name": "Ryouta Iwasaki",
+    "nameNative": "岩崎諒太",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126856-BQ4qwPDm4lfw.png",
     "defaultLanguage": "Japanese"
   },
   {
