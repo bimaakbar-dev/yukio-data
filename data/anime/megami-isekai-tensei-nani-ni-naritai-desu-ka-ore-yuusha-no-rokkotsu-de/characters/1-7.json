@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Ore",
+    "nameNative": "俺",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388599-ilHuYgoBQ0FG.png",
+    "role": "main",
+    "voiceActors": [
+      "atsushi-abe"
+    ]
+  },
+  {
+    "name": "Megami",
+    "nameNative": "女神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388600-0AeQrwc5vmW8.png",
+    "role": "main",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Benizake Shishou",
+    "nameNative": "紅鮭師匠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388601-kDRglevXmLqB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Tanaka-san",
+    "nameNative": "田中さん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388602-CqDa7MRP5ptv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshihiko-seki"
+    ]
+  },
+  {
+    "name": "Souzou-shin",
+    "nameNative": "創造神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388603-SwRjXMKjK0p8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Jiyouku",
+    "nameNative": "ジヨーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-ogata"
+    ]
+  },
+  {
+    "name": "Megami no Juusha",
+    "nameNative": "女神の従者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-kaneda"
+    ]
+  }
+]
