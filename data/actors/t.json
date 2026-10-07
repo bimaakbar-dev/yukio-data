@@ -1,5 +1,12 @@
 [
   {
+    "id": "tadashi-miyazawa",
+    "name": "Tadashi Miyazawa",
+    "nameNative": "宮澤正",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/861.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "tadashi-mutou",
     "name": "Tadashi Mutou",
     "nameNative": "武藤正史",
@@ -25,6 +32,13 @@
     "name": "Taisei Akiyama",
     "nameNative": "秋山泰聖",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n322657-ggwoHVT0D0gN.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "taisuke-nakano",
+    "name": "Taisuke Nakano",
+    "nameNative": "中野泰佑",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175300-oYIgY6iAcpmp.png",
     "defaultLanguage": "Japanese"
   },
   {
