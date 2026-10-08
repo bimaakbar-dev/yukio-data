@@ -39,8 +39,6 @@ trailer: "oGJrnyjDbsA"
 draft: false
 ---
 
-Yukiya dan Miku, dua sahabat sejak kecil, memiliki hubungan yang unik. Mereka berbagi banyak hal, namun ada satu hal yang belum pernah mereka ungkapkan secara terbuka: perasaan mereka. Sejak kelas enam SD, mereka bermain "permainan cinta" yang unik, di mana mereka bergiliran mengungkapkan kata-kata manis dan siapa pun yang merasa malu atau tidak nyaman duluan akan dianggap kalah.
+Childhood friends Yukiya and Miku share everything…except their feelings. Ever since sixth grade, they’ve played a “love game”: they take turns saying “I love you” and whoever gets flustered first loses. Now in high school, their hearts are closer than ever—but will they finally find the courage to confess?
 
-Sekarang mereka sudah berada di sekolah menengah atas, dan hubungan mereka semakin dekat. Namun, pertanyaan besar masih menggantung: apakah mereka akan menemukan keberanian untuk mengungkapkan perasaan sebenarnya? Apakah "permainan cinta" mereka akan berakhir dengan kebenaran yang terungkap, ataukah akan terus berlanjut sebagai sebuah permainan yang tidak pernah usai?
-
-Dengan latar belakang sekolah menengah atas, kisah Yukiya dan Miku akan membawa kita dalam sebuah petualangan cinta yang penuh dengan kejutan dan ketidakpastian. Apakah mereka akan menemukan cinta sejati, ataukah "permainan cinta" mereka akan terus berlanjut?
+(Source: Crunchyroll)
