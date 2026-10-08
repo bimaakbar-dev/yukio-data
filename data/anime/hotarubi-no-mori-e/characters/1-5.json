@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Gin",
+    "nameNative": "ギン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41311-QbW9aecoguFX.png",
+    "role": "main",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Hotaru Takegawa",
+    "nameNative": "竹川蛍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41371-bgilENMWqYZN.png",
+    "role": "main",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Haha",
+    "nameNative": "母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60689-Gyob1nbPwvGv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "izumi-sawada"
+    ]
+  },
+  {
+    "name": "Ryouta",
+    "nameNative": "亮太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60691-ZLXknNFcU2Uz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hayato-taya"
+    ]
+  },
+  {
+    "name": "Sofu",
+    "nameNative": "祖父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274039-BByjG8feeZeR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinpachi-tsuji"
+    ]
+  }
+]
