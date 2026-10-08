@@ -1,0 +1,279 @@
+[
+  {
+    "name": "Ahu",
+    "nameNative": "阿虎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349527-TPDT7c8Wsat5.png",
+    "role": "main",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Cheng Yang",
+    "nameNative": "杨澄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349530-XIqj5ydxG94E.png",
+    "role": "main",
+    "voiceActors": [
+      "nobunaga-shimazaki",
+      "reimi-yaneshita"
+    ]
+  },
+  {
+    "name": "Liang Long",
+    "nameNative": "梁龙",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349521-Q5iHlPzGoGnC.png",
+    "role": "main",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Ling Lin",
+    "nameNative": "林凌",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349522-zAX15AVq6E90.png",
+    "role": "main",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Luo Li",
+    "nameNative": "罗莉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349526-eyScs5c4GjEq.png",
+    "role": "main",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Mo Sha",
+    "nameNative": "默杀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349528-grA5fC1dS0g1.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Nice",
+    "nameNative": "奈斯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b362412-d60C4wF6U0Ip.png",
+    "role": "main",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "X",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349524-REvrZCihFExZ.png",
+    "role": "main",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Xiaoqiang",
+    "nameNative": "小强",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349529-2VInp43mWxQ4.png",
+    "role": "main",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Xingyun Qing",
+    "nameNative": "幸运青",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349523-KwExnHqmZYJm.png",
+    "role": "main",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Yuwei Liu",
+    "nameNative": "刘宇唯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349525-TrTwLT7P9T2c.png",
+    "role": "main",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Budao",
+    "nameNative": "不倒",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b362419-CAOVz6FVFXrZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-sakurai"
+    ]
+  },
+  {
+    "name": "Chao Shang",
+    "nameNative": "尚超",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b364930-P4XkWBun3cs9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuya-hirose"
+    ]
+  },
+  {
+    "name": "Da Xiong",
+    "nameNative": "大雄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b368486-raHmdaXr0odo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "gen-satou"
+    ]
+  },
+  {
+    "name": "De Shang",
+    "nameNative": "尚德",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b362996-bdZB6Y39SDcd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoya-uchida"
+    ]
+  },
+  {
+    "name": "Gulang",
+    "nameNative": "蛊狼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b362420-CuNmfTxejglS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Hun Dian",
+    "nameNative": "魂電",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b364929-XSN3vxgoQzzz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Juan",
+    "nameNative": "娟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b361976-z1pi7rLb8j9f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Laoban",
+    "nameNative": "老板",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b361974-jCqgjmz5FOtu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kanehira-yamamoto"
+    ]
+  },
+  {
+    "name": "Luo",
+    "nameNative": "洛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365345-zLdfz0D1uxQz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sachi-kokuryuu"
+    ]
+  },
+  {
+    "name": "Nuonuo Wang",
+    "nameNative": "王诺诺",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b374949-eD2XvgXUpTRl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-koga"
+    ]
+  },
+  {
+    "name": "Pohuai Wang",
+    "nameNative": "破坏王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b362407-jBilmQlexZdn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-tamaru"
+    ]
+  },
+  {
+    "name": "Qi Shi",
+    "nameNative": "启士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b361975-R1a3g92JpnJg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuhiro-ichiki"
+    ]
+  },
+  {
+    "name": "Qing Xia",
+    "nameNative": "夏晴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b364924-R0KyAWEx8Vg4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hina-suguta"
+    ]
+  },
+  {
+    "name": "Yan Shu",
+    "nameNative": "岩叔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b364931-tjKUy3trlyAv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Youzi Xiao",
+    "nameNative": "小柚子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b364928-fY3QIeK0Gn5m.png",
+    "role": "supporting",
+    "voiceActors": [
+      "serika-hiromatsu"
+    ]
+  },
+  {
+    "name": "Yuanzhang",
+    "nameNative": "院长",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365347-k1s7ri7xoCRK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroo-sasaki"
+    ]
+  },
+  {
+    "name": "Yueqing Xiao",
+    "nameNative": "潇月卿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b361972-Z57gXGexgXeW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-toyosaki"
+    ]
+  },
+  {
+    "name": "Zhao Zhuren",
+    "nameNative": "赵主任",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365348-wsU3wvq6LO1P.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-arai"
+    ]
+  },
+  {
+    "name": "Zhen Liu",
+    "nameNative": "刘真",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365346-lV5CPIp3eSW7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Zi Whang",
+    "nameNative": "忘仔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365372-itLPnxiH4vC3.png",
+    "role": "supporting",
+    "voiceActors": []
+  }
+]
