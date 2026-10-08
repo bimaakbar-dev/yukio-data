@@ -1,0 +1,12 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "one-piece",
+    "title": "One Piece"
+  },
+  {
+    "relation": "prequel",
+    "slug": "one-piece-film-strong-world-episode-0",
+    "title": "One Piece Film: Strong World Episode 0"
+  }
+]
