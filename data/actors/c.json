@@ -1,5 +1,12 @@
 [
   {
+    "id": "canon-abe",
+    "name": "Canon Abe",
+    "nameNative": "阿部カノン",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n278598-cQqpfH2JCVjy.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "chado-horii",
     "name": "Chado Horii",
     "nameNative": "堀井茶渡",
@@ -249,6 +256,13 @@
     "name": "Chinatsu Akasaki",
     "nameNative": "赤﨑千夏",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107652-wHdkKzhetbiH.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "chisa-kaneko",
+    "name": "Chisa Kaneko",
+    "nameNative": "金子千紗",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n222846-2qGgLftIHYrK.png",
     "defaultLanguage": "Japanese"
   },
   {
