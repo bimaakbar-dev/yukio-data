@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Freeza",
+    "nameNative": "フリーザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3694-bDfOdSSdFfPv.png",
+    "role": "main",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "Gokuu Son",
+    "nameNative": "孫悟空",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/246-wsRRr6z1kii8.png",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Vegeta",
+    "nameNative": "ベジータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b913-NIFkKazWM8VO.png",
+    "role": "main",
+    "voiceActors": [
+      "ryou-horikawa"
+    ]
+  },
+  {
+    "name": "Angels",
+    "nameNative": "天使",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235254-EzRqfEzXNyBF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "momoiro-clover-z"
+    ]
+  },
+  {
+    "name": "Beerus",
+    "nameNative": "ビルス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76348-pGWrznfxgPIV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Briefs Hakase",
+    "nameNative": "ブリーフ博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2103.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouichi-tanaka"
+    ]
+  },
+  {
+    "name": "Bulma",
+    "nameNative": "ブルマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b678-2YCe13F0tFos.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-tsuru"
+    ]
+  },
+  {
+    "name": "Gohan Son",
+    "nameNative": "孫悟飯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2093-kdFZhqcNSsqW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Jaco Teirimentenpibosshi",
+    "nameNative": "ティリメンテンピボッシジャコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135959-DG9o34o6jQ7e.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Jinzouningen 18-gou",
+    "nameNative": "人造人間18号",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4318-HfIy9rOIOZXM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Kuririn",
+    "nameNative": "クリリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2159-qtEuMYyOUkwY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-tanaka"
+    ]
+  },
+  {
+    "name": "Mai",
+    "nameNative": "マイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2143.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiko-yamada"
+    ]
+  },
+  {
+    "name": "Muten Roushi",
+    "nameNative": "武天老師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6167-aMPt1bHf5YbV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaharu-satou"
+    ]
+  },
+  {
+    "name": "Oracle Fish",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89109-2DWRu5wQgeLa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-nakagawa"
+    ]
+  },
+  {
+    "name": "Piccolo",
+    "nameNative": "ピッコロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b914-KuS8AWjqBrqa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Pilaf",
+    "nameNative": "ピラフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2141.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Receptionist",
+    "nameNative": "受付嬢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235253-O50gS6MEjPVZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukiko-morishita"
+    ]
+  },
+  {
+    "name": "Robber A",
+    "nameNative": "強盗A",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235255-bEsKDCgUhw7i.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-haramaki"
+    ]
+  },
+  {
+    "name": "Robber B",
+    "nameNative": "強盗B",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235252-5WSbpcmrj45x.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-hirai"
+    ]
+  },
+  {
+    "name": "Shen Long",
+    "nameNative": "神龍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6127.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuzaburou-ootomo"
+    ]
+  },
+  {
+    "name": "Shisami",
+    "nameNative": "シサミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188412-xAV66L9goElZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Shu",
+    "nameNative": "シュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2133.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Sorbet",
+    "nameNative": "ソルベ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8058-68IZZaxdQUIo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shirou-saitou"
+    ]
+  },
+  {
+    "name": "Staff",
+    "nameNative": "参謀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235256-N3iVvZlS9Ctf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohisa-asou"
+    ]
+  },
+  {
+    "name": "Subordinate",
+    "nameNative": "部下",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-fujimoto"
+    ]
+  },
+  {
+    "name": "Tagoma",
+    "nameNative": "タゴマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188413-CbV2s1iF9P4y.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-nakai"
+    ]
+  },
+  {
+    "name": "Tenshinhan",
+    "nameNative": "天津飯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5499-Cn9kTD2J9dU5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Videl",
+    "nameNative": "ビーデル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2111-9XqkV0tpjRPB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-minaguchi"
+    ]
+  },
+  {
+    "name": "Whis",
+    "nameNative": "ウイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76346-BNh2DE5Rh2IW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masakazu-morita"
+    ]
+  }
+]

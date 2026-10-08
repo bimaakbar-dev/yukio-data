@@ -1,0 +1,17 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "dragon-ball-z",
+    "title": "Dragon Ball Z"
+  },
+  {
+    "relation": "prequel",
+    "slug": "dragon-ball-z-movie-14-kami-to-kami",
+    "title": "Dragon Ball Z Movie 14: Kami to Kami"
+  },
+  {
+    "relation": "alternative",
+    "slug": "dragon-ball-super",
+    "title": "Dragon Ball Super"
+  }
+]
