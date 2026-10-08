@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Broly",
+    "nameNative": "ブロリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4945-iE59qIP7TxPu.png",
+    "role": "main",
+    "voiceActors": [
+      "bin-shimada",
+      "yukiko-morishita"
+    ]
+  },
+  {
+    "name": "Gokuu Son",
+    "nameNative": "孫悟空",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/246-wsRRr6z1kii8.png",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Vegeta",
+    "nameNative": "ベジータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b913-NIFkKazWM8VO.png",
+    "role": "main",
+    "voiceActors": [
+      "ryou-horikawa"
+    ]
+  },
+  {
+    "name": "Bardock",
+    "nameNative": "バーダック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6122-N8XCxV2YPd1r.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Beerus",
+    "nameNative": "ビルス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76348-pGWrznfxgPIV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Beets",
+    "nameNative": "ビーツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132371-1chHgYcpf0O5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-kirimoto"
+    ]
+  },
+  {
+    "name": "Berryblue",
+    "nameNative": "ベリブル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132368-9n1U5tGKl8gd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-saitou"
+    ]
+  },
+  {
+    "name": "Bra",
+    "nameNative": "ブラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2733.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Bulma",
+    "nameNative": "ブルマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b678-2YCe13F0tFos.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Cheelai",
+    "nameNative": "チライ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132369-41eykEfKpWhz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "Cold Daiou",
+    "nameNative": "コルド大王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32466.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuzaburou-ootomo"
+    ]
+  },
+  {
+    "name": "Dodoria",
+    "nameNative": "ドドリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9239.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Freeza",
+    "nameNative": "フリーザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3694-bDfOdSSdFfPv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "Gine",
+    "nameNative": "ギネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132370-HIVr6golUBKs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-watanabe"
+    ]
+  },
+  {
+    "name": "Goten Son",
+    "nameNative": "孫悟天",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2551.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Kikono",
+    "nameNative": "キコノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177310-8OAcYvb9SLqr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masami-kikuchi"
+    ]
+  },
+  {
+    "name": "Lemo",
+    "nameNative": "レモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132372-K9dEGdrnDAzN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Nappa",
+    "nameNative": "ナッパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5224.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Paragus",
+    "nameNative": "パラガス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9394.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Piccolo",
+    "nameNative": "ピッコロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b914-KuS8AWjqBrqa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Raditz",
+    "nameNative": "ラディッツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6155.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Shen Long",
+    "nameNative": "神龍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6127.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuzaburou-ootomo"
+    ]
+  },
+  {
+    "name": "Shu",
+    "nameNative": "シュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2133.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Vegeta Ou",
+    "nameNative": "ベジータ王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9393.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "banjou-ginga"
+    ]
+  },
+  {
+    "name": "Whis",
+    "nameNative": "ウイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76346-BNh2DE5Rh2IW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masakazu-morita"
+    ]
+  },
+  {
+    "name": "Zarbon",
+    "nameNative": "ザーボン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5225.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-miura"
+    ]
+  }
+]
