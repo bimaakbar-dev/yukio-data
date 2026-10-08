@@ -1,0 +1,89 @@
+name: Notify Progress
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Restore last stats
+        uses: actions/cache/restore@v4
+        with:
+          path: last_stats.txt
+          key: last-stats-v1
+
+      - name: Check stats & send if changed
+        env:
+          TG_TOKEN: "8936833577:AAEWM83bvItAQ435AADbQX5VetFffce35Vk"
+          TG_CHAT: "1605070949"
+        run: |
+          W1=$(curl -s https://yukio-api.bimaakbar.workers.dev/stats)
+          W2=$(curl -s http://yukio-api.codeskycloud.workers.dev/stats)
+
+          echo "Worker 1: $W1"
+          echo "Worker 2: $W2"
+
+          W1="$W1" W2="$W2" python3 << 'PYEOF'
+          import os, json, urllib.request
+
+          w1 = json.loads(os.environ['W1'])
+          w2 = json.loads(os.environ['W2'])
+
+          signature = f"{w1['total_fetched']}|{w1['pending']}|{w2['total_fetched']}|{w2['pending']}|{w1['failed_permanent']}|{w2['failed_permanent']}"
+
+          prev = ""
+          try:
+              with open('last_stats.txt') as f:
+                  prev = f.read().strip()
+          except FileNotFoundError:
+              pass
+
+          if prev == signature:
+              print(f"No change ({signature}) — skip")
+              with open('last_stats.txt', 'w') as f:
+                  f.write(signature)
+              exit(0)
+
+          with open('last_stats.txt', 'w') as f:
+              f.write(signature)
+
+          total_fetched = w1['total_fetched'] + w2['total_fetched']
+          failed = w1['failed'] + w2['failed']
+          failed_perm = w1['failed_permanent'] + w2['failed_permanent']
+
+          text = (
+              "📊 <b>Scraper Progress</b>\n\n"
+              f"📥 Total fetched: <b>{total_fetched}</b>\n"
+              f"📦 Queue: {w1['total'] + w2['total']}\n"
+              f"⚠️ Failed: {failed}\n"
+              f"❌ Failed perm: {failed_perm}\n\n"
+              f"<b>Worker 1</b>\n"
+              f"  pending: {w1['pending']}\n"
+              f"  next page: {w1['next_page']}\n\n"
+              f"<b>Worker 2</b>\n"
+              f"  pending: {w2['pending']}\n"
+              f"  next page: {w2['next_page']}"
+          )
+
+          url = f"https://api.telegram.org/bot{os.environ['TG_TOKEN']}/sendMessage"
+          data = json.dumps({
+              'chat_id': os.environ['TG_CHAT'],
+              'text': text,
+              'parse_mode': 'HTML',
+              'disable_web_page_preview': True,
+          }).encode()
+
+          req = urllib.request.Request(url, data=data, headers={'Content-Type': 'application/json'})
+          resp = urllib.request.urlopen(req)
+          print(f"Sent. Telegram HTTP {resp.status}")
+          PYEOF
+
+      - name: Save last stats
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: last_stats.txt
+          key: last-stats-v1
