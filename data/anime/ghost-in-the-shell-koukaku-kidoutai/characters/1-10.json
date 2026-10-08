@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Batou",
+    "nameNative": "バトー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2653.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Motoko Kusanagi",
+    "nameNative": "草薙素子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1795-vKakY5aXVyCl.jpg",
+    "role": "main",
+    "voiceActors": [
+      "maaya-sakamoto",
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Togusa",
+    "nameNative": "トグサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2654.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Daisuke Aramaki",
+    "nameNative": "荒巻大輔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2677-lPWyWsFWTJhp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tamio-ooki"
+    ]
+  },
+  {
+    "name": "Ishikawa",
+    "nameNative": "イシカワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2676-2wg98eOH9BEh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-nakano"
+    ]
+  },
+  {
+    "name": "Kanshiki-kan",
+    "nameNative": "鑑識官",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406897-r222NbdTzT6D.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-yanaka"
+    ]
+  },
+  {
+    "name": "Nakamura",
+    "nameNative": "中村",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77779.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Project 2501",
+    "nameNative": "人形使い",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18516-0jVQdvyC4i1j.png",
+    "role": "supporting",
+    "voiceActors": [
+      "iemasa-kayumi"
+    ]
+  },
+  {
+    "name": "Seisou Kyokuin",
+    "nameNative": "清掃局員",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b404101-Ia8fncTM4PKA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-naka"
+    ]
+  },
+  {
+    "name": "Willis Hakase",
+    "nameNative": "ウィリス博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406895-gWwCWdcO3rbg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masakazu-namaki"
+    ]
+  }
+]
