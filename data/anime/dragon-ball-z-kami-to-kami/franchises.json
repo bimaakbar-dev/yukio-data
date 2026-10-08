@@ -1,0 +1,22 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "dragon-ball-z",
+    "title": "Dragon Ball Z"
+  },
+  {
+    "relation": "sequel",
+    "slug": "dragon-ball-z-movie-15-fukkatsu-no-f",
+    "title": "Dragon Ball Z Movie 15: Fukkatsu no \"F\""
+  },
+  {
+    "relation": "alternative",
+    "slug": "dragon-ball-super",
+    "title": "Dragon Ball Super"
+  },
+  {
+    "relation": "alternative",
+    "slug": "dragon-ball-super-beerus",
+    "title": "Dragon Ball Super: Beerus"
+  }
+]
