@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Hei",
+    "nameNative": "黒",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2160-CbHDsANTwxg2.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hidenobu-kiuchi"
+    ]
+  },
+  {
+    "name": "Huang",
+    "nameNative": "黄（ホァン）",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2164-izIIWifzutwm.png",
+    "role": "main",
+    "voiceActors": [
+      "masaru-ikeda"
+    ]
+  },
+  {
+    "name": "Mao",
+    "nameNative": "猫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2165-LJwr5Cgg7J4n.png",
+    "role": "main",
+    "voiceActors": [
+      "ikuya-sawaki"
+    ]
+  },
+  {
+    "name": "Misaki Kirihara",
+    "nameNative": "霧原未咲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2166-WXRpwEz7S55P.png",
+    "role": "main",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "Yin",
+    "nameNative": "銀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2163-nA1EMwU7E5oJ.png",
+    "role": "main",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Alice Wang",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40490.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Alma",
+    "nameNative": "アルマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26970.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "urara-takano"
+    ]
+  },
+  {
+    "name": "Amagiri",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28897.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-kirimoto"
+    ]
+  },
+  {
+    "name": "Amber",
+    "nameNative": "アンバー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3571-yBnKF5Wc8zXB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-kawakami"
+    ]
+  },
+  {
+    "name": "April",
+    "nameNative": "エイプリル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10314.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takako-honda"
+    ]
+  },
+  {
+    "name": "Bertha",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10316.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-satou"
+    ]
+  },
+  {
+    "name": "Brita",
+    "nameNative": "ブリタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44775.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chie-nakamura"
+    ]
+  },
+  {
+    "name": "Chiaki Shinoda",
+    "nameNative": "篠田千晶",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14774.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Decade",
+    "nameNative": "ディケイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/80679.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-nojima"
+    ]
+  },
+  {
+    "name": "Eelis Kastinen",
+    "nameNative": "エーリス・カスティネン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23856.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norihiro-inoue"
+    ]
+  },
+  {
+    "name": "Eric Nishijima",
+    "nameNative": "ニシジマ・エリク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26403.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Gai Kurasawa",
+    "nameNative": "久良沢凱",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3213.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasunori-matsumoto"
+    ]
+  },
+  {
+    "name": "Havoc",
+    "nameNative": "ハヴォック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3320.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-shindou"
+    ]
+  },
+  {
+    "name": "Hourai Yoshimitsu",
+    "nameNative": "宝来善充",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37016.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "michihiro-ikemizu"
+    ]
+  },
+  {
+    "name": "Jean",
+    "nameNative": "ジャン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27677.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "July",
+    "nameNative": "ジュライ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15762.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyomi-asai"
+    ]
+  },
+  {
+    "name": "Kanami Ishizaki",
+    "nameNative": "石崎香那美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15548.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Kenji Sakurai",
+    "nameNative": "桜井健児",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23853.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Kiko Kayanuma",
+    "nameNative": "茅沼キコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3214.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  },
+  {
+    "name": "Kunio Matsumoto",
+    "nameNative": "松本 邦夫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/55117.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuaki-fukuda"
+    ]
+  },
+  {
+    "name": "Louis",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37774.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuyuki-kase"
+    ]
+  },
+  {
+    "name": "Madam Stargazer",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/82639.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Mai Kashiwagi",
+    "nameNative": "柏木　舞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2435.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-nasu"
+    ]
+  },
+  {
+    "name": "Maki",
+    "nameNative": "マキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5432.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-sanpei"
+    ]
+  },
+  {
+    "name": "Masashi Hitotsubashi",
+    "nameNative": "一橋誠志",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23854.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-sugawara"
+    ]
+  },
+  {
+    "name": "Mayu Otsuka",
+    "nameNative": "大塚真由",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10787.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuna-inamura"
+    ]
+  },
+  {
+    "name": "Meena Kandaswamy",
+    "nameNative": "ミーナ・カンダスワミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127416-u5tK71lO0wby.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  },
+  {
+    "name": "Nick Hillman",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20168.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-nakahara"
+    ]
+  },
+  {
+    "name": "Nobuhiro Aku",
+    "nameNative": "阿久延博",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n355211-FSfV22VODRqu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Norio Ukiyama",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23452.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomu-sasaki"
+    ]
+  },
+  {
+    "name": "November 11",
+    "nameNative": "ノーベンバー11",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3552-PAsE3m6cs3rs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Pai",
+    "nameNative": "白",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15938.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nazuka"
+    ]
+  },
+  {
+    "name": "Shihoko Kishida",
+    "nameNative": "岸田志保子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10315.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rumiko-ukai"
+    ]
+  },
+  {
+    "name": "Yusuke Saito",
+    "nameNative": "斎藤雄介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19289.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyuki-shimura"
+    ]
+  },
+  {
+    "name": "Yutaka Kouno",
+    "nameNative": "河野豊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10730.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Yzak",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23855.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-aoyama"
+    ]
+  },
+  {
+    "name": "Zhijun Wei",
+    "nameNative": "魏志軍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5942.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-kusao"
+    ]
+  }
+]
