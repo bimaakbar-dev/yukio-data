@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Age",
+    "nameNative": "エイジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b68365-Rn0RKwtvWnuO.png",
+    "role": "main",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Patema",
+    "nameNative": "パテマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55155-JF8LKa8D0Fkn.png",
+    "role": "main",
+    "voiceActors": [
+      "yukiyo-fujii"
+    ]
+  },
+  {
+    "name": "Eiichi",
+    "nameNative": "エイイチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162338-0T7u5JAL2Wyg.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Izamura",
+    "nameNative": "イザムラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162337-FY5A3TJSiw5E.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-hashi"
+    ]
+  },
+  {
+    "name": "Jack",
+    "nameNative": "ジャク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162339-jo2RTiqbWnul.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Jii",
+    "nameNative": "ジィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162342-wsnLLFcZq7QA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-fukumatsu"
+    ]
+  },
+  {
+    "name": "Kaho",
+    "nameNative": "カホ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162335-E1slbOdpSdt1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Lagos",
+    "nameNative": "ラゴス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162343-VhNkck41xxmG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masayuki-katou"
+    ]
+  },
+  {
+    "name": "Porta",
+    "nameNative": "ポルタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64967.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shintarou-oohata"
+    ]
+  }
+]
