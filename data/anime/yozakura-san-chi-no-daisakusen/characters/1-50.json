@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Futaba Yozakura",
+    "nameNative": "夜桜二刃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169990-7cPMIGNUYNoz.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akari-kitou"
+    ]
+  },
+  {
+    "name": "Kengo Yozakura",
+    "nameNative": "夜桜嫌五",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169991-4YHk0PBwD6nG.png",
+    "role": "main",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Kyouichirou Yozakura",
+    "nameNative": "夜桜凶一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165308-DtXZToMn5IjV.png",
+    "role": "main",
+    "voiceActors": [
+      "katsuyuki-konishi",
+      "miho-hayashi"
+    ]
+  },
+  {
+    "name": "Mutsumi Yozakura",
+    "nameNative": "夜桜六美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162724-MOaS8OsRvdyW.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kaede-hondo"
+    ]
+  },
+  {
+    "name": "Nanao Yozakura",
+    "nameNative": "夜桜七悪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169988-66qoT76fuJrA.png",
+    "role": "main",
+    "voiceActors": [
+      "yumi-uchiyama"
+    ]
+  },
+  {
+    "name": "Shinzo Yozakura",
+    "nameNative": "夜桜辛三",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b170003-dj5rOnoUaYmT.png",
+    "role": "main",
+    "voiceActors": [
+      "kazuyuki-okitsu",
+      "momoka-terasawa"
+    ]
+  },
+  {
+    "name": "Shion Yozakura",
+    "nameNative": "夜桜四怨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169989-oaXnedVCznYd.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Taiyou Asano",
+    "nameNative": "朝野太陽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162723-2veq2yEY2trS.png",
+    "role": "main",
+    "voiceActors": [
+      "reiji-kawashima"
+    ]
+  },
+  {
+    "name": "Ai",
+    "nameNative": "アイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259537-NIVBvdzsCeNx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  },
+  {
+    "name": "Aka",
+    "nameNative": "赤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259549-7563j8LFqog2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-fujisawa"
+    ]
+  },
+  {
+    "name": "Akai",
+    "nameNative": "アカイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259539-vFbMZ1FRIMa1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Akari Asano",
+    "nameNative": "朝野あかり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b346703-ciWRCpSr8j4f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houko-kuwashima"
+    ]
+  },
+  {
+    "name": "Ao",
+    "nameNative": "青",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259550-yANyZYS5tzu2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-fujisawa"
+    ]
+  },
+  {
+    "name": "Aonuma",
+    "nameNative": "アオヌマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259538-DcgIHoS3uoSR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-kobayashi"
+    ]
+  },
+  {
+    "name": "Asuka  Hatoda",
+    "nameNative": "鳩田飛鳥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169995-2Ew1e1jMY6qs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Ayaka Kirisaki",
+    "nameNative": "切崎殺香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169992-9ihVzN7hbzsM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Ban  Yozakura",
+    "nameNative": "夜桜万",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169997-FxobpFzn9Ooa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Cha-Cha",
+    "nameNative": "チャチャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259544-W952AdvAKFan.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-madono"
+    ]
+  },
+  {
+    "name": "Fukurou",
+    "nameNative": "フクロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338008-9HG43hT3A18s.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromichi-tezuka"
+    ]
+  },
+  {
+    "name": "Goliath",
+    "nameNative": "ゴリアテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169993-GsDcnkGk3NB9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Happy",
+    "nameNative": "はっぴー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338034-U47hIwX2ZObc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-tone"
+    ]
+  },
+  {
+    "name": "Hide Asano",
+    "nameNative": "朝野日出",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b346706-jHavhabDtoKA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-satou"
+    ]
+  },
+  {
+    "name": "Hikaru Asano",
+    "nameNative": "朝野光",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b346704-HlsQE92da7Cu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-fujiwara"
+    ]
+  },
+  {
+    "name": "Kaoru Akikaze",
+    "nameNative": "秋風薫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259543-TroIwt1Jf7bW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-tamai"
+    ]
+  },
+  {
+    "name": "Keiko Yozakura",
+    "nameNative": "夜桜京子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169996-jFLQMdasmOxj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eiko-yamada"
+    ]
+  },
+  {
+    "name": "Ken Ken",
+    "nameNative": "ケンケン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338012-Lf5ItU9qUqGA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-fujisawa"
+    ]
+  },
+  {
+    "name": "Ki",
+    "nameNative": "黄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259551-WTF1WOjdu94X.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-fujisawa"
+    ]
+  },
+  {
+    "name": "Kurosawa",
+    "nameNative": "クロサワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259542-ZSaeQkWcvNiY.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Makoto Kawashita",
+    "nameNative": "皮下真",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187229-j2rgSxOTrYPh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Me-chan",
+    "nameNative": "めーちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b339328-RWbCJH7cerSO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-oonishi"
+    ]
+  },
+  {
+    "name": "Mizuki",
+    "nameNative": "ミズキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259541-bx6i2bOSR7FM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nojima"
+    ]
+  },
+  {
+    "name": "Momiji Akikaze",
+    "nameNative": "秋風もみじ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259534-dAW4BHUHOohA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maki-kawase"
+    ]
+  },
+  {
+    "name": "Momo Yozakura",
+    "nameNative": "夜桜百",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259533-1SD6DhLFOFXF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Motti",
+    "nameNative": "もっちー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338013-djfwTvnVnhEU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-hirose"
+    ]
+  },
+  {
+    "name": "Noumen",
+    "nameNative": "ノウメン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b340027-s1e1T3gxrhzH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-matsukaze"
+    ]
+  },
+  {
+    "name": "Ouga Inugami",
+    "nameNative": "犬神王牙",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169999-84CqERCdTM4U.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-hamano"
+    ]
+  },
+  {
+    "name": "Rei Yozakura",
+    "nameNative": "夜桜零",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259552-PGmrbtuk5F1Z.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-hidaka"
+    ]
+  },
+  {
+    "name": "Rin  Fudou",
+    "nameNative": "不動りん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b170000-K8wwAYeR8sn8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Rinne  Kitasato",
+    "nameNative": "北里りんね",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b170002-i7lxKvqnhrEj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshino-nanjou"
+    ]
+  },
+  {
+    "name": "Seiji  Hotokeyama",
+    "nameNative": "仏山聖司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169994-KtvsoJr8cm35.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuyuki-kase"
+    ]
+  },
+  {
+    "name": "Shirosagi",
+    "nameNative": "白鷺",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338028-X4FZKNhznBsM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-yanaka"
+    ]
+  },
+  {
+    "name": "Sui  Aoi",
+    "nameNative": "蒼翠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169998-YADFtO02pIZB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Tamaya",
+    "nameNative": "たま屋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b337999-4viD4ixgkxIh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiki-iwasawa"
+    ]
+  },
+  {
+    "name": "Tsubomi Yozakura",
+    "nameNative": "夜桜つぼみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259535-jFcJ0SZUz21V.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Tsukiyo  Hoshifuru",
+    "nameNative": "星降月夜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b170001-ztmTnEXh7UZg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Yama-chan",
+    "nameNative": "山ちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b346705-DMliJZarTiai.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuunosuke-watanuki"
+    ]
+  },
+  {
+    "name": "Yoshimasa Kuroyuri",
+    "nameNative": "黒百合義正",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259547-I7vQQSkNkTh6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-hori"
+    ]
+  },
+  {
+    "name": "Yukari",
+    "nameNative": "ユカリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b337998-x3rOzXd5tJmG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-satou"
+    ]
+  },
+  {
+    "name": "Yuki Shirai",
+    "nameNative": "白井雪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259540-6mX8LUFnAuJS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Yuri",
+    "nameNative": "百合",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338033-sKZQSF11F4LM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hina-youmiya"
+    ]
+  }
+]
