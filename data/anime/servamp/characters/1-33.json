@@ -1,0 +1,300 @@
+[
+  {
+    "name": "Kuro",
+    "nameNative": "クロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84811-RDyPkcFD3snW.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Mahiru Shirota",
+    "nameNative": "城田真昼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87273-nPfe7pirpalj.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takuma-terashima",
+      "ayaka-nanase"
+    ]
+  },
+  {
+    "name": "Belkia",
+    "nameNative": "ベルキア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122013-Yi5TzUIDAepC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Doubt Doubt",
+    "nameNative": "ダウトダウト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230117-WTDNhyQXDg05.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Eisuke Doudou",
+    "nameNative": "洞堂永介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230134-sGIaqHATMFqG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-takahashi"
+    ]
+  },
+  {
+    "name": "Guildenstern",
+    "nameNative": "ギルデンスターン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230163-ZH3uN0WQALEK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Higan",
+    "nameNative": "ヒガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230130-hWDYB8YSC5lh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Hugh the Dark Algernon III",
+    "nameNative": "ヒュー・ザ・ダーク・アルジャーノンⅢ世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205904-KWxSdhoNeZ9i.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Johannes Faustus",
+    "nameNative": "ヨハネス・ミーミル・ファウストゥス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230131-ysKsRYEH768z.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Junichirou Kurumamori",
+    "nameNative": "車守盾一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230170-JDapr1QEZtP7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Koyuki",
+    "nameNative": "虎雪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230158-TQuOtkcMYJdP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "koutarou-nishiyama"
+    ]
+  },
+  {
+    "name": "Lawless",
+    "nameNative": "ロウレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122010-b6SF63gpMTUk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouhei-kimura"
+    ]
+  },
+  {
+    "name": "Licht Todoroki",
+    "nameNative": "リヒト・ジキルランド・轟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122011-LnPMBvfBlT30.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Lilac",
+    "nameNative": "ライラック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230155-CBbb1lEvo861.png",
+    "role": "supporting",
+    "voiceActors": [
+      "you-taichi"
+    ]
+  },
+  {
+    "name": "Marry",
+    "nameNative": "マリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230137-ZFwd0pG3ulfr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-senbongi"
+    ]
+  },
+  {
+    "name": "Mikuni Arisuin",
+    "nameNative": "有栖院御国",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121996-LZpCmIHQbmH9.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Misono Arisuin",
+    "nameNative": "有栖院御園",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/121998-Q50yCunKZTaV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Ophelia",
+    "nameNative": "オフィーリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230156-QlK2LIuZHHNn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-uchiyama"
+    ]
+  },
+  {
+    "name": "Otogiri",
+    "nameNative": "オトギリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230132-cMhxTW3qoeUB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsumi-tanezaki"
+    ]
+  },
+  {
+    "name": "Rosen Crantz",
+    "nameNative": "クランツ・ローゼン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230126-6LnqFwejQPSt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Ryuusei",
+    "nameNative": "龍征",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230124-QoD7u2nbMEdr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "genki-okawa"
+    ]
+  },
+  {
+    "name": "Sakuya Watanuki",
+    "nameNative": "綿貫桜哉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135818-QbKBoQKqL6TL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuto-suzuki"
+    ]
+  },
+  {
+    "name": "Shamrock",
+    "nameNative": "シャムロック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230150-NQP414V1JNjl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Snow Lily",
+    "nameNative": "スノウリリイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/121997-jSmBJU8bsrr4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuma-horie"
+    ]
+  },
+  {
+    "name": "Syuuhei Tsuyuki",
+    "nameNative": "露木修平",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230129-KOwyvJ6ogj11.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Tetsu Sendagaya",
+    "nameNative": "千駄ヶ谷鉄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121995-VdKgpswJiFsj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-ono"
+    ]
+  },
+  {
+    "name": "The Mother",
+    "nameNative": "ザ・マザー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230123-qEBT19t5DWJg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Tooru Shirota",
+    "nameNative": "城田徹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230166-I0NEbxvAc5Xa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youji-ueda"
+    ]
+  },
+  {
+    "name": "Tsubaki",
+    "nameNative": "椿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122012-YF9DWIEMmtES.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  },
+  {
+    "name": "Tsurugi Kamiya",
+    "nameNative": "狼谷吊戯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122044-3mAIDIzFX05g.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "World End",
+    "nameNative": "ワールドエンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230128-16hzbfuXAOUM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Yully",
+    "nameNative": "ユリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230133-nooRreKcOAsN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-nanase"
+    ]
+  },
+  {
+    "name": "Yumikage Tsukimitsu",
+    "nameNative": "月満弓景",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230121-p2Byaipy23oa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  }
+]
