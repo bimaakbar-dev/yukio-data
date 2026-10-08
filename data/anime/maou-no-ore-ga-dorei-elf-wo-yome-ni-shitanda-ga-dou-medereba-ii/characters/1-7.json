@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Nephelia",
+    "nameNative": "ネフェリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181708-rrzS2p1fqt1d.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kana-ichinose"
+    ]
+  },
+  {
+    "name": "Zagan",
+    "nameNative": "ザガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181709-aZK4CQKwv8VQ.png",
+    "role": "main",
+    "voiceActors": [
+      "yuusuke-kobayashi",
+      "saya-hirose"
+    ]
+  },
+  {
+    "name": "Barbatos",
+    "nameNative": "バルバロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181710-xzRqAUsgVpo8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Chastille Lillvqvist",
+    "nameNative": "シャスティル・リルクヴィスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181713-aVbrcmr1sEi9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-hishikawa"
+    ]
+  },
+  {
+    "name": "Manuela",
+    "nameNative": "マニュエラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181711-HCKUeePOnMA3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayasa-itou"
+    ]
+  },
+  {
+    "name": "Raphael Hyurandell",
+    "nameNative": "ラーファエル・ヒュランデル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b325752-8GDflepAeKVL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Valefor",
+    "nameNative": "ウォルフォレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181712-kzNR2vWZmKjQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akane-misaka"
+    ]
+  }
+]
