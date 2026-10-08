@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Accelerator",
+    "nameNative": "アクセラレータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13917-160NVNDNgywA.png",
+    "role": "main",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Index Librorum Prohibitorum",
+    "nameNative": "禁書目録",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13699-FRf8YNCXmhfb.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Shiage Hamazura",
+    "nameNative": "浜面仕上",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n39705-yI8ma2hPa6dz.jpg",
+    "role": "main",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Touma Kamijou",
+    "nameNative": "上条当麻",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13700-UidPPlVkGJLP.jpg",
+    "role": "main",
+    "voiceActors": [
+      "atsushi-abe"
+    ]
+  },
+  {
+    "name": "Agnese Sanctis",
+    "nameNative": "アニェーゼ＝サンクティス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n35857-niimspgPQ0nl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Aiho Yomikawa",
+    "nameNative": "黄泉川 愛穂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n29083-Vz6a756sENoV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Aisa Himegami",
+    "nameNative": "姫神秋沙",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17179-Bgv5FqV5XPVI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Aiwass",
+    "nameNative": "エイワス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39957.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-miyamoto"
+    ]
+  },
+  {
+    "name": "Aleister Crowley",
+    "nameNative": "アレイスター・クロウリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32085-fRkgbuZL0oLc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshihiko-seki"
+    ]
+  },
+  {
+    "name": "Angelene",
+    "nameNative": "アンジェレネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35856.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "azusa-enoki"
+    ]
+  },
+  {
+    "name": "Archangel Gabriel",
+    "nameNative": "大天使　ガブリエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39979.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-terasaki"
+    ]
+  },
+  {
+    "name": "Awaki Musujime",
+    "nameNative": "結標淡希",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36988.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "harumi-sakurai"
+    ]
+  },
+  {
+    "name": "Bayloupe",
+    "nameNative": "ベイロープ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39981.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-fujiwara"
+    ]
+  },
+  {
+    "name": "Biagio Busoni",
+    "nameNative": "ビアージオ＝ブゾーニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35853.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norio-wakamoto"
+    ]
+  },
+  {
+    "name": "Carissa",
+    "nameNative": "キャーリサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39982.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kei-shindou"
+    ]
+  },
+  {
+    "name": "Chimitsu Sunazara",
+    "nameNative": "砂皿緻密",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289296-AYs3GMD7WSQL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tarou-kiuchi"
+    ]
+  },
+  {
+    "name": "Elizalina",
+    "nameNative": "エリザリーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289532-rgjlQ86YyLqb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-shindou"
+    ]
+  },
+  {
+    "name": "Elizard",
+    "nameNative": "エリザード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39984.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-soumi"
+    ]
+  },
+  {
+    "name": "Etzali",
+    "nameNative": "エツァリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19612.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kishio"
+    ]
+  },
+  {
+    "name": "Fiamma of the Right",
+    "nameNative": "右方のフィアンマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b39952-indC3GxIETHL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Floris",
+    "nameNative": "フロリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39986.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minori-suzuki"
+    ]
+  },
+  {
+    "name": "Frenda Seivelun",
+    "nameNative": "フレンダ・セイヴェルン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30040-vDEc1im86iOl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Hakase",
+    "nameNative": "博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289303-3Nk2FodcryWg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-sugisaki"
+    ]
+  },
+  {
+    "name": "Heaven Canceler",
+    "nameNative": "冥土帰し",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n23513-Oc35JTmxQnpW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-nakano"
+    ]
+  },
+  {
+    "name": "Hyouka Kazakiri",
+    "nameNative": "風斬 氷華",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20464.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-asumi"
+    ]
+  },
+  {
+    "name": "Itsuwa",
+    "nameNative": "五和",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20532-dOFHQms8iufd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Kaibi Gokusai",
+    "nameNative": "獄彩海美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41050-vNSKKH7mkcyE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shiori-izawa"
+    ]
+  },
+  {
+    "name": "Kaori Kanzaki",
+    "nameNative": "神裂火織",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13916-dtIzopanhdXM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Kazari Uiharu",
+    "nameNative": "初春飾利",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n20622-600TZPRJJY5i.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-toyosaki"
+    ]
+  },
+  {
+    "name": "Kikyou Yoshikawa",
+    "nameNative": "芳川桔梗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n29790-oZzk7QCiaTyW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-touma"
+    ]
+  },
+  {
+    "name": "Knight Leader",
+    "nameNative": "ナイトリーダー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b48395-vIm8IoKyPRwl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Komoe Tsukuyomi",
+    "nameNative": "月詠小萌",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n16222-VGQaCcuSvCAv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-koyama"
+    ]
+  },
+  {
+    "name": "Krans R. Tsarskiy",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289267-zVT224NtGgtn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asuna-tomari"
+    ]
+  },
+  {
+    "name": "Kuroko Shirai",
+    "nameNative": "白井黒子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17017-jaDcukuCmx2S.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-arai"
+    ]
+  },
+  {
+    "name": "Lancis",
+    "nameNative": "ランシス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40149.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rui-tanabe"
+    ]
+  },
+  {
+    "name": "Last Order",
+    "nameNative": "打ち止め",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n19737-cAPfVojzIp43.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  },
+  {
+    "name": "Laura Stuart",
+    "nameNative": "ローラ＝スチュアート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36576-5Ht0lcoouPar.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Leivinia Birdway",
+    "nameNative": "レイヴィニア＝バードウェイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39980.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "you-taichi"
+    ]
+  },
+  {
+    "name": "Lessar",
+    "nameNative": "レッサー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39956.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-takada"
+    ]
+  },
+  {
+    "name": "Lidvia Lorenzetti",
+    "nameNative": "リドヴィア＝ロレンツェッティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n35854-oH35mCygnCi2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rei-sakuma"
+    ]
+  },
+  {
+    "name": "Lucia",
+    "nameNative": "ルチア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n35855-Y7bX0SCgjeOu.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Maiden of Versailles",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39991.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-keichou"
+    ]
+  },
+  {
+    "name": "Maika Tsuchimikado",
+    "nameNative": "土御門 舞夏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n17785-kLXJfK3cajtz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Mark Space",
+    "nameNative": "マーク＝スペース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54027-spv7fMAISJCK.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Matthew Reese",
+    "nameNative": "マタイ＝リース, ローマ教皇",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40148.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masafumi-kimura"
+    ]
+  },
+  {
+    "name": "Megumi Teshio",
+    "nameNative": "手塩恵未",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289480-ClZncov3qeGW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chitose-morinaga"
+    ]
+  },
+  {
+    "name": "Mikoto Misaka",
+    "nameNative": "御坂美琴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13701-aFJLRPGAWAae.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "MISAKA 10032",
+    "nameNative": "御坂妹, ミサカ10032号",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17729-nfpX0s8nZ4u8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-sasaki"
+    ]
+  },
+  {
+    "name": "MISAKA 10777",
+    "nameNative": "ミサカ10777号",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/68429.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-sasaki"
+    ]
+  },
+  {
+    "name": "Misaka Worst",
+    "nameNative": "ミサカ・ワースト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39990.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  }
+]
