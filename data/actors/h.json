@@ -1,5 +1,12 @@
 [
   {
+    "id": "hakuou-matsumoto-ii",
+    "name": "Hakuou Matsumoto II",
+    "nameNative": "松本白鸚",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n288391-RouGufoJPz2k.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "hana-satou",
     "name": "Hana Satou",
     "nameNative": "佐藤はな",
@@ -753,6 +760,13 @@
     "name": "Hodaka Mieno",
     "nameNative": "三重野帆貴",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n264210-1JvpFQ72ySQk.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "hokuto-matsumura",
+    "name": "Hokuto Matsumura",
+    "nameNative": "松村北斗",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n286953-RvSn4yCbkkrj.png",
     "defaultLanguage": "Japanese"
   },
   {
