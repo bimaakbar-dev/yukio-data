@@ -1,0 +1,343 @@
+[
+  {
+    "name": "Kamina",
+    "nameNative": "カミナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2075-sWb5Xz76JWdX.png",
+    "role": "main",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Nia Teppelin",
+    "nameNative": "ニア・テッペリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2761-FmSJGaW9WzYZ.png",
+    "role": "main",
+    "voiceActors": [
+      "yukari-fukui"
+    ]
+  },
+  {
+    "name": "Simon",
+    "nameNative": "シモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2257-jnalsdnIX1vN.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tetsuya-kakihara",
+      "takayuki-sugou"
+    ]
+  },
+  {
+    "name": "Youko Littner",
+    "nameNative": "ヨーコ・リットナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2063-7BKqQbrhtDD2.png",
+    "role": "main",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Adiane",
+    "nameNative": "アディーネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3404.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "michiko-neya"
+    ]
+  },
+  {
+    "name": "Anne Littner",
+    "nameNative": "アン・リットナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26914.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Anti-Spiral",
+    "nameNative": "アンチ-スパイラル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5115-Aph7LPvS4LvR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kamikawa"
+    ]
+  },
+  {
+    "name": "Artenborough Cortich",
+    "nameNative": "アーテンボロー・コアチッチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10358.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kirii"
+    ]
+  },
+  {
+    "name": "Balinbow Bakusa",
+    "nameNative": "バリンボー・バクサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18646.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouzou-douzaka"
+    ]
+  },
+  {
+    "name": "Boota",
+    "nameNative": "ブータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4700.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Cybela Kuto",
+    "nameNative": "シベラ・クトー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18678.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruhi-nanao"
+    ]
+  },
+  {
+    "name": "Cytomander",
+    "nameNative": "シトマンドラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3430.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-suyama"
+    ]
+  },
+  {
+    "name": "Darry Adai",
+    "nameNative": "ダリー・アダイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3433.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Dayakka Littner",
+    "nameNative": "ダヤッカ・リットナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18644-BCb3J5spW3hq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-nakamura"
+    ]
+  },
+  {
+    "name": "Gabal Docker",
+    "nameNative": "ガバル・ドッカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18640.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gou-shinomiya"
+    ]
+  },
+  {
+    "name": "Gimmy Adai",
+    "nameNative": "ギミー・アダイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3432.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takako-honda"
+    ]
+  },
+  {
+    "name": "Guame",
+    "nameNative": "グァーム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3431.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoshi-kawakubo"
+    ]
+  },
+  {
+    "name": "Guinble Kaito",
+    "nameNative": "ギンブレー・カイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18679.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daichuu-mizushima"
+    ]
+  },
+  {
+    "name": "Iraak Coega",
+    "nameNative": "アイラック・コイーガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18642.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kirii"
+    ]
+  },
+  {
+    "name": "Jorgun Bakusa",
+    "nameNative": "ジョーガン・バクサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18645.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gou-shinomiya"
+    ]
+  },
+  {
+    "name": "Kid Coega",
+    "nameNative": "キッド・コイーガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18641.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-kondou"
+    ]
+  },
+  {
+    "name": "Kinon Bachika",
+    "nameNative": "キノン・バチカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3436.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  },
+  {
+    "name": "Kittan Bachika",
+    "nameNative": "キタン・バチカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3434-ahdOsb4rwsCV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Kiyal Bachika",
+    "nameNative": "キヤル・バチカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3437.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-asumi"
+    ]
+  },
+  {
+    "name": "Kiyoh Bachika",
+    "nameNative": "キヨウ・バチカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3435.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Koko-jii",
+    "nameNative": "ココ爺",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8037.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Leeron Littner",
+    "nameNative": "リーロン・リットナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2376.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-onosaka"
+    ]
+  },
+  {
+    "name": "Leyte Jokin",
+    "nameNative": "レイテ・ジョーキン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/11170.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takako-honda"
+    ]
+  },
+  {
+    "name": "Lordgenome",
+    "nameNative": "ロージェノム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5118.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "narushi-ikeda"
+    ]
+  },
+  {
+    "name": "Magin",
+    "nameNative": "マギン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16432.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Makken Jokin",
+    "nameNative": "マッケン・ジョーキン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18647.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Memu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31075.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-sugou"
+    ]
+  },
+  {
+    "name": "Rossiu Adai",
+    "nameNative": "ロシウ・アダイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2377-b95gEhI6Udqq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata",
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Tetsukan Littner",
+    "nameNative": "テツカン・リットナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18643.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daichuu-mizushima"
+    ]
+  },
+  {
+    "name": "Thymilph",
+    "nameNative": "チミルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/13598.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoyuki-yanada"
+    ]
+  },
+  {
+    "name": "Viral",
+    "nameNative": "ヴィラル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2378-UcNU2Pm8MlB9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Zoushi Kanai",
+    "nameNative": "ゾーシィ・カナイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18639.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takafumi-kawakami"
+    ]
+  }
+]
