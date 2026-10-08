@@ -1,92 +1,92 @@
 [
   {
     "name": "Elymas Edvan",
+    "nameNative": "エルマ・エドヴァン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277688-HqhBRnSIvnMQ.png",
     "role": "main",
     "voiceActors": [
       "takeo-ootsuka"
-    ],
-    "nameNative": "エルマ・エドヴァン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277688-HqhBRnSIvnMQ.png"
+    ]
   },
   {
     "name": "Luce Rubis",
+    "nameNative": "ルーチェ・ルービス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b344248-yIAlePtvhgoo.png",
     "role": "main",
     "voiceActors": [
       "shion-wakayama"
-    ],
-    "nameNative": "ルーチェ・ルービス",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b344248-yIAlePtvhgoo.png"
-  },
-  {
-    "name": "Maris Edvan",
-    "role": "supporting",
-    "voiceActors": [
-      "natsuko-abe"
-    ],
-    "nameNative": "マリス・エドヴァン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342589-vt9AOwRFeY7B.jpg"
-  },
-  {
-    "name": "Ares",
-    "role": "supporting",
-    "voiceActors": [
-      "masahiro-itou"
-    ],
-    "nameNative": "アレス",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342590-38kAaKVybBVM.png"
-  },
-  {
-    "name": "Teal",
-    "role": "supporting",
-    "voiceActors": [
-      "haruki-asada"
-    ],
-    "nameNative": "テイル",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
-  },
-  {
-    "name": "Uketsuke-jou",
-    "role": "supporting",
-    "voiceActors": [
-      "misaki-kuno"
-    ],
-    "nameNative": "受付嬢",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
-  },
-  {
-    "name": "Cline",
-    "role": "supporting",
-    "voiceActors": [
-      "katsumi-fukuhara"
-    ],
-    "nameNative": "クライン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
-  },
-  {
-    "name": "Goutan",
-    "role": "supporting",
-    "voiceActors": [
-      "tetsu-inada"
-    ],
-    "nameNative": "ゴウタン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+    ]
   },
   {
     "name": "Aizas Edvaughn",
+    "nameNative": "アイザス・エドヴァン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
     "role": "supporting",
     "voiceActors": [
       "kentarou-tone"
-    ],
-    "nameNative": "アイザス・エドヴァン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+    ]
+  },
+  {
+    "name": "Ares",
+    "nameNative": "アレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342590-38kAaKVybBVM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masahiro-itou"
+    ]
+  },
+  {
+    "name": "Cline",
+    "nameNative": "クライン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsumi-fukuhara"
+    ]
+  },
+  {
+    "name": "Goutan",
+    "nameNative": "ゴウタン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Maris Edvan",
+    "nameNative": "マリス・エドヴァン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342589-vt9AOwRFeY7B.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuko-abe"
+    ]
   },
   {
     "name": "Reiss",
+    "nameNative": "リース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
     "role": "supporting",
     "voiceActors": [
       "miyuri-shimabukuro"
-    ],
-    "nameNative": "リース",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+    ]
+  },
+  {
+    "name": "Teal",
+    "nameNative": "テイル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruki-asada"
+    ]
+  },
+  {
+    "name": "Uketsuke-jou",
+    "nameNative": "受付嬢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
   }
 ]
