@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Momonga",
+    "nameNative": "モモンガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png",
+    "role": "main",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Albedo",
+    "nameNative": "アルベド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-hara"
+    ]
+  },
+  {
+    "name": "Aura Bella Fiora",
+    "nameNative": "アウラ・ベラ・フィオーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89129-2Qrm5TnoKYct.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  },
+  {
+    "name": "Baziwood Peshmel",
+    "nameNative": "バジウッド・ペシュメル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179045-26mcpagOji0c.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshikazu-nagano"
+    ]
+  },
+  {
+    "name": "Brain Unglaus",
+    "nameNative": "ブレイン・アングラウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128263-CnJQGDZm6Wo1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Climb",
+    "nameNative": "クライム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128287-MBxEj9BMQKpJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Cocytus",
+    "nameNative": "コキュートス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89138-HUcvLWduh6Mc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Death Cavalier",
+    "nameNative": "デス・キャバリエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b286480-pj8W2fZmndzP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akinori-egoshi"
+    ]
+  },
+  {
+    "name": "Demiurge",
+    "nameNative": "デミウルゴス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masayuki-katou"
+    ]
+  },
+  {
+    "name": "Entoma Vasilissa Zeta",
+    "nameNative": "エントマ・ヴァシリッサ・ゼータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126281-wjpp9rEaovPJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kei-shindou"
+    ]
+  },
+  {
+    "name": "Evileye",
+    "nameNative": "イビルアイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n125881-G7IbEWaUyCqc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumiri-hanamori"
+    ]
+  },
+  {
+    "name": "Fith",
+    "nameNative": "フィース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284923-LHr4pUEVwPwY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ichinose"
+    ]
+  },
+  {
+    "name": "Foire",
+    "nameNative": "フォアイル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130219-MIUf8Ijl9O0h.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miho-okasaki"
+    ]
+  },
+  {
+    "name": "Gagaran",
+    "nameNative": "ガガーラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n127669-8nYP4EnGbCTD.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Gazef Stronoff",
+    "nameNative": "ガゼフ・ストロノーフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126869-oKHjOvk80dD6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shirokuma"
+    ]
+  },
+  {
+    "name": "Hamusuke",
+    "nameNative": "ハムスケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128569-vRysqOLW66l0.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Hilma Cygnaeus",
+    "nameNative": "ヒルマ・シュグネウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191160-V5ICXwV0x3zw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toa-yukinari"
+    ]
+  },
+  {
+    "name": "Jircniv Rune Farlord El Nix",
+    "nameNative": "ジルクニフ・ルーン・ファーロード・エル＝ニクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126961-OS7UfAnUxFfY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Lakyus Alvein Dale Aindra",
+    "nameNative": "ラキュース・アルベイン・デイル・アインドラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n127667-TJXgovPZREO6.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Lilynette Piani",
+    "nameNative": "リリネット・ピアニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312707-njcyujJVmxDt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Mare Bello Fiore",
+    "nameNative": "マーレ・ベロ・フィオーレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89126-1WY1bWNYPg44.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-uchiyama"
+    ]
+  },
+  {
+    "name": "Narberal Gamma",
+    "nameNative": "ナーベラル・ガンマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89152-S3WrhOMakSCq.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Nigredo",
+    "nameNative": "ニグレド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139673-GSlO2IVBGIIW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Osk",
+    "nameNative": "オスク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youji-ueda"
+    ]
+  },
+  {
+    "name": "Pandora's Actor",
+    "nameNative": "パンドラズ・アクタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89154-jbsFsEsjL3aS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Philip Dayton L'Eyre Montserrat",
+    "nameNative": "フィリップ・デイドン・リイル・モチヤラス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174103-ApdxWVMvEVde.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Pluton Ainzach",
+    "nameNative": "プルトン・アインザック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175042-RxEDJ1RzM7c6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kanehira-yamamoto"
+    ]
+  },
+  {
+    "name": "Renner Theiere Chardelon Ryle Vaiself",
+    "nameNative": "ラナー・ティエール・シャルドルン・ライル・ヴァイセルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n127241-jDj7iccxQGdT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyono-yasuno"
+    ]
+  },
+  {
+    "name": "Scama Elbero",
+    "nameNative": "スカマ・エルベロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312706-YiBuFyKh9nhG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Sebas Tian",
+    "nameNative": "セバス・チャン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Shalltear Bloodfallen",
+    "nameNative": "シャルティア・ブラッドフォールン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Shasuryu Shasha",
+    "nameNative": "シャースーリュー・シャシャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127432-i76rwiFQWiO5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-kusumi"
+    ]
+  },
+  {
+    "name": "Tia",
+    "nameNative": "ティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128565-Lhd3G2TBoMJT.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Tina",
+    "nameNative": "ティナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n127670-5YG4iz8L8TSS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-tomita"
+    ]
+  },
+  {
+    "name": "Vesture Kloff Di Laufen",
+    "nameNative": "ヴェスチャー・クロフ・ディ・ローファン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282398-WynEmQH6vVgN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shirou-saitou"
+    ]
+  },
+  {
+    "name": "Zanac Valleon Igana Ryle Vaiself",
+    "nameNative": "ザナック・ヴァルレオン・イガナ・ライル・ヴァイセルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128567-ru0jYrjZSbbs.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-fujiyoshi"
+    ]
+  }
+]
