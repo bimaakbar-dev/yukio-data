@@ -1,0 +1,375 @@
+[
+  {
+    "name": "Anos Voldigoad",
+    "nameNative": "アノス・ヴォルディゴード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138595-Z6j0gP9s7avX.png",
+    "role": "main",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  },
+  {
+    "name": "Misha Necron",
+    "nameNative": "ミーシャ・ネクロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138596-vH3vzyBOd1gO.png",
+    "role": "main",
+    "voiceActors": [
+      "tomori-kusunoki"
+    ]
+  },
+  {
+    "name": "Sasha Necron",
+    "nameNative": "サーシャ・ネクロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139562-DAiieWEILhKa.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuko-natsuyoshi"
+    ]
+  },
+  {
+    "name": "Carsa Kurnoah",
+    "nameNative": "カーサ・クルノア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190119-gTHrfHYJL8gP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomomi-mineuchi"
+    ]
+  },
+  {
+    "name": "Diego Kanon Ijaysica",
+    "nameNative": "ディエゴ・カノン・イジェイシカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211757-6I3uQulgHhAD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-miyamoto"
+    ]
+  },
+  {
+    "name": "Eldora Zaia",
+    "nameNative": "エルドラ・ザイア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211760-KZPB6T5AsCgd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Elen Mihais",
+    "nameNative": "エレン・ミハイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190115-whZFF91sE7cf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-ishihara"
+    ]
+  },
+  {
+    "name": "Eleonore Bianca",
+    "nameNative": "エレオノール・ビアンカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187852-j66BLk5r1tNr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayumi-watabe"
+    ]
+  },
+  {
+    "name": "Elio Ludowell",
+    "nameNative": "エリオ・ルードウェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211765-WOkJeiFGbZEd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Emilia Ludowell",
+    "nameNative": "エミリア・ルードウェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139558-8mO2HyNir1u0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Eugo La Raviaz",
+    "nameNative": "エウゴ・ラ・ラヴィアズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186474-xCJx5NCI5Zaw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-terasoma"
+    ]
+  },
+  {
+    "name": "Fukurou",
+    "nameNative": "フクロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186473-bi6XEqD8aoc1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara",
+      "sachiko-kojima",
+      "tarusuke-shingaki",
+      "sayuri-yahagi"
+    ]
+  },
+  {
+    "name": "Gaios Anzem",
+    "nameNative": "ガイオス・アンゼム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189406-YbkdZUhVNht3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Gusta Raizeo",
+    "nameNative": "グスタ・ライゼオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139560-xpPvpE7PrIp1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinobu-matsumoto"
+    ]
+  },
+  {
+    "name": "Heine Kanon Iorg",
+    "nameNative": "ハイネ・カノン・イオルグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211754-KMAd6vvnGVZV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Himka Houra",
+    "nameNative": "ヒムカ・ホウラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190116-qGIXMsenaPRz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayumi-suzushiro"
+    ]
+  },
+  {
+    "name": "Ivis Necron",
+    "nameNative": "アイヴィス・ネクロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186471-oxBj2Tjuguhz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Izabella",
+    "nameNative": "イザベラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139557-xBMACEOta7IF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-toyosaki"
+    ]
+  },
+  {
+    "name": "Jerga",
+    "nameNative": "ジェルガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211764-Jg39El8dbGri.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Jessica Arnet",
+    "nameNative": "ジェシカ・アーネート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190118-yACXYEj7qDgF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "madoka-asahina"
+    ]
+  },
+  {
+    "name": "Kanon",
+    "nameNative": "カノン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138598-RwaddULdjak7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Krut Ludowell",
+    "nameNative": "クルト・ルードウェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211742-C4ZgDzkA9pdr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tarusuke-shingaki"
+    ]
+  },
+  {
+    "name": "Laos Kanon Jilfor",
+    "nameNative": "ラオス・カノン・ジルフォー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203500-W0bFz26ukwCB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Lay Glanzudlii",
+    "nameNative": "レイ・グランズドリィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186477-kXKXYRygXGTr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-terashima",
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Ledriano Kanon Azeschen",
+    "nameNative": "レドリアーノ・カノン・アゼスチェン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211755-SwWI0JtdpgXn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouhei-kimura"
+    ]
+  },
+  {
+    "name": "Leorig Indu",
+    "nameNative": "リオルグ・インドゥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139561-d6xyJ3o7L2RG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-tachibana"
+    ]
+  },
+  {
+    "name": "Maia Zemut",
+    "nameNative": "マイア・ゼムト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190114-mBIKJI7w0gEw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-oono"
+    ]
+  },
+  {
+    "name": "Medoin Garsa",
+    "nameNative": "メドイン・ガーサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211758-MRwi5vVlGbFK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Melheis Boran",
+    "nameNative": "メルヘイス・ボラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189405-bsjG1wFiyfmO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Menou Historia",
+    "nameNative": "メノウ・ヒストリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211743-xMbHMoLIXkY5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Minsheng Xia",
+    "nameNative": "シア・ミンシェン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190112-ZmnoCq0fx55z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yume-miyamoto"
+    ]
+  },
+  {
+    "name": "Misa Ilioroagu",
+    "nameNative": "ミサ・イリオローグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187851-w2aRRpzk57Jb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nene-hieda"
+    ]
+  },
+  {
+    "name": "Nono Inota",
+    "nameNative": "ノノ・イノータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190113-8UBsW2duZZN9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-shiraishi"
+    ]
+  },
+  {
+    "name": "Revest Aynie",
+    "nameNative": "リーベスト・エイニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211744-C7kcsuKqoFgO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-komada"
+    ]
+  },
+  {
+    "name": "Sheila Glanzudlii",
+    "nameNative": "シーラ・グランズドリィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186478-40C17p2IF8qf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Shelia Nijem",
+    "nameNative": "シェリア・ニジェム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190117-ZTmU563khyxx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuka-amemiya"
+    ]
+  },
+  {
+    "name": "Shin Reglia",
+    "nameNative": "シン・レグリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186472-6beSIv00IXCR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Ydol Anzeo",
+    "nameNative": "イドル・アンゼオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189407-C9VwC3jZHJib.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Zepes Indu",
+    "nameNative": "ゼペス・インドゥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139559-9VEDUPxmDGzT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-eguchi"
+    ]
+  },
+  {
+    "name": "Zeshia Bianca",
+    "nameNative": "ゼシア・ビアンカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211756-062ZRDz3efaS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  },
+  {
+    "name": "Zorro Angart",
+    "nameNative": "ゾロ・アンガート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211759-HGBmEmlGp9go.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  }
+]
