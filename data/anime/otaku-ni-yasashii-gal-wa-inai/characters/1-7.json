@@ -1,65 +1,65 @@
 [
   {
-    "name": "Takuya Seo",
-    "role": "main",
-    "voiceActors": [
-      "shou-komura"
-    ],
-    "nameNative": "瀬尾卓也",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322478-c3YUrKrrsRe5.png"
-  },
-  {
     "name": "Kei Amane",
+    "nameNative": "天音慶",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322471-dNq0qMuEWTly.png",
     "role": "main",
     "voiceActors": [
       "konomi-inagaki"
-    ],
-    "nameNative": "天音慶",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322471-dNq0qMuEWTly.png"
+    ]
   },
   {
     "name": "Kotoko Ijichi",
+    "nameNative": "伊地知琴子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322472-D3TwX3VDjFR5.png",
     "role": "main",
     "voiceActors": [
       "yuu-serizawa"
-    ],
-    "nameNative": "伊地知琴子",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322472-D3TwX3VDjFR5.png"
+    ]
   },
   {
-    "name": "Hibiki Ijichi",
-    "role": "supporting",
+    "name": "Takuya Seo",
+    "nameNative": "瀬尾卓也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322478-c3YUrKrrsRe5.png",
+    "role": "main",
     "voiceActors": [
-      "emiri-katou"
-    ],
-    "nameNative": "伊地知響",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b392457-s9qRN3NFddTX.png"
-  },
-  {
-    "name": "Sayu Amamiya",
-    "role": "supporting",
-    "voiceActors": [
-      "konomi-kohara"
-    ],
-    "nameNative": "雨宮紗優",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b392458-BNRld0fxq791.png"
-  },
-  {
-    "name": "Kakeru Ijichi",
-    "role": "supporting",
-    "voiceActors": [
-      "atsumi-tanezaki"
-    ],
-    "nameNative": "伊地知翔",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b392459-2BF16YfxNEmY.jpg"
+      "shou-komura"
+    ]
   },
   {
     "name": "Genichirou Ijichi",
+    "nameNative": "伊地知弦一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b392460-5LS85d4uWluZ.jpg",
     "role": "supporting",
     "voiceActors": [
       "jun-kasama"
-    ],
-    "nameNative": "伊地知弦一郎",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b392460-5LS85d4uWluZ.jpg"
+    ]
+  },
+  {
+    "name": "Hibiki Ijichi",
+    "nameNative": "伊地知響",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b392457-s9qRN3NFddTX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  },
+  {
+    "name": "Kakeru Ijichi",
+    "nameNative": "伊地知翔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b392459-2BF16YfxNEmY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsumi-tanezaki"
+    ]
+  },
+  {
+    "name": "Sayu Amamiya",
+    "nameNative": "雨宮紗優",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b392458-BNRld0fxq791.png",
+    "role": "supporting",
+    "voiceActors": [
+      "konomi-kohara"
+    ]
   }
 ]
