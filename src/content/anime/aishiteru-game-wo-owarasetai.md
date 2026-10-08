@@ -39,8 +39,8 @@ trailer: "oGJrnyjDbsA"
 draft: false
 ---
 
-Yukiya dan Miku, dua sahabat sejak kecil, memiliki hubungan yang sangat dekat. Mereka berbagi banyak hal dalam hidup mereka, namun ada satu hal yang belum pernah mereka ungkapkan secara terbuka - perasaan mereka.
+Yukiya dan Miku, dua sahabat sejak kecil, memiliki hubungan yang unik. Mereka berbagi banyak hal, namun ada satu hal yang belum pernah mereka ungkapkan secara terbuka: perasaan mereka. Sejak kelas enam SD, mereka bermain "permainan cinta" yang unik, di mana mereka bergiliran mengungkapkan kata-kata manis dan siapa pun yang merasa malu atau tidak nyaman duluan akan dianggap kalah.
 
-Sejak kelas enam SD, mereka bermain "permainan cinta" yang unik. Mereka bergiliran mengungkapkan kata-kata "Aku mencintaimu" dan siapa pun yang terlihat gugup atau tidak nyaman duluan akan dianggap kalah. Permainan ini terus berlanjut hingga mereka berdua memasuki SMA.
+Sekarang mereka sudah berada di sekolah menengah atas, dan hubungan mereka semakin dekat. Namun, pertanyaan besar masih menggantung: apakah mereka akan menemukan keberanian untuk mengungkapkan perasaan sebenarnya? Apakah "permainan cinta" mereka akan berakhir dengan kebenaran yang terungkap, ataukah akan terus berlanjut sebagai sebuah permainan yang tidak pernah usai?
 
-Sekarang, di bangku SMA, Yukiya dan Miku harus menghadapi perasaan mereka yang semakin kompleks. Apakah mereka akan menemukan keberanian untuk mengungkapkan perasaan sebenarnya dan mengakhiri "permainan cinta" yang telah berlangsung lama?
+Dengan latar belakang sekolah menengah atas, kisah Yukiya dan Miku akan membawa kita dalam sebuah petualangan cinta yang penuh dengan kejutan dan ketidakpastian. Apakah mereka akan menemukan cinta sejati, ataukah "permainan cinta" mereka akan terus berlanjut?
