@@ -1,0 +1,415 @@
+[
+  {
+    "name": "Lei Qiang",
+    "nameNative": "羌瘣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65445-bdvFkod8JpZ1.jpg",
+    "role": "main",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Liao Diao He",
+    "nameNative": "河了貂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65407-Thy96GwaSNdf.png",
+    "role": "main",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Xin Li",
+    "nameNative": "李信",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64573-Lketo3ID6eNl.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masakazu-morita"
+    ]
+  },
+  {
+    "name": "Zheng Ying",
+    "nameNative": "嬴政",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64109-L69p4dz68Dms.jpg",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Bi",
+    "nameNative": "壁",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65411-6djQdrUHFtmV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Biao Gong",
+    "nameNative": "麃公",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/121231-uTEKI2nmCXxN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shirou-saitou"
+    ]
+  },
+  {
+    "name": "Buwei Lü",
+    "nameNative": "呂不韋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/66705-6D99gyHLBr8n.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Chang Ping Jun",
+    "nameNative": "昌平君",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70199-Ze0BXbCWJDvx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Chang Wen Jun",
+    "nameNative": "昌文君",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n65399-7Wn91xpF2u3s.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-nakano"
+    ]
+  },
+  {
+    "name": "Chuan Long",
+    "nameNative": "竜川",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132040-hSysIxsf3wRZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenori-takahashi"
+    ]
+  },
+  {
+    "name": "Dao Wei",
+    "nameNative": "尾到",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132047-2KVCx7INDjcN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-takatsuka"
+    ]
+  },
+  {
+    "name": "Duanhe Yang",
+    "nameNative": "楊端和",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b66701-UJIKRkxzzG1D.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mie-sonozaki"
+    ]
+  },
+  {
+    "name": "Hai Qu",
+    "nameNative": "去亥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132055-AO8yE0SkIlzt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiyuki-shimozuma"
+    ]
+  },
+  {
+    "name": "Hai Yin",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132035-jCrKIBw6rVVG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki"
+    ]
+  },
+  {
+    "name": "Ji Wan",
+    "nameNative": "万極",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132056-AxxnnD5VJcqe.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tadashi-mutou"
+    ]
+  },
+  {
+    "name": "Jiao Cheng",
+    "nameNative": "成蟜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65405-fKYBUDi49sTp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-miyata"
+    ]
+  },
+  {
+    "name": "Jio Ba",
+    "nameNative": "バジオウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132037-VH6uAllnGv7l.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tarusuke-shingaki"
+    ]
+  },
+  {
+    "name": "Kai Lan",
+    "nameNative": "ランカイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132046-UpgzEprEbFTQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-takatsuka"
+    ]
+  },
+  {
+    "name": "Lang Pie",
+    "nameNative": "沛浪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132039-v8S2SpQ9K8gu.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuyoshi-koyama"
+    ]
+  },
+  {
+    "name": "Liao",
+    "nameNative": "摎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132043-UkZf4ba2JnR6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ao-takahashi"
+    ]
+  },
+  {
+    "name": "Mu Li",
+    "nameNative": "李牧",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/76788-Ln8sT7C6DhR8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Muta",
+    "nameNative": "ムタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/65401.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "susumu-akagi"
+    ]
+  },
+  {
+    "name": "Nuan Pang",
+    "nameNative": "龐煖",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132045-rxygSKUPZciR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-takatsuka"
+    ]
+  },
+  {
+    "name": "Piao",
+    "nameNative": "漂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n65409-W6TcMtHI6dhA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Ping Wei",
+    "nameNative": "尾平",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132041-9mpKNz9mKLLA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Qi Wang",
+    "nameNative": "王騎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/65443-IJjkkvRrnsvH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Qing",
+    "nameNative": "慶",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132057-kJFmAaizc5QO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuyoshi-aoki"
+    ]
+  },
+  {
+    "name": "Qing Wu",
+    "nameNative": "呉慶",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132048-Q1fbSWC7tpm5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "susumu-akagi"
+    ]
+  },
+  {
+    "name": "Shi Jie",
+    "nameNative": "竭氏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65413-YRAn0wMPZ2ZD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinpachi-tsuji"
+    ]
+  },
+  {
+    "name": "Shi Si",
+    "nameNative": "肆氏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/66779.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akimitsu-takase"
+    ]
+  },
+  {
+    "name": "Shunmen",
+    "nameNative": "シュンメン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132054-CB9doqazXaIW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuyoshi-aoki"
+    ]
+  },
+  {
+    "name": "Si Li",
+    "nameNative": "李斯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70197-rsC2K2pHoifJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuyoshi-aoki"
+    ]
+  },
+  {
+    "name": "Tajifu",
+    "nameNative": "タジフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132051-HrdvQlHhgsLy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenori-takahashi"
+    ]
+  },
+  {
+    "name": "Teng",
+    "nameNative": "騰",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/66931-NgtPIjU6TQnI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-katou"
+    ]
+  },
+  {
+    "name": "Wu Meng",
+    "nameNative": "蒙武",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70195-EG7Jhy0sKpFH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taiten-kusunoki"
+    ]
+  },
+  {
+    "name": "Wu Wei Lu",
+    "nameNative": "録嗚未",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132053-8I1zpBAyt4ov.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-tajiri"
+    ]
+  },
+  {
+    "name": "Xiang Qiang",
+    "nameNative": "羌象",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132052-T3qMaTZ49lJs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yoshida"
+    ]
+  },
+  {
+    "name": "Yi Meng",
+    "nameNative": "蒙毅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132042-v6wKyKCJdco2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumie-mizusawa"
+    ]
+  },
+  {
+    "name": "Yong Tian",
+    "nameNative": "田永",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132050-2qPjZ5lAYt8c.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-tajiri"
+    ]
+  },
+  {
+    "name": "You Long",
+    "nameNative": "竜有",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132034-LuyWP4QJ6Yme.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuyoshi-aoki"
+    ]
+  },
+  {
+    "name": "You Tian",
+    "nameNative": "田有",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132049-sV0NjOri2R9w.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyoshi-hayashi"
+    ]
+  },
+  {
+    "name": "Yuan",
+    "nameNative": "渕",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132036-FAC63v1GN4af.png",
+    "role": "supporting",
+    "voiceActors": [
+      "susumu-akagi"
+    ]
+  },
+  {
+    "name": "Yuan Chong",
+    "nameNative": "崇原",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132044-WWIJlRnNb1mW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenori-takahashi"
+    ]
+  },
+  {
+    "name": "Ze Cai",
+    "nameNative": "蔡澤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70193-zDvsOkAuUmSN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuo-senda"
+    ]
+  },
+  {
+    "name": "Zhuang Zhao",
+    "nameNative": "赵庄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132038-G6ojZwjZOqTf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Zuo Song",
+    "nameNative": "松左",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213918-WF6wAMPB4gPs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-takatsuka"
+    ]
+  }
+]
