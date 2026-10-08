@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Momonga",
+    "nameNative": "モモンガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png",
+    "role": "main",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Albedo",
+    "nameNative": "アルベド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-hara"
+    ]
+  },
+  {
+    "name": "Aura Bella Fiora",
+    "nameNative": "アウラ・ベラ・フィオーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89129-2Qrm5TnoKYct.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  },
+  {
+    "name": "Belius",
+    "nameNative": "ベリュース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175039-q8w0x6oWWrie.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hironori-saitou"
+    ]
+  },
+  {
+    "name": "Bellote",
+    "nameNative": "ベロテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175040-09ThYj4kvdAW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "koutarou-nishiyama"
+    ]
+  },
+  {
+    "name": "Brain Unglaus",
+    "nameNative": "ブレイン・アングラウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128263-CnJQGDZm6Wo1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Brita",
+    "nameNative": "ブリタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175036-DKyLq9N2wdbc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Clementine",
+    "nameNative": "クレマンティーヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128401-ntBGw9BGMacx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Cocytus",
+    "nameNative": "コキュートス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89138-HUcvLWduh6Mc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Demiurge",
+    "nameNative": "デミウルゴス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masayuki-katou"
+    ]
+  },
+  {
+    "name": "Dyne Woodwonder",
+    "nameNative": "ダイン・ウッドワンダー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175037-AQQhRCTTEMEY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-takeuchi"
+    ]
+  },
+  {
+    "name": "Enri Emmot",
+    "nameNative": "エンリ・エモット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128405-Dy4SezyQ9OPV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Entoma Vasilissa Zeta",
+    "nameNative": "エントマ・ヴァシリッサ・ゼータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126281-wjpp9rEaovPJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kei-shindou"
+    ]
+  },
+  {
+    "name": "Gazef Stronoff",
+    "nameNative": "ガゼフ・ストロノーフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126869-oKHjOvk80dD6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shirokuma"
+    ]
+  },
+  {
+    "name": "Hamusuke",
+    "nameNative": "ハムスケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128569-vRysqOLW66l0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Herohero",
+    "nameNative": "ヘロヘロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189116-bzIhFv2jTH12.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junji-majima"
+    ]
+  },
+  {
+    "name": "Igvarge",
+    "nameNative": "イグヴァルジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175043-6KuPpxP8d00W.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-hamazoe"
+    ]
+  },
+  {
+    "name": "Lizzie Bareare",
+    "nameNative": "リィジー・バレアレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128403-gJFHR2J3qMHh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikuko-tani"
+    ]
+  },
+  {
+    "name": "Londres Di Clamp",
+    "nameNative": "ロンデス・ディ・クランプ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175044-rN8ub9tWn8RN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihito-sasaki"
+    ]
+  },
+  {
+    "name": "Lupusregina Beta",
+    "nameNative": "ルプスレギナ・ベータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/126870-DKc1B7cvoUu7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "Mare Bello Fiore",
+    "nameNative": "マーレ・ベロ・フィオーレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89126-1WY1bWNYPg44.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-uchiyama"
+    ]
+  },
+  {
+    "name": "Moknach",
+    "nameNative": "モックナック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175038-LLGIB32hi4fk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-sakurai"
+    ]
+  },
+  {
+    "name": "Narberal Gamma",
+    "nameNative": "ナーベラル・ガンマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89152-S3WrhOMakSCq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manami-numakura"
+    ]
+  },
+  {
+    "name": "Nemu Emmot",
+    "nameNative": "ネム・エモット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128402-6d5Ab9O2ThK8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marika-kouno"
+    ]
+  },
+  {
+    "name": "Nfirea Bareare",
+    "nameNative": "ンフィーレア・バレアレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128404-5ncnTSZPNoKV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Nigun Grid Luin",
+    "nameNative": "ニグン・グリッド・ルーイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141731-hiOr8aSP2tO3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Pandora's Actor",
+    "nameNative": "パンドラズ・アクタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89154-jbsFsEsjL3aS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Pluton Ainzach",
+    "nameNative": "プルトン・アインザック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175042-RxEDJ1RzM7c6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kanehira-yamamoto"
+    ]
+  },
+  {
+    "name": "Sebas Tian",
+    "nameNative": "セバス・チャン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Shalltear Bloodfallen",
+    "nameNative": "シャルティア・ブラッドフォールン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Shizu Delta",
+    "nameNative": "シズ・デルタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/126841-zO8B5EQgj2dj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-seto"
+    ]
+  },
+  {
+    "name": "Solution Epsilon",
+    "nameNative": "ソリュシャン・イプシロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89123-HyiNAMbKvj5E.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Touch Me",
+    "nameNative": "たっち・みー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127437-HHvKoQEugGhN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Yuri Alpha",
+    "nameNative": "ユリ・アルファ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128288-rxWuyLQkxYBL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-igarashi"
+    ]
+  },
+  {
+    "name": "Zach",
+    "nameNative": "ザック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175041-MfVLMK6PeG0l.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-tone"
+    ]
+  }
+]
