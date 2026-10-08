@@ -1,0 +1,396 @@
+[
+  {
+    "name": "Natsuno Yuuki",
+    "nameNative": "結城夏野",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7582-Oq4BTcZZjKI1.png",
+    "role": "main",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Seishin Muroi",
+    "nameNative": "室井静信",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7584-6Foo7nflaoYV.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Sunako Kirishiki",
+    "nameNative": "桐敷沙子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30477-ydht0JHh4Bke.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Toshio Ozaki",
+    "nameNative": "尾崎敏夫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7583-mDBtMyykBIQm.png",
+    "role": "main",
+    "voiceActors": [
+      "tooru-ookawa"
+    ]
+  },
+  {
+    "name": "Akira Tanaka",
+    "nameNative": "田中昭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7580.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-kawakami"
+    ]
+  },
+  {
+    "name": "Aoi Mutou",
+    "nameNative": "武藤葵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36128.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-saitou"
+    ]
+  },
+  {
+    "name": "Atsushi Ookawa",
+    "nameNative": "大川篤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36781.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Azusa Koide",
+    "nameNative": "小出梓",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36337.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayano-ishikawa"
+    ]
+  },
+  {
+    "name": "Chizuko Murasako",
+    "nameNative": "村迫智寿子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/41636.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maki-terakado"
+    ]
+  },
+  {
+    "name": "Chizuru Kirishiki",
+    "nameNative": "桐敷千鶴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30928-1sEWTIDd98y7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-orikasa"
+    ]
+  },
+  {
+    "name": "Father Ozaki",
+    "nameNative": "敏夫の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36126.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-sugawara"
+    ]
+  },
+  {
+    "name": "Hasegawa",
+    "nameNative": "長谷川",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38191.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hayato-nakata"
+    ]
+  },
+  {
+    "name": "Hayami",
+    "nameNative": "速見",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38189.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Hirosawa",
+    "nameNative": "広沢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38192.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Ikumi Itou",
+    "nameNative": "伊藤郁美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36113.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-narahashi"
+    ]
+  },
+  {
+    "name": "Ishida",
+    "nameNative": "石田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35990.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hayato-nakata"
+    ]
+  },
+  {
+    "name": "Kanami Yano",
+    "nameNative": "矢野加奈美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37826.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tamako-nohama"
+    ]
+  },
+  {
+    "name": "Kaori Tanaka",
+    "nameNative": "田中かおり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30499.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-nagashima"
+    ]
+  },
+  {
+    "name": "Kyouko Ozaki",
+    "nameNative": "尾崎恭子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36490.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-mizutani"
+    ]
+  },
+  {
+    "name": "Masao Murasako",
+    "nameNative": "村迫正雄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/33456.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  },
+  {
+    "name": "Megumi Shimizu",
+    "nameNative": "清水恵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7581-nekt7w5vgYGK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Midori Kunihiro",
+    "nameNative": "国広緑",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36491.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-nakamura"
+    ]
+  },
+  {
+    "name": "Mikiyasu Yasumori",
+    "nameNative": "安森幹康",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35991.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hayato-nakata"
+    ]
+  },
+  {
+    "name": "Motoko Maeda",
+    "nameNative": "前田 元子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b39608-E6zTwm9mznqo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-sakamoto"
+    ]
+  },
+  {
+    "name": "Munehide Murasako",
+    "nameNative": "村迫宗秀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36782.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-tsukada"
+    ]
+  },
+  {
+    "name": "Nao Yasumori",
+    "nameNative": "安森奈緒",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36125.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Ritsuko Kunihiro",
+    "nameNative": "国広律子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30500.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-sasaki"
+    ]
+  },
+  {
+    "name": "Satoko Izaki",
+    "nameNative": "井崎聡子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46439.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eimi-okada"
+    ]
+  },
+  {
+    "name": "Seishirou Kirishiki",
+    "nameNative": "桐敷正志郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30576-pTtI3Lx9wwW5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "gackt"
+    ]
+  },
+  {
+    "name": "Setsuko Yasumori",
+    "nameNative": "安森節子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36493.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiko-sawada"
+    ]
+  },
+  {
+    "name": "Shizuka Matsuo",
+    "nameNative": "松尾 静",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36305-mCf25bFwlKSb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mayu-iino"
+    ]
+  },
+  {
+    "name": "Takae Ozaki",
+    "nameNative": "尾崎孝江",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36492.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-yamagata"
+    ]
+  },
+  {
+    "name": "Takami",
+    "nameNative": "高見",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b389265-jBQuroQmVMnZ.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Takatoshi Hirosawa",
+    "nameNative": "広沢高俊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57701.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouhei-kajikawa"
+    ]
+  },
+  {
+    "name": "Tamo Sadaichi",
+    "nameNative": "田茂定市",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38190.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-hirose"
+    ]
+  },
+  {
+    "name": "Tamotsu Mutou",
+    "nameNative": "武藤保",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39593.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuaki-takumi"
+    ]
+  },
+  {
+    "name": "Tatsumi",
+    "nameNative": "辰巳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n32724-R6koo4Abd5Jg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Tomio Ookawa",
+    "nameNative": "大川富雄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36127.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-ishii"
+    ]
+  },
+  {
+    "name": "Tooru Mutou",
+    "nameNative": "武藤徹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n30478-x97ygaKL1FNV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Yasuyo Hashiguchi",
+    "nameNative": "橋口やすよ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37858.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "izumi-sawada"
+    ]
+  },
+  {
+    "name": "Yasuyuki Ootsuka",
+    "nameNative": "大塚康幸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36780.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-endou"
+    ]
+  },
+  {
+    "name": "Yoshie Kurahashi",
+    "nameNative": "倉橋佳枝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37859.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Yuki Shiomi",
+    "nameNative": "汐見雪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37860.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikumi-hayama"
+    ]
+  },
+  {
+    "name": "Yuuki",
+    "nameNative": "結城",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36336.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-endou"
+    ]
+  }
+]
