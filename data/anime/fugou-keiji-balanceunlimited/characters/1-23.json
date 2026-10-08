@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Daisuke Kanbe",
+    "nameNative": "神戸大助",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158386-orMtLSB0aNW8.png",
+    "role": "main",
+    "voiceActors": [
+      "yuusuke-oonuki",
+      "you-taichi"
+    ]
+  },
+  {
+    "name": "Haru Katou",
+    "nameNative": "加藤春",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158385-ewIQvz0SYL1e.png",
+    "role": "main",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Akira Mita",
+    "nameNative": "三田彰",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167554-HwU2vHAaU9kV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Alvarez",
+    "nameNative": "アルバレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184692-xAvE7bnN5hr9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Chosuke Nakamoto",
+    "nameNative": "仲本長介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163729-dAORJxSA3Shn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-kamiya"
+    ]
+  },
+  {
+    "name": "Frantz Weinski",
+    "nameNative": "フランツ・ワインスキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188651-R79MS11tyJbU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-hirata"
+    ]
+  },
+  {
+    "name": "HEUSC",
+    "nameNative": "ヒュスク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167552-nQzbLTg4FfSS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Jirou Hattori",
+    "nameNative": "服部ニ郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189966-O1qHyYgf6PiK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hideaki-tezuka"
+    ]
+  },
+  {
+    "name": "Katsuhiro Takei",
+    "nameNative": "武井克弘",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163731-djdVpGXNGkaE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Kikuko Kanbe",
+    "nameNative": "神戸喜久子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183254-xyymkgr41X3f.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nana-yamaguchi"
+    ]
+  },
+  {
+    "name": "Mahoro Saeki",
+    "nameNative": "佐伯まほろ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163732-goNmZqKi8k6y.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "reina-ueda"
+    ]
+  },
+  {
+    "name": "Mikio Umezu",
+    "nameNative": "梅津三樹夫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167553-tSwz3FgNfzfl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryousuke-takahashi"
+    ]
+  },
+  {
+    "name": "Ricardo",
+    "nameNative": "リカルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184691-yui1vtyMDfUq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Ryou Hoshino",
+    "nameNative": "星野涼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163730-Up0TzWRO38TJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Sayuri Kanbe",
+    "nameNative": "神戸小百合",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187683-ZJIdB9aIs0zT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Shigemaru Kanbe",
+    "nameNative": "神戸茂丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187684-Kcen7KW8LtK6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-miyamoto"
+    ]
+  },
+  {
+    "name": "Shinnosuke Kamei",
+    "nameNative": "亀井新之助",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163728-yzzL7kgwTwtR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-kumagai"
+    ]
+  },
+  {
+    "name": "Suzue Kanbe",
+    "nameNative": "神戸鈴江",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163738-nDhlyPri96kp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Teppei Yumoto",
+    "nameNative": "湯本鉄平",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163733-ngFINeCf3wCh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  },
+  {
+    "name": "Tsuyoshi Nomura",
+    "nameNative": "野村毅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183894-Ulw3LWVMvRq0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akari-kitou"
+    ]
+  },
+  {
+    "name": "Yukihiro  Kiyomizu",
+    "nameNative": "清水幸宏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163727-owVpbGi1JWLp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouzou-shioya"
+    ]
+  },
+  {
+    "name": "Yuta Izezaki",
+    "nameNative": "伊勢崎翔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167551-phEKxMrgIlC7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Yuuichirou Saitou",
+    "nameNative": "斎藤優一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183255-HNOobujj4izD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  }
+]
