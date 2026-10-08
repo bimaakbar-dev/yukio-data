@@ -1,0 +1,37 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "bakemonogatari",
+    "title": "Bakemonogatari"
+  },
+  {
+    "relation": "parent_story",
+    "slug": "nisemonogatari",
+    "title": "Nisemonogatari"
+  },
+  {
+    "relation": "parent_story",
+    "slug": "nekomonogatari-kuro",
+    "title": "Nekomonogatari: Kuro"
+  },
+  {
+    "relation": "parent_story",
+    "slug": "monogatari-series-second-season",
+    "title": "Monogatari Series: Second Season"
+  },
+  {
+    "relation": "parent_story",
+    "slug": "tsukimonogatari",
+    "title": "Tsukimonogatari"
+  },
+  {
+    "relation": "prequel",
+    "slug": "owarimonogatari",
+    "title": "Owarimonogatari"
+  },
+  {
+    "relation": "sequel",
+    "slug": "owarimonogatari-2nd-season",
+    "title": "Owarimonogatari 2nd Season"
+  }
+]
