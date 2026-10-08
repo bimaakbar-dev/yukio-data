@@ -1,0 +1,435 @@
+[
+  {
+    "name": "Allen Walker",
+    "nameNative": "アレン・ウォーカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139-QnuZQbLodMF3.png",
+    "role": "main",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Lavi",
+    "nameNative": "ラビ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b779-kSxmhfuEP2UR.png",
+    "role": "main",
+    "voiceActors": [
+      "kenichi-suzumura"
+    ]
+  },
+  {
+    "name": "Lenalee Lee",
+    "nameNative": "リナリー・リー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141-XOVoHUg6M2kN.png",
+    "role": "main",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Yuu Kanda",
+    "nameNative": "神田ユウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140-vbv18x2l0tDw.png",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Anita",
+    "nameNative": "アニタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/11918.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-takayama"
+    ]
+  },
+  {
+    "name": "Arystar Krory III",
+    "nameNative": "アレイスター・クロウリー三世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2320-0dacmAwRnXCZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuo-iwata"
+    ]
+  },
+  {
+    "name": "Bak Chang",
+    "nameNative": "バク・チャン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6711.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Bookman",
+    "nameNative": "ブックマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3154-qQmTozp8S56f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-aono"
+    ]
+  },
+  {
+    "name": "Cell Roron",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40678.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-madono"
+    ]
+  },
+  {
+    "name": "Chaoji Han",
+    "nameNative": "チャオジー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7099-3h6TBWXe7jgD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Claudia Sardini",
+    "nameNative": "クラウディア・サルディーニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b79925-c8CuTLos59ER.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akemi-okamura"
+    ]
+  },
+  {
+    "name": "Cross Marian",
+    "nameNative": "クロス・マリアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2283-OAmnSWkiGJcG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi"
+    ]
+  },
+  {
+    "name": "Daisya Barry",
+    "nameNative": "デイシャ・バリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3155-qo7iu7r5FOxr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-yanaka"
+    ]
+  },
+  {
+    "name": "Debitto",
+    "nameNative": "デビット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30232-OTE136mHo6m5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Elda",
+    "nameNative": "エルダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12745.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Eliade",
+    "nameNative": "エリアーデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20348-bjV9MLw9LJda.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maya-okamoto"
+    ]
+  },
+  {
+    "name": "Eshi",
+    "nameNative": "エシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30043.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "Fou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6712.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miina-tominaga"
+    ]
+  },
+  {
+    "name": "Froi Tiedoll",
+    "nameNative": "フロワ・テイエドール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9631-91oZ8sEuW9QQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-hashi"
+    ]
+  },
+  {
+    "name": "Gozu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16480.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-nakai"
+    ]
+  },
+  {
+    "name": "Hevlaska",
+    "nameNative": "ヘブラスカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24132-ixtaWRFq2Zm4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Howard Link",
+    "nameNative": "ハワード・リンク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14675-QFstPu9zOPD3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kishio"
+    ]
+  },
+  {
+    "name": "Jake Russell",
+    "nameNative": "ジェイク・ラッセル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38789.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-hoshino"
+    ]
+  },
+  {
+    "name": "Jasdero",
+    "nameNative": "ジャスデロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30231-HokhSDjrYXMt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shoutarou-morikubo"
+    ]
+  },
+  {
+    "name": "Jean",
+    "nameNative": "ジャン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23271.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-sanpei"
+    ]
+  },
+  {
+    "name": "Jeryy",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30856-jmqrmLKOxwTF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-suzuki"
+    ]
+  },
+  {
+    "name": "Jessica",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29519.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Johnny Gill",
+    "nameNative": "ジョニー・ギル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36358-ij2WLWa97jj5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-tsuboi"
+    ]
+  },
+  {
+    "name": "Kevin Yeegar",
+    "nameNative": "ケビン・イェーガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33971-MyI0B40pFy75.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoshi-kawakubo"
+    ]
+  },
+  {
+    "name": "Klaud Nine",
+    "nameNative": "クラウド・ナイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6714-GoGbCOBQWt60.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-katsuki"
+    ]
+  },
+  {
+    "name": "Komui Lee",
+    "nameNative": "コムイ・リー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142-S49HHpPBlxky.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Lala",
+    "nameNative": "ララ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17437.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "houko-kuwashima"
+    ]
+  },
+  {
+    "name": "Lero",
+    "nameNative": "レロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/13293.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Liza",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/45069.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Lou Fa",
+    "nameNative": "ロウファ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14010.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Lulu Bell",
+    "nameNative": "ルル・ベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5229-9HfZugL1rLLt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "arisa-ogasawara"
+    ]
+  },
+  {
+    "name": "Malcom C. Rouvelier",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12945.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusuke-oobayashi"
+    ]
+  },
+  {
+    "name": "Mana Walker",
+    "nameNative": "マナ・ウォーカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9032.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumihiko-tachiki"
+    ]
+  },
+  {
+    "name": "Mei-Ling",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19648.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Mimi",
+    "nameNative": "ミミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8940.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-enomoto"
+    ]
+  },
+  {
+    "name": "Miranda Lotto",
+    "nameNative": "ミランダ・ロットー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b857-EVk4GH6Xbe6R.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Narain",
+    "nameNative": "ナレイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/33024.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-irino"
+    ]
+  },
+  {
+    "name": "Noise Marie",
+    "nameNative": "ノイズ・マリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14527-HoWJPBwntRhx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoyuki-yanada"
+    ]
+  },
+  {
+    "name": "Reever Wenhamm",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6858.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Rikei",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15453.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Road Kamelot",
+    "nameNative": "ロード・キャメロット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b780-QGegNJEufooQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-shimizu"
+    ]
+  },
+  {
+    "name": "Sachiko",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7905.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nazuka"
+    ]
+  },
+  {
+    "name": "Samo Han Wong",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6713-aW1BpmNcSGso.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidekatsu-shibata"
+    ]
+  },
+  {
+    "name": "Sennen Hakushaku",
+    "nameNative": "千年伯爵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b858-09Xx2JSn4pqY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junpei-takiguchi"
+    ]
+  },
+  {
+    "name": "Shifu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17924.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  }
+]
