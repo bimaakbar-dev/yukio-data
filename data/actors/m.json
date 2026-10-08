@@ -91,6 +91,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "makoto-yasumura",
+    "name": "Makoto Yasumura",
+    "nameNative": "保村真",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96074-mcIujin2kl4o.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "mami-kingetsu",
     "name": "Mami Kingetsu",
     "nameNative": "金月真美",
@@ -109,6 +116,13 @@
     "name": "Mamiko Noto",
     "nameNative": "能登麻美子",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "mamoru-miyano",
+    "name": "Mamoru Miyano",
+    "nameNative": "宮野真守",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png",
     "defaultLanguage": "Japanese"
   },
   {
