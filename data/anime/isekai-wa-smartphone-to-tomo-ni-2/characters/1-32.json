@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Elze Silhoueska",
+    "nameNative": "エルゼ・シルエスカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122732-JigJPfeKW3O2.jpg",
+    "role": "main",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Linze Silhoueska",
+    "nameNative": "リンゼ・シルエスカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122733-GuPOvPWFU91H.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yui-fukuo"
+    ]
+  },
+  {
+    "name": "Touya Mochizuki",
+    "nameNative": "望月冬夜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122730-SC9en2JOxQ6y.jpg",
+    "role": "main",
+    "voiceActors": [
+      "katsumi-fukuhara"
+    ]
+  },
+  {
+    "name": "Yae Kokonoe",
+    "nameNative": "九重八重",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122734-lDf5Zyt9b1i4.png",
+    "role": "main",
+    "voiceActors": [
+      "chinatsu-akasaki"
+    ]
+  },
+  {
+    "name": "Yumina Urnea Belfast",
+    "nameNative": "ユミナ・エルネア・ベルファスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122735-w0z8H5SF2yaz.jpg",
+    "role": "main",
+    "voiceActors": [
+      "marika-kouno"
+    ]
+  },
+  {
+    "name": "Alfred Urnea Ortlinde",
+    "nameNative": "アルフレッド・エルネス・オルトリンデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228833-r8izU9qqn4Hw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taiten-kusunoki"
+    ]
+  },
+  {
+    "name": "Bellflora",
+    "nameNative": "ベルフローラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317646-MHld4P1FiD4j.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Cecil",
+    "nameNative": "セシル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228808-bYZYNAqbsPXm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "madoka-yonezawa"
+    ]
+  },
+  {
+    "name": "Doran",
+    "nameNative": "ドラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228812-RoHJwozghuK5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuaki-kanemitsu"
+    ]
+  },
+  {
+    "name": "Ende",
+    "nameNative": "エンデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228813-HNB7hLsfilWD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuma-uchida"
+    ]
+  },
+  {
+    "name": "Francesca",
+    "nameNative": "フランシェスカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157332-SSvk7G3hCFjh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rumi-ookubo"
+    ]
+  },
+  {
+    "name": "Fredmonica",
+    "nameNative": "フレドモニカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312709-aIthzUjM6LIT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miharu-hanai"
+    ]
+  },
+  {
+    "name": "Highrozetta",
+    "nameNative": "ハイロゼッタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317644-PVuZrnK2MEcI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "madoka-asahina"
+    ]
+  },
+  {
+    "name": "Hildegard Minas Lestia",
+    "nameNative": "ヒルデガルド・ミナス・レスティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248013-RAAHKSZNxwRA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-serizawa"
+    ]
+  },
+  {
+    "name": "Kami-sama",
+    "nameNative": "神様",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228802-4gIoiFeACSqJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumihiko-tachiki"
+    ]
+  },
+  {
+    "name": "Kohaku",
+    "nameNative": "琥珀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122738-DrBpEouL0wpV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-kaida"
+    ]
+  },
+  {
+    "name": "Leen",
+    "nameNative": "リーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122737-4WSV7nfAo7Ff.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Logan",
+    "nameNative": "ローガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317643-DqSqT58QDhw5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-komada"
+    ]
+  },
+  {
+    "name": "Lucia Rea Regulus",
+    "nameNative": "ルーシア・レア・レグルス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248011-lsbcNi4FOTJU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-takagi"
+    ]
+  },
+  {
+    "name": "Mika",
+    "nameNative": "ミカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228823-W70RH52K2bID.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-hara"
+    ]
+  },
+  {
+    "name": "Pamela Noel",
+    "nameNative": "パメラノエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317645-hOwsAxGwt4QX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-watada"
+    ]
+  },
+  {
+    "name": "Preliora",
+    "nameNative": "プレリオラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317647-qqRaFSllkmwC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "moe-kahara"
+    ]
+  },
+  {
+    "name": "Prim",
+    "nameNative": "プリム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228817-42rDXQee0LJ4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hazuki-ogino"
+    ]
+  },
+  {
+    "name": "Rebecca",
+    "nameNative": "レベッカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317641-Q0QqXrkZAmjY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sarah-emi-bridcutt"
+    ]
+  },
+  {
+    "name": "Reliel Rehn Refreese",
+    "nameNative": "リリエル・リーム・リーフリース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317642-aieRr9Z6UxUB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  },
+  {
+    "name": "Ren'aishin",
+    "nameNative": "恋愛神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125876-PDL576IdbiqK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Rene",
+    "nameNative": "レネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228828-PqCA3ie9CFhC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshino-aoyama"
+    ]
+  },
+  {
+    "name": "Sakura",
+    "nameNative": "桜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248012-vdKm6Gzgn8Jo.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-kubota"
+    ]
+  },
+  {
+    "name": "Sushie Urnea Ortlinde",
+    "nameNative": "スゥシィ・エルネア・オルトリンデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122736-UM0vGqHMmL16.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nanami-yamashita"
+    ]
+  },
+  {
+    "name": "Tristvin Urnea Belfast",
+    "nameNative": "トリストウィン・エルネス・ベルファスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228834-e3yxVQs12MFn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Yuel Urnea Belfast",
+    "nameNative": "ユエル・エルネア・ベルファスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228832-eK9dRavaw5ZB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-kakazu"
+    ]
+  },
+  {
+    "name": "Zanak Zenfield",
+    "nameNative": "ザナック・ゼンフィールド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228831-4BlVBAjV1zXx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-suzuki"
+    ]
+  }
+]
