@@ -21,6 +21,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "eiji-maruyama",
+    "name": "Eiji Maruyama",
+    "nameNative": "丸山詠二",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/954.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "eiji-miyashita",
     "name": "Eiji Miyashita",
     "nameNative": "宮下栄治",
@@ -119,6 +126,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "eri-sendai",
+    "name": "Eri Sendai",
+    "nameNative": "仙台エリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95523-Z2mIzxl8NgnE.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "eriko-matsui",
     "name": "Eriko Matsui",
     "nameNative": "松井恵理子",
@@ -137,6 +151,13 @@
     "name": "Etsuko Ichihara",
     "nameNative": "市原悦子",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/12070.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "etsuko-kozakura",
+    "name": "Etsuko Kozakura",
+    "nameNative": "小桜エツコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95782-Zova2vUsykFw.png",
     "defaultLanguage": "Japanese"
   }
 ]
