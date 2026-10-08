@@ -1,0 +1,22 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "pokemon",
+    "title": "Pokemon"
+  },
+  {
+    "relation": "other",
+    "slug": "pokemon-pikachu-no-natsuyasumi",
+    "title": "Pokemon: Pikachu no Natsuyasumi"
+  },
+  {
+    "relation": "sequel",
+    "slug": "pokemon-mewtwo-ware-wa-koko-ni-ari",
+    "title": "Pokemon: Mewtwo! Ware wa Koko ni Ari"
+  },
+  {
+    "relation": "alternative",
+    "slug": "pokemon-movie-22-mewtwo-no-gyakushuu-evolution",
+    "title": "Pokemon Movie 22: Mewtwo no Gyakushuu Evolution"
+  }
+]
