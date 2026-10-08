@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Angela Carpenter",
+    "nameNative": "アンジェラ・カーペンター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133662-efUSd1m6wj9e.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Carole Stanley",
+    "nameNative": "キャロル・ステンリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133661-7btserM6DQy2.jpg",
+    "role": "main",
+    "voiceActors": [
+      "miyuri-shimabukuro"
+    ]
+  },
+  {
+    "name": "Tuesday Simmons",
+    "nameNative": "チューズデイ・シモンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133660-CirGi1hfhDzE.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kana-ichinose"
+    ]
+  },
+  {
+    "name": "Bartender",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191566-KOQ9KtYjiX3N.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "riki-kitazawa"
+    ]
+  },
+  {
+    "name": "Benito",
+    "nameNative": "ベニート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139869-UEGpuM7xAaRI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-ochiai"
+    ]
+  },
+  {
+    "name": "Black Knight",
+    "nameNative": "ブラックナイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191563-VdTH0RPc3kh4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Catherine",
+    "nameNative": "カトリーヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139872-Tz05xa0yFcc3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seiko-tamura"
+    ]
+  },
+  {
+    "name": "Crystal",
+    "nameNative": "クリスタル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139579-kchSPXy6XkNf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Cybelle",
+    "nameNative": "シべール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139866-WmNYbTa3hLp8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Dahlia",
+    "nameNative": "ダリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139580-Yb9GzFlOV1vN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenyuu-horiuchi"
+    ]
+  },
+  {
+    "name": "Dann",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143454-iTP4xcrJ1FQW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuki-tani"
+    ]
+  },
+  {
+    "name": "Desmond",
+    "nameNative": "デズモンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143456-osB4U8tdKEV2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Elizabeth",
+    "nameNative": "エリザベス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191564-3hHFiAbpj8Q2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-sadaoka"
+    ]
+  },
+  {
+    "name": "Ertegun",
+    "nameNative": "アーテガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133664-0BoMvVkToIIR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Ezekiel",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145774-8l448t8nWKD9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "subaru-kimura"
+    ]
+  },
+  {
+    "name": "Fire Brothers",
+    "nameNative": "ファイヤー兄弟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139874-RrTFttvUR8hI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouzou-iizuka"
+    ]
+  },
+  {
+    "name": "GGK",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140019-IdtDL7th63Rr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  },
+  {
+    "name": "Gus",
+    "nameNative": "ガス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133666-k2o3rIDBkXci.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Hamilton",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143457-mMK5hIsZU18y.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikuya-sawaki"
+    ]
+  },
+  {
+    "name": "Hofner",
+    "nameNative": "ヘフナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139572-PSlSLJSwgYrK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "IDEA",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191561-MrncC2SJndoI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "uki-satake"
+    ]
+  },
+  {
+    "name": "Jerry",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143458-q1eEBw4J6mWY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-aoyama"
+    ]
+  },
+  {
+    "name": "Joshua",
+    "nameNative": "ヨシュア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139573-UIBcnZiUYuUh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Katy Kimura",
+    "nameNative": "ケイティ・キ厶ラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139868-eowR3hPg8EgF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Kyle",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143455-k0xvRz05pJse.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Landlord",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191565-9upPKxj20KdT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  },
+  {
+    "name": "Marie",
+    "nameNative": "マリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191562-HA5X4Vj7WSx9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Mermaid Sisters",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139873-592PHEQ58Dk5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shintarou-asanuma"
+    ]
+  },
+  {
+    "name": "OG Bulldog",
+    "nameNative": "OGブルドッグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139871-rBiDqs22IzgN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shirokuma"
+    ]
+  },
+  {
+    "name": "Pyotr",
+    "nameNative": "ピョートル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139576-5cuKaJMIG2HP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouta-aoi"
+    ]
+  },
+  {
+    "name": "Roddy",
+    "nameNative": "ロディ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133665-y3jnYEmhnARk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-irino"
+    ]
+  },
+  {
+    "name": "Schwartz",
+    "nameNative": "シュバルツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139574-29HamZmZ8XAp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-sugou"
+    ]
+  },
+  {
+    "name": "Shakti",
+    "nameNative": "シャクティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139870-m6NOEZgL2gtk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Shikaisha",
+    "nameNative": "司会者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183720-s8CKgrnvWktY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-oota"
+    ]
+  },
+  {
+    "name": "Skip",
+    "nameNative": "スキップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139575-45o1m5sfGzdB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Spencer",
+    "nameNative": "スペンサー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139577-dBW3obvVKt9r.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Tao",
+    "nameNative": "タオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133663-UwrwMjdISGSN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Tobe",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143453-xKu9ROYHOOoV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-iwasaki"
+    ]
+  },
+  {
+    "name": "Valerie",
+    "nameNative": "ヴァレリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139578-CRYwENDwnBBA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-miyadera"
+    ]
+  }
+]
