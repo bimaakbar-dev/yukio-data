@@ -39,8 +39,8 @@ trailer: "iiuRyNg3giw"
 draft: false
 ---
 
-Di kota malam yang penuh kekerasan, Night City, hidup beberapa orang yang terjebak dalam lingkaran kekerasan dan balas dendam. Weak, seorang legenda cyberpunk yang telah kehilangan pamornya, kini harus berjuang untuk menemukan tujuan hidupnya tanpa bantuan teknologi canggih. Sementara itu, seorang nomad mematikan bernama D memulai perjalanan balas dendam yang membawanya ke dalam dunia rahasia korporasi.
+Cyberpunk: Edgerunners 2 pulls you back into Night City, where lives become entangled to the extreme. Weak, a washed-up cyberpunk legend, is now forced to live without chrome as he searches for a sense of purpose in a world that’s passed him by. Meanwhile, the deadly nomad D sets out on a path to revenge that brings him close to corpo secrets never meant to be found. Across this ten-episode standalone series, uncover a story of family, obsession, legacy — and how your lens reflects the stories of the people around you..
 
-Dalam seri ini, kita akan menyaksikan kisah-kisah yang saling terkait, penuh aksi, drama, dan konflik. Setiap karakter memiliki cerita yang unik, namun mereka semua terhubung oleh benang merah yang sama - keinginan untuk meninggalkan jejak di dunia yang cepat berubah. 
+When the world is blinded by spectacle, what extremes do you have to go to make your story matter?
 
-Seri ini akan membawa kita ke dalam dunia yang penuh spektakel, di mana setiap orang berjuang untuk membuat cerita mereka didengar. Apa yang harus mereka lakukan untuk membuat suara mereka terdengar di tengah kebisingan kota?
+(Source: Cyberpunk: Edgerunners 2 Official Site, Official Twitter)
