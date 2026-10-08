@@ -1776,6 +1776,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "mitsuaki-hoshi",
+    "name": "Mitsuaki Hoshi",
+    "nameNative": "星光明",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109291-ovGCqQgMVTWn.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "mitsuaki-hoshino",
     "name": "Mitsuaki Hoshino",
     "nameNative": "星野充昭",
@@ -1864,6 +1871,13 @@
     "name": "Mitsutaka Itakura",
     "nameNative": "板倉光隆",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/755.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "mitsutoshi-okada",
+    "name": "Mitsutoshi Okada",
+    "nameNative": "岡田三利",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
     "defaultLanguage": "Japanese"
   },
   {
