@@ -1,5 +1,12 @@
 [
   {
+    "id": "saaya-andou",
+    "name": "Saaya Andou",
+    "nameNative": "安藤紗彩",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n284852-mBzF6MMpJt59.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "sachi-kokuryuu",
     "name": "Sachi Kokuryuu",
     "nameNative": "國立幸",
@@ -1131,6 +1138,13 @@
     "name": "Shouka",
     "nameNative": "翔香",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "shouki-tsuru",
+    "name": "Shouki Tsuru",
+    "nameNative": "鶴翔麒",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n232608-AhXqEEDN2fIc.jpg",
     "defaultLanguage": "Japanese"
   },
   {
