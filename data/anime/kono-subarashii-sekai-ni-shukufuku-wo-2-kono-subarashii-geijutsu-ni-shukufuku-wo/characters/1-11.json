@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Aqua",
+    "nameNative": "アクア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png",
+    "role": "main",
+    "voiceActors": [
+      "sora-amamiya"
+    ]
+  },
+  {
+    "name": "Darkness",
+    "nameNative": "ダクネス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Kazuma Satou",
+    "nameNative": "佐藤和真",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukushima"
+    ]
+  },
+  {
+    "name": "Luna",
+    "nameNative": "ルナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120657-xT7lUbz4uk0k.png",
+    "role": "main",
+    "voiceActors": [
+      "sayuri-hara"
+    ]
+  },
+  {
+    "name": "Megumin",
+    "nameNative": "めぐみん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png",
+    "role": "main",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Bishoujo Golem",
+    "nameNative": "美少女ゴーレム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b236515-uk7Jhd8jmDnZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-nabatame"
+    ]
+  },
+  {
+    "name": "Chomusuke",
+    "nameNative": "ちょむすけ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120654-9yWTm8QyQy0O.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-nabatame"
+    ]
+  },
+  {
+    "name": "Hakase",
+    "nameNative": "博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203544-VRqWI2UWx1SF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Kyouya Mitsurugi",
+    "nameNative": "御剣響夜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136044-VxljJJ3MAor8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-eguchi"
+    ]
+  },
+  {
+    "name": "Ran",
+    "nameNative": "ラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135493-XS518iU4Cpxf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chinatsu-akasaki"
+    ]
+  },
+  {
+    "name": "Waitress",
+    "nameNative": "ウェイトレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b236514-bqJupGFEH4EF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-yamada"
+    ]
+  }
+]
