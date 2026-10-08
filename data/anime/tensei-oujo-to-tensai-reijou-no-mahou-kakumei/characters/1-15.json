@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Anisphia Wynn Palettia",
+    "nameNative": "アニスフィア・ウィン・パレッティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203119-1vybpGB6PaEh.png",
+    "role": "main",
+    "voiceActors": [
+      "sayaka-senbongi"
+    ]
+  },
+  {
+    "name": "Euphyllia Magenta",
+    "nameNative": "ユフィリア・マゼンタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203120-8vNUsyywkAn9.png",
+    "role": "main",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Ilia Coral",
+    "nameNative": "イリア・コーラル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287673-C7AL7s8dn8oe.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Lainie Cyan",
+    "nameNative": "レイニ・シアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287678-KKgVKog8UAve.png",
+    "role": "main",
+    "voiceActors": [
+      "hina-youmiya"
+    ]
+  },
+  {
+    "name": "Algard Von Palettia",
+    "nameNative": "アルガルド・ボナ・パレッティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287676-v4XrtmHu02tp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shougo-sakata",
+      "yui-tsukada"
+    ]
+  },
+  {
+    "name": "Chartreuse Hakushaku",
+    "nameNative": "シャルトールズ伯爵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294139-WejrN5zUxWEQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-tsuyuzaki"
+    ]
+  },
+  {
+    "name": "Dragus Cyan",
+    "nameNative": "ドラグス・シアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b303735-Jf4T0BhnElC0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "motoki-sakuma"
+    ]
+  },
+  {
+    "name": "Grantz Magenta",
+    "nameNative": "グランツ・マゼンタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287675-3rdJ2L6bwL6N.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-tsuboi"
+    ]
+  },
+  {
+    "name": "Lumielle Palettia",
+    "nameNative": "リュミエル・レネ・パレッティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b302699-3ZReJyETKSqt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Moritz Chartreuse",
+    "nameNative": "モーリッツ・シャルトルーズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294140-yAbkqlEwMnZP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taku-yashiro"
+    ]
+  },
+  {
+    "name": "Navre Sprout",
+    "nameNative": "ナヴル・スプラウト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294141-pptWxp4jvewD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-okano"
+    ]
+  },
+  {
+    "name": "Orphans Il Palettia",
+    "nameNative": "オルファンス・イル・パレッティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287677-ApDnW6exOjPu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-hamada"
+    ]
+  },
+  {
+    "name": "Sylphine Maise Palettia",
+    "nameNative": "シルフィーヌ・メイズ・パレッティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287674-2gfHYVxc4iDW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sachiko-kojima"
+    ]
+  },
+  {
+    "name": "Tilty Claret",
+    "nameNative": "ティルティ・クラーレット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287679-pse08YGBKzc6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-sasahara"
+    ]
+  },
+  {
+    "name": "Tomas Gana",
+    "nameNative": "トマス・ガナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b303731-OUblV8ymjTh9.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-wakabayashi"
+    ]
+  }
+]
