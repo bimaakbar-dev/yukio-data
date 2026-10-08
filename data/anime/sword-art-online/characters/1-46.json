@@ -1,0 +1,404 @@
+[
+  {
+    "name": "Asuna Yuuki",
+    "nameNative": "結城明日奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png",
+    "role": "main",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Kazuto Kirigaya",
+    "nameNative": "桐ヶ谷和人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png",
+    "role": "main",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Suguha Kirigaya",
+    "nameNative": "桐ヶ谷直葉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png",
+    "role": "main",
+    "voiceActors": [
+      "ayana-taketatsu"
+    ]
+  },
+  {
+    "name": "Akihiko Kayaba",
+    "nameNative": "茅場晶彦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36829-X5zITNEQ7xij.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Alicia Rue",
+    "nameNative": "アリシャ・ルー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72901-nw8klNK66XFl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Andrew Gilbert Mills",
+    "nameNative": "アンドリュー・ギルバート・ミルズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54099-fOi8orxVTHt1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Atsushi Kanamoto",
+    "nameNative": "金本敦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70687-Au0xDfoUoBGy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Caynz",
+    "nameNative": "カインズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67149-UcNSv3YWMl26.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tokuyoshi-kawashima"
+    ]
+  },
+  {
+    "name": "Daizen",
+    "nameNative": "ダイゼン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213212-i1wewHg54961.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Diavel",
+    "nameNative": "ディアベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65169-1pgUxA6JjpeA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Ducker",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72343-9FiLhXT0s7n9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-eguchi"
+    ]
+  },
+  {
+    "name": "Eugene",
+    "nameNative": "ユージン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72903-sydZD4sXrDTw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Gin",
+    "nameNative": "ギン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249118-3rN7kKZNZONd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomo-muranaka"
+    ]
+  },
+  {
+    "name": "Godfree",
+    "nameNative": "ゴドフリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69403-6C1xSy93KQ51.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-ebara"
+    ]
+  },
+  {
+    "name": "Grimlock",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72345-GDuwlF2SDD0D.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-narita"
+    ]
+  },
+  {
+    "name": "Griselda",
+    "nameNative": "グリセルダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b237215-YkfnRDgLzBdW.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Gtacs",
+    "nameNative": "ジータクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b74093-wjf0CuXflABx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazunari-tanaka"
+    ]
+  },
+  {
+    "name": "Kagemune",
+    "nameNative": "カゲムネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72653-RrSpeYcKmkFs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-madono"
+    ]
+  },
+  {
+    "name": "Keiko Ayano",
+    "nameNative": "綾野珪子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b37681-GDtOAN6NiJ9M.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  },
+  {
+    "name": "Keita",
+    "nameNative": "ケイタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54779-1uCYd8WjboiM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-toyonaga"
+    ]
+  },
+  {
+    "name": "Kibaou",
+    "nameNative": "キバオウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65171-4gM7UgGDU6H5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Kobatz",
+    "nameNative": "コーバッツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72711-bsFEHrmT4rMo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Kuradeel",
+    "nameNative": "クラディール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/66327.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Midori Kirigaya",
+    "nameNative": "桐ヶ谷翠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36833-SeO3lEvZD9m5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Nishida",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72347-CeTuU3U5Jorv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shirou-saitou"
+    ]
+  },
+  {
+    "name": "Nobuyuki Sugou",
+    "nameNative": "須郷伸之",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71581-FHV6DGAjL6vX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Pina",
+    "nameNative": "ピナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212810-jHVw3QgmELu9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shiori-izawa"
+    ]
+  },
+  {
+    "name": "Rika Shinozaki",
+    "nameNative": "篠崎里香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43906-15QwTm2ZFDse.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayahi-takagaki"
+    ]
+  },
+  {
+    "name": "Rosalia",
+    "nameNative": "ロサリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71579-cZZK4dQuCB5d.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Ryoutarou Tsuboi",
+    "nameNative": "壷井遼太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36830-41SWIDvhqOo4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-hirata"
+    ]
+  },
+  {
+    "name": "Sachi",
+    "nameNative": "サチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54777-MduA5ck1lJUy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Sakuya",
+    "nameNative": "サクヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/73811.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yahagi"
+    ]
+  },
+  {
+    "name": "Sasamaru",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72341-gproKJOB1sk4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsubasa-yonaga"
+    ]
+  },
+  {
+    "name": "Sasha",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70677-pAInS7JFbijN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kyouko-fujii"
+    ]
+  },
+  {
+    "name": "Schmitt",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72337-XkWK35oRE9MB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masayuki-katou"
+    ]
+  },
+  {
+    "name": "Shinichi Nagata",
+    "nameNative": "長田伸一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72349-iuPCNOtHjPfX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Shouzou Yuuki",
+    "nameNative": "結城彰三",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36832-q664R7PQXI0o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-yamaji"
+    ]
+  },
+  {
+    "name": "Sigurd",
+    "nameNative": "シグルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72905-IgRbCfHOLSCh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-kirimoto"
+    ]
+  },
+  {
+    "name": "Tetsuo",
+    "nameNative": "テツオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72339-v5tZjV7x5cGO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-akabane"
+    ]
+  },
+  {
+    "name": "Thinker",
+    "nameNative": "シンカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70681-TJpdp1p7Pcuw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daichuu-mizushima"
+    ]
+  },
+  {
+    "name": "Tomo Hosaka",
+    "nameNative": "帆坂カリーナ朋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b66645-Np9FjjBajBkd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shiori-izawa"
+    ]
+  },
+  {
+    "name": "Vassago Casals",
+    "nameNative": "ヴァサゴ・カザルス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70683-5ATgLAHphZtc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuyoshi-koyama"
+    ]
+  },
+  {
+    "name": "Yanai",
+    "nameNative": "柳井",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b221512-upXvuBcIUOmc.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Yolko",
+    "nameNative": "ヨルコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67151.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-yamamoto"
+    ]
+  },
+  {
+    "name": "Yui",
+    "nameNative": "ユイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kanae-itou"
+    ]
+  },
+  {
+    "name": "Yulier",
+    "nameNative": "ユリエール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70679-5pdgQUiIhpGb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouko-shiraishi"
+    ]
+  }
+]
