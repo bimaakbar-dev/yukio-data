@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Joshu",
+    "nameNative": "助手",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136971-hLojNNQeqsq5.png",
+    "role": "main",
+    "voiceActors": [
+      "aoi-ichikawa"
+    ]
+  },
+  {
+    "name": "Senpai",
+    "nameNative": "先輩",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136972-U3h1l0m4KMUP.png",
+    "role": "main",
+    "voiceActors": [
+      "kaede-hondo"
+    ]
+  },
+  {
+    "name": "Madara-san",
+    "nameNative": "斑さん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136973-XHlRNJWK9MW4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Masashi",
+    "nameNative": "正志",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136970-9biUNlpkFt7I.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Mimura",
+    "nameNative": "深村",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326536-3WB4UAOzWovM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiki-masuda"
+    ]
+  },
+  {
+    "name": "Onee-chan",
+    "nameNative": "お姉ちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136974-hQGBSPHlBQCL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "himika-akaneya"
+    ]
+  },
+  {
+    "name": "Saki-chan",
+    "nameNative": "咲ちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136969-pQaVyoNpiCxa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  }
+]
