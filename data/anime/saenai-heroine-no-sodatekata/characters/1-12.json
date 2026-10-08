@@ -18,22 +18,12 @@
     ]
   },
   {
-    "name": "Michiru Hyoudou",
-    "nameNative": "氷堂 美智留",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88752-u8siTVn4S3eG.png",
-    "role": "main",
-    "voiceActors": [
-      "sayuri-yahagi"
-    ]
-  },
-  {
     "name": "Tomoya Aki",
     "nameNative": "安芸倫也",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88747-QKs2TbCGlZr0.png",
     "role": "main",
     "voiceActors": [
-      "yoshitsugu-matsuoka",
-      "you-taichi"
+      "yoshitsugu-matsuoka"
     ]
   },
   {
@@ -43,6 +33,15 @@
     "role": "main",
     "voiceActors": [
       "ai-kayano"
+    ]
+  },
+  {
+    "name": "Akane Kousaka",
+    "nameNative": "紅坂朱音",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199903-k1mlc4yV1Cl0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-nabatame"
     ]
   },
   {
@@ -73,12 +72,12 @@
     ]
   },
   {
-    "name": "Keiichi Kato",
-    "nameNative": "加藤圭一",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195664-kPBqtLBmbYZt.jpg",
+    "name": "Michiru Hyoudou",
+    "nameNative": "氷堂 美智留",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88752-u8siTVn4S3eG.png",
     "role": "supporting",
     "voiceActors": [
-      "souma-saitou"
+      "sayuri-yahagi"
     ]
   },
   {

@@ -1,27 +1,27 @@
 ---
-title: Saenai Heroine no Sodatekata
-titleEnglish: "Saekano: How to Raise a Boring Girlfriend"
-titleNative: 冴えない彼女の育てかた
+title: Saenai Heroine no Sodatekata ♭
+titleEnglish: "Saekano: How to Raise a Boring Girlfriend ♭"
+titleNative: 冴えない彼女の育てかた ♭
 
-malId: 23277
-kitsuId: "8406"
+malId: 30727
+kitsuId: "10909"
 
 type: TV
 status: finished
 source: light_novel
 
-season: winter
-year: 2015
-episodes: 13
-duration: 24
+season: spring
+year: 2017
+episodes: 12
+duration: 23
 # rating: # edit manual
 
 aired:
-  from: "2015-01-09"
-  to: "2015-03-27"
+  from: "2017-04-06"
+  to: "2017-06-23"
 
 stats:
-  score: 7.3
+  score: 7.6
   # scoredBy: # edit manual
 
 genres:
@@ -32,15 +32,17 @@ genres:
 studios:
   - a-1-pictures
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20657-pMZBj6K6mLhi.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20657-rGBsbYGeLLzw.png"
-trailer: "gsZb9-SRDDI"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21180-6ob7MFdjttYe.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21180-wDZxexDX7EBZ.jpg"
+# trailer: # edit manual
 
 draft: false
 ---
 
-The life of Tomoyo Aki, a highschool otaku working part time to support his BD hoarding. With remarkable luck, he bumps head-first into Megumi Kato, the most beautiful girl he has ever seen. Naturally, the meeting twists his life into a complicated torrent of relationships. Eriri Spencer Sawamura, his half-foreigner childhood friend who’s always valued her relationship with MC. Kasumigaoka Utaha, a cold, composed renowned literary genius who shoves everyone aside from our protagonist. What is this? An eroge introduction?
+After finally completing the first route of his visual novel, Blessing Software's producer Tomoya Aki is optimistic about the future of his team and achieving their goal of creating the best game of the season.
 
-The tale of a small not quite doujin circle, but not quite indie studio’s journey through the tough territory of comiket and beyond.
+However, they still have a long way to go. For one, Megumi Katou still has an incredibly flat personality and is unable to fit the role of Tomoya's ideal heroine. The other members of Blessing Software, Eriri Spencer Sawamura, Utaha Kasumigaoka, and Michiru Hyoudou, often forget she is even there due to her lack of presence and character.
+
+Throughout the development of their game, Blessing Software learns the struggles of working in an industry where deadlines must be met and edits are made constantly, and the hardships of working in a group setting.
 
 Note: Includes episode 0.
