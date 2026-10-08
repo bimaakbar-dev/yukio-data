@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Hermes",
+    "nameNative": "エルメス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n88-yhTNhq67e5U2.png",
+    "role": "main",
+    "voiceActors": [
+      "ryuuji-aigase"
+    ]
+  },
+  {
+    "name": "Kino",
+    "nameNative": "キノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87-1sKGYKWY8EHQ.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ai-maeda"
+    ]
+  },
+  {
+    "name": "20 Otoko",
+    "nameNative": "20男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342463-aRFCyzb9zcwE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "30 Otoko",
+    "nameNative": "30男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342462-NXSHzEr2niWy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chafuurin"
+    ]
+  },
+  {
+    "name": "40 Otoko",
+    "nameNative": "40男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342464-k0NbzTHBKwh5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-sugou"
+    ]
+  },
+  {
+    "name": "Aibou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211008-VVKVq1TfyBaE.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "King",
+    "nameNative": "キング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b222597-xt7nIO43ACi9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seizou-katou"
+    ]
+  },
+  {
+    "name": "Kyoshi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Nimya Tchuhachkova",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n23360-ttroEk3W4jmP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kobayashi"
+    ]
+  },
+  {
+    "name": "Otoko",
+    "nameNative": "男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393421-3KjqFQuziWPW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "norihiro-inoue"
+    ]
+  },
+  {
+    "name": "Riku",
+    "nameNative": "陸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n15428-Bajcb77L5cx2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Roujin A",
+    "nameNative": "老人A",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408185-FMWAiQEMC64A.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuji-mizuno"
+    ]
+  },
+  {
+    "name": "Roujin B",
+    "nameNative": "老人B",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408184-SapLXviXJMX5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshinori-mutou"
+    ]
+  },
+  {
+    "name": "Roujin C",
+    "nameNative": "老人C",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408183-dU9cdoQFwqFF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiyuki-kaneko"
+    ]
+  },
+  {
+    "name": "Sakura",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n15429-sLafZTfntwte.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Salaryman",
+    "nameNative": "サラリーマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408186-m4tjfvI0IShE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Shishou",
+    "nameNative": "師匠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b57697-Lba15gfx2EqC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-midori"
+    ]
+  },
+  {
+    "name": "Shizu",
+    "nameNative": "シズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13970-Zvh7azVK7wKR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-irie"
+    ]
+  },
+  {
+    "name": "Yukio",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "seizou-katou"
+    ]
+  }
+]
