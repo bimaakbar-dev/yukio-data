@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Maou",
+    "nameNative": "魔王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49699-clLWMEdcIFQC.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Yuusha",
+    "nameNative": "勇者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49701.jpg",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Ansatsusha",
+    "nameNative": "暗殺者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/82249.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  },
+  {
+    "name": "Ao Ma Shougun",
+    "nameNative": "蒼魔将軍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/82245.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikuya-sawaki"
+    ]
+  },
+  {
+    "name": "Byakuya Ou",
+    "nameNative": "白夜王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78451.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi"
+    ]
+  },
+  {
+    "name": "Chuunen Shounin",
+    "nameNative": "中年商人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/76598.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Dai Shikyou",
+    "nameNative": "大司教",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b82251-QCr4HAGVAl4y.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Fukukan",
+    "nameNative": "副官",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78927.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Fuyu no Ouji",
+    "nameNative": "冬の王子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/76594.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-hirakawa"
+    ]
+  },
+  {
+    "name": "Gunjin Shitei",
+    "nameNative": "軍人子弟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77095.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  },
+  {
+    "name": "Higashi no Saishou",
+    "nameNative": "東の砦将",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78925.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Hikari no Seirei",
+    "nameNative": "光の精霊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/80807.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sumi-shimamoto"
+    ]
+  },
+  {
+    "name": "Himan Ryoushu",
+    "nameNative": "肥満領主",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81287.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-fujiyoshi"
+    ]
+  },
+  {
+    "name": "Hyousetsu no Joou",
+    "nameNative": "氷雪の女王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b78453-TS9JkUTn3SO1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariko-fujii"
+    ]
+  },
+  {
+    "name": "Karyuu Koujo",
+    "nameNative": "火竜公女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79653.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Katame Shirei-kan",
+    "nameNative": "片目司令官",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78921.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Kizoku Shitei",
+    "nameNative": "貴族子弟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77093.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Kokuin Ou",
+    "nameNative": "刻印王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/80805.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Maid Ane",
+    "nameNative": "メイド姉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/76588.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Maid Chou",
+    "nameNative": "メイド長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/76586.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Maid Imouto",
+    "nameNative": "メイド妹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/76590.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Mazoku Goushou",
+    "nameNative": "魔族豪商",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/82241.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akitoshi-kimura"
+    ]
+  },
+  {
+    "name": "Mazoku Musume",
+    "nameNative": "魔族娘",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78449.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eriko-matsui"
+    ]
+  },
+  {
+    "name": "Nanpyou Shougun",
+    "nameNative": "南氷将軍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78923.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shirokuma"
+    ]
+  },
+  {
+    "name": "Onna Kishi",
+    "nameNative": "女騎士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61559.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Onna Mahoutsukai",
+    "nameNative": "女魔法使い",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76584-NyxzCQphtgzM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Ou Otouto Gensui",
+    "nameNative": "王弟元帥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/82247.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Ratsuwan Kaikei",
+    "nameNative": "辣腕会計",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/76600.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-tachibana"
+    ]
+  },
+  {
+    "name": "Rekidai Maou",
+    "nameNative": "歴代魔王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/82243.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "Rou Yumihei",
+    "nameNative": "老弓兵〈執事〉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/76582.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "banjou-ginga"
+    ]
+  },
+  {
+    "name": "Seinen Shounin",
+    "nameNative": "青年商人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/76592.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Shikyou",
+    "nameNative": "司教",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79655.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  },
+  {
+    "name": "Shisha",
+    "nameNative": "使者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79657.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "issei-futamata"
+    ]
+  },
+  {
+    "name": "Shoubyou Mazoku",
+    "nameNative": "傷病魔族",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/82239.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-kabuta"
+    ]
+  },
+  {
+    "name": "Shoukan",
+    "nameNative": "将官",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/80803.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kanehira-yamamoto"
+    ]
+  },
+  {
+    "name": "Shounin Shitei",
+    "nameNative": "商人子弟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77097.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-terashima"
+    ]
+  },
+  {
+    "name": "Tetsukoku Shoui",
+    "nameNative": "鉄国少尉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81291.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-sakurai"
+    ]
+  },
+  {
+    "name": "Tetsuwan Ou",
+    "nameNative": "鉄腕王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78455.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masanori-machida"
+    ]
+  },
+  {
+    "name": "Toujaku Ou",
+    "nameNative": "冬寂王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/76596.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Youhei Taichou",
+    "nameNative": "傭兵隊長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81289.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masuo-amada"
+    ]
+  }
+]
