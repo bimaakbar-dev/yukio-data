@@ -1,5 +1,12 @@
 [
   {
+    "id": "kae-araki",
+    "name": "Kae Araki",
+    "nameNative": "荒木香衣",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95386-rDwf29ehsbAt.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "kaede-hondo",
     "name": "Kaede Hondo",
     "nameNative": "本渡楓",
@@ -448,6 +455,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "kazuko-kojima",
+    "name": "Kazuko Kojima",
+    "nameNative": "こじまかずこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/712.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "kazuko-yoshiyuki",
     "name": "Kazuko  Yoshiyuki",
     "nameNative": "吉行和子",
@@ -837,6 +851,13 @@
     "name": "Kenta Hosoda",
     "nameNative": "細田健太",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n314632-Vfht1ATJqwmZ.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "kenta-kamakari",
+    "name": "Kenta Kamakari",
+    "nameNative": "鎌苅健太",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95680-CDnOMRzFXTfK.jpg",
     "defaultLanguage": "Japanese"
   },
   {
@@ -1502,6 +1523,13 @@
     "name": "Kyouko Fujii",
     "nameNative": "藤井京子",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/19335.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "kyouko-hikami",
+    "name": "Kyouko Hikami",
+    "nameNative": "氷上恭子",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95995-zZU0UQQIQQ3N.png",
     "defaultLanguage": "Japanese"
   },
   {
