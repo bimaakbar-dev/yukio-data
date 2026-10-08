@@ -1,0 +1,32 @@
+[
+  {
+    "relation": "character",
+    "slug": "overlord",
+    "title": "Overlord"
+  },
+  {
+    "relation": "character",
+    "slug": "kono-subarashii-sekai-ni-shukufuku-wo",
+    "title": "Kono Subarashii Sekai ni Shukufuku wo!"
+  },
+  {
+    "relation": "character",
+    "slug": "rezero-kara-hajimeru-isekai-seikatsu",
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu"
+  },
+  {
+    "relation": "character",
+    "slug": "youjo-senki",
+    "title": "Youjo Senki"
+  },
+  {
+    "relation": "prequel",
+    "slug": "isekai-quartet-relay-pvs",
+    "title": "Isekai Quartet Relay PVs"
+  },
+  {
+    "relation": "sequel",
+    "slug": "isekai-quartet-2",
+    "title": "Isekai Quartet 2"
+  }
+]
