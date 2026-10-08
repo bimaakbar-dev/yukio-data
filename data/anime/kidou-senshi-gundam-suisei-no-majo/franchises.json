@@ -1,0 +1,27 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "kidou-senshi-gundam",
+    "title": "Kidou Senshi Gundam"
+  },
+  {
+    "relation": "prequel",
+    "slug": "kidou-senshi-gundam-suisei-no-majo-prologue",
+    "title": "Kidou Senshi Gundam: Suisei no Majo - Prologue"
+  },
+  {
+    "relation": "other",
+    "slug": "shukufuku",
+    "title": "Shukufuku"
+  },
+  {
+    "relation": "summary",
+    "slug": "kidou-senshi-gundam-suisei-no-majo-recap",
+    "title": "Kidou Senshi Gundam: Suisei no Majo Recap"
+  },
+  {
+    "relation": "sequel",
+    "slug": "kidou-senshi-gundam-suisei-no-majo-season-2",
+    "title": "Kidou Senshi Gundam: Suisei no Majo Season 2"
+  }
+]
