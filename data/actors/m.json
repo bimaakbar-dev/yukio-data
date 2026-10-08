@@ -49,6 +49,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "mai-kanno",
+    "name": "Mai Kanno",
+    "nameNative": "菅野真衣",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153576-YENM7J8rgjY1.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "mai-nakahara",
     "name": "Mai Nakahara",
     "nameNative": "中原麻衣",
@@ -249,6 +256,13 @@
     "name": "Marie Hatanaka",
     "nameNative": "畑中万里江",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n179000-aftYRCPnJvkS.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "marie-miyake",
+    "name": "Marie Miyake",
+    "nameNative": "三宅麻理恵",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/12588.jpg",
     "defaultLanguage": "Japanese"
   },
   {
