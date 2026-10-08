@@ -1,0 +1,336 @@
+[
+  {
+    "name": "Enjin",
+    "nameNative": "エンジン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266438-3Veykti1lXgg.png",
+    "role": "main",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Riyou Reaper",
+    "nameNative": "リヨウ・リーパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b275749-fglzDjaLZh1H.png",
+    "role": "main",
+    "voiceActors": [
+      "yumiri-hanamori"
+    ]
+  },
+  {
+    "name": "Rudo",
+    "nameNative": "ルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266433-8JWks5k2OPJn.png",
+    "role": "main",
+    "voiceActors": [
+      "aoi-ichikawa",
+      "you-taichi"
+    ]
+  },
+  {
+    "name": "Zanka Nijiku",
+    "nameNative": "ザンカ・ニジク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268742-PSWLnWDJH7HJ.png",
+    "role": "main",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Alha Korvus",
+    "nameNative": "アルハ・コルバス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298957-y1XZXuqoXtOy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Alice Stilza",
+    "nameNative": "スティルザアリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298963-BEjtNOkIM70O.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "Amo Empool",
+    "nameNative": "アモ・エンプール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298929-FPGX8O3DHcoL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Amo no Haha",
+    "nameNative": "アモの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401148-iIa46rSAfLpd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-imai"
+    ]
+  },
+  {
+    "name": "Arashiya no Onna",
+    "nameNative": "荒らし屋の女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b372394-Pzn4BLVJwRLF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "arisa-shida"
+    ]
+  },
+  {
+    "name": "August Stilza",
+    "nameNative": "オーガスト・スティルザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298961-rm1FALxMHvKK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Bro Santa",
+    "nameNative": "ブロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306960-P1LtqzRBOmOB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Bundus Begalkeit",
+    "nameNative": "ブンドゥス・ベガルケイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327270-D6J4vLE4uFyQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Chiwa",
+    "nameNative": "チワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266434-Wkjo1jlTgDCm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miku-itou"
+    ]
+  },
+  {
+    "name": "Cthoni Andor",
+    "nameNative": "クトーニ・アンドール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298955-Ck2LPSBKjaQ3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayahi-takagaki"
+    ]
+  },
+  {
+    "name": "Dear Santa",
+    "nameNative": "ディア・サンタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306959-Peh0lBGX3Qbw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-satou"
+    ]
+  },
+  {
+    "name": "Delmon Gates",
+    "nameNative": "デルモン・ゲイツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298960-Vahr3stH631y.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masami-iwasaki"
+    ]
+  },
+  {
+    "name": "Eishia Stilza",
+    "nameNative": "エイシア・スティルザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298962-lOEicLlWzNax.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Follo Tunito",
+    "nameNative": "フォロ・ツニート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298954-ciXAKksdyGJv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuki-ura"
+    ]
+  },
+  {
+    "name": "Fu Orostor",
+    "nameNative": "フウ・オロストル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b336645-9F01WXTyb3Ek.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Gnomulas Ridd",
+    "nameNative": "グノムラース・リド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375013-SY4oUkh5vY9t.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youji-ueda"
+    ]
+  },
+  {
+    "name": "Gob",
+    "nameNative": "ゴブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298956-02k1tGCJwDeL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-gotou"
+    ]
+  },
+  {
+    "name": "Gris Rubion",
+    "nameNative": "グリス・ルビオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298958-2U6c3So0i8l4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Guita Heavy Fantasia",
+    "nameNative": "ギータ・ヘビィ・ファンタジア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306965-O9SMKXV4LB4f.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maria-naganawa"
+    ]
+  },
+  {
+    "name": "Hyou",
+    "nameNative": "ヒョウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b344055-xoN8p0z6PeKN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nazuka"
+    ]
+  },
+  {
+    "name": "Jabber Wonger",
+    "nameNative": "ジャバー・ウォンガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298953-2HajxxsIx9wd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-shin"
+    ]
+  },
+  {
+    "name": "Konza",
+    "nameNative": "コンザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b372395-4r6oHRtZo8UC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihito-sasaki"
+    ]
+  },
+  {
+    "name": "Kyouka Nijiku",
+    "nameNative": "キョウカ・ニジク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355712-qwPl0imTbcHg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Mister",
+    "nameNative": "おじさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401149-Mk1DRNiAj4Fy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenobu-kiuchi"
+    ]
+  },
+  {
+    "name": "Mymo",
+    "nameNative": "マイモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376738-XOlpqVdM5Sdg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Noerde Hew Amozo",
+    "nameNative": "ネルデ・ヒュウ・アモゾ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306961-5xWPdrIBUHoc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Regto",
+    "nameNative": "レグト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266437-sUIpywq7P310.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Remlin Tissark",
+    "nameNative": "ティサークレムリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298959-ECaxJ4FdBKds.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-sanpei"
+    ]
+  },
+  {
+    "name": "Semiu Grier",
+    "nameNative": "セミュ・グライア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298949-l3RnVSHlyRc3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mie-sonozaki"
+    ]
+  },
+  {
+    "name": "Shikage",
+    "nameNative": "シカゲ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b377976-2uAxPLWJUHBv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Tamsy Caines",
+    "nameNative": "タムジー・ケインズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291689-qUluOFlz7ZiD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Tomme Mima",
+    "nameNative": "トウム・ミマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298950-mRn2Qs3KAJ5a.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-toujou"
+    ]
+  },
+  {
+    "name": "Zodyl Typhon",
+    "nameNative": "ゾディル・テュフォン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306966-TzwtOoEHRWrU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  }
+]
