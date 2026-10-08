@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Hibiki",
+    "nameNative": "ヒビキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264092-iTirmZyjTf1V.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-shison"
+    ]
+  },
+  {
+    "name": "Uta",
+    "nameNative": "ウタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264094-vsz8FFCxivzA.png",
+    "role": "main",
+    "voiceActors": [
+      "riria"
+    ]
+  },
+  {
+    "name": "Denki Ninja",
+    "nameNative": "電気ニンジャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264099-LERzhB6d1sOh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tasuku-hatanaka"
+    ]
+  },
+  {
+    "name": "Isozaki",
+    "nameNative": "イソザキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b288511-wCFuQdbu2PG3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Kai",
+    "nameNative": "カイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264097-FD6AnzJoggkK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Kanto Mad Lobster",
+    "nameNative": "関東マッドロブスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264101-zfMt748pXXDQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Makoto",
+    "nameNative": "マコト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264095-afOF6YFmt0V5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "alice-hirose"
+    ]
+  },
+  {
+    "name": "Oosawa",
+    "nameNative": "オオサワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b288512-MNigasxoubis.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Shin",
+    "nameNative": "シン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264096-4Hb0TI1JuOUo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Undertaker",
+    "nameNative": "アンダーテイカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264100-mYEZYtL2r5Fd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Usagi",
+    "nameNative": "ウサギ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264098-pGpI0bylCM84.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-senbongi"
+    ]
+  }
+]
