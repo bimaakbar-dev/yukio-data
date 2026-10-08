@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Nagomi Wahira",
+    "nameNative": "和平なごみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280138-lx72YdJwb69p.png",
+    "role": "main",
+    "voiceActors": [
+      "reina-kondou"
+    ]
+  },
+  {
+    "name": "Ranko Mannen",
+    "nameNative": "万年嵐子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280139-ggy1EZrWa0up.png",
+    "role": "main",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Akai",
+    "nameNative": "赤井",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292051-FHUfnLNTCHS1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-kaneko"
+    ]
+  },
+  {
+    "name": "Aota",
+    "nameNative": "青田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292052-lZY6mr1qHOoq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouta-hayama"
+    ]
+  },
+  {
+    "name": "Chuki-chuki Tsuki-chan Maid",
+    "nameNative": "チュキチュキつきちゃんメイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289069-W0cU0d4WL7np.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aina-suzuki"
+    ]
+  },
+  {
+    "name": "Chuki-chuki Tsuki-chan Tenchou",
+    "nameNative": "チュキチュキつきちゃん店長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289068-77BkFNP1Y8hl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayana-taketatsu"
+    ]
+  },
+  {
+    "name": "Chuuken Maydog Tenchou",
+    "nameNative": "忠犬メイドッグ店長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290357-nXmyO0bE9lRP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saima-nakano"
+    ]
+  },
+  {
+    "name": "Dealer Maid",
+    "nameNative": "ディーラーメイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289410-4hvUDHCBMnSJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "Eru",
+    "nameNative": "エル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292761-TC36zraXk40u.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hibiku-yamamura"
+    ]
+  },
+  {
+    "name": "Fight Club Jouren Kyaku",
+    "nameNative": "ファイトクラブ常連客",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289918-RCAgQpW5sxFk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Fukuronezumi Ace Maid",
+    "nameNative": "袋鼠エースメイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289074-PDwJkTYkUFu0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiko-mizumori"
+    ]
+  },
+  {
+    "name": "Fukuronezumi Yakuin",
+    "nameNative": "袋鼠役員",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293289-G6hUODe82Ud7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Hitsuji Ace Maid",
+    "nameNative": "羊エースメイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289075-RFChaRw3qydz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saima-nakano"
+    ]
+  },
+  {
+    "name": "Kaoruko",
+    "nameNative": "薫子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290855-rvUBwU85xCfw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-ogura"
+    ]
+  },
+  {
+    "name": "Kasumi",
+    "nameNative": "カスミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292762-TFyY4iGnij8r.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-kanazawa"
+    ]
+  },
+  {
+    "name": "Kazue Ugaki",
+    "nameNative": "宇垣和枝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291434-lZpz69fGNBW4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-saitou"
+    ]
+  },
+  {
+    "name": "Keiji",
+    "nameNative": "刑事",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291436-BoqfLKfd1Qrm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "dai-matsumoto"
+    ]
+  },
+  {
+    "name": "Kijima",
+    "nameNative": "木島",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289914-vizSCS1lQ0EH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-madono"
+    ]
+  },
+  {
+    "name": "Kirin Tenchou",
+    "nameNative": "キリン店長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290359-XhEhXabeeza8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fuuko-saitou"
+    ]
+  },
+  {
+    "name": "Kitsune Ace Maid",
+    "nameNative": "狐エースメイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289073-zeKpKXVsrDGA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-sekine"
+    ]
+  },
+  {
+    "name": "Konkon Cafe Tenchou",
+    "nameNative": "コンコンカフェ店長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290356-t9qPwekq5F2o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Kuma Ace Maid",
+    "nameNative": "熊エースメイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289072-qr6PBkP49awX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shino-shimoji"
+    ]
+  },
+  {
+    "name": "Kuma Yakuin",
+    "nameNative": "熊役員",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293288-BkmBnfcjrVmF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Manami",
+    "nameNative": "愛美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291429-7qjl08ylFvX7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-yurin"
+    ]
+  },
+  {
+    "name": "Michiyo",
+    "nameNative": "美千代",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289065-uN6Mto4LOF99.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Midorikawa",
+    "nameNative": "緑川",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292053-wTHb0j5Yet12.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuki-ura"
+    ]
+  },
+  {
+    "name": "Minori Sano",
+    "nameNative": "佐野みのり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290355-pokdIJV3glp9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Miyabi",
+    "nameNative": "みやび",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291430-WkeMC6Ydohcn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Molly",
+    "nameNative": "モリィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292763-3fFk1NgiDh3P.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-ishigami"
+    ]
+  },
+  {
+    "name": "Nagi",
+    "nameNative": "凪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290354-XzhsK4sBZAra.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-minagawa"
+    ]
+  },
+  {
+    "name": "Neko Ace Maid",
+    "nameNative": "猫エースメイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289071-AD4ySVKloQoM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satsumi-matsuda"
+    ]
+  },
+  {
+    "name": "Neko Yakuin",
+    "nameNative": "猫役員",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293287-hiHxOvuPBne8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Nerula",
+    "nameNative": "ねるら",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289408-cp1xCmXLd9II.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Okachimachi",
+    "nameNative": "御徒町",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b285834-LVnItBYQ0srh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hirano"
+    ]
+  },
+  {
+    "name": "Omoe-sama",
+    "nameNative": "お萠様",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293293-c9FdLUwKRnvr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Pure Milky Masami",
+    "nameNative": "ピュアミルキーまさみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289917-nzbtyDSy2ASL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "azumi-waki"
+    ]
+  },
+  {
+    "name": "Shino Gotou",
+    "nameNative": "後藤志乃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b285831-bAVuVH5jPthV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyo-kurosawa"
+    ]
+  },
+  {
+    "name": "Shinryaku Cafe Destron Tenchou",
+    "nameNative": "侵略カフェですとろん店長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291435-S4bR0yJpPqUI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-uchiyama"
+    ]
+  },
+  {
+    "name": "Shishi Ace Maid",
+    "nameNative": "獅子エースメイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293286-KkL1rWBo8cBv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Suehiro",
+    "nameNative": "末広",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292050-eXoles4zCHn8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Taishou",
+    "nameNative": "大将",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289066-lA2NpFDTCj70.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuyoshi-koyama"
+    ]
+  },
+  {
+    "name": "Tateno Taira",
+    "nameNative": "平伊達乃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289911-KWtV3renHs46.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-nabatame"
+    ]
+  },
+  {
+    "name": "Toritateya",
+    "nameNative": "取り立て屋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289067-jSZMy3rgrE1k.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Uchi Ace Maid",
+    "nameNative": "牛エースメイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289070-NJh1A2L2VdOp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-tomita"
+    ]
+  },
+  {
+    "name": "Usagi Tenchou",
+    "nameNative": "ウサギ店長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290358-AIfSrH3XNdfR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiko-mizumori"
+    ]
+  },
+  {
+    "name": "Ushi Yakuin",
+    "nameNative": "牛役員",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292766-HWnvIAY1ZWJp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nakamura"
+    ]
+  },
+  {
+    "name": "Yamikin Gyosha Daihyo",
+    "nameNative": "闇金業者代表",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289409-kA0WdlNlvwBd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-ono"
+    ]
+  },
+  {
+    "name": "Yasuko Yaegashi",
+    "nameNative": "八重樫靖子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b285833-elseeD3uLCi2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayahi-takagaki"
+    ]
+  },
+  {
+    "name": "Yume Hiiragi",
+    "nameNative": "柊結夢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b285827-BtdYQTPPiEMp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-tanaka"
+    ]
+  },
+  {
+    "name": "Zoya",
+    "nameNative": "ゾーヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289910-W0WBsm8e4edE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jenya-davidyuk"
+    ]
+  }
+]
