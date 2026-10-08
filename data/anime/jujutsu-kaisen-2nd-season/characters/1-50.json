@@ -1,0 +1,455 @@
+[
+  {
+    "name": "Megumi Fushiguro",
+    "nameNative": "伏黒恵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuma-uchida",
+      "natsumi-fujiwara"
+    ]
+  },
+  {
+    "name": "Nobara Kugisaki",
+    "nameNative": "釘崎野薔薇",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png",
+    "role": "main",
+    "voiceActors": [
+      "asami-seto"
+    ]
+  },
+  {
+    "name": "Satoru Gojou",
+    "nameNative": "五条悟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuichi-nakamura",
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Suguru Getou",
+    "nameNative": "夏油傑",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133699-FCnXaISgazAi.png",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Yuuji Itadori",
+    "nameNative": "虎杖悠仁",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png",
+    "role": "main",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Akari Nitta",
+    "nameNative": "新田明",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210846-XcRQ643Ne8Pb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sora-tokui"
+    ]
+  },
+  {
+    "name": "Aoi Toudou",
+    "nameNative": "東堂葵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137975-6TH7PiLWJaqy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "subaru-kimura"
+    ]
+  },
+  {
+    "name": "Arata Nitta",
+    "nameNative": "新田新",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320325-uGhurK5IhUeO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-asari"
+    ]
+  },
+  {
+    "name": "Atsuya Kusakabe",
+    "nameNative": "日下部篤也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205234-nrush17kFWaE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Batta no Noroi",
+    "nameNative": "バッタの呪い",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306261-Ms5bd10bi0Ug.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-kanuka"
+    ]
+  },
+  {
+    "name": "Bayer",
+    "nameNative": "バイエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306267-7QXgLLV4bMVB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukitoshi-tokumoto"
+    ]
+  },
+  {
+    "name": "Chousou",
+    "nameNative": "脹相",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157116-2jYQf3y8NeTZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Dagon",
+    "nameNative": "陀艮",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204383-5oTlVPpaCnM2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake",
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Fumi",
+    "nameNative": "ふみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306270-nVoUKYUK7IsP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "azusa-aoi"
+    ]
+  },
+  {
+    "name": "Hanami",
+    "nameNative": "花御",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172743-4Y5SXqED6A3G.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Haruta Shigemo",
+    "nameNative": "重面春太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b209694-xSS6FxN4al3l.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Housougami",
+    "nameNative": "疱瘡神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306263-P94VBlsmRYOb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-murai"
+    ]
+  },
+  {
+    "name": "Jirou Awasaka",
+    "nameNative": "粟坂二良",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306253-PYrfBHAfYvsb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minoru-hirota"
+    ]
+  },
+  {
+    "name": "Jougo",
+    "nameNative": "漏瑚",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156991-niYjdp9CxO4w.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Kakunou Jurei",
+    "nameNative": "格納呪霊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311131-OS4dUGlxR6OH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayano-shibuya"
+    ]
+  },
+  {
+    "name": "Kamibukuro Jusoshi",
+    "nameNative": "紙袋呪詛師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b310091-M3rC4FXthPtm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "seiyuu-fujiwara"
+    ]
+  },
+  {
+    "name": "Kasumi Miwa",
+    "nameNative": "三輪霞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156848-Rf0tuoQCNyZV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chinatsu-akasaki"
+    ]
+  },
+  {
+    "name": "Kenjaku",
+    "nameNative": "羂索",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289584-KndGudJZm5Ik.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Kento Nanami",
+    "nameNative": "七海建人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Kiyotaka Ijichi",
+    "nameNative": "伊地知潔高",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189238-ItSLams6lRk9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuo-iwata"
+    ]
+  },
+  {
+    "name": "Koukichi Muta",
+    "nameNative": "与幸吉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210154-nIn9DX39GFKP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Koukun",
+    "nameNative": "コークン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306268-49iFgcDudSAC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuki-kyan"
+    ]
+  },
+  {
+    "name": "Kuchisake-Onna",
+    "nameNative": "口裂け女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306192-Xo6IC6JP7LwG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroko-kiso"
+    ]
+  },
+  {
+    "name": "Larue",
+    "nameNative": "ラルゥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268297-zQ48F3PoVldl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Mago",
+    "nameNative": "孫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306248-NefuODIxBeG1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuunosuke-watanuki"
+    ]
+  },
+  {
+    "name": "Mahito",
+    "nameNative": "真人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133702-Y7JRG5vAvjIL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Mai Zenin",
+    "nameNative": "禪院真依",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134168-FdWz5w2LqpeF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Maki Zenin",
+    "nameNative": "禪院真希",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134167-5TCytk45YByD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "Manami Suda",
+    "nameNative": "菅田真奈美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306254-rcw8cnkJlTak.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Masamichi Yaga",
+    "nameNative": "夜蛾正道",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189237-ZxNJwVPL8DvW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kuroda"
+    ]
+  },
+  {
+    "name": "Mei Mei",
+    "nameNative": "冥冥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157215-I3TQJu8nkDwD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kotono-mitsuishi"
+    ]
+  },
+  {
+    "name": "Mimiko Hasaba",
+    "nameNative": "枷場美々子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228986-TXJuABOhrxRA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "risae-matsuda"
+    ]
+  },
+  {
+    "name": "Misato Kuroi",
+    "nameNative": "黒井美里",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b255175-rOyuWgBm6W9M.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "risa-shimizu"
+    ]
+  },
+  {
+    "name": "Momo Nishimiya",
+    "nameNative": "西宮桃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157868-Ui2Wht3M6tlM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Nanako Hasaba",
+    "nameNative": "枷場菜々子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228987-Su63YTP33b6W.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satsumi-matsuda"
+    ]
+  },
+  {
+    "name": "Naobito Zenin",
+    "nameNative": "禪院直毘人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188432-WePQBJsEuSts.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Niji Ebina",
+    "nameNative": "蛯名仁次",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306250-JBBTTynIbY7r.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hironori-kondou"
+    ]
+  },
+  {
+    "name": "Nobuko Takada",
+    "nameNative": "高田延子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197119-Z2EBJXGTATzN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyo-kurosawa"
+    ]
+  },
+  {
+    "name": "Noritoshi  Kamo",
+    "nameNative": "加茂憲紀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157866-UWDtYBoG71PD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Ogami",
+    "nameNative": "オガミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306252-YS8dqn5XWzgT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-karasawa"
+    ]
+  },
+  {
+    "name": "Panda",
+    "nameNative": "パンダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137974-9qnK3DPrvLKh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Riko Amanai",
+    "nameNative": "天内理子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203015-ez2Io1gxIQOP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "anna-nagase"
+    ]
+  },
+  {
+    "name": "Rourei Jusoshi",
+    "nameNative": "老齢呪詛師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b310092-WElPSHDHTZDc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoki-bandou"
+    ]
+  },
+  {
+    "name": "Saori",
+    "nameNative": "沙織",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306279-l9Y1HkUViIUc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-suegara"
+    ]
+  },
+  {
+    "name": "Shigeru Sonoda",
+    "nameNative": "園田茂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306269-fPh6fXzI2WZO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-sakuya"
+    ]
+  }
+]
