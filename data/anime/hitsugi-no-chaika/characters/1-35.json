@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Akari Acura",
+    "nameNative": "アカリ・アキュラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/53373.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuko-hara"
+    ]
+  },
+  {
+    "name": "Chaika Trabant",
+    "nameNative": "チャイカ・トラバント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b53369-wsbFRrhD0ksP.jpg",
+    "role": "main",
+    "voiceActors": [
+      "chika-anzai"
+    ]
+  },
+  {
+    "name": "Toru Acura",
+    "nameNative": "トール・アキュラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/53371.jpg",
+    "role": "main",
+    "voiceActors": [
+      "junji-majima",
+      "yuka-terasaki"
+    ]
+  },
+  {
+    "name": "Albéric Gillette",
+    "nameNative": "アルベリック・ジレット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88276.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Anton Ivanov",
+    "nameNative": "アントン・イワノフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-miyamoto"
+    ]
+  },
+  {
+    "name": "Bernard Chizeta",
+    "nameNative": "バーナード・チゼータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b382585-N3rdAb7nB6qq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "koutarou-nakamura"
+    ]
+  },
+  {
+    "name": "Chaika Bohdan",
+    "nameNative": "チャイカ・ボフダーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88277.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saeko-zougou"
+    ]
+  },
+  {
+    "name": "David",
+    "nameNative": "ダヴィード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b209090-vnyTcRMZz3bO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoshi-katsunuma"
+    ]
+  },
+  {
+    "name": "Dominica Skoda",
+    "nameNative": "ドミニカ・スコダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88282.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Dorado Denisov",
+    "nameNative": "ドラド・デニーソフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kento-fujinuma"
+    ]
+  },
+  {
+    "name": "Efrem Berman",
+    "nameNative": "エフレム・ベルマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuki-souya"
+    ]
+  },
+  {
+    "name": "Flor",
+    "nameNative": "フロル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383004-OQDshJMYenoP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-nara"
+    ]
+  },
+  {
+    "name": "Foden",
+    "nameNative": "フォーテン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383014-fayVTn9bPgUd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-aoyama"
+    ]
+  },
+  {
+    "name": "Fredrica",
+    "nameNative": "フレドリカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88274.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Grado Francia",
+    "nameNative": "グラート・ランシア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383012-plGoPIt3p8mk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi"
+    ]
+  },
+  {
+    "name": "Guy",
+    "nameNative": "ギイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88279.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Hasumin Uuro",
+    "nameNative": "ハスミン・ウーロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383008-kjzgmCwJsKKF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akane-kohinata"
+    ]
+  },
+  {
+    "name": "Karen Bombardier",
+    "nameNative": "カレン・ポンバルディア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b382574-1am8N70u8npN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-oozora"
+    ]
+  },
+  {
+    "name": "Konrad Steinmetz",
+    "nameNative": "コンラート・シュタインメッツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b382573-8MIT42z4h31q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuo-kanao"
+    ]
+  },
+  {
+    "name": "Lavr",
+    "nameNative": "ラーヴル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383003-g8IH4QzCR7zn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-yanaka"
+    ]
+  },
+  {
+    "name": "Layla",
+    "nameNative": "レイラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88278.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-makino"
+    ]
+  },
+  {
+    "name": "Leonardo Stora",
+    "nameNative": "レオナルド・ストーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88283.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazutomi-yamamoto"
+    ]
+  },
+  {
+    "name": "Marat",
+    "nameNative": "マラト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383002-gjRBMrXNXmBR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-ochiai"
+    ]
+  },
+  {
+    "name": "Matthäus Callaway",
+    "nameNative": "マテウス・キャラウェイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202541-FYwCrHsaIBM9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shuuta-morishima"
+    ]
+  },
+  {
+    "name": "Nikolai Avtotor",
+    "nameNative": "ニコライ・アフトトル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202540-2FMq7aLZGL9o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kensuke-satou"
+    ]
+  },
+  {
+    "name": "Ricardo Gavarni",
+    "nameNative": "リカルド・ガヴァーニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88281.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-ogata"
+    ]
+  },
+  {
+    "name": "Robert Abarth",
+    "nameNative": "ロベルト・アバルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b382572-jYugtlUFi2UX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-hashi"
+    ]
+  },
+  {
+    "name": "Selma Kenworth",
+    "nameNative": "セルマ・ケンワース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b209086-iFhNy8MTBuXa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sarah-emi-bridcutt"
+    ]
+  },
+  {
+    "name": "Shin  Acura",
+    "nameNative": "シン・アキュラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88284.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Simon Scania",
+    "nameNative": "シモン・スカニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b382999-kT15wHPRnuPC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-kinoshita"
+    ]
+  },
+  {
+    "name": "Theobald Zetra",
+    "nameNative": "テオバルト・ゼトラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383016-ycfCyaqCfEfO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-aizawa"
+    ]
+  },
+  {
+    "name": "Veemac IV",
+    "nameNative": "ヴィーマック四世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383013-9J7FNo9Vrbeu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuo-muramatsu"
+    ]
+  },
+  {
+    "name": "Viivi Holopainen",
+    "nameNative": "ヴィヴィ・ホロパイネン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88275.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "iori-nomizu"
+    ]
+  },
+  {
+    "name": "Yuria",
+    "nameNative": "ユリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383001-ZGVQErerWJpj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-sadohara"
+    ]
+  },
+  {
+    "name": "Zita Brusasco",
+    "nameNative": "ズィータ・ブルザスコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88280.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumeha-kouda"
+    ]
+  }
+]
