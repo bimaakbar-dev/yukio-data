@@ -1,24 +1,24 @@
 ---
-title: Ore no Imouto ga Konna ni Kawaii Wake ga Nai
-titleEnglish: Oreimo
-titleNative: 俺の妹がこんなに可愛いわけがない
+title: Ore no Imouto ga Konna ni Kawaii Wake ga Nai.
+titleEnglish: Oreimo 2
+titleNative: 俺の妹がこんなに可愛いわけがない。
 
-malId: 8769
+malId: 13659
 kitsuId: "7006"
 
 type: TV
 status: finished
 source: light_novel
 
-season: fall
-year: 2010
-episodes: 12
+season: spring
+year: 2013
+episodes: 13
 duration: 24
 # rating: # edit manual
 
 aired:
-  from: "2010-10-03"
-  to: "2010-12-19"
+  from: "2013-04-07"
+  to: "2013-06-30"
 
 stats:
   score: 6.5
@@ -26,18 +26,17 @@ stats:
 
 genres:
   - comedy
+  - romance
   - slice-of-life
 
 studios:
-  - aic-build
+  - a-1-pictures
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8769-Lat76qlOwdBN.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8769-90oItpkRYWOl.jpg"
-trailer: "cfsdcMoKTD4"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13659-dKbA53HH9vwR.png"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13659-B6ohHwj0GbRn.jpg"
+trailer: "l17ArMkPNf4"
 
 draft: false
 ---
 
-Kousaka Kyousuke, a normal 17-year-old high school student living in Chiba, has not gotten along with his younger sister Kirino in years. For longer than he can remember, Kirino has ignored his comings and goings and looked at him with spurning eyes. It seemed as if the relationship between Kyousuke and his sister, now fourteen, would continue this way forever. One day however, Kyousuke finds a DVD case of a magical girl anime which had fallen in his house's entrance way.
-
-(Source: Crunchyroll)
+Kirino is back from her trip to America, but the fun doesn't stop here! In the second season of Oreimo, Kyousuke continues to give Kirino life consultations. This time, romance lurks on the horizon for both siblings...
