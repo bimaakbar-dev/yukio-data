@@ -1,27 +1,27 @@
 ---
-title: Kamisama Hajimemashita
-titleEnglish: Kamisama Kiss
-titleNative: 神様はじめました
+title: Kamisama Hajimemashita◎
+titleEnglish: Kamisama Kiss◎
+titleNative: 神様はじめました◎
 
-malId: 14713
-kitsuId: "7157"
+malId: 25681
+kitsuId: "8716"
 
 type: TV
 status: finished
 source: manga
 
-season: fall
-year: 2012
-episodes: 13
+season: winter
+year: 2015
+episodes: 12
 duration: 24
 # rating: # edit manual
 
 aired:
-  from: "2012-10-02"
-  to: "2012-12-25"
+  from: "2015-01-06"
+  to: "2015-03-31"
 
 stats:
-  score: 8.0
+  score: 8.2
   # scoredBy: # edit manual
 
 genres:
@@ -32,16 +32,19 @@ genres:
 
 studios:
   - tms-entertainment
+  - v1-studio
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx14713-RyZ7bA7CdvGw.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14713-t6RcaL0IqwlW.jpg"
-trailer: "HzCba_fi-to"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20801-2wtvmLpaM8hY.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20801-XpbvG91zj2fl.jpg"
+trailer: "ZMNdV7y7q1A"
 
 draft: false
 ---
 
-Nanami Momozono is alone and homeless after her dad skips town to evade his gambling debts and the debt collectors kick her out of her apartment. So when a man she's just saved from a dog offers her his home, she jumps at the opportunity. But it turns out that his place is a shrine, and Nanami has unwittingly taken over his job as a local deity! 
+Nanami Momozono and her familiars Tomoe and Mizuki have survived quite a few challenges since Nanami took up the mantle of Mikage Shrine's patron god. Naturally, the wind god Otohiko comes to invite Nanami to the Divine Assembly in Izumo, the home of the gods, and Nanami chooses to take Mizuki with her, leaving Tomoe to pose as her at school. However, she has an ulterior motive for attending the Divine Assembly: to discover the whereabouts of the missing Lord Mikage, the former god of the shrine.
 
-Nanami has all kinda of new responsibilities she doesn't understand, dangers she's unaware of, and a cranky ex-familiar who's... actually pretty hot. What's a new-fledged godling to do? 
+After her adventures in Izumo, Nanami meets Botanmaru, a tengu child looking for someone she knows all too well—tengu turned goth idol Shinjirou Kurama. Botanmaru needs Shinjirou, their prince, to return home to Mount Kurama and stop the tyranny of Jirou, who has taken over the rule of their hometown. However, Nanami soon discovers a force much darker than Jirou is at work on the mountain.
 
-(Source: VIZ Media)
+As a fledgling god becoming more accustomed to divinity, Nanami finds herself dealing with a tengu rebellion, her blooming feelings for Tomoe, and a strange man with ties to both Tomoe's past and Nanami's future.
+
+(Source: MAL Rewrite)
