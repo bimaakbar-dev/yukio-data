@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Alice Asmodeus",
+    "nameNative": "アスモデウス・アリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135022-AAXddLdMdNh4.png",
+    "role": "main",
+    "voiceActors": [
+      "ryouhei-kimura"
+    ]
+  },
+  {
+    "name": "Clara Valac",
+    "nameNative": "ウァラク・クララ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135019-5HdzxMIHvgPB.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayaka-asai"
+    ]
+  },
+  {
+    "name": "Iruma Suzuki",
+    "nameNative": "鈴木入間",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135018-1vrthiQQS7O1.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Lead Shax",
+    "nameNative": "シャックス・リード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148542-5zascW9kOg62.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yoshitaka-yamaya"
+    ]
+  },
+  {
+    "name": "Alikred",
+    "nameNative": "アリクレッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b193946-DuRHQGawFgcZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Ameri Azazel",
+    "nameNative": "アザゼル・アメリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135020-4ARYfbKjwAbA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Amuryllis Asmodeus",
+    "nameNative": "アスモデウス・アムリリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b155689-1JMa90kHF7DC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-kakazu"
+    ]
+  },
+  {
+    "name": "Azuki",
+    "nameNative": "アヅキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156473-lrijCshJMsy4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-yamamoto"
+    ]
+  },
+  {
+    "name": "Baal",
+    "nameNative": "バール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b155683-4bRpLoXWpaTF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Bachiko Barbatos",
+    "nameNative": "バルバトス・バチコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165664-4uICMYP5p1Z1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-takeuchi"
+    ]
+  },
+  {
+    "name": "Blushenko Buer",
+    "nameNative": "ブエル・ブルシェンコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162685-ogcxN7byT18U.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-nakamura"
+    ]
+  },
+  {
+    "name": "Bobo Solas",
+    "nameNative": "ソラス ボボ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b168955-9GUF6aMYyy7X.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-shiozaki"
+    ]
+  },
+  {
+    "name": "Dali Dantalion",
+    "nameNative": "ダンダリオン・ダリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162684-w0ZDtG99c0Wm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mark-ishii"
+    ]
+  },
+  {
+    "name": "David",
+    "nameNative": "ダヴィデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224514-pOrTGO1tuwAm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehiro-hasu"
+    ]
+  },
+  {
+    "name": "Dosanko",
+    "nameNative": "ドサンコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156477-B2q5OgN6EnP4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shiori-izawa"
+    ]
+  },
+  {
+    "name": "Eiko Oni",
+    "nameNative": "鬼・エイコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148550-pNULk2kNF9KW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruna-asami"
+    ]
+  },
+  {
+    "name": "Elizabetta Ix",
+    "nameNative": "イクス・エリサベッタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148546-2wnhsxJ3JWdk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaede-hondo"
+    ]
+  },
+  {
+    "name": "Gaako",
+    "nameNative": "ガー子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152833-sRPd0N3zycTO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chitose-morinaga"
+    ]
+  },
+  {
+    "name": "General Furfur",
+    "nameNative": "ファーファー将軍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165443-MSiBzGj9Ne2Y.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Goemon Garp",
+    "nameNative": "ガープ・ゴエモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148545-DIQ0Rflj3TRT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "genki-okawa"
+    ]
+  },
+  {
+    "name": "Haruno",
+    "nameNative": "ハルノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156472-1SHZgQOukEZ3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-mitani"
+    ]
+  },
+  {
+    "name": "Ichiro Androalphus",
+    "nameNative": "アンドロアフレス・イチロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167569-CHVoDyuiODKq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-kumagai"
+    ]
+  },
+  {
+    "name": "Jazz Andro",
+    "nameNative": "アンドロ・Ｍ・ジャズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148552-OiAj34MmpcZl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Johnny Western Zagan",
+    "nameNative": "ザガン・ジョニー・ウエスタン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148544-4LPtF3bgihYZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-eguchi"
+    ]
+  },
+  {
+    "name": "Kalego Naberius",
+    "nameNative": "ナベリウス・カルエゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135021-O3whhLZPdTFG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Kamui Caim",
+    "nameNative": "カイム・カムイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148547-Fm15Np7hBlLv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gakuto-kajiwara"
+    ]
+  },
+  {
+    "name": "Keebow Valac",
+    "nameNative": "ウァラク・キー坊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b155693-g6KkH6pjKSEp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-asai"
+    ]
+  },
+  {
+    "name": "Keroli Crocell",
+    "nameNative": "クロケル・ケロリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b147760-FehhFYbZYi3g.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Kiriwo Amy",
+    "nameNative": "アミィ・キリヲ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151768-PKv3V6B78Yrp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Koko Orobas",
+    "nameNative": "オロバス・ココ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167567-UxI0qBOkPjGo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Konatsu",
+    "nameNative": "コナツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156474-LLIoRWoc5e6w.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-maihara"
+    ]
+  },
+  {
+    "name": "Konchie Valac",
+    "nameNative": "ウァラク・コンちー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b155694-s2wpPsCIPPt9.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-asai"
+    ]
+  },
+  {
+    "name": "March Marbas",
+    "nameNative": "マルバス・マーチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229262-4i11P8eAlHdq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-nakamura"
+    ]
+  },
+  {
+    "name": "Melony",
+    "nameNative": "メロニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b286381-005bd2PGlwy4.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Migi",
+    "nameNative": "ミギ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b236000-zZEcccrkTj0y.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Mister Hat",
+    "nameNative": "ミスターハット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165445-biBJEuF2wa2p.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masami-iwasaki"
+    ]
+  },
+  {
+    "name": "Momonoki Morax",
+    "nameNative": "モラクス・モモノキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162689-G7xhtduVPqGB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-asai"
+    ]
+  },
+  {
+    "name": "Morax",
+    "nameNative": "モラクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229293-wiXqYn7MxKEh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shimozaki"
+    ]
+  },
+  {
+    "name": "Mother Valac",
+    "nameNative": "マミー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b155688-BGCRyzlfRF3d.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-asai"
+    ]
+  },
+  {
+    "name": "Nafra Ampsey",
+    "nameNative": "アンプシー・ナフラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167566-lULmCuTcTL5j.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-kanazawa"
+    ]
+  },
+  {
+    "name": "Niro Androalphus",
+    "nameNative": "アンドロアフレス・ニロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167568-FLWNkbX8TCOZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-nogami"
+    ]
+  },
+  {
+    "name": "Ocho",
+    "nameNative": "オチョ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182672-CnmxouavpVob.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-shin"
+    ]
+  },
+  {
+    "name": "Opera",
+    "nameNative": "オペラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b147759-dP3VjdtjnkOy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Oswaal Orias",
+    "nameNative": "オリアス・オズワール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172532-TOYmH1ynGnYM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "gakuto-kajiwara"
+    ]
+  },
+  {
+    "name": "Paimon",
+    "nameNative": "パイモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b155681-FwgSl6zu7BsN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "arisa-sakuraba"
+    ]
+  },
+  {
+    "name": "Picero Agares",
+    "nameNative": "アガレス・ピケロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148548-Xrskwg83qYa8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuto-yoshinaga"
+    ]
+  },
+  {
+    "name": "Quichelight Kimaris",
+    "nameNative": "キマリス・キッシュライト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148549-RKMwbZ40YIUy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taku-yashiro"
+    ]
+  },
+  {
+    "name": "Raim",
+    "nameNative": "ライム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154373-uAjqfakOKB1A.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-yamamoto"
+    ]
+  },
+  {
+    "name": "Robin Balse",
+    "nameNative": "バルス・ロビン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154372-R2Z0ow4FIf8V.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuto-yoshinaga"
+    ]
+  },
+  {
+    "name": "Rock Andro",
+    "nameNative": "アンドロ・M・ロック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174218-tfz0LWG0Z6tr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  }
+]
