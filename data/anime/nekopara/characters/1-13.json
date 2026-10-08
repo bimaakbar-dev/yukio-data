@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Azuki",
+    "nameNative": "アズキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126263-9yITiEUdFACj.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shiori-izawa"
+    ]
+  },
+  {
+    "name": "Cacao",
+    "nameNative": "カカオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156345-gJTFN0ZMbgfE.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuka-morishima"
+    ]
+  },
+  {
+    "name": "Chocola",
+    "nameNative": "ショコラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88787-grII9ZA6Nx1N.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuki-yagi"
+    ]
+  },
+  {
+    "name": "Cinnamon",
+    "nameNative": "シナモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126266-0ebV3eqXpwu9.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuri-noguchi"
+    ]
+  },
+  {
+    "name": "Coconut",
+    "nameNative": "ココナツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126264-nEmOMFvizPo2.jpg",
+    "role": "main",
+    "voiceActors": [
+      "marin-mizutani"
+    ]
+  },
+  {
+    "name": "Kashou Minazuki",
+    "nameNative": "水無月嘉祥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130309-8OQCgCUHzUEj.png",
+    "role": "main",
+    "voiceActors": [
+      "shinnosuke-tachibana"
+    ]
+  },
+  {
+    "name": "Maple",
+    "nameNative": "メイプル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126265-jaUuUImV3KzG.jpg",
+    "role": "main",
+    "voiceActors": [
+      "miku-itou"
+    ]
+  },
+  {
+    "name": "Shigure Minazuki",
+    "nameNative": "水無月時雨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130308-YWQyfCBdkb0n.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Vanilla",
+    "nameNative": "バニラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88788-E0ECUbMlrJye.png",
+    "role": "main",
+    "voiceActors": [
+      "iori-saeki"
+    ]
+  },
+  {
+    "name": "Beach Clubhouse Little Sister",
+    "nameNative": "海の家の妹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164872-UkXnnIH45mqV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ruriko-aoki"
+    ]
+  },
+  {
+    "name": "Chiyo",
+    "nameNative": "ちよ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159742-YBgqo2MhGYyU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaede-hondo"
+    ]
+  },
+  {
+    "name": "Chiyo no Haha",
+    "nameNative": "ちよの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163713-lUtY54B4EyQK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-yuzuki"
+    ]
+  },
+  {
+    "name": "Umi no Ie no Ane",
+    "nameNative": "海の家の姉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164871-F0u5QCl1Dn9V.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nanae-sakurai"
+    ]
+  }
+]
