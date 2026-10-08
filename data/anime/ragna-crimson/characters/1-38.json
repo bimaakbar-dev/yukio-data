@@ -1,0 +1,348 @@
+[
+  {
+    "name": "Crimson",
+    "nameNative": "クリムゾン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b168967-AxC1za6w2iu2.png",
+    "role": "main",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Ragna",
+    "nameNative": "ラグナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204860-aX4343KdLZBr.jpg",
+    "role": "main",
+    "voiceActors": [
+      "chiaki-kobayashi",
+      "nobutoshi-kanna"
+    ]
+  },
+  {
+    "name": "Barom Shuera",
+    "nameNative": "バロム・シェエラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313657-UDagT8qJUayW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-satou"
+    ]
+  },
+  {
+    "name": "Borgius",
+    "nameNative": "ボルギウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269076-waDTTqfqgbuW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenyuu-horiuchi",
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Carula",
+    "nameNative": "カルラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328082-q8TuhHuHEEhw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reina-ueda"
+    ]
+  },
+  {
+    "name": "Chantioras",
+    "nameNative": "シャンティオラス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313658-hxdC1tMWnskj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-eguchi"
+    ]
+  },
+  {
+    "name": "Chimera",
+    "nameNative": "キメラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312057-KikOZyzXyAWY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Christopher Algren",
+    "nameNative": "クリストファー・オルグレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319672-Vp0ml7TUAwS1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-hamada"
+    ]
+  },
+  {
+    "name": "Disas Trois",
+    "nameNative": "ディザストロワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312113-26Z6XVN2dSDz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Dornea",
+    "nameNative": "ドルニーア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313656-bGpenYPVB4RF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keisuke-koumoto"
+    ]
+  },
+  {
+    "name": "Femud Lese",
+    "nameNative": "フェムド・レーゼ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317818-xyxFcA6kZC9h.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-matsuyama"
+    ]
+  },
+  {
+    "name": "Fu",
+    "nameNative": "フー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319674-00WhZJP1sBuT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukihiro-nozuyama"
+    ]
+  },
+  {
+    "name": "Garm Ulban",
+    "nameNative": "ガルム・ウルバン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319671-2Zifv8p0Yhuv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shirou-saitou"
+    ]
+  },
+  {
+    "name": "Gilzea",
+    "nameNative": "ギルゼア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331063-D53nCGUtdp2k.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Golem",
+    "nameNative": "ゴーレム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312055-jpvftc256qWm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi",
+      "kenji-akabane"
+    ]
+  },
+  {
+    "name": "Greya",
+    "nameNative": "グレア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312420-JZgwEM1fYVMF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rio-tsuchiya"
+    ]
+  },
+  {
+    "name": "Grymwelte",
+    "nameNative": "グリュムウェルテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306776-ZSpzj2rdrRDC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Hesela",
+    "nameNative": "へゼラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312422-9UlppT4V2sPb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rio-tsuchiya"
+    ]
+  },
+  {
+    "name": "Isaac Stern",
+    "nameNative": "アイザック・スターン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319435-tjZVOfsLELPk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "Lakucia",
+    "nameNative": "ラクーシャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326166-Dy963JvHFQVW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-wakui"
+    ]
+  },
+  {
+    "name": "Leonica",
+    "nameNative": "レオニカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269074-eQJLbwil4Efc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Majorca Abbott",
+    "nameNative": "マジョルカ・アボット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320064-Q2KoefcqkUex.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marika-kouno"
+    ]
+  },
+  {
+    "name": "Michael",
+    "nameNative": "ミハエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317817-UeRNRjwimZLb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihito-sasaki"
+    ]
+  },
+  {
+    "name": "Nazarena Teluzian",
+    "nameNative": "ナサレナ・テルジアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319675-Q4ga7gGE59IG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-shimamura"
+    ]
+  },
+  {
+    "name": "Nebulim",
+    "nameNative": "ネビュリム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269077-zA59wxVkKeXZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-yamashita"
+    ]
+  },
+  {
+    "name": "Olto Zora",
+    "nameNative": "オルト・ゾラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313654-xULxElC7Lx0W.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Shin Cutlass",
+    "nameNative": "シン・カトラス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319673-WiaYxLJ3iJIx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tasuku-hatanaka"
+    ]
+  },
+  {
+    "name": "Slime",
+    "nameNative": "スライム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312056-sariUuFKcVah.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fairouz-ai"
+    ]
+  },
+  {
+    "name": "Snake",
+    "nameNative": "ヘビ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328083-4SDR36e7xopW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Starlia Lese",
+    "nameNative": "スターリア・レーゼ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312421-s8qIcAbJILb6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  },
+  {
+    "name": "Sykes Charluke",
+    "nameNative": "サイクス・シャルルーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313537-do7cLvmuPwtT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-ono"
+    ]
+  },
+  {
+    "name": "Taiyou no Seija",
+    "nameNative": "太陽の聖者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331470-yNl3A4su2OKj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Taratectra",
+    "nameNative": "タラテクトラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313655-88l6I1qz1ioz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-takeuchi"
+    ]
+  },
+  {
+    "name": "Temruogtaf",
+    "nameNative": "メルグブデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269075-NnnOxxRHUSHP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouzou-shioya"
+    ]
+  },
+  {
+    "name": "Ultimatia",
+    "nameNative": "アルテマティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169000-PX8eDv6bcvGR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "reina-ueda"
+    ]
+  },
+  {
+    "name": "Ursh-Gaurun",
+    "nameNative": "ウルシュガウルン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324562-Zl4gFPEYWu4T.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hayato-kaneko"
+    ]
+  },
+  {
+    "name": "Woltekamui",
+    "nameNative": "ウォルテカムイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b297416-Ct5PMMTsUzA7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe",
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Yugo Robles",
+    "nameNative": "ユゴ・ロブレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323786-bLmtsTCNjQBj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroya-egashira"
+    ]
+  }
+]
