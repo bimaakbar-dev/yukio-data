@@ -1,27 +1,27 @@
 ---
-title: "Uzaki-chan wa Asobitai!"
-titleEnglish: "Uzaki-chan Wants to Hang Out!"
-titleNative: 宇崎ちゃんは遊びたい！
+title: "Uzaki-chan wa Asobitai! ω"
+titleEnglish: "Uzaki-chan Wants to Hang Out! Season 2"
+titleNative: 宇崎ちゃんは遊びたい！ω（だぶる）
 
-malId: 41226
-kitsuId: "43094"
+malId: 42962
+kitsuId: "43581"
 
 type: TV
 status: finished
 source: manga
 
-season: summer
-year: 2020
-episodes: 12
+season: fall
+year: 2022
+episodes: 13
 duration: 24
 # rating: # edit manual
 
 aired:
-  from: "2020-07-10"
-  to: "2020-09-25"
+  from: "2022-10-01"
+  to: "2022-12-24"
 
 stats:
-  score: 6.7
+  score: 7.1
   # scoredBy: # edit manual
 
 genres:
@@ -33,13 +33,13 @@ genres:
 studios:
   - engi
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115113-bJDZV7kP0XrP.png"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/115113-wIWyzBlDR5Kt.jpg"
-trailer: "6nmmzbar1fA"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124395-9GeigGh1Ae2f.png"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/124395-288D9DRXMv04.jpg"
+trailer: "Wew78Cq8ZKE"
 
 draft: false
 ---
 
-Sakurai Shinichi’s one wish is for a little peace and quiet. But Uzaki Hana–his boisterous, well-endowed underclassman–has other plans. All she wants is to hang out and poke fun at him. With the help of her chipper charm and peppy persistence, this might just be the start of a beautiful relationship!
+During the summer holidays, energetic Hana Uzaki spent most of her time accompanying her lonesome upperclassman, Shinichi Sakurai. Now that school has resumed, Uzaki's teasing continues to ramp up, much to Sakurai's constant annoyance. Nevertheless, no amount of ridicule can damage the pair's relationship—which only seems to be getting better as their college days fly by!
 
-(Source: Seven Seas Entertainment)
+(Source: MAL Rewrite)
