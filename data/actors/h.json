@@ -133,6 +133,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "haruko-katou",
+    "name": "Haruko Katou",
+    "nameNative": "加藤治子",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113009-8KVEDgPCIotY.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "haruko-momoi",
     "name": "Haruko Momoi",
     "nameNative": "桃井はるこ",
@@ -578,6 +585,13 @@
     "name": "Hiroko Kiso",
     "nameNative": "きそひろこ",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n214250-90Iu1qYdhK4d.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "hiroko-seki",
+    "name": "Hiroko Seki",
+    "nameNative": "関弘子",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/12611.jpg",
     "defaultLanguage": "Japanese"
   },
   {
