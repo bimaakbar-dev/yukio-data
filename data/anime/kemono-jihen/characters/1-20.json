@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Akira",
+    "nameNative": "晶",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154750-mTYO7aACEOV4.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Kabane Kusaka",
+    "nameNative": "日下夏羽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154749-SmkAurcWuzLI.png",
+    "role": "main",
+    "voiceActors": [
+      "natsumi-fujiwara"
+    ]
+  },
+  {
+    "name": "Kohachi Inugami",
+    "nameNative": "隠神鼓八千",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154747-onCg5tNXWVkS.png",
+    "role": "main",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Shiki Tademaru",
+    "nameNative": "蓼丸織",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154751-2KiPCiI7G431.png",
+    "role": "main",
+    "voiceActors": [
+      "natsuki-hanae",
+      "motoko-kumai"
+    ]
+  },
+  {
+    "name": "Akio Tademaru",
+    "nameNative": "蓼丸昭夫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235183-cEmlPp2MTsVN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Aya Tademaru",
+    "nameNative": "蓼丸綾",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154757-wyLxS58ze1Hl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaede-hondo"
+    ]
+  },
+  {
+    "name": "Erika Kaga",
+    "nameNative": "蚊賀エリカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b221437-w98tlKURvU0t.png",
+    "role": "supporting",
+    "voiceActors": [
+      "arisa-komiya"
+    ]
+  },
+  {
+    "name": "Kon",
+    "nameNative": "紺",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154755-ffZEEdfYjOgv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumiri-hanamori"
+    ]
+  },
+  {
+    "name": "Kumi Yamagumonoko",
+    "nameNative": "山蜘蛛之仔組",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235181-Zs8PKv2yObDG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Kusaka",
+    "nameNative": "日下",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243784-ha4eSZjfMTwr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aiko-nogami"
+    ]
+  },
+  {
+    "name": "Mao",
+    "nameNative": "まお",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232796-JNk1HwEm1z07.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Mihai Florescu",
+    "nameNative": "ミハイ フロレスク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154759-xQlDWr0RXBev.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Momoka Kaga",
+    "nameNative": "蚊賀モモカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b221438-B9jZCEpErF9U.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomori-kusunoki"
+    ]
+  },
+  {
+    "name": "Nowaki Homuramaru",
+    "nameNative": "野分火丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154753-eXa6KwdXMsYo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Ohana",
+    "nameNative": "御花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235180-r9oYAvkw5IJn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikuko-tani"
+    ]
+  },
+  {
+    "name": "Reika Kaga",
+    "nameNative": "蚊賀レイカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208696-MF1hhSc5SVnD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshino-nanjou"
+    ]
+  },
+  {
+    "name": "Yatarou",
+    "nameNative": "弥太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243785-ZOHKMLSWlNUZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Yoruno",
+    "nameNative": "夜野",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232797-m21dqpWDE5WY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kishio"
+    ]
+  },
+  {
+    "name": "Youko Inari",
+    "nameNative": "飯生妖子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154758-rQVJUS2TI3fy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Yui",
+    "nameNative": "結",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154756-kk6r5JsISRXg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-ishikawa",
+      "you-taichi"
+    ]
+  }
+]
