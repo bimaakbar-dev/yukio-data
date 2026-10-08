@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Haruhi Suzumiya",
+    "nameNative": "涼宮ハルヒ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b251-8DTaCNkSvBQ8.png",
+    "role": "main",
+    "voiceActors": [
+      "aya-hirano"
+    ]
+  },
+  {
+    "name": "Itsuki Koizumi",
+    "nameNative": "古泉一樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b254-ZyIHZUY6yz4W.png",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Kyon",
+    "nameNative": "キョン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b252-2V9wYXSAktsX.png",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Mikuru Asahina",
+    "nameNative": "朝比奈みくる",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253-opGQ1w4AdkEK.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuko-gotou"
+    ]
+  },
+  {
+    "name": "Yuki Nagato",
+    "nameNative": "長門有希",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249-2YImP6IQTe8t.png",
+    "role": "main",
+    "voiceActors": [
+      "minori-chihara"
+    ]
+  },
+  {
+    "name": "Arakawa",
+    "nameNative": "新川",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/882.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Computer Kenkyuukai Buchou",
+    "nameNative": "コンピュータ研究会部長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12335.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-kobushi"
+    ]
+  },
+  {
+    "name": "Emiri Kimidori",
+    "nameNative": "喜緑江美里",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9143-yGvZYGjburcN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuri-shiratori"
+    ]
+  },
+  {
+    "name": "Keiichi Tamaru",
+    "nameNative": "多丸圭一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b885-t1kV4WAjudpH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Kiyosumi Morimura",
+    "nameNative": "森村清純",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3620.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-yanagisawa"
+    ]
+  },
+  {
+    "name": "Kunikida",
+    "nameNative": "国木田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b258-O2CH3BuLMew0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-matsumoto"
+    ]
+  },
+  {
+    "name": "Kyon no Imouto",
+    "nameNative": "キョンの妹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b912-7RxcjIl1JssE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-aoki"
+    ]
+  },
+  {
+    "name": "Mai Zaizen",
+    "nameNative": "財前 舞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27353.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sara-nakayama"
+    ]
+  },
+  {
+    "name": "Mizuki Okajima",
+    "nameNative": "岡島瑞樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44635.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mina-hiroe"
+    ]
+  },
+  {
+    "name": "Okabe",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3621.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-yanagisawa"
+    ]
+  },
+  {
+    "name": "Ryouko Asakura",
+    "nameNative": "朝倉涼子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b255-25bilUoTq5HF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuko-kuwatani"
+    ]
+  },
+  {
+    "name": "Shamisen",
+    "nameNative": "シャミセン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12660-colqZvj4edkt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Sonou Mori",
+    "nameNative": "森園生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/883.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akane-omae"
+    ]
+  },
+  {
+    "name": "Taniguchi",
+    "nameNative": "谷口",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b257-5T6DlqLcVyQ8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minoru-shiraishi"
+    ]
+  },
+  {
+    "name": "Tsuruya",
+    "nameNative": "鶴屋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256-KIpinsCBiZFo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-matsuoka"
+    ]
+  },
+  {
+    "name": "Umpire",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3622.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-yanagisawa"
+    ]
+  },
+  {
+    "name": "Yutaka Tamaru",
+    "nameNative": "多丸裕",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/884.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  }
+]
