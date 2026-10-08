@@ -1,0 +1,405 @@
+[
+  {
+    "name": "Emilia",
+    "nameNative": "エミリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Ram",
+    "nameNative": "ラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88576-NWkotUiJ3mK3.png",
+    "role": "main",
+    "voiceActors": [
+      "rie-murakawa"
+    ]
+  },
+  {
+    "name": "Rem",
+    "nameNative": "レム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88575-Ayu8UPDA8NS6.png",
+    "role": "main",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Subaru Natsuki",
+    "nameNative": "ナツキ・スバル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88573-F8yMTK9GhnTA.png",
+    "role": "main",
+    "voiceActors": [
+      "yuusuke-kobayashi"
+    ]
+  },
+  {
+    "name": "Aldebaran",
+    "nameNative": "アルデバラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90178-olaN8k9RJRxo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Anastasia Hoshin",
+    "nameNative": "アナスタシア・ホーシン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90177-K1XztcZqHl3c.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  },
+  {
+    "name": "Beatrice",
+    "nameNative": "ベアトリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90181-wRPm0OEaucmw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-arai"
+    ]
+  },
+  {
+    "name": "Bordeaux Zellgef",
+    "nameNative": "ボルドー・ツェルゲフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b218202-zCXaFinepDRV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jirou-saitou"
+    ]
+  },
+  {
+    "name": "Crusch Karsten",
+    "nameNative": "クルシュ・カルステン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Elsa Granhiert",
+    "nameNative": "エルザ・グランヒルテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90180-YXbXfcSlalav.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Felix Argyle",
+    "nameNative": "フェリックス・アーガイル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90184-o1ZFF6osCZX7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Felt",
+    "nameNative": "フェルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88574-Hau8t0GlMvhp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chinatsu-akasaki"
+    ]
+  },
+  {
+    "name": "Gaston",
+    "nameNative": "ガストン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205262-4QkNpvgw0svU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Hetaro Pearlbaton",
+    "nameNative": "ヘータロー・パールバトン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203919-C4m7N3cBUfCw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Hitosashiyubi",
+    "nameNative": "人差し指",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b226758-MOQj5kr5GUIv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Julius Euclius",
+    "nameNative": "ユリウス・ユークリウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90183-LWx59kSa5Vjl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-eguchi"
+    ]
+  },
+  {
+    "name": "Kadomon Risch",
+    "nameNative": "カドモン・リッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124118-ZWc6vrpwxZAL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Kan",
+    "nameNative": "カン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205261-v1HJzOXXVEJf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-yamashita"
+    ]
+  },
+  {
+    "name": "Ketty Muttart",
+    "nameNative": "ケティ・ムッタート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185044-9Ofs1dFdTP27.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-yanaka"
+    ]
+  },
+  {
+    "name": "Lucas",
+    "nameNative": "リュカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185043-sE8wxN5FrHHL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuna-yoshino"
+    ]
+  },
+  {
+    "name": "Marcos Gildark",
+    "nameNative": "マーコス・ギルダーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205260-VWLQccRJmTfv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "itaru-yamamoto"
+    ]
+  },
+  {
+    "name": "Meili Portroute",
+    "nameNative": "メィリィ・ポートルート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175577-lUNPAV3Gujl3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-suzuki"
+    ]
+  },
+  {
+    "name": "Miklotov McMahon",
+    "nameNative": "マイクロトフ・マクマホン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354519-0RCQ84r7RIh7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "motomu-kiyokawa"
+    ]
+  },
+  {
+    "name": "Mimi Pearlbaton",
+    "nameNative": "ミミ・パールバトン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157961-gvUztmBkzSMB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukiyo-fujii"
+    ]
+  },
+  {
+    "name": "Otto Suwen",
+    "nameNative": "オットー・スーウェン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124110-Gfr3IYI6FwqE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouhei-amasaki"
+    ]
+  },
+  {
+    "name": "Patrasche",
+    "nameNative": "パトラッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181313-eT4mFPCZj1OZ.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Petelgeuse Romanee-Conti",
+    "nameNative": "ペテルギウス・ロマネコンティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90170-sHsO9ojQDLa3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Petra Leyte",
+    "nameNative": "ペトラ・レイテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141858-wO0Uj6o4OpUI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marika-kouno"
+    ]
+  },
+  {
+    "name": "Plum Risch",
+    "nameNative": "プラム・リッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124119-pJxrHniJERVk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aimi-tanaka"
+    ]
+  },
+  {
+    "name": "Priscilla Barielle",
+    "nameNative": "プリシラ・バーリエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90186-yr2PT4gI2qa3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukari-tamura"
+    ]
+  },
+  {
+    "name": "Puck",
+    "nameNative": "パック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90187-xJXlD84KXl3t.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-uchiyama"
+    ]
+  },
+  {
+    "name": "Quark",
+    "nameNative": "クオーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205584-q2PkKhVgz3O0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "susumu-chiba"
+    ]
+  },
+  {
+    "name": "Rachins Hoffman",
+    "nameNative": "ラチンス・ホフマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124115-AlzT5EbLBWbt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "genki-muro"
+    ]
+  },
+  {
+    "name": "Raksha Risch",
+    "nameNative": "ラクシャ・リッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185045-4Kw0YT6e7Ns6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hibiku-yamamura"
+    ]
+  },
+  {
+    "name": "Reinhard van Astrea",
+    "nameNative": "ラインハルト・ヴァン・アストレア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88577-nrwzPBVwqAfO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Ricardo Welkin",
+    "nameNative": "リカード・ウェルキン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181314-OB2xgtbugqwZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "Rickert Hoffman",
+    "nameNative": "リッカートホフマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b226757-bzteWo2C4j8J.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-aoyama"
+    ]
+  },
+  {
+    "name": "Rom",
+    "nameNative": "ロム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124117-9wZEIt0h4Ioq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  },
+  {
+    "name": "Roswaal Mathers",
+    "nameNative": "ロズワール・Ｌ・メイザース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90182-Ho0NS06tc6NL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Russell Fellow",
+    "nameNative": "ラッセル・フェロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185046-chJWaKEwVlZs.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-ookawa"
+    ]
+  },
+  {
+    "name": "Setanta",
+    "nameNative": "セタンタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205583-hzc7pOCz0RDW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideaki-tezuka"
+    ]
+  },
+  {
+    "name": "Temae",
+    "nameNative": "テマエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205582-L17J97ryPKGT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-kimura"
+    ]
+  },
+  {
+    "name": "Theresia van Astrea",
+    "nameNative": "テレシア・ヴァン・アストレア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124116-n6qYjDhHcBHS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-takahashi"
+    ]
+  },
+  {
+    "name": "Tivey Pearlbaton",
+    "nameNative": "ティビー・パールバトン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187763-R4qQ7xhZ9JTP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-shimowada"
+    ]
+  },
+  {
+    "name": "Wilhelm van Astrea",
+    "nameNative": "ヴィルヘルム・ヴァン・アストレア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90179-dBqDPUn2i7dM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenyuu-horiuchi"
+    ]
+  }
+]
