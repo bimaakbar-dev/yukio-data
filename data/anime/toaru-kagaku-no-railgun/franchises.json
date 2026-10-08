@@ -1,0 +1,32 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "toaru-majutsu-no-index",
+    "title": "Toaru Majutsu no Index"
+  },
+  {
+    "relation": "spin_off",
+    "slug": "toaru-kagaku-no-railgun-motto-marutto-railgun",
+    "title": "Toaru Kagaku no Railgun: Motto Marutto Railgun"
+  },
+  {
+    "relation": "side_story",
+    "slug": "toaru-kagaku-no-railgun-entenka-no-satsuei-model-mo-raku-ja-arimasen-wa-ne",
+    "title": "Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne."
+  },
+  {
+    "relation": "side_story",
+    "slug": "toaru-kagaku-no-railgun-misaka-san-wa-ima-chuumoku-no-mato-desu-kara",
+    "title": "Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato desu kara"
+  },
+  {
+    "relation": "sequel",
+    "slug": "toaru-kagaku-no-railgun-s",
+    "title": "Toaru Kagaku no Railgun S"
+  },
+  {
+    "relation": "character",
+    "slug": "toaru-majutsu-no-index-10-shuunen-kinen-pv",
+    "title": "Toaru Majutsu no Index 10-shuunen Kinen PV"
+  }
+]
