@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Momonga",
+    "nameNative": "モモンガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png",
+    "role": "main",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Neia Baraja",
+    "nameNative": "ネイア・バラハ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130011-wbJTPDd4tnzV.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yoshino-aoyama"
+    ]
+  },
+  {
+    "name": "Albedo",
+    "nameNative": "アルベド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-hara"
+    ]
+  },
+  {
+    "name": "Calca Bessarez",
+    "nameNative": "カルカ・ベサーレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330970-c7GkSuk4wsFB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Caspond Bessarez",
+    "nameNative": "カスポンド・ベサーレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b352882-87ZW93wHer0c.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuya-uchida"
+    ]
+  },
+  {
+    "name": "Demiurge",
+    "nameNative": "デミウルゴス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masayuki-katou"
+    ]
+  },
+  {
+    "name": "Kelart Custodio",
+    "nameNative": "ケラルト・カストディオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330971-8wF4u89tgkyI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Remedios Custodio",
+    "nameNative": "レメディオス・カストディオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330969-0xdyn5sPZjIj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-nabatame"
+    ]
+  },
+  {
+    "name": "Shizu Delta",
+    "nameNative": "シズ・デルタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/126841-zO8B5EQgj2dj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-seto"
+    ]
+  }
+]
