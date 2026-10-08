@@ -27,51 +27,6 @@
     ]
   },
   {
-    "name": "Tetia",
-    "nameNative": "テティア",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129839-7KP7lqLC7ZdW.png",
-    "role": "supporting",
-    "voiceActors": [
-      "kurumi-haruki"
-    ]
-  },
-  {
-    "name": "Richeh",
-    "nameNative": "リチェ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129838-DRjxUa0u7Lyg.jpg",
-    "role": "supporting",
-    "voiceActors": [
-      "hika-tsukishiro"
-    ]
-  },
-  {
-    "name": "Olruggio",
-    "nameNative": "オルーギオ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137972-4sSEu1132KZM.png",
-    "role": "supporting",
-    "voiceActors": [
-      "yuuichi-nakamura"
-    ]
-  },
-  {
-    "name": "Iguin",
-    "nameNative": "イグイーン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163622-7JwIdTTnctpV.png",
-    "role": "supporting",
-    "voiceActors": [
-      "mitsuki-saiga"
-    ]
-  },
-  {
-    "name": "Fudemushi",
-    "nameNative": "フデムシ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331260-gFDtCsnBWfq7.png",
-    "role": "supporting",
-    "voiceActors": [
-      "misaki-kuno"
-    ]
-  },
-  {
     "name": "Alaira",
     "nameNative": "アライラ",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137973-fSPnGrGZ5Ffh.png",
@@ -87,51 +42,6 @@
     "role": "supporting",
     "voiceActors": [
       "mayumi-saco"
-    ]
-  },
-  {
-    "name": "Tartah",
-    "nameNative": "タータ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158680-uSo7mCDoFqoA.jpg",
-    "role": "supporting",
-    "voiceActors": [
-      "mutsumi-tamura"
-    ]
-  },
-  {
-    "name": "Nolnoa",
-    "nameNative": "ノルノア",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158681-eob3QnRJZUKV.jpg",
-    "role": "supporting",
-    "voiceActors": [
-      "yoshito-yasuhara"
-    ]
-  },
-  {
-    "name": "Easthies",
-    "nameNative": "イースヒース",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158683-zwBynDci5MwD.png",
-    "role": "supporting",
-    "voiceActors": [
-      "junichi-suwabe"
-    ]
-  },
-  {
-    "name": "Euini",
-    "nameNative": "ユイニィ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158684-rzE9MKjufnlZ.png",
-    "role": "supporting",
-    "voiceActors": [
-      "hiiro-ishibashi"
-    ]
-  },
-  {
-    "name": "Luluci",
-    "nameNative": "ルルシィ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219490-9jG2lowO73B8.png",
-    "role": "supporting",
-    "voiceActors": [
-      "yui-ishikawa"
     ]
   },
   {
@@ -153,21 +63,30 @@
     ]
   },
   {
-    "name": "Utowin",
-    "nameNative": "ウトウィン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253736-VsMSQqogFzTI.png",
+    "name": "Easthies",
+    "nameNative": "イースヒース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158683-zwBynDci5MwD.png",
     "role": "supporting",
     "voiceActors": [
-      "jun-kasama"
+      "junichi-suwabe"
     ]
   },
   {
-    "name": "Sasaran",
-    "nameNative": "ササラン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331259-yKA3jChDVX5d.png",
+    "name": "Euini",
+    "nameNative": "ユイニィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158684-rzE9MKjufnlZ.png",
     "role": "supporting",
     "voiceActors": [
-      "ryuusei-nakao"
+      "hiiro-ishibashi"
+    ]
+  },
+  {
+    "name": "Fudemushi",
+    "nameNative": "フデムシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331260-gFDtCsnBWfq7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
     ]
   },
   {
@@ -180,12 +99,12 @@
     ]
   },
   {
-    "name": "Riliphin",
-    "nameNative": "リリフィン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331253-E733XeyTTOAC.png",
+    "name": "Iguin",
+    "nameNative": "イグイーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163622-7JwIdTTnctpV.png",
     "role": "supporting",
     "voiceActors": [
-      "mariya-ise"
+      "mitsuki-saiga"
     ]
   },
   {
@@ -198,12 +117,93 @@
     ]
   },
   {
+    "name": "Luluci",
+    "nameNative": "ルルシィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219490-9jG2lowO73B8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-ishikawa"
+    ]
+  },
+  {
+    "name": "Nolnoa",
+    "nameNative": "ノルノア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158681-eob3QnRJZUKV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshito-yasuhara"
+    ]
+  },
+  {
+    "name": "Olruggio",
+    "nameNative": "オルーギオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137972-4sSEu1132KZM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Richeh",
+    "nameNative": "リチェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129838-DRjxUa0u7Lyg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hika-tsukishiro"
+    ]
+  },
+  {
     "name": "Richeh no Sensei",
     "nameNative": "リチェの先生",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401294-UfgekGEqYeBb.png",
     "role": "supporting",
     "voiceActors": [
       "youji-ueda"
+    ]
+  },
+  {
+    "name": "Riliphin",
+    "nameNative": "リリフィン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331253-E733XeyTTOAC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Sasaran",
+    "nameNative": "ササラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331259-yKA3jChDVX5d.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "Tartah",
+    "nameNative": "タータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158680-uSo7mCDoFqoA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Tetia",
+    "nameNative": "テティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129839-7KP7lqLC7ZdW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kurumi-haruki"
+    ]
+  },
+  {
+    "name": "Utowin",
+    "nameNative": "ウトウィン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253736-VsMSQqogFzTI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-kasama"
     ]
   }
 ]
