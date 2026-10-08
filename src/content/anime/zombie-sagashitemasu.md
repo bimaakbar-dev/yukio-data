@@ -41,8 +41,8 @@ trailer: "_0kVb8-uRSI"
 draft: false
 ---
 
-Di sebuah kota yang hancur dan dikuasai oleh zombie, Aki dan teman-temannya menemukan keseruan yang tak terduga. Mereka yang hanya pernah mendengar cerita tentang dunia lama dan misteri yang menyebabkan kiamat, kini memutuskan untuk mencari tahu apa yang terjadi.
+Di kota yang hancur dan diteror oleh zombie, seorang gadis muda bernama Aki dan teman-temannya menemukan keseruan dan petualangan. Mereka tumbuh dewasa dengan mendengar cerita tentang dunia lama dan misteri yang menyebabkan kiamat, tetapi sekarang mereka ingin melihatnya sendiri.
 
-Aki memiliki alasan pribadi untuk melakukan perjalanan ini, yaitu mencari ayahnya yang hilang. Bersama teman-teman masa kecilnya, mereka meninggalkan desa kecil mereka dan memasuki dunia yang penuh bahaya. Mereka harus berjuang untuk bertahan hidup di luar zona aman desa mereka, tetapi mereka merasa lebih hidup daripada sebelumnya.
+Aki memiliki motivasi pribadi untuk menjelajahi kota yang berbahaya ini - dia ingin menemukan ayahnya yang hilang. Bersama teman-teman masa kecilnya, mereka memulai perjalanan yang penuh bahaya dan tak terduga. Mereka harus berjuang untuk bertahan hidup di luar desa kecil mereka yang aman, tetapi mereka juga merasakan kesegaran dan kebebasan yang belum pernah mereka rasakan sebelumnya.
 
-Dengan semangat petualangan dan keingintahuan, Aki dan teman-temannya menghadapi tantangan yang menanti mereka di kota yang hancur. Mereka akan menemukan apa yang sebenarnya terjadi di dunia ini dan apa yang telah menyebabkan kehancuran yang mengerikan.
+Dalam perjalanan ini, Aki dan teman-temannya akan menghadapi berbagai tantangan dan misteri yang harus dipecahkan. Mereka akan menemukan bahwa dunia yang hancur ini masih menyimpan banyak rahasia dan kejutan, dan mereka harus siap menghadapi apa pun yang akan mereka temui.
