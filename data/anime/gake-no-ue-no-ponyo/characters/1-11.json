@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Ponyo",
+    "nameNative": "ポニョ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14286-So4LWwCaE5un.png",
+    "role": "main",
+    "voiceActors": [
+      "yuria-kouzuki"
+    ]
+  },
+  {
+    "name": "Sousuke",
+    "nameNative": "宗介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15009-1FN9rnnLAinM.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroki-doi"
+    ]
+  },
+  {
+    "name": "Fujimoto",
+    "nameNative": "藤本",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17230-sax8DBCSudsQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "george-tokoro"
+    ]
+  },
+  {
+    "name": "Gran Mamare",
+    "nameNative": "グランマンマーレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17232-MZokfowix73Q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-amami"
+    ]
+  },
+  {
+    "name": "Karen",
+    "nameNative": "カレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189000-d527N1sog9Cb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-oohashi"
+    ]
+  },
+  {
+    "name": "Kouichi",
+    "nameNative": "こういち",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17233-0BYkJEPT1GKj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazushige-nagashima"
+    ]
+  },
+  {
+    "name": "Kumiko",
+    "nameNative": "クミコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189001-DO0oMPIp6QG8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eimi-hiraoka"
+    ]
+  },
+  {
+    "name": "Lisa",
+    "nameNative": "リサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17231-J6TPZzhN61m1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-yamaguchi"
+    ]
+  },
+  {
+    "name": "Noriko",
+    "nameNative": "ノリコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189003-SiJtLK9SeX5T.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tokie-hidari"
+    ]
+  },
+  {
+    "name": "Toki",
+    "nameNative": "トキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189002-TVDLj3op2Vx2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuko-yoshiyuki"
+    ]
+  },
+  {
+    "name": "Yoshie",
+    "nameNative": "ヨシエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29298-M0ok65sXdSJD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-naraoka"
+    ]
+  }
+]
