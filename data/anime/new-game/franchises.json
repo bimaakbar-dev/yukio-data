@@ -1,7 +1,12 @@
 [
   {
-    "relation": "sequel",
+    "relation": "prequel",
     "slug": "new-game-watashi-shain-ryokou-tte-hajimete-nanode",
     "title": "New Game! Watashi, Shain Ryokou tte Hajimete nanode..."
+  },
+  {
+    "relation": "character",
+    "slug": "kirara-fantasia",
+    "title": "Kirara Fantasia"
   }
 ]

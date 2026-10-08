@@ -36,6 +36,15 @@
     ]
   },
   {
+    "name": "Momiji Mochizuki",
+    "nameNative": "望月紅葉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123368-nQsEcrDs941g.png",
+    "role": "main",
+    "voiceActors": [
+      "arisa-suzuki"
+    ]
+  },
+  {
     "name": "Nene Sakura",
     "nameNative": "桜ねね",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89647-ulMABzKQOOmi.jpg",
@@ -63,6 +72,15 @@
     ]
   },
   {
+    "name": "Tsubame Narumi",
+    "nameNative": "鳴海ツバメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123370-zPV1g4mXJwLS.png",
+    "role": "main",
+    "voiceActors": [
+      "hitomi-oowada"
+    ]
+  },
+  {
     "name": "Umiko Ahagon",
     "nameNative": "阿波根うみこ",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89648-NDxJh2b2Qmtj.png",
@@ -81,21 +99,21 @@
     ]
   },
   {
-    "name": "Aoba's Mother",
-    "nameNative": "青葉の母",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "name": "Christina Wako Yamato",
+    "nameNative": "大和・クリスティーナ・和子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123366-lyEFKCXERdCq.png",
     "role": "supporting",
     "voiceActors": [
-      "hibiku-yamamura"
+      "kaori-nazuka"
     ]
   },
   {
-    "name": "Miu Iijima",
-    "nameNative": "飯島 みう",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160096-mCbldggGwC06.jpg",
+    "name": "Hotaru Hoshikawa",
+    "nameNative": "星川ほたる",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123367-El9Kzsvb95St.png",
     "role": "supporting",
     "voiceActors": [
-      "chihiro-kawakami"
+      "manaka-iwami"
     ]
   },
   {
@@ -108,30 +126,12 @@
     ]
   },
   {
-    "name": "Ren Iijima",
-    "nameNative": "飯島れん",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160095-oSUOR9SAnJHp.jpg",
+    "name": "Okada",
+    "nameNative": "岡田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190422-G4tF4kYg2DxR.png",
     "role": "supporting",
     "voiceActors": [
-      "risae-matsuda"
-    ]
-  },
-  {
-    "name": "Sojiro",
-    "nameNative": "宗次郎",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158503-u5F6ZwWWM39X.png",
-    "role": "supporting",
-    "voiceActors": [
-      "megumi-yamaguchi"
-    ]
-  },
-  {
-    "name": "Yamada",
-    "nameNative": "やまだ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160098-0j3nZBuVY3pi.png",
-    "role": "supporting",
-    "voiceActors": [
-      "saki-fujita"
+      "yuka-nukui"
     ]
   }
 ]
