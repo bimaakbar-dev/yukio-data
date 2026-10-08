@@ -1,0 +1,62 @@
+[
+  {
+    "number": 1,
+    "title": "First Glass: Plum Splet",
+    "duration": 4
+  },
+  {
+    "number": 2,
+    "title": "Second Glass: Orange Breeze",
+    "duration": 4
+  },
+  {
+    "number": 3,
+    "title": "Third Glass: Cinderella",
+    "duration": 4
+  },
+  {
+    "number": 4,
+    "title": "Fourth Glass: Spritzer",
+    "duration": 3
+  },
+  {
+    "number": 5,
+    "title": "Fifth Glass: Special Banana Cocktail",
+    "duration": 3
+  },
+  {
+    "number": 6,
+    "title": "Sixth Glass: Bellini",
+    "duration": 3
+  },
+  {
+    "number": 7,
+    "title": "Seventh Glass: Irish Coffee",
+    "duration": 3
+  },
+  {
+    "number": 8,
+    "title": "Eighth Glass: Egg Sake",
+    "duration": 3
+  },
+  {
+    "number": 9,
+    "title": "Ninth Glass: Zoom",
+    "duration": 3
+  },
+  {
+    "number": 10,
+    "title": "Tenth Glass: Shandygaff",
+    "duration": 3
+  },
+  {
+    "number": 11,
+    "title": "Eleventh Glass: Rainy Night",
+    "duration": 3
+  },
+  {
+    "number": 12,
+    "title": "Twelfth Glass: First Time",
+    "duration": 3
+  }
+]
