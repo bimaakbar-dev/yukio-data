@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Ikumi Akagi",
+    "nameNative": "赤城郁実",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264045-DenCJsXEmYCG.png",
+    "role": "main",
+    "voiceActors": [
+      "aya-yamane"
+    ]
+  },
+  {
+    "name": "Mai Sakurajima",
+    "nameNative": "桜島麻衣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127222-Jh5hhP7vZ7s1.png",
+    "role": "main",
+    "voiceActors": [
+      "asami-seto"
+    ]
+  },
+  {
+    "name": "Miniskirt Santa",
+    "nameNative": "ミニスカサンタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b350441-hdQABUVKOxZm.png",
+    "role": "main",
+    "voiceActors": [
+      "reina-ueda"
+    ]
+  },
+  {
+    "name": "Nodoka Toyohama",
+    "nameNative": "豊浜のどか",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127841-UY9wQq6dW9SY.png",
+    "role": "main",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Sakuta Azusagawa",
+    "nameNative": "梓川咲太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png",
+    "role": "main",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Sara Himeji",
+    "nameNative": "姫路紗良",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308060-5VBtm5YbfAEx.png",
+    "role": "main",
+    "voiceActors": [
+      "konomi-kohara"
+    ]
+  },
+  {
+    "name": "Uzuki Hirokawa",
+    "nameNative": "広川卯月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144797-4Wbf9gYygNNC.png",
+    "role": "main",
+    "voiceActors": [
+      "sora-amamiya"
+    ]
+  },
+  {
+    "name": "Fumika Nanjou",
+    "nameNative": "南条文香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144795-1a7VVmegZr4F.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-satou"
+    ]
+  },
+  {
+    "name": "Juri Yoshiwa",
+    "nameNative": "吉和樹里",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351197-pt2Mtg2qc3Oi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-yamamoto"
+    ]
+  },
+  {
+    "name": "Kaede Azusagawa",
+    "nameNative": "梓川かえで",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yurika-kubo"
+    ]
+  },
+  {
+    "name": "Kento Yamada",
+    "nameNative": "山田健人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351198-R2jv0M2Thfpu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuya-hirose"
+    ]
+  },
+  {
+    "name": "Miori Mitou",
+    "nameNative": "美東美織",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308059-R5JulNdzdhOr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Ranko Nakago",
+    "nameNative": "中郷蘭子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b370925-Ijn7fIGHBLzF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayumi-suzushiro"
+    ]
+  },
+  {
+    "name": "Rio Futaba",
+    "nameNative": "双葉理央",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127633-FcCwWK5sQRhK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsumi-tanezaki"
+    ]
+  },
+  {
+    "name": "Ryouko Hanawa",
+    "nameNative": "花輪涼子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b285128-RZU9irEAq7sP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuki-aikawa"
+    ]
+  },
+  {
+    "name": "Saki Kamisato",
+    "nameNative": "上里沙希",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130304-5VhLSgq1zYIQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "himika-akaneya"
+    ]
+  },
+  {
+    "name": "Shouko Makinohara",
+    "nameNative": "牧之原翔子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n127843-nz8GbQ9rhB8R.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Takumi Fukuyama",
+    "nameNative": "福山拓海",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365262-ePw6N6XTD9tY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mutsuki-iwanaka"
+    ]
+  },
+  {
+    "name": "Tomoe Koga",
+    "nameNative": "古賀朋絵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Yuuma Kunimi",
+    "nameNative": "国見佑真",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130307-QbUIGjAiQbP9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuma-uchida"
+    ]
+  }
+]
