@@ -1,27 +1,27 @@
 ---
-title: "Gintama'"
-titleEnglish: Gintama Season 2
-titleNative: 銀魂’
+title: Gintama°
+titleEnglish: Gintama Season 3
+titleNative: 銀魂゜
 
-malId: 9969
-kitsuId: "818"
+malId: 28977
+kitsuId: "10083"
 
 type: TV
 status: finished
 source: manga
 
 season: spring
-year: 2011
+year: 2015
 episodes: 51
 duration: 24
 # rating: # edit manual
 
 aired:
-  from: "2011-04-04"
-  to: "2012-03-26"
+  from: "2015-04-08"
+  to: "2016-03-30"
 
 stats:
-  score: 8.9
+  score: 9.0
   # scoredBy: # edit manual
 
 genres:
@@ -31,19 +31,19 @@ genres:
   - sci-fi
 
 studios:
-  - sunrise
+  - bandai-namco-pictures
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9969-0GaRABYVdUcH.png"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9969-pxE6nSzGGyUB.jpg"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20996-kBEGEGdeK1r7.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20996-gaNJKtjmy3Pf.jpg"
 # trailer: # edit manual
 
 draft: false
 ---
 
-After a one-year hiatus, Shinpachi Shimura returns to Edo, only to stumble upon a shocking surprise: Gintoki and Kagura, his fellow Yorozuya members, have become completely different characters! Fleeing from the Yorozuya headquarters in confusion, Shinpachi finds that all the denizens of Edo have undergone impossibly extreme changes, in both appearance and personality. Most unbelievably, his sister Otae has married the Shinsengumi chief and shameless stalker Isao Kondou and is pregnant with their first child.
+Gintoki, Shinpachi, and Kagura return as the fun-loving but broke members of the Yorozuya team! Living in an alternate-reality Edo, where swords are prohibited and alien overlords have conquered Japan, they try to thrive on doing whatever work they can get their hands on. However, Shinpachi and Kagura still haven't been paid... Does Gin-chan really spend all that cash playing pachinko?
 
-Bewildered, Shinpachi agrees to join the Shinsengumi at Otae and Kondou's request and finds even more startling transformations afoot both in and out of the ranks of the the organization. However, discovering that Vice Chief Toushirou Hijikata has remained unchanged, Shinpachi and his unlikely Shinsengumi ally set out to return the city of Edo to how they remember it.
+Meanwhile, when Gintoki drunkenly staggers home one night, an alien spaceship crashes nearby. A fatally injured crew member emerges from the ship and gives Gintoki a strange, clock-shaped device, warning him that it is incredibly powerful and must be safeguarded. Mistaking it for his alarm clock, Gintoki proceeds to smash the device the next morning and suddenly discovers that the world outside his apartment has come to a standstill. With Kagura and Shinpachi at his side, he sets off to get the device fixed; though, as usual, nothing is ever that simple for the Yorozuya team.
 
-With even more dirty jokes, tongue-in-cheek parodies, and shameless references, Gintama' follows the Yorozuya team through more of their misadventures in the vibrant, alien-filled world of Edo.
+Filled with tongue-in-cheek humor and moments of heartfelt emotion, Gintama's fourth season finds Gintoki and his friends facing both their most hilarious misadventures and most dangerous crises yet.
 
 (Source: MAL Rewrite)
