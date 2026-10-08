@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Holo",
+    "nameNative": "ホロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7373-1BH0gELuZmHD.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Kraft Lawrence",
+    "nameNative": "クラフト・ロレンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7374-XeKVCsoW129T.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Dian Rubens",
+    "nameNative": "ディアン・ルーベンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19671-lacbGr4ancAd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Fermi Amarty",
+    "nameNative": "フェルミ・アマーティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19670-UVNI8rkI8SNx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saeko-chiba"
+    ]
+  },
+  {
+    "name": "Fleur Boland",
+    "nameNative": "フルール・ボラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25153-wPO51zV4Y7jL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Helena",
+    "nameNative": "ヘレーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25802-oCbW5GggxoDS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sara-nakayama"
+    ]
+  },
+  {
+    "name": "Mark",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23867-2LkpW9mTz1lF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Merta",
+    "nameNative": "メルタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46441.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-toyosaki"
+    ]
+  },
+  {
+    "name": "Rigoro Deidre",
+    "nameNative": "リゴロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25370.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuya-uchida"
+    ]
+  }
+]
