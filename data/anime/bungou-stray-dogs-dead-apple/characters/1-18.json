@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Atsushi Nakajima",
+    "nameNative": "中島敦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89197-vB5kP72ruckV.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuto-uemura"
+    ]
+  },
+  {
+    "name": "Chuuya Nakahara",
+    "nameNative": "中原中也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89853-06qMPkrGlgP1.png",
+    "role": "main",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Fyodor Dostoyevsky",
+    "nameNative": "フョードル・ドストエフスキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138067-oHmQo5cOSZMN.png",
+    "role": "main",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Kyouka Izumi",
+    "nameNative": "泉鏡花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89856-GB3SOKXTBnrX.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sumire-morohoshi"
+    ]
+  },
+  {
+    "name": "Osamu Dazai",
+    "nameNative": "太宰治",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89198-qKmRTw4Y3PRC.png",
+    "role": "main",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Ryuunosuke Akutagawa",
+    "nameNative": "芥川龍之介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89199-h8tHKG8vKPNZ.png",
+    "role": "main",
+    "voiceActors": [
+      "kenshou-ono"
+    ]
+  },
+  {
+    "name": "Tatsuhiko  Shibusawa",
+    "nameNative": "澁澤龍彦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138161-qhXya1SqFWGU.png",
+    "role": "main",
+    "voiceActors": [
+      "kazuya-nakai"
+    ]
+  },
+  {
+    "name": "Agatha Christie",
+    "nameNative": "アガサ・クリスティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138156-R72jmqmIq7C3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Akiko Yosano",
+    "nameNative": "与謝野晶子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89208-Zjsz22lCmrIE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-shimamura"
+    ]
+  },
+  {
+    "name": "Ango Sakaguchi",
+    "nameNative": "坂口安吾",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134500-I4bkRhZRWfVs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Elise",
+    "nameNative": "エリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138063-oT7IVCxhKidq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sora-amamiya"
+    ]
+  },
+  {
+    "name": "Junichirou Tanizaki",
+    "nameNative": "谷崎潤一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89205-69AfPXd4QmX3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-toyonaga"
+    ]
+  },
+  {
+    "name": "Kenji Miyazawa",
+    "nameNative": "宮沢賢治",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89207-i7pw9zNQqXpZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-kagura"
+    ]
+  },
+  {
+    "name": "Mizuki Tsujimura",
+    "nameNative": "辻村深月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134499-MBdCfSBqjEcK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Ougai Mori",
+    "nameNative": "森鷗外",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121168-XkWaYGESyQpZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-miyamoto"
+    ]
+  },
+  {
+    "name": "Ranpo Edogawa",
+    "nameNative": "江戸川乱歩",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89201-K0X5HNq88Oub.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Sakunosuke Oda",
+    "nameNative": "織田作之助",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120625-i2xfexhHTwMQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Yukichi Fukuzawa",
+    "nameNative": "福沢諭吉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89196-E2tIf6nIPKnW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  }
+]
