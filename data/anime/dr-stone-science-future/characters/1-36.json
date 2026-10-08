@@ -1,0 +1,328 @@
+[
+  {
+    "name": "Chrome",
+    "nameNative": "クロム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124145-EEvQmsj8jku4.png",
+    "role": "main",
+    "voiceActors": [
+      "gen-satou"
+    ]
+  },
+  {
+    "name": "Gen Asagiri",
+    "nameNative": "あさぎりゲン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png",
+    "role": "main",
+    "voiceActors": [
+      "kengo-kawanishi"
+    ]
+  },
+  {
+    "name": "Kohaku",
+    "nameNative": "コハク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png",
+    "role": "main",
+    "voiceActors": [
+      "manami-numakura"
+    ]
+  },
+  {
+    "name": "Ryuusui Nanami",
+    "nameNative": "七海龍水",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145097-TYg5SshsyvUU.png",
+    "role": "main",
+    "voiceActors": [
+      "ryouta-suzuki"
+    ]
+  },
+  {
+    "name": "Senkuu Ishigami",
+    "nameNative": "石神千空",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-XUO1g7wRqkaT.png",
+    "role": "main",
+    "voiceActors": [
+      "yuusuke-kobayashi",
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "Taiju Ooki",
+    "nameNative": "大木大樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124146-TeXd4r0upuIX.jpg",
+    "role": "main",
+    "voiceActors": [
+      "makoto-furukawa",
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Brody Dudley",
+    "nameNative": "ブロディ・ダドリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219106-fdknb2a8bPef.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Byakuya Ishigami",
+    "nameNative": "石神百夜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b149275-ghZG8Itl5Iz9.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-mikami"
+    ]
+  },
+  {
+    "name": "Carlos Barrios",
+    "nameNative": "カルロス・バリオス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187009-idxKVnBvwL6U.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiharu-sawashiro"
+    ]
+  },
+  {
+    "name": "Charlotte Bony",
+    "nameNative": "シャーロット・ボニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354547-xBTMHOD5HvgC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-hinata"
+    ]
+  },
+  {
+    "name": "Dr. Xeno",
+    "nameNative": "Dr.ゼノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186479-W4HKWQqL1CLx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nojima"
+    ]
+  },
+  {
+    "name": "Francois",
+    "nameNative": "フランソワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145098-T5TSpMoyy3cR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Ginrou",
+    "nameNative": "銀狼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143270-8kC2e32r7CyE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Homura Momiji",
+    "nameNative": "紅葉ほむら",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145065-NjHaMBBRg49I.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-toyosaki"
+    ]
+  },
+  {
+    "name": "Hyouga",
+    "nameNative": "氷月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145062-eCEE4J0RRGvt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Kaseki",
+    "nameNative": "カセキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136446-gpvtw5cb2I3Q.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  },
+  {
+    "name": "Kinrou",
+    "nameNative": "金狼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143271-6dNgt1Mcy3PU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "Kirisame",
+    "nameNative": "キリサメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157299-5fxM7O9fEWPF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaede-hondo"
+    ]
+  },
+  {
+    "name": "Luna Wright",
+    "nameNative": "ルーナ・ライト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187008-WKVqpYnIQJ9C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-sekine"
+    ]
+  },
+  {
+    "name": "Magma",
+    "nameNative": "マグマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145095-5kvEF2XUhNui.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-mamiya"
+    ]
+  },
+  {
+    "name": "Mantle",
+    "nameNative": "マントル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b147570-4oRDjkvGZIBU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shin-matsushige"
+    ]
+  },
+  {
+    "name": "Matsukaze",
+    "nameNative": "松風",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188816-YTDuL5vljiUs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youhei-azakami"
+    ]
+  },
+  {
+    "name": "Max Adams",
+    "nameNative": "マックス・アダムス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187010-Jc84kt9jlIeH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taishi-murata"
+    ]
+  },
+  {
+    "name": "Maya Biggs",
+    "nameNative": "マヤ・ビッグス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354545-SRYskDMgJC2d.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariko-higashiuchi"
+    ]
+  },
+  {
+    "name": "Minami Hokutouzai",
+    "nameNative": "北東西南",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145096-Xk4D4sK7nZy9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Mirai Shishiou",
+    "nameNative": "獅子王未来",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145100-8n5wwBz7AclE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Mozu",
+    "nameNative": "モズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157298-XEfALtQhqDDT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Nikki Hanada",
+    "nameNative": "花田仁姫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145063-ALOeDMIyqCAE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsumi-tanezaki"
+    ]
+  },
+  {
+    "name": "Ruri",
+    "nameNative": "ルリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143272-IHdEdAbE4C4t.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reina-ueda"
+    ]
+  },
+  {
+    "name": "Stanley Snyder",
+    "nameNative": "スタンリー・スナイダー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186483-JFDyGA332HBa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Suika",
+    "nameNative": "スイカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124162-htFFNeC04bzw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "karin-takahashi"
+    ]
+  },
+  {
+    "name": "Tetsuya Kinomoto",
+    "nameNative": "基本徹夜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282320-MdtThy8uLpAx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukushima"
+    ]
+  },
+  {
+    "name": "Tsukasa Shishiou",
+    "nameNative": "獅子王司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124144-KOjcmhunbvYn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Ukyou Saionji",
+    "nameNative": "西園寺羽京",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145064-cbgNBAEY9q4R.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenshou-ono"
+    ]
+  },
+  {
+    "name": "You Uei",
+    "nameNative": "上井陽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145061-BKjjznIkzV6C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiki-nakajima"
+    ]
+  },
+  {
+    "name": "Yuzuriha Ogawa",
+    "nameNative": "小川杠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124147-y3uE9rBepdad.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ichinose"
+    ]
+  }
+]
