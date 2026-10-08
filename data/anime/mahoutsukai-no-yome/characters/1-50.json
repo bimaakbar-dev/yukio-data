@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Cartaphilus",
+    "nameNative": "カルタフィルス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129385-jdRVhN7MJUTb.png",
+    "role": "main",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Chise Hatori",
+    "nameNative": "羽鳥智世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88344-zn7wbe8rKgqT.png",
+    "role": "main",
+    "voiceActors": [
+      "atsumi-tanezaki"
+    ]
+  },
+  {
+    "name": "Elias Ainsworth",
+    "nameNative": "エリアス・エインズワーズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121430-n1k9M5RdkXyI.png",
+    "role": "main",
+    "voiceActors": [
+      "ryouta-takeuchi"
+    ]
+  },
+  {
+    "name": "Adolf Stroud",
+    "nameNative": "アドルフ・ストラウド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161270-aeTi8y4s4EU0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-suzumura"
+    ]
+  },
+  {
+    "name": "Akiko Hatori",
+    "nameNative": "羽鳥晶子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161269-pVPgMo8LvaOU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Alice Swayne",
+    "nameNative": "アリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161265-vKqji5ON23W7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Ally",
+    "nameNative": "アリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164507-XebqOQ31IelL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "lynn"
+    ]
+  },
+  {
+    "name": "Althea Barley",
+    "nameNative": "アルシア・バーレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161268-KDaCED5bnJCl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-asai"
+    ]
+  },
+  {
+    "name": "Angelica Barley",
+    "nameNative": "アンジェリカ・バーレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161264-WKJ2WMKUpFPX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Angelica no Chichioya",
+    "nameNative": "アンジェリカの父親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164521-jANW18ZQLcCN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuaki-kanemitsu"
+    ]
+  },
+  {
+    "name": "Ashen Eye",
+    "nameNative": "アッシェンアイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164525-drhBm7ynR3Hx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Barney",
+    "nameNative": "バーニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164505-BJnjPy71sUr5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  },
+  {
+    "name": "Beana Hatchling",
+    "nameNative": "ドラゴンの雛(ベァナ種)",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164513-ppO5XqT5ZbOV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-naitou"
+    ]
+  },
+  {
+    "name": "Chika Hatori",
+    "nameNative": "羽鳥智花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161252-fLwqMv8LMMin.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "David Barley",
+    "nameNative": "デイビット・バーレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164523-rffiIrQL7TNV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-fukuda"
+    ]
+  },
+  {
+    "name": "Dragon",
+    "nameNative": "ドラゴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164550-CJlGXZEIcMNa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-shiraki"
+    ]
+  },
+  {
+    "name": "Ethan Barklem",
+    "nameNative": "イーサン・バークレム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161251-yzndK0MYpMlr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Fire Sprite",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164527-FxMMyEEa9ife.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-satou"
+    ]
+  },
+  {
+    "name": "Fumiki Hatori",
+    "nameNative": "羽鳥史輝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161259-CSbW1AblB6n2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-satou"
+    ]
+  },
+  {
+    "name": "Fuyu no Megami",
+    "nameNative": "冬の女神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164500-Nmd9glcKUvsC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Gwee Hatchling",
+    "nameNative": "ドラゴンの雛(グィー種)",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164511-b8LkBIzI5FrA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-fujiwara"
+    ]
+  },
+  {
+    "name": "Hawthorn Spirit",
+    "nameNative": "サンザシの精",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164504-RFjg0pf2UBju.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-satou"
+    ]
+  },
+  {
+    "name": "Hazel",
+    "nameNative": "ヘイゼル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164501-npaqm41YUevo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-matsukawa"
+    ]
+  },
+  {
+    "name": "Hugo",
+    "nameNative": "ヒューゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161262-G3ObTp2721cN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  },
+  {
+    "name": "Isabel",
+    "nameNative": "イザベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164516-ZiIn4LiOkjcl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsumi-tanezaki"
+    ]
+  },
+  {
+    "name": "Isabel no Chichi",
+    "nameNative": "イザベルの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164498-db0WWec5ZaBO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-sanpei"
+    ]
+  },
+  {
+    "name": "Jade Ariel",
+    "nameNative": "ジェイドアリエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161266-DvfJK2j1VTCh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-naitou"
+    ]
+  },
+  {
+    "name": "Jasper",
+    "nameNative": "ジャスパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164497-PzPEBhpLI5tB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiaki-hasegawa"
+    ]
+  },
+  {
+    "name": "Joel Garland",
+    "nameNative": "ジョエル・ガーランド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161254-7UoFgcZiXdQy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-umezu"
+    ]
+  },
+  {
+    "name": "Kyuuketsuki",
+    "nameNative": "吸血鬼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164499-vMGr4Td1reCA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-naitou"
+    ]
+  },
+  {
+    "name": "Leannán Sídhe",
+    "nameNative": "リャナン・シー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164517-7CWbtGwOVP5O.png",
+    "role": "supporting",
+    "voiceActors": [
+      "arisa-kiyoto"
+    ]
+  },
+  {
+    "name": "Lindel",
+    "nameNative": "リンデル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129384-zSLY3QNgirXd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Marielle",
+    "nameNative": "マリエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164519-u3GJ8nObwai8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Masked Monster",
+    "nameNative": "仮面の怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164503-umhrrXdtsF4h.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-satou"
+    ]
+  },
+  {
+    "name": "Matthew",
+    "nameNative": "マシュー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164520-0x7KILKjwNaI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuto-uemura"
+    ]
+  },
+  {
+    "name": "Merituuli",
+    "nameNative": "メリトゥーリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164494-0DoPHvCfnRT7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Mikhail Renfred",
+    "nameNative": "ミハイル・レンフレッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161260-vXgm5MGgq9oh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Mina",
+    "nameNative": "ミナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164530-Gw5pk7yPwFlp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manami-numakura"
+    ]
+  },
+  {
+    "name": "Molly",
+    "nameNative": "モリィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164509-mImeby4hP203.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rei-sakuma"
+    ]
+  },
+  {
+    "name": "Nevin",
+    "nameNative": "ネヴィン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161258-EB9p7RkUQlEI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuzaburou-ootomo"
+    ]
+  },
+  {
+    "name": "Oberon",
+    "nameNative": "オベロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124155-iDJCsdqXTR4P.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Phyllis",
+    "nameNative": "ピュリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164541-qahOqrR8pM5Z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-tanaka"
+    ]
+  },
+  {
+    "name": "Rahab",
+    "nameNative": "ラハブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164547-N3GbNPK65mYn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kotono-mitsuishi"
+    ]
+  },
+  {
+    "name": "Redcurrant",
+    "nameNative": "レッドカラント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161257-ubeA0uwkmFmG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Ruth",
+    "nameNative": "ルツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125916-FmtQGDFTX0Rr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Seth Noel",
+    "nameNative": "セス・ノエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161256-FPJUkW3Uhnz4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Seth's Assistant",
+    "nameNative": "アシスタント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164543-oe8I97yofTfu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiaki-hasegawa"
+    ]
+  },
+  {
+    "name": "Shanahan",
+    "nameNative": "シャナハン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164533-V6NPMobMY05U.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuma-uchida"
+    ]
+  },
+  {
+    "name": "Shannon",
+    "nameNative": "シャノン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164545-t0Apk1PwhJcp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-shimoda"
+    ]
+  },
+  {
+    "name": "Shouji Hatori",
+    "nameNative": "羽鳥昭次",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164546-QTPfULDeNVMQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-yasumura"
+    ]
+  }
+]
