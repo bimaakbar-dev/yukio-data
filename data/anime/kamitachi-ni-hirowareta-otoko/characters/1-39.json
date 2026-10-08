@@ -1,0 +1,354 @@
+[
+  {
+    "name": "Eliaria Jamil",
+    "nameNative": "エリアリア・ジャミール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180258-1tE8utxd0gLX.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuki-kuwahara"
+    ]
+  },
+  {
+    "name": "Ryouma Takebayashi",
+    "nameNative": "リョウマ・タケバヤシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167274-iBWLUtWBoOO6.jpg",
+    "role": "main",
+    "voiceActors": [
+      "azusa-tadokoro",
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Araune",
+    "nameNative": "アローネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199707-OwytqBCXHIvM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chihiro-kawakami"
+    ]
+  },
+  {
+    "name": "Asagi",
+    "nameNative": "アサギ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199706-IFeFpDn0t6MO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-inoue"
+    ]
+  },
+  {
+    "name": "Callum Norad",
+    "nameNative": "カルム・ノーラッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197884-D2e8eVFn9o9F.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sakura-nakamura"
+    ]
+  },
+  {
+    "name": "Camil",
+    "nameNative": "カミル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191323-tbk8wbwOCZCJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Carla Norad",
+    "nameNative": "カルラ・ノーラッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197885-5kDCFcEXmilV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "risa-hoshina"
+    ]
+  },
+  {
+    "name": "Cilia",
+    "nameNative": "シリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188214-FoI9MD42ewd1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-fukuo"
+    ]
+  },
+  {
+    "name": "Elise Jamil",
+    "nameNative": "エリーゼ・ジャミール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180265-5j5eEtvhjiWq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Fei Ling",
+    "nameNative": "フェイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197881-njLCRsYZhDNh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuyoshi-aoki"
+    ]
+  },
+  {
+    "name": "Fina",
+    "nameNative": "フィーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197887-R4KSRryxNtwM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuku-hoshinoya"
+    ]
+  },
+  {
+    "name": "Gain",
+    "nameNative": "ガイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180259-ZfnfP5tXPYxM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "motomu-kiyokawa"
+    ]
+  },
+  {
+    "name": "Glissela",
+    "nameNative": "グリシエーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195773-bDY7CKNDHwrp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reiko-suzuki"
+    ]
+  },
+  {
+    "name": "Hughes",
+    "nameNative": "ヒューズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191326-BAMrZ4wlKl4K.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keisuke-koumoto"
+    ]
+  },
+  {
+    "name": "Jane",
+    "nameNative": "ジェーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197889-uyIOL8xU7kzz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fairouz-ai"
+    ]
+  },
+  {
+    "name": "Jeff Grange",
+    "nameNative": "ジェフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199419-usbpRr1WTI4i.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinji-kawada"
+    ]
+  },
+  {
+    "name": "Jill",
+    "nameNative": "ジル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191324-0kN9xeRZowsS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-kobayashi"
+    ]
+  },
+  {
+    "name": "Kachou",
+    "nameNative": "課長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191327-xboGvQxlQgKP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-okuda"
+    ]
+  },
+  {
+    "name": "Kai",
+    "nameNative": "カイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198655-ErhvdfM4Ra7E.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-nogawa"
+    ]
+  },
+  {
+    "name": "Kufo",
+    "nameNative": "クフォ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180261-ymtUxwU25gT9.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-koichi"
+    ]
+  },
+  {
+    "name": "Leipin",
+    "nameNative": "レイピン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199705-DtackUbcprWx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taku-yashiro"
+    ]
+  },
+  {
+    "name": "Li Ling",
+    "nameNative": "リーリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197880-b9Am4JnKoi5H.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-toujou"
+    ]
+  },
+  {
+    "name": "Lilian",
+    "nameNative": "リリアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200638-Plv9zjhydmj3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-yagi"
+    ]
+  },
+  {
+    "name": "Lulutia",
+    "nameNative": "ルルティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180262-it0bREt73Fch.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Maria",
+    "nameNative": "マリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197888-KpU6CRyct9ci.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-otagiri"
+    ]
+  },
+  {
+    "name": "Maylene",
+    "nameNative": "メイリーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198651-6yJA8uk6Pkr2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-wakui"
+    ]
+  },
+  {
+    "name": "Miya",
+    "nameNative": "ミーヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180263-AUOi7jGA4PHf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marika-kouno"
+    ]
+  },
+  {
+    "name": "Mizelia",
+    "nameNative": "ミゼリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188213-4To94d6ChOT3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-takada"
+    ]
+  },
+  {
+    "name": "Reinbach Jamil",
+    "nameNative": "ラインバッハ・ジャミール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180266-TWeYYdhvkBIL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Reinhart Jamil",
+    "nameNative": "ラインハルト・ジャミール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180260-p7QrTMC3iIT0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Sebas",
+    "nameNative": "セバス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198650-cS25hM8g1IZ7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomomichi-nishimura"
+    ]
+  },
+  {
+    "name": "Sein",
+    "nameNative": "セイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198653-KZMaEHV8WrLy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mutsuki-ryumon"
+    ]
+  },
+  {
+    "name": "Selma",
+    "nameNative": "シェルマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197890-jNzD1w4dbqfp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kanako-yanagihara"
+    ]
+  },
+  {
+    "name": "Serge Morgan",
+    "nameNative": "セルジュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195774-xo0RE0vt1GSK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-yasumura"
+    ]
+  },
+  {
+    "name": "Shin",
+    "nameNative": "シン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198658-A7IvNPkSwEYS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuujirou-kakuda"
+    ]
+  },
+  {
+    "name": "Tabuchi",
+    "nameNative": "田淵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180264-EpnVauy4rMeX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Welanna",
+    "nameNative": "ウェルアンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188212-8e2UNbsZvczM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-hirose"
+    ]
+  },
+  {
+    "name": "Worgan",
+    "nameNative": "ウォーガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188211-5yjm6M9t95ck.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Zeph",
+    "nameNative": "ゼフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191325-apv4LWVudtYw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shoutarou-morikubo"
+    ]
+  }
+]
