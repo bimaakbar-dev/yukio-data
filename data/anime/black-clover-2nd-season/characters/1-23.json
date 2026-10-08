@@ -1,209 +1,209 @@
 [
   {
     "name": "Asta",
+    "nameNative": "アスタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123285-tKijiuQErDS0.png",
     "role": "main",
     "voiceActors": [
       "gakuto-kajiwara"
-    ],
-    "nameNative": "アスタ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123285-tKijiuQErDS0.png"
-  },
-  {
-    "name": "Yuno",
-    "role": "main",
-    "voiceActors": [
-      "nobunaga-shimazaki"
-    ],
-    "nameNative": "ユノ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123284-w6kIFYnTclMd.png"
+    ]
   },
   {
     "name": "Noelle Silva",
+    "nameNative": "ノエル・シルヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123283-7nJHtKha0LSm.png",
     "role": "main",
     "voiceActors": [
       "kana-yuuki"
-    ],
-    "nameNative": "ノエル・シルヴァ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123283-7nJHtKha0LSm.png"
+    ]
   },
   {
-    "name": "Liebe",
-    "role": "supporting",
+    "name": "Yuno",
+    "nameNative": "ユノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123284-w6kIFYnTclMd.png",
+    "role": "main",
     "voiceActors": [
-      "nobuhiko-okamoto"
-    ],
-    "nameNative": "リーベ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192196-giZLzC1Xj9Hp.png"
-  },
-  {
-    "name": "Nacht Faust",
-    "role": "supporting",
-    "voiceActors": [
-      "hiro-shimono"
-    ],
-    "nameNative": "ナハト・ファウスト",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187268-vkcrcTvjNSrA.png"
-  },
-  {
-    "name": "Yami Sukehiro",
-    "role": "supporting",
-    "voiceActors": [
-      "junichi-suwabe"
-    ],
-    "nameNative": "ヤミ・スケヒロ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124440-Lpdo6y8cljV6.png"
-  },
-  {
-    "name": "Dante Zogratis",
-    "role": "supporting",
-    "voiceActors": [
-      "rikiya-koyama"
-    ],
-    "nameNative": "ダンテ・ゾグラティス",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163782-lbNzUCyy4lk0.png"
-  },
-  {
-    "name": "Zenon Zogratis",
-    "role": "supporting",
-    "voiceActors": [
-      "tatsuhisa-suzuki"
-    ],
-    "nameNative": "ゼノン・ゾグラティス",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167952-Giy7Os8XrOKM.jpg"
-  },
-  {
-    "name": "Charlotte Roselei",
-    "role": "supporting",
-    "voiceActors": [
-      "yuu-kobayashi"
-    ],
-    "nameNative": "シャーロット・ローズレイ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124434-ZmaDj2J5lSId.png"
-  },
-  {
-    "name": "Julius Novachrono",
-    "role": "supporting",
-    "voiceActors": [
-      "toshiyuki-morikawa"
-    ],
-    "nameNative": "ユリウス・ノヴァクロノ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg"
-  },
-  {
-    "name": "Nozel Silva",
-    "role": "supporting",
-    "voiceActors": [
-      "kousuke-toriumi"
-    ],
-    "nameNative": "ノゼル・シルヴァ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124442-KpZhHmhjw2EG.png"
-  },
-  {
-    "name": "Jack the Ripper",
-    "role": "supporting",
-    "voiceActors": [
-      "daisuke-namikawa"
-    ],
-    "nameNative": "ジャック・ザリッパー",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124456-llrSWfAXlnbb.png"
-  },
-  {
-    "name": "Rill Boismortier",
-    "role": "supporting",
-    "voiceActors": [
-      "natsuki-hanae"
-    ],
-    "nameNative": "リル・ボワモルティエ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124457-d3MtJfUT6yqI.png"
-  },
-  {
-    "name": "Sekke Bronzazza",
-    "role": "supporting",
-    "voiceActors": [
-      "ryouta-oosaka"
-    ],
-    "nameNative": "セッケ・ブロンザッザ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124460-EUJVxM0PG7uV.png"
-  },
-  {
-    "name": "Valtos",
-    "role": "supporting",
-    "voiceActors": [
-      "daiki-hamano"
-    ],
-    "nameNative": "ヴァルトス",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124480-fgXboXYez36E.png"
-  },
-  {
-    "name": "Sally",
-    "role": "supporting",
-    "voiceActors": [
-      "minami-tsuda"
-    ],
-    "nameNative": "サリー",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124519-HGSExVAbCiju.png"
-  },
-  {
-    "name": "Lotus Whomalt",
-    "role": "supporting",
-    "voiceActors": [
-      "kenyuu-horiuchi"
-    ],
-    "nameNative": "ロータス・フーモルト",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124520-dNrBuePMtZ3k.png"
-  },
-  {
-    "name": "Fuegoleon Vermillion",
-    "role": "supporting",
-    "voiceActors": [
-      "katsuyuki-konishi"
-    ],
-    "nameNative": "フエゴレオン・ヴァーミリオン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124521-MqX5KT2tGSa8.png"
-  },
-  {
-    "name": "Mereoleona Vermillion",
-    "role": "supporting",
-    "voiceActors": [
-      "junko-minagawa"
-    ],
-    "nameNative": "メレオレオナ・ヴァーミリオン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png"
+      "nobunaga-shimazaki"
+    ]
   },
   {
     "name": "Augustus Kira Clover XIII",
+    "nameNative": "アウグストゥス・キーラ・クローバー13世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124528-cyB6cHIa4Zlq.png",
     "role": "supporting",
     "voiceActors": [
       "jun-miyamoto"
-    ],
-    "nameNative": "アウグストゥス・キーラ・クローバー13世",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124528-cyB6cHIa4Zlq.png"
+    ]
+  },
+  {
+    "name": "Charlotte Roselei",
+    "nameNative": "シャーロット・ローズレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124434-ZmaDj2J5lSId.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Dante Zogratis",
+    "nameNative": "ダンテ・ゾグラティス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163782-lbNzUCyy4lk0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Fuegoleon Vermillion",
+    "nameNative": "フエゴレオン・ヴァーミリオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124521-MqX5KT2tGSa8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Jack the Ripper",
+    "nameNative": "ジャック・ザリッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124456-llrSWfAXlnbb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Julius Novachrono",
+    "nameNative": "ユリウス・ノヴァクロノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
   },
   {
     "name": "Langris Vaude",
+    "nameNative": "ランギルス・ヴォード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124975-vRUxV3oIOle7.png",
     "role": "supporting",
     "voiceActors": [
       "kaito-ishikawa"
-    ],
-    "nameNative": "ランギルス・ヴォード",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124975-vRUxV3oIOle7.png"
+    ]
   },
   {
-    "name": "Moris Libardirt",
+    "name": "Liebe",
+    "nameNative": "リーベ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192196-giZLzC1Xj9Hp.png",
     "role": "supporting",
     "voiceActors": [
-      "masayuki-akasaka"
-    ],
-    "nameNative": "リバルダートモリス",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248332-XOw93gi9Ltz6.png"
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Lotus Whomalt",
+    "nameNative": "ロータス・フーモルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124520-dNrBuePMtZ3k.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenyuu-horiuchi"
+    ]
   },
   {
     "name": "Makusa North",
+    "nameNative": "マクサ・ノース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410374-jp7ehBHoG7UF.png",
     "role": "supporting",
     "voiceActors": [
       "daisuke-sakuma"
-    ],
-    "nameNative": "マクサ・ノース",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410374-jp7ehBHoG7UF.png"
+    ]
+  },
+  {
+    "name": "Mereoleona Vermillion",
+    "nameNative": "メレオレオナ・ヴァーミリオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-minagawa"
+    ]
+  },
+  {
+    "name": "Moris Libardirt",
+    "nameNative": "リバルダートモリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248332-XOw93gi9Ltz6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masayuki-akasaka"
+    ]
+  },
+  {
+    "name": "Nacht Faust",
+    "nameNative": "ナハト・ファウスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187268-vkcrcTvjNSrA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Nozel Silva",
+    "nameNative": "ノゼル・シルヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124442-KpZhHmhjw2EG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Rill Boismortier",
+    "nameNative": "リル・ボワモルティエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124457-d3MtJfUT6yqI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Sally",
+    "nameNative": "サリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124519-HGSExVAbCiju.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-tsuda"
+    ]
+  },
+  {
+    "name": "Sekke Bronzazza",
+    "nameNative": "セッケ・ブロンザッザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124460-EUJVxM0PG7uV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Valtos",
+    "nameNative": "ヴァルトス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124480-fgXboXYez36E.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-hamano"
+    ]
+  },
+  {
+    "name": "Yami Sukehiro",
+    "nameNative": "ヤミ・スケヒロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124440-Lpdo6y8cljV6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Zenon Zogratis",
+    "nameNative": "ゼノン・ゾグラティス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167952-Giy7Os8XrOKM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
   }
 ]
