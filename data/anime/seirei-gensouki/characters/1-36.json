@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Celia Claire",
+    "nameNative": "セリア・クレール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161678-E8wQlmBbWuAa.png",
+    "role": "main",
+    "voiceActors": [
+      "akane-fujita"
+    ]
+  },
+  {
+    "name": "Latifa",
+    "nameNative": "ラティーファ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161677-k6Z7RdKM6yL5.png",
+    "role": "main",
+    "voiceActors": [
+      "tomori-kusunoki"
+    ]
+  },
+  {
+    "name": "Rio",
+    "nameNative": "リオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161679-A43aRquH2ATA.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yoshitsugu-matsuoka",
+      "ayaka-suwa"
+    ]
+  },
+  {
+    "name": "Aishia",
+    "nameNative": "アイシア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197388-V0I9xcMuw2Ks.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kuwahara"
+    ]
+  },
+  {
+    "name": "Alfred Emerle",
+    "nameNative": "アルフレッド・エマール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197378-dvkv8JAxDwAR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-hamada"
+    ]
+  },
+  {
+    "name": "Alma",
+    "nameNative": "アルマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197383-sCmhBKIP2Qu4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asuka-nishi"
+    ]
+  },
+  {
+    "name": "Alphonse Rodan",
+    "nameNative": "アルフォンス・ロダン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b223504-ZGBpdkLVuMQs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-inoue"
+    ]
+  },
+  {
+    "name": "Charles Arbor",
+    "nameNative": "シャルル・アルボー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197380-DR5grSQuMfZz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-tamaru"
+    ]
+  },
+  {
+    "name": "Christina Beltrum",
+    "nameNative": "クリスティーナ・ベルトラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197376-Pb1QQvOwix0w.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayumi-suzushiro"
+    ]
+  },
+  {
+    "name": "Cosette",
+    "nameNative": "コゼット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212333-Lc1vfmyzxZFf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-iida"
+    ]
+  },
+  {
+    "name": "Dominic",
+    "nameNative": "ドミニク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244727-BkrARGdq7GMw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-naka"
+    ]
+  },
+  {
+    "name": "Dryas",
+    "nameNative": "ドリュアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212154-GaVJxAU9MQeF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yurie-kozakai"
+    ]
+  },
+  {
+    "name": "Flora Beltrum",
+    "nameNative": "フローラ・ベルトラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197377-6cQ2n5cUgmkp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaede-hondo"
+    ]
+  },
+  {
+    "name": "Garcia Fontaine",
+    "nameNative": "ガルシア・フォンティーヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b223507-OxJuSaynH83v.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromichi-tezuka"
+    ]
+  },
+  {
+    "name": "Gouki Saga",
+    "nameNative": "サガ・ゴウキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b218156-8AXwrZgaewRV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takaki-ootomari"
+    ]
+  },
+  {
+    "name": "Gustave Huguenot",
+    "nameNative": "ギュスターヴ・ユグノー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b223506-aph1BDTBiBS0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "seirou-ogino"
+    ]
+  },
+  {
+    "name": "Hayate Saga",
+    "nameNative": "サガ・ハヤテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244721-juDMnGerDJH3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-kobayashi"
+    ]
+  },
+  {
+    "name": "Homura Karasuki",
+    "nameNative": "カラスキ・ホムラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b221423-TV3xUSdEmFZv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromichi-tezuka"
+    ]
+  },
+  {
+    "name": "Kayoko Saga",
+    "nameNative": "サガ・カヨコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b218155-w2If0ERP37Wi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-yamamoto"
+    ]
+  },
+  {
+    "name": "Komomo Saga",
+    "nameNative": "サガ・コモモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212323-dtUuJ50VTe0q.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-fukuo"
+    ]
+  },
+  {
+    "name": "Liselotte Cretia",
+    "nameNative": "リーゼロッテ・クレティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197381-fZUcL61Eesns.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Miharu Ayase",
+    "nameNative": "綾瀬美春",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161676-Iu9bsiy75YFb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-harada"
+    ]
+  },
+  {
+    "name": "Orphia",
+    "nameNative": "オーフィア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197385-1RINR9G0fYdA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukina-shutou"
+    ]
+  },
+  {
+    "name": "Reiss Vulfe",
+    "nameNative": "レイス・ヴォルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197382-YRisijlxNYaD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Roanna Fontaine",
+    "nameNative": "ロアナ・フォンティーヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197379-dToZpJQENdTB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-kaneko"
+    ]
+  },
+  {
+    "name": "Ruri",
+    "nameNative": "ルリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212325-9pVSWsMSxzGL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-omigawa"
+    ]
+  },
+  {
+    "name": "Sara",
+    "nameNative": "サラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197384-TdpYgdNkBcXm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiyori-nitta"
+    ]
+  },
+  {
+    "name": "Sayo",
+    "nameNative": "サヨ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212326-v9PS3TuKakb7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yurika-kubo"
+    ]
+  },
+  {
+    "name": "Shin",
+    "nameNative": "シン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244722-0KUhcGwWSrMa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiki-masuda"
+    ]
+  },
+  {
+    "name": "Shizuku Karasuki",
+    "nameNative": "カラスキ・シズク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b221424-7Lts1tIIgZUd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "you-taichi"
+    ]
+  },
+  {
+    "name": "Stewart Huguenot",
+    "nameNative": "スティアード・ユグノー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b223508-NgkDtCCERmk7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shunichi-toki"
+    ]
+  },
+  {
+    "name": "Syldora",
+    "nameNative": "シルドラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244725-JNNR1MIedsXa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-ichijou"
+    ]
+  },
+  {
+    "name": "Ursula",
+    "nameNative": "アースラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244728-IRDKJVu40yfb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Uzuma",
+    "nameNative": "ウズマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244726-KwWu0odTdXLf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "you-taichi"
+    ]
+  },
+  {
+    "name": "Vanessa Emerle",
+    "nameNative": "ヴァネッサ・エマール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b223505-WizvfzQGPGtY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maki-kawase"
+    ]
+  },
+  {
+    "name": "Yuba",
+    "nameNative": "ユバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212324-tG10I4C2RDif.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  }
+]
