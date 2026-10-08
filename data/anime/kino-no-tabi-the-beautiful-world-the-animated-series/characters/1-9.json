@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Kino",
+    "nameNative": "キノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87-1sKGYKWY8EHQ.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Hermes",
+    "nameNative": "エルメス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n88-yhTNhq67e5U2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "souma-saitou"
+    ]
+  },
+  {
+    "name": "Photo",
+    "nameNative": "フォト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205872-kDNeYdTvtZx8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Riku",
+    "nameNative": "陸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n15428-Bajcb77L5cx2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Sakura",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n15429-sLafZTfntwte.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kokoa-amano"
+    ]
+  },
+  {
+    "name": "Shishou",
+    "nameNative": "師匠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b57697-Lba15gfx2EqC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "lynn"
+    ]
+  },
+  {
+    "name": "Shizu",
+    "nameNative": "シズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13970-Zvh7azVK7wKR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichirou-umehara"
+    ]
+  },
+  {
+    "name": "Sou",
+    "nameNative": "ソウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205873-bTCUC8UeTRUV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-ogata"
+    ]
+  },
+  {
+    "name": "Tifana",
+    "nameNative": "ティー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150047-AbZja8yLeHk3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  }
+]
