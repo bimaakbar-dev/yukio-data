@@ -91,6 +91,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "makoto-awane",
+    "name": "Makoto Awane",
+    "nameNative": "粟根まこと",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n141767-oUqRoLHhTMEc.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "makoto-furukawa",
     "name": "Makoto Furukawa",
     "nameNative": "古川慎",
@@ -648,6 +655,13 @@
     "name": "Mayumi Saco",
     "nameNative": "佐古真弓",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1673.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "mayumi-shintani",
+    "name": "Mayumi Shintani",
+    "nameNative": "新谷真弓",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95617-20JhQRgHpo1t.jpg",
     "defaultLanguage": "Japanese"
   },
   {
