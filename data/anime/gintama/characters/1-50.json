@@ -1,0 +1,453 @@
+[
+  {
+    "name": "Gintoki Sakata",
+    "nameNative": "坂田銀時",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b672-cP5VPriN67xJ.png",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Kagura",
+    "nameNative": "神楽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b674-w8wCh0A5Qa8R.png",
+    "role": "main",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Shinpachi Shimura",
+    "nameNative": "志村新八",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b673-nScArSMt85kd.jpg",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-sakaguchi"
+    ]
+  },
+  {
+    "name": "Abo",
+    "nameNative": "阿呆",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50955.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-hoshino"
+    ]
+  },
+  {
+    "name": "Abuto",
+    "nameNative": "阿伏兎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n26731-2XyAM66CVJDL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Ayame Sarutobi",
+    "nameNative": "猿飛あやめ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1759-hbviRHbxGNmx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Ayumu Toujou",
+    "nameNative": "東城歩",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n8282-XAaxRDRUwTFH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Azumi Agonoske",
+    "nameNative": "あずみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32277.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keikou-sakai"
+    ]
+  },
+  {
+    "name": "Balmung Fezarion",
+    "nameNative": "バルムンク＝フェザリオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50907.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihisa-kawahara"
+    ]
+  },
+  {
+    "name": "Bansai Kawakami",
+    "nameNative": "河上万斉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2947-sbdT3jDNmzS2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takumi-yamazaki"
+    ]
+  },
+  {
+    "name": "Blu-rayko",
+    "nameNative": "ブルー霊子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/47541.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Catherine",
+    "nameNative": "キャサリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n7930-HPv7rh74r6bl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-sugimoto"
+    ]
+  },
+  {
+    "name": "Chichi",
+    "nameNative": "父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52331.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Christel Ketsuno",
+    "nameNative": "結野クリステル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n6225-LgPlEHrUqCZ5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-narita"
+    ]
+  },
+  {
+    "name": "Daigorou Kitaouji",
+    "nameNative": "北大路大五郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n29241-wwurBZgqHjJA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-takeuchi"
+    ]
+  },
+  {
+    "name": "Daito",
+    "nameNative": "大藤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n42427-5OYd4eobYomM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Elizabeth",
+    "nameNative": "エリザベス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2946-Wr6RcgisCsbi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-furuya"
+    ]
+  },
+  {
+    "name": "Enari",
+    "nameNative": "エナリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50921.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-asari"
+    ]
+  },
+  {
+    "name": "Fumiko",
+    "nameNative": "フミ子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49565.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Gedoumaru",
+    "nameNative": "外道丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n30306-cToZmYH6cV4G.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Gengai Hiraga",
+    "nameNative": "平賀源外",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n7927-4EwfGY7dhxvG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-aono",
+      "bin-shimada"
+    ]
+  },
+  {
+    "name": "Goro",
+    "nameNative": "五郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52339.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Hachibei Takaya",
+    "nameNative": "高屋八兵衛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n18030-ZLVJaV0dgm3N.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Hachirou",
+    "nameNative": "八郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32737.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenari-ugaki"
+    ]
+  },
+  {
+    "name": "Hata Ouji",
+    "nameNative": "ハタ皇子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n7929-MaggNZrysMXT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-sakaguchi"
+    ]
+  },
+  {
+    "name": "Hatsu Hasegawa",
+    "nameNative": "長谷川ハツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n32956-WqmMJpFBLNbl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mana-miyamoto"
+    ]
+  },
+  {
+    "name": "Hedoro",
+    "nameNative": "屁怒絽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n7928-jIS5wwIWW1Yz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Heiji Kozenigata",
+    "nameNative": "小銭形平次",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n17063-7kBERYJpaUz2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Henpeita Takechi",
+    "nameNative": "武市変平太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n9535-9yxNPYhaxjET.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chafuurin"
+    ]
+  },
+  {
+    "name": "Hideaki Sorachi",
+    "nameNative": "空知英秋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15452.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideaki-sorachi"
+    ]
+  },
+  {
+    "name": "Hime Onizuka",
+    "nameNative": "鬼塚一愛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17245-bLcKpNtzRdAV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouko-shiraishi"
+    ]
+  },
+  {
+    "name": "Hinowa",
+    "nameNative": "日輪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32238.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomo-sakurai"
+    ]
+  },
+  {
+    "name": "Isaac Schneider",
+    "nameNative": "アイザック＝シュナイダー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50211.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyuki-higuchi"
+    ]
+  },
+  {
+    "name": "Isaburo Sasaki",
+    "nameNative": "佐々木異三郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55579-5cUmAKri1Tsa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Isao Kondou",
+    "nameNative": "近藤勲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2943-QVEHBh0T6hPC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "susumu-chiba"
+    ]
+  },
+  {
+    "name": "Iwamatsu",
+    "nameNative": "岩松",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/45425.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rintarou-nishi"
+    ]
+  },
+  {
+    "name": "Jellybeans Vanguard Honda",
+    "nameNative": "ほんだ・ゼリービーンズ・ヴァンガード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/55731.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouto-kashii"
+    ]
+  },
+  {
+    "name": "Jii-san",
+    "nameNative": "じいさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50917.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-taguchi"
+    ]
+  },
+  {
+    "name": "Jiro",
+    "nameNative": "二郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52333.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Jirochou Doromizu",
+    "nameNative": "泥水次郎長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32838-FvPuCvzvjNuV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-sugou"
+    ]
+  },
+  {
+    "name": "Jugem Jugem",
+    "nameNative": "寿限無寿限無",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46407-ASqv4AHmU56V.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouko-shiraishi"
+    ]
+  },
+  {
+    "name": "Juttoku no Musume",
+    "nameNative": "十徳の娘",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b382393-7bzJlPdEWQ8C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumi-tsunematsu"
+    ]
+  },
+  {
+    "name": "Kada",
+    "nameNative": "華陀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32233.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Kamui",
+    "nameNative": "神威",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12946-wqrTLWsy7dW5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Katakuriko Matsudaira",
+    "nameNative": "松平片栗虎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5972-KiEozdifZmFN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norio-wakamoto"
+    ]
+  },
+  {
+    "name": "Katsuo Kurogoma",
+    "nameNative": "黒駒勝男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32739.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katashi-ishizuka"
+    ]
+  },
+  {
+    "name": "Kazuyoshi Usui",
+    "nameNative": "笛吹和義",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17246-dFh98KT1N6Lr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Kid",
+    "nameNative": "チビ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52341.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Koro",
+    "nameNative": "匂狼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50953.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Koshinori Yagyuu",
+    "nameNative": "柳生輿矩",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15581.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kuroda"
+    ]
+  }
+]
