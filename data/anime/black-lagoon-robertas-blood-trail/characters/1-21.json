@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Benny",
+    "nameNative": "ベニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/460.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiroaki-hirata"
+    ]
+  },
+  {
+    "name": "Dutch",
+    "nameNative": "ダッチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b457-BdoXIN7tNvoz.png",
+    "role": "main",
+    "voiceActors": [
+      "tsutomu-isobe"
+    ]
+  },
+  {
+    "name": "Fabiola Iglesias",
+    "nameNative": "ファビオラ・イグレシアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29458-VWorVf7n89xh.png",
+    "role": "main",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Garcia Lovelace",
+    "nameNative": "ガルシア・フェルナンド・ラブレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14238.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kazue-ikura"
+    ]
+  },
+  {
+    "name": "Revy",
+    "nameNative": "レヴィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b458-tlKqPcuR287U.png",
+    "role": "main",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Roberta Cisneros",
+    "nameNative": "ロベルタ・チスネロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2762-j8CEA7sYiDP6.png",
+    "role": "main",
+    "voiceActors": [
+      "michie-tomizawa"
+    ]
+  },
+  {
+    "name": "Rokuro Okajima",
+    "nameNative": "岡島緑郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b459-QsGmozEvK0jM.png",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Abrego",
+    "nameNative": "アブレーゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23188-E4AV3cgBz5Ol.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisao-egawa"
+    ]
+  },
+  {
+    "name": "Alberto Camarasa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "juurouta-kosugi"
+    ]
+  },
+  {
+    "name": "Bai Ji-Shin Chang",
+    "nameNative": "張維新",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3450.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Balalaika",
+    "nameNative": "バラライカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b461-1hBKMLSpTY0e.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-koyama"
+    ]
+  },
+  {
+    "name": "Bao",
+    "nameNative": "バオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15758-Od8NVPoYyjpZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shirou-saitou"
+    ]
+  },
+  {
+    "name": "Diego Lovelace",
+    "nameNative": "ディエゴ・フェルナンド・ラブレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusuke-oobayashi"
+    ]
+  },
+  {
+    "name": "Eda",
+    "nameNative": "エダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b462-v7jdOHUT6hPI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-karasawa"
+    ]
+  },
+  {
+    "name": "Frederica Sawyer",
+    "nameNative": "ソーヤー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6479-XCo6NMDmdUK1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-yaguchi"
+    ]
+  },
+  {
+    "name": "Gardner",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Lotton",
+    "nameNative": "ロットン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4988.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Ronnie",
+    "nameNative": "ロニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143991-vsO0bHFpeaN0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Shane Caxton",
+    "nameNative": "シェーン・J・キャクストン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31841-h4ZbPHZiy8BO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinji-ogawa"
+    ]
+  },
+  {
+    "name": "Shenhua",
+    "nameNative": "シェンホア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9007-vADI4jKONEh7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-sasaki"
+    ]
+  },
+  {
+    "name": "Yolanda",
+    "nameNative": "シスター・ヨランダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22186-inZE84OgoeVd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-takeguchi"
+    ]
+  }
+]
