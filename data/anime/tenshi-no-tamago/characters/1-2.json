@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Shoujo",
+    "nameNative": "少女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1163-BnyKnrtUpySi.png",
+    "role": "main",
+    "voiceActors": [
+      "mako-hyoudou"
+    ]
+  },
+  {
+    "name": "Shounen",
+    "nameNative": "少年",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1162-lAvVybjlA63D.png",
+    "role": "main",
+    "voiceActors": [
+      "jinpachi-nezu"
+    ]
+  }
+]
