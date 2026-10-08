@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Hange Zoe",
+    "nameNative": "ハンジ・ゾエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png",
+    "role": "main",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Ilse Langnar",
+    "nameNative": "イルゼ・ラングナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/62487-XnpqXJq5Vig7.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sachi-kokuryuu"
+    ]
+  },
+  {
+    "name": "Jean Kirstein",
+    "nameNative": "ジャン・キルシュタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png",
+    "role": "main",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Anka Rheinberger",
+    "nameNative": "アンカ・ラインベルガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84331-9r0TU5kEFitO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikumi-hayama"
+    ]
+  },
+  {
+    "name": "Annie Leonhart",
+    "nameNative": "アニ・レオンハート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-shimamura"
+    ]
+  },
+  {
+    "name": "Armin Arlert",
+    "nameNative": "アルミン・アルレルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Armin no Ojii-san",
+    "nameNative": "アルミンのお祖父さん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84313-kYfb2g4OR7je.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaharu-satou"
+    ]
+  },
+  {
+    "name": "Bart",
+    "nameNative": "バルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84327-Wg2P1FSDecGc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-takaguchi"
+    ]
+  },
+  {
+    "name": "Bertolt Hoover",
+    "nameNative": "ベルトルト・フーバー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46488-wm6HvkdkHoZu.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohisa-hashizume"
+    ]
+  },
+  {
+    "name": "Carla Yeager",
+    "nameNative": "カルラ・イェーガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n62475-CExspVnLfweu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshino-takamori"
+    ]
+  },
+  {
+    "name": "Connie Springer",
+    "nameNative": "コニー・スプリンガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Daz",
+    "nameNative": "ダズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84321-i4A69zVC6YMM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shuuhei-takubo"
+    ]
+  },
+  {
+    "name": "Dot Pixis",
+    "nameNative": "ドット・ピクシス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62485-I0U5Cat3z65K.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masahiko-tanaka"
+    ]
+  },
+  {
+    "name": "Eld Gin",
+    "nameNative": "エルド・ジン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71689-AkkBVdgOWjFU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "susumu-chiba"
+    ]
+  },
+  {
+    "name": "Eren Yeager",
+    "nameNative": "エレン・イェーガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Erwin Smith",
+    "nameNative": "エルヴィン・スミス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Franz Kefka",
+    "nameNative": "フランツ・ケフカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84317-mIg4hGXJKhQt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-ookuma"
+    ]
+  },
+  {
+    "name": "Grisha Yeager",
+    "nameNative": "グリシャ・イェーガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62477-3AHBGul9bXK8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-tsuchida"
+    ]
+  },
+  {
+    "name": "Gunther Schultz",
+    "nameNative": "グンタ・シュルツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71691-9xxv0NFB2CWm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouzou-mito"
+    ]
+  },
+  {
+    "name": "Gustav",
+    "nameNative": "グスタフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84329-vLIxfAIYGPug.png",
+    "role": "supporting",
+    "voiceActors": [
+      "gou-shinomiya"
+    ]
+  },
+  {
+    "name": "Hannah Diament",
+    "nameNative": "ハンナ・ディアマント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84319-MkSqCC8JlYR3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-satou"
+    ]
+  },
+  {
+    "name": "Hugo",
+    "nameNative": "フーゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84307-faKVhlw386q7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-suyama"
+    ]
+  },
+  {
+    "name": "Ian Dietrich",
+    "nameNative": "イアン・ディートリッヒ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84333-s7JjasoIYuLK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuya-murakami"
+    ]
+  },
+  {
+    "name": "Jean no Haha",
+    "nameNative": "ジャンの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131444-8OHyZVZZApjX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-takayama"
+    ]
+  },
+  {
+    "name": "Keith Shadis",
+    "nameNative": "キース・シャーディス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n84305-15nngV5nTUp6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuguo-mogami"
+    ]
+  },
+  {
+    "name": "Kikou-shuna Kyojin",
+    "nameNative": "奇行種な巨人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n133213-veEOdWMAdr0g.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kitz Weilman",
+    "nameNative": "キッツ・ヴェールマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84325-RGWFyLMV6JZV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyuki-shimura"
+    ]
+  },
+  {
+    "name": "Krista Lenz",
+    "nameNative": "クリスタ・レンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shiori-mikami"
+    ]
+  },
+  {
+    "name": "Levi",
+    "nameNative": "リヴァイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Marco Bott",
+    "nameNative": "マルコ・ボット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62479-mYcTkU1RXymL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Megane no Kyoukan",
+    "nameNative": "眼鏡の教官",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84323-zHWF3Z83EZ7U.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuya-murakami"
+    ]
+  },
+  {
+    "name": "Mikasa Ackerman",
+    "nameNative": "ミカサ・アッカーマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-ishikawa"
+    ]
+  },
+  {
+    "name": "Mikasa no Chichi",
+    "nameNative": "ミカサの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n84339-O2BcKvQoHT94.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daichi-endou"
+    ]
+  },
+  {
+    "name": "Mikasa no Haha",
+    "nameNative": "ミカサの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n84341-o3ojpfHhp7o8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuka-hirose"
+    ]
+  },
+  {
+    "name": "Mike Zacharias",
+    "nameNative": "マイク・ザカリアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/71119.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Mina Carolina",
+    "nameNative": "ミーナ・カロライナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83181-EiVdjFn702Mc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chika-anzai"
+    ]
+  },
+  {
+    "name": "Moblit Berner",
+    "nameNative": "モブリット・バーナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n127573-VSYSvQ1VK1c7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rintarou-nishi"
+    ]
+  },
+  {
+    "name": "Moses",
+    "nameNative": "モーゼス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84309-ntK7TKP6RkPe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-masumoto"
+    ]
+  },
+  {
+    "name": "Moses no Haha",
+    "nameNative": "モーゼスの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n84311-iVwsDOzTSyvJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kyouko-terase"
+    ]
+  },
+  {
+    "name": "Mylius Zeramuski",
+    "nameNative": "ミリウス・ゼルムスキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84337-qoU8Uea1oT9C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-fusegawa"
+    ]
+  },
+  {
+    "name": "Nack Tierce",
+    "nameNative": "ナック・ティアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84335-o4ECgCR70JoD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyuki-higuchi"
+    ]
+  },
+  {
+    "name": "Nick",
+    "nameNative": "ニック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n71453-IxgKWV5eR1pw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohisa-asou"
+    ]
+  },
+  {
+    "name": "Oluo Bozard",
+    "nameNative": "オルオ・ボザド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71687-jd78w4orXonI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinji-kawada"
+    ]
+  },
+  {
+    "name": "Petra Ral",
+    "nameNative": "ペトラ・ラル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n62501-CfTtAAgs64nE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuki-aikawa"
+    ]
+  },
+  {
+    "name": "Reiner Braun",
+    "nameNative": "ライナー・ブラウン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Rico Brzenska",
+    "nameNative": "リコ・ブレツェンスカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84707-b43XdPG1SCRK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "michiko-kaiden"
+    ]
+  },
+  {
+    "name": "Samuel Linke-Jackson",
+    "nameNative": "サムエル・リンケ-ジャクソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84315-MwzNp8eSjg8v.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-takahashi"
+    ]
+  },
+  {
+    "name": "Sasha Blouse",
+    "nameNative": "サシャ・ブラウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Thomas Wagner",
+    "nameNative": "トーマス・ワグナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62483-zpSlfucUEgwQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeyuki-susaki"
+    ]
+  },
+  {
+    "name": "Tom",
+    "nameNative": "トム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b85211-twgcd2ZHhi1D.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeyuki-susaki"
+    ]
+  }
+]
