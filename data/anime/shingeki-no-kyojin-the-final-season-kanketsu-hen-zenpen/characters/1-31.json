@@ -1,0 +1,277 @@
+[
+  {
+    "name": "Armin Arlert",
+    "nameNative": "アルミン・アルレルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png",
+    "role": "main",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Eren Yeager",
+    "nameNative": "エレン・イェーガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Mikasa Ackerman",
+    "nameNative": "ミカサ・アッカーマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png",
+    "role": "main",
+    "voiceActors": [
+      "yui-ishikawa"
+    ]
+  },
+  {
+    "name": "Annie Leonhart",
+    "nameNative": "アニ・レオンハート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-shimamura"
+    ]
+  },
+  {
+    "name": "Annie no Chichi",
+    "nameNative": "アニの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131257-EywhPQF0aqVU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-ishii"
+    ]
+  },
+  {
+    "name": "Colt Chichi",
+    "nameNative": "コルト父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199715-lJcx7TnbuN5Q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "motoki-sakuma"
+    ]
+  },
+  {
+    "name": "Connie Springer",
+    "nameNative": "コニー・スプリンガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Erwin Smith",
+    "nameNative": "エルヴィン・スミス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Falco Grice",
+    "nameNative": "ファルコ・グライス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125660-mrmpOJLjJIkv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Floch Forster",
+    "nameNative": "フロック・フォルスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127703-qNIccR0yPZKu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenshou-ono"
+    ]
+  },
+  {
+    "name": "Gabi Braun",
+    "nameNative": "ガビ・ブラウン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125659-O37MZQWibV7g.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Gabi Chichi",
+    "nameNative": "ガビ父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199717-CwA94ex4HICW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masamichi-kitada"
+    ]
+  },
+  {
+    "name": "Gabi no Haha",
+    "nameNative": "ガビの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199714-cAlR5ZRATDOc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-yagi"
+    ]
+  },
+  {
+    "name": "Grisha no Chichi Yeager",
+    "nameNative": "グリシャの父・イェーガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140765-zkWt0zw1App6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seirou-ogino"
+    ]
+  },
+  {
+    "name": "Grisha no Haha Yeager",
+    "nameNative": "グリシャの母・イェーガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140851-gwlhPSYXcMVh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomo-sakurai"
+    ]
+  },
+  {
+    "name": "Halil",
+    "nameNative": "ハリル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299826-xkEFTjm1JTLJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouko-shiraishi"
+    ]
+  },
+  {
+    "name": "Hange Zoe",
+    "nameNative": "ハンジ・ゾエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Jean Kirstein",
+    "nameNative": "ジャン・キルシュタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Karina Braun",
+    "nameNative": "カリナ・ブラウン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199712-YOV8LXBcQT1R.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-yuya"
+    ]
+  },
+  {
+    "name": "Kiyomi Azumabito",
+    "nameNative": "キヨミ・アズマビト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202799-WlK66SqrhzED.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiri-yoshizawa"
+    ]
+  },
+  {
+    "name": "Levi",
+    "nameNative": "リヴァイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Muller",
+    "nameNative": "ミュラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299827-fNz0IBb3BEoQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-aoyama"
+    ]
+  },
+  {
+    "name": "Onyankopon",
+    "nameNative": "オニャンコポン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192909-81EoCndP0uEH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-hiwatari"
+    ]
+  },
+  {
+    "name": "Pieck Chichi",
+    "nameNative": "ピーク父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299831-UHzwFT6Dy7Mi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-nakamura"
+    ]
+  },
+  {
+    "name": "Pieck Finger",
+    "nameNative": "ピーク・フィンガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125603-Z2rgiHUGbAmY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manami-numakura"
+    ]
+  },
+  {
+    "name": "Ramzi",
+    "nameNative": "ラムジー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b271037-t1QhzMMT3TQo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saki-endou"
+    ]
+  },
+  {
+    "name": "Ramzi Sofu",
+    "nameNative": "ラムジー祖父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-uo"
+    ]
+  },
+  {
+    "name": "Reiner Braun",
+    "nameNative": "ライナー・ブラウン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Yelena",
+    "nameNative": "イェレナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133216-HKl61n4F7eYv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Ymir Fritz",
+    "nameNative": "ユミル・フリッツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199551-UNzb9vgcbOIx.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Zeke",
+    "nameNative": "ジーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125661-FiqFvAtNlL0v.png",
+    "role": "supporting",
+    "voiceActors": []
+  }
+]
