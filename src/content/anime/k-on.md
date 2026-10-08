@@ -1,9 +1,9 @@
 ---
-title: "K-ON!"
-titleEnglish: "K-ON!"
-titleNative: "けいおん!"
+title: "K-ON!!"
+titleEnglish: "K-ON! Season 2"
+titleNative: "けいおん!!"
 
-malId: 5680
+malId: 7791
 kitsuId: "4240"
 
 type: TV
@@ -11,17 +11,17 @@ status: finished
 source: manga
 
 season: spring
-year: 2009
-episodes: 13
+year: 2010
+episodes: 26
 duration: 24
 # rating: # edit manual
 
 aired:
-  from: "2009-04-03"
-  to: "2009-06-26"
+  from: "2010-04-07"
+  to: "2010-09-29"
 
 stats:
-  score: 7.8
+  score: 8.2
   # scoredBy: # edit manual
 
 genres:
@@ -32,17 +32,17 @@ genres:
 studios:
   - kyoto-animation
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5680-r3AI3Cwfv0Aq.png"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5680-Mc9n4eFI4i0Y.jpg"
-trailer: "mFHue76hqt0"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7791-4tnomla2mMDp.png"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7791-XUCEPg0lbD1K.jpg"
+# trailer: # edit manual
 
 draft: false
 ---
 
-Hirasawa Yui, a young, carefree girl entering high school, has her imagination instantly captured when she sees a poster advertising the ‘Light Music Club’. Being the carefree girl that she is, she quickly signs up. However, Yui has a problem, she is unable to play an instrument.
+It is the new year, which means that the senior members of the Light Music Club are now third-years, with Azusa Nakano being the only second-year. The seniors soon realize that Azusa will be the only member left once they graduate and decide to recruit new members. Despite trying many methods of attracting underclassmen—handing out fliers, bringing people into the clubroom, and performing at the welcoming ceremony—there are no signs of anyone that plans to join.
 
-When Yui goes to the clubroom to explain, she's greeted by the other members: Ritsu, Mio and Tsumugi. Although disheartened at Yui’s lack of musical know-how, they still try to convince her to stay to prevent the club’s disbandment. After playing Yui a short piece which re-ignites her imagination, they succeed in keeping their new member and guitarist.
+While heading to the clubroom, Azusa overhears Yui Hirasawa say that the club is fine with only five people and that they can do many fun things together. Changing her mind, she decides that they do not need to recruit any members for the time being.
 
-Along with the tasks of school and homework, Yui begins to learn the guitar with the help of the other band members, experiencing many mishaps along the way. However, with the school-festival drawing near and Yui getting stuck with her practice, will the Light Music Club be ready in time for their debut?
+K-On!! revolves around the members of the Light Music Club as they experience their daily high school life. From rehearsing for concerts to just messing around, they are ready to make their last year together an exciting one!
 
 (Source: MAL Rewrite)

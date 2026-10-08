@@ -1,17 +1,22 @@
 [
   {
+    "relation": "prequel",
+    "slug": "k-on",
+    "title": "K-On!"
+  },
+  {
     "relation": "side_story",
     "slug": "k-on-ura-on",
-    "title": "K-On!: Ura-On!"
+    "title": "K-On!!: Ura-On!!"
   },
   {
     "relation": "side_story",
-    "slug": "k-on-live-house",
-    "title": "K-On!: Live House!"
+    "slug": "k-on-keikaku",
+    "title": "K-On!!: Keikaku!"
   },
   {
-    "relation": "sequel",
-    "slug": "k-on",
-    "title": "K-On!!"
+    "relation": "side_story",
+    "slug": "k-on-movie",
+    "title": "K-On! Movie"
   }
 ]
