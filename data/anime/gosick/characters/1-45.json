@@ -1,0 +1,406 @@
+[
+  {
+    "name": "Kazuya Kujou",
+    "nameNative": "久城一弥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22724-riCUdD0suWu3.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takuya-eguchi"
+    ]
+  },
+  {
+    "name": "Victorique de Blois",
+    "nameNative": "ヴィクトリカ・ド・ブロワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20170-EjvXXZpGG98Y.png",
+    "role": "main",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Alan",
+    "nameNative": "アラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44669-bbf1yIFkoVWY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Albert de Blois",
+    "nameNative": "アルベール・ド・ブロワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42387-K7ly4EeZnjhf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-sugou",
+      "ryouhei-kimura"
+    ]
+  },
+  {
+    "name": "Ambrose",
+    "nameNative": "アンブローズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40695-MxAW2UkF46SQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-abe"
+    ]
+  },
+  {
+    "name": "Anastasia",
+    "nameNative": "アナスタシア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42127-5sEaeR0CbLgb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Avril Bradley",
+    "nameNative": "アブリル・ブラッドリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40021-ccUrDOvCwaNp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-shitaya"
+    ]
+  },
+  {
+    "name": "Brian Roscoe",
+    "nameNative": "ブライアン•ロスコー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40795-lEFNvZy6vcme.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-ookawa"
+    ]
+  },
+  {
+    "name": "Cecile Lafitte",
+    "nameNative": "セシル・ラフィット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b38967-Zk3JJhPTxM1t.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-kano"
+    ]
+  },
+  {
+    "name": "Coco Rose",
+    "nameNative": "ココ＝ローズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41968-OxDFu8h2rZF5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Cordelia Gallo",
+    "nameNative": "コルデリア・ギャロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40220-RdtLXke3AS0c.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Derek",
+    "nameNative": "デリク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44703-TJEOeKLLVEwZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keisuke-oda"
+    ]
+  },
+  {
+    "name": "Garnier",
+    "nameNative": "ガルニエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44707-Oqk6gGwhsQ5E.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-kusumi"
+    ]
+  },
+  {
+    "name": "Gideon Lesglant",
+    "nameNative": "ギデオン・レグラント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44971-rlvhwBNSkSSY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daichuu-mizushima"
+    ]
+  },
+  {
+    "name": "Grevil de Blois",
+    "nameNative": "グレヴィール・ド・ブロワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b38966-2lD67xyDc1Zx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenobu-kiuchi"
+    ]
+  },
+  {
+    "name": "Hakamori",
+    "nameNative": "墓守",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44967-BHNs4NS0UQz0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Harminia",
+    "nameNative": "ハーマイニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42126-Li6sxxNPUgDv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houko-kuwashima"
+    ]
+  },
+  {
+    "name": "Hisho",
+    "nameNative": "秘書",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44823-QbiGbZRgvasq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Ian Musgrave",
+    "nameNative": "イアン・マスグレーブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41970-X0efIOj1CPaI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "Jacqueline de Signore",
+    "nameNative": "ジャクリーヌ・ド・シニョレー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42129-PzHGR8W6qagU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Julie Guile",
+    "nameNative": "ジュリィ・ガイル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44591-DJZX7COyqQXT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-noda"
+    ]
+  },
+  {
+    "name": "Jupiter Roger",
+    "nameNative": "ジュピター・ロジェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42999-qRlXV9PHxwE4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Kakashi",
+    "nameNative": "かかし",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44965-dhXo6ZigK1ij.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuko-yanaga"
+    ]
+  },
+  {
+    "name": "Kazuya no Haha",
+    "nameNative": "一弥の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41781-lDMTOMPx1NNn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Kishi",
+    "nameNative": "騎士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44969-2FVHp7K8QiOq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "Koji",
+    "nameNative": "孤児",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43185-HwDApRjgPBBV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nazuka"
+    ]
+  },
+  {
+    "name": "Kuiaran",
+    "nameNative": "クィアラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40219-hhEXawKYnJso.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Lee",
+    "nameNative": "リィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42124-jYP6JWcWVRuZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mina-kasai"
+    ]
+  },
+  {
+    "name": "Leviathan",
+    "nameNative": "リヴァイアサン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41971-JzDEzmNYlcYL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Luigi",
+    "nameNative": "ルイジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41310-VXCM0PUuPXUm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayori-ishizuka"
+    ]
+  },
+  {
+    "name": "Marion",
+    "nameNative": "マリオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44821-xRgGki5mMbO8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eriko-kawasaki"
+    ]
+  },
+  {
+    "name": "Maurice",
+    "nameNative": "モーリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44505-8V0hHUPn4lZ5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minoru-inaba"
+    ]
+  },
+  {
+    "name": "Maxim",
+    "nameNative": "マクシム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44617-XleFoiW36SQV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kyosuke-suzuki"
+    ]
+  },
+  {
+    "name": "Mildred Arbogast",
+    "nameNative": "ミルドレッド・アーボガスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44009-TnGsaDxE5A1J.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Millie Marl",
+    "nameNative": "ミリ・マール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44619-k28vsvfKKJd8.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Musgrave Danshaku",
+    "nameNative": "マスグレーブ男爵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41969-oakMho9KH4za.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidetoshi-nakamura"
+    ]
+  },
+  {
+    "name": "Ned Baxter",
+    "nameNative": "ネッド・バクスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42128-KCsQ0bLT9rHR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nojima"
+    ]
+  },
+  {
+    "name": "Raoul",
+    "nameNative": "ラウール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44673-FV4wfo8ZR7pK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-hirai"
+    ]
+  },
+  {
+    "name": "Rupert de Gille",
+    "nameNative": "ルパート・ド・ジレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41972-5tBflVJjeXRp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyuki-shimura"
+    ]
+  },
+  {
+    "name": "Ruri Kujou",
+    "nameNative": "久城瑠璃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42125-R1EjC6wrBYy8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "erino-hazuki"
+    ]
+  },
+  {
+    "name": "Sergius",
+    "nameNative": "セルジウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44705-lT4bdGR0U6fh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsunosuke-hori"
+    ]
+  },
+  {
+    "name": "Signore",
+    "nameNative": "シニョレー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44825-8odk3MWFhpTR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jin-yamanoi"
+    ]
+  },
+  {
+    "name": "Simon Hunt",
+    "nameNative": "サイモン・ハント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44949-W4Zy7KXr00KG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Sophie",
+    "nameNative": "ゾフィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42219-330YqFJhhGlY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "michiko-neya"
+    ]
+  },
+  {
+    "name": "Wong Kai",
+    "nameNative": "ウォン・カーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44867-wlhbAjhBsyA8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hideo-ishikawa"
+    ]
+  }
+]
