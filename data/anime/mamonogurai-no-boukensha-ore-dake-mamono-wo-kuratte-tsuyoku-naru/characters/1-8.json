@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Rudd",
+    "role": "main",
+    "voiceActors": [
+      "makoto-furukawa"
+    ],
+    "nameNative": "ルード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b395248-NrNBBHfA97sr.png"
+  },
+  {
+    "name": "Elyssia",
+    "role": "main",
+    "voiceActors": [
+      "yuki-nakashima"
+    ],
+    "nameNative": "エリシア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b395247-EIdyRQlEuhBP.png"
+  },
+  {
+    "name": "Vaiell",
+    "role": "supporting",
+    "voiceActors": [
+      "kengo-takanashi"
+    ],
+    "nameNative": "バイエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b395260-kSTdnVaIAXce.png"
+  },
+  {
+    "name": "Rick",
+    "role": "supporting",
+    "voiceActors": [],
+    "nameNative": "リック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b395264-67PsjBMvfpbQ.png"
+  },
+  {
+    "name": "Sasha",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-nanase"
+    ],
+    "nameNative": "サーシャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b395261-aXv1ApZrrEuc.png"
+  },
+  {
+    "name": "Magnus",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-yonai"
+    ],
+    "nameNative": "マグナス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+  },
+  {
+    "name": "Rigurd",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnojou-yamada"
+    ],
+    "nameNative": "リグルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+  },
+  {
+    "name": "Rondo",
+    "role": "supporting",
+    "voiceActors": [
+      "kyouhei-natsume"
+    ],
+    "nameNative": "ロンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+  }
+]
