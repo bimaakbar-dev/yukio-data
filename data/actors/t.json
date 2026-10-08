@@ -1,5 +1,12 @@
 [
   {
+    "id": "tadanori-date",
+    "name": "Tadanori Date",
+    "nameNative": "伊達忠智",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n171728-huqwP1C5ZevL.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "tadashi-miyazawa",
     "name": "Tadashi Miyazawa",
     "nameNative": "宮澤正",
@@ -431,6 +438,13 @@
     "name": "Tao Tsuchiya",
     "nameNative": "土屋太鳳",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119478-3hHYufbtppgi.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "tarou-kiuchi",
+    "name": "Tarou Kiuchi",
+    "nameNative": "木内太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n133568-70WCSKzlhpKc.jpg",
     "defaultLanguage": "Japanese"
   },
   {

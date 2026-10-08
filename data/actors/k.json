@@ -28,10 +28,24 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "kaito-takeda",
+    "name": "Kaito Takeda",
+    "nameNative": "竹田海渡",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n132633-VZAF3zoz5U7u.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "kakeru-hatano",
     "name": "Kakeru Hatano",
     "nameNative": "波多野翔",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n316611-odE08ieXke2A.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "kan-tanaka",
+    "name": "Kan Tanaka",
+    "nameNative": "田中完",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100280-GsF9Q2rOs0d0.png",
     "defaultLanguage": "Japanese"
   },
   {
@@ -375,6 +389,13 @@
     "name": "Keisuke",
     "nameNative": "けーすけ",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "keisuke-hamaoka",
+    "name": "Keisuke Hamaoka",
+    "nameNative": "濱岡敬祐",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n256893-Fn0pSgKy45Ws.jpg",
     "defaultLanguage": "Japanese"
   },
   {
