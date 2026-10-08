@@ -1,10 +1,14 @@
 name: Notify Frontend
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'data/**'
+  # Auto-trigger dimatikan sementara selama fase scraping.
+  # Aktifkan kembali setelah semua data selesai.
+  #
+  # push:
+  #   branches: [main]
+  #   paths:
+  #     - 'data/**'
+
   workflow_dispatch:
 
 jobs:
