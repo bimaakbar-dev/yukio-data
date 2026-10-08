@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Luke Braveheart",
+    "nameNative": "ルーク・ブレイブハート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330954-AirJGdSVyucH.png",
+    "role": "main",
+    "voiceActors": [
+      "kazuki-ura"
+    ]
+  },
+  {
+    "name": "Natsuko Hirose",
+    "nameNative": "広瀬ナツ子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330953-W8j8BM3nowjF.jpg",
+    "role": "main",
+    "voiceActors": [
+      "anna-nagase"
+    ]
+  },
+  {
+    "name": "Baobab-sama",
+    "nameNative": "バオバブ様",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b353108-21pD2D7gxp01.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kyouda"
+    ]
+  },
+  {
+    "name": "Chouchou",
+    "nameNative": "町長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b353107-9iNpvcbZclZA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Choujitsuzai Exister",
+    "nameNative": "超実在イグジスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355052-KVljXPrWL10c.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Dansei Animator",
+    "nameNative": "男性アニメーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b353112-QDwatjP8OzHE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kantorou-hayashi"
+    ]
+  },
+  {
+    "name": "Dansei Seisaku Shinkou",
+    "nameNative": "男性制作進行",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b353110-Y1sjk5AtGiSP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshinori-nakayama"
+    ]
+  },
+  {
+    "name": "Destiny Heartwarming",
+    "nameNative": "デステニー • ハートウォーミング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b353789-BpQiD2RGhvIm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Haruko",
+    "nameNative": "春子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b353116-A0bIuzkMJhlM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "konomi-inagaki"
+    ]
+  },
+  {
+    "name": "Josei Seisaku Shinkou",
+    "nameNative": "女性制作進行",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b353113-K5eFq9zCyVA7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hina-sakurai"
+    ]
+  },
+  {
+    "name": "Justice",
+    "nameNative": "ジャスティス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355053-JNHS6kCxc6ng.png",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Kametaro Tsuruyama",
+    "nameNative": "鶴山亀太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358115-UmiF8I866id4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  },
+  {
+    "name": "Memmeln",
+    "nameNative": "メメルン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330956-2ZY0N6J3hQbb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minori-suzuki"
+    ]
+  },
+  {
+    "name": "Midori Ichihashi",
+    "nameNative": "市橋ミドリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358110-MlzJemRQYp2C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kanon-takao"
+    ]
+  },
+  {
+    "name": "QJ",
+    "nameNative": "QJ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330957-PjN110hLTr39.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-suyama"
+    ]
+  },
+  {
+    "name": "Saburou Aoi",
+    "nameNative": "蒼井三郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358114-K5JlctDMhQbg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Shachou",
+    "nameNative": "社長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b353109-MywH84f8j7mF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "urara-takano"
+    ]
+  },
+  {
+    "name": "Shuu Ninomiya",
+    "nameNative": "二ノ宮シュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358111-uP3tJGk1M7jC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Unio",
+    "nameNative": "ユニオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330955-CqOLp9Nj7MIx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Veteran Enshutsu",
+    "nameNative": "ベテラン演出",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b353111-9qBpfOnQQzCg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-yamane"
+    ]
+  }
+]
