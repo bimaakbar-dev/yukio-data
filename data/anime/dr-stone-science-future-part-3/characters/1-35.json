@@ -1,315 +1,315 @@
 [
   {
-    "name": "Senkuu Ishigami",
+    "name": "Kohaku",
+    "nameNative": "コハク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png",
     "role": "main",
     "voiceActors": [
-      "yuusuke-kobayashi"
-    ],
-    "nameNative": "石神千空",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-XUO1g7wRqkaT.png"
+      "manami-numakura"
+    ]
   },
   {
     "name": "Ryuusui Nanami",
+    "nameNative": "七海龍水",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145097-TYg5SshsyvUU.png",
     "role": "main",
     "voiceActors": [
       "ryouta-suzuki",
       "natsumi-fujiwara"
-    ],
-    "nameNative": "七海龍水",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145097-TYg5SshsyvUU.png"
+    ]
   },
   {
-    "name": "Kohaku",
+    "name": "Senkuu Ishigami",
+    "nameNative": "石神千空",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-XUO1g7wRqkaT.png",
     "role": "main",
     "voiceActors": [
-      "manami-numakura"
-    ],
-    "nameNative": "コハク",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png"
+      "yuusuke-kobayashi"
+    ]
   },
   {
-    "name": "Dr. Xeno",
+    "name": "Brody Dudley",
+    "nameNative": "ブロディ・ダドリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219106-fdknb2a8bPef.png",
     "role": "supporting",
     "voiceActors": [
-      "kenji-nojima"
-    ],
-    "nameNative": "Dr.ゼノ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186479-W4HKWQqL1CLx.png"
+      "hiroki-yasumoto"
+    ]
   },
   {
-    "name": "Gen Asagiri",
+    "name": "Carlos Barrios",
+    "nameNative": "カルロス・バリオス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187009-idxKVnBvwL6U.png",
     "role": "supporting",
     "voiceActors": [
-      "kengo-kawanishi"
-    ],
-    "nameNative": "あさぎりゲン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png"
+      "chiharu-sawashiro"
+    ]
+  },
+  {
+    "name": "Chalk",
+    "nameNative": "チョーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b147567-mvwmIvzi8my5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayumi-suzushiro"
+    ]
+  },
+  {
+    "name": "Chelsea Childe",
+    "nameNative": "チェルシー・チャイルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199868-JuD8PL4DQAOW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
   },
   {
     "name": "Chrome",
+    "nameNative": "クロム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124145-EEvQmsj8jku4.png",
     "role": "supporting",
     "voiceActors": [
       "gen-satou"
-    ],
-    "nameNative": "クロム",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124145-EEvQmsj8jku4.png"
+    ]
   },
   {
-    "name": "Suika",
+    "name": "Dr. Xeno",
+    "nameNative": "Dr.ゼノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186479-W4HKWQqL1CLx.png",
     "role": "supporting",
     "voiceActors": [
-      "karin-takahashi"
-    ],
-    "nameNative": "スイカ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124162-htFFNeC04bzw.jpg"
+      "kenji-nojima"
+    ]
+  },
+  {
+    "name": "Francois",
+    "nameNative": "フランソワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145098-T5TSpMoyy3cR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Gen Asagiri",
+    "nameNative": "あさぎりゲン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kengo-kawanishi"
+    ]
+  },
+  {
+    "name": "Ginrou",
+    "nameNative": "銀狼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143270-8kC2e32r7CyE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Homura Momiji",
+    "nameNative": "紅葉ほむら",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145065-NjHaMBBRg49I.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Hyouga",
+    "nameNative": "氷月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145062-eCEE4J0RRGvt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Joel Gear",
+    "nameNative": "ジョエル・ギア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219159-EQIh3a9c6vDM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-sakakihara"
+    ]
+  },
+  {
+    "name": "Kaseki",
+    "nameNative": "カセキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136446-gpvtw5cb2I3Q.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  },
+  {
+    "name": "Kinrou",
+    "nameNative": "金狼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143271-6dNgt1Mcy3PU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "Leonard Maxwell",
+    "nameNative": "レナード・マクスウェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354548-w2jrpWKsetyM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reigo-yamaguchi"
+    ]
+  },
+  {
+    "name": "Luna Wright",
+    "nameNative": "ルーナ・ライト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187008-WKVqpYnIQJ9C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-sekine"
+    ]
+  },
+  {
+    "name": "Magma",
+    "nameNative": "マグマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145095-5kvEF2XUhNui.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-mamiya"
+    ]
+  },
+  {
+    "name": "Matsukaze",
+    "nameNative": "松風",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188816-YTDuL5vljiUs.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Max Adams",
+    "nameNative": "マックス・アダムス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187010-Jc84kt9jlIeH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taishi-murata"
+    ]
+  },
+  {
+    "name": "Maya Biggs",
+    "nameNative": "マヤ・ビッグス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354545-SRYskDMgJC2d.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariko-higashiuchi"
+    ]
+  },
+  {
+    "name": "Minami Hokutouzai",
+    "nameNative": "北東西南",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145096-Xk4D4sK7nZy9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Nikki Hanada",
+    "nameNative": "花田仁姫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145063-ALOeDMIyqCAE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsumi-tanezaki"
+    ]
+  },
+  {
+    "name": "Sagara",
+    "nameNative": "サガラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b302957-29R3Jwh6tpr2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-komatsu"
+    ]
   },
   {
     "name": "SAI Nanami",
+    "nameNative": "七海SAI",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b237655-b5KOTM2e8ssC.png",
     "role": "supporting",
     "voiceActors": [
       "seiichirou-yamashita",
       "miyuri-shimabukuro"
-    ],
-    "nameNative": "七海SAI",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b237655-b5KOTM2e8ssC.png"
-  },
-  {
-    "name": "Taiju Ooki",
-    "role": "supporting",
-    "voiceActors": [
-      "makoto-furukawa"
-    ],
-    "nameNative": "大木大樹",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124146-TeXd4r0upuIX.jpg"
-  },
-  {
-    "name": "Yuzuriha Ogawa",
-    "role": "supporting",
-    "voiceActors": [
-      "kana-ichinose"
-    ],
-    "nameNative": "小川杠",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124147-y3uE9rBepdad.jpg"
-  },
-  {
-    "name": "Tsukasa Shishiou",
-    "role": "supporting",
-    "voiceActors": [
-      "yuuichi-nakamura"
-    ],
-    "nameNative": "獅子王司",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124144-KOjcmhunbvYn.png"
-  },
-  {
-    "name": "Kaseki",
-    "role": "supporting",
-    "voiceActors": [
-      "mugihito"
-    ],
-    "nameNative": "カセキ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136446-gpvtw5cb2I3Q.jpg"
-  },
-  {
-    "name": "Hyouga",
-    "role": "supporting",
-    "voiceActors": [
-      "akira-ishida"
-    ],
-    "nameNative": "氷月",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145062-eCEE4J0RRGvt.jpg"
-  },
-  {
-    "name": "Ukyou Saionji",
-    "role": "supporting",
-    "voiceActors": [
-      "kenshou-ono"
-    ],
-    "nameNative": "西園寺羽京",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145064-cbgNBAEY9q4R.png"
-  },
-  {
-    "name": "Francois",
-    "role": "supporting",
-    "voiceActors": [
-      "maaya-sakamoto"
-    ],
-    "nameNative": "フランソワ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145098-T5TSpMoyy3cR.jpg"
-  },
-  {
-    "name": "Chelsea Childe",
-    "role": "supporting",
-    "voiceActors": [
-      "megumi-han"
-    ],
-    "nameNative": "チェルシー・チャイルド",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199868-JuD8PL4DQAOW.png"
-  },
-  {
-    "name": "Ginrou",
-    "role": "supporting",
-    "voiceActors": [
-      "ayumu-murase"
-    ],
-    "nameNative": "銀狼",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143270-8kC2e32r7CyE.jpg"
-  },
-  {
-    "name": "Luna Wright",
-    "role": "supporting",
-    "voiceActors": [
-      "akira-sekine"
-    ],
-    "nameNative": "ルーナ・ライト",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187008-WKVqpYnIQJ9C.png"
-  },
-  {
-    "name": "Max Adams",
-    "role": "supporting",
-    "voiceActors": [
-      "taishi-murata"
-    ],
-    "nameNative": "マックス・アダムス",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187010-Jc84kt9jlIeH.png"
-  },
-  {
-    "name": "Matsukaze",
-    "role": "supporting",
-    "voiceActors": [],
-    "nameNative": "松風",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188816-YTDuL5vljiUs.png"
-  },
-  {
-    "name": "Kinrou",
-    "role": "supporting",
-    "voiceActors": [
-      "tomoaki-maeno"
-    ],
-    "nameNative": "金狼",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143271-6dNgt1Mcy3PU.jpg"
-  },
-  {
-    "name": "You Uei",
-    "role": "supporting",
-    "voiceActors": [
-      "yoshiki-nakajima"
-    ],
-    "nameNative": "上井陽",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145061-BKjjznIkzV6C.png"
-  },
-  {
-    "name": "Nikki Hanada",
-    "role": "supporting",
-    "voiceActors": [
-      "atsumi-tanezaki"
-    ],
-    "nameNative": "花田仁姫",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145063-ALOeDMIyqCAE.jpg"
-  },
-  {
-    "name": "Homura Momiji",
-    "role": "supporting",
-    "voiceActors": [],
-    "nameNative": "紅葉ほむら",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145065-NjHaMBBRg49I.png"
-  },
-  {
-    "name": "Magma",
-    "role": "supporting",
-    "voiceActors": [
-      "yasuhiro-mamiya"
-    ],
-    "nameNative": "マグマ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145095-5kvEF2XUhNui.png"
-  },
-  {
-    "name": "Minami Hokutouzai",
-    "role": "supporting",
-    "voiceActors": [
-      "youko-hikasa"
-    ],
-    "nameNative": "北東西南",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145096-Xk4D4sK7nZy9.png"
-  },
-  {
-    "name": "Chalk",
-    "role": "supporting",
-    "voiceActors": [
-      "sayumi-suzushiro"
-    ],
-    "nameNative": "チョーク",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b147567-mvwmIvzi8my5.jpg"
+    ]
   },
   {
     "name": "Stanley Snyder",
+    "nameNative": "スタンリー・スナイダー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186483-JFDyGA332HBa.png",
     "role": "supporting",
     "voiceActors": [
       "kouji-yusa"
-    ],
-    "nameNative": "スタンリー・スナイダー",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186483-JFDyGA332HBa.png"
+    ]
   },
   {
-    "name": "Carlos Barrios",
+    "name": "Suika",
+    "nameNative": "スイカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124162-htFFNeC04bzw.jpg",
     "role": "supporting",
     "voiceActors": [
-      "chiharu-sawashiro"
-    ],
-    "nameNative": "カルロス・バリオス",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187009-idxKVnBvwL6U.png"
+      "karin-takahashi"
+    ]
   },
   {
-    "name": "Brody Dudley",
+    "name": "Taiju Ooki",
+    "nameNative": "大木大樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124146-TeXd4r0upuIX.jpg",
     "role": "supporting",
     "voiceActors": [
-      "hiroki-yasumoto"
-    ],
-    "nameNative": "ブロディ・ダドリー",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219106-fdknb2a8bPef.png"
+      "makoto-furukawa"
+    ]
   },
   {
-    "name": "Joel Gear",
+    "name": "Tsukasa Shishiou",
+    "nameNative": "獅子王司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124144-KOjcmhunbvYn.png",
     "role": "supporting",
     "voiceActors": [
-      "yuuki-sakakihara"
-    ],
-    "nameNative": "ジョエル・ギア",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219159-EQIh3a9c6vDM.png"
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Ukyou Saionji",
+    "nameNative": "西園寺羽京",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145064-cbgNBAEY9q4R.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenshou-ono"
+    ]
   },
   {
     "name": "Why-man",
+    "nameNative": "ホワイマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266038-ycofxDhITPlW.png",
     "role": "supporting",
     "voiceActors": [
       "kana-hanazawa"
-    ],
-    "nameNative": "ホワイマン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266038-ycofxDhITPlW.png"
+    ]
   },
   {
-    "name": "Sagara",
+    "name": "You Uei",
+    "nameNative": "上井陽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145061-BKjjznIkzV6C.png",
     "role": "supporting",
     "voiceActors": [
-      "naoko-komatsu"
-    ],
-    "nameNative": "サガラ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b302957-29R3Jwh6tpr2.jpg"
+      "yoshiki-nakajima"
+    ]
   },
   {
-    "name": "Maya Biggs",
+    "name": "Yuzuriha Ogawa",
+    "nameNative": "小川杠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124147-y3uE9rBepdad.jpg",
     "role": "supporting",
     "voiceActors": [
-      "mariko-higashiuchi"
-    ],
-    "nameNative": "マヤ・ビッグス",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354545-SRYskDMgJC2d.png"
-  },
-  {
-    "name": "Leonard Maxwell",
-    "role": "supporting",
-    "voiceActors": [
-      "reigo-yamaguchi"
-    ],
-    "nameNative": "レナード・マクスウェル",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354548-w2jrpWKsetyM.png"
+      "kana-ichinose"
+    ]
   }
 ]
