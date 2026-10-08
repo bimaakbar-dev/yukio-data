@@ -1,0 +1,183 @@
+[
+  {
+    "name": "Archer",
+    "nameNative": "アーチャー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2087-l5WP4W4vmfJJ.png",
+    "role": "main",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Artoria Pendragon",
+    "nameNative": "アルトリア・ペンドラゴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png",
+    "role": "main",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Rin Toosaka",
+    "nameNative": "遠坂凛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b498-lwawtSpLyATL.png",
+    "role": "main",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  },
+  {
+    "name": "Shirou Emiya",
+    "nameNative": "衛宮士郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b496-GI0waavDjyk3.png",
+    "role": "main",
+    "voiceActors": [
+      "noriaki-sugiyama",
+      "junko-noda"
+    ]
+  },
+  {
+    "name": "Ayako Mitsuzuri",
+    "nameNative": "美綴綾子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21024-IMc09tprmaQe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumie-mizusawa"
+    ]
+  },
+  {
+    "name": "Cú  Chulainn",
+    "nameNative": "クー・フーリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b499-gS5RAdupSKWQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobutoshi-kanna"
+    ]
+  },
+  {
+    "name": "Gai Gotou",
+    "nameNative": "後藤劾以",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b220895-xZiciF0ZpKbG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masanori-katsuragi"
+    ]
+  },
+  {
+    "name": "Gilgamesh",
+    "nameNative": "ギルガメッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Heracles",
+    "nameNative": "ヘラクレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b504-2k7LldrHYSAP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tadahisa-saizen"
+    ]
+  },
+  {
+    "name": "Illyasviel von Einzbern",
+    "nameNative": "イリヤスフィール・フォン・アインツベルン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b503-SmS87yq6l2tD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-kadowaki"
+    ]
+  },
+  {
+    "name": "Issei Ryuudou",
+    "nameNative": "柳洞一成",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15937-WpiTqk0Wr6RP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-madono"
+    ]
+  },
+  {
+    "name": "Kirei Kotomine",
+    "nameNative": "言峰綺礼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b506-qeg0TqitdCMS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Kiritsugu Emiya",
+    "nameNative": "衛宮切嗣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10010-fNspzan5MzNk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Kojirou Sasaki",
+    "nameNative": "佐々木小次郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2585-rWFs7LihpIFZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Medea",
+    "nameNative": "メデイア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3440-134Ip9KiQeZL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Medusa",
+    "nameNative": "メドゥーサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b502-Nc5U3ghTR7Gy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-asakawa"
+    ]
+  },
+  {
+    "name": "Sakura Matou",
+    "nameNative": "間桐桜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b500-NQrLbnBr1sDv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-shitaya"
+    ]
+  },
+  {
+    "name": "Shinji Matou",
+    "nameNative": "間桐慎二",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b501-yg63fxGVC6cK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Soichirou Kuzuki",
+    "nameNative": "葛木宗一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3439-N3HN8zxumCDP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-nakata"
+    ]
+  },
+  {
+    "name": "Taiga Fujimura",
+    "nameNative": "藤村大河",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b505-QL0cNIE6Q0RI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  }
+]
