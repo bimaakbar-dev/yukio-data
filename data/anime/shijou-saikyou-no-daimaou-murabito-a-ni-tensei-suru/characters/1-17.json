@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Ard Meteor",
+    "nameNative": "アード・メテオール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152259-QQQuLvQlIgCS.jpg",
+    "role": "main",
+    "voiceActors": [
+      "toshinari-fukamachi",
+      "rie-takahashi",
+      "kouhei-amasaki"
+    ]
+  },
+  {
+    "name": "Ginny de Salvan",
+    "nameNative": "ジニー・フィン・ド・サルヴァン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152258-4ET1kkCidvCj.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hina-youmiya"
+    ]
+  },
+  {
+    "name": "Ireena Olhyde",
+    "nameNative": "イリーナ・リッツ・ド・オールハイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152260-Vd7MdBXyBdHE.jpg",
+    "role": "main",
+    "voiceActors": [
+      "wakana-maruoka"
+    ]
+  },
+  {
+    "name": "Alvarto Egzex",
+    "nameNative": "アルヴァート・エグゼクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266980-nGjnjuzOyr6I.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Carla Meteor",
+    "nameNative": "カーラ・メテオール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278390-zjRtzLqMDEx7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-watanabe"
+    ]
+  },
+  {
+    "name": "Disaster Rogue",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298789-7dgoYukag4GV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshinari-fukamachi"
+    ]
+  },
+  {
+    "name": "Elraldo",
+    "nameNative": "エラルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278391-BFZm954epJuy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Elzard",
+    "nameNative": "エルザード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278388-LObFvjD4pxJj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Jack",
+    "nameNative": "ジャック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298790-bgKYx8Xal1DW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikuji-nose"
+    ]
+  },
+  {
+    "name": "Jessica",
+    "nameNative": "ジェシカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298787-RkbNw2iyE4d2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Latima",
+    "nameNative": "ラティマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298786-ExPAldGuWKcq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuko-abe"
+    ]
+  },
+  {
+    "name": "Lizer Belfenix",
+    "nameNative": "ライザー・ベルフェニックス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266977-34BVyRrnJLly.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Lydia Beginsgate",
+    "nameNative": "リディア・ビギンズゲート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266968-4CUQwnVkeSCF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-kaida"
+    ]
+  },
+  {
+    "name": "Olivia Vine",
+    "nameNative": "オリヴィア・ヴェル・ヴァイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259583-0fnCA34mBzvt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mie-sonozaki"
+    ]
+  },
+  {
+    "name": "Sylphy Marheaven",
+    "nameNative": "シルフィー・メルヘヴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259582-HcWdMIAE6Zie.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-oohashi"
+    ]
+  },
+  {
+    "name": "Veda Hazard",
+    "nameNative": "ヴェーダ・アル・ハザード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266975-iLZ89LvZetTM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-ogura"
+    ]
+  },
+  {
+    "name": "Weiss",
+    "nameNative": "ヴァイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298788-EZI52INL9iD4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kishio"
+    ]
+  }
+]
