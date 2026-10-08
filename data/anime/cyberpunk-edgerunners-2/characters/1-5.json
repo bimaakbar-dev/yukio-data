@@ -1,44 +1,44 @@
 [
   {
-    "name": "Weak Kingsley",
-    "role": "main",
-    "voiceActors": [
-      "kentarou-tone"
-    ],
-    "nameNative": "ウィーク・キングスリー",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402428-rengYJkOqrNB.png"
-  },
-  {
     "name": "D",
+    "nameNative": "D",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402555-eLAUsujYzeuk.jpg",
     "role": "main",
     "voiceActors": [
       "kouki-uchiyama"
-    ],
-    "nameNative": "D",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402555-eLAUsujYzeuk.jpg"
+    ]
   },
   {
     "name": "Roman Carax",
+    "nameNative": "ロマン・カラックス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402617-yMF7AH5pKfM7.png",
     "role": "main",
     "voiceActors": [
       "momoka-terasawa"
-    ],
-    "nameNative": "ロマン・カラックス",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402617-yMF7AH5pKfM7.png"
+    ]
   },
   {
     "name": "Talia Yang",
+    "nameNative": "タリア・ヤン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402683-OE7PEewCJi1v.png",
     "role": "main",
     "voiceActors": [
       "akari-kitou"
-    ],
-    "nameNative": "タリア・ヤン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402683-OE7PEewCJi1v.png"
+    ]
+  },
+  {
+    "name": "Weak Kingsley",
+    "nameNative": "ウィーク・キングスリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402428-rengYJkOqrNB.png",
+    "role": "main",
+    "voiceActors": [
+      "kentarou-tone"
+    ]
   },
   {
     "name": "Avida Yang",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b407502-9WamyZ2wLYVb.jpg",
     "role": "supporting",
-    "voiceActors": [],
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b407502-9WamyZ2wLYVb.jpg"
+    "voiceActors": []
   }
 ]
