@@ -1,0 +1,445 @@
+[
+  {
+    "name": "Rimuru Tempest",
+    "nameNative": "リムル・テンペスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123962-eL9yGV0NLMF7.png",
+    "role": "main",
+    "voiceActors": [
+      "miho-okasaki"
+    ]
+  },
+  {
+    "name": "Adalman",
+    "nameNative": "アダルマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b241937-f8BZV0FJpu1M.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Alice Rondo",
+    "nameNative": "アリス・ロンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132746-OKMKDfnGuX7c.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-shiraishi"
+    ]
+  },
+  {
+    "name": "Benimaru",
+    "nameNative": "ベニマル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128038-VgVcqf6NDGJ5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Beretta",
+    "nameNative": "ベレッタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131053-MFbOfTdE7uQh.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Bernie",
+    "nameNative": "バーニィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312446-RbGmd2ulJhuv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouya-ishige"
+    ]
+  },
+  {
+    "name": "Carrera",
+    "nameNative": "カレラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131032-z6oEHHhO3cP2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikumi-hasegawa"
+    ]
+  },
+  {
+    "name": "Chloe Aubert",
+    "nameNative": "クロエ・オベール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132760-RnM24QiV5pHJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "azusa-tadokoro"
+    ]
+  },
+  {
+    "name": "Daikenja",
+    "nameNative": "大賢者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129347-m1xftx27rHwl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Deeno",
+    "nameNative": "ディーノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131049-45n1c9WgwM93.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-kobayashi"
+    ]
+  },
+  {
+    "name": "Diablo",
+    "nameNative": "ディアブロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131033-0LguIALHCBEH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Footman",
+    "nameNative": "フットマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198040-FwwtNbplwtxN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinji-kawada"
+    ]
+  },
+  {
+    "name": "Frey",
+    "nameNative": "フレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131038-vlB4CIRZAiA3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  },
+  {
+    "name": "Fritz",
+    "nameNative": "フリッツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327461-5CnbmIrjIdko.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taishi-murata"
+    ]
+  },
+  {
+    "name": "Gabiru",
+    "nameNative": "ガビル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131041-MKPEBzVY1XPh.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Gaia",
+    "nameNative": "ガイア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198043-SzngfC8vjTJD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-hishikawa"
+    ]
+  },
+  {
+    "name": "Garde-Myourmiles",
+    "nameNative": "ガルド・ミョルマイル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132749-lb37TWQ6iY6A.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-aoyama"
+    ]
+  },
+  {
+    "name": "Geld",
+    "nameNative": "ゲルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133522-CkNIcvE1JJ08.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tarou-yamaguchi"
+    ]
+  },
+  {
+    "name": "Glenda Attley",
+    "nameNative": "グレンダ・アトリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327466-J2FDz3yjVkyj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-hino"
+    ]
+  },
+  {
+    "name": "Gobta",
+    "nameNative": "ゴブタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129350-qF2RlaSXb8Ro.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asuna-tomari"
+    ]
+  },
+  {
+    "name": "Granbell Rosso",
+    "nameNative": "グランベル・ロッゾ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326217-3k5fJyK67TPp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Gunther",
+    "nameNative": "ギュンタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256437-9iSIONvs85VW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-katayama"
+    ]
+  },
+  {
+    "name": "Guy Crimson",
+    "nameNative": "ギィ・クリムゾン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131048-uC7YdMAMSyzg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Hakurou",
+    "nameNative": "ハクロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131043-AyEdKg1Xkjrd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Hinata Sakaguchi",
+    "nameNative": "坂口日向",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131042-ve0zpRm1ZzCp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manami-numakura"
+    ]
+  },
+  {
+    "name": "Ifrit",
+    "nameNative": "イフリット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134583-cnaY5eEBxALn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taku-yashiro",
+      "mariko-higashiuchi"
+    ]
+  },
+  {
+    "name": "Jinrai",
+    "nameNative": "ジンライ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312448-SwXaDTjYcRHa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tarou-kiuchi"
+    ]
+  },
+  {
+    "name": "Kagali",
+    "nameNative": "カガリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131046-LRmz941c17kO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-ishikawa"
+    ]
+  },
+  {
+    "name": "Kaijin",
+    "nameNative": "カイジン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129915-09RUrdTUgymf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-ono"
+    ]
+  },
+  {
+    "name": "Kenya Misaki",
+    "nameNative": "三崎剣也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132751-uOe8ltI5KveN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-asai"
+    ]
+  },
+  {
+    "name": "Kurobee",
+    "nameNative": "クロベエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131051-qoiT626UcNoH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-yanagita"
+    ]
+  },
+  {
+    "name": "Laplace",
+    "nameNative": "ラプラス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134593-rOJREMpOX1XW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-nakai"
+    ]
+  },
+  {
+    "name": "Leon Cromwell",
+    "nameNative": "レオン・クロムウェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131047-K8yFHSBShVsA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Louis Valentin",
+    "nameNative": "ルイ・ヴァレンタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256438-qGGMFliEWYQC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-mizunaka"
+    ]
+  },
+  {
+    "name": "Luminous Valentine",
+    "nameNative": "ルミナス・バレンタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131037-yhL267K48BA4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "lynn"
+    ]
+  },
+  {
+    "name": "Mariabell Rosso",
+    "nameNative": "マリアベル・ロッゾ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212506-fizX7J5IV4N1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Masayuki",
+    "nameNative": "マサユキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b226057-T4ztKbBOI59f.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Milim Nava",
+    "nameNative": "ミリム・ナーヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128036-lW0dxNwerqw4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  },
+  {
+    "name": "Mizeri",
+    "nameNative": "ミザリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198041-hbkztY7aYBiN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-hirose"
+    ]
+  },
+  {
+    "name": "Moss",
+    "nameNative": "モス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b222035-cRLVxI54Tr5c.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misato-matsuoka"
+    ]
+  },
+  {
+    "name": "Raine",
+    "nameNative": "レイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198042-Ip4WOoodIDIL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-yukimura"
+    ]
+  },
+  {
+    "name": "Ramiris",
+    "nameNative": "ラミリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131034-Xb6oPnWAbpZq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "anzu-haruno"
+    ]
+  },
+  {
+    "name": "Ranga",
+    "nameNative": "ランガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128035-7r8BX1tt8BKg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chikahiro-kobayashi"
+    ]
+  },
+  {
+    "name": "Rigur",
+    "nameNative": "リグル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129349-lneC6Glj2bps.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruki-ishiya"
+    ]
+  },
+  {
+    "name": "Rigurd",
+    "nameNative": "リグルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129348-uWQXM503laJT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kanehira-yamamoto"
+    ]
+  },
+  {
+    "name": "Ryouta Sekiguchi",
+    "nameNative": "関口良太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132753-g2ZZbl1UBXCN.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Shion",
+    "nameNative": "シオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128033-fLbTgW4M2yj3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Shuna",
+    "nameNative": "シュナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-senbongi"
+    ]
+  },
+  {
+    "name": "Souei",
+    "nameNative": "ソウエイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128039-cce4njbCcb2M.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-eguchi"
+    ]
+  },
+  {
+    "name": "Souka",
+    "nameNative": "ソーカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132730-OSHW3jIGHefr.png",
+    "role": "supporting",
+    "voiceActors": []
+  }
+]
