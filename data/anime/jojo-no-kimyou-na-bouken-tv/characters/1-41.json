@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Caesar Zeppeli",
+    "nameNative": "シーザー・アントニオ・ツェペリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21959-Cm9Rlh0EFAQw.png",
+    "role": "main",
+    "voiceActors": [
+      "takuya-satou"
+    ]
+  },
+  {
+    "name": "Dio Brando",
+    "nameNative": "ディオ・ブランドー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4004-w0OtWuvjhftG.png",
+    "role": "main",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Jonathan Joestar",
+    "nameNative": "ジョナサン・ジョースター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8087-GTrObHQvujB5.png",
+    "role": "main",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Joseph Joestar",
+    "nameNative": "ジョセフ・ジョースター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6356-RImEfUfHpC58.png",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "ACDC",
+    "nameNative": "エシディシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21964-nA0cw9XBwitK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Adams",
+    "nameNative": "アダムス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243884-DR6KCSjhsQu1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenori-takahashi"
+    ]
+  },
+  {
+    "name": "Bruford",
+    "nameNative": "ブラフォード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n74113-bwYgDlbf5oiY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Chuugoku Kenpouka",
+    "nameNative": "中国拳法家",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b233084-xteJ2UoHY3Iz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "itaru-yamamoto"
+    ]
+  },
+  {
+    "name": "Dario Brando",
+    "nameNative": "ダリオ・ブランドー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n74099-L9f89j4jraUQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tadashi-miyazawa"
+    ]
+  },
+  {
+    "name": "Dire",
+    "nameNative": "ダイアー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n74057-7SVzc5bAOSdm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taketora"
+    ]
+  },
+  {
+    "name": "Donovan",
+    "nameNative": "ドノヴァン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130259-NcSoB9Rw1xoo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Doobie",
+    "nameNative": "ドゥービー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130252-D8DVHP2re7fu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-ishigami"
+    ]
+  },
+  {
+    "name": "Elizabeth I",
+    "nameNative": "エリザベスⅠ世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243876-AVfx0NlLNGpU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-keichou"
+    ]
+  },
+  {
+    "name": "Erina Pendleton",
+    "nameNative": "エリナ・ペンドルトン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21937-mwAbJAgxE8yP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "George Joestar I",
+    "nameNative": "ジョージ・ジョースターI世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n21956-Mv5FsZ4EnKzs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-sugawara"
+    ]
+  },
+  {
+    "name": "Jack",
+    "nameNative": "切り裂きジャック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n74105-lLpzu5q6pwbo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-kusumi"
+    ]
+  },
+  {
+    "name": "Kars",
+    "nameNative": "カーズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n21966-ZvYmd1Dwp613.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Kisha",
+    "nameNative": "記者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232365-gPF7YAkx8cY4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seiko-yoshida"
+    ]
+  },
+  {
+    "name": "Lisa Lisa",
+    "nameNative": "リサリサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21960-3stfLc0uwgoT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Loggins",
+    "nameNative": "ロギンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130261-isfIv9CVs0Ug.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-nakano"
+    ]
+  },
+  {
+    "name": "Mario Zeppeli",
+    "nameNative": "マリオ ・ ツェペリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130260-m2tbwmLjERYW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jin-yamanoi"
+    ]
+  },
+  {
+    "name": "Mark",
+    "nameNative": "マルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232362-gJrN1tvLJGIT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Messina",
+    "nameNative": "メッシーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130263-Z8zzr9T0VPb8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidetoshi-nakamura"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-ookawa"
+    ]
+  },
+  {
+    "name": "Poco",
+    "nameNative": "ポコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130253-pMSSkJsSzKBW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumiko-kobayashi"
+    ]
+  },
+  {
+    "name": "Poco no Ane",
+    "nameNative": "ポコの姉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154086-t3rG3tJN3gd7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Robert E. O. Speedwagon",
+    "nameNative": "ロバート・E・O・スピードワゴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n21938-7iTMOJ4i6ET8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youji-ueda"
+    ]
+  },
+  {
+    "name": "Rudol von Stroheim",
+    "nameNative": "ルドル・フォン・シュトロハイム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n21958-RvVcFEHfOrKV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-imaruoka"
+    ]
+  },
+  {
+    "name": "Santana",
+    "nameNative": "サンタナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n21963-oQKcN4QHHOpK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "Shitsuji",
+    "nameNative": "執事",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243880-8FSQ2rcuTUkf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinobu-matsumoto"
+    ]
+  },
+  {
+    "name": "Smokey Brown",
+    "nameNative": "スモーキー・ブラウン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n21957-DHiP7omcHM5H.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-hayashi"
+    ]
+  },
+  {
+    "name": "Straits",
+    "nameNative": "ストレイツォ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21961-9JPMSyptHeWe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Suzie Q",
+    "nameNative": "スージーＱ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21962-74U6QodPnwtC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sachiko-kojima"
+    ]
+  },
+  {
+    "name": "Tarkus",
+    "nameNative": "タルカス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n74109-KiX6nLKONYw4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Tattoo",
+    "nameNative": "刺青",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130251-c2xA45fZ6GVY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-tajiri"
+    ]
+  },
+  {
+    "name": "Tompetty",
+    "nameNative": "トンペティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n74097-I4hre57ad84b.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tamio-ooki"
+    ]
+  },
+  {
+    "name": "Wamuu",
+    "nameNative": "ワムウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21965-waQaIDkSC77a.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Wang Chung",
+    "nameNative": "ワンチェン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n74101-DnFd7wYsk5BF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-naka"
+    ]
+  },
+  {
+    "name": "Will A. Zeppeli",
+    "nameNative": "ウィル・A・ツェペリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18062-FjIMwcBJra9L.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoku-shioya"
+    ]
+  },
+  {
+    "name": "Wired Beck",
+    "nameNative": "鋼線のベック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243882-Fo8mpbhF5S3u.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-tsuruoka"
+    ]
+  },
+  {
+    "name": "Yaji B",
+    "nameNative": "ヤジB",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-miwa"
+    ]
+  }
+]
