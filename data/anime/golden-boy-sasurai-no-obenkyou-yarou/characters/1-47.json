@@ -1,0 +1,424 @@
+[
+  {
+    "name": "Ayuko Hayamizu",
+    "nameNative": "速水鮎子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15219-sDaUYGnJRpCb.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Chie",
+    "nameNative": "知絵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15220-DMRFTmGGuYA2.png",
+    "role": "main",
+    "voiceActors": [
+      "mika-kanai"
+    ]
+  },
+  {
+    "name": "Kintarou Ooe",
+    "nameNative": "大江錦太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2738-xKZ8i1kLvWRL.png",
+    "role": "main",
+    "voiceActors": [
+      "mitsuo-iwata"
+    ]
+  },
+  {
+    "name": "Naoko Katsuda",
+    "nameNative": "勝田奈緒子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15221-NFHvCh70AZ5V.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuko-minaguchi"
+    ]
+  },
+  {
+    "name": "Noriko",
+    "nameNative": "紀子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15223-m6Rfx3SWzuzg.png",
+    "role": "main",
+    "voiceActors": [
+      "yuri-shiratori"
+    ]
+  },
+  {
+    "name": "Onna Shachou",
+    "nameNative": "女社長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n15224-WnKC0LCUiGFR.png",
+    "role": "main",
+    "voiceActors": [
+      "hiromi-tsuru"
+    ]
+  },
+  {
+    "name": "Reiko Terayama",
+    "nameNative": "寺山麗子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10280-q5p4MKzKykU9.png",
+    "role": "main",
+    "voiceActors": [
+      "sakiko-tamagawa"
+    ]
+  },
+  {
+    "name": "Animator A",
+    "nameNative": "アニメーターA",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278166-YGDfsCkwtFcX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-okano"
+    ]
+  },
+  {
+    "name": "Animator B",
+    "nameNative": "アニメーターB",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuzou-ishino"
+    ]
+  },
+  {
+    "name": "Animator C",
+    "nameNative": "アニメーターC",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-suzuki"
+    ]
+  },
+  {
+    "name": "Animator D",
+    "nameNative": "アニメーターD",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278177-IgEYmRXSM3Wd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Animator E",
+    "nameNative": "アニメーターE",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278164-h777u73ZRmZ6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Douken",
+    "nameNative": "動検",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasunori-yuge"
+    ]
+  },
+  {
+    "name": "Hiroshi Kogure",
+    "nameNative": "木暮ひろし",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278168-mDoMf6qKaMIV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "juurouta-kosugi"
+    ]
+  },
+  {
+    "name": "Instructor A",
+    "nameNative": "インストラクターA",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278165-VNCZQLLcz1at.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-mizutani"
+    ]
+  },
+  {
+    "name": "Instructor B",
+    "nameNative": "インストラクターB",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278154-2r0cqR6KwfVg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-ishii"
+    ]
+  },
+  {
+    "name": "Instructor C",
+    "nameNative": "インストラクターC",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278174-YjlMzoUu2C0A.png",
+    "role": "supporting",
+    "voiceActors": [
+      "michiko-neya"
+    ]
+  },
+  {
+    "name": "Jitenshaya Okusan",
+    "nameNative": "自転車屋奥さん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278148-uOi6QnS0UEAs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takumi-kurebayashi"
+    ]
+  },
+  {
+    "name": "Jitenshaya Shunin",
+    "nameNative": "自転車屋主人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278147-xUmUa46DIOe5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takkou-ishimori"
+    ]
+  },
+  {
+    "name": "Juuzou Katsuda",
+    "nameNative": "勝田十蔵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278169-vyIAkyIN6ROT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouzou-iizuka"
+    ]
+  },
+  {
+    "name": "Kaseifu",
+    "nameNative": "家政婦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kujira"
+    ]
+  },
+  {
+    "name": "Kodomo",
+    "nameNative": "子供",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-tano"
+    ]
+  },
+  {
+    "name": "Kogure no Onna",
+    "nameNative": "木暮の女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278181-gQ9hU1iYoyKy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  },
+  {
+    "name": "Mixer",
+    "nameNative": "ミキサー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278161-ndoYMdwiT6be.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shocker-oono"
+    ]
+  },
+  {
+    "name": "Noriko Katsuda",
+    "nameNative": "勝田法子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278149-E8PdoRgimJMH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-uemura"
+    ]
+  },
+  {
+    "name": "OL",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miho-yoshida"
+    ]
+  },
+  {
+    "name": "Onna Producer",
+    "nameNative": "女プロデューサー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278162-Et12dwIahtvL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-doi"
+    ]
+  },
+  {
+    "name": "Porsche no Otoko",
+    "nameNative": "ポルシェの男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278172-RYu6ihZXLqNY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-higo"
+    ]
+  },
+  {
+    "name": "Sakata",
+    "nameNative": "坂田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278150-iHkuI80xaMkv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hajime-koseki"
+    ]
+  },
+  {
+    "name": "Salaryman A",
+    "nameNative": "サラリーマンA",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohisa-asou"
+    ]
+  },
+  {
+    "name": "Salaryman B",
+    "nameNative": "サラリーマンB",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jin-yamanoi"
+    ]
+  },
+  {
+    "name": "Shachou",
+    "nameNative": "社長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278156-OnhkgxUDVc8B.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yousuke-akimoto"
+    ]
+  },
+  {
+    "name": "Shain A",
+    "nameNative": "社員A",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278145-VXr0p230hxvD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Shain B",
+    "nameNative": "社員B",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-iwao"
+    ]
+  },
+  {
+    "name": "Shain C",
+    "nameNative": "社員C",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-takahashi"
+    ]
+  },
+  {
+    "name": "Shain D",
+    "nameNative": "社員D",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-shimakata"
+    ]
+  },
+  {
+    "name": "Shain E",
+    "nameNative": "社員E",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-kanai"
+    ]
+  },
+  {
+    "name": "Takikubo Kantoku",
+    "nameNative": "滝久保監督",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278178-Kye4nHrhH1YF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Tatsuya Engawa",
+    "nameNative": "縁側達也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141863-PTJ25Xe3pYEp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuya-egawa"
+    ]
+  },
+  {
+    "name": "Udon no Okusan",
+    "nameNative": "うどん屋の奥さん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278179-hWCnU8RfZxk9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-saitou"
+    ]
+  },
+  {
+    "name": "Udon no Shunin",
+    "nameNative": "うどん屋の主人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278171-ydMkXH31a6I1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikojirou-matsumura"
+    ]
+  },
+  {
+    "name": "Uwayaku A",
+    "nameNative": "上役A",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278163-3FtFZHbmAEes.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-nakamura"
+    ]
+  },
+  {
+    "name": "Uwayaku B",
+    "nameNative": "上役B",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278159-dcm8xkGdQgI7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kumiko-takizawa"
+    ]
+  },
+  {
+    "name": "Wakamoto",
+    "nameNative": "若元",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278157-wVRqUzUzNxBd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-takato"
+    ]
+  },
+  {
+    "name": "Yakuza A",
+    "nameNative": "ヤクザA",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278151-EGT4EtqEV1Wq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuya-egawa"
+    ]
+  },
+  {
+    "name": "Yakuza B",
+    "nameNative": "ヤクザB",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278153-zfC9Y8o811Vs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hajime-koseki"
+    ]
+  },
+  {
+    "name": "Yuka Kanzaki",
+    "nameNative": "神崎ゆか",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15222-apPza7d6RnVX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-koyama"
+    ]
+  }
+]
