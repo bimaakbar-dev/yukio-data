@@ -1,0 +1,27 @@
+[
+  {
+    "relation": "alternative",
+    "slug": "fatestay-night",
+    "title": "Fate/stay night"
+  },
+  {
+    "relation": "side_story",
+    "slug": "fatekaleid-liner-prismaillya-specials",
+    "title": "Fate/kaleid liner Prisma☆Illya Specials"
+  },
+  {
+    "relation": "side_story",
+    "slug": "fatekaleid-liner-prismaillya-undoukai-de-dance",
+    "title": "Fate/kaleid liner Prisma☆Illya: Undoukai de Dance!"
+  },
+  {
+    "relation": "sequel",
+    "slug": "fatekaleid-liner-prismaillya-2wei",
+    "title": "Fate/kaleid liner Prisma☆Illya 2wei!"
+  },
+  {
+    "relation": "other",
+    "slug": "fatekaleid-liner-prismaillya-prismaphantasm",
+    "title": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm"
+  }
+]
