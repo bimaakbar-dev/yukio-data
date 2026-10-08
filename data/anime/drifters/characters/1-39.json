@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Nobunaga Oda",
+    "nameNative": "織田信長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/24184.jpg",
+    "role": "main",
+    "voiceActors": [
+      "naoya-uchida"
+    ]
+  },
+  {
+    "name": "Toyohisa Shimazu",
+    "nameNative": "島津豊久",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24183-zvUBfbdvEYyZ.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Yoichi Nasu no Suketaka",
+    "nameNative": "那須与一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/24200.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Abe no Seimei",
+    "nameNative": "安倍晴明",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43716.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Alester",
+    "nameNative": "アレスタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81233-m1eGTfEQh7XR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-fukuda"
+    ]
+  },
+  {
+    "name": "Anastasia Romanova",
+    "nameNative": "アナスタシア・ニコラエヴナ・ロマノヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34734.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-kitanishi"
+    ]
+  },
+  {
+    "name": "Aram",
+    "nameNative": "アラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292610-ivTeAdXM51Xd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "isshin-chiba"
+    ]
+  },
+  {
+    "name": "Butch Cassidy",
+    "nameNative": "ブッチ・キャシディ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b74647-4NzIo5bAEeTy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Doug",
+    "nameNative": "ドグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292618-Oq8hgfKpCHM5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "riki-kagami"
+    ]
+  },
+  {
+    "name": "Dwarf-chou",
+    "nameNative": "ドワーフ長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292617-9w1HwT5LmTK2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-itou"
+    ]
+  },
+  {
+    "name": "EASY",
+    "nameNative": "イーズィー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43719.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kanae-itou"
+    ]
+  },
+  {
+    "name": "Fulame",
+    "nameNative": "フラメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81235.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Gilles de Rais",
+    "nameNative": "ジルドレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43711.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "Grigori Rasputin",
+    "nameNative": "ラスプーチン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32930.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masahiko-tanaka"
+    ]
+  },
+  {
+    "name": "Hannibal Barca",
+    "nameNative": "ハンニバル・バルカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b37822-W6724dxYSfs8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-aoyama"
+    ]
+  },
+  {
+    "name": "Iehisa Shimazu",
+    "nameNative": "島津家久",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292582-MPIhASgjQ7j1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tadahisa-saizen"
+    ]
+  },
+  {
+    "name": "Ii Naomasa",
+    "nameNative": "井伊直政",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292583-Aivd9XIVPalu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-mamiya"
+    ]
+  },
+  {
+    "name": "Jeanne d'Arc",
+    "nameNative": "ジャンヌ・ダルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29971-hrBLpNbSKbYG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-minagawa"
+    ]
+  },
+  {
+    "name": "Kafeto",
+    "nameNative": "カフェト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43717.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masakazu-nishida"
+    ]
+  },
+  {
+    "name": "Mark",
+    "nameNative": "マルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292571-XntiTHLn1dsm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-tsuzuki"
+    ]
+  },
+  {
+    "name": "Masanori Fukushima",
+    "nameNative": "福島正則",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292607-K9qKO4xbwdQU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kirian-jou"
+    ]
+  },
+  {
+    "name": "Masha",
+    "nameNative": "マーシャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292570-TErCJfu9nZeY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayori-ishizuka"
+    ]
+  },
+  {
+    "name": "Milz",
+    "nameNative": "ミルズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292619-6NNqgaqUyZHi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hirofumi-nojima"
+    ]
+  },
+  {
+    "name": "Minamoto Yoshitsune",
+    "nameNative": "源義経",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43712.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Mitsuhide Akechi",
+    "nameNative": "明智光秀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292621-XKgqZFzskLgz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Murasaki",
+    "nameNative": "紫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43718.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-miyamoto"
+    ]
+  },
+  {
+    "name": "Naoshi Kanno",
+    "nameNative": "菅野直",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43709-8a0rJnf9qjYb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  },
+  {
+    "name": "Olminu",
+    "nameNative": "オルミーヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43715.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shiho-kokido"
+    ]
+  },
+  {
+    "name": "Saint-Germi",
+    "nameNative": "サンジェルミ伯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43714.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Scipio Africanus",
+    "nameNative": "スキピオ・アフリカヌス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29970.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-yanaka"
+    ]
+  },
+  {
+    "name": "Seidou Ryuu",
+    "nameNative": "青銅竜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rintarou-nishi"
+    ]
+  },
+  {
+    "name": "Semu",
+    "nameNative": "セム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gou-inoue"
+    ]
+  },
+  {
+    "name": "Shara",
+    "nameNative": "シャラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292609-jIiFbl94pQ7X.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junji-majima"
+    ]
+  },
+  {
+    "name": "Shuudou-shi Martin",
+    "nameNative": "修道士マルタン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tadahisa-saizen"
+    ]
+  },
+  {
+    "name": "Tamon Yamaguchi",
+    "nameNative": "山口多聞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292611-tGmBvZWikP1l.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-nakano"
+    ]
+  },
+  {
+    "name": "The Black King",
+    "nameNative": "黒王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43710.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taiten-kusunoki"
+    ]
+  },
+  {
+    "name": "The Sundance Kid",
+    "nameNative": "ザ・サンダンス・キッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/74649.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Toshizou Hijikata",
+    "nameNative": "土方歳三",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34584.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Yoshihiro Shimazu",
+    "nameNative": "島津義弘",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292581-wlnKotR2dzEO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jirou-saitou"
+    ]
+  }
+]
