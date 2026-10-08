@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Ame",
+    "nameNative": "雨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60283-1oOCO9yq7ymy.png",
+    "role": "main",
+    "voiceActors": [
+      "yukito-nishii",
+      "amon-kabe"
+    ]
+  },
+  {
+    "name": "Hana",
+    "nameNative": "花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60279-1DRIDCpJZ9SD.png",
+    "role": "main",
+    "voiceActors": [
+      "aoi-miyazaki"
+    ]
+  },
+  {
+    "name": "Ookami",
+    "nameNative": "おおかみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60285-wIKFVBLWa9nw.png",
+    "role": "main",
+    "voiceActors": [
+      "takao-osawa"
+    ]
+  },
+  {
+    "name": "Yuki",
+    "nameNative": "雪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60281-QaCr9FOcsIOQ.png",
+    "role": "main",
+    "voiceActors": [
+      "haru-kuroki",
+      "momoka-oono"
+    ]
+  },
+  {
+    "name": "Hosokawa",
+    "nameNative": "細川",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393036-YzOKL05QAm4r.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tadashi-nakamura"
+    ]
+  },
+  {
+    "name": "Keno",
+    "nameNative": "毛野",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mone-kamishiraishi"
+    ]
+  },
+  {
+    "name": "Nirasaki",
+    "nameNative": "韮崎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146463-ixdtzZOYQ4Yu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "bunta-sugawara"
+    ]
+  },
+  {
+    "name": "Souhei Fujii",
+    "nameNative": "藤井草平",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65339-d3bUoZLRu4wn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-hiraoka"
+    ]
+  },
+  {
+    "name": "Souhei no Haha",
+    "nameNative": "草平の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65341-5VAZZUIoGlVW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Tanabe",
+    "nameNative": "田辺",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135608-iECrK4vG4c1V.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouta-sometani"
+    ]
+  }
+]
