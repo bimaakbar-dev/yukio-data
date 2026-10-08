@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Seita",
+    "nameNative": "清太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b494-9sbHCvWiD9py.png",
+    "role": "main",
+    "voiceActors": [
+      "tsutomu-tatsumi"
+    ]
+  },
+  {
+    "name": "Setsuko",
+    "nameNative": "節子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b495-vzUTVQ5RMiJN.png",
+    "role": "main",
+    "voiceActors": [
+      "ayano-shiraishi"
+    ]
+  },
+  {
+    "name": "Seita Setsuko no Haha",
+    "nameNative": "清太・節子の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133870-kfO1GVk2plls.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-shinohara"
+    ]
+  }
+]
