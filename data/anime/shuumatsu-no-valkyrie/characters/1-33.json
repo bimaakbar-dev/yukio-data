@@ -1,0 +1,285 @@
+[
+  {
+    "name": "Adam",
+    "nameNative": "アダム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140637-jTJb40wOjsPs.png",
+    "role": "main",
+    "voiceActors": [
+      "souma-saitou"
+    ]
+  },
+  {
+    "name": "Brunhilde",
+    "nameNative": "ブリュンヒルデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140636-nuL1uHEuedtJ.png",
+    "role": "main",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Bu Lü",
+    "nameNative": "呂布",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140645-8VBxjc5X3Nzn.png",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Göll",
+    "nameNative": "ゲル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140651-rCWBHRt8kjvt.png",
+    "role": "main",
+    "voiceActors": [
+      "tomoyo-kurosawa"
+    ]
+  },
+  {
+    "name": "Kojirou Sasaki",
+    "nameNative": "佐々木小次郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140646-j8tTUNjhFYPQ.png",
+    "role": "main",
+    "voiceActors": [
+      "kazuhiro-yamaji"
+    ]
+  },
+  {
+    "name": "Poseidon",
+    "nameNative": "ポセイドン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140641-sL1cVxyjIA6h.png",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Thor",
+    "nameNative": "トール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140638-OymphqBKzuDp.png",
+    "role": "main",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Zeus",
+    "nameNative": "ゼウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140640-w78CFviA9DNm.png",
+    "role": "main",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Abel",
+    "nameNative": "アベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188972-RGAyoYbLLHIf.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Adamas",
+    "nameNative": "アダマス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188975-EvW3GXBc744X.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Aphrodite",
+    "nameNative": "アフロディテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188973-yVEplNS60zxb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-tanaka"
+    ]
+  },
+  {
+    "name": "Ares",
+    "nameNative": "アレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140649-lYYjc7Uw1WST.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hinata-tadokoro"
+    ]
+  },
+  {
+    "name": "Cain",
+    "nameNative": "カイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189244-isoqNOW34twF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shuuichi-uchida"
+    ]
+  },
+  {
+    "name": "Eve",
+    "nameNative": "イヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189249-Z6adS8NyMRXP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-komatsu"
+    ]
+  },
+  {
+    "name": "Fei Zhang",
+    "nameNative": "张飞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248541-O6WBXh8MHDxo.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Gong Chen",
+    "nameNative": "陳宮",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189241-5yZQPbZIzvjY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-hamano"
+    ]
+  },
+  {
+    "name": "Heimdall",
+    "nameNative": "ヘイムダル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140652-wP8AhWjPWtEc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukihiro-nozuyama"
+    ]
+  },
+  {
+    "name": "Hermes",
+    "nameNative": "ヘルメス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140647-PYvrldCaJk4a.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Hrist",
+    "nameNative": "フリスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140642-zHwwedZScVjE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Huginn",
+    "nameNative": "フギン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213945-knYlXTSoIZ3m.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taisuke-nakano"
+    ]
+  },
+  {
+    "name": "Iori Miyamoto",
+    "nameNative": "宮本伊織",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189253-9Xh3MnKLdX2g.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiko-mizumori"
+    ]
+  },
+  {
+    "name": "Kagehisa Itou Ittousai",
+    "nameNative": "伊藤一刀斎景久",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189255-fztobf2aaD9H.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Loki",
+    "nameNative": "ロキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140648-tqOSgmveVuiT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Michelangelo",
+    "nameNative": "ミケランジェロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189307-DcP1YwH9OxTP.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Muninn",
+    "nameNative": "ムニン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213946-Zf9wr2gXhZO2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-yamaguchi"
+    ]
+  },
+  {
+    "name": "Nobutsuna Kamiizumi",
+    "nameNative": "上泉伊勢守信綱",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189309-LJKnzinz20pp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuki-souya"
+    ]
+  },
+  {
+    "name": "Odin",
+    "nameNative": "オーディン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140639-89nkDsgcFctx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Randgriz",
+    "nameNative": "ランドグリーズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140643-KLHEDcgAiUbD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-kawakami"
+    ]
+  },
+  {
+    "name": "Reginleif",
+    "nameNative": "レギンレイヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140644-A2RNgE6IywIG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-kawaguchi"
+    ]
+  },
+  {
+    "name": "Seigen Toda",
+    "nameNative": "富田勢源",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189302-yOKRDmC1RZKe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tadashi-miyazawa"
+    ]
+  },
+  {
+    "name": "Sekishusai  Yagyu",
+    "nameNative": "柳生石舟斎平宗厳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189303-EE2s730AjAgM.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Shiva",
+    "nameNative": "シヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140650-6Dw43gfarW5U.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  },
+  {
+    "name": "Wolfgang Amadeus Mozart",
+    "nameNative": "W・A・モーツァルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189311-k4aYzJSiUYAN.png",
+    "role": "supporting",
+    "voiceActors": []
+  }
+]
