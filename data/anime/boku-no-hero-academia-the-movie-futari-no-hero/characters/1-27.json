@@ -1,0 +1,243 @@
+[
+  {
+    "name": "David Shield",
+    "nameNative": "デヴィット・シールド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125952-2Ky9KQJ3q3p7.png",
+    "role": "main",
+    "voiceActors": [
+      "katsuhisa-namase",
+      "ryouhei-kimura"
+    ]
+  },
+  {
+    "name": "Izuku Midoriya",
+    "nameNative": "緑谷出久",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png",
+    "role": "main",
+    "voiceActors": [
+      "daiki-yamashita",
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Melissa Shield",
+    "nameNative": "メリッサ・シールド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125951-KagCLf5hOmeZ.png",
+    "role": "main",
+    "voiceActors": [
+      "mirai-shida"
+    ]
+  },
+  {
+    "name": "Toshinori Yagi",
+    "nameNative": "八木俊典",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Wolfram",
+    "nameNative": "ウォルフラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/126277-W5jPUpGT43Vw.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "All For One",
+    "nameNative": "オール・フォー・ワン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125956-jzhb8Z4peLb8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Cow Lady",
+    "nameNative": "カウレディ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191526-qWEbeETsKDoE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomomi-kawamura"
+    ]
+  },
+  {
+    "name": "Daruma Ujiko",
+    "nameNative": "氏子達磨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148747-8pzci7WGBjgN.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Denki Kaminari",
+    "nameNative": "上鳴電気",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89249-Ygc30RlYoFta.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tasuku-hatanaka"
+    ]
+  },
+  {
+    "name": "Eijirou Kirishima",
+    "nameNative": "切島鋭児郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-R2WJlNuj3aEs.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiki-masuda"
+    ]
+  },
+  {
+    "name": "Electoplant",
+    "nameNative": "エレクプラント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191527-WzDjJaoDFkrU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-hirai"
+    ]
+  },
+  {
+    "name": "Fumikage Tokoyami",
+    "nameNative": "常闇踏陰",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89898-yAYDmPQPSOTV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Hanta Sero",
+    "nameNative": "瀬呂範太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89895-DpFrgTelc9Qx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyotaka-furushima"
+    ]
+  },
+  {
+    "name": "Inko Midoriya",
+    "nameNative": "绿谷引子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136897-PGSMkwM1Nh4r.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Katsuki Bakugou",
+    "nameNative": "爆豪勝己",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Kyouka Jirou",
+    "nameNative": "耳郎響香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89897-5vU7N3ayiKRr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kei-shindou"
+    ]
+  },
+  {
+    "name": "Mezou Shouji",
+    "nameNative": "障子目蔵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89899-vIokiJ5jMESf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masakazu-nishida"
+    ]
+  },
+  {
+    "name": "Mina Ashido",
+    "nameNative": "芦戸三奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89247-hu5MCqfoN82E.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Minoru Mineta",
+    "nameNative": "峰田実",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89244-VVwK9loDHeTV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-hirohashi"
+    ]
+  },
+  {
+    "name": "Momo Yaoyorozu",
+    "nameNative": "八百万百",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89241-Q8KzAfX4Qe2y.png",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Ochako Uraraka",
+    "nameNative": "麗日お茶子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89221-gSF2a4gPbG4m.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Rikidou Satou",
+    "nameNative": "砂藤力道",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89902-LXStXzlmI70R.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-nara"
+    ]
+  },
+  {
+    "name": "Samuel Abraham",
+    "nameNative": "サミュエル・エイブラハム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b225965-Ip470JdKgQos.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-ogata"
+    ]
+  },
+  {
+    "name": "Shouto Todoroki",
+    "nameNative": "轟焦凍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Tenya Iida",
+    "nameNative": "飯田天哉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89222-TL8MQM3wJgEB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Tooru Hagakure",
+    "nameNative": "葉隠透",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89900-QOH8tvJgtFVj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nazuka"
+    ]
+  },
+  {
+    "name": "Tsuyu Asui",
+    "nameNative": "蛙吹梅雨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89223-5762vburxnlz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  }
+]
