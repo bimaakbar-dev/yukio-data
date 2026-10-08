@@ -1,0 +1,47 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "one-piece",
+    "title": "One Piece"
+  },
+  {
+    "relation": "other",
+    "slug": "shin-jidai",
+    "title": "Shin Jidai"
+  },
+  {
+    "relation": "other",
+    "slug": "watashi-wa-saikyou",
+    "title": "Watashi wa Saikyou"
+  },
+  {
+    "relation": "other",
+    "slug": "gyakkou",
+    "title": "Gyakkou"
+  },
+  {
+    "relation": "other",
+    "slug": "utakata-lullaby",
+    "title": "Utakata Lullaby"
+  },
+  {
+    "relation": "other",
+    "slug": "sekai-no-tsuzuki",
+    "title": "Sekai no Tsuzuki"
+  },
+  {
+    "relation": "other",
+    "slug": "tot-musica",
+    "title": "Tot Musica"
+  },
+  {
+    "relation": "other",
+    "slug": "kaze-no-yukue",
+    "title": "Kaze no Yukue"
+  },
+  {
+    "relation": "side_story",
+    "slug": "one-piece-densetsu-no-log-akagami-no-shanks",
+    "title": "One Piece: Densetsu no Log! Akagami no Shanks!"
+  }
+]

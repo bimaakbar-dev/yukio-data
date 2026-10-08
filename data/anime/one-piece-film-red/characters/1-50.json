@@ -1,0 +1,445 @@
+[
+  {
+    "name": "Luffy Monkey",
+    "nameNative": "モンキー・D・ルフィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png",
+    "role": "main",
+    "voiceActors": [
+      "mayumi-tanaka"
+    ]
+  },
+  {
+    "name": "Shanks",
+    "nameNative": "シャンクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b727-wUJx7M1z5xON.png",
+    "role": "main",
+    "voiceActors": [
+      "shuuichi-ikeda"
+    ]
+  },
+  {
+    "name": "Uta",
+    "nameNative": "ウタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270493-pviD8gBS5BXW.png",
+    "role": "main",
+    "voiceActors": [
+      "kaori-nazuka",
+      "ado"
+    ]
+  },
+  {
+    "name": "Bartolomeo",
+    "nameNative": "バルトロメオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n85647-WfwG1ixb2qZL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shoutarou-morikubo"
+    ]
+  },
+  {
+    "name": "Ben Beckman",
+    "nameNative": "ベン・ベックマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4882-2zsLPjqUeOJ4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aruno-tahara"
+    ]
+  },
+  {
+    "name": "Bepo",
+    "nameNative": "ベポ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17492-PCFNvded635o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-takato"
+    ]
+  },
+  {
+    "name": "Blueno",
+    "nameNative": "ブルーノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11394-hQsNGXPOw0m0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seiji-sasaki"
+    ]
+  },
+  {
+    "name": "Bonk Punch",
+    "nameNative": "ボンク・パンチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269870-JMhq6hSkyaft.png",
+    "role": "supporting",
+    "voiceActors": [
+      "koutarou-nakamura"
+    ]
+  },
+  {
+    "name": "Borsalino",
+    "nameNative": "ボルサリーノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21093-Pc4kOjUn3ZkZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Brook",
+    "nameNative": "ブルック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5627-av8oD3zhKvDl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Brulee Charlotte",
+    "nameNative": "シャーロット・ブリュレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181767-D8x7n0zGYvTZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-iguchi"
+    ]
+  },
+  {
+    "name": "Building Snake",
+    "nameNative": "ビルディング・スネイク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b271030-HPJUIV9QESJL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "issei-futamata"
+    ]
+  },
+  {
+    "name": "Chopper Tony Tony",
+    "nameNative": "トニートニー・チョッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Eboshi",
+    "nameNative": "エボシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b281118-n3yf0PFgMtlB.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ethanbaron V Nusjurou Sei",
+    "nameNative": "イーザンバロン・V・ナス寿郎聖",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354401-sz8LCWQdl8kk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Franky",
+    "nameNative": "フランキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n64-ChX6ZzHHjXqA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuki-yao"
+    ]
+  },
+  {
+    "name": "Gordon",
+    "nameNative": "ゴードン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270494-PbB9YvIUEpIm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Hanagasa",
+    "nameNative": "ハナガサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b281119-ZtWBz530WVvz.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Helmeppo",
+    "nameNative": "ヘルメッポ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12362.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-nagano"
+    ]
+  },
+  {
+    "name": "Hongo",
+    "nameNative": "ホンゴウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b271029-XLzkhRmQ2A0s.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Howling Gab",
+    "nameNative": "ハウリング・ガブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b271032-u41Gclz60uav.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Isshou",
+    "nameNative": "イッショウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b82259-NFdvvcSHup7Z.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikuya-sawaki"
+    ]
+  },
+  {
+    "name": "Jaygarcia Saturn Sei",
+    "nameNative": "ジェイガルシア・サターン聖",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299038-H3xhQUX5Xv1p.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiichi-noda"
+    ]
+  },
+  {
+    "name": "Jinbe",
+    "nameNative": "ジンベエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18938-yZANEfjsVhW4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Kaginote",
+    "nameNative": "カギノテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b281120-yhOlj4J7IqrM.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kalifa",
+    "nameNative": "カリファ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5910-Ec5mCnChAdBT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-shindou"
+    ]
+  },
+  {
+    "name": "Katakuri Charlotte",
+    "nameNative": "シャーロット・カタクリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124077-TODX2ThCdyx2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Koby",
+    "nameNative": "コビー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12361-H0SmgKxZ9T61.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-doi"
+    ]
+  },
+  {
+    "name": "Law Trafalgar",
+    "nameNative": "トラファルガー・ロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13767-U604OJN9dxCn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Limejuice",
+    "nameNative": "ライムジュース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b271031-czsge83OBRhH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ono"
+    ]
+  },
+  {
+    "name": "Linlin Charlotte",
+    "nameNative": "シャーロット・リンリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54495-3x1TzSzPEOLd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-koyama"
+    ]
+  },
+  {
+    "name": "Lucci Rob",
+    "nameNative": "ロブ･ルッチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5677-ZrZunVe7Kq5P.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Lucky Roux",
+    "nameNative": "ラッキー・ルウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4885-wabOwg3GFpfK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jin-domon"
+    ]
+  },
+  {
+    "name": "Makino",
+    "nameNative": "マキノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21210-0mHLtmBhBVPX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makiko-oomoto"
+    ]
+  },
+  {
+    "name": "Marcus Mars Sei",
+    "nameNative": "マーカス・マーズ聖",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354400-BvIWQjE0TtW6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiichi-sonobe"
+    ]
+  },
+  {
+    "name": "Momonga",
+    "nameNative": "モモンガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/24010.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-oota"
+    ]
+  },
+  {
+    "name": "Monster",
+    "nameNative": "モンスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b271028-8oFGEgmQQSiL.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Nami",
+    "nameNative": "ナミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akemi-okamura"
+    ]
+  },
+  {
+    "name": "Oven Charlotte",
+    "nameNative": "シャーロット・オーブン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181761-LM4qJaSuTrzg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masafumi-kimura"
+    ]
+  },
+  {
+    "name": "Perospero Charlotte",
+    "nameNative": "シャーロット・ペロスペロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181760-5H6hsVxrOSZk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuya-uchida"
+    ]
+  },
+  {
+    "name": "Robin Nico",
+    "nameNative": "ニコロビン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuriko-yamaguchi"
+    ]
+  },
+  {
+    "name": "Rockstar",
+    "nameNative": "ロックスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12232.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shirou-saitou"
+    ]
+  },
+  {
+    "name": "Romy",
+    "nameNative": "ロミィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282413-EIeHu4U7JfTd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chise-nittsu"
+    ]
+  },
+  {
+    "name": "Saint Charloss",
+    "nameNative": "チャルロス聖",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20308.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chafuurin"
+    ]
+  },
+  {
+    "name": "Sakazuki",
+    "nameNative": "サカズキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22687-tCQVpj6wZhRk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumihiko-tachiki"
+    ]
+  },
+  {
+    "name": "Sanji",
+    "nameNative": "サンジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-hirata"
+    ]
+  },
+  {
+    "name": "Shepherd Juu Peter Sei",
+    "nameNative": "シェパード・十・ピーター聖",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354402-YPwEh3mS3DiG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasunori-masutani"
+    ]
+  },
+  {
+    "name": "Topman Warcury Sei",
+    "nameNative": "トップマン・ウォーキュリー聖",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354403-AJA00QvO5Z0O.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masato-hirano"
+    ]
+  },
+  {
+    "name": "Usopp",
+    "nameNative": "ウソップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b724-GFGgI9AJQkfy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Yasopp",
+    "nameNative": "ヤソップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9562-spNkmlnOZf7C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "michitaka-kobayashi"
+    ]
+  }
+]
