@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Cliff Grimoire",
+    "nameNative": "クリフ・グリモル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b255894-m8YzAbnDgsIh.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Eris Boreas Greyrat",
+    "nameNative": "エリス・ボレアス・グレイラット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88349-5dsNUah3oBj8.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Ruijerd Superdia",
+    "nameNative": "ルイジェルド・スペルディア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Kioku no Miko",
+    "nameNative": "記憶の神子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b267734-d357CgfaqsqM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Rudeus Greyrat",
+    "nameNative": "ルーデウス・グレイラット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88348-bIe5XnXdRpmX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita",
+      "yumi-uchiyama"
+    ]
+  },
+  {
+    "name": "Therese Latreia",
+    "nameNative": "テレーズ・ラトレイア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b262711-TAsFWmWmRN1Q.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  }
+]
