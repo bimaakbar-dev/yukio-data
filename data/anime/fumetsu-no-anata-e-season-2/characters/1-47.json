@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Fushi",
+    "nameNative": "フシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136548-FjWExC5ScBqW.jpg",
+    "role": "main",
+    "voiceActors": [
+      "reiji-kawashima"
+    ]
+  },
+  {
+    "name": "Alme",
+    "nameNative": "アルメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203309-kvW9zgYtlbmr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-shitaya"
+    ]
+  },
+  {
+    "name": "Anna",
+    "nameNative": "アンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202871-t1cai8pckDW0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shino-shimoji"
+    ]
+  },
+  {
+    "name": "Boldoron",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203303-VzgMgXuXzAP4.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Bonchien Nicoli La Tasty Peach Uralis",
+    "nameNative": "ボンシェン・ニコリ・ラ・テイスティピーチ・ウラリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138876-8TsowRGCmx4V.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Cam",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203301-ORCENXLVbGrH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fukushi-ochiai"
+    ]
+  },
+  {
+    "name": "Chabo",
+    "nameNative": "チャボ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202892-awZvDK0NzA1o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsu-yorita"
+    ]
+  },
+  {
+    "name": "Cyrilla",
+    "nameNative": "サイリーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202866-UTHomXq3iGK2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-miyamoto"
+    ]
+  },
+  {
+    "name": "Eko",
+    "nameNative": "エコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203214-9VkEG690mbW3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-hirohashi"
+    ]
+  },
+  {
+    "name": "Fen",
+    "nameNative": "フェン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202887-m0dqMzaKTBQu.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-kanuka"
+    ]
+  },
+  {
+    "name": "Gugu",
+    "nameNative": "グーグー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136554-qySbbPp9nunx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taku-yashiro"
+    ]
+  },
+  {
+    "name": "Hairo Rich",
+    "nameNative": "ハイロ・リッチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203213-HbezCB13Crhh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Hisame",
+    "nameNative": "ヒサメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136547-BSA0y0dU2e00.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomori-kusunoki"
+    ]
+  },
+  {
+    "name": "Iris no Chichi",
+    "nameNative": "アイリスの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202878-3PdmdDZsd2pT.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Joaan",
+    "nameNative": "ジョアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163694-USBey19xBAZH.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Joou",
+    "nameNative": "女王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202886-bIbGTmC3Ybwi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Kahaku",
+    "nameNative": "カハク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138875-H8EkrxQsUnx4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Kai Renald Roulle",
+    "nameNative": "カイ・レナルド・ロウル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203210-f9DJ6DrKReS0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuyuki-kase"
+    ]
+  },
+  {
+    "name": "Kansatsu-sha",
+    "nameNative": "観察者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136553-9LprfeXY6qYP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Kokuou",
+    "nameNative": "国王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202891-9IIqMtmliAaO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenari-ugaki"
+    ]
+  },
+  {
+    "name": "Ligard",
+    "nameNative": "リガルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202668-7Mmi5s9mOaXa.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "March",
+    "nameNative": "マーチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136541-gXKd6OtbuffL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-hikisaka"
+    ]
+  },
+  {
+    "name": "Messar Robin Bastar",
+    "nameNative": "メサール・ロビン・バスタル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203209-WWDdYKPxJHrZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-miyashita"
+    ]
+  },
+  {
+    "name": "Mia",
+    "nameNative": "ミァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202667-typId3TGOkMf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-natsuyoshi"
+    ]
+  },
+  {
+    "name": "Nand",
+    "nameNative": "ナンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203298-SIVVgQFGhNPM.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Nickson",
+    "nameNative": "ニクソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202888-jI6iphM8GLic.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Nokkers",
+    "nameNative": "ノッカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232832-DGaKclwoetah.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Oniguma",
+    "nameNative": "オニグマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202861-4gIMUfqtKlmo.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Oumi",
+    "nameNative": "オウミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202881-Qf5zbpaCOHDJ.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Parona",
+    "nameNative": "パロナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136544-LGUvcdc4cyPY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-uchida"
+    ]
+  },
+  {
+    "name": "Pocoa Uralis",
+    "nameNative": "ポコア・ウラリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202883-NEbyVODh8vsj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-koga"
+    ]
+  },
+  {
+    "name": "Pyoran",
+    "nameNative": "ピオラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136556-UUQtEPFxqpQM.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Rean Cropp",
+    "nameNative": "リーン・クロップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136551-DgY4fAbFcW6A.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Ryoshu",
+    "nameNative": "領主",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202880-I9MaTbw9FbrH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masafumi-kobatake"
+    ]
+  },
+  {
+    "name": "Sakejii",
+    "nameNative": "酒爺",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136555-q0JF1MY0Mo9r.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Sander",
+    "nameNative": "サンデル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136552-xiLFH6HRjLTE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Sarah",
+    "nameNative": "セラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203306-na4bMs3iDB3R.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-fukuhara"
+    ]
+  },
+  {
+    "name": "Sebbath",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203308-3YCQnHfOPARH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiharu-sawashiro"
+    ]
+  },
+  {
+    "name": "Tesset",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203300-HRsXmuFBRxbP.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Todo",
+    "nameNative": "トド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202872-gFexZ8h74zqK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Tonari",
+    "nameNative": "トナリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136550-fJiwFtdKLyCf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-inagawa"
+    ]
+  },
+  {
+    "name": "Torta Uralis",
+    "nameNative": "トルタ・ウラリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202879-gf669psEpOAn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Uga",
+    "nameNative": "ウガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294608-qujfeGGacBVg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-jinya"
+    ]
+  },
+  {
+    "name": "Upa",
+    "nameNative": "ウーパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202665-h4leOYg9URal.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "konomi-kohara"
+    ]
+  },
+  {
+    "name": "Uroy",
+    "nameNative": "ウーロイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202669-VhfynMyPSU3d.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-kobushi"
+    ]
+  },
+  {
+    "name": "Ushio",
+    "nameNative": "ウシオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202869-fyVHuGZhl1tJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-toono"
+    ]
+  },
+  {
+    "name": "Yuiss",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203295-tVwenvAz8JUQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-sekine"
+    ]
+  }
+]
