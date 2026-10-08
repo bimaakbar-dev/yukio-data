@@ -1,0 +1,32 @@
+[
+  {
+    "relation": "sequel",
+    "slug": "fatestay-night",
+    "title": "Fate/stay night"
+  },
+  {
+    "relation": "sequel",
+    "slug": "fatestay-night-movie-unlimited-blade-works",
+    "title": "Fate/stay night Movie: Unlimited Blade Works"
+  },
+  {
+    "relation": "prequel",
+    "slug": "fatezero",
+    "title": "Fate/Zero"
+  },
+  {
+    "relation": "side_story",
+    "slug": "fatezero-onegai-einzbern-soudanshitsu",
+    "title": "Fate/Zero: Onegai! Einzbern Soudanshitsu"
+  },
+  {
+    "relation": "sequel",
+    "slug": "fatestay-night-unlimited-blade-works-prologue",
+    "title": "Fate/stay night: Unlimited Blade Works Prologue"
+  },
+  {
+    "relation": "sequel",
+    "slug": "fatestay-night-movie-heavens-feel-i-presage-flower",
+    "title": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower"
+  }
+]
