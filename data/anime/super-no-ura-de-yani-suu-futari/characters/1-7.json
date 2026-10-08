@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Sasaki",
+    "nameNative": "佐々木",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b281763-4LXduEGESuso.png",
+    "role": "main",
+    "voiceActors": [
+      "takuya-satou"
+    ]
+  },
+  {
+    "name": "Yamada",
+    "nameNative": "山田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b281764-GzjgHWq4gW9n.png",
+    "role": "main",
+    "voiceActors": [
+      "seena-hoshiki"
+    ]
+  },
+  {
+    "name": "Gotou",
+    "nameNative": "後藤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b307811-dwvCqZUh9k8w.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toa-yukinari"
+    ]
+  },
+  {
+    "name": "Maezawa",
+    "nameNative": "前澤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315453-UKnbiI2h8SKF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Obata",
+    "nameNative": "小畑",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315451-PezrNVg8AmFJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rikuya-yasuda"
+    ]
+  },
+  {
+    "name": "Oono",
+    "nameNative": "大野",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315452-dha4CAvf3MkA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Suzuki",
+    "nameNative": "鈴木",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319609-FhL6FAGs4uTm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  }
+]
