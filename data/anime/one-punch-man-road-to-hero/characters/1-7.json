@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Saitama",
+    "nameNative": "サイタマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg",
+    "role": "main",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Chinpira A",
+    "nameNative": "チンピラA",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186967-fJoqZ7YWt5SA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-gotou"
+    ]
+  },
+  {
+    "name": "Chinpira B",
+    "nameNative": "チンピラB",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186965-3i1Rl6kJUy33.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-hamazoe"
+    ]
+  },
+  {
+    "name": "Genos",
+    "nameNative": "ジェノス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Gofukuya",
+    "nameNative": "呉服屋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186964-Z7Pb5SkGlpbM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Kingyo Yami",
+    "nameNative": "ヤミ金魚",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186968-GnQ5Gf1eK30C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimitsu-shimoyama"
+    ]
+  },
+  {
+    "name": "Ooya",
+    "nameNative": "大家",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186966-ukzXu4kqAkk9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ako-mayama"
+    ]
+  }
+]
