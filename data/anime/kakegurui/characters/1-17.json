@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Mary Saotome",
+    "nameNative": "早乙女芽亜里",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122687-jl1wk9rjO57e.png",
+    "role": "main",
+    "voiceActors": [
+      "minami-tanaka"
+    ]
+  },
+  {
+    "name": "Ryouta Suzui",
+    "nameNative": "鈴井涼太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122688-DdMMQtWRdchY.png",
+    "role": "main",
+    "voiceActors": [
+      "tatsuya-tokutake"
+    ]
+  },
+  {
+    "name": "Yumeko Jabami",
+    "nameNative": "蛇喰夢子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png",
+    "role": "main",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Itsuki Sumeragi",
+    "nameNative": "皇伊月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122696-Ap3xm4l14BPQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-wakai"
+    ]
+  },
+  {
+    "name": "Jun Kiwatari",
+    "nameNative": "木渡潤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/123179-7LhyoD26QS6M.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisao-egawa"
+    ]
+  },
+  {
+    "name": "Kaede Manyuda",
+    "nameNative": "豆生田楓",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122692-R27bMvrrWUAW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Kirari Momobami",
+    "nameNative": "桃喰綺羅莉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Kumagusu",
+    "nameNative": "熊楠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137302-3W4SVEqt4sg1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-shimizu"
+    ]
+  },
+  {
+    "name": "Midari Ikishima",
+    "nameNative": "生志摩妄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Nanami Tsubomi",
+    "nameNative": "蕾菜々美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/123178-WQQb7YKrk1zk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Ririka Momobami",
+    "nameNative": "桃喰リリカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122777-pdh3z3WbnvlL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Runa Yomozuki",
+    "nameNative": "黄泉月るな",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122698-8UvXcLs1LGYY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mayu-udono"
+    ]
+  },
+  {
+    "name": "Saori",
+    "nameNative": "沙織",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136613-2Du0Maq9LEnI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "umeka-shouji"
+    ]
+  },
+  {
+    "name": "Sayaka Igarashi",
+    "nameNative": "五十嵐清華",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122690-BgoAty3EQ2GW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-fukuhara"
+    ]
+  },
+  {
+    "name": "Shinnouji",
+    "nameNative": "新王寺",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136607-VsNn5GLXdgvP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-kobushi"
+    ]
+  },
+  {
+    "name": "Yumemi Yumemite",
+    "nameNative": "夢見弖ユメミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122778-8WnPScfIvFfT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-serizawa"
+    ]
+  },
+  {
+    "name": "Yuriko Nishinotouin",
+    "nameNative": "西洞院百合子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122694-3jxZQhslUVLK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "karin-nanami"
+    ]
+  }
+]
