@@ -1,5 +1,12 @@
 [
   {
+    "id": "ac-bu",
+    "name": "AC-Bu",
+    "nameNative": "AC部",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128242-d0pQOXFWYjUd.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "afumi-hashi",
     "name": "Afumi Hashi",
     "nameNative": "土師亜文",
@@ -613,6 +620,13 @@
     "name": "Ami Naitou",
     "nameNative": "内藤有海",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n161267-BowvmvYRyhLy.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "amina-satou",
+    "name": "Amina Satou",
+    "nameNative": "佐藤亜美菜",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107625-9lAsFqEglp1Q.png",
     "defaultLanguage": "Japanese"
   },
   {
