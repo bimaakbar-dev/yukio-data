@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Dusty Attenborough",
+    "nameNative": "ダスティ・アッテンボロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3869-bbAt9rac2s3H.png",
+    "role": "main",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Frederica Greenhill",
+    "nameNative": "フレデリカ・グリーンヒル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17789-1MMW4uRFD7Qp.png",
+    "role": "main",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  },
+  {
+    "name": "Hildegard von Mariendorf",
+    "nameNative": "ヒルデガルド・フォン・マリーンドルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12911-QXpGihTiSSJM.png",
+    "role": "main",
+    "voiceActors": [
+      "masako-katsuki"
+    ]
+  },
+  {
+    "name": "Julian Mintz",
+    "nameNative": "ユリアン・ミンツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12779-Knn7DNX5bxbD.png",
+    "role": "main",
+    "voiceActors": [
+      "nozomu-sasaki"
+    ]
+  },
+  {
+    "name": "Oskar von Reuenthal",
+    "nameNative": "オスカー・フォン・ロイエンタール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6026-JN6eL036UiyU.png",
+    "role": "main",
+    "voiceActors": [
+      "norio-wakamoto"
+    ]
+  },
+  {
+    "name": "Paul von Oberstein",
+    "nameNative": "パウル・フォン・オーベルシュタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12898-x9pnZic0uZjZ.png",
+    "role": "main",
+    "voiceActors": [
+      "kaneto-shiozawa"
+    ]
+  },
+  {
+    "name": "Reinhard von Lohengramm",
+    "nameNative": "ラインハルト・フォン・ローエングラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3066-bq8s1DooZyTJ.png",
+    "role": "main",
+    "voiceActors": [
+      "ryou-horikawa",
+      "miki-narahashi"
+    ]
+  },
+  {
+    "name": "Siegfried Kircheis",
+    "nameNative": "ジークフリード・キルヒアイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12550-96zZ4MIvuprI.png",
+    "role": "main",
+    "voiceActors": [
+      "masashi-hironaka"
+    ]
+  },
+  {
+    "name": "Walter von Schönkopf",
+    "nameNative": "ワルター・フォン・シェーンコップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5897-8NIMQ45FQqbb.png",
+    "role": "main",
+    "voiceActors": [
+      "michio-hazama"
+    ]
+  },
+  {
+    "name": "Wenli Yang",
+    "nameNative": "ヤン・ウェンリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2780-4S84iiE9LyIY.png",
+    "role": "main",
+    "voiceActors": [
+      "kei-tomiyama"
+    ]
+  },
+  {
+    "name": "Wolfgang Mittermeyer",
+    "nameNative": "ウォルフガング・ミッターマイヤー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12778-JBkV46RACdf5.png",
+    "role": "main",
+    "voiceActors": [
+      "katsuji-mori"
+    ]
+  },
+  {
+    "name": "Adalbert von Fahrenheit",
+    "nameNative": "アーダルベルト・フォン・ファーレンハイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12896-PnH14FI2mq5d.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Adrian Rubinsky",
+    "nameNative": "アドリアン・ルビンスキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12899-OlYRo4aeuHRe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoshi-kobayashi"
+    ]
+  },
+  {
+    "name": "Alex Cazellnu",
+    "nameNative": "アレックス・キャゼルヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22635-kkOgB1UXLPYQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keaton-yamada"
+    ]
+  },
+  {
+    "name": "Alexander Barthauser",
+    "nameNative": "アレクサンデル・バルトハウザー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/69917.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Alexander Bucock",
+    "nameNative": "アレクサンドル・ビュコック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19475-rUb8GTaMCb0E.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousei-tomita"
+    ]
+  },
+  {
+    "name": "Alfred Grillpalzer",
+    "nameNative": "アルフレット・グリルパルツァー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/24315.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-sakuya"
+    ]
+  },
+  {
+    "name": "Alfred von Lansberg",
+    "nameNative": "アルフレット・フォン・ランズベルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b37185-1ySOcqpqLuFo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoku-shioya"
+    ]
+  },
+  {
+    "name": "Andrew Fork",
+    "nameNative": "アンドリュー・フォーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19219-htiNBk6paV04.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-furuya"
+    ]
+  },
+  {
+    "name": "Annerose von Grünewald",
+    "nameNative": "アンネローゼ・フォン・グリューネワルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13100-VCvuUtKrGSHR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-han"
+    ]
+  },
+  {
+    "name": "Ansbach",
+    "nameNative": "アンスバッハ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/69907.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makio-inoue"
+    ]
+  },
+  {
+    "name": "Anton Ferner",
+    "nameNative": "アントン・フェルナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25627-b1HhLNuNClq6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenyuu-horiuchi"
+    ]
+  },
+  {
+    "name": "Arle Heinessen",
+    "nameNative": "アーレ・ハイネセン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/69911.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Armsdorf",
+    "nameNative": "アムスドルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69909-90DTRG82xcNC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "motomu-kiyokawa",
+      "kiyomitsu-mizuuchi"
+    ]
+  },
+  {
+    "name": "August Samuel Wahlen",
+    "nameNative": "アウグスト・ザムエル・ワーレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21713-JOU7PWi9qhBQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-okabe"
+    ]
+  },
+  {
+    "name": "Bagdash",
+    "nameNative": "バグダッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24172-87CnZFlAIrro.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-kamiya"
+    ]
+  },
+  {
+    "name": "Baron Carnap",
+    "nameNative": "カルナップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69935-ms9oDSuyI9FG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuaki-fukuda"
+    ]
+  },
+  {
+    "name": "Bernheim",
+    "nameNative": "ベルンハイム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69923-xgV63tpTwdnL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuo-sakaguchi"
+    ]
+  },
+  {
+    "name": "Bohlen",
+    "nameNative": "ボーレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/69925.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Bruno von Knapfstein",
+    "nameNative": "ブルーノ・フォン・クナップシュタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/24317.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Buxtehude",
+    "nameNative": "ブクステフーデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/69933.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Carnap",
+    "nameNative": "カルナップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69937-EfjKbWjISOY3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuji-yamamoto"
+    ]
+  },
+  {
+    "name": "Cary Willock",
+    "nameNative": "カーレ・ウィロック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b27958-ZN6uPCHqkICU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Clara",
+    "nameNative": "クララ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69941-gvi48VlYBjcA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-ikemoto"
+    ]
+  },
+  {
+    "name": "Cornelius Lutz",
+    "nameNative": "コルネリアス・ルッツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24407-1ii7g6OfRgCL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsunosuke-hori"
+    ]
+  },
+  {
+    "name": "De Villiers",
+    "nameNative": "ド・ヴィリエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23995-caXAhyEwhISJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "banjou-ginga"
+    ]
+  },
+  {
+    "name": "Dominique Saint-Pierré",
+    "nameNative": "ドミニク・サン・ピエール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40294.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumi-hirano"
+    ]
+  },
+  {
+    "name": "Drewentz",
+    "nameNative": "ドレウェンツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69943-wxwSqk4tgUGl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-machi"
+    ]
+  },
+  {
+    "name": "Dunckel",
+    "nameNative": "ドゥンケル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/69945.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Edwin Fischer",
+    "nameNative": "エドウィン・フィッシャー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b27953-zsJkgmunS9qk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taimei-suzuki"
+    ]
+  },
+  {
+    "name": "Ehrenberg",
+    "nameNative": "エーレンベルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69947-9aWNqAMyKigF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaharu-satou"
+    ]
+  },
+  {
+    "name": "Eihendorf",
+    "nameNative": "アイヘンドルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69949-fOAGsflj4qDG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-kuwabara"
+    ]
+  },
+  {
+    "name": "Emile von Seelle",
+    "nameNative": "エミール・フォン・ゼッレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10773-XVJQDGMy7bYl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Erlache",
+    "nameNative": "エルラッハ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/69951.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaharu-satou"
+    ]
+  },
+  {
+    "name": "Ernest Mecklinger",
+    "nameNative": "エルネスト・メックリンガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19477-auT27c6JJ0Dq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-hashi"
+    ]
+  },
+  {
+    "name": "Ernst von Eisenach",
+    "nameNative": "エルンスト・フォン・アイゼナッハ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23849.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masane-tsukayama"
+    ]
+  },
+  {
+    "name": "Ernst von Falstrong",
+    "nameNative": "エルンスト・ファルストロング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/69955.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Erwin Josef II von Goldenbaum",
+    "nameNative": "エルウィン・ヨーゼフ・フォン・ゴールデンバウム2世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69953-FuLqUlBhlhTg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroko-emori"
+    ]
+  },
+  {
+    "name": "Ferdewelt",
+    "nameNative": "フェルデベルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69957-ZGINcEpKBDcy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takumi-yamazaki"
+    ]
+  },
+  {
+    "name": "Flegel",
+    "nameNative": "フレーゲル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69959-AsLwqq31WYhA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "issei-futamata"
+    ]
+  }
+]
