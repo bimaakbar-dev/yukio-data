@@ -1,24 +1,24 @@
 ---
-title: Kakegurui
-titleEnglish: Kakegurui
-titleNative: 賭ケグルイ
+title: Kakegurui ××
+titleEnglish: Kakegurui xx
+titleNative: 賭ケグルイ××
 
-malId: 34933
-kitsuId: "13252"
+malId: 37086
+kitsuId: "14172"
 
 type: TV
 status: finished
 source: manga
 
-season: summer
-year: 2017
+season: winter
+year: 2019
 episodes: 12
-duration: 25
+duration: 24
 # rating: # edit manual
 
 aired:
-  from: "2017-07-01"
-  to: "2017-09-23"
+  from: "2019-01-09"
+  to: "2019-03-27"
 
 stats:
   score: 7.0
@@ -32,13 +32,13 @@ genres:
 studios:
   - mappa
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98314-TSJykxVwCCQN.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98314-gwgiHiJOj2ls.jpg"
-trailer: "v2xJDuM9ZDM"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100876-RfvmpW1B8bDQ.png"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n100876-gqt1fZKTubPm.jpg"
+trailer: "8fCIcho7N4k"
 
 draft: false
 ---
 
-During daylight hours, an exclusive, elite private school prepares its illustrious students for careers in business, politics, and high society. But when darkness falls, the halls of this esteemed establishment transform into an underground gambling den where bright-eyed youngsters learn the timeless art of bluffing, backdoor dealings and social manipulation. In this school for the rich and elite, money is power, and the tyrant of the betting books rules with an iron fist. So when the beautiful Yumeko Jabami upsets the academy hierarchy with her voracious appetite for the thrill of the gamble, the entire student body mobilizes to send her house of cards tumbling down.
+At Hyakkao Private Academy, Yumeko Jabami’s star rises just as the student council’s reputation starts to dim. In the shadows of the council’s dwindling power, discord reigns supreme. In a bold effort to rebalance the social scales, student council president Kirari Momobami intends to place her bet on the election for the council’s next president. Everyone starts with a single chip, and at the end of 30 days, the whoever holds the most becomes the president of the Momobami Clan. But chips aren’t the only things students can wager as they fight tooth and nail to ascend to the council presidency, and Yumeko Jabami intends to clean house no matter the prizes she must risk in the betting pool.
 
 (Source: Sentai Filmworks)

@@ -1,17 +1,7 @@
 [
   {
-    "relation": "side_story",
-    "slug": "kakegurui-picture-drama",
-    "title": "Kakegurui Picture Drama"
-  },
-  {
-    "relation": "sequel",
+    "relation": "prequel",
     "slug": "kakegurui",
-    "title": "Kakegurui××"
-  },
-  {
-    "relation": "side_story",
-    "slug": "kakegurui-twin",
-    "title": "Kakegurui Twin"
+    "title": "Kakegurui"
   }
 ]
