@@ -1,7 +1,17 @@
 [
   {
-    "relation": "sequel",
+    "relation": "prequel",
     "slug": "isekai-maou-to-shoukan-shoujo-no-dorei-majutsu",
-    "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω"
+    "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
+  },
+  {
+    "relation": "side_story",
+    "slug": "isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-mini-anime",
+    "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω Mini Anime"
+  },
+  {
+    "relation": "sequel",
+    "slug": "isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-3rd-season",
+    "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu 3rd Season"
   }
 ]

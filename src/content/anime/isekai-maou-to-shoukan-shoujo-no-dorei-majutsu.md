@@ -1,24 +1,24 @@
 ---
-title: Isekai Maou to Shoukan Shoujo no Dorei Majutsu
-titleEnglish: How NOT to Summon a Demon Lord
-titleNative: 異世界魔王と召喚少女の奴隷魔術
+title: Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω
+titleEnglish: How NOT to Summon a Demon Lord Ω
+titleNative: 異世界魔王と召喚少女の奴隷魔術Ω
 
-malId: 37210
-kitsuId: "41133"
+malId: 41623
+kitsuId: "43118"
 
 type: TV
 status: finished
 source: light_novel
 
-season: summer
-year: 2018
-episodes: 12
+season: spring
+year: 2021
+episodes: 10
 duration: 24
 # rating: # edit manual
 
 aired:
-  from: "2018-07-05"
-  to: "2018-09-20"
+  from: "2021-04-09"
+  to: "2021-06-11"
 
 stats:
   score: 6.6
@@ -30,19 +30,18 @@ genres:
   - fantasy
 
 studios:
-  - ajiado
+  - tezuka-productions
+  - okuruto-noboru
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101004-rJLBIWGypbYK.png"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101004-D0uuwlijGA0y.jpg"
-trailer: "8a0gn8mmnaY"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117448-bsPgVDD85sjB.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117448-zkxeZbaObKUZ.jpg"
+trailer: "TQokj-9LYv8"
 
 draft: false
 ---
 
-In the MMORPG Cross Reverie, Takuma Sakamoto is so powerful that he is lauded as the “Demon Lord” by other players. One day, he is summoned to another world – but with the same appearance he had in the game! There, he meets two girls who both proclaim themselves to be his Summoner. They had performed an Enslavement Ritual to turn him into their Summon... but that's when Takuma's passive ability <> activated! Instead, it was the girls who had become enslaved! Though Takuma may have been the strongest Sorcerer there was, he had no idea how to talk with other people. That's when he makes his choice: to act based on his persona from the game!
+Diablo is back! You know…the Demon Lord from another world? Traveling through the woods with Rem and Shera, they encounter a lone girl in tatters, pursued by a powerful Paladin.
 
-“Amazing? But of course... I am Diablo, the being known and feared as the Demon Lord!”
+You know what that means—Diablo will have to try and hide his lack of social skills once again (and come to her rescue, of course). Let the enchanting adventures continue!
 
-So begins a tale of adventure with an earth-shakingly powerful Demon Lord (or at least someone who acts like one) taking on another world!
-
-(Source: J-Novel Club)
+(Source: Funimation)
