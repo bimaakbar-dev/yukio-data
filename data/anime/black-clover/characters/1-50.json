@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Asta",
+    "nameNative": "アスタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123285-tKijiuQErDS0.png",
+    "role": "main",
+    "voiceActors": [
+      "gakuto-kajiwara",
+      "nao-fujita"
+    ]
+  },
+  {
+    "name": "Noelle Silva",
+    "nameNative": "ノエル・シルヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123283-7nJHtKha0LSm.png",
+    "role": "main",
+    "voiceActors": [
+      "kana-yuuki"
+    ]
+  },
+  {
+    "name": "Yuno",
+    "nameNative": "ユノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123284-w6kIFYnTclMd.png",
+    "role": "main",
+    "voiceActors": [
+      "nobunaga-shimazaki",
+      "arisa-sekine"
+    ]
+  },
+  {
+    "name": "Acier Silva",
+    "nameNative": "アシエ・シルヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124972-UiuueASxpsRx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-yuuki"
+    ]
+  },
+  {
+    "name": "Alecdora Sandler",
+    "nameNative": "アレクドラ・サンドラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124978-xg01Awpci30p.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "genki-okawa"
+    ]
+  },
+  {
+    "name": "Aruru",
+    "nameNative": "アルル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125036-NzIuBVU8PR3Q.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-sasaki"
+    ]
+  },
+  {
+    "name": "Augustus Kira Clover XIII",
+    "nameNative": "アウグストゥス・キーラ・クローバー13世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124528-cyB6cHIa4Zlq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-miyamoto"
+    ]
+  },
+  {
+    "name": "Baro",
+    "nameNative": "バロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126022-q9NZ9AAFFiUj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "genki-muro"
+    ]
+  },
+  {
+    "name": "Broccos",
+    "nameNative": "ブロッコス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124997-St4C3QMEk2CI.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Catherine",
+    "nameNative": "キャサリンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124478-pRUQWCO1U1yz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-jitsukawa"
+    ]
+  },
+  {
+    "name": "Charlotte Roselei",
+    "nameNative": "シャーロット・ローズレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124434-ZmaDj2J5lSId.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Charmy Pappitson",
+    "nameNative": "チャーミー・パピットソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124447-2J1PKMgWETNT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyono-yasuno"
+    ]
+  },
+  {
+    "name": "Curtis Warren",
+    "nameNative": "カータス・ウォルン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124981-J1oQnFBNqCPh.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Damnatio  Kira",
+    "nameNative": "ダムナティオ・キーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174448-MRvEHxvJpP5R.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-tsuchida"
+    ]
+  },
+  {
+    "name": "Dante Zogratis",
+    "nameNative": "ダンテ・ゾグラティス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163782-lbNzUCyy4lk0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "David Swallow",
+    "nameNative": "ダヴィド・スワロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174445-EkclViE0lcMv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-sahara"
+    ]
+  },
+  {
+    "name": "Dominante Code",
+    "nameNative": "ドミナント・コード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124526-mpNJFDhPbwWD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misako-tomioka"
+    ]
+  },
+  {
+    "name": "Dorothy Unsworth",
+    "nameNative": "ドロシー・アンズワース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124458-U6zNf813fDxG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "En Ringard",
+    "nameNative": "エン・リンガード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124988-g053RXRy3sTy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Fana",
+    "nameNative": "ファナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124479-fxZzZFMOBoMt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Fanzell Kruger",
+    "nameNative": "ファンゼル・クルーガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124525-zX1uOMR5lkKr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-mikami"
+    ]
+  },
+  {
+    "name": "Finesse Calmreich",
+    "nameNative": "フィーネス・カルムルイヒ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124976-aJx7HHae0K0s.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-akiyama"
+    ]
+  },
+  {
+    "name": "Finral Roulacase",
+    "nameNative": "フィンラル・ルーラケイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124433-QyoZrgIUsSpd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Fragil Tormenta",
+    "nameNative": "フラギル・トルメンタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124987-ZdlOvIydMqch.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-uchida"
+    ]
+  },
+  {
+    "name": "Fuegoleon Vermillion",
+    "nameNative": "フエゴレオン・ヴァーミリオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124521-MqX5KT2tGSa8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Gauche Adlai",
+    "nameNative": "ゴーシュ・アドレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124446-4YXFoCIllCKh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Georg",
+    "nameNative": "ゲオルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124481-NEIGExFxbj5j.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-tsuyuzaki"
+    ]
+  },
+  {
+    "name": "Gifso",
+    "nameNative": "ジフソ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124991-YxpWywa79fbK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Gio",
+    "nameNative": "ジオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124992-Ebe9mliVbioA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masayuki-akasaka"
+    ]
+  },
+  {
+    "name": "Gordon Agrippa",
+    "nameNative": "ゴードン・アグリッパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124448-YHRpWxJUhNnw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Grey",
+    "nameNative": "グレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124444-01PmRKd8Sned.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masayuki-akasaka",
+      "minami-takahashi"
+    ]
+  },
+  {
+    "name": "Gueldre Poizot",
+    "nameNative": "ゲルドル・ポイゾット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124455-cRPjIIy7C6b7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Hamon Caseus",
+    "nameNative": "ハモン・カーセウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124980-33AdLdR27PD8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Heath Grice",
+    "nameNative": "ヒース・グライス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124461-6jkQwE2fREhp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Henry Legolant",
+    "nameNative": "ヘンリー・レゴラント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124690-agQVNP3afoXA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Holo",
+    "nameNative": "ホロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125034-2iZZVgvyXzlE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumi-mano"
+    ]
+  },
+  {
+    "name": "Jack the Ripper",
+    "nameNative": "ジャック・ザリッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124456-llrSWfAXlnbb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Julius Novachrono",
+    "nameNative": "ユリウス・ノヴァクロノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Kahono",
+    "nameNative": "カホノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124993-ThlqIaQV2se3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Kiato",
+    "nameNative": "キアト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124994-PJ7bSrZXb9k2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Kirsch Vermillion",
+    "nameNative": "キルシュ・ヴァーミリオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124524-FhfE2Y6drZDq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Klaus Lunettes",
+    "nameNative": "クラウス・リュネット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124437-3C1plJbD8jSn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-terashima"
+    ]
+  },
+  {
+    "name": "Kuro Nero",
+    "nameNative": "黒ネロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126948-2yL8YEIqLLpq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-sasaki",
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Ladros",
+    "nameNative": "ラドロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124995-nGV1j21kzQRA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-kusao"
+    ]
+  },
+  {
+    "name": "Langris Vaude",
+    "nameNative": "ランギルス・ヴォード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124975-vRUxV3oIOle7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Lemiel Silvamillion Clover",
+    "nameNative": "ルミエル・シルヴァミリオン・クローバー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158550-m0UtbUtvW2ra.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shu-hikari"
+    ]
+  },
+  {
+    "name": "Leopold Vermillion",
+    "nameNative": "レオポルド・ヴァーミリオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137881-fQLQZce8CTsY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenn"
+    ]
+  },
+  {
+    "name": "Letoile  Becquerel",
+    "nameNative": "レトゥア・ベクレル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174450-rlMqdEnWMq5F.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-ayase"
+    ]
+  },
+  {
+    "name": "Licht",
+    "nameNative": "リヒト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124472-sCjDIE5232uS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Lily Aquaria",
+    "nameNative": "リリー・アクアリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124443-T2JuU6c7Z9Tk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-kubota"
+    ]
+  }
+]
