@@ -168,6 +168,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "satoru-itou",
+    "name": "Satoru Itou",
+    "nameNative": "いとうさとる",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n174709-4YKpfKGgHGis.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "satoshi-hino",
     "name": "Satoshi Hino",
     "nameNative": "日野聡",
@@ -914,6 +921,13 @@
     "name": "Sora Amamiya",
     "nameNative": "雨宮天",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116517-xjN5V1jMc443.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "sora-handa",
+    "name": "Sora Handa",
+    "nameNative": "半田空",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
     "defaultLanguage": "Japanese"
   },
   {
