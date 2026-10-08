@@ -265,6 +265,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "makoto-sahara",
+    "name": "Makoto Sahara",
+    "nameNative": "佐原誠",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n151464-divOvaxHoANC.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "makoto-takahashi",
     "name": "Makoto\r\n Takahashi",
     "nameNative": "高橋信",
@@ -836,6 +843,13 @@
     "name": "Masao Komaya",
     "nameNative": "駒谷昌男",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n229985-hCtcWCtVd06i.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "masaru-ikeda",
+    "name": "Masaru Ikeda",
+    "nameNative": "池田勝",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/803.jpg",
     "defaultLanguage": "Japanese"
   },
   {
