@@ -1,0 +1,291 @@
+[
+  {
+    "name": "Artemis",
+    "nameNative": "アルテミス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142532-vAgSgAWxJ8m5.png",
+    "role": "main",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Bell Cranel",
+    "nameNative": "ベル・クラネル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88860-catfcwlvUYst.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Hestia",
+    "nameNative": "ヘスティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87654-UmmuLPwSK2Hd.jpg",
+    "role": "main",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Liliruca Arde",
+    "nameNative": "リリルカ・アーデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88897-2xey5UG7Qr2S.png",
+    "role": "main",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Welf Crozzo",
+    "nameNative": "ヴェルフ・クロッゾ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138250-VOIbyr2PNsZS.png",
+    "role": "main",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Ais Wallenstein",
+    "nameNative": "アイズ・ヴァレンシュタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-50i1Y554Vs3z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-oonishi"
+    ]
+  },
+  {
+    "name": "Anya Fromel",
+    "nameNative": "アーニャ・フローメル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143047-S8aXD2FNKiPW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asuka-nishi"
+    ]
+  },
+  {
+    "name": "Asfi Al Andromeda",
+    "nameNative": "アスフィ・アル・アンドロメダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143051-QR6c6tRHEsyX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Bete Loga",
+    "nameNative": "ベート・ローガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122632-kzchULOi6BfA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Chigusa Hitachi",
+    "nameNative": "ヒタチ・千草",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142553-qRChPxIz6UUr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Chloe Rollo",
+    "nameNative": "クロエ・ロロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143052-in6jAkYQPFoT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-suzaki"
+    ]
+  },
+  {
+    "name": "Eina Tulle",
+    "nameNative": "エイナ・チュール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88896-zhwTEI30T5XB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Falgar  Batros",
+    "nameNative": "ファルガー・バトロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143124-EPJZZE3cvinc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-yanagita"
+    ]
+  },
+  {
+    "name": "Fels",
+    "nameNative": "フェルズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183121-KNCyPqTJd04Y.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "Finn Deimne",
+    "nameNative": "フィン・ディムナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142538-gWIg6BA9Vaw9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Freya",
+    "nameNative": "フレイヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142533-8HA0L1bjmF2P.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa",
+      "shizuka-ishigami"
+    ]
+  },
+  {
+    "name": "Ganesha",
+    "nameNative": "ガネーシャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142541-BC61VI7WoeAm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-tsuchida"
+    ]
+  },
+  {
+    "name": "Hermes",
+    "nameNative": "ヘルメス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142531-Z8b5Jee4R2FM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "souma-saitou"
+    ]
+  },
+  {
+    "name": "Lefiya Viridis",
+    "nameNative": "レフィーヤ・ウィリディス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125821-HEKoCg8ENjp6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "juri-kimura"
+    ]
+  },
+  {
+    "name": "Loki",
+    "nameNative": "ロキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134595-UL8px5LYTh5r.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yurika-kubo"
+    ]
+  },
+  {
+    "name": "Lulune Louie",
+    "nameNative": "ルルネ・ルーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134597-OYUisjJFgUuC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-akao"
+    ]
+  },
+  {
+    "name": "Meryl Tear",
+    "nameNative": "メリル・ティアー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142534-cY0ssIVmiWEA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-nukui"
+    ]
+  },
+  {
+    "name": "Mikoto Yamato",
+    "nameNative": "ヤマト・命",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142923-3DX8e5beuivx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chinatsu-akasaki"
+    ]
+  },
+  {
+    "name": "Misha  Flott",
+    "nameNative": "ミィシャ・フロット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143126-xoVN00iJFZJ7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chinami-hashimoto"
+    ]
+  },
+  {
+    "name": "Mord Latro",
+    "nameNative": "モルド・ラトロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122200-F51vOIWgcAQh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-souma"
+    ]
+  },
+  {
+    "name": "Naaza Erisuis",
+    "nameNative": "ナァーザ・エリスイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142546-s1YcokJOyhAC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikumi-hayama"
+    ]
+  },
+  {
+    "name": "Ottarl",
+    "nameNative": "オッタル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142536-5KnATQUEMoPQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryoukan-koyanagi"
+    ]
+  },
+  {
+    "name": "Ryuu  Lion",
+    "nameNative": "リュー・リオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88890-lJFKK5czkH9E.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Thane  Hire",
+    "nameNative": "セイン・イール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143125-kzcHtQKABLxt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Tiona Hiryute",
+    "nameNative": "ティオナ・ヒリュテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/121633-XNWkrmvyvevi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-murakawa"
+    ]
+  },
+  {
+    "name": "Tione Hiryute",
+    "nameNative": "ティオネ・ヒリュテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127209-IQuMFrofF1Nm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-takahashi"
+    ]
+  },
+  {
+    "name": "Uranus",
+    "nameNative": "ウラノス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n134228-7ZVG2R9j4Fgb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-ookawa"
+    ]
+  }
+]
