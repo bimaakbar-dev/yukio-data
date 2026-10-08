@@ -1,0 +1,229 @@
+[
+  {
+    "name": "Futoshi",
+    "nameNative": "フトシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124387-vJvVs0VT1B6r.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiroki-gotou"
+    ]
+  },
+  {
+    "name": "Goro",
+    "nameNative": "ゴロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuichirou-umehara"
+    ]
+  },
+  {
+    "name": "Hiro",
+    "nameNative": "ヒロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuto-uemura",
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Ichigo",
+    "nameNative": "イチゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png",
+    "role": "main",
+    "voiceActors": [
+      "kana-ichinose"
+    ]
+  },
+  {
+    "name": "Ikuno",
+    "nameNative": "イクノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124388-KyJgGXFQEu6W.png",
+    "role": "main",
+    "voiceActors": [
+      "shizuka-ishigami"
+    ]
+  },
+  {
+    "name": "Kokoro",
+    "nameNative": "ココロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg",
+    "role": "main",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Miku",
+    "nameNative": "ミク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124384-bsl6vVNhT2DR.jpg",
+    "role": "main",
+    "voiceActors": [
+      "nanami-yamashita"
+    ]
+  },
+  {
+    "name": "Mitsuru",
+    "nameNative": "ミツル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124389-iJY8frLNdK7Y.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aoi-ichikawa"
+    ]
+  },
+  {
+    "name": "Zero Two",
+    "nameNative": "ゼロツー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-2gAVq76HPfL2.png",
+    "role": "main",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Zorome",
+    "nameNative": "ゾロメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124385-wnvor7z83ZPt.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "090",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180886-XXyn7vXnX4k7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "9' Alpha",
+    "nameNative": "ナインアルファ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161730-rtTfEXIFgPh8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "souma-saitou"
+    ]
+  },
+  {
+    "name": "9' Beta",
+    "nameNative": "ナインベータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174778-1mGFsLUn3gNy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiki-masuda"
+    ]
+  },
+  {
+    "name": "9' Delta",
+    "nameNative": "ナインデルタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174777-NygUgoJBpKxA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "9' Epsilon",
+    "nameNative": "9'ε",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180884-kCOnNjcSY043.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-tamaru"
+    ]
+  },
+  {
+    "name": "Baboon",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180888-EdTS3RgaZrxZ.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Franxx Hakase",
+    "nameNative": "フランクス博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124851-UtBTl6EnzIFO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenyuu-horiuchi"
+    ]
+  },
+  {
+    "name": "Fukushuseki",
+    "nameNative": "副主席",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180882-Xo4GPXCc2t8i.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Hachi",
+    "nameNative": "ハチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124853-pwqN60dHanD2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Kyouryuu no Hime",
+    "nameNative": "叫竜の姫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126290-v3aLCi4pQijJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Lemur",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180883-9sD7eq182ZCn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akihiro-tajima"
+    ]
+  },
+  {
+    "name": "Nana",
+    "nameNative": "ナナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124852-Z1xlsGsdcKLd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Naomi",
+    "nameNative": "ナオミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144621-dRxn0RLmI1q4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Otona Josei",
+    "nameNative": "オトナ女性",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327022-NJOJd8QMqufB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Shuseki",
+    "nameNative": "主席",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180881-xsZq5Dt0JRLh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Tarsier",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180885-2XdYnKrA6K1P.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  }
+]
