@@ -1,12 +1,22 @@
 [
   {
-    "relation": "sequel",
+    "relation": "prequel",
     "slug": "hataraku-maou-sama",
-    "title": "Hataraku Maou-sama!!"
+    "title": "Hataraku Maou-sama!"
   },
   {
-    "relation": "other",
-    "slug": "gekka",
-    "title": "Gekka"
+    "relation": "side_story",
+    "slug": "chiichai-maou-sama",
+    "title": "Chiichai! Maou-sama!!"
+  },
+  {
+    "relation": "summary",
+    "slug": "hataraku-maou-sama-recap",
+    "title": "Hataraku Maou-sama!! Recap"
+  },
+  {
+    "relation": "sequel",
+    "slug": "hataraku-maou-sama-2nd-season",
+    "title": "Hataraku Maou-sama!! 2nd Season"
   }
 ]
