@@ -1,27 +1,27 @@
 ---
-title: Nisekoi
-titleEnglish: Nisekoi
-titleNative: ニセコイ
+title: "Nisekoi:"
+titleEnglish: "Nisekoi:"
+titleNative: ニセコイ：
 
-malId: 18897
+malId: 27787
 kitsuId: "7821"
 
 type: TV
 status: finished
 source: manga
 
-season: winter
-year: 2014
-episodes: 20
+season: spring
+year: 2015
+episodes: 12
 duration: 24
 # rating: # edit manual
 
 aired:
-  from: "2014-01-11"
-  to: "2014-05-24"
+  from: "2015-04-10"
+  to: "2015-06-26"
 
 stats:
-  score: 7.3
+  score: 7.1
   # scoredBy: # edit manual
 
 genres:
@@ -32,19 +32,13 @@ genres:
 studios:
   - shaft
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18897-G2Fx2ZACsXBU.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/18897-h3TRFmkGYLkd.jpg"
-trailer: "PuB1VpKbWtE"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20876-CCVVLTSsnKC8.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20876-qnldLnf8ZTrT.jpg"
+trailer: "3iG0bSmZ2tc"
 
 draft: false
 ---
 
-As a child, Raku Ichijo made a secret promise with his childhood sweetheart, keeping a pendant as a memento while his love took the key. He dreams of one day meeting his past love, but years later, reality smashes his hopes when Chitoge Kirisaki accidentally knees him in the face...
+The relationship antics continue as Chitoge starts to realize that she is actually in love with Raku. Kosaki's younger sister Haru, who wants to protect her sister from the supposedly-depraved Raku, gets added to the mix. Other highlights include the introductions of Hana (Chitoge's mother) and Paula McCoy (Seishiro's assassin rival) and Kosaki's brief stint as a magical girl.
 
-Though Raku's a normal high schooler, his family heads the notorious yakuza gang the Shuei-Gumi faction! And he's dragged into family affairs when he's forced into a relationship with Chitoge, the daughter of a rival gang's boss!
-
-Despite their constant spats, the two somehow fool everyone with their false relationship. Raku then discovers that Chitoge has a mysterious key from her past, which she can't remember... Plus, two other girls appear with keys as well—Kosaki Onodera and Marika Tachibana!
-
-Caught in the midst of this love maelstrom, even more complications arise for Raku when his class decides on Romeo and Juliet as the class's play for the school festival. Can the two false lovebirds pull off the impossible and make the play a success?
-
-(Source: VIZ Media)
+(Source: Anime News Network)
