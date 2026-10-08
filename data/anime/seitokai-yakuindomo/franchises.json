@@ -1,7 +1,12 @@
 [
   {
-    "relation": "sequel",
+    "relation": "prequel",
     "slug": "seitokai-yakuindomo-ova",
     "title": "Seitokai Yakuindomo OVA"
+  },
+  {
+    "relation": "parent_story",
+    "slug": "seitokai-yakuindomo-movie",
+    "title": "Seitokai Yakuindomo Movie"
   }
 ]
