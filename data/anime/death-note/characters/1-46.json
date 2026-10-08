@@ -1,0 +1,416 @@
+[
+  {
+    "name": "L Lawliet",
+    "nameNative": "エル・ローライト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png",
+    "role": "main",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Light Yagami",
+    "nameNative": "夜神月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png",
+    "role": "main",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Mihael Keehl",
+    "nameNative": "ミハエル・ケール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b463-QBLeLf6XxVg6.png",
+    "role": "main",
+    "voiceActors": [
+      "nozomu-sasaki"
+    ]
+  },
+  {
+    "name": "Misa Amane",
+    "nameNative": "弥海砂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png",
+    "role": "main",
+    "voiceActors": [
+      "aya-hirano"
+    ]
+  },
+  {
+    "name": "Nate River",
+    "nameNative": "ネイト・リバー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n464-6KeJpU6g7Hwj.jpg",
+    "role": "main",
+    "voiceActors": [
+      "noriko-hidaka"
+    ]
+  },
+  {
+    "name": "Ryuk",
+    "nameNative": "リューク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75-IkEpzO21LgFy.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shidou-nakamura"
+    ]
+  },
+  {
+    "name": "Anthony Carter",
+    "nameNative": "アンソニー・カーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n23514-xhkKhgd0S5RJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-aizawa"
+    ]
+  },
+  {
+    "name": "Arayoshi Hatori",
+    "nameNative": "葉鳥新義",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1930-1ILYLHyqkMQb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukitoshi-tokumoto"
+    ]
+  },
+  {
+    "name": "Dwhite Gordon",
+    "nameNative": "ドワイト・ゴードン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n37996-BJqJlAXww2qD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-aizawa"
+    ]
+  },
+  {
+    "name": "Eiichi Takahashi",
+    "nameNative": "鷹橋鋭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84505.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rintarou-nishi"
+    ]
+  },
+  {
+    "name": "Eriko Aizawa",
+    "nameNative": "絵里子相沢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84531.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shiho-kawaragi"
+    ]
+  },
+  {
+    "name": "Guuk",
+    "nameNative": "グック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79469.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeharu-onishi"
+    ]
+  },
+  {
+    "name": "Halle Bullook",
+    "nameNative": "ハル・ブロック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3769-QJUZtTvWhOJt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Hideki Ide",
+    "nameNative": "伊出英基",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20002-9GCrfzo30BDk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hideo-ishikawa"
+    ]
+  },
+  {
+    "name": "Hirokazu Ukita",
+    "nameNative": "宇生田広数",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n17555-bRedmqb33U5T.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenobu-kiuchi"
+    ]
+  },
+  {
+    "name": "Hitoshi Demegawa",
+    "nameNative": "出目川仁",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n30939-jGDDNVx9KUAY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chafuurin"
+    ]
+  },
+  {
+    "name": "Kanzo Mogi",
+    "nameNative": "模木完造",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3766-xMCG0Vajfe2z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-nakai"
+    ]
+  },
+  {
+    "name": "Kiichiro Osoreda",
+    "nameNative": "恐田奇一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84513.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Kiyomi Takada",
+    "nameNative": "高田清美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3765-XmrhzN7qO27e.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Kyosuke Higuchi",
+    "nameNative": "火口卿介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1928-u4ybFpwCKqg2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "issei-futamata"
+    ]
+  },
+  {
+    "name": "Larry Conners",
+    "nameNative": "ラリー・コナーズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84517.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "motoi-koyanagi"
+    ]
+  },
+  {
+    "name": "Lind L. Tailor",
+    "nameNative": "リンド・L・テイラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n30944-YXxjESqhsg84.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukitoshi-tokumoto"
+    ]
+  },
+  {
+    "name": "Mail Jeevas",
+    "nameNative": "マイル・ジーヴァス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2730-SNbfxShpg90k.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-nishimura"
+    ]
+  },
+  {
+    "name": "Mary Kenwood",
+    "nameNative": "メリー・ケンウッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1933-WNDtxqOr1d51.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-nagasawa"
+    ]
+  },
+  {
+    "name": "Masahiko Kida",
+    "nameNative": "樹多正彦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1931-kJH9pspSPKMJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-aizawa"
+    ]
+  },
+  {
+    "name": "Naomi Misora",
+    "nameNative": "南空ナオミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4959-DKXw1VYrvael.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-matsui"
+    ]
+  },
+  {
+    "name": "Quillsh Wammy",
+    "nameNative": "キルシュワイミー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2179-qF49l5qEurt5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoshi-kobayashi"
+    ]
+  },
+  {
+    "name": "Raye Penber",
+    "nameNative": "レイ・ペンバー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n7044-DjU28vbo11bb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hideo-ishikawa"
+    ]
+  },
+  {
+    "name": "Reiji Namikawa",
+    "nameNative": "奈南川零司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1929-TYRt1UCHOS33.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hirofumi-nojima"
+    ]
+  },
+  {
+    "name": "Rem",
+    "nameNative": "レム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1905-9GfCvLFKNRLR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-saitou"
+    ]
+  },
+  {
+    "name": "Roger Ruvie",
+    "nameNative": "ロジャー・ラヴィー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144332-jGiPlxo9Egqv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-ootake"
+    ]
+  },
+  {
+    "name": "Sachiko Yagami",
+    "nameNative": "夜神幸子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n14735-FfrdE7p4Kfxd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-satou"
+    ]
+  },
+  {
+    "name": "Sayu Yagami",
+    "nameNative": "夜神幸子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n8135-UgvqHuoMyZy5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-kudou"
+    ]
+  },
+  {
+    "name": "Shidoh",
+    "nameNative": "シドウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2402.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuki-yao"
+    ]
+  },
+  {
+    "name": "Shingo Midou",
+    "nameNative": "三堂芯吾",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n5174-cYFDgXOjy3Ms.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-hanawa"
+    ]
+  },
+  {
+    "name": "Shuuichi Aizawa",
+    "nameNative": "相沢周市",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3767-pSbmazo2I7ZD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Souichirou Yagami",
+    "nameNative": "夜神総一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1927-iaIWrFITyeJw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoya-uchida"
+    ]
+  },
+  {
+    "name": "Stephen Loud",
+    "nameNative": "ステファン・ラウド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3770-tvFv3ulGAmjt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-takahashi"
+    ]
+  },
+  {
+    "name": "Suguru Shimura",
+    "nameNative": "卓志村",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84503.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yokoo"
+    ]
+  },
+  {
+    "name": "Takeshi Ooi",
+    "nameNative": "尾々井剛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84507.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoyuki-yanada"
+    ]
+  },
+  {
+    "name": "Takuo Shibuimaru",
+    "nameNative": "渋井丸拓男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n46237-vSB4bDQ7uajY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-nishimura"
+    ]
+  },
+  {
+    "name": "Teru Mikami",
+    "nameNative": "魅上照",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1904-xKw2NgiE6VbU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-matsukaze"
+    ]
+  },
+  {
+    "name": "Tierry Morello",
+    "nameNative": "ティエリ・モレロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1932-eeWL3KSOTlVx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-kirimoto"
+    ]
+  },
+  {
+    "name": "Touta Matsuda",
+    "nameNative": "松田桃太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n1906-JCWKEGGook3Z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-naitou"
+    ]
+  },
+  {
+    "name": "Yumi Aizawa",
+    "nameNative": "相澤由美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84527.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "moyu-arishima"
+    ]
+  },
+  {
+    "name": "Yuri",
+    "nameNative": "百合",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n53663-kcAGTU7RCaUG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  }
+]
