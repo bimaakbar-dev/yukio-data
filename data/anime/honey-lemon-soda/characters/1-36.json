@@ -1,0 +1,325 @@
+[
+  {
+    "name": "Kai Miura",
+    "nameNative": "三浦界",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162041-QeoQ8wXZvLYR.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shougo-yano"
+    ]
+  },
+  {
+    "name": "Uka Ishimori",
+    "nameNative": "石森羽花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182176-nGN3nvAyEv7l.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kana-ichinose"
+    ]
+  },
+  {
+    "name": "Abe-sensei",
+    "nameNative": "阿部先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393330-Z81l2Luqt6ji.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-tsuchida"
+    ]
+  },
+  {
+    "name": "Asumi",
+    "nameNative": "明日美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393325-uu8WFrm4qXNY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-kikuchi"
+    ]
+  },
+  {
+    "name": "Ayaka",
+    "nameNative": "彩香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393333-hkkM7Uj8jawI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "risae-matsuda"
+    ]
+  },
+  {
+    "name": "Ayumi Endou",
+    "nameNative": "遠藤あゆみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245534-Qa4oFsLNIblx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyari-nemoto"
+    ]
+  },
+  {
+    "name": "Hitomi",
+    "nameNative": "ヒトミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "konomi-inagaki"
+    ]
+  },
+  {
+    "name": "Kaede",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393332-kM6mOu7MbH4i.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "cocoro-oomori"
+    ]
+  },
+  {
+    "name": "Kamakiri",
+    "nameNative": "カマキリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393324-zC2d5VeUgQ35.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuudai-mino"
+    ]
+  },
+  {
+    "name": "Kenjitsu Ishimori",
+    "nameNative": "石森堅実",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393319-ptXkjb5LoMgM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Kiyoshi",
+    "nameNative": "きよし",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393337-SRLBD7uQtdWB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rikuya-yasuda"
+    ]
+  },
+  {
+    "name": "Marin Fujita",
+    "nameNative": "藤田真鈴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245876-p74raDAL2HPn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shion-wakayama"
+    ]
+  },
+  {
+    "name": "Masashi",
+    "nameNative": "まさし",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393855-XyjiWmcpT3Qw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiki-nakajima"
+    ]
+  },
+  {
+    "name": "Megu",
+    "nameNative": "めぐ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-yamane"
+    ]
+  },
+  {
+    "name": "Midori-sensei",
+    "nameNative": "緑先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393335-CaWlmIvnyKIs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-eguchi"
+    ]
+  },
+  {
+    "name": "Miho",
+    "nameNative": "美穂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393864-mJBlDR8UCmrr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-yuuki"
+    ]
+  },
+  {
+    "name": "Mikarin",
+    "nameNative": "みかりん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393329-Zy6uKTeplrCN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "may-tachibana"
+    ]
+  },
+  {
+    "name": "Miru",
+    "nameNative": "ミル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393326-RZ1Xd77cDAC8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-takeda"
+    ]
+  },
+  {
+    "name": "Moka Shiraishi",
+    "nameNative": "白石望華",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245877-0mCNlGhCigfx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maki-kawase"
+    ]
+  },
+  {
+    "name": "Momo",
+    "nameNative": "桃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393334-g002I6x6ipdL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-hishikawa"
+    ]
+  },
+  {
+    "name": "Musashi Furuichi",
+    "nameNative": "古市武蔵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393339-dFhLUGg2g6ls.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuma"
+    ]
+  },
+  {
+    "name": "Nagano",
+    "nameNative": "永野",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393321-UoIXfwMLuj1m.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-hirose"
+    ]
+  },
+  {
+    "name": "Natsumi",
+    "nameNative": "菜摘",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393320-JSFQLXRMeV11.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saeko-ouki"
+    ]
+  },
+  {
+    "name": "Noa",
+    "nameNative": "のあ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393860-mPcN4d9Ncqwo.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-koichi"
+    ]
+  },
+  {
+    "name": "Remi Kojima",
+    "nameNative": "小島麗美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245987-0MyJc5APo8wl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-yukimura"
+    ]
+  },
+  {
+    "name": "Rino",
+    "nameNative": "りの",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-kawaguchi"
+    ]
+  },
+  {
+    "name": "Satoru Seto",
+    "nameNative": "瀬戸悟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245535-zubxiBXbIkxl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taku-yashiro"
+    ]
+  },
+  {
+    "name": "Seki",
+    "nameNative": "関",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393322-nO51QDm9lgdk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gentoku-kumazawa"
+    ]
+  },
+  {
+    "name": "Serina Kanno",
+    "nameNative": "菅野芹奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245537-yiXtIbTp3lJq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Tao Oikawa",
+    "nameNative": "及川多央",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245878-aUKBE4N9cLPl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-nukui"
+    ]
+  },
+  {
+    "name": "Tomoya Takamine",
+    "nameNative": "高嶺友哉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245536-8jwUYvfq6vKs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shunichi-toki"
+    ]
+  },
+  {
+    "name": "Tonbo",
+    "nameNative": "トンボ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393331-wkbppohhAMxz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuya-hirose"
+    ]
+  },
+  {
+    "name": "Uka no Haha",
+    "nameNative": "羽花の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393318-X4lyWPn4M8b3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Yasushi",
+    "nameNative": "やすし",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393336-J0ymZe0JxPbO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-tanabe"
+    ]
+  },
+  {
+    "name": "Yukino",
+    "nameNative": "雪乃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393327-odgHExFdqJ1R.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "reo-osanai"
+    ]
+  },
+  {
+    "name": "Yuru Hashimoto",
+    "nameNative": "橋本由瑠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245716-Pw5zUVQWAI6x.png",
+    "role": "supporting",
+    "voiceActors": [
+      "honoka-inoue"
+    ]
+  }
+]
