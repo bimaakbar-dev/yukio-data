@@ -1,0 +1,390 @@
+[
+  {
+    "name": "Meryl Stryfe",
+    "nameNative": "メリル・ストライフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b713-ARN91UwGfe3A.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiromi-tsuru"
+    ]
+  },
+  {
+    "name": "Milly Thompson",
+    "nameNative": "ミリィ・トンプソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b714-bwscmKr1GkxW.jpg",
+    "role": "main",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Nicholas D. Wolfwood",
+    "nameNative": "ニコラス・D・ウルフウッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b722-Ernx5wHAXugB.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Vash the Stampede",
+    "nameNative": "ヴァッシュ・ザ・スタンピード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162-kfdfqsX7Xjf0.png",
+    "role": "main",
+    "voiceActors": [
+      "masaya-onosaka",
+      "kouki-miyata"
+    ]
+  },
+  {
+    "name": "Badwick",
+    "nameNative": "バッドウィック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229912-tMbuorHSWczd.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Benson",
+    "nameNative": "ベンソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229916-otC7mJjIj2q8.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Bostalk Hakushaku",
+    "nameNative": "ボストーク伯爵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229896-PR0F0ZCWM8GU.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Brad",
+    "nameNative": "ブラド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229892-vsToeoLngGaj.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Brilliant Dynamites Neon",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19193.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Caine the Longshot",
+    "nameNative": "ケイン・ザ・ロングショット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18619-STWe6Fs3OEEw.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Chapel the Evergreen",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18614.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hirotaka-suzuoki"
+    ]
+  },
+  {
+    "name": "Clair",
+    "nameNative": "クレア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229902-kwQR16fXZc7S.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Cliff Schezar",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60667.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-yajima"
+    ]
+  },
+  {
+    "name": "Denim",
+    "nameNative": "デニム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229909-NUrYJXMB9x0v.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Descartes",
+    "nameNative": "デカルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29557.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-gouri"
+    ]
+  },
+  {
+    "name": "Dick",
+    "nameNative": "ディック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229897-Zi18SobfNyRR.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Dominique the Cyclops",
+    "nameNative": "ドミニク・ザ・サイクロプス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18616.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-soumi"
+    ]
+  },
+  {
+    "name": "E.G. Mine",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18617.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-horikawa"
+    ]
+  },
+  {
+    "name": "Elizabeth",
+    "nameNative": "エリザベス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229891-81hCReeREoeW.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Erik",
+    "nameNative": "エリック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229904-T0yWrxeOKUE4.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Gene",
+    "nameNative": "ゲン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229901-GkWxaWTWUWtJ.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Gofsef",
+    "nameNative": "ゴフセフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296200-KfXIu9mHjNmm.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Helen",
+    "nameNative": "ヘレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229895-9GgexPcsSktP.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Henry",
+    "nameNative": "ヘンリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229918-8TK7vGJ4upXt.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Hoppered the Gauntlet",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18621.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiichi-nanba"
+    ]
+  },
+  {
+    "name": "Ingway",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81557.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-sugawara"
+    ]
+  },
+  {
+    "name": "Jessica",
+    "nameNative": "ジェシカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/72207.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "emi-motoi"
+    ]
+  },
+  {
+    "name": "Joey",
+    "nameNative": "ジョーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229903-tEzEcmnnlwhz.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Julius",
+    "nameNative": "ジュリアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229887-MvdSD2uRG0wo.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kaite",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14054.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rica-matsumoto"
+    ]
+  },
+  {
+    "name": "Karen",
+    "nameNative": "カレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229917-VSCxhjXxctzS.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kesskass",
+    "nameNative": "ケスカス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229914-s7EtSgSZV3Oy.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Knives Millions",
+    "nameNative": "ミリオンズ・ナイブズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1599-yYKeldpUZCEc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-furusawa"
+    ]
+  },
+  {
+    "name": "Kuroneko",
+    "nameNative": "黒猫様",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6750.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Legato Bluesummers",
+    "nameNative": "レガート・ブルーサマーズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/715.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshihiko-seki"
+    ]
+  },
+  {
+    "name": "Leonof the Puppet-Master",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18620.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaneta-kimotsuki"
+    ]
+  },
+  {
+    "name": "Lina",
+    "nameNative": "リィナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/58671.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-ishimura"
+    ]
+  },
+  {
+    "name": "Loose Ruth",
+    "nameNative": "ルーズ・ルース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229899-gtWNppQ016aL.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Lurald",
+    "nameNative": "ルラルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229907-LSosWapmb7pt.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Marianne Aura Cayzen",
+    "nameNative": "マリアンヌ・オーレルカイゼン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229889-LEoO5aqgubJc.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Marilyn Nebraska",
+    "nameNative": "マリリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/58667.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Mark",
+    "nameNative": "マーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229919-qtCdPWO4VZkb.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Marvin",
+    "nameNative": "マーヴィン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229911-TUDb9EA3PaP2.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Mary",
+    "nameNative": "メアリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/58669.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maya-okamoto"
+    ]
+  },
+  {
+    "name": "Michelle",
+    "nameNative": "ミシェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229920-UvqFuY62Edse.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Midvalley the Hornfreak",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18615.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-nishimura"
+    ]
+  },
+  {
+    "name": "Monev the Gale",
+    "nameNative": "モネヴ・ザ・ゲイル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18618.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masuo-amada"
+    ]
+  },
+  {
+    "name": "Moore",
+    "nameNative": "ムーア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229894-SnpoL6nrbtB2.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Nebraska",
+    "nameNative": "ネブラスカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296199-pqDSkMUSBVgA.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Neil",
+    "nameNative": "ニール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229900-QsTiLSaJVgiG.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  }
+]
