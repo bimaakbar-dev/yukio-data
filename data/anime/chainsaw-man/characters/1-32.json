@@ -1,5 +1,15 @@
 [
   {
+    "name": "Aki Hayakawa",
+    "nameNative": "早川アキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137081-TSrUR3mUJL6r.png",
+    "role": "main",
+    "voiceActors": [
+      "shougo-sakata",
+      "ayumu-murase"
+    ]
+  },
+  {
     "name": "Denji",
     "nameNative": "デンジ",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130102-FO1VHNnEnLlB.png",
@@ -7,15 +17,6 @@
     "voiceActors": [
       "kikunosuke-toya",
       "marina-inoue"
-    ]
-  },
-  {
-    "name": "Power",
-    "nameNative": "パワー",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png",
-    "role": "main",
-    "voiceActors": [
-      "fairouz-ai"
     ]
   },
   {
@@ -28,67 +29,12 @@
     ]
   },
   {
-    "name": "Aki Hayakawa",
-    "nameNative": "早川アキ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137081-TSrUR3mUJL6r.png",
+    "name": "Power",
+    "nameNative": "パワー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png",
     "role": "main",
     "voiceActors": [
-      "shougo-sakata",
-      "ayumu-murase"
-    ]
-  },
-  {
-    "name": "Pochita",
-    "nameNative": "ポチタ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b170266-bBXPkNJnd3mg.png",
-    "role": "supporting",
-    "voiceActors": [
-      "shiori-izawa"
-    ]
-  },
-  {
-    "name": "Himeno",
-    "nameNative": "姫野",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144596-kvL6SD2litJu.png",
-    "role": "supporting",
-    "voiceActors": [
-      "mariya-ise"
-    ]
-  },
-  {
-    "name": "Kishibe",
-    "nameNative": "岸辺",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144593-hdCTT9t54z0s.png",
-    "role": "supporting",
-    "voiceActors": [
-      "kenjirou-tsuda"
-    ]
-  },
-  {
-    "name": "Kobeni Higashiyama",
-    "nameNative": "東山コベニ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144594-0dbO1NSYeZ12.png",
-    "role": "supporting",
-    "voiceActors": [
-      "karin-takahashi"
-    ]
-  },
-  {
-    "name": "Hirokazu Arai",
-    "nameNative": "荒井ヒロカズ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174263-TTMWfBlU1k3f.png",
-    "role": "supporting",
-    "voiceActors": [
-      "taku-yashiro"
-    ]
-  },
-  {
-    "name": "Samurai Sword",
-    "nameNative": "サムライソード",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157241-GkgQVzkFrmUD.jpg",
-    "role": "supporting",
-    "voiceActors": [
-      "daiki-hamano"
+      "fairouz-ai"
     ]
   },
   {
@@ -101,24 +47,6 @@
     ]
   },
   {
-    "name": "Tenshi no Akuma",
-    "nameNative": "天使の悪魔",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152231-jiMRx9je7H6y.png",
-    "role": "supporting",
-    "voiceActors": [
-      "maaya-uchida"
-    ]
-  },
-  {
-    "name": "Bouryoku no Majin",
-    "nameNative": "暴力の魔人",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157231-hV81SwGqxl2R.jpg",
-    "role": "supporting",
-    "voiceActors": [
-      "yuuya-uchida"
-    ]
-  },
-  {
     "name": "Beam",
     "nameNative": "ビーム",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157232-5GuWeqoFN9Kq.jpg",
@@ -128,111 +56,12 @@
     ]
   },
   {
-    "name": "Prinz",
-    "nameNative": "プリンシ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157277-h6M1umQ3N2ve.jpg",
+    "name": "Bouryoku no Majin",
+    "nameNative": "暴力の魔人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157231-hV81SwGqxl2R.jpg",
     "role": "supporting",
     "voiceActors": [
-      "saori-gotou"
-    ]
-  },
-  {
-    "name": "Mirai no Akuma",
-    "nameNative": "未来の悪魔",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172887-qMCjXPXMSKRk.png",
-    "role": "supporting",
-    "voiceActors": [
-      "hiroki"
-    ]
-  },
-  {
-    "name": "Kitsune no Akuma",
-    "nameNative": "狐の悪魔",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290671-YaauAZvHLnyo.png",
-    "role": "supporting",
-    "voiceActors": [
-      "yuuko-kaida"
-    ]
-  },
-  {
-    "name": "Zombie no Akuma",
-    "nameNative": "ゾンビの悪魔",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174282-YFLwuvogHMod.png",
-    "role": "supporting",
-    "voiceActors": [
-      "kouki-miyata"
-    ]
-  },
-  {
-    "name": "Koumori no Akuma",
-    "nameNative": "コウモリの悪魔",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174272-cU9W4oNykNM0.png",
-    "role": "supporting",
-    "voiceActors": [
-      "kenichirou-matsuda"
-    ]
-  },
-  {
-    "name": "Hiru no Akuma",
-    "nameNative": "ヒルの悪魔",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174275-cCAGptyn7ZrR.png",
-    "role": "supporting",
-    "voiceActors": [
-      "uko-tachibana"
-    ]
-  },
-  {
-    "name": "Michiko Tendou",
-    "nameNative": "天童ミチコ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144595-R8Lfn0egUR3q.png",
-    "role": "supporting",
-    "voiceActors": [
-      "hitomi-ueda"
-    ]
-  },
-  {
-    "name": "Yuutarou Kurose",
-    "nameNative": "黒瀬ユウタロウ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144592-pUY67nacCeud.png",
-    "role": "supporting",
-    "voiceActors": [
-      "kengo-kawanishi"
-    ]
-  },
-  {
-    "name": "Fushi",
-    "nameNative": "伏",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172885-hvF2nRMCqNaX.png",
-    "role": "supporting",
-    "voiceActors": [
-      "chikahiro-kobayashi"
-    ]
-  },
-  {
-    "name": "Madoka",
-    "nameNative": "円",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174267-2VJVkMILqQpY.png",
-    "role": "supporting",
-    "voiceActors": [
-      "tadashi-mutou"
-    ]
-  },
-  {
-    "name": "Yuurei no Akuma",
-    "nameNative": "幽霊の悪魔",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174262-e1ctdgffT3MP.png",
-    "role": "supporting",
-    "voiceActors": [
-      "hiroko-kiso"
-    ]
-  },
-  {
-    "name": "Tomato no Akuma",
-    "nameNative": "トマトの悪魔",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289200-mkFXS4A4MRBp.jpg",
-    "role": "supporting",
-    "voiceActors": [
-      "hinata-tadokoro"
+      "yuuya-uchida"
     ]
   },
   {
@@ -248,12 +77,102 @@
     ]
   },
   {
-    "name": "Noroi no Akuma",
-    "nameNative": "呪いの悪魔",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174265-NsRTeM1eAals.png",
+    "name": "Fushi",
+    "nameNative": "伏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172885-hvF2nRMCqNaX.png",
     "role": "supporting",
     "voiceActors": [
-      "yuuko-ueda"
+      "chikahiro-kobayashi"
+    ]
+  },
+  {
+    "name": "Himeno",
+    "nameNative": "姫野",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144596-kvL6SD2litJu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Hirokazu Arai",
+    "nameNative": "荒井ヒロカズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174263-TTMWfBlU1k3f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taku-yashiro"
+    ]
+  },
+  {
+    "name": "Hiru no Akuma",
+    "nameNative": "ヒルの悪魔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174275-cCAGptyn7ZrR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "uko-tachibana"
+    ]
+  },
+  {
+    "name": "Kishibe",
+    "nameNative": "岸辺",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144593-hdCTT9t54z0s.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Kitsune no Akuma",
+    "nameNative": "狐の悪魔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290671-YaauAZvHLnyo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Kobeni Higashiyama",
+    "nameNative": "東山コベニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144594-0dbO1NSYeZ12.png",
+    "role": "supporting",
+    "voiceActors": [
+      "karin-takahashi"
+    ]
+  },
+  {
+    "name": "Koumori no Akuma",
+    "nameNative": "コウモリの悪魔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174272-cU9W4oNykNM0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Madoka",
+    "nameNative": "円",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174267-2VJVkMILqQpY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tadashi-mutou"
+    ]
+  },
+  {
+    "name": "Michiko Tendou",
+    "nameNative": "天童ミチコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144595-R8Lfn0egUR3q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-ueda"
+    ]
+  },
+  {
+    "name": "Mirai no Akuma",
+    "nameNative": "未来の悪魔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172887-qMCjXPXMSKRk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki"
     ]
   },
   {
@@ -264,11 +183,74 @@
     "voiceActors": []
   },
   {
+    "name": "Noroi no Akuma",
+    "nameNative": "呪いの悪魔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174265-NsRTeM1eAals.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-ueda"
+    ]
+  },
+  {
     "name": "Nyaako",
     "nameNative": "ニャーコ",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174271-iC0Ul9YfLOk6.png",
     "role": "supporting",
     "voiceActors": []
+  },
+  {
+    "name": "Pochita",
+    "nameNative": "ポチタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b170266-bBXPkNJnd3mg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shiori-izawa"
+    ]
+  },
+  {
+    "name": "Prinz",
+    "nameNative": "プリンシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157277-h6M1umQ3N2ve.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-gotou"
+    ]
+  },
+  {
+    "name": "Samurai Sword",
+    "nameNative": "サムライソード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157241-GkgQVzkFrmUD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-hamano"
+    ]
+  },
+  {
+    "name": "Taiyou",
+    "nameNative": "タイヨウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174261-qRcr40Q3zsyM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mana-nakatomi"
+    ]
+  },
+  {
+    "name": "Tenshi no Akuma",
+    "nameNative": "天使の悪魔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152231-jiMRx9je7H6y.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Tomato no Akuma",
+    "nameNative": "トマトの悪魔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289200-mkFXS4A4MRBp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hinata-tadokoro"
+    ]
   },
   {
     "name": "Yakuza",
@@ -280,12 +262,30 @@
     ]
   },
   {
-    "name": "Taiyou",
-    "nameNative": "タイヨウ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174261-qRcr40Q3zsyM.png",
+    "name": "Yuurei no Akuma",
+    "nameNative": "幽霊の悪魔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174262-e1ctdgffT3MP.png",
     "role": "supporting",
     "voiceActors": [
-      "mana-nakatomi"
+      "hiroko-kiso"
+    ]
+  },
+  {
+    "name": "Yuutarou Kurose",
+    "nameNative": "黒瀬ユウタロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144592-pUY67nacCeud.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kengo-kawanishi"
+    ]
+  },
+  {
+    "name": "Zombie no Akuma",
+    "nameNative": "ゾンビの悪魔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174282-YFLwuvogHMod.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-miyata"
     ]
   }
 ]
