@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Kotarou",
+    "nameNative": "仔太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11785-d5W642puitOB.png",
+    "role": "main",
+    "voiceActors": [
+      "yuri-chinen"
+    ]
+  },
+  {
+    "name": "Luo-Lang",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12910-HqvBAIS8mzje.png",
+    "role": "main",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Nanashi",
+    "nameNative": "名無し",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11784-Nz1y2rs1djCb.png",
+    "role": "main",
+    "voiceActors": [
+      "tomoya-nagase"
+    ]
+  },
+  {
+    "name": "Tobimaru",
+    "nameNative": "飛丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121360-z49VGSdxlX7r.png",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Feng-wu",
+    "nameNative": "風午",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24747-JWXSFoQvBAXa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hirofumi-nojima"
+    ]
+  },
+  {
+    "name": "Jurota Inui",
+    "nameNative": "戌重郎太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15766-LIEl3cbPz1cE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Mu-Mao",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b27229-K0Oiq2glVRty.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumie-mizusawa"
+    ]
+  },
+  {
+    "name": "Mu-You",
+    "nameNative": "木酉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72247-CVlTHBGPUh2X.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-minagawa"
+    ]
+  },
+  {
+    "name": "Shouan",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35344-iiIf89UgXVDo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoto-takenaka"
+    ]
+  },
+  {
+    "name": "Shougen Itadori",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27151.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Zekkai",
+    "nameNative": "絶界",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189408-YRJfiJJ6rR7m.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-hazumi"
+    ]
+  }
+]
