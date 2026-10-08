@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Asakaze",
+    "nameNative": "朝風",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b225131-qDAWwhXpYicX.png",
+    "role": "main",
+    "voiceActors": [
+      "chiaki-kobayashi"
+    ]
+  },
+  {
+    "name": "Hoshi",
+    "nameNative": "明星",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235443-hrIHNp5KF0nP.png",
+    "role": "main",
+    "voiceActors": [
+      "ami-naitou"
+    ]
+  },
+  {
+    "name": "Mizuho",
+    "nameNative": "瑞穂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b225130-uszblgnvpsgF.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Nagara",
+    "nameNative": "長良",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b225128-7bIAkutDY0rk.png",
+    "role": "main",
+    "voiceActors": [
+      "aoi-ichikawa"
+    ]
+  },
+  {
+    "name": "Nozomi",
+    "nameNative": "希",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b225129-URHeLyLOu3lP.png",
+    "role": "main",
+    "voiceActors": [
+      "saori-oonishi"
+    ]
+  },
+  {
+    "name": "Rajdhani",
+    "nameNative": "ラジダニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235446-MNs9DskivL2L.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroki-gotou"
+    ]
+  },
+  {
+    "name": "Aki-sensei",
+    "nameNative": "あき先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243235-GXuZa5bSHOrI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Cap",
+    "nameNative": "キャップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235445-CazW89pg6EoR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youji-ueda"
+    ]
+  },
+  {
+    "name": "Futatsuboshi",
+    "nameNative": "二つ星",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245948-Wo3tQn8y7SHH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taiki-matsuno"
+    ]
+  },
+  {
+    "name": "Gen",
+    "nameNative": "げん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b247603-9i9RTyuSUjxp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinpachi-tsuji"
+    ]
+  },
+  {
+    "name": "Hayato",
+    "nameNative": "はやと",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235442-BOQL8ElLXPc6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouta-yamamoto"
+    ]
+  },
+  {
+    "name": "Hime",
+    "nameNative": "ヒメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245946-EUH5p5MaUvDI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-hikisaka"
+    ]
+  },
+  {
+    "name": "Kaichou",
+    "nameNative": "会長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245949-OMPw9FUngL46.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mie-sonozaki"
+    ]
+  },
+  {
+    "name": "Kodama",
+    "nameNative": "こだま",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b246597-U1wlM2wcqjbt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayana-taketatsu"
+    ]
+  },
+  {
+    "name": "Kossetsu",
+    "nameNative": "骨折",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248764-diXMOeH4kmTq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-ozaki"
+    ]
+  },
+  {
+    "name": "Koumori",
+    "nameNative": "コウモリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245947-AfSKzIh4kI2L.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiaki-hasegawa"
+    ]
+  },
+  {
+    "name": "Pony",
+    "nameNative": "ポニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235444-KUJ1GCTvmS0t.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-satou"
+    ]
+  },
+  {
+    "name": "Sakura",
+    "nameNative": "さくら",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b247601-i6KGpg735fXq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-tsuda"
+    ]
+  },
+  {
+    "name": "Seiji Sou",
+    "nameNative": "荘誠司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b247604-jeSa0nBYrTmG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Sensou",
+    "nameNative": "戦争",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b246596-eb7ufDRJNo2Y.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Shanhai",
+    "nameNative": "上海",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235441-Jy5Hw4aN231s.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ogino"
+    ]
+  },
+  {
+    "name": "Susugashira",
+    "nameNative": "スス頭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245945-lm0CWGH3WPiU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-nakashima"
+    ]
+  },
+  {
+    "name": "Tora",
+    "nameNative": "とら",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b247602-Vpr6RcBBlrJS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "bin-shimada"
+    ]
+  },
+  {
+    "name": "Voice",
+    "nameNative": "ヴォイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244855-MNoEm5hhQn2l.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-ookawa"
+    ]
+  },
+  {
+    "name": "Yamabiko",
+    "nameNative": "やまびこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244856-VgS7h1wGXSYP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  }
+]
