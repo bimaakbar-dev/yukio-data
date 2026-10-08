@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Goblin Slayer",
+    "nameNative": "ゴブリンスレイヤー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126458-wCulCEFEPZSK.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuichirou-umehara"
+    ]
+  },
+  {
+    "name": "Onna Shinkan",
+    "nameNative": "女神官",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126483-NQuBqaXHUJO2.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yui-ogura"
+    ]
+  },
+  {
+    "name": "Goblins",
+    "nameNative": "ゴブリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132632-rHa6hK46MzYb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-takeda"
+    ]
+  },
+  {
+    "name": "Half-Elf no Sekkou",
+    "nameNative": "半森人の斥候",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136418-HlCnTJNkYWIw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukushima"
+    ]
+  },
+  {
+    "name": "Itoko no Onna Majutsushi",
+    "nameNative": "従姉の女魔術師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136312-kFglMElT3Gts.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Kantoku-kan",
+    "nameNative": "監督官",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n134323-cgKSmSGZbJvj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-hioka"
+    ]
+  },
+  {
+    "name": "Kokuou",
+    "nameNative": "国王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324831-Qx7LyD3WOvFt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Kouhito Doushi",
+    "nameNative": "鉱人道士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128254-6x8qS52q9Q0n.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Majo",
+    "nameNative": "魔女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n126486-e0DjNT3rBOT7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Minarai Seishokusha",
+    "nameNative": "見習い聖職者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131808-oZTRwGOy7pqt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayasa-itou"
+    ]
+  },
+  {
+    "name": "Myrmidon Souryo",
+    "nameNative": "蟲人僧侶",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136314-WIEX7DNvv8rp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Omoi Kenshi",
+    "nameNative": "重い剣士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131812-4mY1CxbvGqka.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-hamano"
+    ]
+  },
+  {
+    "name": "Onna Kishi",
+    "nameNative": "女騎士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131819-ciC7jlbevxx4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukiyo-fujii"
+    ]
+  },
+  {
+    "name": "Onna no Senshi",
+    "nameNative": "女戦士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136313-bU6eyc7QfqRD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikumi-hayama"
+    ]
+  },
+  {
+    "name": "Oumai",
+    "nameNative": "王妹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324830-HdnHFYDzm6Qe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  },
+  {
+    "name": "Reijou Kenshi",
+    "nameNative": "令嬢剣士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188204-i0puFnVSEyTg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Shoshinsha Senshi",
+    "nameNative": "初心者戦士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131820-pPZHnlbfNsam.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "seiji-maeda"
+    ]
+  },
+  {
+    "name": "Shoujo Fujutsushi",
+    "nameNative": "少女巫術師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132710-bZNp9XpbHaML.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-harada"
+    ]
+  },
+  {
+    "name": "Shounen Majutsushi",
+    "nameNative": "少年魔術師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b325959-WhsLIebHCYjF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Taishou",
+    "nameNative": "大将",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136315-BU2QJIMLQiCn.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Tokage Souryo",
+    "nameNative": "蜥蜴僧侶",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n126487-TErPQ7ADCryW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Tsurugi no Otome",
+    "nameNative": "剣の乙女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129080-zTT3T3jUnBya.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Uketsuke-jou",
+    "nameNative": "受付嬢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/126485-2zo57ux4EMeC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Ushikai Musume",
+    "nameNative": "牛飼娘",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/126484-izE4ON548jnn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Yaritsukai",
+    "nameNative": "槍使い",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n126488-fW2f7wryREzj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Yousei Yunde",
+    "nameNative": "妖精弓手",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126457-leHoOLIOZy2a.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  }
+]
