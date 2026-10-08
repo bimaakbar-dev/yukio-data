@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Arrietty",
+    "nameNative": "アリエッティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32918-rY1KT8FuIHWz.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mirai-shida"
+    ]
+  },
+  {
+    "name": "Shou",
+    "nameNative": "翔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32919-XjOOS5kE3qRG.png",
+    "role": "main",
+    "voiceActors": [
+      "ryuunosuke-kamiki"
+    ]
+  },
+  {
+    "name": "Haru",
+    "nameNative": "ハル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35045-ao35DqmLT0vn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kirin-kiki"
+    ]
+  },
+  {
+    "name": "Homily",
+    "nameNative": "ホミリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35043-rlmJMSgpui1D.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinobu-ootake"
+    ]
+  },
+  {
+    "name": "Pod",
+    "nameNative": "ポッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35042-7LoQFMNqhsEh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-miura"
+    ]
+  },
+  {
+    "name": "Sadako",
+    "nameNative": "貞子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35025-yjgsFfQMWh7x.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-takeshita"
+    ]
+  },
+  {
+    "name": "Spiller",
+    "nameNative": "スピラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35044-ptO1ISCrgUF1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuya-fujiwara"
+    ]
+  }
+]
