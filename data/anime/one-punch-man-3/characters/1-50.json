@@ -1,0 +1,444 @@
+[
+  {
+    "name": "Garou",
+    "nameNative": "ガロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png",
+    "role": "main",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Saitama",
+    "nameNative": "サイタマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg",
+    "role": "main",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Armored Gorilla",
+    "nameNative": "アーマードゴリラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b85983-IRPD9S7HaP7x.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouta-yamamoto"
+    ]
+  },
+  {
+    "name": "Bang",
+    "nameNative": "バング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n81141-1ml7Q6X2B508.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-yamaji"
+    ]
+  },
+  {
+    "name": "Bofoi",
+    "nameNative": "ボフォイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81933.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Bomb",
+    "nameNative": "ボンブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138982-5QRetWxLmQYo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-fukumatsu"
+    ]
+  },
+  {
+    "name": "Busaiku Daisoutou",
+    "nameNative": "ブサイク大総統",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b241943-LoKfalLbqByl.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Bushidrill",
+    "nameNative": "ブシドリル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b377195-t3GKIvYBi5EX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-mamiya"
+    ]
+  },
+  {
+    "name": "Butagami",
+    "nameNative": "豚神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8841-sm1m2mVez5IE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Chinpi",
+    "nameNative": "チンピー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b377667-5lWEeP2s9Umk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "motoki-sakuma"
+    ]
+  },
+  {
+    "name": "Chou Mouse",
+    "nameNative": "超マウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b379038-kP9xV9OMEAbe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuki-kyan"
+    ]
+  },
+  {
+    "name": "Chougoukin Kurobikari",
+    "nameNative": "超合金クロビカリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156126-QQpzi77vVx45.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Evil Tennensui",
+    "nameNative": "エビル天然水",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b241966-HhWySLg4JnKJ.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Fubuki",
+    "nameNative": "フブキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Genos",
+    "nameNative": "ジェノス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Genus Hakase",
+    "nameNative": "ジーナス博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8060-iDyX1I8DLArA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Gouka no Flame",
+    "nameNative": "業火のフレイム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327336-fUXdsVVINV3C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuaki-takumi"
+    ]
+  },
+  {
+    "name": "Gyoro Gyoro",
+    "nameNative": "ギョロギョロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298214-tpwFu6ou0QvC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Haguki",
+    "nameNative": "ハグキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b241942-0DSFKxNVT3uU.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Hatagami G5",
+    "nameNative": "機神G５",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b377196-orKS0sMZopZm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-mizunaka"
+    ]
+  },
+  {
+    "name": "Hayete no Wind",
+    "nameNative": "疾風のウィンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327344-Sbus5XU6tgtG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taishi-murata"
+    ]
+  },
+  {
+    "name": "Hedorokurage",
+    "nameNative": "ヘドロクラゲ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327329-EMOpo5E9YgKh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tadanori-date"
+    ]
+  },
+  {
+    "name": "Homeless Mikado",
+    "nameNative": "ホームレス帝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b241967-u6INx2bISRuI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kuroda"
+    ]
+  },
+  {
+    "name": "Iaian",
+    "nameNative": "イアイアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165855-0YK8GfxwyOg3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Ikemen Kamen Amai Mask",
+    "nameNative": "イケメン仮面アマイマスク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b86031-7NpSkSSrT7ZJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Ikkaku",
+    "nameNative": "イッカク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b379037-wn5vaE5y6Ezq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  },
+  {
+    "name": "Isamu",
+    "nameNative": "イサム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137661-G30CrZkCLAWx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-takayama"
+    ]
+  },
+  {
+    "name": "Kaijin Hebi",
+    "nameNative": "怪人ヘビ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b379033-anladE560SQi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-ishii"
+    ]
+  },
+  {
+    "name": "Kaijin Hime Do-S",
+    "nameNative": "怪人姫弩S",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156896-p8lSN9gOtqtF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-fujiwara"
+    ]
+  },
+  {
+    "name": "Kaijin Kame",
+    "nameNative": "怪人カメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-narumi"
+    ]
+  },
+  {
+    "name": "Kamikaze",
+    "nameNative": "カミカゼ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154767-B8TieN81pfMI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "King",
+    "nameNative": "キング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n88907-M7QLjYvp2LEp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Kirisaking",
+    "nameNative": "キリサキング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n126977-GQlI5fLIFqg3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-tachibana"
+    ]
+  },
+  {
+    "name": "Kuroi Seishi",
+    "nameNative": "黒い精子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126976-vjLxpJVJ4QTW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichirou-umehara"
+    ]
+  },
+  {
+    "name": "Kuseno Hakase",
+    "nameNative": "クセーノ博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13124-AjG67JtCz0bK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Maronke",
+    "nameNative": "魔ロン毛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320569-hbwKGpndQQHS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-yanagita"
+    ]
+  },
+  {
+    "name": "Mizuki",
+    "nameNative": "ミズキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144230-1r2cZyhAH9rH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "anna-nagase"
+    ]
+  },
+  {
+    "name": "Mushigami",
+    "nameNative": "蟲神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328445-n2l8yStJcVJD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-nakashima"
+    ]
+  },
+  {
+    "name": "Narinki",
+    "nameNative": "ナリンキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b171654-5j1Lfd5hHBMO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-souma"
+    ]
+  },
+  {
+    "name": "Noria",
+    "nameNative": "ノリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b377669-DJHfYHYg6iG8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-tsukada"
+    ]
+  },
+  {
+    "name": "Nyan",
+    "nameNative": "ニャーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b241944-m8xrJxZck0eJ.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Okamaitachi",
+    "nameNative": "オカマイタチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b377194-OoJkUk5S1vpY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reiji-kawashima"
+    ]
+  },
+  {
+    "name": "Onsoku no Sonic",
+    "nameNative": "音速のソニック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b74167-FE8EtGtHUM77.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Orochi",
+    "nameNative": "オロチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126979-7UVXqbF8XxD2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-ono"
+    ]
+  },
+  {
+    "name": "Phoenix Otoko",
+    "nameNative": "フェニックス男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327324-QaRMCW2VtpvK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-maeda"
+    ]
+  },
+  {
+    "name": "Puri-Puri Prisoner",
+    "nameNative": "ぷりぷりプリズナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n86029-iomUtQtGfJOU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-onosaka"
+    ]
+  },
+  {
+    "name": "Sairesuraa",
+    "nameNative": "サイレスラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327327-uacMBUynZ9v6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-sugisaki"
+    ]
+  },
+  {
+    "name": "Sekingar",
+    "nameNative": "セキンガル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b307003-zfN8qAKhnlXb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihito-sasaki"
+    ]
+  },
+  {
+    "name": "Senkou no Flash",
+    "nameNative": "閃光のフラッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138981-74nPW2rXVews.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Showerhead",
+    "nameNative": "シャワーヘッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b379036-szXLgjiPvxgm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-komada"
+    ]
+  }
+]
