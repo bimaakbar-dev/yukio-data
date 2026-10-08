@@ -1,0 +1,17 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "one-piece",
+    "title": "One Piece"
+  },
+  {
+    "relation": "prequel",
+    "slug": "one-piece-episode-of-luffy-hand-island-no-bouken",
+    "title": "One Piece: Episode of Luffy - Hand Island no Bouken"
+  },
+  {
+    "relation": "prequel",
+    "slug": "one-piece-glorious-island",
+    "title": "One Piece: Glorious Island"
+  }
+]
