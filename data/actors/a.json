@@ -1,9 +1,23 @@
 [
   {
+    "id": "afumi-hashi",
+    "name": "Afumi Hashi",
+    "nameNative": "土師亜文",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139351-exurCHdINIv8.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "aguri-onishi",
     "name": "Aguri Onishi",
     "nameNative": "大西亜玖璃",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n132804-Yh5gJo5ZPHgI.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "ai-fukada",
+    "name": "Ai Fukada",
+    "nameNative": "深田愛衣",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115326-QT9JN1owJq86.png",
     "defaultLanguage": "Japanese"
   },
   {
