@@ -1,27 +1,27 @@
 ---
-title: Gintama°
-titleEnglish: Gintama Season 3
-titleNative: 銀魂゜
+title: Gintama.
+titleEnglish: Gintama Season 4
+titleNative: 銀魂。
 
-malId: 28977
-kitsuId: "10083"
+malId: 34096
+kitsuId: "818"
 
 type: TV
 status: finished
 source: manga
 
-season: spring
-year: 2015
-episodes: 51
+season: winter
+year: 2017
+episodes: 12
 duration: 24
 # rating: # edit manual
 
 aired:
-  from: "2015-04-08"
-  to: "2016-03-30"
+  from: "2017-01-09"
+  to: "2017-03-27"
 
 stats:
-  score: 9.0
+  score: 8.9
   # scoredBy: # edit manual
 
 genres:
@@ -33,17 +33,15 @@ genres:
 studios:
   - bandai-namco-pictures
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20996-kBEGEGdeK1r7.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20996-gaNJKtjmy3Pf.jpg"
-# trailer: # edit manual
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97889-ytqHdmus9wQi.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97889-z0Gm66dFW93U.jpg"
+trailer: "LOdAAEJiebM"
 
 draft: false
 ---
 
-Gintoki, Shinpachi, and Kagura return as the fun-loving but broke members of the Yorozuya team! Living in an alternate-reality Edo, where swords are prohibited and alien overlords have conquered Japan, they try to thrive on doing whatever work they can get their hands on. However, Shinpachi and Kagura still haven't been paid... Does Gin-chan really spend all that cash playing pachinko?
+After joining the resistance against the bakufu, Gintoki and the gang are in hiding, along with Katsura and his Joui rebels. The Yorozuya is soon approached by Nobume Imai and two members of the Kiheitai, who explain that the Harusame pirates have turned against 7th Division Captain Kamui and their former ally Takasugi. The Kiheitai present Gintoki with a job: find Takasugi, who has been missing since his ship was ambushed in a Harusame raid. Nobume also makes a stunning revelation regarding the Tendoushuu, a secret organization pulling the strings of numerous factions, and their leader Utsuro, the shadowy figure with an uncanny resemblance to Gintoki's former teacher.
 
-Meanwhile, when Gintoki drunkenly staggers home one night, an alien spaceship crashes nearby. A fatally injured crew member emerges from the ship and gives Gintoki a strange, clock-shaped device, warning him that it is incredibly powerful and must be safeguarded. Mistaking it for his alarm clock, Gintoki proceeds to smash the device the next morning and suddenly discovers that the world outside his apartment has come to a standstill. With Kagura and Shinpachi at his side, he sets off to get the device fixed; though, as usual, nothing is ever that simple for the Yorozuya team.
-
-Filled with tongue-in-cheek humor and moments of heartfelt emotion, Gintama's fourth season finds Gintoki and his friends facing both their most hilarious misadventures and most dangerous crises yet.
+Hitching a ride on Sakamoto's space ship, the Yorozuya and Katsura set out for Rakuyou, Kagura's home planet, where the various factions have gathered and tensions are brewing. Long-held grudges, political infighting, and the Tendoushuu's sinister overarching plan finally culminate into a massive, decisive battle on Rakuyou.
 
 (Source: MAL Rewrite)

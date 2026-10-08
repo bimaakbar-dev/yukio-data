@@ -1,22 +1,12 @@
 [
   {
     "relation": "prequel",
-    "slug": "gintama-enchousen",
-    "title": "Gintama': Enchousen"
-  },
-  {
-    "relation": "side_story",
-    "slug": "gintama-umai-mono-wa-atomawashi-ni-suru-to-yokodorisareru-kara-yappari-saki-ni-kue",
-    "title": "Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue"
-  },
-  {
-    "relation": "side_story",
-    "slug": "gintama-aizome-kaori-hen",
-    "title": "Gintama°: Aizome Kaori-hen"
+    "slug": "gintama",
+    "title": "Gintama°"
   },
   {
     "relation": "sequel",
-    "slug": "gintama",
-    "title": "Gintama."
+    "slug": "gintama-porori-hen",
+    "title": "Gintama. Porori-hen"
   }
 ]
