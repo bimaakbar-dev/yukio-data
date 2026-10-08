@@ -1,0 +1,303 @@
+[
+  {
+    "name": "Akira Fudou",
+    "nameNative": "不動明",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2456-rTjIXMLPHTu2.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Miki Makimura",
+    "nameNative": "牧村美樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7968-te8U6niaAoKk.png",
+    "role": "main",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Ryo Asuka",
+    "nameNative": "飛鳥了",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4092-63yxC7cCrWke.png",
+    "role": "main",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Agwell",
+    "nameNative": "アグウェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/74617.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shirokuma"
+    ]
+  },
+  {
+    "name": "Akiko Makimura",
+    "nameNative": "牧村亜樹子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232959-bwjLoY7HAQy3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-kobayashi"
+    ]
+  },
+  {
+    "name": "Amon",
+    "nameNative": "アモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7972-ro7f4Rjp7Bll.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Babo",
+    "nameNative": "バボ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124942-Hlw2goXjX8Uv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hannya"
+    ]
+  },
+  {
+    "name": "Gabi",
+    "nameNative": "ガビ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124951-Z47U8coImkBG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "subaru-kimura"
+    ]
+  },
+  {
+    "name": "Gelmar",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18591-cVL12kCapiyJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masao-komaya"
+    ]
+  },
+  {
+    "name": "Hie",
+    "nameNative": "ヒエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124954-SXOVocZV86dU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "afra"
+    ]
+  },
+  {
+    "name": "Jinmen",
+    "nameNative": "ジンメン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18592-bJ0uhY8d7VLT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-hirose"
+    ]
+  },
+  {
+    "name": "Kaim",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b74856-crYRRMZDlXfj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Kaori Fudou",
+    "nameNative": "不動香織",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232957-a3TcuejGthho.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chie-nakamura"
+    ]
+  },
+  {
+    "name": "Koji Nagasaki",
+    "nameNative": "長崎光司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124947-0M5vphN498FI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Kouzou Rainuma",
+    "nameNative": "雷沼耕造",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327284-M2ItJLM1UZK7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-takahashi"
+    ]
+  },
+  {
+    "name": "Kudou",
+    "nameNative": "クドウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232965-VDwX8CKZwiYq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-nakatsukasa"
+    ]
+  },
+  {
+    "name": "Kukun",
+    "nameNative": "ククン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124952-FPiacv4lGIE1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "young-dais"
+    ]
+  },
+  {
+    "name": "Miki Kuroda",
+    "nameNative": "黒田ミキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7971-mjwR42qPcQ5N.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Moyuru Koda",
+    "nameNative": "幸田燃寛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124958-Ins5vUvxPuCK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junya-hirano"
+    ]
+  },
+  {
+    "name": "Noel Makimura",
+    "nameNative": "牧村ノエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232961-0wrbKVDKpAGv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masato-obara"
+    ]
+  },
+  {
+    "name": "Professor Fikira",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124945-BdjdivVY2Y0X.png",
+    "role": "supporting",
+    "voiceActors": [
+      "anatoli-krasnov"
+    ]
+  },
+  {
+    "name": "Psycho Jenny",
+    "nameNative": "サイコジェニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7966-nh5ZbkAioYaz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-takato"
+    ]
+  },
+  {
+    "name": "Reijirou Fudou",
+    "nameNative": "不動礼次郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232962-3J7QdFGP4nfc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-kirimoto"
+    ]
+  },
+  {
+    "name": "Sachiko",
+    "nameNative": "サッちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327287-hAxB7l4cgBMq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nami-miyahara"
+    ]
+  },
+  {
+    "name": "Silene",
+    "nameNative": "シレーヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18590-uSU2YjJWxWgJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Sumi",
+    "nameNative": "受美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232958-hvvS2QwEkkRW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "michiyo-murase"
+    ]
+  },
+  {
+    "name": "Takahama",
+    "nameNative": "タカハマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232964-cNl6bRH8SDcO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "soushirou-hori"
+    ]
+  },
+  {
+    "name": "Tako",
+    "nameNative": "ターコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124960-kIo6HDkouWAl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Tare Makimura",
+    "nameNative": "村健タレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7967-EytwuXK0gbru.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-inagawa"
+    ]
+  },
+  {
+    "name": "Track Coach",
+    "nameNative": "トラックコーチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327286-l6b4aZfffMqo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichiro-uchida"
+    ]
+  },
+  {
+    "name": "Wamu",
+    "nameNative": "ワム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124949-dpKhGAqD3h0A.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-sakuma"
+    ]
+  },
+  {
+    "name": "Web Producer",
+    "nameNative": "ウェブプロデューサー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232963-bkbWjXSQXhmD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "osamu-taira"
+    ]
+  },
+  {
+    "name": "Zay",
+    "nameNative": "ゼイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232960-XADmJnju5LdB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "avu-chan"
+    ]
+  },
+  {
+    "name": "Zenon",
+    "nameNative": "ゼノン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18593-dXelacQtcb7V.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "avu-chan"
+    ]
+  }
+]
