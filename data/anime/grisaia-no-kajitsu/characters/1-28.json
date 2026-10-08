@@ -1,0 +1,253 @@
+[
+  {
+    "name": "Amane Suou",
+    "nameNative": "周防天音",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80899-TzrealvmrLxH.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroko-taguchi"
+    ]
+  },
+  {
+    "name": "Makina Irisu",
+    "nameNative": "入巣蒔莱",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n80893-qYexb8DbTG0E.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomoe-tamiyasu"
+    ]
+  },
+  {
+    "name": "Michiru Matsushima",
+    "nameNative": "松嶋みちる",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n80897-psxA0eW0jAsb.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kaori-mizuhashi"
+    ]
+  },
+  {
+    "name": "Sachi Komine",
+    "nameNative": "小嶺幸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80895-ER8FPmnwhR1h.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-shimizu"
+    ]
+  },
+  {
+    "name": "Yumiko Sakaki",
+    "nameNative": "榊由美子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80257-pelmvGBeCiNm.png",
+    "role": "main",
+    "voiceActors": [
+      "ryouko-tanaka"
+    ]
+  },
+  {
+    "name": "Yuuji Kazami",
+    "nameNative": "風見雄二",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n80891-WesKQmQEVJ5n.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai",
+      "ayaka-suwa"
+    ]
+  },
+  {
+    "name": "Chiaki Sakashita",
+    "nameNative": "坂下千秋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248875-RFrS8DJpFBbx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuko-funasaka"
+    ]
+  },
+  {
+    "name": "Chizuru Tachibana",
+    "nameNative": "橘千鶴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88521.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-yanase"
+    ]
+  },
+  {
+    "name": "Haruna Ibuki",
+    "nameNative": "伊吹春菜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248883-8gxRaXjhs1mS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akane-tsukigase"
+    ]
+  },
+  {
+    "name": "Kazuki Kazami",
+    "nameNative": "風見一姫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88371-2HVAuje0JpyN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akane-tomonaga"
+    ]
+  },
+  {
+    "name": "Keiji Sakashita",
+    "nameNative": "坂下圭司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248917-02HpaUsuDff4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junpei-asahina"
+    ]
+  },
+  {
+    "name": "Kiara Farrell",
+    "nameNative": "キアラ・ファレル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248821-CVvyEEfKA9z7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akane-tsukigase"
+    ]
+  },
+  {
+    "name": "Kiyoka Irisu",
+    "nameNative": "入巣清夏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248825-hfZh37mOZ20e.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-yaguchi"
+    ]
+  },
+  {
+    "name": "Masataka Irisu",
+    "nameNative": "入巣正孝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248826-qj8dcr7bdAWF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuichi-kijima"
+    ]
+  },
+  {
+    "name": "Megumi Komori",
+    "nameNative": "古森めぐみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248881-7LUKsZ3eKHOu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minaho-matsudaira"
+    ]
+  },
+  {
+    "name": "Michiaki Sakaki",
+    "nameNative": "榊道昭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248740-D31KJL62RIr6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eizou-tsuda"
+    ]
+  },
+  {
+    "name": "Mifuyu Sakurai",
+    "nameNative": "桜井美冬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248885-8WmftgICfyqZ.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Minori Sakuma",
+    "nameNative": "佐久間みのり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248879-GwpskxB5LACl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-kaneko"
+    ]
+  },
+  {
+    "name": "Misako Sakaki",
+    "nameNative": "榊美佐子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248741-BRfnQHALs1ea.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mii-kobayashi"
+    ]
+  },
+  {
+    "name": "Nyanmel",
+    "nameNative": "ニャンメル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248509-itpCLvlFxG4Z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-suzuki"
+    ]
+  },
+  {
+    "name": "Ritsu Koide",
+    "nameNative": "小出葎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248876-j070yipvnW9x.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mii-kobayashi"
+    ]
+  },
+  {
+    "name": "Saaya Kaneda",
+    "nameNative": "金田沙彩",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248882-8C6xPBYtk8r7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuzuki-asakura"
+    ]
+  },
+  {
+    "name": "Sachi no Chichi",
+    "nameNative": "幸の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248759-ONrcRsG8Jju6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junji-majima"
+    ]
+  },
+  {
+    "name": "Sachi no Haha",
+    "nameNative": "幸の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248760-r6A36oWgRNdm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuzuki-asakura"
+    ]
+  },
+  {
+    "name": "Shoujo",
+    "nameNative": "少女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248735-VIokuFnBWfWG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuzuki-asakura"
+    ]
+  },
+  {
+    "name": "Tamaki Hirooka",
+    "nameNative": "広岡たまき",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248884-G63K8mwPfUUV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuko-funasaka"
+    ]
+  },
+  {
+    "name": "Yoshihiko Ochi",
+    "nameNative": "越智義彦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248874-UgvBnjIYngy8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouhei-mitoma"
+    ]
+  },
+  {
+    "name": "Yuria Harudera",
+    "nameNative": "春寺由梨亜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132553-RUyzMUGl4fDf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "erika-narumi"
+    ]
+  }
+]
