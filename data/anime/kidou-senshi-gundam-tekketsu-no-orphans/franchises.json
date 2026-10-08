@@ -1,0 +1,27 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "kidou-senshi-gundam",
+    "title": "Kidou Senshi Gundam"
+  },
+  {
+    "relation": "sequel",
+    "slug": "kidou-senshi-gundam-tekketsu-no-orphans-2nd-season",
+    "title": "Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season"
+  },
+  {
+    "relation": "summary",
+    "slug": "kidou-senshi-gundam-tekketsu-no-orphans-tokubetsu-hen",
+    "title": "Kidou Senshi Gundam: Tekketsu no Orphans - Tokubetsu-hen"
+  },
+  {
+    "relation": "alternative",
+    "slug": "kidou-senshi-gundam-tekketsu-no-orphans-urdr-hunt-chiisana-chousensha-no-kiseki",
+    "title": "Kidou Senshi Gundam: Tekketsu no Orphans - Urdr Hunt: Chiisana Chousensha no Kiseki"
+  },
+  {
+    "relation": "other",
+    "slug": "kidou-senshi-gundam-tekketsu-no-orphans-makuai-no-kusabi",
+    "title": "Kidou Senshi Gundam: Tekketsu no Orphans - Makuai no Kusabi"
+  }
+]
