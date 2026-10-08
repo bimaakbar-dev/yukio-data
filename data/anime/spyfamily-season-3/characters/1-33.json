@@ -1,0 +1,300 @@
+[
+  {
+    "name": "Anya Forger",
+    "nameNative": "アーニャ・フォージャー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138100-4Li0tWRCa5bQ.png",
+    "role": "main",
+    "voiceActors": [
+      "atsumi-tanezaki"
+    ]
+  },
+  {
+    "name": "Bond",
+    "nameNative": "ボンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169679-EFPubVtZFYom.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Loid Forger",
+    "nameNative": "ロイド・フォージャー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png",
+    "role": "main",
+    "voiceActors": [
+      "takuya-eguchi",
+      "minami-tsuda"
+    ]
+  },
+  {
+    "name": "Yor Forger",
+    "nameNative": "ヨル・フォージャー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138102-ZOAu9jI2d5ke.png",
+    "role": "main",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Becky Blackbell",
+    "nameNative": "ベッキー・ブラックベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150423-RxXwrHzeLCss.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  },
+  {
+    "name": "Becky no Chichi",
+    "nameNative": "ベッキーの 父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294503-esqhsK5loh9e.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shoumaru-zouza"
+    ]
+  },
+  {
+    "name": "Bill Watkins",
+    "nameNative": "ビル・ワトキンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278821-yK2ulLgK3KEM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Billy Squire",
+    "nameNative": "ビリー・スクワイア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b381151-leeqWof3X83A.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takanori-hoshino"
+    ]
+  },
+  {
+    "name": "Burns",
+    "nameNative": "バーンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278137-viNMSOVmQulG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masafumi-kobatake"
+    ]
+  },
+  {
+    "name": "Camilla",
+    "nameNative": "カミラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180191-N9bunu7GiTFy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "umeka-shouji"
+    ]
+  },
+  {
+    "name": "Chadwick Curtis",
+    "nameNative": "チャドウィック・カーティス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b279677-VeVumWIwfdFi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuyuki-kase"
+    ]
+  },
+  {
+    "name": "Chloe",
+    "nameNative": "クロエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b380451-OGvYu8nqbtX8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayumi-suzushiro"
+    ]
+  },
+  {
+    "name": "Damian Desmond",
+    "nameNative": "ダミアン・デズモンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150424-4B4psF6I4dgO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-fujiwara"
+    ]
+  },
+  {
+    "name": "Emile Elman",
+    "nameNative": "エミールぅ・エルマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213882-BoEgxd5783eU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-satou"
+    ]
+  },
+  {
+    "name": "Ewen Egeburg",
+    "nameNative": "ユーイン・エッジバーグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213881-NrUwR51qHdkV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-okamura"
+    ]
+  },
+  {
+    "name": "Fiona Frost",
+    "nameNative": "フィオナ・フロスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184936-kVn06kjZly6H.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Franky Franklin",
+    "nameNative": "フランキー・フランクリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157888-zkSfIT5Z8y2S.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Garden Tenchou",
+    "nameNative": "〈ガーデン〉店長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270961-npwGDaryVj6Q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Gascoigne",
+    "nameNative": "ガスコイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383163-SgsXDXbxjvyR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuguo-mogami"
+    ]
+  },
+  {
+    "name": "George Glooman",
+    "nameNative": "ジョージ・グルーマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291621-A88lxV8BEuxM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shun-horie"
+    ]
+  },
+  {
+    "name": "Gerald Gorey",
+    "nameNative": "ジェラルド・ゴーリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b379535-ZbJCHOo9Nu1b.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Green",
+    "nameNative": "グリーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317159-AQN1zvCdkNXS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shirokuma"
+    ]
+  },
+  {
+    "name": "Henry Henderson",
+    "nameNative": "ヘンリー・ヘンダーソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180190-iQqPtTS182Et.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-yamaji"
+    ]
+  },
+  {
+    "name": "Martha Marriott",
+    "nameNative": "マーサ・マリオット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294502-iSk811rhZUvV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-tsuda"
+    ]
+  },
+  {
+    "name": "Melinda Desmond",
+    "nameNative": "メリンダ・デズモンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283261-JCYooCIDe0Dq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Millie",
+    "nameNative": "ミリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270958-JAs5Jdh7vmDu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Sharon",
+    "nameNative": "シャロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270959-HVflw5p1KQb5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mirei-kumagai"
+    ]
+  },
+  {
+    "name": "Sylvia Sherwood",
+    "nameNative": "シルヴィア・シャーウッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157887-P66pD0ilpmtZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Vadim",
+    "nameNative": "バヅム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b381153-lwcXtjH2aUzo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masafumi-kobatake"
+    ]
+  },
+  {
+    "name": "Winston Wheeler",
+    "nameNative": "ウィンストン・ウィーラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b383162-vf1lW8i8WBku.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "WISE Kikanin",
+    "nameNative": "<WISE> 機関員",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293860-2TdtCUGpuQY2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-gotou"
+    ]
+  },
+  {
+    "name": "Wyman Wilker",
+    "nameNative": "ワイマン・ウィルカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b279678-Q59PfmCFihrW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jirou-saitou"
+    ]
+  },
+  {
+    "name": "Yuuri Briar",
+    "nameNative": "ユーリ・ブライア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150425-mP852peLh9eS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenshou-ono"
+    ]
+  }
+]
