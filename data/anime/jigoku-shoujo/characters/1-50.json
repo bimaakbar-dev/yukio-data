@@ -1,0 +1,444 @@
+[
+  {
+    "name": "Ai Enma",
+    "nameNative": "閻魔あい",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1789-8RLKp57peoIK.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Hajime Shibata",
+    "nameNative": "柴田一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4065.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Hone Onna",
+    "nameNative": "骨女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1791.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takako-honda"
+    ]
+  },
+  {
+    "name": "Ren Ichimoku",
+    "nameNative": "一目連",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1790.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masaya-matsukaze"
+    ]
+  },
+  {
+    "name": "Tsugumi Shibata",
+    "nameNative": "柴田つぐみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4066.jpg",
+    "role": "main",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "Wanyuudou",
+    "nameNative": "輪入道",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1792.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takayuki-sugou"
+    ]
+  },
+  {
+    "name": "Ai's Father",
+    "nameNative": "あいの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79313.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kunihiro-kawamoto"
+    ]
+  },
+  {
+    "name": "Ai's Grandmother",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40001-0rQrYIvTj7gm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eriko-matsushima"
+    ]
+  },
+  {
+    "name": "Ai's Mother",
+    "nameNative": "あいの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79315.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuri-amano"
+    ]
+  },
+  {
+    "name": "Akane Sawai",
+    "nameNative": "沢井 茜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79247.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-tanaka"
+    ]
+  },
+  {
+    "name": "Aki Abe",
+    "nameNative": "阿部 亜紀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79295.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-orikasa"
+    ]
+  },
+  {
+    "name": "Aya Kuroda",
+    "nameNative": "黒田亜矢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29368.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-kawakami"
+    ]
+  },
+  {
+    "name": "Ayaka Kurenai",
+    "nameNative": "紅 彩香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51043.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Ayumi Ogawa",
+    "nameNative": "小川（柴田）あゆみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79307.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-nabatame"
+    ]
+  },
+  {
+    "name": "Azusa",
+    "nameNative": "アズサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79229.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-hayasaka"
+    ]
+  },
+  {
+    "name": "Café Owner",
+    "nameNative": "喫茶店のマスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79215.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-ono"
+    ]
+  },
+  {
+    "name": "Chie Tanuma",
+    "nameNative": "田沼 千恵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79211.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-matsuoka"
+    ]
+  },
+  {
+    "name": "Circus Director",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79273.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Clown",
+    "nameNative": "ピエロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79277.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kunihiro-kawamoto"
+    ]
+  },
+  {
+    "name": "Daisuke Iwashita",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18924.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Detective Akimoto",
+    "nameNative": "秋元刑事",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79181.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-naruse"
+    ]
+  },
+  {
+    "name": "Detective Kisaragi",
+    "nameNative": "如月刑事",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79177.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-ichijou"
+    ]
+  },
+  {
+    "name": "Ebisu-sensei",
+    "nameNative": "恵比寿先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79223.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kunihiro-kawamoto"
+    ]
+  },
+  {
+    "name": "Egurodo's Owner",
+    "nameNative": "江黒",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79255.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chafuurin"
+    ]
+  },
+  {
+    "name": "Esper☆ Watanabe",
+    "nameNative": "エスパー☆ワタナベ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79293.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Father Iwashita",
+    "nameNative": "岩下の父親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79185.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-tsuruoka"
+    ]
+  },
+  {
+    "name": "Father Muroi",
+    "nameNative": "室井の父親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79191.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-sugino"
+    ]
+  },
+  {
+    "name": "Fujie Minato",
+    "nameNative": "湊藤江",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44051.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akemi-okamura"
+    ]
+  },
+  {
+    "name": "Fukumoto",
+    "nameNative": "福元",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79249.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shirou-saitou"
+    ]
+  },
+  {
+    "name": "Gil De L'Enfer",
+    "nameNative": "ジル･ドゥ･ロンフェール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12385.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Goro Ishizu",
+    "nameNative": "石津 吾郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79209.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Goro Suetsugu",
+    "nameNative": "末次 吾朗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79305.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-imaruoka"
+    ]
+  },
+  {
+    "name": "Haruka Yasuda",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6490.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Haruki Kirino",
+    "nameNative": "桐野 春樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79261.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Hideo Yasuda",
+    "nameNative": "安田 秀雄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79193.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-imaruoka"
+    ]
+  },
+  {
+    "name": "Hiromi Kasuga",
+    "nameNative": "春日 弘美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79221.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misa-kobayashi"
+    ]
+  },
+  {
+    "name": "Iijima",
+    "nameNative": "飯嶋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79297.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Inko",
+    "nameNative": "インコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79257.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-koorogi"
+    ]
+  },
+  {
+    "name": "Inori Ujie",
+    "nameNative": "氏家祈里",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67165.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Junko Kanno",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18922.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-arai"
+    ]
+  },
+  {
+    "name": "Kanako Sakuragi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18799.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Kaoruko Kurushima",
+    "nameNative": "来島 薫子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79207.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Kato-sensei",
+    "nameNative": "加藤先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78713.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Keiko Yasuda",
+    "nameNative": "安田景子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/56769.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Koukichi",
+    "nameNative": "耕吉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79317.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Kyougetsu Ujie",
+    "nameNative": "氏家 鏡月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79289.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-ichijou"
+    ]
+  },
+  {
+    "name": "Mamoru Hanagasa",
+    "nameNative": "花笠守",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10322.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriaki-sugiyama"
+    ]
+  },
+  {
+    "name": "Masami Sekimoto",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29485.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouka-yuzuki"
+    ]
+  },
+  {
+    "name": "Masaya Kataoka",
+    "nameNative": "片岡 雅哉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79227.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Mayumi Hashimoto",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18923.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  }
+]
