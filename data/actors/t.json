@@ -776,6 +776,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "tomohiru-masui",
+    "name": "Tomohiru Masui",
+    "nameNative": "増井智宏",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n407360-3kqihmkxDMKZ.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "tomohisa-asou",
     "name": "Tomohisa Asou",
     "nameNative": "麻生智久",
@@ -829,6 +836,13 @@
     "name": "Tomoko Shiota",
     "nameNative": "塩田朋子",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/14193.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "tomoko-usami",
+    "name": "Tomoko Usami",
+    "nameNative": "うさみともこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n407359-duuxfIZqPdcG.jpg",
     "defaultLanguage": "Japanese"
   },
   {
