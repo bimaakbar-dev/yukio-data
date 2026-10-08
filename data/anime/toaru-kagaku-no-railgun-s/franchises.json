@@ -1,0 +1,32 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "toaru-majutsu-no-index",
+    "title": "Toaru Majutsu no Index"
+  },
+  {
+    "relation": "prequel",
+    "slug": "toaru-kagaku-no-railgun",
+    "title": "Toaru Kagaku no Railgun"
+  },
+  {
+    "relation": "other",
+    "slug": "ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-x-toaru-majutsu-no-index-movie-endymion-no-kiseki-kokuchi-eizou",
+    "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai x Toaru Majutsu no Index Movie: Endymion no Kiseki - Kokuchi Eizou"
+  },
+  {
+    "relation": "spin_off",
+    "slug": "toaru-kagaku-no-railgun-s-motto-marutto-railgun",
+    "title": "Toaru Kagaku no Railgun S: Motto Marutto Railgun"
+  },
+  {
+    "relation": "other",
+    "slug": "toaru-kagaku-no-railgun-s-daiji-na-koto-wa-zenbu-sentou-ni-osowatta",
+    "title": "Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta"
+  },
+  {
+    "relation": "sequel",
+    "slug": "toaru-kagaku-no-railgun-t",
+    "title": "Toaru Kagaku no Railgun T"
+  }
+]
