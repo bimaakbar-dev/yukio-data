@@ -1,12 +1,22 @@
 [
   {
-    "relation": "sequel",
+    "relation": "prequel",
     "slug": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen",
-    "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen"
+    "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
   },
   {
     "relation": "other",
     "slug": "he-wei-dao-x-hui-yeda-xiaojie-xiangyao-wo-gaobai",
     "title": "He Wei Dao x Hui Yeda Xiaojie Xiangyao Wo Gaobai"
+  },
+  {
+    "relation": "side_story",
+    "slug": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-ova",
+    "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA"
+  },
+  {
+    "relation": "sequel",
+    "slug": "kaguya-sama-wa-kokurasetai-ultra-romantic",
+    "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic"
   }
 ]
