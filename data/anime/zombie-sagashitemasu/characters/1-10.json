@@ -1,92 +1,92 @@
 [
   {
     "name": "Aki",
+    "nameNative": "アキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296831-OysMQxCaV7wD.jpg",
     "role": "main",
     "voiceActors": [
       "miyari-nemoto"
-    ],
-    "nameNative": "アキ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296831-OysMQxCaV7wD.jpg"
-  },
-  {
-    "name": "Natsuki",
-    "role": "supporting",
-    "voiceActors": [
-      "lynn"
-    ],
-    "nameNative": "ナツキ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296832-r1gubYhUEHgl.jpg"
-  },
-  {
-    "name": "Haru",
-    "role": "supporting",
-    "voiceActors": [
-      "toshiya-miyata"
-    ],
-    "nameNative": "ハル",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296833-h0RJTHGXmXss.jpg"
-  },
-  {
-    "name": "Yuu",
-    "role": "supporting",
-    "voiceActors": [
-      "hibiku-yamamura"
-    ],
-    "nameNative": "ユウ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296834-3r4qNolNBil4.jpg"
-  },
-  {
-    "name": "Sakura",
-    "role": "supporting",
-    "voiceActors": [
-      "yuka-nukui"
-    ],
-    "nameNative": "サクラ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296835-ukzw2qr9WVSm.jpg"
-  },
-  {
-    "name": "Mikazuki",
-    "role": "supporting",
-    "voiceActors": [
-      "youko-hikasa"
-    ],
-    "nameNative": "ミカヅキ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408665-RyHaNEa3BNap.jpg"
-  },
-  {
-    "name": "Saigo",
-    "role": "supporting",
-    "voiceActors": [
-      "aino-shimada"
-    ],
-    "nameNative": "サイゴ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408666-TWF94AsybnR8.jpg"
-  },
-  {
-    "name": "Touka",
-    "role": "supporting",
-    "voiceActors": [
-      "makoto-koichi"
-    ],
-    "nameNative": "トウカ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408667-kkbUt3f1SYx4.jpg"
-  },
-  {
-    "name": "Takamo",
-    "role": "supporting",
-    "voiceActors": [
-      "tomoyo-takayanagi"
-    ],
-    "nameNative": "タカモ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408668-MzN3IwF7xWJz.jpg"
+    ]
   },
   {
     "name": "Aki no Chichi",
+    "nameNative": "アキの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
     "role": "supporting",
     "voiceActors": [
       "kousuke-toriumi"
-    ],
-    "nameNative": "アキの父",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+    ]
+  },
+  {
+    "name": "Haru",
+    "nameNative": "ハル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296833-h0RJTHGXmXss.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiya-miyata"
+    ]
+  },
+  {
+    "name": "Mikazuki",
+    "nameNative": "ミカヅキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408665-RyHaNEa3BNap.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Natsuki",
+    "nameNative": "ナツキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296832-r1gubYhUEHgl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "lynn"
+    ]
+  },
+  {
+    "name": "Saigo",
+    "nameNative": "サイゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408666-TWF94AsybnR8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aino-shimada"
+    ]
+  },
+  {
+    "name": "Sakura",
+    "nameNative": "サクラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296835-ukzw2qr9WVSm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-nukui"
+    ]
+  },
+  {
+    "name": "Takamo",
+    "nameNative": "タカモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408668-MzN3IwF7xWJz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyo-takayanagi"
+    ]
+  },
+  {
+    "name": "Touka",
+    "nameNative": "トウカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408667-kkbUt3f1SYx4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-koichi"
+    ]
+  },
+  {
+    "name": "Yuu",
+    "nameNative": "ユウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296834-3r4qNolNBil4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hibiku-yamamura"
+    ]
   }
 ]
