@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Boogiepop",
+    "nameNative": "ブギーポップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2598-LYTKwsCd09WL.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Nagi Kirima",
+    "nameNative": "霧間凪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2608-EWos7RrSvUvx.jpg",
+    "role": "main",
+    "voiceActors": [
+      "saori-oonishi"
+    ]
+  },
+  {
+    "name": "Touka Miyashita",
+    "nameNative": "宮下藤花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2609-XXNfaCh29HHs.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Aya Orihata",
+    "nameNative": "織機綺",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40330-7GjOdneY2C7O.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ichinose"
+    ]
+  },
+  {
+    "name": "Echoes",
+    "nameNative": "エコーズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n133506-2I1sQwWlrvo4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-miyata"
+    ]
+  },
+  {
+    "name": "Gen Sakakibara",
+    "nameNative": "榊原弦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136565-K0vBQhhjnub0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-takeuchi"
+    ]
+  },
+  {
+    "name": "Jin Asukai",
+    "nameNative": "飛鳥井仁",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134391-ZaiVZqVRm04f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimasa-hosoya",
+      "hana-satou"
+    ]
+  },
+  {
+    "name": "Kazuko Suema",
+    "nameNative": "末真和子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2610-KU1PnG6wrpdm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reina-kondou"
+    ]
+  },
+  {
+    "name": "Kei Niitoki",
+    "nameNative": "新刻 敬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n133503-ZHMvkO40ly2b.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shino-shimoji"
+    ]
+  },
+  {
+    "name": "Keiji Takeda",
+    "nameNative": "竹田 啓司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n133504-qossyjTASSKz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-kobayashi"
+    ]
+  },
+  {
+    "name": "Kotoe Kinugawa",
+    "nameNative": "衣川琴絵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134393-5POnaBVTyY7D.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-asumi"
+    ]
+  },
+  {
+    "name": "Makiko Kisugi",
+    "nameNative": "来生真紀子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136561-fFwKYs8MxRoM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-kinoshita"
+    ]
+  },
+  {
+    "name": "Masaki Taniguchi",
+    "nameNative": "谷口正樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134395-582BbkZDK0YH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taku-yashiro"
+    ]
+  },
+  {
+    "name": "Masami Saotome",
+    "nameNative": "早乙女正美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2815-G13JNjghvRKp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Masanori Sasaki",
+    "nameNative": "佐々木政則",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136564-7aK8VoJpJ6LG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shuuhei-sakaguchi"
+    ]
+  },
+  {
+    "name": "Minako Yurihara",
+    "nameNative": "マンティコア・ファントム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n68019-YjNEHVQ2Dxlq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayana-taketatsu"
+    ]
+  },
+  {
+    "name": "Naoko Kamikishiro",
+    "nameNative": "紙木城 直子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n75576-gfigGli3E1Jp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-suwa"
+    ]
+  },
+  {
+    "name": "Pigeon",
+    "nameNative": "ピジョン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136563-MfHQRIXgA1DC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Seiichi Kirima",
+    "nameNative": "霧間誠一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136562-y9Z4BAtRteyt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinji-kawada"
+    ]
+  },
+  {
+    "name": "Shinjirou Annou",
+    "nameNative": "安能 慎二郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n134383-mHCXVFg3M2dT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiaki-hasegawa"
+    ]
+  },
+  {
+    "name": "Shinpei Kuroda",
+    "nameNative": "黒田慎平",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25743-XHZEWdOfKuWZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-miyauchi"
+    ]
+  },
+  {
+    "name": "Spooky E",
+    "nameNative": "スプーキーE",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134394-wjcfDna71rPC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youji-ueda"
+    ]
+  },
+  {
+    "name": "Suiko Minahoshi",
+    "nameNative": "水乃星透子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34922-FQYvx0WHmiqY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Tanaka Shirou",
+    "nameNative": "田中志郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157038-RpnP7G9kwmxz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-ichikawa"
+    ]
+  }
+]
