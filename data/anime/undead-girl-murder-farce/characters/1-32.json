@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Aya Rindou",
+    "nameNative": "輪堂鴉夜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301052-dCPTkqyRenCn.png",
+    "role": "main",
+    "voiceActors": [
+      "tomoyo-kurosawa"
+    ]
+  },
+  {
+    "name": "Shizuku Hasei",
+    "nameNative": "馳井静句",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301054-XYDRUzsZlViK.png",
+    "role": "main",
+    "voiceActors": [
+      "makoto-koichi"
+    ]
+  },
+  {
+    "name": "Tsugaru Shinuchi",
+    "nameNative": "真打津軽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301053-cBSSf5rlEO5B.jpg",
+    "role": "main",
+    "voiceActors": [
+      "taku-yashiro"
+    ]
+  },
+  {
+    "name": "Aleister Crowley",
+    "nameNative": "アレイスター・クロウリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309182-edBJwTGJrrON.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Alfred",
+    "nameNative": "アルフレッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311575-H58uXePINhou.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-nishizawa"
+    ]
+  },
+  {
+    "name": "Alice Rapidshot",
+    "nameNative": "アリス・ラピッドショット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313762-Cvy4H8ZGgCA7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-asai"
+    ]
+  },
+  {
+    "name": "Alma",
+    "nameNative": "アルマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313761-o03Q9vQkoHVo.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-nabatame"
+    ]
+  },
+  {
+    "name": "Annie Kerber",
+    "nameNative": "アニー・ケルベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304086-4LS58axtO9xD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayumi-suzushiro"
+    ]
+  },
+  {
+    "name": "Arsene Lupin",
+    "nameNative": "アルセーヌ・ルパン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305041-xerpRGhgqrJi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Carmilla",
+    "nameNative": "カーミラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309183-NhJq5d0h4DNb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reina-kondou"
+    ]
+  },
+  {
+    "name": "Charlotte Godard",
+    "nameNative": "シャルロッテ・ゴダール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311571-YouJpD9S8tht.png",
+    "role": "supporting",
+    "voiceActors": [
+      "afumi-hashi"
+    ]
+  },
+  {
+    "name": "Claude Godard",
+    "nameNative": "クロード・ゴダール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311573-XSJBswrLcFOR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hirofumi-nojima"
+    ]
+  },
+  {
+    "name": "Fatima Doubledarts",
+    "nameNative": "ファティマ・ダブルダーツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311584-YHyp47MIVkJT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sara-matsumoto"
+    ]
+  },
+  {
+    "name": "Ganimard",
+    "nameNative": "ガニマール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311583-2GYxamLm5kZ2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousei-hirota"
+    ]
+  },
+  {
+    "name": "Giselle",
+    "nameNative": "ジゼル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311576-CHFhTTBXMG2I.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-fukada"
+    ]
+  },
+  {
+    "name": "Jack the Ripper",
+    "nameNative": "切り裂きジャック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309202-0GiQHJcYFydn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "souma-saitou"
+    ]
+  },
+  {
+    "name": "James Moriarty",
+    "nameNative": "ジェームズ・モリアーティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309205-GjxHVAVvuKL5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-yokojima"
+    ]
+  },
+  {
+    "name": "Jean Duchet Godard",
+    "nameNative": "ジャン・ドゥーシュ・ゴダール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311570-pmzNSYb09MF0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-kinoshita"
+    ]
+  },
+  {
+    "name": "John Watson",
+    "nameNative": "ジョン・H・ワトソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305040-9Gya0GjMadQJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-aizawa"
+    ]
+  },
+  {
+    "name": "Kaya",
+    "nameNative": "カーヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309206-PvJUciNvthyZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saima-nakano"
+    ]
+  },
+  {
+    "name": "Kyle Chaintail",
+    "nameNative": "カイル・チェンテール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313760-8QoZRK0NfMFf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sou-nozawa"
+    ]
+  },
+  {
+    "name": "Lestrade",
+    "nameNative": "レストレード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311582-FvYhxrRlMkgM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taiten-kusunoki"
+    ]
+  },
+  {
+    "name": "Mark",
+    "nameNative": "マルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311572-o3Le6wZm3SOJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houfu-mitsuru"
+    ]
+  },
+  {
+    "name": "Nora",
+    "nameNative": "ノラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309208-uwdDoTGh4Zt0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Passepartout",
+    "nameNative": "パスパルトゥー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311581-Rs7fultn9O8J.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenari-ugaki"
+    ]
+  },
+  {
+    "name": "Phantom",
+    "nameNative": "ファントム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309207-9emsKfCMQRMl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Phileas Fogg",
+    "nameNative": "フィリアス・フォッグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311580-IlsMcRzhAiCG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideaki-tezuka"
+    ]
+  },
+  {
+    "name": "Raoul Godard",
+    "nameNative": "ラウール・ゴダール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311574-1xSjg3E5bkJF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouya-chiba"
+    ]
+  },
+  {
+    "name": "Reynold Stingheart",
+    "nameNative": "レイノルド・スティングハート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311579-rM0Z37zahLBG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-kamio"
+    ]
+  },
+  {
+    "name": "Sherlock Holmes",
+    "nameNative": "シャーロック・ホームズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305039-VFpWef4YGbNA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Vera",
+    "nameNative": "ヴェラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309203-8CegZqb35mD6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumiri-hanamori"
+    ]
+  },
+  {
+    "name": "Victor",
+    "nameNative": "ヴィクター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309204-ebFSBo91lDQg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "itaru-yamamoto"
+    ]
+  }
+]
