@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Dot Barrett",
+    "nameNative": "ドット・バレット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174369-VjKvYJbXLO5I.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takuya-eguchi"
+    ]
+  },
+  {
+    "name": "Finn Ames",
+    "nameNative": "フィン・エイムズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174368-tYxOTsrCDEk9.jpg",
+    "role": "main",
+    "voiceActors": [
+      "reiji-kawashima"
+    ]
+  },
+  {
+    "name": "Lance Crown",
+    "nameNative": "ランス・クラウン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172075-aOsZuM7D0bcW.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Lemon  Irvine",
+    "nameNative": "レモン・アーヴィン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167819-2pddKcJiApjD.jpg",
+    "role": "main",
+    "voiceActors": [
+      "reina-ueda"
+    ]
+  },
+  {
+    "name": "Mash Burnedead",
+    "nameNative": "マッシュ・バーンデッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158734-k8FAVIyXKdW1.jpg",
+    "role": "main",
+    "voiceActors": [
+      "chiaki-kobayashi"
+    ]
+  },
+  {
+    "name": "Abel Walker",
+    "nameNative": "アベル・ウォーカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207410-BXfkA9UGsM34.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichirou-umehara"
+    ]
+  },
+  {
+    "name": "Abyss Razor",
+    "nameNative": "アビス・レイザー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b262134-tF0VrJEteYcW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-nanami"
+    ]
+  },
+  {
+    "name": "Agito Tyrone",
+    "nameNative": "アギト・タイロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319149-hj5pSR8gBCmG.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Aorio Morris",
+    "nameNative": "アオリオ・モレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b262137-fcxWuuabzvBW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-tanabe"
+    ]
+  },
+  {
+    "name": "Bless Minister",
+    "nameNative": "ブレス・ミニスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323210-hFaP6pSiJ2H8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-naka"
+    ]
+  },
+  {
+    "name": "Brad Coleman",
+    "nameNative": "ブラッド・コールマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301976-6HGcS1C3iELi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Carpaccio Luo-Yang",
+    "nameNative": "カルパッチョ・ローヤン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215259-ZpVchb8qQeT3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Cell War",
+    "nameNative": "セル・ウォー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215260-IzG0M5dNhDhp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Cello Morceau",
+    "nameNative": "チェロロ・モルソー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323781-j7K6oPPUJyes.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hyuuga-saku"
+    ]
+  },
+  {
+    "name": "Innocent Zero",
+    "nameNative": "イノセント・ゼロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b262136-vmc8MJHetX8h.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Kaise Tsukkomi",
+    "nameNative": "カイセ・ツッコミー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323209-BDQEASqkR5qT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumiri-hanamori"
+    ]
+  },
+  {
+    "name": "Kaldo Gehenna",
+    "nameNative": "カルド・ゲヘナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b216157-BV5gcRKCoJ3k.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Leblanc Russell",
+    "nameNative": "ルブラン・ラッセル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324547-Q0lLBb1hXHt2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-sasaki"
+    ]
+  },
+  {
+    "name": "Love Cute",
+    "nameNative": "ラブ・キュート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b262142-NBHIZfNw94oM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-koga"
+    ]
+  },
+  {
+    "name": "Margarette Macaron",
+    "nameNative": "マーガレット・マカロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215258-A0t3nigiFfsF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Max Land",
+    "nameNative": "マックス・ランド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b262140-1no2sjGUfnjL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Moore Tomato",
+    "nameNative": "モア・トマト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324535-R0yUavYY33dK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuujirou-kakuda"
+    ]
+  },
+  {
+    "name": "Orter Mádl",
+    "nameNative": "オーター・マドル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264316-KBzNLTjnhkEe.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-ono"
+    ]
+  },
+  {
+    "name": "Pon Torus",
+    "nameNative": "ポン・トルス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324540-IgbnZFoguXNu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taiki-yamashita"
+    ]
+  },
+  {
+    "name": "Rain Ames",
+    "nameNative": "レイン・エイムズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202422-DNcyHSn8ICHp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Regro Burnedead",
+    "nameNative": "レグロ・バーンデッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202421-LCfDWRhioGnY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Renatus Revol",
+    "nameNative": "レナトス・リボル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b262146-OFBg195UmJuj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Ryoh Grantz",
+    "nameNative": "ライオ・グランツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301344-VtiVh42Go1LX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Sophina Biblia",
+    "nameNative": "ソフィナ・ブリビア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b262133-yfzN1X3yo1RJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Tom Knowles",
+    "nameNative": "トム・ノエルズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b262141-HzCiUz8k0njQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-komada"
+    ]
+  },
+  {
+    "name": "Tron Morceau",
+    "nameNative": "トロン・モルソー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323780-SutdVldCKGtX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taichi-kusano"
+    ]
+  },
+  {
+    "name": "Tsurara Halestone",
+    "nameNative": "ツララ・ヘイルストーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319148-aOHEmeFNJAQr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomori-kusunoki"
+    ]
+  },
+  {
+    "name": "Wahlberg Baigan",
+    "nameNative": "ウォールバーグ・バイガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202423-qQKbIoKxqWTI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito",
+      "wataru-hatano"
+    ]
+  }
+]
