@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Kakashi Hatake",
+    "nameNative": "はたけカカシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png",
+    "role": "main",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Naruto Uzumaki",
+    "nameNative": "うずまきナルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png",
+    "role": "main",
+    "voiceActors": [
+      "junko-takeuchi"
+    ]
+  },
+  {
+    "name": "Neji Hyuuga",
+    "nameNative": "日向ネジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1694-TL4obouDwJ7k.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kouichi-toochika"
+    ]
+  },
+  {
+    "name": "Rock Lee",
+    "nameNative": "ロック・リー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306-oUTOO45xInXt.png",
+    "role": "main",
+    "voiceActors": [
+      "youichi-masukawa"
+    ]
+  },
+  {
+    "name": "Sakura Haruno",
+    "nameNative": "春野サクラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png",
+    "role": "main",
+    "voiceActors": [
+      "chie-nakamura"
+    ]
+  },
+  {
+    "name": "Shion",
+    "nameNative": "紫苑",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12022.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayumi-fujimura"
+    ]
+  },
+  {
+    "name": "Chouji Akimichi",
+    "nameNative": "秋道チョウジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2008-j1oCafEGZucg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-itou"
+    ]
+  },
+  {
+    "name": "Guy Might",
+    "nameNative": "マイト・ガイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b307-xieUEdhdTVwQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-ebara"
+    ]
+  },
+  {
+    "name": "Kusuna",
+    "nameNative": "クスナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/86447.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Miroku",
+    "nameNative": "弥勒",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20672.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Setsuna",
+    "nameNative": "セツナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263093-zAAPIfdaSR09.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Shikamaru Nara",
+    "nameNative": "奈良シカマル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2007-QaesJlIZDifj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shoutarou-morikubo"
+    ]
+  },
+  {
+    "name": "Shizuku",
+    "nameNative": "シズク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31816.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Shizune",
+    "nameNative": "シズネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n4643-tnv8Gc4Uvvui.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-nemoto"
+    ]
+  },
+  {
+    "name": "Susuki",
+    "nameNative": "ススキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280840-Jg4Y1DFVYxMy.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Taruho",
+    "nameNative": "足穂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37870.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keisuke-oda"
+    ]
+  },
+  {
+    "name": "Temari",
+    "nameNative": "テマリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2174-XTX0TtzkZCnO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Tsunade Senju",
+    "nameNative": "綱手",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2767-r61Cj9v8I0wl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-katsuki"
+    ]
+  },
+  {
+    "name": "Yomi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28368.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidetoshi-nakamura"
+    ]
+  }
+]
