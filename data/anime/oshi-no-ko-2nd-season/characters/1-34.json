@@ -1,0 +1,311 @@
+[
+  {
+    "name": "Akane Kurokawa",
+    "nameNative": "黒川あかね",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203384-YuSppFDMw2wn.png",
+    "role": "main",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Aquamarine Hoshino",
+    "nameNative": "星野アクアマリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183885-HOmw8CqcJdv3.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takeo-ootsuka",
+      "yumi-uchiyama",
+      "kento-itou"
+    ]
+  },
+  {
+    "name": "Kana Arima",
+    "nameNative": "有馬かな",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188783-77orwP7vNuNg.png",
+    "role": "main",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Ruby Hoshino",
+    "nameNative": "星野ルビー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183884-iyo3BmTuhJ0l.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yurie-igoma",
+      "tomoyo-takayanagi"
+    ]
+  },
+  {
+    "name": "Abiko Samejima",
+    "nameNative": "鮫島アビ子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b237576-BxJO6g6mfKlE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Ai Hoshino",
+    "nameNative": "星野アイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172759-cccVhJ2fQA92.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Anemone Monemone",
+    "nameNative": "アネモネモネモネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282774-DPG4qTAoct1N.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Frill Shiranui",
+    "nameNative": "不知火フリル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b223871-Yg32oIQlRkwH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-seto"
+    ]
+  },
+  {
+    "name": "GOA",
+    "nameNative": "ゴア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245516-2cei7heTDOpN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Hikaru Kamiki",
+    "nameNative": "神木ひかる",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299249-r7PPoRmqqN1b.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Himura",
+    "nameNative": "日村",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295842-XVysMjLAQedC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-hirakawa"
+    ]
+  },
+  {
+    "name": "Karasu Shoujo",
+    "nameNative": "カラス少女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308806-Pfx0DfT8LKS5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hina-kino"
+    ]
+  },
+  {
+    "name": "Kengo Morimoto",
+    "nameNative": "森本ケンゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282773-gsQoxIAsLuf2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taito-ban"
+    ]
+  },
+  {
+    "name": "Kiiro Hayashibara",
+    "nameNative": "林原キイロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308816-F7ZqJK2uSZy0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiharu-sawashiro"
+    ]
+  },
+  {
+    "name": "Koyuki Yoshidomi",
+    "nameNative": "吉富こゆき",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308818-Kl3vRzP7eAPO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saku-mizuno"
+    ]
+  },
+  {
+    "name": "Luna",
+    "nameNative": "ルナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308811-YmSR75wnr18c.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-amano"
+    ]
+  },
+  {
+    "name": "Masaya Kaburagi",
+    "nameNative": "鏑木勝也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245518-9OvLmdKE5teR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-terasoma"
+    ]
+  },
+  {
+    "name": "Mei Adashino",
+    "nameNative": "化野めい",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308820-aoL9ORqETZo6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-sekine"
+    ]
+  },
+  {
+    "name": "Melt Narushima",
+    "nameNative": "鳴嶋メルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245515-0fmOfMnyxQiZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seiji-maeda"
+    ]
+  },
+  {
+    "name": "MEM-cho",
+    "nameNative": "MEMちょ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205434-AuBcR4M05f6s.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rumi-ookubo"
+    ]
+  },
+  {
+    "name": "Minami Kotobuki",
+    "nameNative": "寿みなみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b252073-eLFb2PHy1erO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hina-youmiya"
+    ]
+  },
+  {
+    "name": "Miyako Saitou",
+    "nameNative": "斉藤ミヤコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b223870-60FglagpVtHe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "lynn"
+    ]
+  },
+  {
+    "name": "Nobuyuki Kumano",
+    "nameNative": "熊野ノブユキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245512-yCcNqULXGaKB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-oono"
+    ]
+  },
+  {
+    "name": "Norio Mita",
+    "nameNative": "みた のりお",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308813-pl6i5a3GJYsy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Ryouma Funato",
+    "nameNative": "船戸亮真",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308814-qRvc19n8ui4b.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-tsuyuzaki"
+    ]
+  },
+  {
+    "name": "Sakuya Kamoshida",
+    "nameNative": "鴨志田朔夜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245517-GR5oLHL6TVNS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-kobayashi"
+    ]
+  },
+  {
+    "name": "Sumiaki Raida",
+    "nameNative": "雷田澄彰",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245513-48yZBsVDHpKh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-suzumura"
+    ]
+  },
+  {
+    "name": "Taiki Himekawa",
+    "nameNative": "姫川大輝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245510-hLvoQzAeq4tC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Taishi Gotanda",
+    "nameNative": "五反田泰志",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245519-yrjlimcCUdrk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuyuki-kase"
+    ]
+  },
+  {
+    "name": "Taishi no Haha",
+    "nameNative": "泰志の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b302910-t4m7YfozWfmv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-saitou"
+    ]
+  },
+  {
+    "name": "Toshirou Kindaichi",
+    "nameNative": "金田一敏郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245514-k3JdzroTVwun.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyuki-shimura"
+    ]
+  },
+  {
+    "name": "Yoriko Kichijouji",
+    "nameNative": "吉祥寺頼子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b237577-suHCadWWmCT0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Yuki Sumi",
+    "nameNative": "鷲見ゆき",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245524-Q4K2XHB76ikE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-oonishi"
+    ]
+  },
+  {
+    "name": "Yura Katayose",
+    "nameNative": "片寄ゆら",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299253-0SqPZngSpsY6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikumi-hasegawa"
+    ]
+  }
+]
