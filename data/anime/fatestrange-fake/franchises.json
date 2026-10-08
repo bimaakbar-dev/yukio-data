@@ -1,0 +1,32 @@
+[
+  {
+    "relation": "alternative",
+    "slug": "fatestay-night",
+    "title": "Fate/stay night"
+  },
+  {
+    "relation": "alternative",
+    "slug": "fateprototype",
+    "title": "Fate/Prototype"
+  },
+  {
+    "relation": "character",
+    "slug": "lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note",
+    "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note"
+  },
+  {
+    "relation": "other",
+    "slug": "fatestrange-fake-pv",
+    "title": "Fate/strange Fake PV"
+  },
+  {
+    "relation": "prequel",
+    "slug": "fatestrange-fake-whispers-of-dawn",
+    "title": "Fate/strange Fake: Whispers of Dawn"
+  },
+  {
+    "relation": "other",
+    "slug": "fatestrange-fake-shin-series",
+    "title": "Fate/strange Fake (Shin Series)"
+  }
+]
