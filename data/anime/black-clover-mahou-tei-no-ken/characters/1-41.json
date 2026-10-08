@@ -1,0 +1,367 @@
+[
+  {
+    "name": "Asta",
+    "nameNative": "アスタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123285-tKijiuQErDS0.png",
+    "role": "main",
+    "voiceActors": [
+      "gakuto-kajiwara"
+    ]
+  },
+  {
+    "name": "Conrad Leto",
+    "nameNative": "コンラート・レト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b288860-tg3EwWWeLQKY.jpg",
+    "role": "main",
+    "voiceActors": [
+      "toshihiko-seki"
+    ]
+  },
+  {
+    "name": "Yuno",
+    "nameNative": "ユノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123284-w6kIFYnTclMd.png",
+    "role": "main",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Charlotte Roselei",
+    "nameNative": "シャーロット・ローズレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124434-ZmaDj2J5lSId.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Charmy Pappitson",
+    "nameNative": "チャーミー・パピットソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124447-2J1PKMgWETNT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyono-yasuno"
+    ]
+  },
+  {
+    "name": "Dorothy Unsworth",
+    "nameNative": "ドロシー・アンズワース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124458-U6zNf813fDxG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Edward Avalaché",
+    "nameNative": "エドワード・アバーラシェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295846-QLv2oppRK1Z8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Finral Roulacase",
+    "nameNative": "フィンラル・ルーラケイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124433-QyoZrgIUsSpd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Fuegoleon Vermillion",
+    "nameNative": "フエゴレオン・ヴァーミリオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124521-MqX5KT2tGSa8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Gauche Adlai",
+    "nameNative": "ゴーシュ・アドレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124446-4YXFoCIllCKh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Gimodelo",
+    "nameNative": "ギモデロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187431-sW39miFKBYcJ.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Gordon Agrippa",
+    "nameNative": "ゴードン・アグリッパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124448-YHRpWxJUhNnw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Grey",
+    "nameNative": "グレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124444-01PmRKd8Sned.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-takahashi"
+    ]
+  },
+  {
+    "name": "Henry Legolant",
+    "nameNative": "ヘンリー・レゴラント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124690-agQVNP3afoXA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Jack the Ripper",
+    "nameNative": "ジャック・ザリッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124456-llrSWfAXlnbb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Jester Galandros",
+    "nameNative": "ジェスター・ガランドロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293687-0gyKcDZiVylU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiya-takahashi"
+    ]
+  },
+  {
+    "name": "Julius Novachrono",
+    "nameNative": "ユリウス・ノヴァクロノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Kaiser Granvorka",
+    "nameNative": "カイゼル・グランボルカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182008-g72QCHSTIXNj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Klaus Lunettes",
+    "nameNative": "クラウス・リュネット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124437-3C1plJbD8jSn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-terashima"
+    ]
+  },
+  {
+    "name": "Kuro Nero",
+    "nameNative": "黒ネロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126948-2yL8YEIqLLpq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Lemiel Silvamillion Clover",
+    "nameNative": "ルミエル・シルヴァミリオン・クローバー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158550-m0UtbUtvW2ra.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Leopold Vermillion",
+    "nameNative": "レオポルド・ヴァーミリオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137881-fQLQZce8CTsY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenn"
+    ]
+  },
+  {
+    "name": "Liebe",
+    "nameNative": "リーベ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192196-giZLzC1Xj9Hp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Luck Voltia",
+    "nameNative": "ラック・ボルティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124449-M67Ex2GcxmYM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Magna Swing",
+    "nameNative": "マグナ・スウィング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124439-EqjbyC8GOKW0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "genki-muro"
+    ]
+  },
+  {
+    "name": "Marx Francois",
+    "nameNative": "マルクス・フランソワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124454-6iHuVDLPEfrj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitaka-yamaya"
+    ]
+  },
+  {
+    "name": "Mereoleona Vermillion",
+    "nameNative": "メレオレオナ・ヴァーミリオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-minagawa"
+    ]
+  },
+  {
+    "name": "Milly Maxwell",
+    "nameNative": "ミリー・マクスウェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293688-9g7xQKJSGyOP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marie-iitoyo"
+    ]
+  },
+  {
+    "name": "Mimosa Vermillion",
+    "nameNative": "ミモザ・ヴァーミリオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124438-nTvKfJaMD4d5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asuka-nishi"
+    ]
+  },
+  {
+    "name": "Nacht Faust",
+    "nameNative": "ナハト・ファウスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187268-vkcrcTvjNSrA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Noelle Silva",
+    "nameNative": "ノエル・シルヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123283-7nJHtKha0LSm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-yuuki"
+    ]
+  },
+  {
+    "name": "Nozel Silva",
+    "nameNative": "ノゼル・シルヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124442-KpZhHmhjw2EG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Princia Funnybunny",
+    "nameNative": "プリンシア・ファニーバニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295847-WI6zMKGSpEU9.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Rill Boismortier",
+    "nameNative": "リル・ボワモルティエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124457-d3MtJfUT6yqI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Sally",
+    "nameNative": "サリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124519-HGSExVAbCiju.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-tsuda"
+    ]
+  },
+  {
+    "name": "Sekke Bronzazza",
+    "nameNative": "セッケ・ブロンザッザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124460-EUJVxM0PG7uV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Sylph",
+    "nameNative": "シルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125025-sRhjEh0ZUsNh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-uchida"
+    ]
+  },
+  {
+    "name": "Vanessa Enoteca",
+    "nameNative": "バネッサ・エノテーカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124436-dES6CtprlZNy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "William Vangeance",
+    "nameNative": "ウィリアム・ヴァンジャンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124441-nggzgZExhb1w.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Yami Sukehiro",
+    "nameNative": "ヤミ・スケヒロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124440-Lpdo6y8cljV6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Zora Ideale",
+    "nameNative": "ゾラ・イデアーレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124459-UggsjRUfNtko.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  }
+]
