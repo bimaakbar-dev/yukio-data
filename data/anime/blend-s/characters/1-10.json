@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Dino",
+    "nameNative": "ディーノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123294-MYYGkYoLiDy3.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "Kaho Hinata",
+    "nameNative": "日向夏帆",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123080-Gd7kKqIvnwog.png",
+    "role": "main",
+    "voiceActors": [
+      "akari-kitou"
+    ]
+  },
+  {
+    "name": "Kouyou Akizuki",
+    "nameNative": "秋月紅葉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123293-TeIt9KUcgEoJ.png",
+    "role": "main",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  },
+  {
+    "name": "Mafuyu Hoshikawa",
+    "nameNative": "星川麻冬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123079-yIi9ZmtZrlS1.png",
+    "role": "main",
+    "voiceActors": [
+      "anzu-haruno"
+    ]
+  },
+  {
+    "name": "Maika Sakuranomiya",
+    "nameNative": "桜ノ宮苺香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123078-N577aCVZim8Z.png",
+    "role": "main",
+    "voiceActors": [
+      "azumi-waki"
+    ]
+  },
+  {
+    "name": "Aika Sakuranomiya",
+    "nameNative": "桜ノ宮愛香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224396-PeL5jfCcEo33.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rei-matsuzaki"
+    ]
+  },
+  {
+    "name": "Hideri Kanzaki",
+    "nameNative": "神崎ひでり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123295-BYBbgGHKg41l.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sora-tokui"
+    ]
+  },
+  {
+    "name": "Kouichi Sakuranomiya",
+    "nameNative": "桜ノ宮 香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b247995-TSL2mtH4JTco.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinki-satou"
+    ]
+  },
+  {
+    "name": "Miu Amano",
+    "nameNative": "天野美雨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123296-W6j0hqP3sxS7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsumi-tanezaki"
+    ]
+  },
+  {
+    "name": "Owner",
+    "nameNative": "オーナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137890-XJvmWph3Cw96.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  }
+]
