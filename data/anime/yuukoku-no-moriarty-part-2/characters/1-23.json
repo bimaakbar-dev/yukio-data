@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Albert Moriarty",
+    "nameNative": "アルバート・ジェームズ・モリアーティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151489-luCWYq86nKc2.png",
+    "role": "main",
+    "voiceActors": [
+      "takuya-satou"
+    ]
+  },
+  {
+    "name": "Louis Moriarty",
+    "nameNative": "ルイス・ジェームズ・モリアーティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151488-73KDsEi7BJGl.png",
+    "role": "main",
+    "voiceActors": [
+      "chiaki-kobayashi"
+    ]
+  },
+  {
+    "name": "Sherlock Holmes",
+    "nameNative": "シャーロック・ホームズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151495-MQz2Bntpg1sO.png",
+    "role": "main",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "William Moriarty",
+    "nameNative": "ウィリアム・ジェームズ・モリアーティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151486-rAFZZZm0Byu0.png",
+    "role": "main",
+    "voiceActors": [
+      "souma-saitou"
+    ]
+  },
+  {
+    "name": "Adam Whiteley",
+    "nameNative": "アダム・ホワイトリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207595-n7cQjRPP1ESt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Arterton",
+    "nameNative": "アータートン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203383-Zf3RiVAbVkgM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-yamaji"
+    ]
+  },
+  {
+    "name": "Baxter",
+    "nameNative": "バクスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206289-RmYV3caTykv2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-matsukaze"
+    ]
+  },
+  {
+    "name": "Charles Milverton",
+    "nameNative": "チャールズ・オーガスタス・ミルヴァートン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203142-lcerGiYopdSq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nojima"
+    ]
+  },
+  {
+    "name": "Fred Porlock",
+    "nameNative": "フレッド・ポーロック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151491-ND6O87myBETP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuto-uemura"
+    ]
+  },
+  {
+    "name": "Gosling",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208351-GzZ8XgPfisbr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaaki-torashima"
+    ]
+  },
+  {
+    "name": "Gregory Lestrade",
+    "nameNative": "グレゴリー レストレード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196059-qoGSKnuATk6X.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fuminori-komatsu"
+    ]
+  },
+  {
+    "name": "Harry",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208350-1pbE3ED821sD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiaki-hasegawa"
+    ]
+  },
+  {
+    "name": "Hudson",
+    "nameNative": "ハドソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151487-t2SS10P0l5GT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-asumi"
+    ]
+  },
+  {
+    "name": "Irene Adler",
+    "nameNative": "アイリーン・アドラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151494-Dk4hwJqilsw6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Jack Renfield",
+    "nameNative": "ジャック・レンフィールド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151493-ZWe0dXiamoPn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoya-uchida"
+    ]
+  },
+  {
+    "name": "John Watson",
+    "nameNative": "ジョン・H・ワトソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151496-1aCcxynt5xoU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-ono"
+    ]
+  },
+  {
+    "name": "Mary Morstan",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208867-NmqxkFF0vv8D.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Mycroft Holmes",
+    "nameNative": "マイクロフト・ホームズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151492-JHwmy6E995na.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Sam Whiteley",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208216-YRkv8c5dSb23.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-naitou"
+    ]
+  },
+  {
+    "name": "Sebastian Moran",
+    "nameNative": "セバスチャン・モラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151490-cxIe19kBnHcs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Von Herder",
+    "nameNative": "フォン・ヘルダー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196268-UZ08tuHY5AaK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Wiggins",
+    "nameNative": "ウィギンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196062-7e11JSHWOuSa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-sakakihara"
+    ]
+  },
+  {
+    "name": "Zach Patterson",
+    "nameNative": "ザック・パターソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196874-FFAPXRBu7ptC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tokuyoshi-kawashima"
+    ]
+  }
+]
