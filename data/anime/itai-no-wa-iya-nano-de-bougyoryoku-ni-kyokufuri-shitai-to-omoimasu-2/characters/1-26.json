@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Chrome",
+    "nameNative": "クロム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b155755-Jr88j18oGVur.png",
+    "role": "main",
+    "voiceActors": [
+      "noriaki-sugiyama"
+    ]
+  },
+  {
+    "name": "Iz",
+    "nameNative": "イズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b155754-OhYPoTCUdvxu.png",
+    "role": "main",
+    "voiceActors": [
+      "satomi-satou"
+    ]
+  },
+  {
+    "name": "Kaede Honjou",
+    "nameNative": "本条楓",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b147892-sL0t1VEMhC6p.png",
+    "role": "main",
+    "voiceActors": [
+      "kaede-hondo"
+    ]
+  },
+  {
+    "name": "Kanade",
+    "nameNative": "カナデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152324-hkduA5xtw8Rp.png",
+    "role": "main",
+    "voiceActors": [
+      "satomi-arai"
+    ]
+  },
+  {
+    "name": "Kasumi",
+    "nameNative": "カスミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b155751-yNkFpyB8A21x.png",
+    "role": "main",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "May",
+    "nameNative": "マイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b155752-zQt16bGFTJOs.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Risa Shiramine",
+    "nameNative": "白峯理沙",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b147893-t481NA7vtmdF.png",
+    "role": "main",
+    "voiceActors": [
+      "ruriko-noguchi"
+    ]
+  },
+  {
+    "name": "Yui",
+    "nameNative": "ユイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b155753-r6XYNXGMlCWp.png",
+    "role": "main",
+    "voiceActors": [
+      "nanaka-suwa"
+    ]
+  },
+  {
+    "name": "Administrator A",
+    "nameNative": "管理者A",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277534-w8bNiMWv9cnB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Administrator B",
+    "nameNative": "管理者B",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277537-ieKQWKhtAtAI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chika-sakamoto"
+    ]
+  },
+  {
+    "name": "Administrator C",
+    "nameNative": "管理者C",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277535-WW8jSNxaA2yo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  },
+  {
+    "name": "Administrator D",
+    "nameNative": "管理者D",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277536-NG9JVfFBoXKt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-takato"
+    ]
+  },
+  {
+    "name": "Dorazou",
+    "nameNative": "ドラぞう",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158414-wxE8Akzz3bqM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sakura-tange"
+    ]
+  },
+  {
+    "name": "Drag",
+    "nameNative": "ドラグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158415-ocMIDY8lqLpa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobutoshi-kanna"
+    ]
+  },
+  {
+    "name": "Dread",
+    "nameNative": "ドレッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158411-k8Uw7GlwZhHP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takumi-yamazaki"
+    ]
+  },
+  {
+    "name": "Frederica",
+    "nameNative": "フレデリカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158410-AxhTY0mhrFZw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayana-taketatsu"
+    ]
+  },
+  {
+    "name": "Haku",
+    "nameNative": "ハク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b302612-eYA1nv4ZeTL4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chitose-morinaga"
+    ]
+  },
+  {
+    "name": "Marx",
+    "nameNative": "マルクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158416-zeNcJmCQ8leO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Mii",
+    "nameNative": "ミィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158420-O6Bkva89GzbD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Misery",
+    "nameNative": "ミザリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158418-z4HArKzpvD41.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-minaguchi"
+    ]
+  },
+  {
+    "name": "Oboro",
+    "nameNative": "朧",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162411-IdnSGn3f97bK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akiha-matsui"
+    ]
+  },
+  {
+    "name": "Payne",
+    "nameNative": "ペイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158419-P0xFyC8wWGUS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenshou-ono"
+    ]
+  },
+  {
+    "name": "Shin",
+    "nameNative": "シン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158417-Fk9fFmabyp9M.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Syrup",
+    "nameNative": "シロップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162410-ZfLsawPAIZFN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuri-shimabukuro"
+    ]
+  },
+  {
+    "name": "Tsukimi",
+    "nameNative": "ツキミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b302613-Go2CstDpTVSR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akiha-matsui"
+    ]
+  },
+  {
+    "name": "Yukimi",
+    "nameNative": "ユキミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b302614-h4rLMC9siwrh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aria-asakura"
+    ]
+  }
+]
