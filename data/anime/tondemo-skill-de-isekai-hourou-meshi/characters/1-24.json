@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Fel",
+    "nameNative": "フェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157882-gDh9ovbpFFuM.png",
+    "role": "main",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Sui",
+    "nameNative": "スイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157879-m91XQAfn39Dx.png",
+    "role": "main",
+    "voiceActors": [
+      "hina-kino"
+    ]
+  },
+  {
+    "name": "Tsuyoshi  Mukouda",
+    "nameNative": "向田剛志",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157881-uLcY9D0sFskw.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuma-uchida"
+    ]
+  },
+  {
+    "name": "Agni",
+    "nameNative": "アグニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199866-V1enrm8UuUJl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "you-taichi"
+    ]
+  },
+  {
+    "name": "Edgar",
+    "nameNative": "エドガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296965-HIMUFjIQwWrV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-ishii"
+    ]
+  },
+  {
+    "name": "Franka",
+    "nameNative": "フランカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b267479-RrgtFZCws18o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sanae-fuku"
+    ]
+  },
+  {
+    "name": "Griffin",
+    "nameNative": "グリフォン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299261-W7i6SJyEJ6bf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukitoshi-tokumoto"
+    ]
+  },
+  {
+    "name": "Guildmaster",
+    "nameNative": "ギルドマスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296969-n9kcBkjhlrWI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriyuki-tsuyuki"
+    ]
+  },
+  {
+    "name": "Kaitaiya",
+    "nameNative": "解体屋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b297397-5M2WHNvfb0Kq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Kaito",
+    "nameNative": "カイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b267483-llH96OWMBUZN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-kobayashi"
+    ]
+  },
+  {
+    "name": "Kanon",
+    "nameNative": "カノン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b267482-esJ6a7JRRfy7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukako-kiuchi"
+    ]
+  },
+  {
+    "name": "Kisharle",
+    "nameNative": "キシャール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245610-2ByTIymXXgvR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Lambert",
+    "nameNative": "ランベルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299260-FniNsioW4IQb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "motoi-koyanagi"
+    ]
+  },
+  {
+    "name": "Lars",
+    "nameNative": "ラーシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299259-WxdzNdvHvopf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-takeuchi"
+    ]
+  },
+  {
+    "name": "Michaela",
+    "nameNative": "ミカエラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296964-z6eQcKTioGun.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mie-sonozaki"
+    ]
+  },
+  {
+    "name": "Ninrir",
+    "nameNative": "ニンリル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157880-WCkYC4LCLKd4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Ramon",
+    "nameNative": "ラモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b267480-tUEUwtogzBLN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masuo-amada"
+    ]
+  },
+  {
+    "name": "Rio",
+    "nameNative": "リオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b267481-SCGwiPiqnioO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shuri-miyumi"
+    ]
+  },
+  {
+    "name": "Rita",
+    "nameNative": "リタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b267476-HIWWzHkWTjAB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rico-sasaki"
+    ]
+  },
+  {
+    "name": "Rusalka",
+    "nameNative": "ルサールカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245613-MnRiZF9vhyh5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saho-shirasu"
+    ]
+  },
+  {
+    "name": "Vianca",
+    "nameNative": "ヴィアンカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296960-hsyxshnk4M4S.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akane-matsui"
+    ]
+  },
+  {
+    "name": "Vincent",
+    "nameNative": "ヴィンセント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b267478-XnjA3MPsZiDT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-kumagai"
+    ]
+  },
+  {
+    "name": "Werner",
+    "nameNative": "ヴェルナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b267477-46DJ8HqnyeCq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi"
+    ]
+  },
+  {
+    "name": "Willem",
+    "nameNative": "ウィレム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300021-ziL3QCewaTLZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-fukumatsu"
+    ]
+  }
+]
