@@ -1,0 +1,22 @@
+[
+  {
+    "relation": "prequel",
+    "slug": "nisemonogatari",
+    "title": "Nisemonogatari"
+  },
+  {
+    "relation": "sequel",
+    "slug": "hanamonogatari",
+    "title": "Hanamonogatari"
+  },
+  {
+    "relation": "side_story",
+    "slug": "koyomimonogatari",
+    "title": "Koyomimonogatari"
+  },
+  {
+    "relation": "side_story",
+    "slug": "koyomi-history",
+    "title": "Koyomi History"
+  }
+]
