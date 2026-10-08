@@ -1,119 +1,119 @@
 [
   {
-    "name": "Maomao",
-    "role": "main",
-    "voiceActors": [
-      "aoi-yuuki"
-    ],
-    "nameNative": "猫猫",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126824-MqsCncTO1qpv.png"
-  },
-  {
     "name": "Jinshi",
+    "nameNative": "壬氏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127278-0qCQciTkPOMS.jpg",
     "role": "main",
     "voiceActors": [
       "takeo-ootsuka"
-    ],
-    "nameNative": "壬氏",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127278-0qCQciTkPOMS.jpg"
+    ]
   },
   {
-    "name": "Lakan",
-    "role": "supporting",
+    "name": "Maomao",
+    "nameNative": "猫猫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126824-MqsCncTO1qpv.png",
+    "role": "main",
     "voiceActors": [
-      "takuya-kirimoto"
-    ],
-    "nameNative": "羅漢",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232926-YIzdIzMMGcac.jpg"
-  },
-  {
-    "name": "Gaoshun",
-    "role": "supporting",
-    "voiceActors": [
-      "katsuyuki-konishi"
-    ],
-    "nameNative": "高順",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244317-zm6LeJmLN9kZ.png"
-  },
-  {
-    "name": "Meimei",
-    "role": "supporting",
-    "voiceActors": [
-      "megumi-han"
-    ],
-    "nameNative": "梅梅",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244319-UtvzNJwwo7bD.jpg"
-  },
-  {
-    "name": "Yarite Baba",
-    "role": "supporting",
-    "voiceActors": [
-      "kimiko-saitou"
-    ],
-    "nameNative": "やり手婆",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274187-WSsVDyNUT6SM.png"
-  },
-  {
-    "name": "Pairin",
-    "role": "supporting",
-    "voiceActors": [
-      "ami-koshimizu"
-    ],
-    "nameNative": "白鈴",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274189-HUP7GDBJMzXs.png"
-  },
-  {
-    "name": "Joka",
-    "role": "supporting",
-    "voiceActors": [
-      "hiroki-nanami"
-    ],
-    "nameNative": "女華",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274193-0YeumFVEUR4j.jpg"
-  },
-  {
-    "name": "Rikuson",
-    "role": "supporting",
-    "voiceActors": [
-      "kouki-uchiyama"
-    ],
-    "nameNative": "陸孫",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323687-JlH1KOS7n11C.png"
-  },
-  {
-    "name": "Basen",
-    "role": "supporting",
-    "voiceActors": [
-      "tatsumaru-tachibana"
-    ],
-    "nameNative": "馬閃",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327822-QGtwgIM2lxUq.png"
-  },
-  {
-    "name": "Kyou-u",
-    "role": "supporting",
-    "voiceActors": [
-      "natsumi-fujiwara"
-    ],
-    "nameNative": "響迂",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363535-QzPNoetEggdD.png"
-  },
-  {
-    "name": "Lahan",
-    "role": "supporting",
-    "voiceActors": [
-      "toshiyuki-toyonaga"
-    ],
-    "nameNative": "羅半",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b364109-C9Vl0FSPQlG2.png"
+      "aoi-yuuki"
+    ]
   },
   {
     "name": "Bai Niangniang",
+    "nameNative": "白娘々",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406588-YlK2BXxmP4Yx.png",
     "role": "supporting",
     "voiceActors": [
       "reina-ueda"
-    ],
-    "nameNative": "白娘々",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406588-YlK2BXxmP4Yx.png"
+    ]
+  },
+  {
+    "name": "Basen",
+    "nameNative": "馬閃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327822-QGtwgIM2lxUq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsumaru-tachibana"
+    ]
+  },
+  {
+    "name": "Gaoshun",
+    "nameNative": "高順",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244317-zm6LeJmLN9kZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Joka",
+    "nameNative": "女華",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274193-0YeumFVEUR4j.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-nanami"
+    ]
+  },
+  {
+    "name": "Kyou-u",
+    "nameNative": "響迂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363535-QzPNoetEggdD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-fujiwara"
+    ]
+  },
+  {
+    "name": "Lahan",
+    "nameNative": "羅半",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b364109-C9Vl0FSPQlG2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-toyonaga"
+    ]
+  },
+  {
+    "name": "Lakan",
+    "nameNative": "羅漢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232926-YIzdIzMMGcac.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-kirimoto"
+    ]
+  },
+  {
+    "name": "Meimei",
+    "nameNative": "梅梅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244319-UtvzNJwwo7bD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Pairin",
+    "nameNative": "白鈴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274189-HUP7GDBJMzXs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Rikuson",
+    "nameNative": "陸孫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323687-JlH1KOS7n11C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Yarite Baba",
+    "nameNative": "やり手婆",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274187-WSsVDyNUT6SM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-saitou"
+    ]
   }
 ]
