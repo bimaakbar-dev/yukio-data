@@ -1,0 +1,22 @@
+[
+  {
+    "relation": "alternative",
+    "slug": "shinseiki-evangelion",
+    "title": "Shinseiki Evangelion"
+  },
+  {
+    "relation": "prequel",
+    "slug": "evangelion-movie-1-jo",
+    "title": "Evangelion Movie 1: Jo"
+  },
+  {
+    "relation": "sequel",
+    "slug": "evangelion-movie-3-q",
+    "title": "Evangelion Movie 3: Q"
+  },
+  {
+    "relation": "other",
+    "slug": "beautiful-world",
+    "title": "Beautiful World"
+  }
+]
