@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Chiyoko Fujiwara",
+    "nameNative": "藤原千代子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3725-CfM9nhaai6M8.jpg",
+    "role": "main",
+    "voiceActors": [
+      "miyoko-shouji",
+      "fumiko-orikasa",
+      "mami-koyama"
+    ]
+  },
+  {
+    "name": "Genya Tachibana",
+    "nameNative": "立花源也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8431-XbC5JNs4AMLb.png",
+    "role": "main",
+    "voiceActors": [
+      "shouzou-iizuka",
+      "masamichi-satou",
+      "vinas-vinas"
+    ]
+  },
+  {
+    "name": "Kyouji Ida",
+    "nameNative": "井田恭二",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8432-uMlISB9kdU0F.png",
+    "role": "main",
+    "voiceActors": [
+      "masaya-onosaka"
+    ]
+  },
+  {
+    "name": "Chiyoko Haha",
+    "nameNative": "千代子の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408380-8PKcIU0DEyZH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kyouda"
+    ]
+  },
+  {
+    "name": "Eiko Shimao",
+    "nameNative": "島尾詠子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8430-MOGWbXZPXaaK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-tsuda"
+    ]
+  },
+  {
+    "name": "Kagi no Kimi",
+    "nameNative": "鍵の君",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8433-Guq5IVhwuTEK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Kizu no Otoko",
+    "nameNative": "傷の男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8434-7B88Hxt9OuW9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masane-tsukayama"
+    ]
+  }
+]
