@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Hakkekkyuu U-1146",
+    "nameNative": "白血球 U-1146番",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126981-K1cB7bUIm6Mj.png",
+    "role": "main",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "Sekkekkyuu AE3803",
+    "nameNative": "赤血球",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126975-Lqj6mlIEBaSA.png",
+    "role": "main",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "B Saibou",
+    "nameNative": "B細胞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127069-mTtHg0Y2XIhN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouya-chiba"
+    ]
+  },
+  {
+    "name": "Gan Saibou",
+    "nameNative": "がん細胞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132615-sTziS26CL1Z8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Haien Kyuukin",
+    "nameNative": "肺炎球菌",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132616-ZW9NSSZGLPFo.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Hakkekkyuu U-4989",
+    "nameNative": "白血球 U-4989",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132614-40i6AcHl2dmS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-kumagai"
+    ]
+  },
+  {
+    "name": "Helper T Saibou",
+    "nameNative": "ヘルパーT細胞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132618-wcKdTgNhATos.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Jujousaibou",
+    "nameNative": "樹状細胞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132621-gbUdEusdLC7v.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Kesshouban",
+    "nameNative": "血小板",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127417-mK2MxesD0nrb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maria-naganawa"
+    ]
+  },
+  {
+    "name": "Killer T Saibou",
+    "nameNative": "キラーT細胞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127071-nBPvVFLiJ0N0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Kioku Saibou",
+    "nameNative": "記憶細胞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132617-U1sBIet9OFj1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Kouenkikyuu",
+    "nameNative": "好塩基球",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132622-mpB83dOqnbNv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Kousankyuu",
+    "nameNative": "好酸球",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127041-ty1sUS3FPuh8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Macrophage",
+    "nameNative": "マクロファ―ジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127070-CKX6o5OFrf3R.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Mast Saibou",
+    "nameNative": "マスト細胞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132613-hGzZMccvotLh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Memory T Saibou",
+    "nameNative": "メモリーＴ細胞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132627-4ROMeA6weUVO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-takeuchi"
+    ]
+  },
+  {
+    "name": "Naive T Saibou",
+    "nameNative": "ナイーブＴ細胞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132626-fe9N0bg8MZaV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura",
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Natural Killer Saibou",
+    "nameNative": "ナチュラルキラー細胞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132623-HVqCG0RzQGYj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toa-yukinari"
+    ]
+  },
+  {
+    "name": "Oshokubudokyuukin",
+    "nameNative": "黄色ブドウ球菌",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132620-Cn1T7oR0JPPC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Seigyosei T Saibou",
+    "nameNative": "制御性T細胞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132624-jUMeHfc3PDwM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Sekkekkyuu AA5100",
+    "nameNative": "赤血球 AA5100",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132625-94PwntRqPU6C.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Sekkekkyuu NT4201",
+    "nameNative": "赤血球 NT4201",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132619-Wl3KGURlTVv3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-ishikawa"
+    ]
+  }
+]
