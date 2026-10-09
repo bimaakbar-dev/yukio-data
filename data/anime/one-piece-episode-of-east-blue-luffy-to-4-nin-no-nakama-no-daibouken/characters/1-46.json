@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Luffy Monkey",
+    "nameNative": "モンキー・D・ルフィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png",
+    "role": "main",
+    "voiceActors": [
+      "mayumi-tanaka"
+    ]
+  },
+  {
+    "name": "Nami",
+    "nameNative": "ナミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png",
+    "role": "main",
+    "voiceActors": [
+      "akemi-okamura"
+    ]
+  },
+  {
+    "name": "Sanji",
+    "nameNative": "サンジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroaki-hirata"
+    ]
+  },
+  {
+    "name": "Usopp",
+    "nameNative": "ウソップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b724-GFGgI9AJQkfy.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Zoro Roronoa",
+    "nameNative": "ロロノア・ゾロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png",
+    "role": "main",
+    "voiceActors": [
+      "kazuya-nakai"
+    ]
+  },
+  {
+    "name": "Arlong",
+    "nameNative": "アーロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4887-hMOqSSpR5jFc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "juurouta-kosugi"
+    ]
+  },
+  {
+    "name": "Bellemere",
+    "nameNative": "ベルメール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4890.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-hidaka"
+    ]
+  },
+  {
+    "name": "Ben Beckman",
+    "nameNative": "ベン・ベックマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4882-2zsLPjqUeOJ4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aruno-tahara"
+    ]
+  },
+  {
+    "name": "Brook",
+    "nameNative": "ブルック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5627-av8oD3zhKvDl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Chew",
+    "nameNative": "チュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4891-y8cWYU2t7tcu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-onosaka"
+    ]
+  },
+  {
+    "name": "Chopper Tony Tony",
+    "nameNative": "トニートニー・チョッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Dracule Mihawk",
+    "nameNative": "ジュラキュール・ミホーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2064-OpnF4nLi6bvL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-aono"
+    ]
+  },
+  {
+    "name": "Franky",
+    "nameNative": "フランキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n64-ChX6ZzHHjXqA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuki-yao"
+    ]
+  },
+  {
+    "name": "Genzo",
+    "nameNative": "ゲンゾウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4892-bM6VwMu2rfxC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouzou-shioya"
+    ]
+  },
+  {
+    "name": "Gin",
+    "nameNative": "ギン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9321.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ono"
+    ]
+  },
+  {
+    "name": "Hatchan",
+    "nameNative": "はっちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4889.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Helmeppo",
+    "nameNative": "ヘルメッポ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12362.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-nagano"
+    ]
+  },
+  {
+    "name": "Higuma",
+    "nameNative": "ヒグマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21213.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukimasa-kishino"
+    ]
+  },
+  {
+    "name": "Jango",
+    "nameNative": "ジャンゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4886-QwqBEUBwKgIr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuki-yao"
+    ]
+  },
+  {
+    "name": "Johnny",
+    "nameNative": "ジョニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4893.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-takatsuka"
+    ]
+  },
+  {
+    "name": "Kaya",
+    "nameNative": "カヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9880.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariko-kouda"
+    ]
+  },
+  {
+    "name": "Koby",
+    "nameNative": "コビー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12361-H0SmgKxZ9T61.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-doi"
+    ]
+  },
+  {
+    "name": "Koshirou",
+    "nameNative": "コウシロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21219.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Krieg Don",
+    "nameNative": "首領・クリーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9320-lHsw9jNk5889.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumihiko-tachiki"
+    ]
+  },
+  {
+    "name": "Kuina",
+    "nameNative": "くいな",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21266-zGRDCl19NYmQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "machiko-toyoshima"
+    ]
+  },
+  {
+    "name": "Kuro",
+    "nameNative": "クロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2519-OfgRt6mP6Ae8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-hashimoto"
+    ]
+  },
+  {
+    "name": "Kuroobi",
+    "nameNative": "クロオビ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4895-REV7XgeR7nRd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisao-egawa"
+    ]
+  },
+  {
+    "name": "Lucky Roux",
+    "nameNative": "ラッキー・ルウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4885-wabOwg3GFpfK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jin-domon"
+    ]
+  },
+  {
+    "name": "Makino",
+    "nameNative": "マキノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21210-0mHLtmBhBVPX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makiko-oomoto"
+    ]
+  },
+  {
+    "name": "Morgan",
+    "nameNative": "モーガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9333-hMdvqj4LuuLn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "banjou-ginga"
+    ]
+  },
+  {
+    "name": "Nako",
+    "nameNative": "ナコー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21312.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Nezumi",
+    "nameNative": "ネズミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21526.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ninjin",
+    "nameNative": "にんじん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21223.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-yoshitake"
+    ]
+  },
+  {
+    "name": "Nojiko",
+    "nameNative": "ノジコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4888-ZVkyNRqxa3it.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wakana-yamazaki"
+    ]
+  },
+  {
+    "name": "Patty",
+    "nameNative": "パティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21218.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Pearl",
+    "nameNative": "パール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21373.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-kawamoto"
+    ]
+  },
+  {
+    "name": "Piiman",
+    "nameNative": "ピーマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21222.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruhi-nanao"
+    ]
+  },
+  {
+    "name": "Pisaro",
+    "nameNative": "ピサロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21531.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Rika",
+    "nameNative": "リカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21267.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "emi-uwagawa"
+    ]
+  },
+  {
+    "name": "Robin Nico",
+    "nameNative": "ニコロビン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuriko-yamaguchi"
+    ]
+  },
+  {
+    "name": "Shanks",
+    "nameNative": "シャンクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b727-wUJx7M1z5xON.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shuuichi-ikeda"
+    ]
+  },
+  {
+    "name": "Tamanegi",
+    "nameNative": "たまねぎ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21221.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makiko-oomoto"
+    ]
+  },
+  {
+    "name": "Woop Slap",
+    "nameNative": "ウープ・スラップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21212-m5wB9Td50be3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-aono"
+    ]
+  },
+  {
+    "name": "Yasopp",
+    "nameNative": "ヤソップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9562-spNkmlnOZf7C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "michitaka-kobayashi"
+    ]
+  },
+  {
+    "name": "Yosaku",
+    "nameNative": "ヨサク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4894.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiko-tokuyama"
+    ]
+  },
+  {
+    "name": "Zeff",
+    "nameNative": "ゼフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10444.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yada"
+    ]
+  }
+]
