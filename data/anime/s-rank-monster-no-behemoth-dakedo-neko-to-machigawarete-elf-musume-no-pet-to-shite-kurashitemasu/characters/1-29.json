@@ -1,0 +1,264 @@
+[
+  {
+    "name": "Aria",
+    "nameNative": "アリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330642-0V64Lrn4COgO.png",
+    "role": "main",
+    "voiceActors": [
+      "hinaki-yano"
+    ]
+  },
+  {
+    "name": "Tama",
+    "nameNative": "タマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330641-l8Zv9VFMqajA.png",
+    "role": "main",
+    "voiceActors": [
+      "tasuku-hatanaka",
+      "riho-sugiyama"
+    ]
+  },
+  {
+    "name": "Alisha",
+    "nameNative": "アリーシャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b352621-UlOz0Xfy6Hef.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Arnold Holzweilzenegger",
+    "nameNative": "アーナルド・ホズィルズネッガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b352618-xFqYXKamf1PG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Beelzebuth",
+    "nameNative": "ベルゼビュート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359677-MkpxMvft6NFw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Beryl Astaroth",
+    "nameNative": "ベリル・アスタロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354396-b6wAbXDXAekt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Cedric Ruiné",
+    "nameNative": "セドリック・リューイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354390-D0UuS7yqjcQ8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeo-ootsuka"
+    ]
+  },
+  {
+    "name": "Danny",
+    "nameNative": "ダニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354393-zl32p7EtZqHq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-yanagita"
+    ]
+  },
+  {
+    "name": "Eliza",
+    "nameNative": "エリザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359676-f32vnipNfAmX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-hara"
+    ]
+  },
+  {
+    "name": "Elvun",
+    "nameNative": "エルヴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359685-gSdtb9CJKYBf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromichi-tezuka"
+    ]
+  },
+  {
+    "name": "Feri",
+    "nameNative": "フェリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348118-86ga6UTaYJ8D.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-wakui"
+    ]
+  },
+  {
+    "name": "Fione",
+    "nameNative": "フィオーネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359683-bhk2pMkd9ypp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-kikuchi"
+    ]
+  },
+  {
+    "name": "Geizel Aushura",
+    "nameNative": "ガイゼル・アウシューラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359678-ARtMlx4HsD51.png",
+    "role": "supporting",
+    "voiceActors": [
+      "issei-futamata"
+    ]
+  },
+  {
+    "name": "Gladstone Hakushaku",
+    "nameNative": "グラッドストーン伯爵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359675-tl26tltjTNTC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  },
+  {
+    "name": "Gusiona",
+    "nameNative": "グシオナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359686-jIQDyoOTJguj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-inase"
+    ]
+  },
+  {
+    "name": "Howard",
+    "nameNative": "ハワード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354392-2iGAUbpumY2F.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-hamano"
+    ]
+  },
+  {
+    "name": "Julius Aushura",
+    "nameNative": "ジュリウス・アウシューラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359679-IeR3VVlllZl7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuichi-kijima"
+    ]
+  },
+  {
+    "name": "Kasman",
+    "nameNative": "カスマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b352619-a83RjsrRreVS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-mamiya"
+    ]
+  },
+  {
+    "name": "Keni",
+    "nameNative": "ケニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354391-U8sIeRnqbRKq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyono-yasuno"
+    ]
+  },
+  {
+    "name": "Lala",
+    "nameNative": "ララ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354395-gSxNBhur9Zl5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sae-hiratsuka"
+    ]
+  },
+  {
+    "name": "Leis",
+    "nameNative": "レイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359674-ScmJ32STT6Qm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-naka"
+    ]
+  },
+  {
+    "name": "Leo",
+    "nameNative": "レオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359684-LWP3VJ4TjUeq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-oono"
+    ]
+  },
+  {
+    "name": "Leona",
+    "nameNative": "レオナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354394-wAgvJfUCxdQC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Levi",
+    "nameNative": "レヴィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359681-j2PoMh0LeJJC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hina-suzuki"
+    ]
+  },
+  {
+    "name": "Lily",
+    "nameNative": "リリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348117-BbWKuDJWGvIi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nonoka-oobuchi"
+    ]
+  },
+  {
+    "name": "Marietta",
+    "nameNative": "マリエッタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354389-EdZs3XMbgzoG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Stella",
+    "nameNative": "ステラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330644-ysQUikHYD7P7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-ueda"
+    ]
+  },
+  {
+    "name": "Vasago",
+    "nameNative": "ヴァサーゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359680-BuEbptczTLaY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Vulcan",
+    "nameNative": "ヴァルカン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330643-K0C0W3RAtu4G.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomori-kusunoki"
+    ]
+  }
+]
