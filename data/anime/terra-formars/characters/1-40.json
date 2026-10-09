@@ -1,0 +1,363 @@
+[
+  {
+    "name": "Akari Hizamaru",
+    "nameNative": "膝丸燈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81849-BSb039B1a3Fu.png",
+    "role": "main",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Alex Stewart",
+    "nameNative": "アレックス・K・スチュワート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84931.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kenn"
+    ]
+  },
+  {
+    "name": "Marcos Garcia",
+    "nameNative": "マルコス・エリングラッド・ガルシア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84929-ujNiTgvEu3Wt.png",
+    "role": "main",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Michelle Davis",
+    "nameNative": "ミッシェル・K・デイヴス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84809.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Sheila Levitt",
+    "nameNative": "シーラ・レヴィット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b86557-2lixAo5S14om.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Shokichi Komachi",
+    "nameNative": "小町小吉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b68729-v6ofxqGXkM0N.png",
+    "role": "main",
+    "voiceActors": [
+      "hidenobu-kiuchi"
+    ]
+  },
+  {
+    "name": "Aaron  Yujik",
+    "nameNative": "アーロン・ユージック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202369-y5ErY2Bc1Ahi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masami-iwasaki"
+    ]
+  },
+  {
+    "name": "Adolph Reinhardt",
+    "nameNative": "アドルフ・ラインハルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84815.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa",
+      "natsumi-takamori"
+    ]
+  },
+  {
+    "name": "Akira Honda",
+    "nameNative": "本多晃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84933.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-yanaka"
+    ]
+  },
+  {
+    "name": "Alexander Asimov",
+    "nameNative": "アレクサンドル・アシモフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180557-oTOkGWaucIwf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-nara"
+    ]
+  },
+  {
+    "name": "Anastasia Andreevna Politkovskaya",
+    "nameNative": "アナスタシア・アンドレーヴナ・ポリトコフスカヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202396-x7QeAkfDf8aR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Antonio",
+    "nameNative": "アントニオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuta-odagaki"
+    ]
+  },
+  {
+    "name": "Bao Zhilan",
+    "nameNative": "爆致嵐",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202402-Oiey16r5JYDa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-ono"
+    ]
+  },
+  {
+    "name": "Chun-Li Xi",
+    "nameNative": "西春麗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202372-1ePosXuJYAWW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  },
+  {
+    "name": "Elena Perepelkina",
+    "nameNative": "エレナ・ペレペルキナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202419-kT8cYBV0APEY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Erika Nakanojou",
+    "nameNative": "中之条江莉佳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202376-bJZxhl2ZnAZO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Eva Frost",
+    "nameNative": "エヴァ・フロスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84947-3zjQ7noTe6nh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Fritz",
+    "nameNative": "フリッツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "riki-kagami"
+    ]
+  },
+  {
+    "name": "Henrique",
+    "nameNative": "エンリケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Hong",
+    "nameNative": "紅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202403-v5ue63hPXlmt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-sasaki"
+    ]
+  },
+  {
+    "name": "Ichirou Himura",
+    "nameNative": "蛭間一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/68737.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Isabella Leon",
+    "nameNative": "イザベラ・R・レオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84949.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kanako-tojo"
+    ]
+  },
+  {
+    "name": "Ivan Perepelkin",
+    "nameNative": "イワン・ペレペルキナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84951-6zDWQVJ1nPei.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-akabane"
+    ]
+  },
+  {
+    "name": "Jared Anderson",
+    "nameNative": "ジャレッド・アンダーソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180555-flOh2L9vWZk9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsui-taira"
+    ]
+  },
+  {
+    "name": "Jet",
+    "nameNative": "ジェット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202385-9XAOOTeaYnJj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenori-takahashi"
+    ]
+  },
+  {
+    "name": "Johan",
+    "nameNative": "ジョハン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b361563-Q91uimranyd1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-takeuchi"
+    ]
+  },
+  {
+    "name": "Joseph Gustav Newton",
+    "nameNative": "ジョセフ・グスタフ・ニュートン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84953-rvLfyZtDQSyk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Kanako Sanjou",
+    "nameNative": "三条加奈子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202411-1RUNcsnFaUl2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-takahashi"
+    ]
+  },
+  {
+    "name": "Keiji Onizuka",
+    "nameNative": "鬼塚慶次",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180548-aNPjIP8djIAd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Liu  Yiwu",
+    "nameNative": "劉翊武",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191966-GEpMRzGcvead.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuo-komura"
+    ]
+  },
+  {
+    "name": "Nina Yujik",
+    "nameNative": "ニーナ・ユージック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202395-EkfwQ93ayFHF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Sakurato Harukaze",
+    "nameNative": "春風桜人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b361561-BtDKcFfOtBoz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuzu-aoki"
+    ]
+  },
+  {
+    "name": "Sandra Hoffman",
+    "nameNative": "サンドラ・ホフマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hirano"
+    ]
+  },
+  {
+    "name": "Sergei Seleznyov",
+    "nameNative": "セルゲイ・セレズニョフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202384-d7SJgKDv6zGv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kengo-tsujii"
+    ]
+  },
+  {
+    "name": "Shichisei Hiruma",
+    "nameNative": "蛭間七星",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84935.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Sylvester Asimov",
+    "nameNative": "シルヴェスター・アシモフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84819.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Uaku Ericson",
+    "nameNative": "ワック・エリクソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-akazawa"
+    ]
+  },
+  {
+    "name": "Wolf Redfield",
+    "nameNative": "ウルフ・レッドフィールド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202414-QxgXbGwUPcSF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-tachibana"
+    ]
+  },
+  {
+    "name": "Yaeko Yanasegawa",
+    "nameNative": "柳瀬川八恵子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202386-GMCyCq1h09tp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-toyosaki"
+    ]
+  },
+  {
+    "name": "Yuriko Minamoto",
+    "nameNative": "源百合子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/86555.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  }
+]
