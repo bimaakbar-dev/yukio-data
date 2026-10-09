@@ -1,0 +1,32 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "one-piece",
+    "title": "One Piece"
+  },
+  {
+    "relation": "other",
+    "slug": "toho-cinemas-x-one-piece-film-gold-tokubetsu-eizou",
+    "title": "TOHO Cinemas x One Piece Film: Gold - Tokubetsu Eizou"
+  },
+  {
+    "relation": "other",
+    "slug": "scratch-x-one-piece-film-gold",
+    "title": "Scratch x One Piece Film: Gold"
+  },
+  {
+    "relation": "other",
+    "slug": "one-piece-film-gold-cine-mike-popcorn-kokuchi",
+    "title": "One Piece Film: Gold - Cine Mike Popcorn Kokuchi"
+  },
+  {
+    "relation": "prequel",
+    "slug": "one-piece-film-gold-episode-0-711-ver",
+    "title": "One Piece Film: Gold Episode 0 - 711 ver."
+  },
+  {
+    "relation": "prequel",
+    "slug": "one-piece-heart-of-gold",
+    "title": "One Piece: Heart of Gold"
+  }
+]
