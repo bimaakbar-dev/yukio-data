@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Wada",
+    "nameNative": "和田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150313-8VlL6kPhqQ7j.png",
+    "role": "main",
+    "voiceActors": [
+      "hiyori-miyazaki"
+    ]
+  },
+  {
+    "name": "Yamamoto",
+    "nameNative": "山本",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150312-teirFa0mGfWl.png",
+    "role": "main",
+    "voiceActors": [
+      "yoshino-aoyama"
+    ]
+  },
+  {
+    "name": "Abel Koushaku",
+    "nameNative": "エイベル公爵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358682-SKJdeRtaFi55.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Saitou",
+    "nameNative": "斉藤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358681-3921pvIIgXVh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Takizawa",
+    "nameNative": "滝沢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Yamada",
+    "nameNative": "山田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  }
+]
