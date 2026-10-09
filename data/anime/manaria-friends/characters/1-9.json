@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Anne",
+    "nameNative": "アン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89418-RxZU6WKzBZ9v.jpg",
+    "role": "main",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Grea",
+    "nameNative": "グレア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89419-N4RRwdLnbNTg.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayaka-fukuhara"
+    ]
+  },
+  {
+    "name": "Hanna",
+    "nameNative": "ハンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n89420-kNS6cYRWilVu.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "Heinlein",
+    "nameNative": "ハインライン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130442-YCMtt3rvLtJw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiharu-sawashiro"
+    ]
+  },
+  {
+    "name": "Lou",
+    "nameNative": "ルゥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130440-KNYKQMzez2QT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-koyama"
+    ]
+  },
+  {
+    "name": "Miranda",
+    "nameNative": "ミランダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130439-dbitRdPsUDXS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Owen",
+    "nameNative": "オーウェン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130443-yDPKk0G0Aw8Z.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Poppy",
+    "nameNative": "ポピー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130438-cIEsnzoX2YE6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "lynn"
+    ]
+  },
+  {
+    "name": "William",
+    "nameNative": "ウィリアム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130441-FSzC9QiobExO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuma-uchida"
+    ]
+  }
+]
