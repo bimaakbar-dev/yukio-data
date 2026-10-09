@@ -370,6 +370,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "makoto-shinkai",
+    "name": "Makoto Shinkai",
+    "nameNative": "新海誠",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96117-X0ivK1cAvdzA.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "makoto-takahashi",
     "name": "Makoto\r\n Takahashi",
     "nameNative": "高橋信",
@@ -2236,6 +2243,13 @@
     "name": "Miki Ootani",
     "nameNative": "大谷美貴",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/6839.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "miko-shinohara",
+    "name": "Miko Shinohara",
+    "nameNative": "篠原美香",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
     "defaultLanguage": "Japanese"
   },
   {
