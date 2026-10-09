@@ -1,27 +1,27 @@
 ---
-title: Yuru Yuri
-titleEnglish: YuruYuri
-titleNative: ゆるゆり
+title: Yuru Yuri♪♪
+titleEnglish: YuruYuri Season 2
+titleNative: ゆるゆり♪♪
 
-malId: 10495
-kitsuId: "6205"
+malId: 12403
+kitsuId: "6724"
 
 type: TV
 status: finished
 source: manga
 
 season: summer
-year: 2011
+year: 2012
 episodes: 12
 duration: 23
 # rating: # edit manual
 
 aired:
-  from: "2011-07-05"
-  to: "2011-09-20"
+  from: "2012-07-03"
+  to: "2012-09-18"
 
 stats:
-  score: 7.3
+  score: 7.7
   # scoredBy: # edit manual
 
 genres:
@@ -31,13 +31,15 @@ genres:
 studios:
   - doga-kobo
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10495-FbK4ybSp2DNG.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10495-rIrvOpIurPXE.jpg"
-trailer: "T_WOMFl7Bd8"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12403-sAG2FsLFX8bH.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12403-5u268qIm5jsR.jpg"
+trailer: "LGSOhBnMEoY"
 
 draft: false
 ---
 
-After a year in grade school without her childhood friends, first year student Akari Akaza is finally reunited with second years Yui Funami and Kyouko Toshinou at their all-girls' middle school. During the duo's first year, Yui and Kyouko formed the "Amusement Club" which occupies the now nonexistent Tea Club's room. Shortly after Akari joins, one of her fellow classmates, Chinatsu Yoshikawa, pays the trio a visit under the impression that they are the Tea Club; it is only once the three girls explain that the Tea Club has been disbanded that they can convince Chinatsu to join the Amusement Club—a group with no purpose other than to provide entertainment for its members.
+The girls of the Amusement Club return in Yuru Yuri♪♪, finding new ways to make passing time even more enjoyable. Their members consist of the always energetic Kyouko Toshinou; calm and sensible Yui Funami; polite but often overlooked Akari Akaza; and Chinatsu Yoshikawa, who stumbled upon the others while looking for the Tea Ceremony Club. Together they are the Amusement Club, which has the deceptively simple task of keeping its members entertained.
+
+Along with the Student Council and the odd family member, they strive to enjoy their youth to the fullest. Whether it's a trip to a hot spring or finishing overdue homework, their lives are never dull, and they will always find an excuse to spend time together.
 
 (Source: MAL Rewrite)

@@ -1,17 +1,12 @@
 [
   {
-    "relation": "side_story",
-    "slug": "yuru-yuri-doushite-tomaranai-tokimeki-dokidoki-paradox-eternal",
-    "title": "Yuru Yuri: Doushite, Tomaranai, Tokimeki, Dokidoki, Paradox, Eternal"
+    "relation": "prequel",
+    "slug": "yuru-yuri",
+    "title": "Yuru Yuri"
   },
   {
     "relation": "sequel",
-    "slug": "yuru-yuri",
-    "title": "Yuru Yuri♪♪"
-  },
-  {
-    "relation": "spin_off",
-    "slug": "oomuro-ke-dear-sisters",
-    "title": "Oomuro-ke: Dear Sisters"
+    "slug": "yuru-yuri-nachuyachumi",
+    "title": "Yuru Yuri Nachuyachumi!"
   }
 ]
