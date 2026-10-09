@@ -1,0 +1,22 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "onegaiteacher",
+    "title": "Onegai☆Teacher"
+  },
+  {
+    "relation": "parent_story",
+    "slug": "onegaiteacher-himitsu-na-futari",
+    "title": "Onegai☆Teacher: Himitsu na Futari"
+  },
+  {
+    "relation": "sequel",
+    "slug": "onegaitwins-natsu-wa-owaranai",
+    "title": "Onegai☆Twins: Natsu wa Owaranai"
+  },
+  {
+    "relation": "summary",
+    "slug": "onegaitwins-relations",
+    "title": "Onegai☆Twins: Relations"
+  }
+]
