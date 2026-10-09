@@ -1,0 +1,417 @@
+[
+  {
+    "name": "Akagi",
+    "nameNative": "アカギ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30680-mJXuyZ5A07kj.png",
+    "role": "main",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Baku",
+    "nameNative": "バク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35420.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Green Okido",
+    "nameNative": "オーキド・グリーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7036-hl0vrJnQ6Ie8.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Handsome",
+    "nameNative": "ハンサム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30980-dUogJd4GyhxK.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kenyuu-horiuchi",
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Minaki",
+    "nameNative": "ミナキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34675-jJcIGPOByQGa.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroshi-tsuchida"
+    ]
+  },
+  {
+    "name": "Momi",
+    "nameNative": "モミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30258-CJZqk7b8JdXa.png",
+    "role": "main",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "N Harmonia",
+    "nameNative": "ナチュラル・ハルモニア・グロピウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b37480-Pnu5dXXtqswY.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "nameNative": "ピカチュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+    "role": "main",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Red",
+    "nameNative": "レッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7035-UOomO6GYxALT.png",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Wataru",
+    "nameNative": "ワタル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7042-YhDgP2BAyFRP.png",
+    "role": "main",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Akuroma",
+    "nameNative": "アクロマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b66341-2gDEIyVi7YyW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tokuyoshi-kawashima"
+    ]
+  },
+  {
+    "name": "Aloe",
+    "nameNative": "アロエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b39071-lllx2AriaQWe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-takamiya"
+    ]
+  },
+  {
+    "name": "Aogiri",
+    "nameNative": "アオギリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29655-EpE0sC5st5Z7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Arti",
+    "nameNative": "アーティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39598.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Asura",
+    "nameNative": "アスラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249566-6voCoIAxqStW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouma-abe"
+    ]
+  },
+  {
+    "name": "AZ",
+    "nameNative": "AZ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266754-UcEBweJLw35g.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-hashi"
+    ]
+  },
+  {
+    "name": "Black",
+    "nameNative": "ブラック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b37489-oUN4C9uudKjF.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Carnet",
+    "nameNative": "カルネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158860-LQw5tkPKjfTq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  },
+  {
+    "name": "Fleur-de-lis",
+    "nameNative": "フラダリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134534-yczRm24bH4jX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi"
+    ]
+  },
+  {
+    "name": "Fuuro",
+    "nameNative": "フウロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/56383.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-shibasaki"
+    ]
+  },
+  {
+    "name": "Ghetsis Harmonia",
+    "nameNative": "ゲーチス・ハルモニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b77461-Ny3VHbeVj2MT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Gold",
+    "nameNative": "ゴールド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7074-taYOeuAEP7KE.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Hachiku",
+    "nameNative": "ハチク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63145.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Homura",
+    "nameNative": "ホムラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40005-sDsVmzPxPeTR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-suyama"
+    ]
+  },
+  {
+    "name": "Iris",
+    "nameNative": "アイリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35524-gUFifWjLxuXW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  },
+  {
+    "name": "Izumi",
+    "nameNative": "イズミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b27790-V85RuA4mrLXL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takako-honda"
+    ]
+  },
+  {
+    "name": "Jupiter",
+    "nameNative": "ジュピタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33865-JPG7pKdA8p2Z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "michiko-kaiden"
+    ]
+  },
+  {
+    "name": "Kagari",
+    "nameNative": "カガリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71221-7Whexftl0nig.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Kairyu",
+    "nameNative": "カイリュー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142475-s0UL21Qb4nr4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Kamitsure",
+    "nameNative": "カミツレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49741-sBg4f4ioKskH.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kanna",
+    "nameNative": "カンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7041-EwN22UGhpX3c.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Kikuko",
+    "nameNative": "キクコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7039-oSW8ItPUGAtS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kyouda"
+    ]
+  },
+  {
+    "name": "Lambda",
+    "nameNative": "ラムダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266753-UOBpTWfIbKIe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Mars",
+    "nameNative": "マーズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/33760.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-kitahara"
+    ]
+  },
+  {
+    "name": "Matiere",
+    "nameNative": "マチエール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b233245-OXTyFQ4tunlZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Matsubusa",
+    "nameNative": "マツブサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35587-NLH7mUqAvm53.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seiji-sasaki"
+    ]
+  },
+  {
+    "name": "Pachira",
+    "nameNative": "パキラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b251355-aic0WmQ4DEK9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Pluto",
+    "nameNative": "プルート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33867-HKQBPZp4b5KT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousei-tomita"
+    ]
+  },
+  {
+    "name": "Sakaki",
+    "nameNative": "サカキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9881-hhIKJ4JvPY7S.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Saturn",
+    "nameNative": "サターン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33866-Y4DuH7UMsSKq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-yamashita"
+    ]
+  },
+  {
+    "name": "Shaga",
+    "nameNative": "シャガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43189.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Shiba",
+    "nameNative": "シバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7040-0OIoOUmVjRj6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takanori-hoshino"
+    ]
+  },
+  {
+    "name": "Shirona",
+    "nameNative": "シロナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17947-snK9qbmCzKdY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Silver",
+    "nameNative": "シルバー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7073-HM2Qw7mQGvKk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Soraishi Hakase",
+    "nameNative": "ソライシ博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30977-zAF6KjzmrHZh.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Sumra",
+    "nameNative": "スムラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249569-g6Hq4gWzFQjc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shuuhei-matsuda"
+    ]
+  },
+  {
+    "name": "Ushio",
+    "nameNative": "ウシオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249548-cuXGdzd5ZtbN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Yacon",
+    "nameNative": "ヤーコン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57041.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  }
+]
