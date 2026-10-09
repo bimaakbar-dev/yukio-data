@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Alma",
+    "nameNative": "アルマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b353665-XoXcRJ3zS8Nt.png",
+    "role": "main",
+    "voiceActors": [
+      "hika-tsukishiro"
+    ]
+  },
+  {
+    "name": "Enji Kamizato",
+    "nameNative": "神里エンジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354451-yOSVJNAl3Ugu.png",
+    "role": "main",
+    "voiceActors": [
+      "ryouta-suzuki"
+    ]
+  },
+  {
+    "name": "Suzume Yobane",
+    "nameNative": "夜羽スズメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354452-ReMWRdMLsE1W.png",
+    "role": "main",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Hana Yashiki",
+    "nameNative": "屋敷ハナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saku-mizuno"
+    ]
+  },
+  {
+    "name": "Makina",
+    "nameNative": "マキナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b373699-Ft9zGrOUpzoZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rika-nagae"
+    ]
+  },
+  {
+    "name": "Neon",
+    "nameNative": "ネオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b373700-0ZUFYzBycB22.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hinaki-yano"
+    ]
+  },
+  {
+    "name": "Toki Kamizato",
+    "nameNative": "神里トキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-toono"
+    ]
+  },
+  {
+    "name": "Tokoyo Omoikane",
+    "nameNative": "思兼常夜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-senbongi"
+    ]
+  }
+]
