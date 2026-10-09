@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Bulma",
+    "nameNative": "ブルマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b678-2YCe13F0tFos.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiromi-tsuru"
+    ]
+  },
+  {
+    "name": "Gokuu Son",
+    "nameNative": "孫悟空",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/246-wsRRr6z1kii8.png",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "King Gurumes",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40421.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shuichiro-moriyama"
+    ]
+  },
+  {
+    "name": "Oolong",
+    "nameNative": "ウーロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2108.jpg",
+    "role": "main",
+    "voiceActors": [
+      "naoki-tatsuta"
+    ]
+  },
+  {
+    "name": "Muten Roushi",
+    "nameNative": "武天老師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6167-aMPt1bHf5YbV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouhei-miyauchi"
+    ]
+  },
+  {
+    "name": "Pansy",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27587.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomiko-suzuki"
+    ]
+  },
+  {
+    "name": "Pasta",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9769.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-koyama"
+    ]
+  },
+  {
+    "name": "Pu'ar",
+    "nameNative": "プーアル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b677-PTNZaPeuV1Dx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-watanabe"
+    ]
+  },
+  {
+    "name": "Shen Long",
+    "nameNative": "神龍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6127.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-utsumi"
+    ]
+  },
+  {
+    "name": "Umigame",
+    "nameNative": "海亀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2112.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-gouri"
+    ]
+  },
+  {
+    "name": "Vongo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40436.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gorou-naya"
+    ]
+  },
+  {
+    "name": "Yamcha",
+    "nameNative": "ヤムチャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4014-of2ONLvA7T8p.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-furuya"
+    ]
+  }
+]
