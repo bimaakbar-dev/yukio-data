@@ -1,0 +1,264 @@
+[
+  {
+    "name": "Chichiri",
+    "nameNative": "井宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1894.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Chiriko",
+    "nameNative": "張宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4970.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomoko-kawakami"
+    ]
+  },
+  {
+    "name": "Hotohori",
+    "nameNative": "星宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2368.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takehito-koyasu",
+      "ayumi-kida"
+    ]
+  },
+  {
+    "name": "Miaka Yuuki",
+    "nameNative": "夕城美朱",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2178.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kae-araki"
+    ]
+  },
+  {
+    "name": "Mitsukake",
+    "nameNative": "軫宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4969.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kouji-ishii"
+    ]
+  },
+  {
+    "name": "Nakago",
+    "nameNative": "魏アユル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1833.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tooru-furusawa"
+    ]
+  },
+  {
+    "name": "Nuriko",
+    "nameNative": "柳宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2017.jpg",
+    "role": "main",
+    "voiceActors": [
+      "chika-sakamoto"
+    ]
+  },
+  {
+    "name": "Tamahome",
+    "nameNative": "鬼宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2868.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Tasuki",
+    "nameNative": "翼宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3020.jpg",
+    "role": "main",
+    "voiceActors": [
+      "nobutoshi-kanna"
+    ]
+  },
+  {
+    "name": "Yui Hongo",
+    "nameNative": "本郷唯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3932.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yumi-touma"
+    ]
+  },
+  {
+    "name": "Amiboshi",
+    "nameNative": "亢宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5116-L7lWyPgb1iK4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Ashitare",
+    "nameNative": "尾宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5290.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuzaburou-ootomo"
+    ]
+  },
+  {
+    "name": "Chamka Tan",
+    "nameNative": "チャムカ•ターン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3344.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuya-iwanaga"
+    ]
+  },
+  {
+    "name": "Emthatt Chen",
+    "nameNative": "エムタト·チェン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3451.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Keisuke Yuuki",
+    "nameNative": "夕城圭介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3933.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Kouji",
+    "nameNative": "攻児",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4064.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Miboshi",
+    "nameNative": "箕宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5577.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "midori-nakazawa"
+    ]
+  },
+  {
+    "name": "Nyan-Nyan",
+    "nameNative": "娘娘",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38049.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kyouko-hikami",
+      "hiroko-konishi"
+    ]
+  },
+  {
+    "name": "Shouka",
+    "nameNative": "少華",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27248.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  },
+  {
+    "name": "Soi",
+    "nameNative": "房宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3931.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Subaru",
+    "nameNative": "昴宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5569.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-doi"
+    ]
+  },
+  {
+    "name": "Suboshi",
+    "nameNative": "角宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5117-GtaYxEfaPvQa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Suzaku",
+    "nameNative": "朱雀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27806.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Taiitsukun",
+    "nameNative": "太一君",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35418.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kyouda"
+    ]
+  },
+  {
+    "name": "Tama",
+    "nameNative": "たま",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26300.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-touma"
+    ]
+  },
+  {
+    "name": "Tatara",
+    "nameNative": "婁宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5576-AIt42Of06OeI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jin-yamanoi"
+    ]
+  },
+  {
+    "name": "Tetsuya Kajiwara",
+    "nameNative": "梶原哲也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5655-6kVd5Vpbf355.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-narita"
+    ]
+  },
+  {
+    "name": "Tokaki",
+    "nameNative": "奎宿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5568.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-ishii",
+      "katsuya-shiga"
+    ]
+  },
+  {
+    "name": "Tomo",
+    "nameNative": "智",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5460.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  }
+]
