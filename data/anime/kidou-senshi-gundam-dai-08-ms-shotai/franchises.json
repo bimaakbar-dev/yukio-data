@@ -1,0 +1,27 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "kidou-senshi-gundam",
+    "title": "Kidou Senshi Gundam"
+  },
+  {
+    "relation": "other",
+    "slug": "kidou-senshi-gundam-uchuu-seiki-yowa",
+    "title": "Kidou Senshi Gundam: Uchuu Seiki Yowa"
+  },
+  {
+    "relation": "summary",
+    "slug": "kidou-senshi-gundam-dai-08-ms-shoutai-millers-report",
+    "title": "Kidou Senshi Gundam: Dai 08 MS Shoutai - Miller's Report"
+  },
+  {
+    "relation": "side_story",
+    "slug": "kidou-senshi-gundam-dai-08-ms-shoutai-sanjigen-to-no-tatakai",
+    "title": "Kidou Senshi Gundam: Dai 08 MS Shoutai - Sanjigen to no Tatakai"
+  },
+  {
+    "relation": "summary",
+    "slug": "kidou-senshi-gundam-hikaru-inochi-chronicle-uc",
+    "title": "Kidou Senshi Gundam: Hikaru Inochi Chronicle U.C."
+  }
+]
