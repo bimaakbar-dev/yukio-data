@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Midori Kitakami",
+    "nameNative": "北上ミドリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75214-xD2gutXw94hM.png",
+    "role": "main",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Asuka Langley Souryuu",
+    "nameNative": "惣流・アスカ・ラングレー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b94-d631a3Z2KPvd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-miyamura"
+    ]
+  },
+  {
+    "name": "Hideki Tama",
+    "nameNative": "多摩ヒデキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b74141-oWKLXzM3qNI9.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "anri-katsu"
+    ]
+  },
+  {
+    "name": "Sumire Nagara",
+    "nameNative": "長良スミレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b74137-OrxUGzHZYH7V.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  }
+]
