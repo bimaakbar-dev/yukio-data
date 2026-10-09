@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Mash Kyrielight",
+    "nameNative": "マシュ・キリエライト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120735-TjIeTlsKNaMl.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Ritsuka Fujimaru",
+    "nameNative": "藤丸立香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154216-u50KteXa51Pf.png",
+    "role": "main",
+    "voiceActors": [
+      "akira-sekine"
+    ]
+  },
+  {
+    "name": "Achilles",
+    "nameNative": "アキレウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129412-HarnBxtTXG1z.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Arash",
+    "nameNative": "アーラシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137278-VbTRnYgCtIp0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-tsuruoka"
+    ]
+  },
+  {
+    "name": "Artemis",
+    "nameNative": "アルテミス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189141-NDOOizAKa7px.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Artoria Caster",
+    "nameNative": "アルトリア・キャスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312996-Kzgs1YPaKUcF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Artoria Pendragon",
+    "nameNative": "アルトリア・ペンドラゴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Atalanta",
+    "nameNative": "アタランテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89924-Z4xYcaYxmEZ7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Bradamante",
+    "nameNative": "ブラダマンテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187813-YMM6KcmnIRqp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chitose-morinaga"
+    ]
+  },
+  {
+    "name": "Carmilla",
+    "nameNative": "カーミラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198987-LTnKydWurbBW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Charles Babbage",
+    "nameNative": "チャールズ・バベッジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187828-hAbyva1eIFrQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Chevalier d'Eon",
+    "nameNative": "シュヴァリエ・デオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188664-hRXpWVtJlEgy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Christopher Columbus",
+    "nameNative": "クリストファー・コロンブス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164240-2oevjcQ3EkeE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Cú  Chulainn",
+    "nameNative": "クー・フーリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b499-gS5RAdupSKWQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobutoshi-kanna",
+      "kazuya-nakai"
+    ]
+  },
+  {
+    "name": "Dumuzid",
+    "nameNative": "タンムーズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b234931-kbWwLumILXKj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-kamio"
+    ]
+  },
+  {
+    "name": "Edmond Dantès",
+    "nameNative": "エドモン・ダンテス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135233-gRTUxxyIvZXq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Edward Teach",
+    "nameNative": "エドワード・ティーチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188663-JyBGycOll5fr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tadahisa-saizen"
+    ]
+  },
+  {
+    "name": "Elizabeth Bathory",
+    "nameNative": "エリザベート・バートリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121162-OJEhnUj9tp78.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rumi-ookubo"
+    ]
+  },
+  {
+    "name": "Ereshkigal",
+    "nameNative": "エレシュキガル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150759-VGIPIiMzriqI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  },
+  {
+    "name": "Fou",
+    "nameNative": "フォウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135703-G5LdKY9DD0Ct.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Frankenstein",
+    "nameNative": "フランケンシュタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129411-ODivzbiio6MQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-nonaka"
+    ]
+  },
+  {
+    "name": "Gawain",
+    "nameNative": "ガウェイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138357-xJTl4h2XP2vz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daichuu-mizushima"
+    ]
+  },
+  {
+    "name": "Geronimo",
+    "nameNative": "ジェロニモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210512-MEAA0F5861Z2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisao-egawa"
+    ]
+  },
+  {
+    "name": "Gilgamesh",
+    "nameNative": "ギルガメッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki",
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Gilles de Rais",
+    "nameNative": "ジル・ド・レェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16024-MZXEjshw6q6B.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-tsuruoka"
+    ]
+  },
+  {
+    "name": "Helena Blavatsky",
+    "nameNative": "エレナ・ブラヴァツキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187829-vuFzmszKkfeA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Ibaraki-Douji",
+    "nameNative": "茨木童子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175503-Sksc41mzLV3b.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Ishtar",
+    "nameNative": "イシュタル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135743-K9rrQKqxWB5q.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  },
+  {
+    "name": "Jack the Ripper",
+    "nameNative": "ジャック・ザ・リッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55951-7uBzcKzN5tvf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sakura-tange"
+    ]
+  },
+  {
+    "name": "Jaguar Man",
+    "nameNative": "ジャガーマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b149796-64L1331jrhqB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "James Moriarty",
+    "nameNative": "ジェームズ・モリアーティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156198-ZyEbgkv4CAdg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-hashi"
+    ]
+  },
+  {
+    "name": "Jeanne  d'Arc",
+    "nameNative": "ジャンヌ・ダルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67769-6TSfn8kz4KVf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Jeanne d'Arc Alter",
+    "nameNative": "ジャンヌ・ダルク・オルタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215691-3QKTkH6zoKFe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Kingprotea",
+    "nameNative": "キングプロテア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215692-DmpTmHzlmJzD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Kotarou Fuuma",
+    "nameNative": "風魔小太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175642-FniB8XQjNNmx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Koumei Zhuge",
+    "nameNative": "諸葛孔明",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217615-kIr4yogOPSDB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Lancelot",
+    "nameNative": "ランスロット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12732-yayxYNs1FQeF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Leonardo da Vinci",
+    "nameNative": "レオナルド・ダ・ヴィンチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137153-z1OAHznRE0rq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Medb",
+    "nameNative": "女王メイヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143922-mtD6wWhbMkCT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Meltryllis",
+    "nameNative": "メルトリリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210999-khPNZgyM9mTI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Merlin",
+    "nameNative": "マーリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126820-9FU6ueHKN2LI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Mori Nagayoshi",
+    "nameNative": "森長可",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188672-ewgridAtXnHY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Mysterious Neco Z",
+    "nameNative": "謎のネコZ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264398-Xe37ardqINgH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Mysterious Neko V",
+    "nameNative": "謎のネコV",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b237857-pcUBHPTfQt4s.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Mysterious Neko W",
+    "nameNative": "謎のネコW",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b237858-Qabei3c38l9J.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-nonaka"
+    ]
+  },
+  {
+    "name": "Mysterious Neko X",
+    "nameNative": "謎のネコX",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b237855-gggrWjoBQu2D.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Mysterious Neko Y",
+    "nameNative": "謎のネコY",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b237856-ExUvnzpGlcs0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Napoleon Bonaparte",
+    "nameNative": "ナポレオン・ボナパルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175638-HaWRcy7qWJYk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Neco-Arc",
+    "nameNative": "ネコアルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46809-vugEKQGhg4Hc.png",
+    "role": "supporting",
+    "voiceActors": []
+  }
+]
