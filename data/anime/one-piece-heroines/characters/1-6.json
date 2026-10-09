@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Miucha",
+    "nameNative": "ミウチャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206510-q2daYgodKH0A.png",
+    "role": "main",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Nami",
+    "nameNative": "ナミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png",
+    "role": "main",
+    "voiceActors": [
+      "akemi-okamura"
+    ]
+  },
+  {
+    "name": "Robin Nico",
+    "nameNative": "ニコロビン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png",
+    "role": "main",
+    "voiceActors": [
+      "yuriko-yamaguchi"
+    ]
+  },
+  {
+    "name": "Lebno",
+    "nameNative": "ルブノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Perona",
+    "nameNative": "ぺローナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7467-0xxnaxQGfhkY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kumiko-nishihara"
+    ]
+  },
+  {
+    "name": "Zeus",
+    "nameNative": "ゼウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b233909-4lP4cvnqgU98.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-mizushima"
+    ]
+  }
+]
