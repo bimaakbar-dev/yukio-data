@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Marie",
+    "nameNative": "マリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b340412-uomyZHCklov7.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Shion",
+    "nameNative": "シオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b340411-rv4LiatYDfhb.jpg",
+    "role": "main",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Bridget",
+    "nameNative": "ブリジット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b353151-lLI3A1B5xtlV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-koga"
+    ]
+  },
+  {
+    "name": "Emma",
+    "nameNative": "エマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Gawain",
+    "nameNative": "ガウェイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-miyamoto"
+    ]
+  },
+  {
+    "name": "Rafina",
+    "nameNative": "ラフィーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b360841-aJBLxPlpawfg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-serizawa"
+    ]
+  },
+  {
+    "name": "Rose",
+    "nameNative": "ローズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b353150-RLiSsJt4UI7i.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sora-amamiya"
+    ]
+  }
+]
