@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Reg",
+    "nameNative": "レグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122444-9rGUpcjwygHD.png",
+    "role": "main",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Riko",
+    "nameNative": "リコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122443-Md7TtolADEJh.png",
+    "role": "main",
+    "voiceActors": [
+      "miyu-tomita"
+    ]
+  },
+  {
+    "name": "Beruchero",
+    "nameNative": "ベルチェロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158393-qppg4MLksXWk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-soumi"
+    ]
+  },
+  {
+    "name": "Hablog",
+    "nameNative": "ハボルグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123185-lOJJvAS0tqF0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Jiruo",
+    "nameNative": "ジルオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123188-9yVeXsmPmtAY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taishi-murata"
+    ]
+  },
+  {
+    "name": "Marulk",
+    "nameNative": "マルルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/123145-wWYcJ3SOF426.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-toyosaki"
+    ]
+  },
+  {
+    "name": "Nat",
+    "nameNative": "ナット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122748-UQiYQ5OjzkGT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Ouzen",
+    "nameNative": "オーゼン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122464-xnYajKbuEa29.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  },
+  {
+    "name": "Shiggy",
+    "nameNative": "シギー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122749-moyrPEkfL7gv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "manami-numakura"
+    ]
+  },
+  {
+    "name": "Simred",
+    "nameNative": "シムラド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153051-oZj2GhZmROrK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-shin"
+    ]
+  }
+]
