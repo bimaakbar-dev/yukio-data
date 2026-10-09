@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Makoto",
+    "nameNative": "マコト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129968-mU1cTohy0c5j.png",
+    "role": "main",
+    "voiceActors": [
+      "shiori-satou"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "nameNative": "ピカチュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Satoshi",
+    "nameNative": "サトシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+    "role": "main",
+    "voiceActors": [
+      "rica-matsumoto"
+    ]
+  },
+  {
+    "name": "Souji",
+    "nameNative": "ソウジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129966-WkAKpCTlDzKV.png",
+    "role": "main",
+    "voiceActors": [
+      "kanata-hongou"
+    ]
+  },
+  {
+    "name": "Bonjii",
+    "nameNative": "ボンジイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129969-5q0gKCaF7sAK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "arata-furuta"
+    ]
+  },
+  {
+    "name": "Butterfree",
+    "nameNative": "バタフリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181417-eoHO3LlZby5L.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikako-aikawa"
+    ]
+  },
+  {
+    "name": "Cross",
+    "nameNative": "クロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129967-jFKmGfq7qAy2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Erika",
+    "nameNative": "エリカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17283-iKvZGD0SIhVn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kyouko-hikami"
+    ]
+  },
+  {
+    "name": "Hanako",
+    "nameNative": "ハナコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29184.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masami-toyoshima"
+    ]
+  },
+  {
+    "name": "Joy",
+    "nameNative": "ジョーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7558-LzxI6BSiinA3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-nakagawa"
+    ]
+  },
+  {
+    "name": "Kikuko",
+    "nameNative": "キクコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7039-oSW8ItPUGAtS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuko-sugiyama"
+    ]
+  },
+  {
+    "name": "Kojirou",
+    "nameNative": "コジロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3936-5sX4EZIY2BRU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Laplace",
+    "nameNative": "ラプラス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224575-QAmzeADDKgBh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chika-fujimura"
+    ]
+  },
+  {
+    "name": "Lizardon",
+    "nameNative": "リザードン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180037-u3b2oiaWdfAm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Lucario",
+    "nameNative": "ルカリオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8364.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyotaka-furushima"
+    ]
+  },
+  {
+    "name": "Musashi",
+    "nameNative": "ムサシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3935-m000RuoIVOGI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Nyarth",
+    "nameNative": "ニャース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inuko-inuyama"
+    ]
+  },
+  {
+    "name": "Pink Butterfree",
+    "nameNative": "ピンクバタフリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b149753-uQGTuvl6iOgX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chinami-nishimura"
+    ]
+  },
+  {
+    "name": "Pocchama",
+    "nameNative": "ポッチャマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133224-e024AiBEkKQY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "etsuko-kozakura"
+    ]
+  },
+  {
+    "name": "Sonans",
+    "nameNative": "ソーナンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144635-gUHUUYtPcxuV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Yukinari Ookido",
+    "nameNative": "オーキド・ユキナリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17783-OwYJSOFjd91A.png",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  }
+]
