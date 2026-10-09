@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Ban Mido",
+    "nameNative": "美堂蛮",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46-UJtWIWxPJDdQ.png",
+    "role": "main",
+    "voiceActors": [
+      "nobutoshi-kanna"
+    ]
+  },
+  {
+    "name": "Ginji Amano",
+    "nameNative": "天野銀次",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b47-30jJYxE6iF4V.png",
+    "role": "main",
+    "voiceActors": [
+      "shoutarou-morikubo",
+      "ryouko-shiraishi"
+    ]
+  },
+  {
+    "name": "Himiko Kudou",
+    "nameNative": "工藤卑弥呼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b53-KZU5ptFb831g.png",
+    "role": "main",
+    "voiceActors": [
+      "natsuko-kuwatani"
+    ]
+  },
+  {
+    "name": "Kazuki Fuuchoin",
+    "nameNative": "風鳥院花月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b48-wwD4YG2MB6n9.png",
+    "role": "main",
+    "voiceActors": [
+      "souichirou-hoshi",
+      "yumiko-kobayashi"
+    ]
+  },
+  {
+    "name": "Shido Fuyuki",
+    "nameNative": "冬木士度",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49-P3iXGHesj95S.png",
+    "role": "main",
+    "voiceActors": [
+      "takanori-hoshino"
+    ]
+  },
+  {
+    "name": "Clayman",
+    "nameNative": "クレイマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15193.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-ogata"
+    ]
+  },
+  {
+    "name": "Gensui Radou",
+    "nameNative": "螺堂源水",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17429.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaharu-satou"
+    ]
+  },
+  {
+    "name": "Haruki Emishi",
+    "nameNative": "笑師春樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16284.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-madono"
+    ]
+  },
+  {
+    "name": "Haruo Ootaki",
+    "nameNative": "大滝ハルオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57217.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Hera",
+    "nameNative": "ヘラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57227.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-fukamizu"
+    ]
+  },
+  {
+    "name": "Hevn",
+    "nameNative": "HEVN",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rio-natsuki"
+    ]
+  },
+  {
+    "name": "Jubei Kakei",
+    "nameNative": "筧十兵衛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/56.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park",
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Kaoru Ujiie",
+    "nameNative": "氏家火生留",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35132.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Kuroudo Akabane",
+    "nameNative": "赤屍蔵人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Kyoji Kagami",
+    "nameNative": "鏡形而",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/453.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Madoka Otowa",
+    "nameNative": "音羽マドカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14332.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-matsuoka"
+    ]
+  },
+  {
+    "name": "Maguruma Gouzou",
+    "nameNative": "馬車號造",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14700.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tadahisa-saizen"
+    ]
+  },
+  {
+    "name": "MakubeX",
+    "nameNative": "間久部X",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/55.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Masaki Kurusu",
+    "nameNative": "来栖柾",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17427.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-hori"
+    ]
+  },
+  {
+    "name": "Midori",
+    "nameNative": "結城みどり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miho-yamada"
+    ]
+  },
+  {
+    "name": "Natsuhiko Miroku",
+    "nameNative": "夏彦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4118.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Natsumi Mizuki",
+    "nameNative": "水城夏実",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51-UgL9oGuRfz6B.png",
+    "role": "supporting",
+    "voiceActors": [
+      "otoha"
+    ]
+  },
+  {
+    "name": "Paul Wang",
+    "nameNative": "王波児",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasunori-matsumoto"
+    ]
+  },
+  {
+    "name": "Ren Radou",
+    "nameNative": "螺堂レン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57229.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumiko-nakanishi"
+    ]
+  },
+  {
+    "name": "Rika Yamamura",
+    "nameNative": "山村理香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/56939.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-sugimoto"
+    ]
+  },
+  {
+    "name": "Riko Tachibana",
+    "nameNative": "橘理子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-shimazaki"
+    ]
+  },
+  {
+    "name": "Sakura Kakei",
+    "nameNative": "筧朔羅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17428.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukiko-iwai"
+    ]
+  },
+  {
+    "name": "Shunsuke Akutsu",
+    "nameNative": "阿久津俊介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34899.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Takeru Teshimine",
+    "nameNative": "天子峰猛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7762.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Takuma Fudou",
+    "nameNative": "不動琢磨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17209.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masahiko-tanaka"
+    ]
+  },
+  {
+    "name": "Toshiki Uryuu",
+    "nameNative": "雨流俊樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2482.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Toshizou Tatsukawa",
+    "nameNative": "辰川歳三",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57213.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyuki-shimura"
+    ]
+  },
+  {
+    "name": "Yamato Kudou",
+    "nameNative": "工藤邪馬人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35093.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Yukihiko Miroku",
+    "nameNative": "雪彦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14701.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-kimura"
+    ]
+  },
+  {
+    "name": "Yuuji Takamura",
+    "nameNative": "高村裕二",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  }
+]
