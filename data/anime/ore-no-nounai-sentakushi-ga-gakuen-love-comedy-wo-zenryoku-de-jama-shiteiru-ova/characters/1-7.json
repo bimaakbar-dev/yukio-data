@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Chocolat",
+    "nameNative": "ショコラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81221-wFm45lVLmau2.jpg",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Furano Yukihira",
+    "nameNative": "雪平ふらの",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81223.jpg",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Kanade Amakusa",
+    "nameNative": "甘草奏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81219-oClHeM2lXSY7.png",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Ouka Yuuouji",
+    "nameNative": "遊王子謳歌",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81225.jpg",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Nozomi Katakoi",
+    "nameNative": "片恋ノゾミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327985-5BmxWlaxOjE1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Satsuki Himajiri",
+    "nameNative": "陽交差月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327291-7Yxq7mpj2ntq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saeko-zougou"
+    ]
+  },
+  {
+    "name": "You Haruhara",
+    "nameNative": "春原ヨウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327986-Y6Z8NZBsCqr6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  }
+]
