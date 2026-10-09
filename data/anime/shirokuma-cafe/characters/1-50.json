@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Panda",
+    "nameNative": "パンダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b57691-b7BEzHFs6A5I.jpg",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Penguin",
+    "nameNative": "ペンギン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b57693-d9UXC908NuYK.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Sasako",
+    "nameNative": "笹子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b58691-ZpGIzh0jya1O.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Shirokuma",
+    "nameNative": "シロクマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b57689-FC9HVlGZfgvO.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Adelie Penguin",
+    "nameNative": "アデリーペンギン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67429.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Agohimo Penguin",
+    "nameNative": "アゴヒモペンギン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67431.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Alpaca",
+    "nameNative": "アルパカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75526-1RGlwlJ6gJif.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Anaguma",
+    "nameNative": "アナグマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67887-hghJuKyUySUT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-miyata"
+    ]
+  },
+  {
+    "name": "Anteater",
+    "nameNative": "コアリクイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64973-z7TRcHryn7JW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-fujiwara"
+    ]
+  },
+  {
+    "name": "Ayumi Oosaki",
+    "nameNative": "大崎 あゆみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64693-cX3vSZp0Jvnp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Baku",
+    "nameNative": "バク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b77331-gipijRQK2Pit.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yousuke-itou"
+    ]
+  },
+  {
+    "name": "Canada Yamaarashi",
+    "nameNative": "カナダヤマアラシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b73723-X6hc9rNR6FK4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-kondou"
+    ]
+  },
+  {
+    "name": "Eigyou Man",
+    "nameNative": "営業マン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67277-CJbKaatcFDkn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-suzumura"
+    ]
+  },
+  {
+    "name": "Ezorisu Mama",
+    "nameNative": "エゾリスママ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70797-JuDhMbe6LRHX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-miyata"
+    ]
+  },
+  {
+    "name": "Fudousan-ya",
+    "nameNative": "不動産屋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67893-7FoZ8tqYMhZw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-ogata"
+    ]
+  },
+  {
+    "name": "Full-time Panda",
+    "nameNative": "常勤パンダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b58697-a61fotxPtrjV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Gentoo Penguin",
+    "nameNative": "ジェンツーペンギン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67427.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-hirakawa"
+    ]
+  },
+  {
+    "name": "Giant Tortoise",
+    "nameNative": "ゾウガメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64971-Kp2zq7ztWnyj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-kondou"
+    ]
+  },
+  {
+    "name": "Grizzly",
+    "nameNative": "グリズリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59833-GJ1J2VCHbOUN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Handa",
+    "nameNative": "半田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b58693-WRDRJuhEIRxR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Higuma",
+    "nameNative": "ヒグマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b77259-n9P1Xsk4870i.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-tanaka"
+    ]
+  },
+  {
+    "name": "Hiromi",
+    "nameNative": "ヒロミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64699-Adkwdli5JGue.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Joshikousei",
+    "nameNative": "女子高生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67279-ROEsfkOXkY6z.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "King Penguin",
+    "nameNative": "キングペンギン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67421-C386f0adgfCt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Kinghina",
+    "nameNative": "キングヒナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67425-qZl336Crrm9Z.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-takeuchi"
+    ]
+  },
+  {
+    "name": "Kinobori Kangaroo",
+    "nameNative": "キノボリカンガルー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67435-PyNqOomnALrP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Kirino",
+    "nameNative": "桐野",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64695-kN1rkx1ttIGJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-kondou"
+    ]
+  },
+  {
+    "name": "Koala",
+    "nameNative": "コアラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70897-H2y46sHULqPa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-kondou"
+    ]
+  },
+  {
+    "name": "Kouteihina",
+    "nameNative": "コウテイヒナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67423-Bcivxrr5ditH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-nonaka"
+    ]
+  },
+  {
+    "name": "Lesser Panda",
+    "nameNative": "レッサーパンダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67885-1F06Jtxn3DxT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-yajima"
+    ]
+  },
+  {
+    "name": "Lion",
+    "nameNative": "ライオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71021-KHjwGSc5yrAs.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Llama",
+    "nameNative": "ラマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b58695-TvYzsUY6qJiK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Mama Grizzly",
+    "nameNative": "グリズリーママ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72425-3vuafkJbsKLV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Mandrill",
+    "nameNative": "マンドリル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67889-FxEtm5AG2Vaw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yousuke-itou"
+    ]
+  },
+  {
+    "name": "Masaki",
+    "nameNative": "マサキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67433-U9SxzHF7j9rv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Mei Mei Panda",
+    "nameNative": "メイメイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b63807-mvk0vfX1Xd75.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Mizuki",
+    "nameNative": "ミズキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64697-fVsQ9oPyqDXg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "manami-numakura"
+    ]
+  },
+  {
+    "name": "Namakemono",
+    "nameNative": "ナマケモノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b58699-gY4zB89dBjzM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Ookami",
+    "nameNative": "オオカミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71017-NuHfADMDgfxi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Otter",
+    "nameNative": "ラッコさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b68279-mf6PQRweswpc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-miyata"
+    ]
+  },
+  {
+    "name": "Panda Mama",
+    "nameNative": "パンダママ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b58689-sZsg3sQTENcw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Penguin Waitress",
+    "nameNative": "ペンギンウェイトレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/74487.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukari-tamura"
+    ]
+  },
+  {
+    "name": "Penjolina",
+    "nameNative": "ペンジョリーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/73333.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yahagi"
+    ]
+  },
+  {
+    "name": "Penka",
+    "nameNative": "ペン花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/73327.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yahagi"
+    ]
+  },
+  {
+    "name": "Penko",
+    "nameNative": "ペン子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64555.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yahagi"
+    ]
+  },
+  {
+    "name": "Penmi",
+    "nameNative": "ペン美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/73323.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yahagi"
+    ]
+  },
+  {
+    "name": "Penna",
+    "nameNative": "ペン奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/73325.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yahagi"
+    ]
+  },
+  {
+    "name": "Penno",
+    "nameNative": "ペン乃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/73329.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yahagi"
+    ]
+  },
+  {
+    "name": "Pennuelle",
+    "nameNative": "ペンニュエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/73331.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yahagi"
+    ]
+  },
+  {
+    "name": "Rika",
+    "nameNative": "リカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64701-EL3CfiFd9x5I.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoriko-nagata"
+    ]
+  }
+]
