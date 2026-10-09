@@ -1,0 +1,99 @@
+[
+  {
+    "name": "AAAAA",
+    "nameNative": "あああああ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311493-COSEnEy93FAS.png",
+    "role": "main",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Ichi",
+    "nameNative": "イチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311489-QSTKVmVE3wQY.png",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-hirose"
+    ]
+  },
+  {
+    "name": "May",
+    "nameNative": "メイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311495-wBOPYOZeIKpQ.png",
+    "role": "main",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Shiro Akabane",
+    "nameNative": "赤羽士郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311492-xsU3K6v1mfNt.png",
+    "role": "main",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Aya Arima",
+    "nameNative": "有間綾",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311500-DGzm4DSTd6K7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Hana Kamuro",
+    "nameNative": "神室花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311499-a40LTqfm7w6R.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Leon",
+    "nameNative": "レオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311498-S4lnhOLmgLIn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouhei-kimura"
+    ]
+  },
+  {
+    "name": "Nagato",
+    "nameNative": "長門",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338559-nr39CET9Pm9P.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Pico",
+    "nameNative": "ピコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311497-w2iUK5gSE17k.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Sasumata",
+    "nameNative": "サスマタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311494-ytdZxlBgQL0T.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-nanami"
+    ]
+  },
+  {
+    "name": "Shigatera",
+    "nameNative": "シガテラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311496-0oQTzGKpUmef.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  }
+]
