@@ -1,0 +1,414 @@
+[
+  {
+    "name": "Ataru Moroboshi",
+    "nameNative": "諸星あたる",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4834-N3Rgvc0ASR1d.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Lum",
+    "nameNative": "ラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4835-Blt6iPoFEQnr.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Asuka Mizunokoji",
+    "nameNative": "水乃小路飛鳥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54539-u6rp0yO1AP9B.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Ataru no Chichi",
+    "nameNative": "あたるの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49951.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Benten",
+    "nameNative": "弁天",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18381-HSb3d3a2GoZb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-ishigami"
+    ]
+  },
+  {
+    "name": "Carla",
+    "nameNative": "カルラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60057-NjDOt5DPqyPi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Ginger",
+    "nameNative": "じんじゃあ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60557.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chitose-morinaga"
+    ]
+  },
+  {
+    "name": "Inaba",
+    "nameNative": "因幡",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11156-u47Do4hx2DMb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-irino"
+    ]
+  },
+  {
+    "name": "Kitsune",
+    "nameNative": "キツネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n41582-XhtWKeVu9jnD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Kokeru Moroboshi",
+    "nameNative": "諸星こける",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319083-G9RE8xgmMRcK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "motoko-kumai"
+    ]
+  },
+  {
+    "name": "Kotatsu-neko",
+    "nameNative": "こたつ猫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49971-fKQAMC8lZMFZ.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kousuke Shirai",
+    "nameNative": "白井浩介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b216788-k2CIJmfmi0ii.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  },
+  {
+    "name": "Kurama",
+    "nameNative": "クラマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18379-DTJKhBXtP8j0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "Lum no Chichi",
+    "nameNative": "ラムの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49959.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Lum no Haha",
+    "nameNative": "ラムの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49225-9LUk3C70IJfe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumi-hirano"
+    ]
+  },
+  {
+    "name": "Mendou no Chichi",
+    "nameNative": "面堂の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49963-Z3plWRDNUNUZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Mendou no Haha",
+    "nameNative": "面堂の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49223-GX4Th4Mvvpz7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Mizunokoji Chichi",
+    "nameNative": "水乃小路母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54543.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiharu-sakurai"
+    ]
+  },
+  {
+    "name": "Mizunokoji Haha",
+    "nameNative": "水乃小路母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54541.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kotono-mitsuishi"
+    ]
+  },
+  {
+    "name": "Moroboshi Ataru no Haha",
+    "nameNative": "諸星あたるの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29395.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-toda"
+    ]
+  },
+  {
+    "name": "Nagisa no Chichi",
+    "nameNative": "渚の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60831-mRSEqHBg9lEo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-sakaguchi"
+    ]
+  },
+  {
+    "name": "Nagisa Shiowatari",
+    "nameNative": "潮渡渚",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60829-Uv5n8tJPTCJG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Nozomi",
+    "nameNative": "望",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60287-jwkSqgJ4L7Ac.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Onsen-Mark",
+    "nameNative": "温泉マーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29390-WpeX8CzzJ6Ui.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Oyuki",
+    "nameNative": "おユキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18007-jyZwbvkEa5m1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Pepper",
+    "nameNative": "ぺっぱあ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60567.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Ran",
+    "nameNative": "ラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18380-4vCyCQmiemmN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Rei",
+    "nameNative": "レイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n18378-M4M7arzSXRY5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Rupa",
+    "nameNative": "ルパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60055-yqPVN4gtbIsy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Ryouko Mendou",
+    "nameNative": "面堂了子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18008-Xtw2VVOj8AE7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Ryuunosuke Fujinami",
+    "nameNative": "藤波竜之介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3646-FDsINzDkEul2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayahi-takagaki"
+    ]
+  },
+  {
+    "name": "Ryuunosuke no Chichi",
+    "nameNative": "竜之介の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49957.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Sakura",
+    "nameNative": "サクラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19104-lUSvR3jbvRfZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Sakuranbou",
+    "nameNative": "錯乱坊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17499.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Satoshi",
+    "nameNative": "サトシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22390-Fsmh9BTjISM1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "setsuji-satou"
+    ]
+  },
+  {
+    "name": "Shingo",
+    "nameNative": "真吾",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60833-rOmvVwYZj0BB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Shinobu Miyake",
+    "nameNative": "三宅しのぶ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4837-MyjmNYCS21b0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Shuutarou Mendou",
+    "nameNative": "面堂終太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4836-trBkldOOOaIx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Souban",
+    "nameNative": "総番",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60275.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Sugar",
+    "nameNative": "しゅがあ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60563.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  },
+  {
+    "name": "Ten",
+    "nameNative": "テン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12958-h1em8MP8cSLp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Tobimaro Mizunokoji",
+    "nameNative": "水乃小路飛麿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54535-4BV0FYUrpimc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Torajima",
+    "nameNative": "トラジマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60483.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-fukunishi"
+    ]
+  },
+  {
+    "name": "Tsubame Ozuno",
+    "nameNative": "尾津乃つばめ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49969-dRvk1HL2Wtcr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Upa",
+    "nameNative": "ウパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b336404-ZuAZvxBetL1f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Yousei",
+    "nameNative": "妖精",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342405-aVDBaNBUHf7f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  }
+]
