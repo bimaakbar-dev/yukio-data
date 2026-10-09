@@ -1,0 +1,334 @@
+[
+  {
+    "name": "Merry Nightmare",
+    "nameNative": "メリー・ナイトメア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b27420-TMIy0FZHXTHD.png",
+    "role": "main",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Yumeji Fujiwara",
+    "nameNative": "藤原夢路",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33613-DhAGDtYFO8lD.png",
+    "role": "main",
+    "voiceActors": [
+      "nobuhiko-okamoto",
+      "yuka-keichou"
+    ]
+  },
+  {
+    "name": "Albireo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42771.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mikako-takahashi"
+    ]
+  },
+  {
+    "name": "Chizuru Kawanami",
+    "nameNative": "河浪千鶴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39634.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  },
+  {
+    "name": "Chris Evergreen",
+    "nameNative": "クリス・エヴァーグリーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40018.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shintarou-asanuma"
+    ]
+  },
+  {
+    "name": "Delga",
+    "nameNative": "デルガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-kondou"
+    ]
+  },
+  {
+    "name": "Engi Threepiece",
+    "nameNative": "エンギ・スリーピース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/33615.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Guricho",
+    "nameNative": "グリッチョ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b390956-8QdRal9aBm9z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinji-kawada"
+    ]
+  },
+  {
+    "name": "Hercules",
+    "nameNative": "エルクレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/41360.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Ichima",
+    "nameNative": "イチマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39789.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Isana Tachibana",
+    "nameNative": "橘勇魚",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29652.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "John Doe",
+    "nameNative": "ジョン・ドゥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/33614.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Ken",
+    "nameNative": "ケン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitoshi-yanai"
+    ]
+  },
+  {
+    "name": "Landsborough",
+    "nameNative": "ランズボロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/41361.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Leader Neko",
+    "nameNative": "リーダ猫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b390948-tZho0xe7ankZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Lestion",
+    "nameNative": "レスティオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/41362.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kuroda"
+    ]
+  },
+  {
+    "name": "Masaru",
+    "nameNative": "マサル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-igarashi"
+    ]
+  },
+  {
+    "name": "Mei Hoshino",
+    "nameNative": "星野鳴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39911.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-takamori"
+    ]
+  },
+  {
+    "name": "Minato Kisaragi",
+    "nameNative": "如月みなと",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39788.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  },
+  {
+    "name": "Mistilteinn Treesea",
+    "nameNative": "ミスティルテイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41325-63VzaeHWJV8x.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yahagi"
+    ]
+  },
+  {
+    "name": "Nao Horie",
+    "nameNative": "堀江菜桜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40226.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masumi-asano"
+    ]
+  },
+  {
+    "name": "Oosuga",
+    "nameNative": "大菅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "manabu-sakamaki"
+    ]
+  },
+  {
+    "name": "Palate",
+    "nameNative": "パレイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/41326.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-koyama"
+    ]
+  },
+  {
+    "name": "Pati Threepiece",
+    "nameNative": "パティ・スリーピース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/41363.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-gotou"
+    ]
+  },
+  {
+    "name": "Rou Ishi",
+    "nameNative": "老医師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "binbin-takaoka"
+    ]
+  },
+  {
+    "name": "Ryouta Iijima",
+    "nameNative": "飯島良太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39924.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-suzumura"
+    ]
+  },
+  {
+    "name": "Saki Kirishima",
+    "nameNative": "霧島咲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b39782-H5GmezlbHjy4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Serio",
+    "nameNative": "セリオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39926.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mikako-takahashi"
+    ]
+  },
+  {
+    "name": "Shakuend",
+    "nameNative": "シャクエント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keisuke-oda"
+    ]
+  },
+  {
+    "name": "Spica",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40930.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "azusa-enoki"
+    ]
+  },
+  {
+    "name": "Tachibana no Oyassan",
+    "nameNative": "橘のおやっさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39712.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Takateru Akiyanagi",
+    "nameNative": "秋柳貴照",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39540.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-tachibana"
+    ]
+  },
+  {
+    "name": "Take",
+    "nameNative": "タケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daichi-endou"
+    ]
+  },
+  {
+    "name": "YOKATO",
+    "nameNative": "YOKATO",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b390960-SdKgSmbMtea0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-akabane"
+    ]
+  },
+  {
+    "name": "Yoshida",
+    "nameNative": "吉田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-saitou"
+    ]
+  },
+  {
+    "name": "Yui Kounagi",
+    "nameNative": "光凪由衣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39355.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-akiya"
+    ]
+  },
+  {
+    "name": "Yumi",
+    "nameNative": "由美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39925.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kotomi-yamakawa"
+    ]
+  }
+]
