@@ -1,0 +1,37 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "overlord",
+    "title": "Overlord"
+  },
+  {
+    "relation": "other",
+    "slug": "ple-ple-pleiades-special-edition",
+    "title": "Ple Ple Pleiades Special Edition"
+  },
+  {
+    "relation": "sequel",
+    "slug": "overlord-ple-ple-pleiades-nazarick-saidai-no-kiki",
+    "title": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki"
+  },
+  {
+    "relation": "other",
+    "slug": "overlord-movie-ple-ple-pleiades",
+    "title": "Overlord Movie: Ple Ple Pleiades"
+  },
+  {
+    "relation": "sequel",
+    "slug": "overlord-ple-ple-pleiades-2",
+    "title": "Overlord: Ple Ple Pleiades 2"
+  },
+  {
+    "relation": "other",
+    "slug": "overlord-ple-ple-pleiades-clementine-toubou-hen",
+    "title": "Overlord: Ple Ple Pleiades - Clementine Toubou-hen"
+  },
+  {
+    "relation": "other",
+    "slug": "ple-ple-pleiades-x-kagejitsu",
+    "title": "Ple Ple Pleiades x Kagejitsu!"
+  }
+]
