@@ -1,0 +1,27 @@
+[
+  {
+    "relation": "alternative",
+    "slug": "inazuma-eleven",
+    "title": "Inazuma Eleven"
+  },
+  {
+    "relation": "side_story",
+    "slug": "inazuma-eleven-outer-code",
+    "title": "Inazuma Eleven: Outer Code"
+  },
+  {
+    "relation": "prequel",
+    "slug": "inazuma-eleven-reloaded-soccer-no-henkaku",
+    "title": "Inazuma Eleven: Reloaded - Soccer no Henkaku"
+  },
+  {
+    "relation": "other",
+    "slug": "inamori-asuto-no-soccer-kyoushitsu",
+    "title": "Inamori Asuto no Soccer Kyoushitsu"
+  },
+  {
+    "relation": "sequel",
+    "slug": "inazuma-eleven-orion-no-kokuin",
+    "title": "Inazuma Eleven: Orion no Kokuin"
+  }
+]
