@@ -1,0 +1,165 @@
+[
+  {
+    "name": "Cerberus",
+    "nameNative": "ケルベロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2897-Ckmv1Y2i9hZZ.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aya-hisakawa",
+      "masaya-onosaka"
+    ]
+  },
+  {
+    "name": "Sakura Kinomoto",
+    "nameNative": "木之本さくら",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2671-DflaemZz0xJo.png",
+    "role": "main",
+    "voiceActors": [
+      "sakura-tange"
+    ]
+  },
+  {
+    "name": "Xiaolang Li",
+    "nameNative": "李小狼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3029-urpwynZhFdbi.jpg",
+    "role": "main",
+    "voiceActors": [
+      "motoko-kumai"
+    ]
+  },
+  {
+    "name": "Chiharu Mihara",
+    "nameNative": "三原千春",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7134-TbQGcDJL57Kt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miwa-matsumoto"
+    ]
+  },
+  {
+    "name": "Eriol Hiiragizawa",
+    "nameNative": "柊沢エリオル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3456-zuOlvxijKqkB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomu-sasaki"
+    ]
+  },
+  {
+    "name": "Fujitaka Kinomoto",
+    "nameNative": "木之本藤隆",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3614-1RivUAINlQi0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-tanaka"
+    ]
+  },
+  {
+    "name": "Kaho Mizuki",
+    "nameNative": "観月歌帆",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3616-ubzeJlpAiSij.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emi-shinohara"
+    ]
+  },
+  {
+    "name": "Maki Matsumoto",
+    "nameNative": "松本真樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50347-GxRjg21Evcdv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kotono-mitsuishi"
+    ]
+  },
+  {
+    "name": "Meiling Li",
+    "nameNative": "李苺鈴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6768-o5qxlO8O8HIa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Naoko Yanagisawa",
+    "nameNative": "柳沢奈緒子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7139-gAVwX8aqsnYG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emi-motoi"
+    ]
+  },
+  {
+    "name": "Nothing",
+    "nameNative": "無",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7277-aGAEnlLNX6CN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Rika Sasaki",
+    "nameNative": "佐々木利佳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5771-f3fntF73nAPk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-kawakami"
+    ]
+  },
+  {
+    "name": "Sonomi Daidouji",
+    "nameNative": "大道寺園美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29244-A3EHkGP5vyRL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Takashi Yamazaki",
+    "nameNative": "山崎貴史",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7138-pya3EAEmNJap.png",
+    "role": "supporting",
+    "voiceActors": [
+      "issei-miyazaki"
+    ]
+  },
+  {
+    "name": "Tomoyo Daidouji",
+    "nameNative": "大道寺知世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3120-oZ4uB6NX5ReK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-iwao"
+    ]
+  },
+  {
+    "name": "Touya Kinomoto",
+    "nameNative": "木之本桃矢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3076-cc4uGPnxp3aI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Yue",
+    "nameNative": "月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3613-T0NHyrgxfyYb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-ogata"
+    ]
+  },
+  {
+    "name": "Yukito Tsukishiro",
+    "nameNative": "月城雪兎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3077.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-ogata"
+    ]
+  }
+]
