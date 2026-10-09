@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Third",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1754.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shun-oguri"
+    ]
+  },
+  {
+    "name": "Thor Klein",
+    "nameNative": "トール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1751.jpg",
+    "role": "main",
+    "voiceActors": [
+      "minami-takayama",
+      "kouichi-domoto"
+    ]
+  },
+  {
+    "name": "Tiz",
+    "nameNative": "ティズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1753.jpg",
+    "role": "main",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "Zagi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1755.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kazuya-nakai"
+    ]
+  },
+  {
+    "name": "Cheng",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1757.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rica-fukami"
+    ]
+  },
+  {
+    "name": "Karim",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1756.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Mao",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38173.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eriko-hirata"
+    ]
+  },
+  {
+    "name": "Rai Klein",
+    "nameNative": "ラーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1752.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-takayama"
+    ]
+  }
+]
