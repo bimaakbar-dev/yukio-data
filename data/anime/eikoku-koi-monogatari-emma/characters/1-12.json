@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Emma",
+    "nameNative": "エマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6751-VlUGJO6iv7UX.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yumi-touma"
+    ]
+  },
+  {
+    "name": "William Jones",
+    "nameNative": "ウィリアム・ジョーンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3196.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tokuyoshi-kawashima"
+    ]
+  },
+  {
+    "name": "Al",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10143-aWFbc1lDgAPY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomomichi-nishimura"
+    ]
+  },
+  {
+    "name": "Arthur Jones",
+    "nameNative": "アーサー・ジョーンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10145-HGeCqq0yMqTC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-miyata"
+    ]
+  },
+  {
+    "name": "Collin Jones",
+    "nameNative": "コリン・ジョーンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13708-tGNGMbiKNGHP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-shitaya"
+    ]
+  },
+  {
+    "name": "Eleanor Campbell",
+    "nameNative": "エレノア・キャンベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7334-rzcqugq3eHiB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Grace Jones",
+    "nameNative": "グレイス・ジョーンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10144-xnCQRumTSANE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  },
+  {
+    "name": "Hakim Atawari",
+    "nameNative": "ハキム・アタワーリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4275.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Kelly Stowner",
+    "nameNative": "ケリー・ストウナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7340-8XepcGffF3jH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taeko-nakanishi"
+    ]
+  },
+  {
+    "name": "Richard Jones",
+    "nameNative": "リチャード・ジョーンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10142-RzLGBekZTmRb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-nojima"
+    ]
+  },
+  {
+    "name": "Stevens",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40804-AVuc26Bu5DNc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-mikimoto"
+    ]
+  },
+  {
+    "name": "Vivian Jones",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b39433-SqUoHq8gx3av.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-mizuhashi"
+    ]
+  }
+]
