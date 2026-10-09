@@ -1,0 +1,22 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "yugioh-duel-monsters",
+    "title": "Yu☆Gi☆Oh! Duel Monsters"
+  },
+  {
+    "relation": "parent_story",
+    "slug": "yugioh-duel-monsters-gx",
+    "title": "Yu☆Gi☆Oh! Duel Monsters GX"
+  },
+  {
+    "relation": "parent_story",
+    "slug": "yugioh-5ds",
+    "title": "Yu☆Gi☆Oh! 5D's"
+  },
+  {
+    "relation": "other",
+    "slug": "makemagic",
+    "title": "Makemagic"
+  }
+]
