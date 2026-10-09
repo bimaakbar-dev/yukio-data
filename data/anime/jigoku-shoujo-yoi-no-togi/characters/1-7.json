@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Ai Enma",
+    "nameNative": "閻魔あい",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1789-8RLKp57peoIK.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Michiru Sagae",
+    "nameNative": "寒河江ミチル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175434-QHEPAMmdZRl8.png",
+    "role": "main",
+    "voiceActors": [
+      "misaki-watada"
+    ]
+  },
+  {
+    "name": "Hone Onna",
+    "nameNative": "骨女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1791.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takako-honda"
+    ]
+  },
+  {
+    "name": "Kikuri",
+    "nameNative": "きくり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1793.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kanako-sakai"
+    ]
+  },
+  {
+    "name": "Ren Ichimoku",
+    "nameNative": "一目連",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1790.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-matsukaze"
+    ]
+  },
+  {
+    "name": "Wanyuudou",
+    "nameNative": "輪入道",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1792.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-sugou"
+    ]
+  },
+  {
+    "name": "Yamawaro",
+    "nameNative": "山童",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16283.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hekiru-shiina"
+    ]
+  }
+]
