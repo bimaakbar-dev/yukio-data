@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Dent",
+    "nameNative": "デント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35525.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Iris",
+    "nameNative": "アイリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35524-gUFifWjLxuXW.png",
+    "role": "main",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "nameNative": "ピカチュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Satoshi",
+    "nameNative": "サトシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+    "role": "main",
+    "voiceActors": [
+      "rica-matsumoto"
+    ]
+  },
+  {
+    "name": "Eievui",
+    "nameNative": "イーブイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135979-8fTB1j4rvc9E.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoe-yoshioka"
+    ]
+  },
+  {
+    "name": "Eric",
+    "nameNative": "エリック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232713-RJnaEMfCMo8U.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-yoshimura"
+    ]
+  },
+  {
+    "name": "Joy",
+    "nameNative": "ジョーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7558-LzxI6BSiinA3.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kojirou",
+    "nameNative": "コジロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3936-5sX4EZIY2BRU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Mewtwo",
+    "nameNative": "ミュウツー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5113-hDiwLUwrbz6q.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Musashi",
+    "nameNative": "ムサシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3935-m000RuoIVOGI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Nyarth",
+    "nameNative": "ニャース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inuko-inuyama"
+    ]
+  }
+]
