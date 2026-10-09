@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Ciel",
+    "nameNative": "シエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287492-X3ddK9yTu8S3.png",
+    "role": "main",
+    "voiceActors": [
+      "nagisa-aoyama"
+    ]
+  },
+  {
+    "name": "Kanata",
+    "nameNative": "カナタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b297711-Jog8rQvBCRN4.png",
+    "role": "main",
+    "voiceActors": [
+      "takeo-ootsuka"
+    ]
+  },
+  {
+    "name": "Noir",
+    "nameNative": "ノワール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287493-UZNN6JIHpIIa.png",
+    "role": "main",
+    "voiceActors": [
+      "aoi-koga"
+    ]
+  },
+  {
+    "name": "Ada",
+    "nameNative": "エイダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327723-qST4bvsBby44.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-ishikawa"
+    ]
+  },
+  {
+    "name": "Alba",
+    "nameNative": "アルバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327422-q0ZXFY9rtPm5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuya-hirose"
+    ]
+  },
+  {
+    "name": "Ange",
+    "nameNative": "アンジェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b297717-p22C88oCSNI5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-oohashi"
+    ]
+  },
+  {
+    "name": "Ataro",
+    "nameNative": "アタロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327725-eZPszR5no4b9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-takeda"
+    ]
+  },
+  {
+    "name": "Bash",
+    "nameNative": "バッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327724-DQPl4PtADf0v.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuudai-mino"
+    ]
+  },
+  {
+    "name": "Besson",
+    "nameNative": "ベッソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "motoki-sakuma"
+    ]
+  },
+  {
+    "name": "Bob",
+    "nameNative": "ボブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327726-Ail8xJl9zJb5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-hamano"
+    ]
+  },
+  {
+    "name": "Claudia",
+    "nameNative": "クラウディア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314987-Ohhy2spPEzuH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouka-yuzuki"
+    ]
+  },
+  {
+    "name": "Clint",
+    "nameNative": "クリント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-nogawa"
+    ]
+  },
+  {
+    "name": "Daniel",
+    "nameNative": "クリント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327727-YvY8DhcGmqjv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinpachi-tsuji"
+    ]
+  },
+  {
+    "name": "Dolce",
+    "nameNative": "ドルチェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327734-1Jyww0xD1VXz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukiyo-fujii"
+    ]
+  },
+  {
+    "name": "Ellie",
+    "nameNative": "エリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b297714-WFrLlgYuqouW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "konomi-inagaki"
+    ]
+  },
+  {
+    "name": "Flamme",
+    "nameNative": "フラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327735-15TBAnLxpMv5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "marika-kouno"
+    ]
+  },
+  {
+    "name": "Isabel",
+    "nameNative": "イザベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327730-ioYgoaTVmcci.png",
+    "role": "supporting",
+    "voiceActors": [
+      "harumi-sakurai"
+    ]
+  },
+  {
+    "name": "Jeanne",
+    "nameNative": "ジャンヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "riho-sugiyama"
+    ]
+  },
+  {
+    "name": "Jessica",
+    "nameNative": "ジェシカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuna-yoshino"
+    ]
+  },
+  {
+    "name": "Kurokamen",
+    "nameNative": "黒仮面",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b297718-G3NXGYoxwbr5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taito-ban"
+    ]
+  },
+  {
+    "name": "Maam",
+    "nameNative": "マム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327729-ZJ5LwctCRq8N.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazue-komiya"
+    ]
+  },
+  {
+    "name": "Maria",
+    "nameNative": "マリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326873-KlALZ8Lv9lGu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miku-itou"
+    ]
+  },
+  {
+    "name": "Michael",
+    "nameNative": "マイケル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327733-TAcL9GFYvfNf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-sakaguchi"
+    ]
+  },
+  {
+    "name": "Morgan",
+    "nameNative": "モーガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-koga"
+    ]
+  },
+  {
+    "name": "Mouton",
+    "nameNative": "ムートン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b297713-WSz4NGcPTMBX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fuminori-komatsu"
+    ]
+  },
+  {
+    "name": "Mystere",
+    "nameNative": "ミステル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332723-Ga4XY7S9q4kE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-koga"
+    ]
+  },
+  {
+    "name": "Range",
+    "nameNative": "ランゲ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327737-6YWJdiv8l1WN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-imaruoka"
+    ]
+  },
+  {
+    "name": "Schnee",
+    "nameNative": "シュネー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287494-sXWfTI8sPhhB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Tokio",
+    "nameNative": "トキオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b297712-lsGmWYMYrAVh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-kobayashi"
+    ]
+  },
+  {
+    "name": "Weisheit",
+    "nameNative": "ヴァイスハイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326872-ZjTKoJRGujBX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  }
+]
