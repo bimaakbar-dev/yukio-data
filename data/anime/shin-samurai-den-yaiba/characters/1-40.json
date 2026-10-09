@@ -1,0 +1,358 @@
+[
+  {
+    "name": "Sayaka Mine",
+    "nameNative": "峰さやか",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24710-b1nf5o0ErgpH.png",
+    "role": "main",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Takeshi Onimaru",
+    "nameNative": "鬼丸猛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24712-s26gR2wAfRzC.png",
+    "role": "main",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Yaiba Kurogane",
+    "nameNative": "鉄刃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24709-ukomjh2yzd9s.png",
+    "role": "main",
+    "voiceActors": [
+      "minami-takayama"
+    ]
+  },
+  {
+    "name": "Bashou Matsuo",
+    "nameNative": "松尾芭蕉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388945-GLGTGvV572QD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youji-ueda"
+    ]
+  },
+  {
+    "name": "Bat Man",
+    "nameNative": "バットマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342221-cjw2GmquxL3O.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Benkei Musashibo",
+    "nameNative": "武蔵坊 弁慶",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399445-W0jXHFFiOoCU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Chameleon Bonaparte",
+    "nameNative": "カメレオン·ボナパルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388944-6sRJBKNuQutc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-hamazoe"
+    ]
+  },
+  {
+    "name": "Dorai-Dorai",
+    "nameNative": "ドライドライ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388949-IUdueKp0kCi9.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akihiro-tajima"
+    ]
+  },
+  {
+    "name": "Fuji Mine",
+    "nameNative": "峰ふじ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49175-ELwhl3brZn7o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-saitou"
+    ]
+  },
+  {
+    "name": "Gerozaimon Geroda",
+    "nameNative": "ゲロ田ゲロ左衛門",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b26672-UlVX2YQ2VnlF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeharu-onishi"
+    ]
+  },
+  {
+    "name": "Goemon Ishikawa",
+    "nameNative": "石川 五右衛門",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399443-0qGRmwONj9vb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "Hitode Otoko",
+    "nameNative": "ヒトデ男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365511-nwUBNhs5lt1X.png",
+    "role": "supporting",
+    "voiceActors": [
+      "genta-nakamura"
+    ]
+  },
+  {
+    "name": "Jubei Yagyu",
+    "nameNative": "柳生十兵衞三厳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388940-jvw4DRkIF5mJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenori-takahashi"
+    ]
+  },
+  {
+    "name": "Julius Zuppoppotamus III",
+    "nameNative": "ジュリアス・ズポポタマス三世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b362923-8XjYDyqBh6Zg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-nakatsukasa"
+    ]
+  },
+  {
+    "name": "Kagetora",
+    "nameNative": "カゲトラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32368-NeSHTxHOM3zA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "isshin-chiba"
+    ]
+  },
+  {
+    "name": "Kaguya",
+    "nameNative": "かぐや",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388938-8o1kTBY6tbuI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Kamakiri Otoko",
+    "nameNative": "カマキリ男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365512-gBhFwy4qtgcH.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kanabou Hakase",
+    "nameNative": "金棒博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388943-elQmuBEd8bTT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimitsu-shimoyama"
+    ]
+  },
+  {
+    "name": "Keiko Momoi",
+    "nameNative": "桃井恵子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b178603-dS6UkwlWGION.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-hishikawa"
+    ]
+  },
+  {
+    "name": "Kenjuro Kurogane",
+    "nameNative": "鉄剣十郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24711-vGFXMEWe4sfr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Kerokichi",
+    "nameNative": "ケロ吉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399447-z1i1V4hVNqNP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-gotou"
+    ]
+  },
+  {
+    "name": "Kerosuke",
+    "nameNative": "ケロ介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399446-SroQdrVNMOID.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taiten-kusunoki"
+    ]
+  },
+  {
+    "name": "Kojirou Sasaki",
+    "nameNative": "佐々木小次郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b361258-LhZpozSt6GdK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "gou-inoue"
+    ]
+  },
+  {
+    "name": "Kotarou Fuuma",
+    "nameNative": "風魔小太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388946-OoyADM5VPyWW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinji-kawada"
+    ]
+  },
+  {
+    "name": "Kumo Otoko",
+    "nameNative": "クモ男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43973-0eGd0rucRb8C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shuuhei-sakaguchi"
+    ]
+  },
+  {
+    "name": "Musashi Miyamoto",
+    "nameNative": "宮本武蔵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49169-stOyICnBkmHn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Mutou",
+    "nameNative": "武藤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b360542-5bu4mNohpOPE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroo-sasaki"
+    ]
+  },
+  {
+    "name": "Nadeshiko Yamato",
+    "nameNative": "大和撫子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b367547-F1B7peF8xQFD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-senbongi"
+    ]
+  },
+  {
+    "name": "Namako Otoko",
+    "nameNative": "ナマコ男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b361257-LD7Uvq9QWesT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ichinose"
+    ]
+  },
+  {
+    "name": "Namekuji Otoko",
+    "nameNative": "ナメクジ男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b362924-vLZa7doeWwmh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  },
+  {
+    "name": "Raizo Mine",
+    "nameNative": "峰雷蔵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49171-g5naKD4iuFmv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-miyauchi"
+    ]
+  },
+  {
+    "name": "Ryuujin",
+    "nameNative": "龍神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388939-ljb7mNEeG0xx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Seikai Nyuudou Miyoshi",
+    "nameNative": "三好清海入道",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388947-NxumzRwi3dcJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Shizuka Mine",
+    "nameNative": "峰静香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49173-5Vtpg4cwpadF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Shounosuke",
+    "nameNative": "庄之助",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b26673-ohlAq8omihB0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-echigoya"
+    ]
+  },
+  {
+    "name": "Tokisada Shirou Amakusa",
+    "nameNative": "天草四郎時貞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388948-aB57ue2FFuTg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "anri-katsu"
+    ]
+  },
+  {
+    "name": "Tortoise Europa",
+    "nameNative": "トータスヨーロッパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399444-pqA3Ozv3wgN9.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Tou no Tama",
+    "nameNative": "当の玉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399448-yvNd2qouhblz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shun-horie"
+    ]
+  },
+  {
+    "name": "Tsukikage",
+    "nameNative": "ツキカゲ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388941-Fm78NjDGdkWl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Yakitori",
+    "nameNative": "やきとり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroya-egashira"
+    ]
+  }
+]
