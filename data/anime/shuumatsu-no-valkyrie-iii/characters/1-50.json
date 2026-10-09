@@ -1,0 +1,412 @@
+[
+  {
+    "name": "Apollo",
+    "nameNative": "アポロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321730-RcF40rU2zGEs.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kenichi-suzumura"
+    ]
+  },
+  {
+    "name": "Beelzebub",
+    "nameNative": "ベルゼブブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b252554-qRDOqJURah0M.jpg",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Brunhilde",
+    "nameNative": "ブリュンヒルデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140636-nuL1uHEuedtJ.png",
+    "role": "main",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Göll",
+    "nameNative": "ゲル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140651-rCWBHRt8kjvt.png",
+    "role": "main",
+    "voiceActors": [
+      "tomoyo-kurosawa"
+    ]
+  },
+  {
+    "name": "Hades",
+    "nameNative": "ハデス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b252553-BpzOlTtycREr.png",
+    "role": "main",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Leonidas",
+    "nameNative": "レオニダス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b341135-pQqEFTwCDIRc.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiroshi-shirokuma"
+    ]
+  },
+  {
+    "name": "Nikola Tesla",
+    "nameNative": "ニコラ・テスラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284632-DDu4NjQoqOOx.png",
+    "role": "main",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Shihuang Qin",
+    "nameNative": "秦始皇",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203633-0ERteocAvO31.png",
+    "role": "main",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Adamas",
+    "nameNative": "アダマス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188975-EvW3GXBc744X.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuguo-mogami"
+    ]
+  },
+  {
+    "name": "Albert Einstein",
+    "nameNative": "アルベルト・アインシュタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298132-1EEoKSiXdxYe.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Alfred Nobel",
+    "nameNative": "アルフレッド・ノーベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298133-84X2yglBjbOE.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Alvitr",
+    "nameNative": "アルヴィト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b389601-fHBvz3t2wa1Q.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shiori-mikami"
+    ]
+  },
+  {
+    "name": "Andras",
+    "nameNative": "アンドラス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b381850-KDjURoX8JkcF.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Aphrodite",
+    "nameNative": "アフロディテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188973-yVEplNS60zxb.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ares",
+    "nameNative": "アレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140649-lYYjc7Uw1WST.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hinata-tadokoro"
+    ]
+  },
+  {
+    "name": "Azazel",
+    "nameNative": "アザゼル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298135-qf0kiJTiuioj.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Bang Liu",
+    "nameNative": "劉邦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b382276-e7uy0M5e2KR6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-sugisaki"
+    ]
+  },
+  {
+    "name": "Buddha",
+    "nameNative": "釈迦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175945-3xQ22gud0QfO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Che Liu",
+    "nameNative": "劉徹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b382277-NYlDoX7SRDjm.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Chi You",
+    "nameNative": "蚩尤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b381848-j1B6IDFGh4OH.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Chun Yan",
+    "nameNative": "春燕",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b368550-vn0ICTjJ35rd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumi-orii"
+    ]
+  },
+  {
+    "name": "Dane Tesla",
+    "nameNative": "ダン・テスラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b368546-AVE3xcyMVR0z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sachi-kokuryuu"
+    ]
+  },
+  {
+    "name": "Flauros",
+    "nameNative": "フラウロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b381849-4oK4WPFYEhoi.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Galileo Galilei",
+    "nameNative": "ガリレオ・ガリレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298131-1kjeCILdgWJV.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Geirolul",
+    "nameNative": "ゲイレルル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b386571-DHCfWVMwIdwF.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Gondul",
+    "nameNative": "ゲンドゥル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b386569-8P2HIBwukfwk.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Haggis",
+    "nameNative": "ハギス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b368548-lzVOZy8rxWw5.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Heimdall",
+    "nameNative": "ヘイムダル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140652-wP8AhWjPWtEc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukihiro-nozuyama"
+    ]
+  },
+  {
+    "name": "Hermes",
+    "nameNative": "ヘルメス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140647-PYvrldCaJk4a.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Hlökk",
+    "nameNative": "フレック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165024-nOcpJ6jlJLgU.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Hrist",
+    "nameNative": "フリスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140642-zHwwedZScVjE.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Huginn",
+    "nameNative": "フギン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213945-knYlXTSoIZ3m.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taisuke-nakano"
+    ]
+  },
+  {
+    "name": "Isaac Newton",
+    "nameNative": "アイザック・ニュートン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b386570-Og3KcqC0ENse.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Isami Kondou",
+    "nameNative": "近藤勇",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b168597-4VkiMWYx4CZT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Jack the Ripper",
+    "nameNative": "ジャック・ザ・リッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159840-MvF5LfHGiZdB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Kojirou Sasaki",
+    "nameNative": "佐々木小次郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140646-j8tTUNjhFYPQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-yamaji"
+    ]
+  },
+  {
+    "name": "Lilith",
+    "nameNative": "リリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298134-OYExaYELbCrV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "you-taichi"
+    ]
+  },
+  {
+    "name": "Loki",
+    "nameNative": "ロキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140648-tqOSgmveVuiT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Lucifer",
+    "nameNative": "ルシファー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298136-HLmtaBnbGgsO.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Marie Curie",
+    "nameNative": "マリ・キュリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298130-wDAiPZUXejQg.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Michel Nostradamus",
+    "nameNative": "ミシェル・ノストラダムス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269800-9SewhwrtOHTd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shun-horie"
+    ]
+  },
+  {
+    "name": "Muninn",
+    "nameNative": "ムニン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213946-Zf9wr2gXhZO2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-yamaguchi"
+    ]
+  },
+  {
+    "name": "Odin",
+    "nameNative": "オーディン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140639-89nkDsgcFctx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Python",
+    "nameNative": "ピュトン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b381847-Pw3WDrU5iXjJ.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Sakata Kintoki",
+    "nameNative": "坂田金時",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298129-bGFKVk1OEn7k.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Samael",
+    "nameNative": "サマエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298137-xfTHyYQk5e53.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Siegfried",
+    "nameNative": "ジークフリート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b368799-qcSuLDTxKcoC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Souji Okita",
+    "nameNative": "沖田総司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b168593-p4zXI9Gic7Pp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsubasa-yonaga"
+    ]
+  },
+  {
+    "name": "Yuanzhang Zhu",
+    "nameNative": "朱元璋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b382279-1PTWV99z1PGA.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Zeus",
+    "nameNative": "ゼウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140640-w78CFviA9DNm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  }
+]
