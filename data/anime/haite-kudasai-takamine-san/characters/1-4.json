@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Koushi Shirota",
+    "nameNative": "白田孝志",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145730-oYNbdx6WUgXb.png",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-kasuya"
+    ]
+  },
+  {
+    "name": "Takane Takamine",
+    "nameNative": "鷹峰高嶺",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145729-z9w8cFLyGjGG.png",
+    "role": "main",
+    "voiceActors": [
+      "yurika-kubo"
+    ]
+  },
+  {
+    "name": "Ellie Evergreen",
+    "nameNative": "絵梨依・エバーグリーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321146-1uNtUbdLF7yX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Rurika Kurosaki",
+    "nameNative": "黒崎瑠理香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355641-kaL317pvsveK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-tomita"
+    ]
+  }
+]
