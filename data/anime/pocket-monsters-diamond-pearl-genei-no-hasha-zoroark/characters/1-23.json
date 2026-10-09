@@ -1,0 +1,208 @@
+[
+  {
+    "name": "Hikari",
+    "nameNative": "ヒカリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3966-Kz88gYqc5EcL.jpg",
+    "role": "main",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Kodai",
+    "nameNative": "コーダイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/41161.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takanori-jinnai"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "nameNative": "ピカチュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Satoshi",
+    "nameNative": "サトシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+    "role": "main",
+    "voiceActors": [
+      "rica-matsumoto"
+    ]
+  },
+  {
+    "name": "Takeshi",
+    "nameNative": "タケシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3854-qMVUF2YmWYoW.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Zoroark",
+    "nameNative": "ゾロアーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41132-p1Qk2wOeZrMZ.jpg",
+    "role": "main",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Zorua",
+    "nameNative": "ゾロア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41131-OKecg2pY1ksv.png",
+    "role": "main",
+    "voiceActors": [
+      "kurumi-mamiya"
+    ]
+  },
+  {
+    "name": "Entei",
+    "nameNative": "エンテイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26525.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Goon",
+    "nameNative": "グーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130796-EyLcZD0HBiNz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Joe",
+    "nameNative": "ジョー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130797-h5Ptv5TECo2S.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuzuru-fujimoto"
+    ]
+  },
+  {
+    "name": "Joy",
+    "nameNative": "ジョーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7558-LzxI6BSiinA3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuriko-yamaguchi"
+    ]
+  },
+  {
+    "name": "Junsa",
+    "nameNative": "ジュンサー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26545.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chinami-nishimura"
+    ]
+  },
+  {
+    "name": "Kojirou",
+    "nameNative": "コジロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3936-5sX4EZIY2BRU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Kurt",
+    "nameNative": "クルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/41163.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-tsukamoto"
+    ]
+  },
+  {
+    "name": "Musashi",
+    "nameNative": "ムサシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3935-m000RuoIVOGI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Nyarth",
+    "nameNative": "ニャース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inuko-inuyama"
+    ]
+  },
+  {
+    "name": "Pocchama",
+    "nameNative": "ポッチャマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133224-e024AiBEkKQY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "etsuko-kozakura"
+    ]
+  },
+  {
+    "name": "Proof",
+    "nameNative": "プルーフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34812.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-nakagawa"
+    ]
+  },
+  {
+    "name": "Raikou",
+    "nameNative": "ライコウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26548.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Rioka",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/41162.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuki-katou"
+    ]
+  },
+  {
+    "name": "Serebii",
+    "nameNative": "セレビィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31897-zNfEYSP6TVwA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Suicune",
+    "nameNative": "スイクン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130798-VPn4jEmJ54mk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyotaka-furushima"
+    ]
+  },
+  {
+    "name": "Tomo",
+    "nameNative": "トモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b220348-nGwbXBMWQduM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-satou"
+    ]
+  }
+]
