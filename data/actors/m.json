@@ -855,8 +855,8 @@
   {
     "id": "masahiro-itou",
     "name": "Masahiro Itou",
-    "nameNative": "伊藤昌弘",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n150456-88d5OFEmD4Sj.png",
+    "nameNative": "正博",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n173648-TE6f6dEKN6Sb.jpg",
     "defaultLanguage": "Japanese"
   },
   {
@@ -1483,6 +1483,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "megumi-komine",
+    "name": "Megumi Komine",
+    "nameNative": "小峰めぐみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "megumi-matsumoto",
     "name": "Megumi Matsumoto",
     "nameNative": "松元惠",
@@ -1574,6 +1581,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "mei-oshitani",
+    "name": "Mei Oshitani",
+    "nameNative": "押谷芽衣",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101261-jq4jyjMBNBnh.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "mei-shibata",
     "name": "Mei Shibata",
     "nameNative": "柴田芽衣",
@@ -1613,6 +1627,13 @@
     "name": "Michael Rivas",
     "nameNative": "マイケル・リーバス",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/10164.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "michie-terada",
+    "name": "Michie Terada",
+    "nameNative": "寺田路恵",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n173643-vMJ7RUUpqntB.jpg",
     "defaultLanguage": "Japanese"
   },
   {
@@ -1886,6 +1907,13 @@
     "name": "Miki Hasegawa",
     "nameNative": "長谷川美希",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n327247-exW46y0oxW3J.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "miki-imai",
+    "name": "Miki Imai",
+    "nameNative": "今井美樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105038-fk49lVnhUkGD.jpg",
     "defaultLanguage": "Japanese"
   },
   {
