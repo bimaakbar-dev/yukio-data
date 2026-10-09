@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Hazama",
+    "nameNative": "ハザマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31974-V8DUdqkD1cjp.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Jin Kisaragi",
+    "nameNative": "ジン・キサラギ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31951-NPI7Wz1VBb84.png",
+    "role": "main",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Noel Vermillion",
+    "nameNative": "ノエル・ヴァーミリオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31973-bPn7FNlcTjEL.png",
+    "role": "main",
+    "voiceActors": [
+      "kanako-kondou"
+    ]
+  },
+  {
+    "name": "Rachel Alucard",
+    "nameNative": "レイチェル＝アルカード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33804-IpdWgQ44a9Yj.png",
+    "role": "main",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  },
+  {
+    "name": "Ragna the Bloodedge",
+    "nameNative": "ラグナ・ザ・ブラッドエッジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31972-DdbKnVhmNJix.png",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-sugita",
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Arakune",
+    "nameNative": "アラクネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42211-tACIvbEYbq4d.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-hikida"
+    ]
+  },
+  {
+    "name": "Bang Shishigami",
+    "nameNative": "シシガミ＝バング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32437-uQIRs9XP6IwJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuyoshi-koyama"
+    ]
+  },
+  {
+    "name": "Carl Clover",
+    "nameNative": "カルル・クローバー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31977.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Hades: Izanami",
+    "nameNative": "冥王・イザナミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317786-H0esiBBu5ZV8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Hakumen",
+    "nameNative": "ハクメン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35436-JbuY1zDGOIlK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Iron Tager",
+    "nameNative": "アイアン・テイガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44639-1PgUgct4xPBJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "Kokonoe",
+    "nameNative": "ココノエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32438-ZcACXeqmJDQZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chie-matsuura"
+    ]
+  },
+  {
+    "name": "Lambda-11",
+    "nameNative": "ラムダ・イレブン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43333-pvzcguHfDVf2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kanako-kondou"
+    ]
+  },
+  {
+    "name": "Litchi Faye-Ling",
+    "nameNative": "ライチ・フェイ・リン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31975-i9XW8ucmlZt6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-takahashi"
+    ]
+  },
+  {
+    "name": "Makoto Nanaya",
+    "nameNative": "マコト・ナナヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b38407-T4V5YjjsEAkH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomomi-isomura"
+    ]
+  },
+  {
+    "name": "Mitsuyoshi",
+    "nameNative": "ミツヨシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190710-QgNUgUGDaoF3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-terasoma"
+    ]
+  },
+  {
+    "name": "Nu-13",
+    "nameNative": "ニュー・サーティーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43332-y8eAnoJp5j1Z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kanako-kondou"
+    ]
+  },
+  {
+    "name": "Taokaka",
+    "nameNative": "タオカカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31976.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Trinity Glassfille",
+    "nameNative": "トリニティ＝グラスフィール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190709-YHewqveMD41v.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Tsubaki Yayoi",
+    "nameNative": "ツバキ・ヤヨイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33753-mRPxW5rRJ89A.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-imai"
+    ]
+  },
+  {
+    "name": "Valkenhayn Hellsing",
+    "nameNative": "ヴァルケンハイン＝R＝ヘルシング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b271285-LTiAv5w9UEFN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "motomu-kiyokawa"
+    ]
+  }
+]
