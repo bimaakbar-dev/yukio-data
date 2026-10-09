@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Isaku Senagaki",
+    "nameNative": "瀬名垣一咲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213096-wKcfpnGAtnK0.png",
+    "role": "main",
+    "voiceActors": [
+      "akari-kitou"
+    ]
+  },
+  {
+    "name": "Keiya Utou",
+    "nameNative": "宇藤敬弥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213095-IF84jvqBEk9t.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuichirou-umehara"
+    ]
+  },
+  {
+    "name": "Kaori Sekiya",
+    "nameNative": "関谷香織",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213098-G0JDSQXt5phV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Mikio Tanuki",
+    "nameNative": "田貫幹男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213099-FXKzZZTvDn0W.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  }
+]
