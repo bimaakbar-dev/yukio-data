@@ -1,0 +1,27 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "kidou-senshi-gundam",
+    "title": "Kidou Senshi Gundam"
+  },
+  {
+    "relation": "alternative",
+    "slug": "gundam-build-fighters",
+    "title": "Gundam Build Fighters"
+  },
+  {
+    "relation": "prequel",
+    "slug": "gundam-build-divers-prologue",
+    "title": "Gundam Build Divers Prologue"
+  },
+  {
+    "relation": "sequel",
+    "slug": "gundam-build-divers-rerise",
+    "title": "Gundam Build Divers Re:Rise"
+  },
+  {
+    "relation": "other",
+    "slug": "gundam-build-metaverse",
+    "title": "Gundam Build Metaverse"
+  }
+]
