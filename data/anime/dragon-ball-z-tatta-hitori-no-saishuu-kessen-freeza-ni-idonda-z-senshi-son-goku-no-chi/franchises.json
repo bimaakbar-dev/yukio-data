@@ -1,0 +1,12 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "dragon-ball-z",
+    "title": "Dragon Ball Z"
+  },
+  {
+    "relation": "sequel",
+    "slug": "dragon-ball-episode-of-bardock",
+    "title": "Dragon Ball: Episode of Bardock"
+  }
+]

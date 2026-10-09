@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Bardock",
+    "nameNative": "バーダック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6122-N8XCxV2YPd1r.png",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Freeza",
+    "nameNative": "フリーザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3694-bDfOdSSdFfPv.png",
+    "role": "main",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "Dodoria",
+    "nameNative": "ドドリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9239.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukitoshi-hori"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-yanami"
+    ]
+  },
+  {
+    "name": "Panbukin",
+    "nameNative": "パンブキン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35843.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-watabe"
+    ]
+  },
+  {
+    "name": "Seripa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9395.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-iguchi"
+    ]
+  },
+  {
+    "name": "Toma",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9396.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-sogabe"
+    ]
+  },
+  {
+    "name": "Totepo",
+    "nameNative": "トテポ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9713.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouzou-shioya"
+    ]
+  },
+  {
+    "name": "Zarbon",
+    "nameNative": "ザーボン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5225.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  }
+]
