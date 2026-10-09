@@ -1,0 +1,423 @@
+[
+  {
+    "name": "Amiya",
+    "nameNative": "阿米娅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174801-TMQak4mRHb1p.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomoyo-kurosawa"
+    ]
+  },
+  {
+    "name": "Ch'en",
+    "nameNative": "陈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174797-uy1fMpcOlHj2.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shizuka-ishigami"
+    ]
+  },
+  {
+    "name": "Doctor",
+    "nameNative": "博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182729-1uJe1ghqllBs.png",
+    "role": "main",
+    "voiceActors": [
+      "yuki-kaida"
+    ]
+  },
+  {
+    "name": "FrostNova",
+    "nameNative": "霜星",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182730-ufM404Qpg8cK.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayahi-takagaki"
+    ]
+  },
+  {
+    "name": "Ace",
+    "nameNative": "Ace",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264636-Lp370RhMj54f.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-matsuyama"
+    ]
+  },
+  {
+    "name": "Blaze",
+    "nameNative": "煌",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175622-ehETQMe2E9n8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Cellinia Texas",
+    "nameNative": "切利尼娜·德克萨斯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174796-2A6FqY7qBjXB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "azusa-tadokoro"
+    ]
+  },
+  {
+    "name": "Crownslayer",
+    "nameNative": "弑君者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270994-DeT6dZojMdJ5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-senbongi"
+    ]
+  },
+  {
+    "name": "Daixiong",
+    "nameNative": "大熊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317288-Ptk6OoXOJtD3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouta-yamamoto"
+    ]
+  },
+  {
+    "name": "Exusiai",
+    "nameNative": "能天使",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174794-q0q5O1742hd5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Faust",
+    "nameNative": "浮士德",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192958-GGyoMEo6E6X4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shun-horie"
+    ]
+  },
+  {
+    "name": "Franka",
+    "nameNative": "芙兰卡",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174802-wmnWQwebIwSj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Frostleaf",
+    "nameNative": "霜叶",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230365-AxQWbws4h4Aj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Fumizuki Wei",
+    "nameNative": "魏文月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299127-fr3dtqsE33ba.png",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-hidaka"
+    ]
+  },
+  {
+    "name": "GreyThroat",
+    "nameNative": "灰喉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182728-IdX17InZ8pKD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Hei Suo",
+    "nameNative": "黑蓑",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319697-EBbGo4198b7V.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-tajiri"
+    ]
+  },
+  {
+    "name": "Hoshiguma",
+    "nameNative": "星熊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174800-G33v3uhBrYPr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyono-yasuno"
+    ]
+  },
+  {
+    "name": "Ivan",
+    "nameNative": "イワン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294157-l2yUbfw47OUg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoi-shibuya"
+    ]
+  },
+  {
+    "name": "Jessica Brynley",
+    "nameNative": "杰西卡·布林雷",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182074-P4gBVgofuMIK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-hirohashi"
+    ]
+  },
+  {
+    "name": "Jie​dai​yuan",
+    "nameNative": "接待员",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319700-GBi3lNauzz7o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-hino"
+    ]
+  },
+  {
+    "name": "Jiezhen",
+    "nameNative": "解真",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319701-0AgqlUsSLUMR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keita-tada"
+    ]
+  },
+  {
+    "name": "Kal'tsit",
+    "nameNative": "凯尔希",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174803-JNJkYC4lOJE9.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Kodomo",
+    "nameNative": "子供",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319699-jKg5ZWuhXaxn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nonoka-fujisaki"
+    ]
+  },
+  {
+    "name": "Leizi",
+    "nameNative": "惊蛰",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290362-OcEzAvWT4Xda.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Liskarm",
+    "nameNative": "雷蛇",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174795-hKSD46YNuZ1l.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-ishikawa"
+    ]
+  },
+  {
+    "name": "Mephisto",
+    "nameNative": "梅菲斯特",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274330-HqAepE6btHBx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouhei-amasaki"
+    ]
+  },
+  {
+    "name": "Meteorite",
+    "nameNative": "陨星",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230347-VXDmSjwWSLp4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "risa-taneda"
+    ]
+  },
+  {
+    "name": "Nine",
+    "nameNative": "九",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314973-B2KVggM2mgoN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "umeka-shouji"
+    ]
+  },
+  {
+    "name": "Patriot",
+    "nameNative": "爱国者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b265827-xo17SOmpLw1Y.png",
+    "role": "supporting",
+    "voiceActors": [
+      "banjou-ginga"
+    ]
+  },
+  {
+    "name": "Petrova",
+    "nameNative": "佩特洛娃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317290-5rszNygpBVb2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-hino"
+    ]
+  },
+  {
+    "name": "Phal",
+    "nameNative": "阿发",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317915-QOcR3THpZJaC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-yonai"
+    ]
+  },
+  {
+    "name": "Projekt Red",
+    "nameNative": "红",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270993-3F8jxI9v0MRw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "PRTS",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293982-3SeXkPLBoc5g.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kailene-falls"
+    ]
+  },
+  {
+    "name": "Rosmontis",
+    "nameNative": "迷迭香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203998-adriFrtbdj5D.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-ogura"
+    ]
+  },
+  {
+    "name": "Scout",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318243-xKw1eU6xuFPY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "susumu-chiba"
+    ]
+  },
+  {
+    "name": "Shimin",
+    "nameNative": "市民",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-hino"
+    ]
+  },
+  {
+    "name": "Snow Devil B",
+    "nameNative": "スノーデビルB",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317287-WxIAAyyGSjyr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuya-takagi"
+    ]
+  },
+  {
+    "name": "Snow Devil D",
+    "nameNative": "スノーデビルD",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317291-zmifyc2mtCPK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoi-shibuya"
+    ]
+  },
+  {
+    "name": "Swire",
+    "nameNative": "诗怀雅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175538-SEfH62N0p5i5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sora-tokui"
+    ]
+  },
+  {
+    "name": "Taihe",
+    "nameNative": "太合",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290363-arnKY6B2dt0s.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-tajiri"
+    ]
+  },
+  {
+    "name": "Talulah",
+    "nameNative": "塔露拉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b216638-OkXtfWEHdBoJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "W",
+    "nameNative": "W",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189576-A27G9oakvGju.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayana-taketatsu"
+    ]
+  },
+  {
+    "name": "Yenwu Wei",
+    "nameNative": "魏彦吾",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189727-Xe04948ZVAwj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Yinxing Nushou",
+    "nameNative": "隐形弩手",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319696-UuR8FRd94ffG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-yonai"
+    ]
+  },
+  {
+    "name": "Youjo",
+    "nameNative": "幼女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294164-8dIFw8cGPTl5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nonoka-fujisaki"
+    ]
+  },
+  {
+    "name": "Young",
+    "nameNative": "杨格",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317289-V1zOZoE3H2s8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-nagumo"
+    ]
+  },
+  {
+    "name": "Yühsia Lin",
+    "nameNative": "林雨霞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270350-fURt5CeQwtEK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kanae-itou"
+    ]
+  }
+]
