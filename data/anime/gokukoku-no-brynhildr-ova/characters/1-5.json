@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Hatsuna Wakabayashi",
+    "nameNative": "若林 初菜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88481-Es2Da3nR1XIi.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yumi-uchiyama"
+    ]
+  },
+  {
+    "name": "Kazumi Schlierenzauer",
+    "nameNative": "カズミシュリーレンツァウアー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88242-7TMfzUXYSQRI.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Neko Kuroha",
+    "nameNative": "黒羽寧子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56063-FmKe3NN4JWNd.png",
+    "role": "main",
+    "voiceActors": [
+      "risa-taneda"
+    ]
+  },
+  {
+    "name": "Ryouta Murakami",
+    "nameNative": "村上良太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56061-6b7hnX73zCrK.png",
+    "role": "main",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Kotori Takatori",
+    "nameNative": "鷹鳥小鳥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88476-W9ujJYVQDEHm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "azusa-tadokoro"
+    ]
+  }
+]
