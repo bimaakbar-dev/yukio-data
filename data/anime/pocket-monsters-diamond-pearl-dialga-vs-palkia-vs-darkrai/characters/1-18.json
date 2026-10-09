@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Alice",
+    "nameNative": "アリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b194886-NlEz2EDytoWB.png",
+    "role": "main",
+    "voiceActors": [
+      "rosa-katou",
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Darkrai",
+    "nameNative": "ダークライ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41464-mYQATvgethYb.png",
+    "role": "main",
+    "voiceActors": [
+      "kouji-ishizaka"
+    ]
+  },
+  {
+    "name": "Hikari",
+    "nameNative": "ヒカリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3966-Kz88gYqc5EcL.jpg",
+    "role": "main",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "nameNative": "ピカチュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Satoshi",
+    "nameNative": "サトシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+    "role": "main",
+    "voiceActors": [
+      "rica-matsumoto"
+    ]
+  },
+  {
+    "name": "Takeshi",
+    "nameNative": "タケシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3854-qMVUF2YmWYoW.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Tonio",
+    "nameNative": "トニオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b66331-SPHweaW6aRzF.png",
+    "role": "main",
+    "voiceActors": [
+      "kouji-yamamoto",
+      "daisuke-sakaguchi"
+    ]
+  },
+  {
+    "name": "Alicia",
+    "nameNative": "アリシア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b61069-FMZSanmaiJpR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiharu-suzuka"
+    ]
+  },
+  {
+    "name": "Baron Alberto",
+    "nameNative": "アルベルト男爵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b194883-p85t2O5qUoBt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Dai",
+    "nameNative": "ダイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b194885-3mtHsiFoZx5e.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuji-akiyama"
+    ]
+  },
+  {
+    "name": "Goudi",
+    "nameNative": "ゴーディ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b194884-mR5jqGHDxqKr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Hunter J",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28188.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Joy",
+    "nameNative": "ジョーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7558-LzxI6BSiinA3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Katsumi",
+    "nameNative": "カツミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b194887-nfhvwaRWQJkI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-yamamoto"
+    ]
+  },
+  {
+    "name": "Kojirou",
+    "nameNative": "コジロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3936-5sX4EZIY2BRU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Maki",
+    "nameNative": "マキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12308.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-nakagawa"
+    ]
+  },
+  {
+    "name": "Musashi",
+    "nameNative": "ムサシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3935-m000RuoIVOGI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Nyarth",
+    "nameNative": "ニャース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inuko-inuyama"
+    ]
+  }
+]
