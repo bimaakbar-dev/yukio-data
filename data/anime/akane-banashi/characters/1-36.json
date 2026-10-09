@@ -9,12 +9,39 @@
     ]
   },
   {
-    "name": "Karashi Nerimaya",
-    "nameNative": "練磨家からし",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283885-DPvO5WAQ9G8S.png",
+    "name": "Chocho Konjakutei",
+    "nameNative": "今昔亭ちょう朝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b371795-BzOWYi1394d8.jpg",
     "role": "supporting",
     "voiceActors": [
-      "takuya-eguchi"
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Enso Sanmeitei",
+    "nameNative": "三明亭円相",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401988-psxn6kCY1Kko.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-naka"
+    ]
+  },
+  {
+    "name": "Guriko Arakawa",
+    "nameNative": "阿良川ぐりこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b279367-2U8T30I3FXGn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seiichirou-yamashita"
+    ]
+  },
+  {
+    "name": "Hiiragi",
+    "nameNative": "柊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b397271-hP2ID0LmiUdz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "riho-sugiyama"
     ]
   },
   {
@@ -27,6 +54,34 @@
     ]
   },
   {
+    "name": "Ikken Arakawa",
+    "nameNative": "阿良川一剣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283888-9iVv7KmJbqiL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-hirata"
+    ]
+  },
+  {
+    "name": "Isshou Arakawa",
+    "nameNative": "阿良川一生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278459-7lw2zlgNX2zY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Jumbo Ozaki",
+    "nameNative": "尾崎ジャンボ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282717-SFLyssvENHov.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asuna-tomari",
+      "fukushi-ochiai"
+    ]
+  },
+  {
     "name": "Kaisei Arakawa",
     "nameNative": "阿良川魁生",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283884-dZOQyNJTYMsg.png",
@@ -36,21 +91,21 @@
     ]
   },
   {
-    "name": "Shinta Arakawa",
-    "nameNative": "阿良川志ん太",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264106-eFFLml1BmzIe.png",
+    "name": "Karashi Nerimaya",
+    "nameNative": "練磨家からし",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283885-DPvO5WAQ9G8S.png",
     "role": "supporting",
     "voiceActors": [
-      "jun-fukuyama"
+      "takuya-eguchi"
     ]
   },
   {
-    "name": "Maikeru Arakawa",
-    "nameNative": "阿良川まいける",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280942-rgcQb3vK56tm.jpg",
+    "name": "Kimihisa Kashio",
+    "nameNative": "樫尾公久",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282718-KGK32AWcxsWb.png",
     "role": "supporting",
     "voiceActors": [
-      "nobunaga-shimazaki"
+      "ryouta-iwasaki"
     ]
   },
   {
@@ -72,106 +127,6 @@
     ]
   },
   {
-    "name": "Guriko Arakawa",
-    "nameNative": "阿良川ぐりこ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b279367-2U8T30I3FXGn.png",
-    "role": "supporting",
-    "voiceActors": [
-      "seiichirou-yamashita"
-    ]
-  },
-  {
-    "name": "Shiguma Arakawa",
-    "nameNative": "阿良川志ぐま",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264107-pLXSsuysXFh4.png",
-    "role": "supporting",
-    "voiceActors": [
-      "masaki-terasoma"
-    ]
-  },
-  {
-    "name": "Isshou Arakawa",
-    "nameNative": "阿良川一生",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278459-7lw2zlgNX2zY.png",
-    "role": "supporting",
-    "voiceActors": [
-      "akio-ootsuka"
-    ]
-  },
-  {
-    "name": "Masaki Ousaki",
-    "nameNative": "桜咲真幸",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264105-kOAzy2xgTfXe.png",
-    "role": "supporting",
-    "voiceActors": [
-      "shizuka-itou"
-    ]
-  },
-  {
-    "name": "Zensho Arakawa",
-    "nameNative": "阿良川全生",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b371801-11bfe5sySTsI.jpg",
-    "role": "supporting",
-    "voiceActors": [
-      "fumihiko-tachiki"
-    ]
-  },
-  {
-    "name": "Saki Yoshino",
-    "nameNative": "吉乃紗季",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b395446-tTx028iUxBVb.png",
-    "role": "supporting",
-    "voiceActors": [
-      "yumiko-konatsu"
-    ]
-  },
-  {
-    "name": "Kimihisa Kashio",
-    "nameNative": "樫尾公久",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282718-KGK32AWcxsWb.png",
-    "role": "supporting",
-    "voiceActors": [
-      "ryouta-iwasaki"
-    ]
-  },
-  {
-    "name": "Jumbo Ozaki",
-    "nameNative": "尾崎ジャンボ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282717-SFLyssvENHov.png",
-    "role": "supporting",
-    "voiceActors": [
-      "asuna-tomari",
-      "fukushi-ochiai"
-    ]
-  },
-  {
-    "name": "Ikken Arakawa",
-    "nameNative": "阿良川一剣",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283888-9iVv7KmJbqiL.png",
-    "role": "supporting",
-    "voiceActors": [
-      "hiroaki-hirata"
-    ]
-  },
-  {
-    "name": "Ozaki Mama",
-    "nameNative": "尾崎ママ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b395447-PJ5ZBoagnxgX.png",
-    "role": "supporting",
-    "voiceActors": [
-      "serika-hiromatsu"
-    ]
-  },
-  {
-    "name": "Yanagiya Sensei",
-    "nameNative": "柳谷先生",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b395448-knWJPwrJ8EZh.png",
-    "role": "supporting",
-    "voiceActors": [
-      "yuu-wakabayashi"
-    ]
-  },
-  {
     "name": "Machiko Iwashimizu",
     "nameNative": "岩清水真智子",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282716-SCgcbCw8bpYy.png",
@@ -181,30 +136,12 @@
     ]
   },
   {
-    "name": "Sae Komi",
-    "nameNative": "古味沙恵",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283887-Ur15XSGTzeve.png",
+    "name": "Maikeru Arakawa",
+    "nameNative": "阿良川まいける",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280942-rgcQb3vK56tm.jpg",
     "role": "supporting",
     "voiceActors": [
-      "aino-shimada"
-    ]
-  },
-  {
-    "name": "Ryujaku Sakaki",
-    "nameNative": "榊龍若",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283889-Xnngmlzx7ynu.png",
-    "role": "supporting",
-    "voiceActors": [
-      "kazuyuki-okitsu"
-    ]
-  },
-  {
-    "name": "Shirasu Kashiwaya",
-    "nameNative": "柏家白州",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b397269-D7KsIwgZrvNR.png",
-    "role": "supporting",
-    "voiceActors": [
-      "kousuke-echigoya"
+      "nobunaga-shimazaki"
     ]
   },
   {
@@ -217,21 +154,39 @@
     ]
   },
   {
-    "name": "Hiiragi",
-    "nameNative": "柊",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b397271-hP2ID0LmiUdz.png",
+    "name": "Maru",
+    "nameNative": "円",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399005-34rWcVPEGKP9.png",
     "role": "supporting",
     "voiceActors": [
-      "riho-sugiyama"
+      "yuu-wakabayashi"
     ]
   },
   {
-    "name": "Tainaka",
-    "nameNative": "田井中",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b397277-DUVmntcCCb7i.png",
+    "name": "Masaki Ousaki",
+    "nameNative": "桜咲真幸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264105-kOAzy2xgTfXe.png",
     "role": "supporting",
     "voiceActors": [
-      "yasunori-masutani"
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Miroku Kashiwaya",
+    "nameNative": "柏家三禄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401990-ARB9134X8TSJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Ozaki Mama",
+    "nameNative": "尾崎ママ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b395447-PJ5ZBoagnxgX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "serika-hiromatsu"
     ]
   },
   {
@@ -244,48 +199,66 @@
     ]
   },
   {
-    "name": "Yuka Osanai",
-    "nameNative": "小山内由佳",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b397660-Zdb7AQqc46es.png",
+    "name": "Ryu'un Kenputei",
+    "nameNative": "喧風亭流雲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401989-C6zggzUMH8Mn.png",
     "role": "supporting",
     "voiceActors": [
-      "rei-ichinomiya"
+      "shinichirou-miki"
     ]
   },
   {
-    "name": "Shouhei",
-    "nameNative": "昇平",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399004-FniNW9Gjb73m.png",
+    "name": "Ryujaku Sakaki",
+    "nameNative": "榊龍若",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283889-Xnngmlzx7ynu.png",
     "role": "supporting",
     "voiceActors": [
-      "kazuki-ura"
+      "kazuyuki-okitsu"
     ]
   },
   {
-    "name": "Maru",
-    "nameNative": "円",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399005-34rWcVPEGKP9.png",
+    "name": "Sae Komi",
+    "nameNative": "古味沙恵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283887-Ur15XSGTzeve.png",
     "role": "supporting",
     "voiceActors": [
-      "yuu-wakabayashi"
+      "aino-shimada"
     ]
   },
   {
-    "name": "Urara Ransaika",
-    "nameNative": "蘭彩歌うらら",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342213-AA2ECUZLX3CB.png",
+    "name": "Saki Yoshino",
+    "nameNative": "吉乃紗季",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b395446-tTx028iUxBVb.png",
     "role": "supporting",
     "voiceActors": [
-      "mutsumi-tamura"
+      "yumiko-konatsu"
     ]
   },
   {
-    "name": "Chocho Konjakutei",
-    "nameNative": "今昔亭ちょう朝",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b371795-BzOWYi1394d8.jpg",
+    "name": "Shiguma Arakawa",
+    "nameNative": "阿良川志ぐま",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264107-pLXSsuysXFh4.png",
     "role": "supporting",
     "voiceActors": [
-      "tomokazu-seki"
+      "masaki-terasoma"
+    ]
+  },
+  {
+    "name": "Shinta Arakawa",
+    "nameNative": "阿良川志ん太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264106-eFFLml1BmzIe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Shirasu Kashiwaya",
+    "nameNative": "柏家白州",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b397269-D7KsIwgZrvNR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-echigoya"
     ]
   },
   {
@@ -298,30 +271,57 @@
     ]
   },
   {
-    "name": "Enso Sanmeitei",
-    "nameNative": "三明亭円相",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401988-psxn6kCY1Kko.png",
+    "name": "Shouhei",
+    "nameNative": "昇平",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399004-FniNW9Gjb73m.png",
     "role": "supporting",
     "voiceActors": [
-      "hiroshi-naka"
+      "kazuki-ura"
     ]
   },
   {
-    "name": "Ryu'un Kenputei",
-    "nameNative": "喧風亭流雲",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401989-C6zggzUMH8Mn.png",
+    "name": "Tainaka",
+    "nameNative": "田井中",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b397277-DUVmntcCCb7i.png",
     "role": "supporting",
     "voiceActors": [
-      "shinichirou-miki"
+      "yasunori-masutani"
     ]
   },
   {
-    "name": "Miroku Kashiwaya",
-    "nameNative": "柏家三禄",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401990-ARB9134X8TSJ.png",
+    "name": "Urara Ransaika",
+    "nameNative": "蘭彩歌うらら",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342213-AA2ECUZLX3CB.png",
     "role": "supporting",
     "voiceActors": [
-      "houchuu-ootsuka"
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Yanagiya Sensei",
+    "nameNative": "柳谷先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b395448-knWJPwrJ8EZh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-wakabayashi"
+    ]
+  },
+  {
+    "name": "Yuka Osanai",
+    "nameNative": "小山内由佳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b397660-Zdb7AQqc46es.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rei-ichinomiya"
+    ]
+  },
+  {
+    "name": "Zensho Arakawa",
+    "nameNative": "阿良川全生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b371801-11bfe5sySTsI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumihiko-tachiki"
     ]
   }
 ]
