@@ -1,9 +1,9 @@
 ---
-title: "Hayate no Gotoku!"
-titleEnglish: Hayate the Combat Butler
-titleNative: ハヤテのごとく！
+title: "Hayate no Gotoku!!"
+titleEnglish: "Hayate the Combat Butler!!"
+titleNative: ハヤテのごとく！！
 
-malId: 2026
+malId: 4192
 kitsuId: "1825"
 
 type: TV
@@ -11,18 +11,16 @@ status: finished
 source: manga
 
 season: spring
-year: 2007
-episodes: 52
+year: 2009
+episodes: 25
 duration: 24
-# rating: # edit manual
 
 aired:
-  from: "2007-04-01"
-  to: "2008-03-30"
+  from: "2009-04-04"
+  to: "2009-09-19"
 
 stats:
-  score: 7.2
-  # scoredBy: # edit manual
+  score: 7.4
 
 genres:
   - action
@@ -30,15 +28,14 @@ genres:
   - romance
 
 studios:
-  - synergysp
+  - jcstaff
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2026-xoCa4unn5iOi.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2026.jpg"
-# trailer: # edit manual
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4192-em3eAtYfkz5L.png"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4192-Q4N8THD5MCAy.jpg"
 
 draft: false
 ---
 
-Hayate Ayasaki's life wasn't great, but when he loses the job he used to support his good-for-nothing family, and his deadbeat parents sell him to the Yakuza for cash, it really hits rock bottom! Faced with having to pay off the huge debt before he's converted into black market organ parts, a desperate Hayate decides to kidnap oddball heiress Nagi Sanzenin for ransom... but when even that goes wrong and he accidentally ends up rescuing Nagi from other kidnappers, it turns out that Hayate is the bodyguard that Nagi has been looking for! So now he's the Sanzenin family's butler, and… maybe… it might be the start of a potential romantic relationship… assuming Hayate can survive the on-the-job training, of course.
+Ever since he first met Nagi Sanzenin, Hayate Ayasaki's life has become increasingly more crazed and chaotic. Which is a bit of a problem, since, as the eccentric heiress' butler/personal bodyguard, he's theoretically supposed to be a stabilizing and protective influence. Unfortunately, Nagi and her friends attract trouble the way dropped lollipops attract dirt, and if Hayate has to take a couple of nasty licks along the way, that's just part of the job. The real sucker punch, though, is that Nagi's increasing attraction to Hayate himself is getting precariously close to transforming their professional relationship into something far less professional and much more like a relationship. Is Hayate up for the emotional perils of a round of "upstairs, downstairs"? Or will the purely physical dangers of life on Her Majesty's Domestic Service do him in first?
 
 (Source: Sentai Filmworks)
