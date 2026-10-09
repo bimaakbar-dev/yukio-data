@@ -1,0 +1,453 @@
+[
+  {
+    "name": "Nefertima Osphe",
+    "nameNative": "ネフェルティマ・オスフェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b310666-NMKFT8oFj5jp.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Alteran",
+    "nameNative": "オルトラーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326665-U8CG4wWBWgeP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuji-yamamoto"
+    ]
+  },
+  {
+    "name": "Annalee Dessa",
+    "nameNative": "アンリー・デッサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326663-u9Kzdae2EkJU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Ariabelle Raina",
+    "nameNative": "アリアベル・ライナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331985-coTACuIZU2YJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mizuki-mano"
+    ]
+  },
+  {
+    "name": "Belgar Crius",
+    "nameNative": "ベルガー・クリエス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331998-f3DVkJ90GM5W.png",
+    "role": "supporting",
+    "voiceActors": [
+      "moeka-koizumi"
+    ]
+  },
+  {
+    "name": "Cadence",
+    "nameNative": "カーディンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326666-Md52ExFwXPiT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "noriaki-kanze"
+    ]
+  },
+  {
+    "name": "Caelus Markan",
+    "nameNative": "カイルス・マーカン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331991-zieskNWJ2iXt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-okano"
+    ]
+  },
+  {
+    "name": "Cerulia Osphe",
+    "nameNative": "セルリア・オスフェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322644-FfW8o7OL2eKg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumi-tsunematsu"
+    ]
+  },
+  {
+    "name": "Charlene",
+    "nameNative": "シャーリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332020-ZiygpGWRFi4d.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaya-okuno"
+    ]
+  },
+  {
+    "name": "Chouchou",
+    "nameNative": "町長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331989-tJCeYysbL3qe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-ihara"
+    ]
+  },
+  {
+    "name": "Dan Yates",
+    "nameNative": "ダン・イェーツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323308-lHGYPJVOdtI8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "genta-nakamura"
+    ]
+  },
+  {
+    "name": "Dayland Osphe",
+    "nameNative": "デールラント・オスフェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319893-2AkHJDTFg5Yz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-furuya"
+    ]
+  },
+  {
+    "name": "Dee",
+    "nameNative": "ディー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322646-S4wIxNK0nEaK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-komada"
+    ]
+  },
+  {
+    "name": "Dylan Noctis",
+    "nameNative": "ディラン・ノーチス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331995-EvPDTRTLAeZb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-kiryuu"
+    ]
+  },
+  {
+    "name": "Fika",
+    "nameNative": "フィカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332008-HgikdzfNCIOY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnojou-yamada"
+    ]
+  },
+  {
+    "name": "Gauldi Gaché",
+    "nameNative": "ガルディー・ラス・ガシェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322653-q9yEYvESxnb4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-hamada"
+    ]
+  },
+  {
+    "name": "Gou-kun",
+    "nameNative": "ごーくん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332015-c1WLaZDcjUyT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "anju-shiranami"
+    ]
+  },
+  {
+    "name": "Gouche Zelnan",
+    "nameNative": "ゴーシュ・ゼルナン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323305-SPdlapLdwolx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-souma"
+    ]
+  },
+  {
+    "name": "Gratia",
+    "nameNative": "グラーティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332001-H2avyOV2vCZs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-hino"
+    ]
+  },
+  {
+    "name": "Gwynn Fields",
+    "nameNative": "グウェン・フィールズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323307-1SxeNXckSvYm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shintarou-asanuma"
+    ]
+  },
+  {
+    "name": "Hanley",
+    "nameNative": "ハンレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332007-Yk9TxjB9YHK0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-itou"
+    ]
+  },
+  {
+    "name": "Healran Dewitt",
+    "nameNative": "ヒールラン・デュト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331986-LSO9M0aGVgki.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youhei-hamada"
+    ]
+  },
+  {
+    "name": "Kamisama",
+    "nameNative": "神様",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319896-qMYGfunTsqct.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Karnadia Osphe",
+    "nameNative": "カーナディア・オスフェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322645-6QHyhm1HACe4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruki-iwata"
+    ]
+  },
+  {
+    "name": "Kemonotsukai",
+    "nameNative": "獣使い",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332022-haLz5HFStrTK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuki-yoshida"
+    ]
+  },
+  {
+    "name": "Koinu",
+    "nameNative": "子犬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332000-8FpDKzDL7YVz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "anju-shiranami"
+    ]
+  },
+  {
+    "name": "Lars",
+    "nameNative": "ラース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319892-bhqXFUcW2Gkc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taketora"
+    ]
+  },
+  {
+    "name": "Lestin Ogma",
+    "nameNative": "レスティン・オグマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323886-uy6DtRpqGcoF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-tamaru"
+    ]
+  },
+  {
+    "name": "Luck",
+    "nameNative": "ラック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332019-99SBCYJolWCe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tarou-kiuchi"
+    ]
+  },
+  {
+    "name": "Marjace",
+    "nameNative": "マージェス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326662-faiVkWWFBhBI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehiro-hasu"
+    ]
+  },
+  {
+    "name": "Mori no Nushi",
+    "nameNative": "森の主",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332005-TRvRPVyWCGeG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  },
+  {
+    "name": "Nino",
+    "nameNative": "ニィノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326670-orkNClfBZ5YW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takako-tanaka"
+    ]
+  },
+  {
+    "name": "Nox",
+    "nameNative": "ノックス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323887-VX6HSIgs3K1y.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Olive Wise",
+    "nameNative": "オリヴィエ・ワイズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323304-BQNSwyBhUqgp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "marie-ooi"
+    ]
+  },
+  {
+    "name": "Parzeth Koushaku",
+    "nameNative": "パーゼス侯爵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331997-nOkwtcIHE364.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ben-takada"
+    ]
+  },
+  {
+    "name": "Paul",
+    "nameNative": "パウル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323888-ZM00jBe19oHV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuei-sumiya"
+    ]
+  },
+  {
+    "name": "Pino",
+    "nameNative": "ピィノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326669-fY0GtyN94X5t.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-tokudome"
+    ]
+  },
+  {
+    "name": "Raj Blower",
+    "nameNative": "ラッジ・ブローワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331992-yh6IN3SrnPyc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reo-tatsumori"
+    ]
+  },
+  {
+    "name": "Ralfreed Osphe",
+    "nameNative": "ラルフリード・オスフェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319890-lmnjhDPlOw8D.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shuuichirou-umeda",
+      "mari-hino"
+    ]
+  },
+  {
+    "name": "Relena Gaché",
+    "nameNative": "リリーナ・ライナス・ガシェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323303-acomiyfPsHe4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nazuka"
+    ]
+  },
+  {
+    "name": "Roku-kun",
+    "nameNative": "ろくくん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332016-3z1jKZesVw57.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wakana-minami"
+    ]
+  },
+  {
+    "name": "Salzar",
+    "nameNative": "ザザール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323306-dLGVb3W4aqhx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  },
+  {
+    "name": "Seira",
+    "nameNative": "セイラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332021-DoZc8R7Afo5m.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-matsushima"
+    ]
+  },
+  {
+    "name": "Shinki",
+    "nameNative": "森鬼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319894-DdMYxVGNLkDD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "Shiro",
+    "nameNative": "白",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuu-takatsuki"
+    ]
+  },
+  {
+    "name": "Shizuku",
+    "nameNative": "雫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332004-kwyoeGZ9OjWk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saima-nakano"
+    ]
+  },
+  {
+    "name": "Sicily",
+    "nameNative": "シシリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332002-eIMu3hePo81u.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-akesaka"
+    ]
+  },
+  {
+    "name": "Sol",
+    "nameNative": "ソル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319895-rom4uVXdNMql.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "Sonchou",
+    "nameNative": "村長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326667-ziLWKQ2Hs2oE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-murai"
+    ]
+  },
+  {
+    "name": "Sonchou Fujin",
+    "nameNative": "村長夫人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326668-C0mj6zoiWvm2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emiko-takeuchi"
+    ]
+  }
+]
