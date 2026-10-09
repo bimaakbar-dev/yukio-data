@@ -1,0 +1,12 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "youjo-senki",
+    "title": "Youjo Senki"
+  },
+  {
+    "relation": "sequel",
+    "slug": "youjo-senki-movie",
+    "title": "Youjo Senki Movie"
+  }
+]
