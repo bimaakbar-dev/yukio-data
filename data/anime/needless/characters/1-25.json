@@ -1,0 +1,225 @@
+[
+  {
+    "name": "Adam Blade",
+    "nameNative": "アダム・ブレイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23095.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Cruz Schild",
+    "nameNative": "クルス・シルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23094.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Eve Neuschwanstein",
+    "nameNative": "イヴ・ノイシュヴァンシュタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23096.jpg",
+    "role": "main",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Adam Arclight",
+    "nameNative": "アダム・アークライト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23097.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi"
+    ]
+  },
+  {
+    "name": "Aruka Schild",
+    "nameNative": "アルカ・シルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23103.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Disk",
+    "nameNative": "ディスク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23098.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  },
+  {
+    "name": "Esquela",
+    "nameNative": "エスクエラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/74313.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-shimura"
+    ]
+  },
+  {
+    "name": "Gin Rikudou",
+    "nameNative": "ギド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23099.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-utsumi"
+    ]
+  },
+  {
+    "name": "Kafuka",
+    "nameNative": "カフカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23170.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fuminori-komatsu"
+    ]
+  },
+  {
+    "name": "Kana",
+    "nameNative": "華夏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46393-4NS4Lw1TtucT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kei-shindou"
+    ]
+  },
+  {
+    "name": "Kasumi Hagiba",
+    "nameNative": "萩葉香澄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28316.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Kuchinashi",
+    "nameNative": "梔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23114.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minori-chihara"
+    ]
+  },
+  {
+    "name": "Kurumi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27114.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-shimamura"
+    ]
+  },
+  {
+    "name": "Mio",
+    "nameNative": "未央",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23110.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-makino"
+    ]
+  },
+  {
+    "name": "Misaki",
+    "nameNative": "美咲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46395-Xz9x354dv4gw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Momiji Teruyama",
+    "nameNative": "照山最次",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23102.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-itou"
+    ]
+  },
+  {
+    "name": "Nanami",
+    "nameNative": "七海",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46391-Na70FdBs6zO6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mayuko-takahashi"
+    ]
+  },
+  {
+    "name": "Primaria",
+    "nameNative": "プリマリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43914.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-shimura"
+    ]
+  },
+  {
+    "name": "Riru Roukakuji",
+    "nameNative": "楼閣寺離瑠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23104.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Saten",
+    "nameNative": "左天",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23100.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Seto",
+    "nameNative": "セト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25162.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-fukuhara"
+    ]
+  },
+  {
+    "name": "Setsuna",
+    "nameNative": "セツナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23113.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-gotou"
+    ]
+  },
+  {
+    "name": "Solva",
+    "nameNative": "ソルヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25163.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-imai"
+    ]
+  },
+  {
+    "name": "Uten",
+    "nameNative": "右天",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23101.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-yamaguchi"
+    ]
+  },
+  {
+    "name": "Zakard",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27176.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-tsuchida"
+    ]
+  }
+]
