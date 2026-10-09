@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Ginko",
+    "nameNative": "ギンコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b425-khK03T5n9Umq.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuto-nakano",
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Kumado",
+    "nameNative": "クマド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b168366-ftORZmKWgpRc.jpg",
+    "role": "main",
+    "voiceActors": [
+      "satoshi-mikami"
+    ]
+  },
+  {
+    "name": "Tama Minai",
+    "nameNative": "見ないたま",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17128-o41QDRRve2K9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kyouda"
+    ]
+  },
+  {
+    "name": "Tanyuu Karibusa",
+    "nameNative": "狩房淡幽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13714-WP9UOIjZrD8j.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kobayashi"
+    ]
+  }
+]
