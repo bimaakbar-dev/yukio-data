@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Nau",
+    "nameNative": "なう",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146618-CqMELss8ag06.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aki-toyosaki"
+    ]
+  },
+  {
+    "name": "Senya",
+    "nameNative": "千夜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146191-1kybBWWOU7nV.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroki-nanami"
+    ]
+  },
+  {
+    "name": "Tsukiko",
+    "nameNative": "月湖",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146192-HZId3lsW6q63.jpg",
+    "role": "main",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Hanatora",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146952-msa1VnWPeUDg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Jinun",
+    "nameNative": "神雲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146283-nWRnNeINdFkJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "Mudo",
+    "nameNative": "ムド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146617-usBeStobwIpP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Shinsuke Hyoudou",
+    "nameNative": "真介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b27282-RB0heJ9eID6d.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouhei-kimura"
+    ]
+  },
+  {
+    "name": "Tama Youko",
+    "nameNative": "たま",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b27283-8WDUspf0Fq1f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-takada"
+    ]
+  },
+  {
+    "name": "Yoshiteru Ashikaga",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146814-cuSFXaYeiRTG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  }
+]
