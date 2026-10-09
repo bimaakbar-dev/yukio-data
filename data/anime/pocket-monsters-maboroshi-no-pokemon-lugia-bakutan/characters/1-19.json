@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Gelardan",
+    "nameNative": "ジラルダン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35804.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takeshi-kaga"
+    ]
+  },
+  {
+    "name": "Kasumi",
+    "nameNative": "カスミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2909-wNDR5aaxwDdi.png",
+    "role": "main",
+    "voiceActors": [
+      "mayumi-iizuka"
+    ]
+  },
+  {
+    "name": "Kenji",
+    "nameNative": "ケンジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19852.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Lugia",
+    "nameNative": "ルギア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35805.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "nameNative": "ピカチュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Satoshi",
+    "nameNative": "サトシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+    "role": "main",
+    "voiceActors": [
+      "rica-matsumoto"
+    ]
+  },
+  {
+    "name": "Flura",
+    "nameNative": "フルーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33766-ceNSWGmARxQ9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-hiramatsu"
+    ]
+  },
+  {
+    "name": "Hanako",
+    "nameNative": "ハナコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29184.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masami-toyoshima"
+    ]
+  },
+  {
+    "name": "Kojirou",
+    "nameNative": "コジロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3936-5sX4EZIY2BRU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Michiko",
+    "nameNative": "ミチコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35806-zb4YjXYsBqY1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kotono-mitsuishi"
+    ]
+  },
+  {
+    "name": "Musashi",
+    "nameNative": "ムサシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3935-m000RuoIVOGI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Nyarth",
+    "nameNative": "ニャース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inuko-inuyama"
+    ]
+  },
+  {
+    "name": "Takeshi",
+    "nameNative": "タケシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3854-qMVUF2YmWYoW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Togepy",
+    "nameNative": "トゲピー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b53521-5reh4aWyEZfN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-koorogi"
+    ]
+  },
+  {
+    "name": "Uchikido Hakase",
+    "nameNative": "ウチキド博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34710.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-han"
+    ]
+  },
+  {
+    "name": "Yadoking",
+    "nameNative": "ヤドキング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142681-hK2uTJflytJd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masatoshi-hamada"
+    ]
+  },
+  {
+    "name": "Yodel",
+    "nameNative": "ヨーデル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35807-XAv5jxElVOOf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Yukinari Ookido",
+    "nameNative": "オーキド・ユキナリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17783-OwYJSOFjd91A.png",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "pokemon",
+    "title": "Pokemon"
+  },
+  {
+    "relation": "other",
+    "slug": "pokemon-pikachu-tankentai",
+    "title": "Pokemon: Pikachu Tankentai"
+  },
+  {
+    "relation": "side_story",
+    "slug": "pokemon-yadoking-no-ichinichi",
+    "title": "Pokemon: Yadoking no Ichinichi"
+  }
+]
