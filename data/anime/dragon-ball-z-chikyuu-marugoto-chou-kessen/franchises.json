@@ -1,0 +1,22 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "dragon-ball-z",
+    "title": "Dragon Ball Z"
+  },
+  {
+    "relation": "other",
+    "slug": "kennosuke-sama",
+    "title": "Kennosuke-sama"
+  },
+  {
+    "relation": "other",
+    "slug": "pink-mizu-dorobou-ame-dorobou",
+    "title": "Pink Mizu Dorobou Ame Dorobou"
+  },
+  {
+    "relation": "sequel",
+    "slug": "dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu",
+    "title": "Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu"
+  }
+]
