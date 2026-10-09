@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Lag Seeing",
+    "nameNative": "ラグ・シーイング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14809.jpg",
+    "role": "main",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Niche",
+    "nameNative": "ニッチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12509-m81awAbRdaPI.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayumi-fujimura"
+    ]
+  },
+  {
+    "name": "Steak",
+    "nameNative": "ステーキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12510.jpg",
+    "role": "main",
+    "voiceActors": [
+      "nao-nagasawa"
+    ]
+  },
+  {
+    "name": "Anne Grado",
+    "nameNative": "アン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31519.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Anne Seeing",
+    "nameNative": "アヌ・シーイング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28635.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Aria Link",
+    "nameNative": "アリア・リンク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12518.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Bellucci",
+    "nameNative": "ベルーシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43481.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-terasoma"
+    ]
+  },
+  {
+    "name": "Bonny",
+    "nameNative": "ボニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43315-l3Y6pzb8ksB2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Brito",
+    "nameNative": "ブリト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43477.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Connor Kluff",
+    "nameNative": "コナー・クルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12517.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisayoshi-suganuma"
+    ]
+  },
+  {
+    "name": "Darwin",
+    "nameNative": "ダーウィン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43434.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-oguro"
+    ]
+  },
+  {
+    "name": "Dr. Whiteman",
+    "nameNative": "ホイットマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52193.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "motomu-kiyokawa"
+    ]
+  },
+  {
+    "name": "Elena Blanc",
+    "nameNative": "エレナ・ブラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/24260.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Galador",
+    "nameNative": "ガラドー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43424.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideki-tasaka"
+    ]
+  },
+  {
+    "name": "Gauche Suede",
+    "nameNative": "ゴーシュ・スエード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12511-oPGymLE5pQbf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Gee McKay",
+    "nameNative": "マッケイ・ジー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165866-o8rSiCYRu8GA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Hunt",
+    "nameNative": "ハント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31518.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "susumu-chiba"
+    ]
+  },
+  {
+    "name": "Jacob Gobeni",
+    "nameNative": "ジェイコブ・ゴベーニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43426.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masuo-amada"
+    ]
+  },
+  {
+    "name": "Jiggy Pepper",
+    "nameNative": "ジギー・ペッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/24679.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-nakai"
+    ]
+  },
+  {
+    "name": "Joey",
+    "nameNative": "ジョーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43480.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-kirimoto"
+    ]
+  },
+  {
+    "name": "Largo Lloyd",
+    "nameNative": "ラルゴ・ロイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12516.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Lawrence",
+    "nameNative": "ロレンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30206.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Louisa Alcott",
+    "nameNative": "ルイーザ・オルコット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43430.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-okamoto"
+    ]
+  },
+  {
+    "name": "Mac",
+    "nameNative": "マック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43478.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-endou"
+    ]
+  },
+  {
+    "name": "Mana Jones",
+    "nameNative": "マナ・ジョーンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31616.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Matilda Rain",
+    "nameNative": "マチルダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43479.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-osaka"
+    ]
+  },
+  {
+    "name": "Moc Sullivan",
+    "nameNative": "モック・サリヴァン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32443.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisayoshi-suganuma"
+    ]
+  },
+  {
+    "name": "Moss",
+    "nameNative": "モス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29661.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Nelli Pepper",
+    "nameNative": "ネリ・ペッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27402.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-nabatame"
+    ]
+  },
+  {
+    "name": "Nello Pepper",
+    "nameNative": "ネロ・ペッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43314.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-matsuoka"
+    ]
+  },
+  {
+    "name": "Pistis",
+    "nameNative": "ピスティス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43316.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-komatsu"
+    ]
+  },
+  {
+    "name": "Promessa Prometas",
+    "nameNative": "プロメッサ・プロメタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43429.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chihiro-suzuki"
+    ]
+  },
+  {
+    "name": "Roda",
+    "nameNative": "ロダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12512.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Rose",
+    "nameNative": "ローズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43476.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masumi-asano"
+    ]
+  },
+  {
+    "name": "Sabrina Mary",
+    "nameNative": "サブリナ・メリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12520.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikuko-tani"
+    ]
+  },
+  {
+    "name": "Sandra Gobeni",
+    "nameNative": "サンドラ・ゴベーニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43427.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-yamashita"
+    ]
+  },
+  {
+    "name": "Sarah",
+    "nameNative": "サラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31517.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-komatsu"
+    ]
+  },
+  {
+    "name": "Signal",
+    "nameNative": "シグナル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39541.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-oguro"
+    ]
+  },
+  {
+    "name": "Signales",
+    "nameNative": "シグナレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43423.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-oguro"
+    ]
+  },
+  {
+    "name": "Sonya Marumera",
+    "nameNative": "ソーニャ・マルメーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43247.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Sylvette Suede",
+    "nameNative": "シルベット・スエード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12513.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "Thunderland Jr.",
+    "nameNative": "Dr.サンダーランド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14810.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideo-ishikawa"
+    ]
+  },
+  {
+    "name": "Vincent Alcott",
+    "nameNative": "ヴィンセント・オルコット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43431.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-nara"
+    ]
+  },
+  {
+    "name": "Zazie Winters",
+    "nameNative": "ザジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12519.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kishio"
+    ]
+  }
+]
