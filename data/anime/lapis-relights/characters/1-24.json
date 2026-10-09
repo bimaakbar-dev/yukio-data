@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Ashley",
+    "nameNative": "アシュレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163910-xXucrc7IQ0EC.png",
+    "role": "main",
+    "voiceActors": [
+      "iori-saeki"
+    ]
+  },
+  {
+    "name": "Lavie",
+    "nameNative": "ラヴィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163919-gUBIH4U86K6l.png",
+    "role": "main",
+    "voiceActors": [
+      "live-mukai"
+    ]
+  },
+  {
+    "name": "Lynette",
+    "nameNative": "リネット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163911-rLwACkpz9S34.png",
+    "role": "main",
+    "voiceActors": [
+      "mizuki-yamamoto"
+    ]
+  },
+  {
+    "name": "Rosetta",
+    "nameNative": "ロゼッタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163912-EiaephhvQyF8.png",
+    "role": "main",
+    "voiceActors": [
+      "risa-hoshina"
+    ]
+  },
+  {
+    "name": "Tiara Victoria",
+    "nameNative": "ティアラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163918-sxErlcZvdSoX.png",
+    "role": "main",
+    "voiceActors": [
+      "yukari-anzai"
+    ]
+  },
+  {
+    "name": "Alpha",
+    "nameNative": "あるふぁ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163916-5VSqVMzzQcd8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomomi-mineuchi"
+    ]
+  },
+  {
+    "name": "Angelica",
+    "nameNative": "アンジェリカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163915-VO8Qh0X5RGNr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuka-amemiya"
+    ]
+  },
+  {
+    "name": "Camilla",
+    "nameNative": "カミラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163914-4NoB7Srufa0V.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Champe",
+    "nameNative": "シャンペ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163913-wQK2ihiFSS74.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seika-hirose"
+    ]
+  },
+  {
+    "name": "Chloe",
+    "nameNative": "クロエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163924-pypNrJazFsrT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshino-nanjou"
+    ]
+  },
+  {
+    "name": "Eliza",
+    "nameNative": "エリザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163920-RARDeWUSM301.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Emilia",
+    "nameNative": "エミリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163927-62L1uywEfs7p.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hazuki-hoshino"
+    ]
+  },
+  {
+    "name": "Fiona",
+    "nameNative": "フィオナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163921-CqAScPF5vI3f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-itou"
+    ]
+  },
+  {
+    "name": "Garnet",
+    "nameNative": "ガーネット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163928-jwN1oxJJ4ckE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-nakayama"
+    ]
+  },
+  {
+    "name": "Kaede",
+    "nameNative": "カエデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163934-EXvltiJIIs2Z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-oono"
+    ]
+  },
+  {
+    "name": "Lucifer",
+    "nameNative": "ルキフェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163929-JtuPGPmmc6kt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "risae-matsuda"
+    ]
+  },
+  {
+    "name": "Maryberry",
+    "nameNative": "メアリーベリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163925-rXYuSYFhINmy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-akao"
+    ]
+  },
+  {
+    "name": "Millefeuille",
+    "nameNative": "ミルフィーユ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163923-TyYbx0kmv8bQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saeko-oku"
+    ]
+  },
+  {
+    "name": "Nadeshiko",
+    "nameNative": "ナデシコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163932-cfj24u8arqVO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-honizumi"
+    ]
+  },
+  {
+    "name": "Ratura",
+    "nameNative": "ラトゥーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163917-71UQK9bVkfpO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukimi-hayase"
+    ]
+  },
+  {
+    "name": "Salsa",
+    "nameNative": "サルサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163926-mtB8JUzg8rL9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-sasahara"
+    ]
+  },
+  {
+    "name": "Tsubaki",
+    "nameNative": "ツバキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163933-c9E9dSGeLDbJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "arisa-suzuki"
+    ]
+  },
+  {
+    "name": "Yue",
+    "nameNative": "ユエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163931-S3JjEvIIcOW5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-sakuragi"
+    ]
+  },
+  {
+    "name": "Yuzuriha",
+    "nameNative": "ユズリハ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163930-fUccLmQW6Xb9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  }
+]
