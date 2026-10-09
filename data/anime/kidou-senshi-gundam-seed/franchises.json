@@ -1,0 +1,32 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "kidou-senshi-gundam",
+    "title": "Kidou Senshi Gundam"
+  },
+  {
+    "relation": "side_story",
+    "slug": "gundam-evolve",
+    "title": "Gundam Evolve"
+  },
+  {
+    "relation": "side_story",
+    "slug": "kidou-senshi-gundam-seed-msv-astray",
+    "title": "Kidou Senshi Gundam SEED MSV Astray"
+  },
+  {
+    "relation": "sequel",
+    "slug": "kidou-senshi-gundam-seed-hoshi-no-hazama-de",
+    "title": "Kidou Senshi Gundam SEED: Hoshi no Hazama de"
+  },
+  {
+    "relation": "summary",
+    "slug": "kidou-senshi-gundam-seed-special-edition",
+    "title": "Kidou Senshi Gundam SEED Special Edition"
+  },
+  {
+    "relation": "spin_off",
+    "slug": "kidou-senshi-gundam-seed-seed-supernova-tanekyara-gekijou",
+    "title": "Kidou Senshi Gundam SEED: SEED Supernova - Tanekyara Gekijou"
+  }
+]
