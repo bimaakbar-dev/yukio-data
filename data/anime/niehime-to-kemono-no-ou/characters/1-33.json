@@ -1,0 +1,307 @@
+[
+  {
+    "name": "Leonhart",
+    "nameNative": "レオンハート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204948-UxFkLbCsfFXs.jpg",
+    "role": "main",
+    "voiceActors": [
+      "satoshi-hino",
+      "yumi-uchiyama"
+    ]
+  },
+  {
+    "name": "Sariphi Kleinoel",
+    "nameNative": "サリフィ・クライノエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204947-2uFJHlTmudoi.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Alva hime",
+    "nameNative": "アルバ姫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308979-vmi8CbF44usf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mayu-mineda"
+    ]
+  },
+  {
+    "name": "Amit",
+    "nameNative": "アミト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204952-17cEEjKrif6h.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Anastasia",
+    "nameNative": "アナスタシア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313787-RYKe9aZWkD43.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Anubis",
+    "nameNative": "アヌビス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204951-FHd45UDV0CLc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-terashima",
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Bennu",
+    "nameNative": "ベンヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204955-WAK79NdkN4t6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Brown",
+    "nameNative": "ブラウン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b310049-v8hHSz32CVWJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-sugisaki"
+    ]
+  },
+  {
+    "name": "Calcara",
+    "nameNative": "カルカラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309642-UULklDWNUqIV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaede-hondo"
+    ]
+  },
+  {
+    "name": "Calra",
+    "nameNative": "カルラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309645-Qghy9PQjijah.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Fenrir",
+    "nameNative": "フェンリル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299562-F64FjogjaGH3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura",
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Galois",
+    "nameNative": "ガロア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308973-RZBsqzfj467h.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Gleipnir",
+    "nameNative": "グレイプニル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299563-6SmhUnjiWqXV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-mizunaka",
+      "ayaka-asai"
+    ]
+  },
+  {
+    "name": "Ilya",
+    "nameNative": "イリーア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204953-clXxVZmP7VZb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouya-chiba",
+      "riho-sugiyama"
+    ]
+  },
+  {
+    "name": "Jormungand",
+    "nameNative": "ヨルムンガンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204954-ePfrkF1ZNpMB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chikahiro-kobayashi"
+    ]
+  },
+  {
+    "name": "Joz",
+    "nameNative": "ジョズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308976-LjEzGpqlKze8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Kapel",
+    "nameNative": "カペル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315083-qOmTQaTy8Cja.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  },
+  {
+    "name": "Kora Oujo",
+    "nameNative": "コラ王女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308980-ESgh5ELOFetU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-yamane"
+    ]
+  },
+  {
+    "name": "Kyuku",
+    "nameNative": "キュク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204949-eBxnP7bjWy8q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-nukui"
+    ]
+  },
+  {
+    "name": "Lanteveldt",
+    "nameNative": "ラントベルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204956-GUcRto6VYYTM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tasuku-hatanaka",
+      "yuka-takakura"
+    ]
+  },
+  {
+    "name": "Lops",
+    "nameNative": "ロプス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204950-Fx4HVnHvaZMU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-fujiwara"
+    ]
+  },
+  {
+    "name": "Marlow",
+    "nameNative": "マアロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311068-6R4DMNexFFZe.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  },
+  {
+    "name": "Maskviana-ou",
+    "nameNative": "マスクヴィアナ王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313788-w8Uxk769Jjrj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-ono"
+    ]
+  },
+  {
+    "name": "Ocelot",
+    "nameNative": "オセロット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313786-A1xHbw2u7FBg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhiko-okamoto",
+      "haruka-shiraishi"
+    ]
+  },
+  {
+    "name": "Richard",
+    "nameNative": "リチャード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b316051-YzbKuZGkmnhP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayumi-suzushiro"
+    ]
+  },
+  {
+    "name": "Sendai Anubis",
+    "nameNative": "先代アヌビス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308977-PcrZsoxXW4Ub.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "susumu-chiba"
+    ]
+  },
+  {
+    "name": "Sendai-ou",
+    "nameNative": "先代王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308978-B85GZj9PBJnv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-hashi"
+    ]
+  },
+  {
+    "name": "Set",
+    "nameNative": "セト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308974-IpWNcKhamU5T.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi",
+      "risae-matsuda"
+    ]
+  },
+  {
+    "name": "Teiryn",
+    "nameNative": "テイリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b310048-ei9ijz7gw80J.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-hanawa"
+    ]
+  },
+  {
+    "name": "Teto 7-sei",
+    "nameNative": "テト7世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309643-y4IyYutbrs9w.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-matsuyama"
+    ]
+  },
+  {
+    "name": "Tetra",
+    "nameNative": "テトラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309644-zlDb2N5cTp4u.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  },
+  {
+    "name": "Todd Ryourichou",
+    "nameNative": "トッド料理長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b303954-00INJNYQ0pEp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousei-hirota"
+    ]
+  },
+  {
+    "name": "Vivian",
+    "nameNative": "ヴィヴィアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308975-D4CXfSTJKXHY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  }
+]
