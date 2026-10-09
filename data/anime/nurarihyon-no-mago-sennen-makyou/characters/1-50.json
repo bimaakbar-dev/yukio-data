@@ -1,0 +1,454 @@
+[
+  {
+    "name": "Rikuo Nura",
+    "nameNative": "奴良リクオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12953.jpg",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama",
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Tsurara Oikawa",
+    "nameNative": "及川氷麗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16599.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Yura Keikain",
+    "nameNative": "花開院ゆら",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17957-TWHd1tqMOqKT.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-maeda"
+    ]
+  },
+  {
+    "name": "Abe no Seimei",
+    "nameNative": "安倍晴明",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39959.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-takeuchi",
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Akagappa",
+    "nameNative": "赤河童",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31471-EKHNR95Zjg0g.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-miyauchi"
+    ]
+  },
+  {
+    "name": "Akifusa Keikain",
+    "nameNative": "花開院秋房",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31433-Vtr07Wam9Q1T.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shoutarou-morikubo"
+    ]
+  },
+  {
+    "name": "Amezou",
+    "nameNative": "雨造",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31473.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daichuu-mizushima"
+    ]
+  },
+  {
+    "name": "Aotabo",
+    "nameNative": "青田坊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19431.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Awashima",
+    "nameNative": "淡島",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31474.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouka-yuzuki"
+    ]
+  },
+  {
+    "name": "Dohiko",
+    "nameNative": "土彦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31477.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-miyashita"
+    ]
+  },
+  {
+    "name": "Father Kyokotsu",
+    "nameNative": "狂骨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35713.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-ichijou"
+    ]
+  },
+  {
+    "name": "Gagoze",
+    "nameNative": "ガゴゼ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31428.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousei-hirota"
+    ]
+  },
+  {
+    "name": "Gairota",
+    "nameNative": "凱郎太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43461-TJGgoZHGBXn7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikkyuu-juku"
+    ]
+  },
+  {
+    "name": "Gashadokuro",
+    "nameNative": "がしゃどくろ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31489-zvdgY7hivV1o.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taiten-kusunoki"
+    ]
+  },
+  {
+    "name": "Goura Keikain",
+    "nameNative": "花開院豪羅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43549.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-ooba"
+    ]
+  },
+  {
+    "name": "Gozumaru",
+    "nameNative": "牛頭丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31018-qyf2oP6tcyaX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Gyuki",
+    "nameNative": "牛鬼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16601.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Hagoromo Gitsune",
+    "nameNative": "羽衣狐",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b26767-Jw0tyXQ6uUl1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Hakuzouzu",
+    "nameNative": "白蔵主",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35715.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-itou"
+    ]
+  },
+  {
+    "name": "Hidemoto Keikain",
+    "nameNative": "花開院秀元",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31431.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Hihi",
+    "nameNative": "狒々",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31426-N3zh25BjkFyV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-tsujitani"
+    ]
+  },
+  {
+    "name": "Hitotsume Nyuudou",
+    "nameNative": "一ツ目入道",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34681.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-matsuyama"
+    ]
+  },
+  {
+    "name": "Ibaraki Doji",
+    "nameNative": "茨木童子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33272-VIBcf1stbXyF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Itaku",
+    "nameNative": "イタク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31472.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kishio"
+    ]
+  },
+  {
+    "name": "Jami",
+    "nameNative": "邪魅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31468.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-asakawa"
+    ]
+  },
+  {
+    "name": "Jirou Shima",
+    "nameNative": "島二郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/33227.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Kana Ienaga",
+    "nameNative": "家長カナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16600.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hirano"
+    ]
+  },
+  {
+    "name": "Kappa",
+    "nameNative": "河童",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19433.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masahito-yabe"
+    ]
+  },
+  {
+    "name": "Karasu Tengu",
+    "nameNative": "鴉天狗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31159.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junji-majima"
+    ]
+  },
+  {
+    "name": "Kejourou",
+    "nameNative": "毛倡妓",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19432-KuUowoV7ObDe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-kakazu"
+    ]
+  },
+  {
+    "name": "Kidoumaru",
+    "nameNative": "鬼童丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31488.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kuroda"
+    ]
+  },
+  {
+    "name": "Kiyotsugu",
+    "nameNative": "清継",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/33228.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Ko Oni",
+    "nameNative": "小鬼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39804.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Kokehime",
+    "nameNative": "苔姫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31430.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aiko-ookubo"
+    ]
+  },
+  {
+    "name": "Koremitsu Keikain",
+    "nameNative": "花開院是光",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43531.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-yasumura"
+    ]
+  },
+  {
+    "name": "Kubinashi",
+    "nameNative": "首無",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16602.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Kuramayama no Dai-Tengu",
+    "nameNative": "鞍馬山の大天狗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35714-Hz2HuarMlVra.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Kuromaru",
+    "nameNative": "黒羽丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34910-jaOVjNCdGWPA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Kurotabou",
+    "nameNative": "黒田坊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19434-4G2P5oHvN1CZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Kyokotsu",
+    "nameNative": "狂骨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35717.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Mamiru Keikain",
+    "nameNative": "花開院魔魅琉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31465.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nojima"
+    ]
+  },
+  {
+    "name": "Masatsugu Keikain",
+    "nameNative": "花開院雅次",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31466.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hirofumi-nojima"
+    ]
+  },
+  {
+    "name": "Mezumaru",
+    "nameNative": "馬頭丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31017-kUn7nkWrtYbf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "souichirou-hoshi"
+    ]
+  },
+  {
+    "name": "Minagoroshi Jizou",
+    "nameNative": "鏖地蔵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35625.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chafuurin"
+    ]
+  },
+  {
+    "name": "Mitsume Yazura",
+    "nameNative": "三ツ目八面",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35012.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minoru-hirota"
+    ]
+  },
+  {
+    "name": "Mokugyo Daruma",
+    "nameNative": "木魚達磨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34682.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinpachi-tsuji"
+    ]
+  },
+  {
+    "name": "Namahage",
+    "nameNative": "なまはげ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43523.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-madono"
+    ]
+  },
+  {
+    "name": "Natsumi Torii",
+    "nameNative": "鳥居夏実",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23300-PEBxDSIPFogn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mana-hirata"
+    ]
+  },
+  {
+    "name": "Natto Kozou",
+    "nameNative": "納豆小僧",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31470.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-arai"
+    ]
+  },
+  {
+    "name": "Nijunanamen Senju Mukade",
+    "nameNative": "二十七面千手百足",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35768.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-yasumura"
+    ]
+  }
+]
