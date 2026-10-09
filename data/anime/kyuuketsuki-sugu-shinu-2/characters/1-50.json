@@ -1,0 +1,453 @@
+[
+  {
+    "name": "Draluc",
+    "nameNative": "ドラルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195177-yXosuPbcJag8.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama",
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "John",
+    "nameNative": "ジョン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217146-bXXuJrvBnHFB.png",
+    "role": "main",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Ronaldo",
+    "nameNative": "ロナルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195178-rhZQGshcPlO8.png",
+    "role": "main",
+    "voiceActors": [
+      "makoto-furukawa",
+      "yumiri-hanamori"
+    ]
+  },
+  {
+    "name": "Acchan",
+    "nameNative": "あっちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299205-GZB5O1QvxqFZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wakana-kuramochi"
+    ]
+  },
+  {
+    "name": "Akemi Handa",
+    "nameNative": "半田あけ美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269450-yfbqVWHgP45B.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Anti-Aging",
+    "nameNative": "アンチエイジング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327701-UkPgNxqhBd9A.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Bosatsu",
+    "nameNative": "ボサツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b254600-FKAi1zl6Irzg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "Bubuo",
+    "nameNative": "武々夫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269435-6c9itupDFlV9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukihiro-nozuyama"
+    ]
+  },
+  {
+    "name": "Chijou na Dubuts",
+    "nameNative": "チジョー・ナ・ドゥーブツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327715-LRzBjBqLaDsp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-kanda"
+    ]
+  },
+  {
+    "name": "Dicke na Dubuts",
+    "nameNative": "デッケー・ナ・ドゥーブツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327714-42UBqW3fKVem.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masafumi-kobatake"
+    ]
+  },
+  {
+    "name": "Draus",
+    "nameNative": "ドラウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b258658-fvNQhKX21vrZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Fukuma",
+    "nameNative": "フクマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230540-feusimckYIgH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shunichi-toki"
+    ]
+  },
+  {
+    "name": "Genranium",
+    "nameNative": "ゼンラニウム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269437-h1lN585P3O1O.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Goby",
+    "nameNative": "ゴビー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327665-yHKMiJYMq4up.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Gou",
+    "nameNative": "業",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327666-dULPNTllyR7P.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Gousetsu",
+    "nameNative": "ゴウセツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269432-2MxSXGjJzHnS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Hinaichi",
+    "nameNative": "ヒナイチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217145-VCcQWihXPYaU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-hioka"
+    ]
+  },
+  {
+    "name": "Hiroshi Yokota",
+    "nameNative": "横田浩",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269434-q22euJRFu9KR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-kikuchi"
+    ]
+  },
+  {
+    "name": "Hiyoshi",
+    "nameNative": "ヒヨシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230539-sszYCtmGVRUh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Homerun Batter",
+    "nameNative": "ホームランバッター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269460-YyhNt9ILzUDU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hironori-shiojiri"
+    ]
+  },
+  {
+    "name": "Kahanshin Toumei",
+    "nameNative": "下半身透明",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268632-t6kX14lVP7Xg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Kei Kantarou",
+    "nameNative": "ケイ・カンタロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269431-wrkVJRdL4Yzy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seiichirou-yamashita"
+    ]
+  },
+  {
+    "name": "Kickboard no Gaki",
+    "nameNative": "キックボードのガキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269459-eiN9edbG4xcM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Kogenranium",
+    "nameNative": "コゼンラニウム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327688-oxgJQx6B1njY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hayato-fujii"
+    ]
+  },
+  {
+    "name": "Koyuki",
+    "nameNative": "コユキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269452-a0nn88QXnkc1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-takada"
+    ]
+  },
+  {
+    "name": "Kyuuketsu Kamadouma",
+    "nameNative": "吸血カマドウマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327670-xuPsQPCJNYlF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-sakakihara"
+    ]
+  },
+  {
+    "name": "Kyuuketsuki Datsui Mahjong Club Atama",
+    "nameNative": "吸血鬼脱衣麻雀クラブ 頭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327694-SCspc15IfTXg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-akabane"
+    ]
+  },
+  {
+    "name": "Kyuuketsuki Datsui Mahjong Club Azuma",
+    "nameNative": "吸血鬼脱衣麻雀クラブ 東",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327695-04M3s1HRWbJ2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  },
+  {
+    "name": "Kyuuketsuki Datsui Mahjong Club Kita",
+    "nameNative": "吸血鬼脱衣麻雀クラブ 北",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327698-UnowgmyKfVUZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouhei-yanagi"
+    ]
+  },
+  {
+    "name": "Kyuuketsuki Datsui Mahjong Club Minami",
+    "nameNative": "吸血鬼脱衣麻雀クラブ 南",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327696-WcYXr9bDgDUm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daichi-hayashi"
+    ]
+  },
+  {
+    "name": "Kyuuketsuki Datsui Mahjong Club Nishi",
+    "nameNative": "吸血鬼脱衣麻雀クラブ 西",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327697-yE9JH3td3ENq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yusuke-kanie"
+    ]
+  },
+  {
+    "name": "Makoto Hagino",
+    "nameNative": "萩野真",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b262757-BsAJtcY23NtN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-asai"
+    ]
+  },
+  {
+    "name": "Manner Ihan",
+    "nameNative": "マナー違反",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269440-4CTTaU4v1yYo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "souma-saitou"
+    ]
+  },
+  {
+    "name": "Maremi Gekkouin",
+    "nameNative": "月光院希美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269439-g9hGM484UksR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Maria",
+    "nameNative": "マリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230536-hSWs3AwsvwM7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Mebiyatsu",
+    "nameNative": "メビヤツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327625-rGsPZHl2rogw.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Medoki",
+    "nameNative": "メドキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269457-A4Yzagu4TOFJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "koudai-sakai",
+      "kanna-nakamura"
+    ]
+  },
+  {
+    "name": "Micro Bikini",
+    "nameNative": "マイクロビキニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269448-3e0e59DckSxQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Mikazuki Kagomehara",
+    "nameNative": "籠目原ミカヅキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284633-dYmcqIAkHM8a.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Mimimi Gekkouin",
+    "nameNative": "月光院三魅美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327667-N4gpUqw8P292.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  },
+  {
+    "name": "Mira",
+    "nameNative": "ミラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327669-4gwWnxBEVP5a.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Moegi",
+    "nameNative": "モエギ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327711-ZKhJLDQPH3UC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-masumoto"
+    ]
+  },
+  {
+    "name": "Nagiri Tsujigiri",
+    "nameNative": "辻斬りナギリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269443-2oO88bQogkGC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshihiko-seki"
+    ]
+  },
+  {
+    "name": "Netsuretsu Kiss",
+    "nameNative": "小林未沙",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269449-5pnfzhnwyZaO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misa-kobayashi"
+    ]
+  },
+  {
+    "name": "Northdin",
+    "nameNative": "ノースディン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327706-4latKKomPJzY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenyuu-horiuchi"
+    ]
+  },
+  {
+    "name": "Ojii-sama",
+    "nameNative": "御真祖様",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269442-ySGJXDC20i24.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Onsen no Hito",
+    "nameNative": "温泉の人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327713-8aGgoN8PDkAL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tasuku-hatanaka"
+    ]
+  },
+  {
+    "name": "Renji Kameya",
+    "nameNative": "カメ谷レンジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243493-Cnyd55Aq6WcD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-kondou"
+    ]
+  },
+  {
+    "name": "Robin",
+    "nameNative": "ロビン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299206-CC19JjpbxR9f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouta-hayama"
+    ]
+  },
+  {
+    "name": "Ruri",
+    "nameNative": "ルリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327712-MHVQLFHop0Qa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayumi-suzushiro"
+    ]
+  }
+]
