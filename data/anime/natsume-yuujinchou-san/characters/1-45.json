@@ -1,0 +1,408 @@
+[
+  {
+    "name": "Madara",
+    "nameNative": "斑",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/13784.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Takashi Natsume",
+    "nameNative": "夏目貴志",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13783-FvmhRaCOKzKQ.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroshi-kamiya",
+      "ayumi-fujimura"
+    ]
+  },
+  {
+    "name": "Aokuchinashi",
+    "nameNative": "アオクチナシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43986.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kyouda"
+    ]
+  },
+  {
+    "name": "Atsushi Kitamoto",
+    "nameNative": "北本篤史",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23039-Q9gGFW3RLFJc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisayoshi-suganuma"
+    ]
+  },
+  {
+    "name": "Benio",
+    "nameNative": "紅峰",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18601.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misa-watanabe"
+    ]
+  },
+  {
+    "name": "Chobi-hige",
+    "nameNative": "ちょびひげ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23115.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Eyeless Youkai",
+    "nameNative": "メナシの妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46311.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuriko-fuchizaki"
+    ]
+  },
+  {
+    "name": "Female Witch Doctor",
+    "nameNative": "女呪術師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46535.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-seto"
+    ]
+  },
+  {
+    "name": "Hiiragi",
+    "nameNative": "柊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19023-TvAFMcLdOmTi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Hinoe",
+    "nameNative": "ヒノエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19455.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akemi-okamura"
+    ]
+  },
+  {
+    "name": "Hitotsume no Chuukyuu Youkai",
+    "nameNative": "一つ目の中級妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36826-Jr56GWbduSOF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-matsuyama"
+    ]
+  },
+  {
+    "name": "Ill Youkai",
+    "nameNative": "病を患った妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48689.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tarusuke-shingaki"
+    ]
+  },
+  {
+    "name": "Jinseki no Oba-san",
+    "nameNative": "親戚のおばさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48687.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kyouko-chikiri"
+    ]
+  },
+  {
+    "name": "Jinseki no Oji-san",
+    "nameNative": "親戚のおじさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akimitsu-takase"
+    ]
+  },
+  {
+    "name": "Jun Sasada",
+    "nameNative": "笹田純",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14414-o93ZpddmPD7S.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Kaname no Otou-san",
+    "nameNative": "要のお父さん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/47837.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasunori-matsumoto"
+    ]
+  },
+  {
+    "name": "Kaname Tanuma",
+    "nameNative": "田沼要",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13888-w2qcCutnhTTI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuma-horie"
+    ]
+  },
+  {
+    "name": "Kanawa",
+    "nameNative": "カナワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44207.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takanori-hoshino"
+    ]
+  },
+  {
+    "name": "Kappa",
+    "nameNative": "カッパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44637.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kyouko-chikiri"
+    ]
+  },
+  {
+    "name": "Katsumi Shibata",
+    "nameNative": "柴田克巳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44575-lFo9cqkJYuDw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Ki no Ue no Youkai",
+    "nameNative": "木の上の妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/45009.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fuyuka-ooura"
+    ]
+  },
+  {
+    "name": "Kogitsune",
+    "nameNative": "子狐",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15446-xOynnJRNqxEJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-yajima"
+    ]
+  },
+  {
+    "name": "Lion-faced Youkai",
+    "nameNative": "獅子顔の妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48685.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "suzune-okabe"
+    ]
+  },
+  {
+    "name": "Long Haired One-Eyed Youkai",
+    "nameNative": "髪の長い一つ目妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48683.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-soumi"
+    ]
+  },
+  {
+    "name": "Misuzu",
+    "nameNative": "三篠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25272-TtXoDHXHbgQ2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kuroda"
+    ]
+  },
+  {
+    "name": "Murasaki",
+    "nameNative": "村崎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44573.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Nanase",
+    "nameNative": "七瀬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44182.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-doi"
+    ]
+  },
+  {
+    "name": "Natsume's Adoptive Brother",
+    "nameNative": "親戚のおにいさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48663.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Reiko Natsume",
+    "nameNative": "夏目レイコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13886-jvXFmldVIkEu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Sagume",
+    "nameNative": "サグメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44206.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mina-kobayashi"
+    ]
+  },
+  {
+    "name": "Saigami",
+    "nameNative": "塞神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46803.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "seizou-katou"
+    ]
+  },
+  {
+    "name": "Satoru Nishimura",
+    "nameNative": "西村悟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23038-Hpz0og46jyCJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouhei-kimura"
+    ]
+  },
+  {
+    "name": "Seiji Matoba",
+    "nameNative": "的場静司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31303-MCf7v5ihWhic.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Shigeru Fujiwara",
+    "nameNative": "藤原滋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20336-hZooLymkPnd7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-itou"
+    ]
+  },
+  {
+    "name": "Shinichirou",
+    "nameNative": "慎一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45403-D9rRSgkgAshq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-hatano"
+    ]
+  },
+  {
+    "name": "Shuuichi Natori",
+    "nameNative": "名取周一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13887-YNOjDFZOaS79.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Three-eyed Youkai",
+    "nameNative": "三つ目の妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48755.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shimozaki"
+    ]
+  },
+  {
+    "name": "Tooru Taki",
+    "nameNative": "多軌透",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19515-yEKeJk2EgwDy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Touko Fujiwara",
+    "nameNative": "藤原塔子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19546-CJX65evYlXJB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Tsuji",
+    "nameNative": "辻",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48583.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-kousaka"
+    ]
+  },
+  {
+    "name": "Ushikao no Chuukyuu Youkai",
+    "nameNative": "牛顔の中級妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44209-WKoEs9ZA4wSt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shimozaki"
+    ]
+  },
+  {
+    "name": "Winged Youkai",
+    "nameNative": "羽の妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46309.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chie-nakamura"
+    ]
+  },
+  {
+    "name": "Yasui",
+    "nameNative": "安井",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46801.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-atari"
+    ]
+  },
+  {
+    "name": "Youkai Possessing Tanuma",
+    "nameNative": "田沼に憑いた妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/47835.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-nabatame"
+    ]
+  },
+  {
+    "name": "Youkai with the Hammer",
+    "nameNative": "金槌を持った妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48661.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nakano"
+    ]
+  }
+]
