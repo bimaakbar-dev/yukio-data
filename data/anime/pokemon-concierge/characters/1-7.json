@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Haru",
+    "nameNative": "ハル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299552-1h0ye95Jp7r4.png",
+    "role": "main",
+    "voiceActors": [
+      "rena-nounen"
+    ]
+  },
+  {
+    "name": "Koduck",
+    "nameNative": "コダック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136296-2N0Jp2pV8DeV.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroshi-kousaka"
+    ]
+  },
+  {
+    "name": "Alisa",
+    "nameNative": "アリサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319297-nNMYzGptIgqy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fairouz-ai"
+    ]
+  },
+  {
+    "name": "Nao",
+    "nameNative": "ナオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322265-VHKDaKUrun92.png",
+    "role": "supporting",
+    "voiceActors": [
+      "risae-matsuda"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "nameNative": "ピカチュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Tyler",
+    "nameNative": "タイラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319298-9T3GyqZNkXBx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eita-okuno"
+    ]
+  },
+  {
+    "name": "Watanabe",
+    "nameNative": "ワタナベ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319300-0uEftIWpahDT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-takemura"
+    ]
+  }
+]
