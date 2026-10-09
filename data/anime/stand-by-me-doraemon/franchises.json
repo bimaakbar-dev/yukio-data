@@ -1,0 +1,17 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "doraemon-2005",
+    "title": "Doraemon (2005)"
+  },
+  {
+    "relation": "side_story",
+    "slug": "stand-by-me-doraemon-specials",
+    "title": "Stand By Me Doraemon Specials"
+  },
+  {
+    "relation": "sequel",
+    "slug": "stand-by-me-doraemon-2",
+    "title": "Stand By Me Doraemon 2"
+  }
+]
