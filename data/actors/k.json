@@ -1377,6 +1377,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "kenichi-chuujou",
+    "name": "Kenichi Chuujou",
+    "nameNative": "中條健一",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n160924-QravRIN72r6o.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "kenichi-endou",
     "name": "Kenichi Endou",
     "nameNative": "遠藤憲一",
@@ -1864,6 +1871,13 @@
     "name": "Koba Hayashi",
     "nameNative": "こば はやし",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/22777.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "koji-imada",
+    "name": "Koji Imada",
+    "nameNative": "今田耕司",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n160918-jg9K5TJgzlRI.jpg",
     "defaultLanguage": "Japanese"
   },
   {

@@ -770,6 +770,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "sayaka-maeda",
+    "name": "Sayaka Maeda",
+    "nameNative": "前田沙耶香",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n160920-qcHX8BTal72p.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "sayaka-nakaya",
     "name": "Sayaka Nakaya",
     "nameNative": "仲谷明香",
@@ -907,6 +914,13 @@
     "name": "Seiko Niizuma",
     "nameNative": "新妻聖子",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/16171.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "seiko-takuma",
+    "name": "Seiko Takuma",
+    "nameNative": "たくませいこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n160919-gODI9fRlXspe.png",
     "defaultLanguage": "Japanese"
   },
   {
