@@ -1,5 +1,12 @@
 [
   {
+    "id": "ui-miyazaki",
+    "name": "Ui Miyazaki",
+    "nameNative": "宮崎羽衣",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/309.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "uki-satake",
     "name": "Uki Satake",
     "nameNative": "佐武宇綺",
