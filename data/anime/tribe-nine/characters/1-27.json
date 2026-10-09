@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Haru Shirokane",
+    "nameNative": "白金ハル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250103-17GMPMc5gk9F.png",
+    "role": "main",
+    "voiceActors": [
+      "shun-horie"
+    ]
+  },
+  {
+    "name": "Kazuki Aoyama",
+    "nameNative": "青山カズキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250098-ngZA61mQao16.png",
+    "role": "main",
+    "voiceActors": [
+      "shouya-chiba"
+    ]
+  },
+  {
+    "name": "Manami Daimon",
+    "nameNative": "大門愛海",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250100-kgbaEOnPBPP0.png",
+    "role": "main",
+    "voiceActors": [
+      "fukushi-ochiai"
+    ]
+  },
+  {
+    "name": "Santarou Mita",
+    "nameNative": "三田三太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250102-ZqBhiP4kgGoY.png",
+    "role": "main",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Saori Arisugawa",
+    "nameNative": "有栖川さおり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250099-ZV50eoXbEGMN.png",
+    "role": "main",
+    "voiceActors": [
+      "mai-fuchigami"
+    ]
+  },
+  {
+    "name": "Shun Kamiya",
+    "nameNative": "神谷瞬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250101-u1UPu7Addq9x.png",
+    "role": "main",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Taiga",
+    "nameNative": "タイガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250104-rYXo8C4zkscP.png",
+    "role": "main",
+    "voiceActors": [
+      "chiharu-sawashiro"
+    ]
+  },
+  {
+    "name": "Eiji Todoroki",
+    "nameNative": "轟英二",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263539-XGvJGnYJdKRS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenshou-ono"
+    ]
+  },
+  {
+    "name": "Enoki Yukigaya",
+    "nameNative": "雪谷えのき",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256842-PbpQqVplAHme.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reina-kondou"
+    ]
+  },
+  {
+    "name": "Fuchou Sonoda",
+    "nameNative": "園田不兆",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256840-Y83oSUTr4JyW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junta-terashima"
+    ]
+  },
+  {
+    "name": "Hanafuda Sakura",
+    "nameNative": "桜花札",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256839-xAXFbXsKUj9u.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Hyakutarou Senju",
+    "nameNative": "千住百太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256837-auEe4Zx8gyAM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-kumagai"
+    ]
+  },
+  {
+    "name": "Judge Robot",
+    "nameNative": "ジャッジロボ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263537-3aryiVwuP3l3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sumi"
+    ]
+  },
+  {
+    "name": "Kai Ashikawa",
+    "nameNative": "旭川カイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256844-YFPKjvlwiDAP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "gakuto-kajiwara"
+    ]
+  },
+  {
+    "name": "Kiyoshirou Haneda",
+    "nameNative": "羽田清死郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256841-N3eCcsCc7LZi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukihiro-nozuyama"
+    ]
+  },
+  {
+    "name": "Minami Ooi",
+    "nameNative": "大井南",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256846-NPut34HBOw33.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misato-murai"
+    ]
+  },
+  {
+    "name": "Nekomaru",
+    "nameNative": "ねこまる",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250106-7IBL4wjotNMu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-fuchigami"
+    ]
+  },
+  {
+    "name": "Ojirou Otori",
+    "nameNative": "鳳王次郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250107-wVg6fPsMR6XH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Purin Ikejiri",
+    "nameNative": "池尻ぷりん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b275287-N3X36wKjptMR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rena-maeda"
+    ]
+  },
+  {
+    "name": "Rankichi Umeda",
+    "nameNative": "梅田蘭吉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256835-CsOzXp1C1MPn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiki-masuda"
+    ]
+  },
+  {
+    "name": "Roku Saigou",
+    "nameNative": "西郷ロク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256843-sJEIXGX1gQyw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Tatsunuma Tatsuto",
+    "nameNative": "辰沼龍斗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256836-8igsOuMzqrPg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Tenshin Otori",
+    "nameNative": "鳳天心",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250108-UZdzbhYKb7yz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-naka"
+    ]
+  },
+  {
+    "name": "Yajirobe Ueno",
+    "nameNative": "上野弥次郎兵衛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256838-aq51hcwXskP2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Yasuhiro",
+    "nameNative": "ヤスヒロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b275286-ThGQS7P0YNdG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kyousuke-ikeda"
+    ]
+  },
+  {
+    "name": "Yui Kamiki",
+    "nameNative": "神木結衣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250105-YdFRZXwf840L.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "Yutaka Gotanda",
+    "nameNative": "五反田豊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256845-3XJO0h1v0yQD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-komada"
+    ]
+  }
+]
