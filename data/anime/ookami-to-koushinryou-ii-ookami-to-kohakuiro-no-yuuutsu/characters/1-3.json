@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Holo",
+    "nameNative": "ホロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7373-1BH0gELuZmHD.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Kraft Lawrence",
+    "nameNative": "クラフト・ロレンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7374-XeKVCsoW129T.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Nora Arendt",
+    "nameNative": "ノーラ・アレント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7376-Hc7DpDQj6I31.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  }
+]
