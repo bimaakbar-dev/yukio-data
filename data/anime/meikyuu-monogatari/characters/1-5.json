@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Sachi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188989-01lMoLIeNqPO.png",
+    "role": "main",
+    "voiceActors": [
+      "hideko-yoshida"
+    ]
+  },
+  {
+    "name": "Tsutomu Sugioka",
+    "nameNative": "杉本勉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18438-k1Gzyppm2rXU.png",
+    "role": "main",
+    "voiceActors": [
+      "yuu-mizushima"
+    ]
+  },
+  {
+    "name": "Zack Hugh",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188988-nmlAvf68LSlU.png",
+    "role": "main",
+    "voiceActors": [
+      "banjou-ginga"
+    ]
+  },
+  {
+    "name": "Bob Stone",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188991-pmo8A0ESoygK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masane-tsukayama"
+    ]
+  },
+  {
+    "name": "Robot 444-1",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188990-VWIPSMZilzLX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-ootake"
+    ]
+  }
+]
