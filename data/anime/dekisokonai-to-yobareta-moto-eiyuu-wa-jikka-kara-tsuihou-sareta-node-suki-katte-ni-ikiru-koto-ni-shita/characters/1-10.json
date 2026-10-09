@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Allen",
+    "nameNative": "アレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308220-dRkkPGLe9OA5.png",
+    "role": "main",
+    "voiceActors": [
+      "shouta-aoi"
+    ]
+  },
+  {
+    "name": "Akira",
+    "nameNative": "アキラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326388-yBLDBw2wQdpg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Anriette",
+    "nameNative": "アンリエット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326384-3ni9GyKAdCgi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akari-kitou"
+    ]
+  },
+  {
+    "name": "Beatrice",
+    "nameNative": "ベアトリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326387-lLfFra7MA07o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Brett",
+    "nameNative": "ブレット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b329705-mM37h4h3ghUQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Craig",
+    "nameNative": "クレイグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b329704-DCpr74kKzr5d.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Curtis",
+    "nameNative": "カーティス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b329706-0OcgfPeCSbFr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-koyasu"
+    ]
+  },
+  {
+    "name": "Mylene",
+    "nameNative": "ミレーヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326386-EyjtpoC8LX91.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aimi"
+    ]
+  },
+  {
+    "name": "Noel",
+    "nameNative": "ノエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326385-w5mC0tTXQTfd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sora-amamiya"
+    ]
+  },
+  {
+    "name": "Riese",
+    "nameNative": "リーズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326383-J6Th6ugHEXgg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-kurisaka"
+    ]
+  }
+]
