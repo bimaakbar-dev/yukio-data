@@ -1,0 +1,449 @@
+[
+  {
+    "name": "Fei Rune",
+    "nameNative": "フェイ・ルーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b61553-wEPj5mtRehpd.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akiko-kimura"
+    ]
+  },
+  {
+    "name": "Kyousuke Tsurugi",
+    "nameNative": "剣城京介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41960-wVuedD1Ey8Ls.png",
+    "role": "main",
+    "voiceActors": [
+      "yuu-kobayashi",
+      "takashi-oohara"
+    ]
+  },
+  {
+    "name": "Takuto Shindou",
+    "nameNative": "神童拓人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41961-LFI97KskRPyY.png",
+    "role": "main",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Tenma Matsukaze",
+    "nameNative": "松風天馬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41766-9gpqLtVHETiO.png",
+    "role": "main",
+    "voiceActors": [
+      "yuka-terasaki"
+    ]
+  },
+  {
+    "name": "Akane Yamana",
+    "nameNative": "山菜茜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42912-SeAFqxfwx2LG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-yurin"
+    ]
+  },
+  {
+    "name": "Aki Kino",
+    "nameNative": "木野秋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31784-BRzqLmNjXMsQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Alpha",
+    "nameNative": "アルファ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61691.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Aoi Sorano",
+    "nameNative": "空野葵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42911-tU8oA2Y0sWyc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-kitahara"
+    ]
+  },
+  {
+    "name": "Arno Crossword",
+    "nameNative": "クロスワード・アルノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215722-DspHmKaejmt3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-kusumi"
+    ]
+  },
+  {
+    "name": "Bahamus",
+    "nameNative": "バハムス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/68943.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kensuke-satou"
+    ]
+  },
+  {
+    "name": "Beta",
+    "nameNative": "ベータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67197.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Chouhi",
+    "nameNative": "張飛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320754-SSIE2sAmoMP6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-nara"
+    ]
+  },
+  {
+    "name": "Clark Wonderbot",
+    "nameNative": "クラーク・ワンダバット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67401.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Daichi Amagi",
+    "nameNative": "天城大地",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42872-GZf3k8a1LGKa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-nara"
+    ]
+  },
+  {
+    "name": "Daisuke Endou",
+    "nameNative": "円堂大介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31778-emxTGhdGxyBC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuzuru-fujimoto"
+    ]
+  },
+  {
+    "name": "Darna",
+    "nameNative": "ダーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/68945.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mina-kasai"
+    ]
+  },
+  {
+    "name": "Drim",
+    "nameNative": "ドリム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/68687.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Einam",
+    "nameNative": "エイナム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64835.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hirofumi-nojima"
+    ]
+  },
+  {
+    "name": "Galling",
+    "nameNative": "ガリング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b68941-DGbFrHmprfnj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-nara"
+    ]
+  },
+  {
+    "name": "Gamma",
+    "nameNative": "ガンマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/68677.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-tai"
+    ]
+  },
+  {
+    "name": "Gaura",
+    "nameNative": "ガウラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/68685.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kensuke-satou"
+    ]
+  },
+  {
+    "name": "Gorouta",
+    "nameNative": "五郎太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67913.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Gouichi Kurumada",
+    "nameNative": "車田剛一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42873-nOQOOhQdYlY0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hirofumi-nojima"
+    ]
+  },
+  {
+    "name": "Haruna Otonashi",
+    "nameNative": "音無春奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31779-iQco10alzUvi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hinako-sasaki"
+    ]
+  },
+  {
+    "name": "Heigorou Kabeyama",
+    "nameNative": "壁山塀吾郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29850-oTdYJzgWrlig.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Heikichi Toudou",
+    "nameNative": "トウドウ ヘイキチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67403.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-aizawa"
+    ]
+  },
+  {
+    "name": "Hikaru Kageyama",
+    "nameNative": "影山輝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50659.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumi-fujimura"
+    ]
+  },
+  {
+    "name": "Ichimasa",
+    "nameNative": "市正",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67917.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-konno"
+    ]
+  },
+  {
+    "name": "Imagawa Yoshimoto",
+    "nameNative": "今川 義元",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/68693.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kensuke-satou"
+    ]
+  },
+  {
+    "name": "Interviewer",
+    "nameNative": "面接官",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67601.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuta-odagaki"
+    ]
+  },
+  {
+    "name": "Jeanne d'Arc",
+    "nameNative": "ジャンヌ・ダルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/68933.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minako-kotobuki"
+    ]
+  },
+  {
+    "name": "Jingo",
+    "nameNative": "仁悟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67915.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumi-fujimura"
+    ]
+  },
+  {
+    "name": "Kaiji Hamano",
+    "nameNative": "浜野海士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42874-6ni7VTiqNnI5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-konno"
+    ]
+  },
+  {
+    "name": "Kanu",
+    "nameNative": "関羽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320753-TztpGWinq7hu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Kinako Nanobana",
+    "nameNative": "菜花黄名子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/68935.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Mamoru Endou",
+    "nameNative": "円堂守",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16412-ZsvITu2WWg6Q.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-takeuchi"
+    ]
+  },
+  {
+    "name": "Masaki Kariya",
+    "nameNative": "狩屋マサキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49383-mmCsWtbegFzg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-tai"
+    ]
+  },
+  {
+    "name": "Medam",
+    "nameNative": "メダム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67907.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-konno"
+    ]
+  },
+  {
+    "name": "Meia",
+    "nameNative": "メイア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321637-qisif3QE8UOt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hinako-sasaki"
+    ]
+  },
+  {
+    "name": "Midori Seto",
+    "nameNative": "瀬戸水鳥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42910-C2Cnn2kj9pTS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mina-kasai"
+    ]
+  },
+  {
+    "name": "Nanasuke Ichino",
+    "nameNative": "一乃七助",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/47725.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Neira",
+    "nameNative": "ネイラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/68683.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hinako-sasaki"
+    ]
+  },
+  {
+    "name": "Nobunaga Oda",
+    "nameNative": "織田信長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67599.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "isshin-chiba"
+    ]
+  },
+  {
+    "name": "Norihito Kurama",
+    "nameNative": "倉間典人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42876-ZPm6Gk6eqXxw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayahi-takagaki"
+    ]
+  },
+  {
+    "name": "Okatsu",
+    "nameNative": "お勝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67597.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayahi-takagaki"
+    ]
+  },
+  {
+    "name": "Orca",
+    "nameNative": "オルカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67909-CPgdAuLc4o9k.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-yurin"
+    ]
+  },
+  {
+    "name": "Quarth",
+    "nameNative": "クオース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67905.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-oohara"
+    ]
+  },
+  {
+    "name": "Ranmaru Kirino",
+    "nameNative": "霧野 蘭丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42504-DbyH9ao8BWSI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Reiza",
+    "nameNative": "レイザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67895.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumi-fujimura"
+    ]
+  },
+  {
+    "name": "Rudzik",
+    "nameNative": "ルジク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/68939.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-konno"
+    ]
+  }
+]
