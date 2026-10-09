@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Liam",
+    "nameNative": "リアム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338929-DX7F3GyZIfSf.png",
+    "role": "main",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Albrecht",
+    "nameNative": "アルブレビト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354439-E42RgEu6q3mX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuichi-kijima"
+    ]
+  },
+  {
+    "name": "Asuna",
+    "nameNative": "アスナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338931-0hY3K0SbXbjm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Bruno",
+    "nameNative": "ブルーノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354437-qZ7BuuOPwyzH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuya-hirose"
+    ]
+  },
+  {
+    "name": "Chris",
+    "nameNative": "クリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354438-EHQbSaaNxqVj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miho-okasaki"
+    ]
+  },
+  {
+    "name": "Guy",
+    "nameNative": "ガイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354436-QwLscpzyWp7G.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Jodi",
+    "nameNative": "ジョディ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338932-ehzM8nvJmA6L.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Lardon",
+    "nameNative": "ラードーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b344715-NFukdydAu5Q8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya",
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Raymond",
+    "nameNative": "レイモンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b344716-cJasrin89NVN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Reina",
+    "nameNative": "レイナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354435-M48Wt2suYXck.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yume-miyamoto"
+    ]
+  },
+  {
+    "name": "Scarlet",
+    "nameNative": "スカーレット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b344714-GHgOIOvuZesH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  }
+]
