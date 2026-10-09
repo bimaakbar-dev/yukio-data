@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Alice",
+    "nameNative": "艾抒丝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125563-i90CyrmXd5iT.jpg",
+    "role": "main",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Ashley",
+    "nameNative": "艾思莉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125562-UOBaVrIQmUkJ.jpg",
+    "role": "main",
+    "voiceActors": [
+      "nanako-mori"
+    ]
+  },
+  {
+    "name": "Dennis",
+    "nameNative": "丹尼斯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125565-vubIZadyrCrz.jpg",
+    "role": "main",
+    "voiceActors": [
+      "riho-sugiyama"
+    ]
+  },
+  {
+    "name": "Snow",
+    "nameNative": "斯诺",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125491-fEUbGWI7cY2Q.jpg",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Tracy",
+    "nameNative": "翠西",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125564-1DeciSoE3vLa.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yoshiko-ikuta"
+    ]
+  },
+  {
+    "name": "Fuqin",
+    "nameNative": "父亲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youhei-tadano"
+    ]
+  },
+  {
+    "name": "Huaidong Xiong",
+    "nameNative": "熊怀冬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuma-horie"
+    ]
+  },
+  {
+    "name": "Jiating Jiaoshi",
+    "nameNative": "家庭教师",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-sasamoto"
+    ]
+  },
+  {
+    "name": "Jin",
+    "nameNative": "堇",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125566-JsF4MV3hp10T.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yurika-kubo"
+    ]
+  },
+  {
+    "name": "Muqin",
+    "nameNative": "母亲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sakiko-uran"
+    ]
+  },
+  {
+    "name": "Xiaoxue Jiashi",
+    "nameNative": "小学教师",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rika-tachibana"
+    ]
+  }
+]
