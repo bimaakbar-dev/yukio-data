@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Asagumo",
+    "nameNative": "朝雲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291911-fXnCrYa3H9ra.png",
+    "role": "main",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Fusou",
+    "nameNative": "扶桑",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291901-CDwu9ruYixux.png",
+    "role": "main",
+    "voiceActors": [
+      "saki-fujita"
+    ]
+  },
+  {
+    "name": "Michishio",
+    "nameNative": "満潮",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291913-xtlc88jh6p6c.png",
+    "role": "main",
+    "voiceActors": [
+      "wakana-miyakawa"
+    ]
+  },
+  {
+    "name": "Mogami",
+    "nameNative": "最上",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291905-k9j6HRxDaWEC.png",
+    "role": "main",
+    "voiceActors": [
+      "aya-suzaki"
+    ]
+  },
+  {
+    "name": "Shigure",
+    "nameNative": "時雨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291904-MrtRWyXjfIgC.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yumi-tanibe"
+    ]
+  },
+  {
+    "name": "Yamagumo",
+    "nameNative": "山雲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291908-li63ZKMjk4k7.png",
+    "role": "main",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Yamashiro",
+    "nameNative": "山城",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291910-uPGU66jiwaVQ.png",
+    "role": "main",
+    "voiceActors": [
+      "saki-fujita"
+    ]
+  },
+  {
+    "name": "Abukuma",
+    "nameNative": "阿武隈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291909-mAHZ4oAuoiI9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "iori-nomizu"
+    ]
+  },
+  {
+    "name": "Akebono",
+    "nameNative": "曙",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291915-dXmDffHLowJI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kozue-hayasaka"
+    ]
+  },
+  {
+    "name": "Asashimo",
+    "nameNative": "朝霜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300619-t7tEXqhXNT6a.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Ashigara",
+    "nameNative": "足柄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291906-UBpaa8gzZy9m.png",
+    "role": "supporting",
+    "voiceActors": [
+      "risa-taneda"
+    ]
+  },
+  {
+    "name": "Fuyutsuki",
+    "nameNative": "冬月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300617-N3N7K2EQphWT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Gisou Seibichou",
+    "nameNative": "艤装整備長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300620-dl96tg2goOLh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-kyoumoto"
+    ]
+  },
+  {
+    "name": "Hamakaze",
+    "nameNative": "浜風",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291912-r6sHPNaEzuuJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mana-komatsu"
+    ]
+  },
+  {
+    "name": "Haruna",
+    "nameNative": "榛名",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88674-NAydHAEPrVNN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Hatsushimo",
+    "nameNative": "初霜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300614-0khJby9pzFx4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "motoko-kobayashi"
+    ]
+  },
+  {
+    "name": "Hibiki",
+    "nameNative": "響",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/126324-WaKhwY1mySlb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-suzaki"
+    ]
+  },
+  {
+    "name": "Iowa",
+    "nameNative": "アイオワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388900-EcGMAB9xytbb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chinami-hashimoto"
+    ]
+  },
+  {
+    "name": "Isokaze",
+    "nameNative": "磯風",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291898-wroWZLE2LvRy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Kasumi",
+    "nameNative": "霞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300618-vPtFJJaXBMLw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wakana-miyakawa"
+    ]
+  },
+  {
+    "name": "Kiyoshimo",
+    "nameNative": "清霜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300613-amdUy6W3oYtn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Kongou",
+    "nameNative": "戦艦 金剛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88673-NakLQbeNGBqN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Nachi",
+    "nameNative": "那智",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291899-t1u7K27sWQ2F.png",
+    "role": "supporting",
+    "voiceActors": [
+      "risa-taneda"
+    ]
+  },
+  {
+    "name": "Ooyodo",
+    "nameNative": "大淀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235738-LBdEvTi6bzJU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Ryuuhou",
+    "nameNative": "龍鳳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291907-4YZPKVDFOlR9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-ogura"
+    ]
+  },
+  {
+    "name": "Shiratsuyu",
+    "nameNative": "白露",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291902-0E87KSc4iMCe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-tanibe"
+    ]
+  },
+  {
+    "name": "South Dakota",
+    "nameNative": "サウスダコタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388901-PJeNg2iV6nrp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misato-matsuoka"
+    ]
+  },
+  {
+    "name": "Suzutsuki",
+    "nameNative": "涼月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300616-Wg45HTutPZ8L.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saki-fujita"
+    ]
+  },
+  {
+    "name": "Teitoku",
+    "nameNative": "提督",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300615-UFGuKcRF24Aw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-narita"
+    ]
+  },
+  {
+    "name": "Ushio",
+    "nameNative": "潮",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291914-lSYgtDHuUNGc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kozue-hayasaka"
+    ]
+  },
+  {
+    "name": "Warspite",
+    "nameNative": "ウォースパイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388902-GsfLsEfkqb3H.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shuu-uchida"
+    ]
+  },
+  {
+    "name": "Washington",
+    "nameNative": "ワシントン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388903-pI2LrOOSGYa2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-ootsubo"
+    ]
+  },
+  {
+    "name": "Yahagi",
+    "nameNative": "矢矧",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291903-7LpQHTh134sF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-yamada"
+    ]
+  },
+  {
+    "name": "Yamato",
+    "nameNative": "大和",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154018-wm6HO9jDdkdm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayana-taketatsu"
+    ]
+  },
+  {
+    "name": "Yukikaze",
+    "nameNative": "雪風",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165523-EHrwO9Hb7XhD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saki-fujita"
+    ]
+  }
+]
