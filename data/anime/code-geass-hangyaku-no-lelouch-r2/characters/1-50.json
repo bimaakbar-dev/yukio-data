@@ -1,0 +1,452 @@
+[
+  {
+    "name": "C.C.",
+    "nameNative": "シー･ツー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-UhmlFtRFrnWa.png",
+    "role": "main",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Kallen Stadtfeld",
+    "nameNative": "カレン・シュタットフェルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Lelouch Lamperouge",
+    "nameNative": "ルルーシュ・ランペルージ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama",
+      "sayaka-oohara"
+    ]
+  },
+  {
+    "name": "Suzaku Kururugi",
+    "nameNative": "枢木スザク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai",
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Alicia Lohmeyer",
+    "nameNative": "アリシア・ローマイヤー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49163.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Anya Alstreim",
+    "nameNative": "アーニャ・アールストレイム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11476-EIlWnOmgLnwL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-gotou"
+    ]
+  },
+  {
+    "name": "Arthur",
+    "nameNative": "アーサー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b48473-quqpuft4hD6K.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ayame Futaba",
+    "nameNative": "双葉綾芽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49047.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Bartley Asprius",
+    "nameNative": "バトレー・アスプリウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51677-VSueFFzTXFbD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Bismarck Waldstein",
+    "nameNative": "ビスマルク・ヴァルトシュタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16132.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "soumei-uchida"
+    ]
+  },
+  {
+    "name": "Carales",
+    "nameNative": "カラレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b53363-2MAaCDIfSKHJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-mikimoto"
+    ]
+  },
+  {
+    "name": "Carline le Britannia",
+    "nameNative": "カリーヌ・レ・ブリタニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38902.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "emi-motoi"
+    ]
+  },
+  {
+    "name": "Cécile Croomy",
+    "nameNative": "セシル・クルーミー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1131-8B8jxeFXEzld.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Charles zi Britannia",
+    "nameNative": "シャルル・ジ・ブリタニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5610-TuH7RZiCqQBd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "norio-wakamoto"
+    ]
+  },
+  {
+    "name": "Cornelia li Britannia",
+    "nameNative": "コーネリア・リ・ブリタニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b797-lrtrQEESbWVa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-minagawa"
+    ]
+  },
+  {
+    "name": "Diethard Ried",
+    "nameNative": "ディートハルト・リート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1126-7sR8ZeQoJT30.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Dorothea Ernst",
+    "nameNative": "ドロテア・エルンスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22575.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Gao Hai",
+    "nameNative": "高亥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49161.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuaki-sekine"
+    ]
+  },
+  {
+    "name": "Gilbert G.P. Guilford",
+    "nameNative": "ギルバート・G・P・ギルフォード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1112-kCDPfIOi4jij.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiyuki-kouno"
+    ]
+  },
+  {
+    "name": "Gino Weinberg",
+    "nameNative": "ジノ・ヴァインベルグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/11474.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "souichirou-hoshi"
+    ]
+  },
+  {
+    "name": "Guinevere su Britannia",
+    "nameNative": "ギネヴィア・ス・ブリタニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27138.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-asami"
+    ]
+  },
+  {
+    "name": "Hong Gu",
+    "nameNative": "洪古",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52049.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "dai-matsumoto"
+    ]
+  },
+  {
+    "name": "Ichijiku Hinata",
+    "nameNative": "日向いちじく",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49165.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  },
+  {
+    "name": "Jeremiah Gottwald",
+    "nameNative": "ジェレミア・ゴットバルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1113-HxXUV4z4jhvZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-narita"
+    ]
+  },
+  {
+    "name": "Kaguya Sumeragi",
+    "nameNative": "皇神楽耶",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1865-14xoLeBKilHb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-kanai"
+    ]
+  },
+  {
+    "name": "Kallen no Haha",
+    "nameNative": "カレンの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48471.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuri-amano"
+    ]
+  },
+  {
+    "name": "Kaname Oogi",
+    "nameNative": "扇要",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1115-0g7vZJssfj6x.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-madono"
+    ]
+  },
+  {
+    "name": "Kanon Maldini",
+    "nameNative": "カノン・マルディーニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14124.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouzou-mito"
+    ]
+  },
+  {
+    "name": "Kento Sugiyama",
+    "nameNative": "杉山賢人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b37354-7dlw5HqXr6pE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "noriaki-sugiyama"
+    ]
+  },
+  {
+    "name": "Kosetsu Urabe",
+    "nameNative": "卜部巧雪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14594-XojTIyIEK5hy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "issei-futamata"
+    ]
+  },
+  {
+    "name": "Kyoushiro Toudou",
+    "nameNative": "藤堂鏡志朗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1119.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-takada"
+    ]
+  },
+  {
+    "name": "Lloyd Asplund",
+    "nameNative": "ロイド・アスプルンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1130-0yBifno91R4e.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-shiratori"
+    ]
+  },
+  {
+    "name": "Luciano Bradley",
+    "nameNative": "ルキアーノ・ブラッドリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16049.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-kisaichi"
+    ]
+  },
+  {
+    "name": "Marianne vi Britannia",
+    "nameNative": "マリアンヌ・ヴィ・ブリタニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1129.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asako-dodo"
+    ]
+  },
+  {
+    "name": "Marika Soresi",
+    "nameNative": "マリーカ・ソレーシー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22313.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masayo-kurata"
+    ]
+  },
+  {
+    "name": "Milly Ashford",
+    "nameNative": "ミレイ・アッシュフォード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1121-Y3ye9sw1u3Eh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  },
+  {
+    "name": "Miya Hillmick",
+    "nameNative": "ミーヤ・I・ヒルミック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15437.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asuka-nakase"
+    ]
+  },
+  {
+    "name": "Monica Kruszewski",
+    "nameNative": "モニカ・クルシェフスキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15017.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-gotou"
+    ]
+  },
+  {
+    "name": "Mutsuki Minase",
+    "nameNative": "水無瀬むつき",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49167.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-gotou"
+    ]
+  },
+  {
+    "name": "Nagisa Chiba",
+    "nameNative": "千葉凪沙",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14592-BbCqOoELF1Zq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saeko-chiba"
+    ]
+  },
+  {
+    "name": "Nina Einstein",
+    "nameNative": "ニーナ・アインシュタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1124-TSD6Z8Vjy7Kn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saeko-chiba"
+    ]
+  },
+  {
+    "name": "Nonette Enneagram",
+    "nameNative": "ノネット・エニアグラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22514.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-arai"
+    ]
+  },
+  {
+    "name": "Nunnally Lamperouge",
+    "nameNative": "ナナリー・ランペルージ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1110-TSlN2WkhDJ1T.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nazuka"
+    ]
+  },
+  {
+    "name": "Odysseus eu Britannia",
+    "nameNative": "オデュッセウス・ウ・ブリタニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25812.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jin-yamanoi"
+    ]
+  },
+  {
+    "name": "Rakshata Chawla",
+    "nameNative": "ラクシャータ・チャウラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1863-R3qPRdbXmLJ5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masayo-kurata"
+    ]
+  },
+  {
+    "name": "Rivalz Cardemonde",
+    "nameNative": "リヴァル・カルデモンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1122-tzCSm261b2RP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "noriaki-sugiyama"
+    ]
+  },
+  {
+    "name": "Rolo Lamperouge",
+    "nameNative": "ロロ・ランペルージ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7771-yhQaoU3IXYk0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daichuu-mizushima"
+    ]
+  },
+  {
+    "name": "Ryoga Senba",
+    "nameNative": "仙波崚河",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14593.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-shimaka"
+    ]
+  },
+  {
+    "name": "Sayoko Shinozaki",
+    "nameNative": "篠崎咲世子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1807.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-arai"
+    ]
+  },
+  {
+    "name": "Schneizel el Britannia",
+    "nameNative": "シュナイゼル・エル・ブリタニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1710-GA8qDtSsY4jN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "norihiro-inoue"
+    ]
+  }
+]
