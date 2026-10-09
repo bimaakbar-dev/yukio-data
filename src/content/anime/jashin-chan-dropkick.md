@@ -1,28 +1,26 @@
 ---
-title: Jashin-chan Dropkick
-titleEnglish: "Dropkick on My Devil!"
-titleNative: 邪神ちゃんドロップキック
+title: Jashin-chan Dropkick’
+titleEnglish: "Dropkick on My Devil!! Dash"
+titleNative: 邪神ちゃんドロップキック’（ダッシュ）
 
-malId: 36906
+malId: 39049
 kitsuId: "41165"
 
-type: TV
+type: ONA
 status: finished
 source: manga
 
-season: summer
-year: 2018
+season: spring
+year: 2020
 episodes: 11
 duration: 24
-# rating: # edit manual
 
 aired:
-  from: "2018-07-10"
-  to: "2018-09-17"
+  from: "2020-04-06"
+  to: "2020-04-06"
 
 stats:
-  score: 6.7
-  # scoredBy: # edit manual
+  score: 7.3
 
 genres:
   - comedy
@@ -32,15 +30,16 @@ genres:
 studios:
   - nomad
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100714-1glYB8znGJ5W.png"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100714-frMoYtJu32jK.jpg"
-trailer: "xx70T2tgrwg"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107294-zWscZpb7wYLH.jpg"
+trailer: "VQaKHFPXScQ"
 
 draft: false
 ---
 
-The demon Jashin-chan has been summoned to Earth by Yurine Hanazono, a girl with a knack for the occult. Unfortunately, Yurine does not actually know how to send Jashin-chan back to Hell. Now stuck on Earth, she must live at Yurine's apartment as her familiar.
+Jashin-chan is a demon who was summoned by Yurine Hanazono, a gothic looking girl. Unable to return home as the relevant spell was not included in the summoning grimoire, Jashin-chan resorts to violence to liberate herself from her earthly shackles.
 
-The only way for Jashin-chan to return would be to kill her summoner, but this is easier said than done for the incompetent demon. Since Jashin-chan is immortal and can regenerate her body, Yurine does not hold back in attacking her with a range of weapons, punishing her in gruesome manners for her evil schemes. Jashin-chan is also often visited by her demon friends: the kindhearted Gorgon Medusa and the energetic minotaur Minosu, who seem much more well-behaved in contrast, and disapprove of her plans to kill Yurine.
+However, this is easier said than done, as Yurine is no weakling herself. She in fact possesses formidable physical power and uses it to massacre Jashin-chan in a variety of ways, be it shoving her arm in a blender, spreading her intestines across the room or even cooking her. Though these actions would be fatal to anyone without the ability to regenerate, Jashin-chan isn't exactly undeserving of this treatment. Stuck with each other, Yurine lets Jashin-chan live with her in exchange for work around the apartment, and this cohabitation results in situations where, more often than not, Jashin-chan ends up in pieces.
 
 (Source: MAL Rewrite)
+
+Note: All episodes premiered on Amazon Prime Video Japan and Crunchyroll on April 6th, 2020. The weekly TV broadcast started on the same day.
