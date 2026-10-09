@@ -19,7 +19,7 @@ aired:
   from: "2026-10-23"
   # to: # edit manual
 
-stats:
+stats: {}
   # score: # edit manual
   # scoredBy: # edit manual
 
