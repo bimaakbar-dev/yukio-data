@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Haku",
+    "nameNative": "ハク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141887-Ms3TSUtplLqB.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuki-ono"
+    ]
+  },
+  {
+    "name": "Kira",
+    "nameNative": "キラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141886-lPX5LSjXPiDe.png",
+    "role": "main",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Simon",
+    "nameNative": "シモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141885-octUrztIypZ1.png",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-hirakawa"
+    ]
+  },
+  {
+    "name": "Watashi",
+    "nameNative": "わたし",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181128-S8JpwJe3vGFv.png",
+    "role": "main",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Zen",
+    "nameNative": "ゼン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141884-mmHERtoyEFb0.png",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Anna",
+    "nameNative": "アンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181597-GeUUbGxOx7OS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Hades",
+    "nameNative": "ハデス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182309-063K6WKdMq2w.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takanori-hoshino"
+    ]
+  },
+  {
+    "name": "Lewis",
+    "nameNative": "ルイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181600-JHxvp3AXWapM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-takeda"
+    ]
+  },
+  {
+    "name": "Shou",
+    "nameNative": "ショウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215871-TS7g2EMPswKY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Yui",
+    "nameNative": "ユイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181595-qlQ2iY9e8nrQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-koga"
+    ]
+  }
+]
