@@ -1,0 +1,37 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "kidou-senshi-gundam",
+    "title": "Kidou Senshi Gundam"
+  },
+  {
+    "relation": "summary",
+    "slug": "shin-kidou-senki-gundam-wing-operation-meteor",
+    "title": "Shin Kidou Senki Gundam Wing: Operation Meteor"
+  },
+  {
+    "relation": "sequel",
+    "slug": "shin-kidou-senki-gundam-wing-endless-waltz",
+    "title": "Shin Kidou Senki Gundam Wing: Endless Waltz"
+  },
+  {
+    "relation": "sequel",
+    "slug": "shin-kidou-senki-gundam-wing-endless-waltz-tokubetsu-hen",
+    "title": "Shin Kidou Senki Gundam Wing: Endless Waltz Tokubetsu-hen"
+  },
+  {
+    "relation": "side_story",
+    "slug": "gundam-evolve",
+    "title": "Gundam Evolve"
+  },
+  {
+    "relation": "other",
+    "slug": "shin-kidou-senki-gundam-wing-frozen-teardrop-picture-drama-aratanaru-tatakai",
+    "title": "Shin Kidou Senki Gundam Wing: Frozen Teardrop Picture Drama - Aratanaru Tatakai"
+  },
+  {
+    "relation": "other",
+    "slug": "shin-kidou-senki-gundam-wing-operation-30th",
+    "title": "Shin Kidou Senki Gundam Wing: Operation 30th"
+  }
+]
