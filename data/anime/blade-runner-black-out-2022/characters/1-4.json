@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Iggy",
+    "nameNative": "イギー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167949-LTf3xQJnZL1k.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Trixie",
+    "nameNative": "トリクシー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167950-xx7uDoXE3lrT.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ichiko-aoba"
+    ]
+  },
+  {
+    "name": "Gaff",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206680-SKv7AxlVCyhA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroto-kazuki"
+    ]
+  },
+  {
+    "name": "Ren",
+    "nameNative": "レン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167948-RD3E6DTL4bk6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  }
+]
