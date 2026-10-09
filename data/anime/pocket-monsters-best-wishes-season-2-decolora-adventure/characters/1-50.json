@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Dent",
+    "nameNative": "デント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35525.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Iris",
+    "nameNative": "アイリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35524-gUFifWjLxuXW.png",
+    "role": "main",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "nameNative": "ピカチュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Satoshi",
+    "nameNative": "サトシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+    "role": "main",
+    "voiceActors": [
+      "rica-matsumoto"
+    ]
+  },
+  {
+    "name": "Araragi Hakase",
+    "nameNative": "アララギ博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36771.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-shindou"
+    ]
+  },
+  {
+    "name": "Barri-chan",
+    "nameNative": "バリちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152206-TEBlsOK6TwyP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Betbeton",
+    "nameNative": "ベトベトン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177039-dM5JMp9Bc1vB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Butterfree",
+    "nameNative": "バタフリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181417-eoHO3LlZby5L.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikako-aikawa"
+    ]
+  },
+  {
+    "name": "Cacto",
+    "nameNative": "カクト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b275947-J0zvkjFK2n0n.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kensuke-satou"
+    ]
+  },
+  {
+    "name": "Corn",
+    "nameNative": "コーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37368.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-ishii"
+    ]
+  },
+  {
+    "name": "Doryuzu",
+    "nameNative": "ドリュウズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177021-Qhp5SKzzLMuc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyotaka-furushima"
+    ]
+  },
+  {
+    "name": "Drago",
+    "nameNative": "ドラゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152335-IDJ7oLrJtfZZ.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Emonga",
+    "nameNative": "エモンガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177027-MdIhw3x6dA64.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-kanai"
+    ]
+  },
+  {
+    "name": "Fushigidane",
+    "nameNative": "フシギダネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177038-GJvYbR5PhCaE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Gamagaru",
+    "nameNative": "ガマガル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177084-G92bov6JqGGf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-takahashi"
+    ]
+  },
+  {
+    "name": "Hahakomori",
+    "nameNative": "ハハコモリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177083-JANkoLZsi4Ks.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inuko-inuyama"
+    ]
+  },
+  {
+    "name": "Hanako",
+    "nameNative": "ハナコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29184.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masami-toyoshima"
+    ]
+  },
+  {
+    "name": "Heracros",
+    "nameNative": "ヘラクロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177034-86PsQedjGC3P.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Hinoarashi",
+    "nameNative": "ヒノアラシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177035-KxSI2P8NyBrU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Holly",
+    "nameNative": "ホリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b275948-IuFFqjLF6wKu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-ishikawa"
+    ]
+  },
+  {
+    "name": "Ibuki",
+    "nameNative": "イブキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18909.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-iguchi"
+    ]
+  },
+  {
+    "name": "Ishizumai",
+    "nameNative": "イシズマイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177026-6IVNWYPDS43M.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Jirachi",
+    "nameNative": "ジラーチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21887-kWzhu3Lq0z4H.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-kanai"
+    ]
+  },
+  {
+    "name": "Joy",
+    "nameNative": "ジョーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7558-LzxI6BSiinA3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chika-fujimura"
+    ]
+  },
+  {
+    "name": "Junsa",
+    "nameNative": "ジュンサー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26545.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-takahashi"
+    ]
+  },
+  {
+    "name": "Kabigon",
+    "nameNative": "カビゴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177037-VAWVNfkeSEpZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Kairyu",
+    "nameNative": "カイリュー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142475-s0UL21Qb4nr4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kensuke-satou"
+    ]
+  },
+  {
+    "name": "Kenhallow",
+    "nameNative": "ケンホロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177024-9EXnqQl1zgiu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chinami-nishimura"
+    ]
+  },
+  {
+    "name": "Kentauros",
+    "nameNative": "ケンタロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177040-oo6AGVq28HG7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Kibago",
+    "nameNative": "キバゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177020-gAGFbDm5bLvp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-tsuda"
+    ]
+  },
+  {
+    "name": "Kingler",
+    "nameNative": "キングラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181416-O550UaSJ8shf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Kojirou",
+    "nameNative": "コジロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3936-5sX4EZIY2BRU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Lizardon",
+    "nameNative": "リザードン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180037-u3b2oiaWdfAm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Lotus",
+    "nameNative": "ロータス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b275946-SdzSJjVT1ic2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-shindou"
+    ]
+  },
+  {
+    "name": "Maggyo",
+    "nameNative": "マッギョ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177032-S7MH3whWKLQz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Matori",
+    "nameNative": "まとり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42627.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyomi-asai"
+    ]
+  },
+  {
+    "name": "Mijumaru",
+    "nameNative": "ミジュマル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176871-kTOvY3UZh3cc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Morobareru",
+    "nameNative": "モロバレル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198081-Ek3jwmSDaDOC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Musashi",
+    "nameNative": "ムサシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3935-m000RuoIVOGI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "N Harmonia",
+    "nameNative": "ナチュラル・ハルモニア・グロピウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b37480-Pnu5dXXtqswY.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Nyarth",
+    "nameNative": "ニャース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inuko-inuyama"
+    ]
+  },
+  {
+    "name": "Pansy",
+    "nameNative": "パンジー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87635-iFy14pYGXrCN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Pod",
+    "nameNative": "ポッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37369.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masakazu-morita"
+    ]
+  },
+  {
+    "name": "Pokabu",
+    "nameNative": "ポカブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177022-dAD0cIpUJqBp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wasabi-mizuta"
+    ]
+  },
+  {
+    "name": "Pururill",
+    "nameNative": "プルリル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198082-mOvqew1kyPgp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-takahashi"
+    ]
+  },
+  {
+    "name": "Sakaki",
+    "nameNative": "サカキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9881-hhIKJ4JvPY7S.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Takemitsu",
+    "nameNative": "タケミツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57015.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Tsutarja",
+    "nameNative": "ツタージャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177023-OPOk2SetMEWH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Waninoko",
+    "nameNative": "ワニノコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177041-FkSUUBpwUSxE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chinami-nishimura"
+    ]
+  }
+]
