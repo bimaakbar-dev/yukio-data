@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Kirika Yuumura",
+    "nameNative": "夕叢霧香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2258-G45d2iDhEJVp.png",
+    "role": "main",
+    "voiceActors": [
+      "houko-kuwashima"
+    ]
+  },
+  {
+    "name": "Mireille Bouquet",
+    "nameNative": "ミレイユ・ブーケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2259.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kotono-mitsuishi"
+    ]
+  },
+  {
+    "name": "Altena",
+    "nameNative": "アルテナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3844.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tarako"
+    ]
+  },
+  {
+    "name": "Belladonna",
+    "nameNative": "夏水仙の女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/47095.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-osaka"
+    ]
+  },
+  {
+    "name": "Chloe",
+    "nameNative": "クロエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3121-VtyPh5LP6QZr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Dominiques",
+    "nameNative": "ドミニクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/74453.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Milosh",
+    "nameNative": "ミロシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15059.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshihiko-seki"
+    ]
+  },
+  {
+    "name": "Silvana Gleone",
+    "nameNative": "シルヴァーナ・グレオーネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2940.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-touma"
+    ]
+  },
+  {
+    "name": "Yuri Nazarov",
+    "nameNative": "ユリ・ナザーロフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b255412-oSXlI6dUzMYh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsunosuke-hori"
+    ]
+  }
+]
