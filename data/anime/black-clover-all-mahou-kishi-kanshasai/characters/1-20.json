@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Asta",
+    "nameNative": "アスタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123285-tKijiuQErDS0.png",
+    "role": "main",
+    "voiceActors": [
+      "gakuto-kajiwara"
+    ]
+  },
+  {
+    "name": "Yuno",
+    "nameNative": "ユノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123284-w6kIFYnTclMd.png",
+    "role": "main",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Charlotte Roselei",
+    "nameNative": "シャーロット・ローズレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124434-ZmaDj2J5lSId.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Charmy Pappitson",
+    "nameNative": "チャーミー・パピットソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124447-2J1PKMgWETNT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyono-yasuno"
+    ]
+  },
+  {
+    "name": "Dorothy Unsworth",
+    "nameNative": "ドロシー・アンズワース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124458-U6zNf813fDxG.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Finral Roulacase",
+    "nameNative": "フィンラル・ルーラケイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124433-QyoZrgIUsSpd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Fuegoleon Vermillion",
+    "nameNative": "フエゴレオン・ヴァーミリオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124521-MqX5KT2tGSa8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Gordon Agrippa",
+    "nameNative": "ゴードン・アグリッパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124448-YHRpWxJUhNnw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Jack the Ripper",
+    "nameNative": "ジャック・ザリッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124456-llrSWfAXlnbb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Julius Novachrono",
+    "nameNative": "ユリウス・ノヴァクロノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Lily Aquaria",
+    "nameNative": "リリー・アクアリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124443-T2JuU6c7Z9Tk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-kubota"
+    ]
+  },
+  {
+    "name": "Magna Swing",
+    "nameNative": "マグナ・スウィング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124439-EqjbyC8GOKW0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "genki-muro"
+    ]
+  },
+  {
+    "name": "Marx Francois",
+    "nameNative": "マルクス・フランソワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124454-6iHuVDLPEfrj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitaka-yamaya"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Noelle Silva",
+    "nameNative": "ノエル・シルヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123283-7nJHtKha0LSm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-yuuki"
+    ]
+  },
+  {
+    "name": "Nozel Silva",
+    "nameNative": "ノゼル・シルヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124442-KpZhHmhjw2EG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Rill Boismortier",
+    "nameNative": "リル・ボワモルティエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124457-d3MtJfUT6yqI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Sekke Bronzazza",
+    "nameNative": "セッケ・ブロンザッザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124460-EUJVxM0PG7uV.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "William Vangeance",
+    "nameNative": "ウィリアム・ヴァンジャンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124441-nggzgZExhb1w.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Yami Sukehiro",
+    "nameNative": "ヤミ・スケヒロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124440-Lpdo6y8cljV6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  }
+]
