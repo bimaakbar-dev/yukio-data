@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Marulk",
+    "nameNative": "マルルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/123145-wWYcJ3SOF426.png",
+    "role": "main",
+    "voiceActors": [
+      "aki-toyosaki"
+    ]
+  },
+  {
+    "name": "Ouzen",
+    "nameNative": "オーゼン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122464-xnYajKbuEa29.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  },
+  {
+    "name": "Nat",
+    "nameNative": "ナット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122748-UQiYQ5OjzkGT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  }
+]
