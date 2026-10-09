@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Asuka",
+    "nameNative": "飛鳥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67531.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hitomi-harada"
+    ]
+  },
+  {
+    "name": "Fubuki",
+    "nameNative": "雪不帰",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130844-E7oUgUvAhL2J.png",
+    "role": "main",
+    "voiceActors": [
+      "kana-asumi"
+    ]
+  },
+  {
+    "name": "Yumi",
+    "nameNative": "雪泉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127690-k4WL1N00yQIo.png",
+    "role": "main",
+    "voiceActors": [
+      "yumi-hara"
+    ]
+  },
+  {
+    "name": "Gekkou",
+    "nameNative": "月光",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130847-rGqCxtnYh1PD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "riko-kohara"
+    ]
+  },
+  {
+    "name": "Haruka",
+    "nameNative": "春花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67737-XmwVm2HWZVS2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Hibari",
+    "nameNative": "雲雀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67555-oNpYss8AZ7Sh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Hikage",
+    "nameNative": "日影",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67733-ZKG6e9tmMwDt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouko-shiraishi"
+    ]
+  },
+  {
+    "name": "Homura",
+    "nameNative": "焔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67533-YoX2e1UpDXLl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Ikaruga",
+    "nameNative": "斑鳩",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67107-MwYluYKFBIW8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-imai"
+    ]
+  },
+  {
+    "name": "Imu",
+    "nameNative": "忌夢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130843-7ja40Jc3PA6y.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Kagura",
+    "nameNative": "神楽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154706-4E26Z0K8nlnm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-matsuoka"
+    ]
+  },
+  {
+    "name": "Katsuragi",
+    "nameNative": "葛城",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67109-WJttvcuH5clS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Minori",
+    "nameNative": "美野里",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142467-FTcr816gg5kR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-igarashi"
+    ]
+  },
+  {
+    "name": "Mirai",
+    "nameNative": "未来",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67735-tP9aPHYF5WTq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-gotou"
+    ]
+  },
+  {
+    "name": "Miyabi",
+    "nameNative": "雅緋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142468-dFvZIvj3lkxg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-hirata"
+    ]
+  },
+  {
+    "name": "Murakumo",
+    "nameNative": "叢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142469-ZKaVdB5zdDsu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Murasaki",
+    "nameNative": "紫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142466-t8UDIq69KOWz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yahagi"
+    ]
+  },
+  {
+    "name": "Naraku",
+    "nameNative": "奈楽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154707-iF9rk9x77XIU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Ryoubi",
+    "nameNative": "両備",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130846-QbQXNrkrtnGr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Ryouna",
+    "nameNative": "両奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90201-WqRvB2S8boFq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mako"
+    ]
+  },
+  {
+    "name": "Senkou",
+    "nameNative": "閃光",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130842-IiT83Mr1wuSX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akane-fujita"
+    ]
+  },
+  {
+    "name": "Shiki",
+    "nameNative": "四季",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127231-Bow7mHHq2O4n.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayano-yamamoto"
+    ]
+  },
+  {
+    "name": "Suzune",
+    "nameNative": "鈴音",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b77339-Kh9ipxOxNtsa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "suzuko-mimori"
+    ]
+  },
+  {
+    "name": "Yagyuu",
+    "nameNative": "柳生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67553-ua5PpzWusX1B.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-mizuhashi"
+    ]
+  },
+  {
+    "name": "Yomi",
+    "nameNative": "詠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67731-CDONTULfyJ82.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Yozakura",
+    "nameNative": "夜桜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130845-86Bc2AMwes92.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-ishihara"
+    ]
+  }
+]
