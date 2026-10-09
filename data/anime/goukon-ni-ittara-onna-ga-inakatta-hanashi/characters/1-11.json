@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Asagi",
+    "nameNative": "浅葱",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321931-sWSTREL9gFK6.png",
+    "role": "main",
+    "voiceActors": [
+      "shun-horie"
+    ]
+  },
+  {
+    "name": "Fuji",
+    "nameNative": "藤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321928-MbEXQHF9qCFk.png",
+    "role": "main",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Hagi",
+    "nameNative": "萩",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321932-9ugauJGFVBvp.png",
+    "role": "main",
+    "voiceActors": [
+      "gakuto-kajiwara"
+    ]
+  },
+  {
+    "name": "Kohaku",
+    "nameNative": "琥珀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321929-6Jhkr3xsIJK4.png",
+    "role": "main",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Suou",
+    "nameNative": "蘇芳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321927-2G8jscl8KK5e.png",
+    "role": "main",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "Tokiwa",
+    "nameNative": "常盤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321930-Y9ywx5tLvTCr.png",
+    "role": "main",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Chigusa",
+    "nameNative": "千草",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342434-31ytWDCSOjtq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyo-takayanagi"
+    ]
+  },
+  {
+    "name": "Hagi no Ane",
+    "nameNative": "萩の姉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342437-SIxyR3d5JGO4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Hashibami",
+    "nameNative": "榛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342436-GHMdHMtNJd8O.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshino-aoyama"
+    ]
+  },
+  {
+    "name": "Karasuba",
+    "nameNative": "烏羽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342435-M1uWYgDellql.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maki-kawase"
+    ]
+  },
+  {
+    "name": "Nadeshiko",
+    "nameNative": "撫子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342433-1dkvAz5rX2e0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reina-kondou"
+    ]
+  }
+]
