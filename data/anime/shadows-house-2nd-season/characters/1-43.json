@@ -1,0 +1,383 @@
+[
+  {
+    "name": "Emilico",
+    "nameNative": "エミリコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127318-JTyhIyNHR2Be.png",
+    "role": "main",
+    "voiceActors": [
+      "yuu-sasahara"
+    ]
+  },
+  {
+    "name": "Kate",
+    "nameNative": "ケイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127319-YrQfLMfAcJHw.png",
+    "role": "main",
+    "voiceActors": [
+      "akari-kitou"
+    ]
+  },
+  {
+    "name": "Anna",
+    "nameNative": "アンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200402-CwWjK4m0jDa1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Anthony",
+    "nameNative": "アンソニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215972-hiQK29l37V7w.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenshou-ono"
+    ]
+  },
+  {
+    "name": "Barbara",
+    "nameNative": "バーバラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200345-etW6BYyjtMYX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Barbie",
+    "nameNative": "バービー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200344-3wB60RQMtqFN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Belle",
+    "nameNative": "ベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200386-dbY2Btw6SRxe.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rumi-ookubo"
+    ]
+  },
+  {
+    "name": "Ben",
+    "nameNative": "ベン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200390-X1aNirKFWD80.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Benjamin",
+    "nameNative": "ベンジャミン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200384-sSv38VvRAdaR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Christopher",
+    "nameNative": "クリストファー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215971-jPMxTPTeMxce.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenshou-ono"
+    ]
+  },
+  {
+    "name": "Doug",
+    "nameNative": "ダグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200394-6YcEDi8hFruK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-tamaru"
+    ]
+  },
+  {
+    "name": "Douglas",
+    "nameNative": "ダグラス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200395-amXkUxW8oFkF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-tamaru"
+    ]
+  },
+  {
+    "name": "Edward",
+    "nameNative": "エドワード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200406-TPH6pIGsuxUX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Eilene",
+    "nameNative": "アイリーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200404-Z59nXs5OlTBy.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Eve",
+    "nameNative": "イヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200399-DBIBVoMjZpO0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshino-aoyama"
+    ]
+  },
+  {
+    "name": "Evelyn",
+    "nameNative": "エヴリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200401-Dig7F4erDKyK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshino-aoyama"
+    ]
+  },
+  {
+    "name": "Gerald",
+    "nameNative": "ジェラルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200405-3M1WbD0uRbuK.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Gilbert",
+    "nameNative": "ギルバート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200403-3UE2d4rqlGeN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-kumagai"
+    ]
+  },
+  {
+    "name": "Gill",
+    "nameNative": "ギル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200391-VWOSf4XSMMwr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-kumagai"
+    ]
+  },
+  {
+    "name": "Isabelle",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200383-DHr6QH9cVtGs.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rumi-ookubo"
+    ]
+  },
+  {
+    "name": "Jeremiah",
+    "nameNative": "ジェレマイア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200400-GdSrzWposcYy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Jeremy",
+    "nameNative": "ジェレミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200396-6dHJ6cTwNCvE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "John",
+    "nameNative": "ジョン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197307-Iaz5bsfhqWSu.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "koudai-sakai"
+    ]
+  },
+  {
+    "name": "Lou",
+    "nameNative": "ルウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197877-9lXL9UFH9pgV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Louise",
+    "nameNative": "ルイーズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198188-dlogAdwwQZd8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Lydia",
+    "nameNative": "リディア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200398-ezOHxdw7qwBr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-ueda"
+    ]
+  },
+  {
+    "name": "Lydie",
+    "nameNative": "リディ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200392-bGPnjoVFueoF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-ueda"
+    ]
+  },
+  {
+    "name": "Margaret",
+    "nameNative": "マーガレット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b285534-KjCSfvCcs8cw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-watada"
+    ]
+  },
+  {
+    "name": "Maryrose",
+    "nameNative": "マリーローズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200347-nQKcuAvXtjgH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Mia",
+    "nameNative": "ミア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200342-CQyMbQoD1j3z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-oonishi"
+    ]
+  },
+  {
+    "name": "Mirabelle",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200381-zBkpCoU83vQZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rumi-ookubo"
+    ]
+  },
+  {
+    "name": "Nancy",
+    "nameNative": "ナンシー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200397-xg15X584ymtE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Oliver",
+    "nameNative": "オリバー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200389-0m5lfF7dUodj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Ollie",
+    "nameNative": "オリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200382-tImu3pTeE1r8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Patrick",
+    "nameNative": "パトリック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200311-NduxAgGY2tK8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reiji-kawashima"
+    ]
+  },
+  {
+    "name": "Ricky",
+    "nameNative": "リッキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200247-CKElkBHpQxin.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reiji-kawashima"
+    ]
+  },
+  {
+    "name": "Rosemary",
+    "nameNative": "ローズマリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200346-YsiTW7BWCkZy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Sara",
+    "nameNative": "サラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200343-FAmtjSJc90DV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-oonishi"
+    ]
+  },
+  {
+    "name": "Shaun",
+    "nameNative": "ショーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197306-P0WWoptWyEZl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "koudai-sakai"
+    ]
+  },
+  {
+    "name": "Suzanna",
+    "nameNative": "スザンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200385-iEKbTEurbrFz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Suzy",
+    "nameNative": "スージー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200387-Y1DQ9RC5j22N.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Thomas",
+    "nameNative": "トマス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215970-hjRQoaw23jgZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "William",
+    "nameNative": "ウィリアム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b285535-U6njNjqOTXhE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shuuichirou-umeda"
+    ]
+  }
+]
