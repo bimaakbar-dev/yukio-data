@@ -1,47 +1,48 @@
 ---
-title: Go-toubun no Hanayome ∬
-titleEnglish: The Quintessential Quintuplets 2
-titleNative: 五等分の花嫁∬
+title: Go-toubun no Hanayome∽
+titleEnglish: The Quintessential Quintuplets Specials
+titleNative: 五等分の花嫁∽
 
-malId: 39783
-kitsuId: "41966"
+malId: 54915
+kitsuId: "50699"
 
-type: TV
+type: Special
 status: finished
 source: manga
 
-season: winter
-year: 2021
-episodes: 12
+season: summer
+year: 2023
+episodes: 2
 duration: 24
 # rating: # edit manual
 
 aired:
-  from: "2021-01-08"
-  to: "2021-03-26"
+  from: "2023-09-02"
+  to: "2023-09-09"
 
 stats:
-  score: 8.0
+  score: 7.9
   # scoredBy: # edit manual
 
 genres:
-  - comedy
   - drama
   - romance
   - slice-of-life
 
 studios:
-  - bibury-animation-studios
+  - shaft
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109261-65rKxMDlcU9r.png"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109261-UfxQjnmmfAOp.jpg"
-trailer: "cj6NGP9nNwI"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163327-xBQznOwq6emq.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163327-FadQfp1iiP6P.jpg"
+trailer: "FtiMzS9nH1s"
 
 draft: false
 ---
 
-Through their tutor Fuutarou Uesugi's diligent guidance, the Nakano quintuplets' academic performance shows signs of improvement, even if their path to graduation is still rocky. However, as they continue to cause various situations that delay any actual tutoring, Fuutarou becomes increasingly involved with their personal lives, further complicating their relationship with each other.
+Fuutarou, a part-time tutor, has taken on the task of guiding the Nakano sisters—quintessential beauties who are on the brink of flunking out of school and despise studying—until their graduation. With only six months left of their high school lives and the final summer vacation about to commence, he decides to take a break from his tutoring job during the summer break to focus on exam preparation.
 
-On another note, Fuutarou slowly begins to realize the existence of a possible connection between him and the past he believes to have shared with one of the five girls. With everyone's feelings beginning to develop and overlap, will they be able to keep their bond strictly to that of a teacher and his students—or will it mature into something else entirely?
+While the quintuplets are disheartened by their inability to see Fuutarou, an unexpected phone call from him turns everything around! A 500% adorable romantic comedy, the summer vacation edition! 
 
-(Source: MAL Rewrite)
+(Source: TBS, edited)
+
+Note: The anime was pre-screened in Japan theatrically for 3 weeks on July 14, 2023 before being aired as a two-part special on September 2 &  September 9, 2023.

@@ -1,11 +1,6 @@
 [
   {
-    "relation": "prequel",
-    "slug": "5-toubun-no-hanayome",
-    "title": "5-toubun no Hanayome"
-  },
-  {
-    "relation": "sequel",
+    "relation": "parent_story",
     "slug": "5-toubun-no-hanayome-movie",
     "title": "5-toubun no Hanayome Movie"
   }
