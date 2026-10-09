@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Coco",
+    "nameNative": "ココ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129840-B2CVE0TIcKpT.png",
+    "role": "main",
+    "voiceActors": [
+      "rena-motomura"
+    ]
+  },
+  {
+    "name": "Qifrey",
+    "nameNative": "キーフリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129841-brgGFuOv1h0n.png",
+    "role": "main",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Agott Arkrome",
+    "nameNative": "アガット・アークロム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129842-n9YfEU63mDNm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hibiku-yamamura"
+    ]
+  },
+  {
+    "name": "Beldaruit",
+    "nameNative": "ベルダルート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249346-bVlhzMjeI2A2.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Euini",
+    "nameNative": "ユイニィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158684-rzE9MKjufnlZ.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Fudemushi",
+    "nameNative": "フデムシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331260-gFDtCsnBWfq7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  },
+  {
+    "name": "Iguin",
+    "nameNative": "イグイーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163622-7JwIdTTnctpV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Olruggio",
+    "nameNative": "オルーギオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137972-4sSEu1132KZM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Richeh",
+    "nameNative": "リチェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129838-DRjxUa0u7Lyg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hika-tsukishiro"
+    ]
+  },
+  {
+    "name": "Tetia",
+    "nameNative": "テティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129839-7KP7lqLC7ZdW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kurumi-haruki"
+    ]
+  }
+]
