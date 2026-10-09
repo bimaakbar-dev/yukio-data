@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Kouta",
+    "nameNative": "コウタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b737-QIsH9Bs4RWpz.png",
+    "role": "main",
+    "voiceActors": [
+      "chihiro-suzuki"
+    ]
+  },
+  {
+    "name": "Kurama",
+    "nameNative": "蔵間",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2324-IVcol9EkkEI8.png",
+    "role": "main",
+    "voiceActors": [
+      "osamu-hosoi"
+    ]
+  },
+  {
+    "name": "Lucy",
+    "nameNative": "ルーシー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b738-z0w63Laqb6hW.png",
+    "role": "main",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Nana",
+    "nameNative": "ナナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b740-ODhefJgbwzMK.png",
+    "role": "main",
+    "voiceActors": [
+      "yuki-matsuoka"
+    ]
+  },
+  {
+    "name": "Aiko Takada",
+    "nameNative": "高田愛子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72913-4KzRnUob58gL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maria-yamamoto"
+    ]
+  },
+  {
+    "name": "Bando",
+    "nameNative": "坂東",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2325-CvaBIkIeqXIN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Kakuzawa Kyouju",
+    "nameNative": "角沢教授",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2330-H8nowbN7sODb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-hirata"
+    ]
+  },
+  {
+    "name": "Mayu",
+    "nameNative": "マユ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b743-FHE6AMrmY31A.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emiko-hagiwara"
+    ]
+  },
+  {
+    "name": "Yuka",
+    "nameNative": "ユカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b741-nnkqb190RyHT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  }
+]
