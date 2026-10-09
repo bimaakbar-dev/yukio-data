@@ -1,0 +1,441 @@
+[
+  {
+    "name": "Bat",
+    "nameNative": "バット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17907-Ap7Lb80fwbCb.png",
+    "role": "main",
+    "voiceActors": [
+      "teiyuu-ichiryuusai"
+    ]
+  },
+  {
+    "name": "Kenshirou",
+    "nameNative": "ケンシロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2511-I5ff3jioC5Ze.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akira-kamiya",
+      "ryou-horikawa"
+    ]
+  },
+  {
+    "name": "Lin",
+    "nameNative": "リン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17906-N5UxLPEw0SBe.png",
+    "role": "main",
+    "voiceActors": [
+      "tomiko-suzuki"
+    ]
+  },
+  {
+    "name": "Airi",
+    "nameNative": "アイリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17983.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "arisa-andou"
+    ]
+  },
+  {
+    "name": "Aki",
+    "nameNative": "アキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387686-mS8ZPIEJCUsy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eiko-yamada"
+    ]
+  },
+  {
+    "name": "Amiba",
+    "nameNative": "アミバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32642-RFitdJlSzCsF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-hashi"
+    ]
+  },
+  {
+    "name": "Balcom",
+    "nameNative": "バルコム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369505-oYMMWTeF5HFk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seizou-katou"
+    ]
+  },
+  {
+    "name": "Baron",
+    "nameNative": "バロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369495-7wt3hQkc3sni.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-totani"
+    ]
+  },
+  {
+    "name": "Bella",
+    "nameNative": "ベラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28393-5j9z8eqDI2aE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-toda"
+    ]
+  },
+  {
+    "name": "Captain",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369519-1UzMkMmtbTvG.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Chourou",
+    "nameNative": "長老",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369506-k9D60XlsFqBV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouhei-miyauchi"
+    ]
+  },
+  {
+    "name": "Club",
+    "nameNative": "クラブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369525-ygceAuhUcKbX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-totani"
+    ]
+  },
+  {
+    "name": "Colonel",
+    "nameNative": "大佐",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42968-4eoY7lGjdNjW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yada"
+    ]
+  },
+  {
+    "name": "Dante",
+    "nameNative": "ダンテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145932-NTC1PVVqtEKx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Devil Reverse",
+    "nameNative": "デビル・リバース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369509-HJ5lxBvZ8e9Z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-kanie"
+    ]
+  },
+  {
+    "name": "Diamond",
+    "nameNative": "ダイヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28511-u0PgDffyoWub.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-gouri"
+    ]
+  },
+  {
+    "name": "Dragon",
+    "nameNative": "ドラゴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369512-D18kKUYJt00x.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saburo-kamei"
+    ]
+  },
+  {
+    "name": "Duran",
+    "nameNative": "ジュラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146065-PfrWubEnYTKk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiichi-noda"
+    ]
+  },
+  {
+    "name": "Ellery",
+    "nameNative": "エラリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387682-wxoI5uAkidvh.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Fox",
+    "nameNative": "フォックス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369516-1AoZwXRVgYF9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-totani"
+    ]
+  },
+  {
+    "name": "Fudou",
+    "nameNative": "山のフドウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12574-nxC2vEfVjQOA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouzou-iizuka"
+    ]
+  },
+  {
+    "name": "Fuuga",
+    "nameNative": "フウガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387696-smTMu847NTti.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-mikimoto"
+    ]
+  },
+  {
+    "name": "Gibara",
+    "nameNative": "ギバラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387638-VnlqCWHapN6M.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Gojiba",
+    "nameNative": "ゴジバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315215-0cgzBDcxLUVZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuo-tanaka"
+    ]
+  },
+  {
+    "name": "Goumu",
+    "nameNative": "ゴウム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387684-IwnWRI9rQVcR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusaku-yara"
+    ]
+  },
+  {
+    "name": "Gyuuki",
+    "nameNative": "ギュウキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387691-TL2kWMV3KWqt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuo-oka"
+    ]
+  },
+  {
+    "name": "Habu",
+    "nameNative": "ハブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387690-ZXhq65Uq17dI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ichirou-nagai"
+    ]
+  },
+  {
+    "name": "Heart",
+    "nameNative": "ハート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56379-R4hN5kj3U5nM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouzou-iizuka"
+    ]
+  },
+  {
+    "name": "Hidora",
+    "nameNative": "ヒドラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369503-9Rr4RASXyKQM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yada"
+    ]
+  },
+  {
+    "name": "Hyui",
+    "nameNative": "ヒューイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17903-797KEmGazqAK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-sogabe"
+    ]
+  },
+  {
+    "name": "Jackal",
+    "nameNative": "ジャッカル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369515-EwpXhTY1InEb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masayuki-kato"
+    ]
+  },
+  {
+    "name": "Jagi",
+    "nameNative": "ジャギ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17796-RELumAchpr8p.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-totani"
+    ]
+  },
+  {
+    "name": "Jennifer",
+    "nameNative": "ジェニファ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34192-K46skhX5dPXJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-katsuki"
+    ]
+  },
+  {
+    "name": "Jiro",
+    "nameNative": "ジロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369500-M2qeeb5MAjGV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-tsukase"
+    ]
+  },
+  {
+    "name": "Johnny",
+    "nameNative": "ジョニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369518-TX5TEe2M6XfK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikuya-sawaki"
+    ]
+  },
+  {
+    "name": "Joker",
+    "nameNative": "ジョーカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369523-zOU9skzwtrDX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Junk",
+    "nameNative": "ジャンク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369507-gcO541XLL23L.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-mikimoto"
+    ]
+  },
+  {
+    "name": "Juuza",
+    "nameNative": "雲のジュウザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16553-2uXzAW4dVBVz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshito-yasuhara"
+    ]
+  },
+  {
+    "name": "Kanna",
+    "nameNative": "カンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146064-u1hhcyy9iPG8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-tsuru"
+    ]
+  },
+  {
+    "name": "Karen",
+    "nameNative": "カリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369499-U1tRyWJFcCAg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-iguchi"
+    ]
+  },
+  {
+    "name": "Kemada",
+    "nameNative": "ケマダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387635-vZ1kZVk1Remw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shingo-kanemoto"
+    ]
+  },
+  {
+    "name": "Kiba Daiou",
+    "nameNative": "牙大王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387636-Ibq9wfhQUuXW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-watabe"
+    ]
+  },
+  {
+    "name": "Kobito",
+    "nameNative": "コビト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b285667-zFG1QKSI07UO.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Koo",
+    "nameNative": "コオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387637-RvAbn4EwDGNj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-horikawa"
+    ]
+  },
+  {
+    "name": "Kouryuu",
+    "nameNative": "コウリュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17984-S29hY2WegbOd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidekatsu-shibata",
+      "ryouichi-tanaka"
+    ]
+  },
+  {
+    "name": "Mad Sarge",
+    "nameNative": "マッド軍曹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369517-nZysgor3Sm0o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuo-tanaka"
+    ]
+  },
+  {
+    "name": "Madara",
+    "nameNative": "マダラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387634-VnZYoPqkqZby.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Mahari",
+    "nameNative": "マハリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369501-D1p1LWBz6WFr.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Mako",
+    "nameNative": "マコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387683-DKR2VSQZFYNG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiyoko-kawashima"
+    ]
+  },
+  {
+    "name": "Mamiya",
+    "nameNative": "マミヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17798-CoC3hs47arcv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiko-fujita"
+    ]
+  }
+]
