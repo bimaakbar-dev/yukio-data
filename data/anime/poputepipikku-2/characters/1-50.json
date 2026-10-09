@@ -1,0 +1,501 @@
+[
+  {
+    "name": "Hellshake Yano",
+    "nameNative": "ヘルシェイク矢野",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135510-swBdBrqQPe1y.png",
+    "role": "main",
+    "voiceActors": [
+      "kouichi-yamadera",
+      "ac-bu"
+    ]
+  },
+  {
+    "name": "Pipimi",
+    "nameNative": "ピピ美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126364-TpFhgSfjIVBf.jpg",
+    "role": "main",
+    "voiceActors": [
+      "minori-chihara",
+      "ryou-horikawa",
+      "toshiyuki-morikawa",
+      "rie-kugimiya",
+      "inuko-inuyama",
+      "yuuma-uchida",
+      "mariya-ise",
+      "yuu-mizushima",
+      "yuki-kaida",
+      "shintarou-asanuma",
+      "hekiru-shiina",
+      "toshiki-masuda",
+      "ac-bu",
+      "kouichi-yamadera",
+      "kyouko-hikami",
+      "akio-ootsuka",
+      "mugihito",
+      "yuuko-miyamura",
+      "atsushi-abe",
+      "kumiko-nishihara",
+      "minako-kotobuki",
+      "hidenari-ugaki"
+    ]
+  },
+  {
+    "name": "Popuko",
+    "nameNative": "ポプ子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121659-W6Al3qcB0jen.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aya-hirano",
+      "kazuhiko-inoue",
+      "nobuyuki-hiyama",
+      "romi-park",
+      "junya-enoki",
+      "ikue-ootani",
+      "hiroya-ishimaru",
+      "megumi-han",
+      "toshiyuki-toyonaga",
+      "junko-minagawa",
+      "mayumi-iizuka",
+      "tasuku-hatanaka",
+      "ac-bu",
+      "kouichi-yamadera",
+      "kenyuu-horiuchi",
+      "asami-sanada",
+      "fumihiko-tachiki",
+      "megumi-ogata",
+      "nobuhiko-okamoto",
+      "kumiko-watanabe",
+      "takaya-kuroda",
+      "aki-toyosaki"
+    ]
+  },
+  {
+    "name": "Akashic Record",
+    "nameNative": "アカシックレコード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Assistant",
+    "nameNative": "アシスタント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293060-ukT9TiVUv3rw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wakana-kowaka"
+    ]
+  },
+  {
+    "name": "Chocobo",
+    "nameNative": "チョコボ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293147-YJtBpITbI06q.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Couple Onna",
+    "nameNative": "カップル女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293113-QwJF89H3qx69.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misa-ishii"
+    ]
+  },
+  {
+    "name": "Couple Otoko",
+    "nameNative": "カップル男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293112-tNlP4eIWJNU2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuhiro-kikuchi"
+    ]
+  },
+  {
+    "name": "Cthu Otto",
+    "nameNative": "クトゥ夫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293121-DMCP9APdKfra.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruna-ikezawa"
+    ]
+  },
+  {
+    "name": "Cthu Otto Haha",
+    "nameNative": "クトゥ夫母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293123-CqBJNHZlwows.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyako-chida"
+    ]
+  },
+  {
+    "name": "Cthulhu",
+    "nameNative": "クトゥルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293051-uMCUsOgSafHp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruna-ikezawa"
+    ]
+  },
+  {
+    "name": "Hahaoya",
+    "nameNative": "母親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wakana-kowaka"
+    ]
+  },
+  {
+    "name": "Haishinsha",
+    "nameNative": "配信者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsumi-fukuhara"
+    ]
+  },
+  {
+    "name": "Heart Shishou",
+    "nameNative": "ハト師匠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Joshidaisei",
+    "nameNative": "女子大生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293070-xOVZB3dJBZii.png",
+    "role": "supporting",
+    "voiceActors": [
+      "arisa-kinami"
+    ]
+  },
+  {
+    "name": "Joushi",
+    "nameNative": "上司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293061-2sJ8L5ZkmAmu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihito-sasaki"
+    ]
+  },
+  {
+    "name": "Kanchii",
+    "nameNative": "カンチー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293884-vnAkgiFsRGSx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-tomatsu",
+      "kazuhiro-nakaya"
+    ]
+  },
+  {
+    "name": "Kawauso",
+    "nameNative": "カワウソ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293476-PdEHJsVzTf47.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kumiko-nishihara"
+    ]
+  },
+  {
+    "name": "King Recorder",
+    "nameNative": "キングレコーダー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293063-VurKp36kZGXp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Kodomo (Ani)",
+    "nameNative": "子供（兄）",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293133-tij3rADsKdYn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-hikisaka"
+    ]
+  },
+  {
+    "name": "Kodomo (Imouto)",
+    "nameNative": "子供（妹）",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293134-qKMj0dfPlhPg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruna-mikawa"
+    ]
+  },
+  {
+    "name": "Kodomo A",
+    "nameNative": "子供A",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiyuki-miura"
+    ]
+  },
+  {
+    "name": "Kodomo B",
+    "nameNative": "子供B",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akari-tadano"
+    ]
+  },
+  {
+    "name": "Koroshitani",
+    "nameNative": "殺士谷",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293122-hI5YiwXSFIXR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasunori-matsumoto"
+    ]
+  },
+  {
+    "name": "Kuma",
+    "nameNative": "クマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuriko-fuchizaki"
+    ]
+  },
+  {
+    "name": "Kyaku",
+    "nameNative": "客",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293057-hCpGPyQbF2N3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-anando"
+    ]
+  },
+  {
+    "name": "Kyuuni Detekite Jogen Iu Yatsu",
+    "nameNative": "急に出てきて助言言うやつ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293084-CvEX0G26d6wo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ac-bu",
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Manager",
+    "nameNative": "マネージャー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293079-S6E9fropEBWp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ac-bu",
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Minfilia",
+    "nameNative": "ミンフィリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293485-ylg8wCATBicv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Mob Shujinkou",
+    "nameNative": "モブ主人公",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293072-EGrkR4emtpMU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-hikisaka"
+    ]
+  },
+  {
+    "name": "Mocchi",
+    "nameNative": "モッチー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293881-svwJFp73QOc5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayahi-takagaki",
+      "masami-iwasaki"
+    ]
+  },
+  {
+    "name": "Nanachi",
+    "nameNative": "ナナチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122445-5uDu8wMy8Jxi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shiori-izawa"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "arisa-kinami",
+      "ac-bu",
+      "kouichi-yamadera",
+      "serika-hiromatsu"
+    ]
+  },
+  {
+    "name": "Nyarlathotep",
+    "nameNative": "ニャルラトホテプ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293118-gCvmagm09ysh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuriko-fuchizaki"
+    ]
+  },
+  {
+    "name": "Ojisan",
+    "nameNative": "おじさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293064-fMtXXPlNwY9i.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-yano"
+    ]
+  },
+  {
+    "name": "Otoko",
+    "nameNative": "男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293059-OHKZdJVpUAwT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akihiro-mine"
+    ]
+  },
+  {
+    "name": "Otoko Player",
+    "nameNative": "男プレイヤー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293169-tuuGmnEAgUhN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nadal"
+    ]
+  },
+  {
+    "name": "Papa",
+    "nameNative": "パパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293132-WDNlIHqBFDNh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-yokota"
+    ]
+  },
+  {
+    "name": "Penguin",
+    "nameNative": "ペンギン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chitose-morinaga"
+    ]
+  },
+  {
+    "name": "Player A",
+    "nameNative": "プレイヤーA",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-masumoto"
+    ]
+  },
+  {
+    "name": "Player B",
+    "nameNative": "プレイヤーB",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-mamiya"
+    ]
+  },
+  {
+    "name": "Player C",
+    "nameNative": "プレイヤーC",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuhiro-kikuchi"
+    ]
+  },
+  {
+    "name": "Player D",
+    "nameNative": "プレイヤーD",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "seira-nomoto"
+    ]
+  },
+  {
+    "name": "Poseidon",
+    "nameNative": "ポセイドン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Ramen Tenshu",
+    "nameNative": "ラーメン店主",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293083-4RaG8fse5ZGK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ac-bu",
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Ranger A",
+    "nameNative": "レンジャーA",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293479-3po9jQ1tfw8B.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wakana-kowaka"
+    ]
+  },
+  {
+    "name": "Ranger B",
+    "nameNative": "レンジャーB",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293480-r9gQ6vjr0ul1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-yano"
+    ]
+  },
+  {
+    "name": "Ranger C",
+    "nameNative": "レンジャーC",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293481-gj1aLVxWZjMR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-yokota"
+    ]
+  },
+  {
+    "name": "Ranger D",
+    "nameNative": "レンジャーD",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293482-iWNnQvWE0CGg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-sasa"
+    ]
+  },
+  {
+    "name": "Ringorirappa",
+    "nameNative": "リンゴリラッパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293117-pjkI5f3DGkyG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-mamiya"
+    ]
+  }
+]
