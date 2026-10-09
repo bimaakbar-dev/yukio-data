@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Hashiba",
+    "nameNative": "ハシバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89115-hRh2aErzT7PP.png",
+    "role": "main",
+    "voiceActors": [
+      "daiki-yamashita"
+    ]
+  },
+  {
+    "name": "Kobayashi",
+    "nameNative": "コバヤシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89113-4cKqvjMPqfO9.png",
+    "role": "main",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Kogorou Akechi",
+    "nameNative": "アケチ コゴロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89114-4TVDrGkmMTgZ.png",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Chiyoko Higashikouji",
+    "nameNative": "ヒガシコウジチヨコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146645-4VTiq8gqtlZS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Genzaburou Komoda",
+    "nameNative": "コモダゲンザブロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146660-cEGFXo5wwMtw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-ichijou"
+    ]
+  },
+  {
+    "name": "Hahaoya",
+    "nameNative": "母親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146635-GL6Aa4CPbDcB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-harada"
+    ]
+  },
+  {
+    "name": "Hanabishi",
+    "nameNative": "ハナビシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146629-tI4CchxHQBD8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Hirosuke Hitomi",
+    "nameNative": "ヒトミヒロスケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146662-xLVXPr3GQF3i.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-ootake"
+    ]
+  },
+  {
+    "name": "Hoshino",
+    "nameNative": "ホシノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146654-iGQlqDaTBkYo.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yahagi"
+    ]
+  },
+  {
+    "name": "Kage Otoko",
+    "nameNative": "影男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146536-L4NADa15VBKU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Keisuke Kagami",
+    "nameNative": "カガミ ケイスケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89112-qY6t6a2qSoge.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Kitami",
+    "nameNative": "キタミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146650-zn36xiax4ddS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-takeuchi"
+    ]
+  },
+  {
+    "name": "Kuro Tokage",
+    "nameNative": "黒蜥蜴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146628-YOXF8dd0Guiy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Minami",
+    "nameNative": "ミナミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146535-Htkm9w72jw4R.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saki-fujita"
+    ]
+  },
+  {
+    "name": "Minami no Otouto",
+    "nameNative": "ミナミの弟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146647-fqgV3TGvA3YY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Miyama",
+    "nameNative": "ミヤマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146643-nKADBiB34TXe.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-kawabe"
+    ]
+  },
+  {
+    "name": "Nakamura",
+    "nameNative": "ナカムラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146633-1DdeNOMiOLiq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Namikoshi",
+    "nameNative": "ナミコシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146534-Xn6iIpg4l4F2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Sachiko Oosone",
+    "nameNative": "大曽根さち子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146631-4Ct5bb2eXnE7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayuru-oohashi"
+    ]
+  },
+  {
+    "name": "Shitai-kun",
+    "nameNative": "死体君",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146626-CErxvTvw6xLn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Sunaga",
+    "nameNative": "スナガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146638-ctlWbbp170wy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-imaruoka"
+    ]
+  },
+  {
+    "name": "Tannin Kyoushi",
+    "nameNative": "担任教師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146656-KU85QS3pOwQP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masayuki-katou"
+    ]
+  },
+  {
+    "name": "Tokiko",
+    "nameNative": "トキコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146655-5fXo83x4gkUI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Tsunoda",
+    "nameNative": "ツノダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146658-RWPxab2l6Pc2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Watanuki",
+    "nameNative": "ワタヌキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146640-jOh7ARpRnk8T.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-suyama"
+    ]
+  },
+  {
+    "name": "Watanuki no Haha",
+    "nameNative": "ワタヌキの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146652-IqMcLJmB0u4k.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nakamura"
+    ]
+  }
+]
