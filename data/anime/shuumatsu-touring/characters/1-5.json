@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Airi",
+    "nameNative": "アイリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b356063-LTKph0tjTB7L.png",
+    "role": "main",
+    "voiceActors": [
+      "miyu-tomita"
+    ]
+  },
+  {
+    "name": "Youko",
+    "nameNative": "ヨーコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b356062-5gGDjUlDsugr.png",
+    "role": "main",
+    "voiceActors": [
+      "konomi-inagaki"
+    ]
+  },
+  {
+    "name": "Chitose",
+    "nameNative": "千歳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Ichiro Suzuki",
+    "nameNative": "鈴木一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-kobayashi"
+    ]
+  },
+  {
+    "name": "Jiro Akiba",
+    "nameNative": "アキバジロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  }
+]
