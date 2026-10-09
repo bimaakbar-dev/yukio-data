@@ -1,146 +1,146 @@
 [
   {
-    "name": "Ito Narita",
-    "role": "main",
-    "voiceActors": [
-      "naomi-oozora"
-    ],
-    "nameNative": "成田糸",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232523-QChZ5bCHAuov.jpg"
-  },
-  {
     "name": "Gen Narita",
+    "nameNative": "成田源",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232524-jfrQO7x2hfct.jpg",
     "role": "main",
     "voiceActors": [
       "toshiki-masuda"
-    ],
-    "nameNative": "成田源",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232524-jfrQO7x2hfct.jpg"
+    ]
   },
   {
-    "name": "Syu Narita",
-    "role": "supporting",
+    "name": "Ito Narita",
+    "nameNative": "成田糸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232523-QChZ5bCHAuov.jpg",
+    "role": "main",
     "voiceActors": [
-      "kenshou-ono"
-    ],
-    "nameNative": "成田柊",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232522-joG3syuq71C1.jpg"
-  },
-  {
-    "name": "Rui Narita",
-    "role": "supporting",
-    "voiceActors": [
-      "momoka-terasawa"
-    ],
-    "nameNative": "成田類",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232525-9LURAGQQ7d4h.jpg"
-  },
-  {
-    "name": "Raku Narita",
-    "role": "supporting",
-    "voiceActors": [
-      "taku-yashiro"
-    ],
-    "nameNative": "成田洛",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232526-eM6ht4Yp5ycp.jpg"
-  },
-  {
-    "name": "Saho Narita",
-    "role": "supporting",
-    "voiceActors": [
-      "aya-endou"
-    ],
-    "nameNative": "成田さほ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401312-FcS4dpnsiVBB.jpg"
-  },
-  {
-    "name": "Isao Narita",
-    "role": "supporting",
-    "voiceActors": [
-      "daisuke-ono"
-    ],
-    "nameNative": "成田勲",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401313-hk69pN5Wzg64.jpg"
-  },
-  {
-    "name": "Outa Homma",
-    "role": "supporting",
-    "voiceActors": [
-      "kouhei-amasaki"
-    ],
-    "nameNative": "本間央太",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406378-7H00hmQt0fhW.png"
-  },
-  {
-    "name": "Mone Sawaki",
-    "role": "supporting",
-    "voiceActors": [
-      "ai-kakuma"
-    ],
-    "nameNative": "沢木萌音",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406379-pF0p0hQkouv9.png"
-  },
-  {
-    "name": "Rio Endou",
-    "role": "supporting",
-    "voiceActors": [
-      "you-taichi"
-    ],
-    "nameNative": "遠藤リオ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406380-uGRDKBYsLMw8.png"
-  },
-  {
-    "name": "Tomoyuki Yukitomo",
-    "role": "supporting",
-    "voiceActors": [
-      "yoshitsugu-matsuoka"
-    ],
-    "nameNative": "行友朋之",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406381-SLpSBAydfUYB.png"
-  },
-  {
-    "name": "Megumi Hoshou",
-    "role": "supporting",
-    "voiceActors": [
-      "yukari-anzai"
-    ],
-    "nameNative": "宝生恵",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406382-234qmXuZzSlT.png"
-  },
-  {
-    "name": "Ikuto Sagara",
-    "role": "supporting",
-    "voiceActors": [
-      "youhei-azakami"
-    ],
-    "nameNative": "相楽郁人",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406383-jlN1H1u097Aj.png"
-  },
-  {
-    "name": "Mafuyu Udagawa",
-    "role": "supporting",
-    "voiceActors": [
-      "jun-fukuyama"
-    ],
-    "nameNative": "宇田川真冬",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406953-wm6CufgYds8c.jpg"
-  },
-  {
-    "name": "Shinji Endo",
-    "role": "supporting",
-    "voiceActors": [
-      "reon-tanie"
-    ],
-    "nameNative": "遠藤真治",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408147-fyR5yLIVCYYb.jpg"
+      "naomi-oozora"
+    ]
   },
   {
     "name": "Azusa Yashiro",
+    "nameNative": "八代梓",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410124-2m8vp3nlhmU9.jpg",
     "role": "supporting",
     "voiceActors": [
       "youko-hikasa"
-    ],
-    "nameNative": "八代梓",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410124-2m8vp3nlhmU9.jpg"
+    ]
+  },
+  {
+    "name": "Ikuto Sagara",
+    "nameNative": "相楽郁人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406383-jlN1H1u097Aj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youhei-azakami"
+    ]
+  },
+  {
+    "name": "Isao Narita",
+    "nameNative": "成田勲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401313-hk69pN5Wzg64.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Mafuyu Udagawa",
+    "nameNative": "宇田川真冬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406953-wm6CufgYds8c.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Megumi Hoshou",
+    "nameNative": "宝生恵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406382-234qmXuZzSlT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukari-anzai"
+    ]
+  },
+  {
+    "name": "Mone Sawaki",
+    "nameNative": "沢木萌音",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406379-pF0p0hQkouv9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Outa Homma",
+    "nameNative": "本間央太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406378-7H00hmQt0fhW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouhei-amasaki"
+    ]
+  },
+  {
+    "name": "Raku Narita",
+    "nameNative": "成田洛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232526-eM6ht4Yp5ycp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taku-yashiro"
+    ]
+  },
+  {
+    "name": "Rio Endou",
+    "nameNative": "遠藤リオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406380-uGRDKBYsLMw8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "you-taichi"
+    ]
+  },
+  {
+    "name": "Rui Narita",
+    "nameNative": "成田類",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232525-9LURAGQQ7d4h.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "momoka-terasawa"
+    ]
+  },
+  {
+    "name": "Saho Narita",
+    "nameNative": "成田さほ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401312-FcS4dpnsiVBB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Shinji Endo",
+    "nameNative": "遠藤真治",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408147-fyR5yLIVCYYb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "reon-tanie"
+    ]
+  },
+  {
+    "name": "Syu Narita",
+    "nameNative": "成田柊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232522-joG3syuq71C1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenshou-ono"
+    ]
+  },
+  {
+    "name": "Tomoyuki Yukitomo",
+    "nameNative": "行友朋之",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b406381-SLpSBAydfUYB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
   }
 ]
