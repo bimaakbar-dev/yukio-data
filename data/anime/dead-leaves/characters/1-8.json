@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Pandy",
+    "nameNative": "PANDY",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7317-lf5Pz9LXUyKO.png",
+    "role": "main",
+    "voiceActors": [
+      "takako-honda"
+    ]
+  },
+  {
+    "name": "Retro",
+    "nameNative": "RETRO",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1410-H4gMgsur8WsC.png",
+    "role": "main",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "666",
+    "nameNative": "666",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9202.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuo-iwata"
+    ]
+  },
+  {
+    "name": "777",
+    "nameNative": "777",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9203.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoyuki-yanada"
+    ]
+  },
+  {
+    "name": "Chinko Drill",
+    "nameNative": "ちんこドリル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8775.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Galactica",
+    "nameNative": "ギャラクティカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143113-M9v7s6FG8PVC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-mizutani"
+    ]
+  },
+  {
+    "name": "Gunsou",
+    "nameNative": "軍曹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143112-SQnK6ftcPMom.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masami-iwasaki"
+    ]
+  },
+  {
+    "name": "Yabu Isha",
+    "nameNative": "ヤブ医者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9204.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  }
+]
