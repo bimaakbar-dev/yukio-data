@@ -1,0 +1,456 @@
+[
+  {
+    "name": "Bes Jordan",
+    "nameNative": "ジョーダン・ベス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3067-bKhihGoWifOa.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hideyuki-tanaka"
+    ]
+  },
+  {
+    "name": "Cosmo Yuuki",
+    "nameNative": "ユウキ・コスモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3068-nGFpPc98s3lJ.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yoku-shioya"
+    ]
+  },
+  {
+    "name": "Karala Ajiba",
+    "nameNative": "カララ・アジバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3069-hYk8ewHwOrZ7.jpg",
+    "role": "main",
+    "voiceActors": [
+      "keiko-toda"
+    ]
+  },
+  {
+    "name": "Sheryl Formossa",
+    "nameNative": "フォルモッサ・シェリル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160447-fjfa6Z3d3zUj.jpg",
+    "role": "main",
+    "voiceActors": [
+      "you-inoue"
+    ]
+  },
+  {
+    "name": "Abadede Gurimade",
+    "nameNative": "アバデデ・グリマデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160450-4lVEHhZOxlLR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaru-ikeda"
+    ]
+  },
+  {
+    "name": "Bento Malus",
+    "nameNative": "マルス・ベント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160459-dC1VGm6IRnuI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-hashimoto"
+    ]
+  },
+  {
+    "name": "Camyulla Lanban",
+    "nameNative": "カミューラ・ランバン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186658-vV65jZwqYGqD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takako-kondo"
+    ]
+  },
+  {
+    "name": "Cobol",
+    "nameNative": "コボル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186665-QMriS13bh6QH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Colbock Kiranin",
+    "nameNative": "キラニン・コルボック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186661-L8efKLBlXu0v.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshito-yasuhara"
+    ]
+  },
+  {
+    "name": "Commodore",
+    "nameNative": "コモドア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192141-lLwWeJPO7ELE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-taki"
+    ]
+  },
+  {
+    "name": "Damido Vetch",
+    "nameNative": "ダミド・ベッチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166915-ihcbZUsRsjJ3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "banjou-ginga"
+    ]
+  },
+  {
+    "name": "Daram Zuba",
+    "nameNative": "ダラム・ズバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160465-SwIugGhuBiKE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shoujirou-kihara"
+    ]
+  },
+  {
+    "name": "Deck Afta",
+    "nameNative": "アフタ・デク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160451-RaxYzhq6J4jh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuya-matsuda"
+    ]
+  },
+  {
+    "name": "Doba Ajiba",
+    "nameNative": "ドバ・アジバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160475-Xkaf4lnqE2B6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takkou-ishimori"
+    ]
+  },
+  {
+    "name": "Dobba Bufu",
+    "nameNative": "ドッバ・ブフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186655-NvSiTYI9CNRs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "issei-futamata"
+    ]
+  },
+  {
+    "name": "Doku Jilbal",
+    "nameNative": "ジルバル・ドク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166918-m5B2ALq5WnFD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takkou-ishimori"
+    ]
+  },
+  {
+    "name": "Elmi Jordan",
+    "nameNative": "ジョーダン・エルミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192142-9G08Wz4krjdE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takako-kondo"
+    ]
+  },
+  {
+    "name": "Franklin Marshall",
+    "nameNative": "マーシャル・フランクリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192135-Xrew5PaC8gd2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiya-ueda"
+    ]
+  },
+  {
+    "name": "Fuad Malaca",
+    "nameNative": "マラカ・ファード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160456-VPhC9n86C7Du.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sanae-takagi"
+    ]
+  },
+  {
+    "name": "Galbaba Gura",
+    "nameNative": "ガルババ・グラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192145-C96VFkWq3t5Z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouichi-tanaka"
+    ]
+  },
+  {
+    "name": "Gije Zaral",
+    "nameNative": "ギジェ・ザラル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160449-IWfNAQ0pEqu1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuo-hayashi"
+    ]
+  },
+  {
+    "name": "Gindoro Jinmu",
+    "nameNative": "ギンドロ・ジンム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166921-7TqP4hMbT0GM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-kanie"
+    ]
+  },
+  {
+    "name": "Guhaba Geba",
+    "nameNative": "グハバ・ゲバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166919-ubXDCiIXgg7S.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-watabe"
+    ]
+  },
+  {
+    "name": "Guldabra Dron",
+    "nameNative": "グルダブラ・ドロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192146-WJO2yAyww8PK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-watabe"
+    ]
+  },
+  {
+    "name": "Gyamus Ragu",
+    "nameNative": "ギャムス・ラグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166916-M6yezOFnhRGL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shingo-kanemoto"
+    ]
+  },
+  {
+    "name": "Hannibal Gen",
+    "nameNative": "ハンニバル・ゲン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186657-W9lU60FD4fIz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Harulu Ajiba",
+    "nameNative": "ハルル・アジバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3071-N1PXK11DNt9J.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "harumi-ichiryuusai"
+    ]
+  },
+  {
+    "name": "Hatari Nabeul",
+    "nameNative": "ナブール・ハタリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160460-c9isEndruXSt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue",
+      "saburou-yokoo"
+    ]
+  },
+  {
+    "name": "Joliver Ira",
+    "nameNative": "イラ・ジョリバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159204-PPtyLR721It1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaneto-shiozawa"
+    ]
+  },
+  {
+    "name": "Kasha Imhof",
+    "nameNative": "イムホフ・カーシャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3070-I6QA0d6XX5go.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fuyumi-shiraishi"
+    ]
+  },
+  {
+    "name": "Kitty Kitten",
+    "nameNative": "キッチ・キッチン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160469-4jPulfZTitTt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rumiko-ukai"
+    ]
+  },
+  {
+    "name": "Kiyaya Bufu",
+    "nameNative": "キヤヤ・ブフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186656-IzU8s5cXcSsn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-koyama"
+    ]
+  },
+  {
+    "name": "Kodomon Muron",
+    "nameNative": "コドモン・ムロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192147-CBLDNaXPeLT3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "osamu-katou"
+    ]
+  },
+  {
+    "name": "Kulara Kina",
+    "nameNative": "クララ・キナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192153-N2NNCdQxTL80.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-ozaki"
+    ]
+  },
+  {
+    "name": "Leclan",
+    "nameNative": "レクラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192139-XYU5D2MlsmIN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minoru-inaba"
+    ]
+  },
+  {
+    "name": "Limitter Frendali",
+    "nameNative": "フレンダリー・リミッター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186663-mkHTvrLurcFR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuo-mizutori"
+    ]
+  },
+  {
+    "name": "Lin Formossa",
+    "nameNative": "フォルモッサ・リン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160455-UKbJTaCDb9yQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-yokozawa"
+    ]
+  },
+  {
+    "name": "Lotta Banda",
+    "nameNative": "バンダ・ロッタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160453-hysAQ9n4slt0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiko-yamada"
+    ]
+  },
+  {
+    "name": "Lou Piper",
+    "nameNative": "パイパー・ルウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160458-HcdDLbqnCLUJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "you-inoue"
+    ]
+  },
+  {
+    "name": "Mac Jordan",
+    "nameNative": "ジョーダン・マック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192143-ETssIMtniJSe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouzou-iizuka"
+    ]
+  },
+  {
+    "name": "Mayaya Rau",
+    "nameNative": "マヤヤ・ラウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160468-PJfJgTkTUOlE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-matsubara"
+    ]
+  },
+  {
+    "name": "Mebarul Kuou",
+    "nameNative": "メバルル・クオウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192152-MyYYPrDWA44O.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-nakatani"
+    ]
+  },
+  {
+    "name": "Miraclin",
+    "nameNative": "ミラクリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192136-hObLbOK7ywEF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusaku-yara",
+      "kyounosuke-kami"
+    ]
+  },
+  {
+    "name": "Moera Fatom",
+    "nameNative": "ファトム・モエラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160446-X9MNQEUgdxNR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideki-sasaki"
+    ]
+  },
+  {
+    "name": "Nujean",
+    "nameNative": "ヌージャン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192137-PSdQdgOMLZQK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keaton-yamada"
+    ]
+  },
+  {
+    "name": "Parkinson",
+    "nameNative": "パーキンスン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186671-cW8wa5kRq3Uv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Rapo Fam",
+    "nameNative": "ファム・ラポー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160466-w3vvT5Atam2g.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-tsuruta"
+    ]
+  },
+  {
+    "name": "Rice",
+    "nameNative": "ライス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192138-kO63kIcO8NWz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuo-tanaka"
+    ]
+  },
+  {
+    "name": "Rukuku Kil",
+    "nameNative": "ルクク・キル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186652-rfG2BUcJ745F.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gara-takashima"
+    ]
+  },
+  {
+    "name": "Techno Gyabari",
+    "nameNative": "ギャバリー・テクノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160462-I62tS4ZblcD3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masahiro-sakuramoto",
+      "bin-shimada",
+      "eiichi-onoda"
+    ]
+  }
+]
