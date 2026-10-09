@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Riko",
+    "nameNative": "リコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14550-bzMhF39n2CGn.png",
+    "role": "main",
+    "voiceActors": [
+      "minako-kawashima"
+    ]
+  },
+  {
+    "name": "Ura",
+    "nameNative": "ウラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14548-xwLaUJR21L21.png",
+    "role": "main",
+    "voiceActors": [
+      "michio-nakao"
+    ]
+  },
+  {
+    "name": "Yoko Yamaguchi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14549-s8ei5chdPZMf.png",
+    "role": "main",
+    "voiceActors": [
+      "yuka-koyama"
+    ]
+  },
+  {
+    "name": "Douryou",
+    "nameNative": "同僚",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-yoshiura"
+    ]
+  }
+]
