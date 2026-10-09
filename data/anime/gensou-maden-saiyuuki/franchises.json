@@ -1,0 +1,27 @@
+[
+  {
+    "relation": "side_story",
+    "slug": "saiyuuki-ova",
+    "title": "Saiyuuki (OVA)"
+  },
+  {
+    "relation": "side_story",
+    "slug": "gensoumaden-saiyuuki-movie-requiem-erabarezaru-mono-e-no-chinkonka",
+    "title": "Gensoumaden Saiyuuki Movie: Requiem - Erabarezaru Mono e no Chinkonka"
+  },
+  {
+    "relation": "side_story",
+    "slug": "gensoumaden-saiyuuki-kibou-no-zaika",
+    "title": "Gensoumaden Saiyuuki: Kibou no Zaika"
+  },
+  {
+    "relation": "sequel",
+    "slug": "saiyuuki-reload",
+    "title": "Saiyuuki Reload"
+  },
+  {
+    "relation": "prequel",
+    "slug": "saiyuuki-reload-burial",
+    "title": "Saiyuuki Reload: Burial"
+  }
+]
