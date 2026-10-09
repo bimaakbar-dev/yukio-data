@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Ai-chan",
+    "nameNative": "アイちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126848-mxCOR2Dvw6y3.png",
+    "role": "main",
+    "voiceActors": [
+      "sayaka-harada"
+    ]
+  },
+  {
+    "name": "Kouhai-chan",
+    "nameNative": "後輩ちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143700-Gek8H0xrZT0Q.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Onii-san",
+    "nameNative": "お兄さん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150577-VA4FiWP53g3E.png",
+    "role": "main",
+    "voiceActors": [
+      "junji-majima"
+    ]
+  },
+  {
+    "name": "Kachou",
+    "nameNative": "課長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259012-5K0qCTmCRqic.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-souma"
+    ]
+  },
+  {
+    "name": "Senpai",
+    "nameNative": "先輩",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248980-45YaHafJkAYd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuaki-takumi"
+    ]
+  },
+  {
+    "name": "Shika Eiseishi-san",
+    "nameNative": "歯科衛生士さん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259011-3lGIguxaHTj9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Tokumori-san",
+    "nameNative": "徳森さん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259010-OftqzSSIi4TI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Trainer-san",
+    "nameNative": "トレーナーさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259009-1BHUDvXuwzpY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-tsuda"
+    ]
+  },
+  {
+    "name": "Volleybu-chan",
+    "nameNative": "バレー部ちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248977-vZinWXpEHEkC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-ishigami"
+    ]
+  }
+]
