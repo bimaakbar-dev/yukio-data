@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Felia",
+    "nameNative": "フェリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89203-MO2xCY64Tv18.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayaka-oohashi"
+    ]
+  },
+  {
+    "name": "Kaon Lanchester",
+    "nameNative": "カオン・ランチェスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89204-HohtCqVdW4RW.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Mo Ritika Tzetzes Ura",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89246-8dGnxRoKRFfh.jpg",
+    "role": "main",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Sougo Amagi",
+    "nameNative": "ソウゴ・アマギ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89202-vJUMBTSt2u1a.png",
+    "role": "main",
+    "voiceActors": [
+      "yuusuke-kobayashi"
+    ]
+  },
+  {
+    "name": "Ena Amagi",
+    "nameNative": "エナ・アマギ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263179-rNneZ2bG0hDJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Malvina Aniance",
+    "nameNative": "マルヴィナ・アニアンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89245-j97xuLWerKUi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "suzuko-mimori"
+    ]
+  }
+]
