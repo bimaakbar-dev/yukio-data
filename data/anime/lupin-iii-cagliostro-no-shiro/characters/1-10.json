@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Arsène Lupin III",
+    "nameNative": "ルパン三世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1044-UriNGSc2CKPO.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yasuo-yamada"
+    ]
+  },
+  {
+    "name": "Clarisse  do Cagliostro",
+    "nameNative": "クラリス・ド・カリオストロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/11236.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sumi-shimamoto"
+    ]
+  },
+  {
+    "name": "Daisuke Jigen",
+    "nameNative": "次元大介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1045-5VLjexUmCT6p.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kiyoshi-kobayashi"
+    ]
+  },
+  {
+    "name": "Fujiko Mine",
+    "nameNative": "峰不二子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1047-3VgNXvRjylHV.png",
+    "role": "main",
+    "voiceActors": [
+      "eiko-masuyama"
+    ]
+  },
+  {
+    "name": "Goemon Ishikawa XIII",
+    "nameNative": "石川五ェ門",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1046-kFemmr8KkgFb.png",
+    "role": "main",
+    "voiceActors": [
+      "makio-inoue"
+    ]
+  },
+  {
+    "name": "Count Lazare do Cagliostro",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/11234.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tarou-ishida"
+    ]
+  },
+  {
+    "name": "Gardener",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180654-2Pl2UudM8RZ0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouhei-miyauchi"
+    ]
+  },
+  {
+    "name": "Gustav",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/11240.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tadamichi-tsuneizumi"
+    ]
+  },
+  {
+    "name": "Jodot",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/11238.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ichirou-nagai"
+    ]
+  },
+  {
+    "name": "Kouichi Zenigata",
+    "nameNative": "銭形幸一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1048-GDlCKww1le0Q.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gorou-naya"
+    ]
+  }
+]
