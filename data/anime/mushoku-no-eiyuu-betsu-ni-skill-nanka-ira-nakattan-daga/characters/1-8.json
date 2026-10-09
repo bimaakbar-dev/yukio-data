@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Arel",
+    "nameNative": "アレル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b357516-xIqoBHkC8kwn.png",
+    "role": "main",
+    "voiceActors": [
+      "kenshou-ono"
+    ]
+  },
+  {
+    "name": "Kufa",
+    "nameNative": "クーファ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369801-isGMG2zlaN3J.png",
+    "role": "main",
+    "voiceActors": [
+      "rumi-ookubo"
+    ]
+  },
+  {
+    "name": "Laina",
+    "nameNative": "ライナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363982-js8FftKhq7BA.png",
+    "role": "main",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Lilia",
+    "nameNative": "リリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363983-XTXlzQWbvhlx.png",
+    "role": "main",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Astea",
+    "nameNative": "アステア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "karin-isobe"
+    ]
+  },
+  {
+    "name": "Farah",
+    "nameNative": "ファラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Leon",
+    "nameNative": "レオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  },
+  {
+    "name": "Mila",
+    "nameNative": "ミラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  }
+]
