@@ -1,0 +1,37 @@
+[
+  {
+    "relation": "spin_off",
+    "slug": "digimon-adventure",
+    "title": "Digimon Adventure"
+  },
+  {
+    "relation": "spin_off",
+    "slug": "digimon-adventure-02",
+    "title": "Digimon Adventure 02"
+  },
+  {
+    "relation": "side_story",
+    "slug": "digimon-tamers-boukensha-tachi-no-tatakai",
+    "title": "Digimon Tamers: Boukensha-tachi no Tatakai"
+  },
+  {
+    "relation": "sequel",
+    "slug": "digimon-tamers-bousou-digimon-tokkyuu",
+    "title": "Digimon Tamers: Bousou Digimon Tokkyuu"
+  },
+  {
+    "relation": "spin_off",
+    "slug": "digimon-frontier",
+    "title": "Digimon Frontier"
+  },
+  {
+    "relation": "spin_off",
+    "slug": "digimon-savers",
+    "title": "Digimon Savers"
+  },
+  {
+    "relation": "spin_off",
+    "slug": "digimon-xros-wars",
+    "title": "Digimon Xros Wars"
+  }
+]

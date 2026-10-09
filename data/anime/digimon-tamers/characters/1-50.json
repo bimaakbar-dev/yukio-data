@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Culumon",
+    "nameNative": "クルモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17568.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomoko-kaneda"
+    ]
+  },
+  {
+    "name": "Guilmon",
+    "nameNative": "ギルモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8762-uLokfCGNHXc7.png",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Impmon",
+    "nameNative": "インプモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14027-HPy2qDjtMx2h.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiroki-takahashi"
+    ]
+  },
+  {
+    "name": "Jianliang Lee",
+    "nameNative": "李健良",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4167-nRdff3UjlckE.png",
+    "role": "main",
+    "voiceActors": [
+      "mayumi-yamaguchi"
+    ]
+  },
+  {
+    "name": "Renamon",
+    "nameNative": "レナモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7598-Dd4KLlP6IUFJ.png",
+    "role": "main",
+    "voiceActors": [
+      "yuka-imai"
+    ]
+  },
+  {
+    "name": "Ruki Makino",
+    "nameNative": "牧野留姫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3540-RpO54KVQXzVR.png",
+    "role": "main",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Takato Matsuda",
+    "nameNative": "松田啓人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4168.jpg",
+    "role": "main",
+    "voiceActors": [
+      "makoto-tsumura"
+    ]
+  },
+  {
+    "name": "Terriermon",
+    "nameNative": "テリアモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13593-wyqKbvVhK5fh.png",
+    "role": "main",
+    "voiceActors": [
+      "aoi-tada"
+    ]
+  },
+  {
+    "name": "Ai",
+    "nameNative": "アイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348837-pChqGQ3agTa5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruhi-nanao"
+    ]
+  },
+  {
+    "name": "Aishwarya Rai",
+    "nameNative": "アイシュワリャライ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351990-bAFQeGbwpEm0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-matsuoka"
+    ]
+  },
+  {
+    "name": "Alice McCoy",
+    "nameNative": "アリス・マッコイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19549-0JekI008qXDk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-imai"
+    ]
+  },
+  {
+    "name": "Andromon",
+    "nameNative": "アンドロモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312566-J2UsurmIBFOT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoyuki-yanada"
+    ]
+  },
+  {
+    "name": "Babamon",
+    "nameNative": "ババモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351979-GPCLVKiycQ2f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-okohira"
+    ]
+  },
+  {
+    "name": "Babel",
+    "nameNative": "バベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351998-FiJR3CIPvOKq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "Baihumon",
+    "nameNative": "バイフーモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351995-Uyb0udRv4ZIC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinpachi-tsuji"
+    ]
+  },
+  {
+    "name": "Beelzebumon",
+    "nameNative": "ベルゼブモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70825-CabDQ2Y3Gyo4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-takahashi"
+    ]
+  },
+  {
+    "name": "Caturamon",
+    "nameNative": "チャツラモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348829-TdVUj188uEyU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-ishii"
+    ]
+  },
+  {
+    "name": "Clockmon",
+    "nameNative": "クロックモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250476-tqgKecN1fRa4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-oguri"
+    ]
+  },
+  {
+    "name": "Cyberdramon",
+    "nameNative": "サイバードラモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348838-fo170Xe14Mlq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikkei-seta"
+    ]
+  },
+  {
+    "name": "D-Reaper",
+    "nameNative": "デ・リーパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351980-oa2NckacDSAu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-asada"
+    ]
+  },
+  {
+    "name": "Daisy",
+    "nameNative": "デイジー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351991-b061w6EZXrZ1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asako-dodo"
+    ]
+  },
+  {
+    "name": "Devidramon",
+    "nameNative": "デビドラモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351986-YnoygV51S7N4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hitoshi-bifu"
+    ]
+  },
+  {
+    "name": "Dobermon",
+    "nameNative": "ドーベルモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52297-qpvUQun1HMZs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-takahashi"
+    ]
+  },
+  {
+    "name": "Gekomon",
+    "nameNative": "ゲコモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b316018-jVsE9hTr4sBB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-takato"
+    ]
+  },
+  {
+    "name": "Gorou Mizuno",
+    "nameNative": "水野悟郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348833-ECUnO0P1nyLp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tarou-suwa"
+    ]
+  },
+  {
+    "name": "Guardromon",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348831-e6U9kewQwqep.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoyuki-yanada"
+    ]
+  },
+  {
+    "name": "Hagurumon",
+    "nameNative": "ハグルモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349893-PFWqxrBSR4fX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-hirata"
+    ]
+  },
+  {
+    "name": "Hangyomon",
+    "nameNative": "ハンギョモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315312-B8UouA2225w9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshikazu-nagano"
+    ]
+  },
+  {
+    "name": "Hirokazu Shioda",
+    "nameNative": "塩田博和",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13319-gbS5jNg87iwg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-tamaki"
+    ]
+  },
+  {
+    "name": "IceDevimon",
+    "nameNative": "アイスデビモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351985-4ngL8Cvsevza.png",
+    "role": "supporting",
+    "voiceActors": [
+      "juurouta-kosugi"
+    ]
+  },
+  {
+    "name": "Indramon",
+    "nameNative": "インダラモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348834-NEFDAKXaDgb2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenyuu-horiuchi"
+    ]
+  },
+  {
+    "name": "Jaarin Lee",
+    "nameNative": "李嘉玲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b352002-TOzrTQNo011o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-yoshikura"
+    ]
+  },
+  {
+    "name": "Jiangyu Lee",
+    "nameNative": "李鎮宇",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348839-ndUbW43HshQN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiyuki-kaneko"
+    ]
+  },
+  {
+    "name": "Jijimon",
+    "nameNative": "ジジモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351983-lgzO75nhOOTv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masafumi-kimura"
+    ]
+  },
+  {
+    "name": "Juri Katou",
+    "nameNative": "加藤樹莉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25700-ZtzHTdZMUI2j.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-asada"
+    ]
+  },
+  {
+    "name": "Kenta Kitagawa",
+    "nameNative": "北川健太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34478-6jtgbtkQJOVk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "touko-aoyama"
+    ]
+  },
+  {
+    "name": "Kumbhiramon",
+    "nameNative": "クンビラモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348840-bl6zvoHrXvDO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-miyata"
+    ]
+  },
+  {
+    "name": "Leomon",
+    "nameNative": "レオモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16552-rTwoq6dLd0jT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-hirata"
+    ]
+  },
+  {
+    "name": "Lopmon",
+    "nameNative": "ロップモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21130.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-tada"
+    ]
+  },
+  {
+    "name": "Majiramon",
+    "nameNative": "マジラモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b260928-V6JNuhllNHMS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazunari-kojima"
+    ]
+  },
+  {
+    "name": "Makoto",
+    "nameNative": "マコト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348830-bJAPVptkcOEu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miwa-matsumoto"
+    ]
+  },
+  {
+    "name": "Makuramon",
+    "nameNative": "マクラモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348832-7ZQYB0F70veo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-horikawa"
+    ]
+  },
+  {
+    "name": "MarineAngemon",
+    "nameNative": "マリンエンジェモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348836-Yee5Uxq8oloZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aiko-iwamura"
+    ]
+  },
+  {
+    "name": "Mayumi Lee",
+    "nameNative": "李麻由美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351993-ejlgTkLilluG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-adachi"
+    ]
+  },
+  {
+    "name": "Meramon",
+    "nameNative": "メラモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312563-zldrShERmwBm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazunari-kojima"
+    ]
+  },
+  {
+    "name": "Mihiramon",
+    "nameNative": "ミヒラモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351994-Ib0VNG14QDgX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masahiko-tanaka"
+    ]
+  },
+  {
+    "name": "Mitsuo Yamaki",
+    "nameNative": "山木 満雄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65733-YfC1dNL9fUuv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "susumu-chiba"
+    ]
+  },
+  {
+    "name": "Musyamon",
+    "nameNative": "ムシャモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b302723-cnrwOEavM1GW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-matsuyama"
+    ]
+  },
+  {
+    "name": "Nami Asanuma",
+    "nameNative": "浅沼奈美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351996-vnsYlVdjFlBb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaya-matsutani"
+    ]
+  },
+  {
+    "name": "Orochimon",
+    "nameNative": "オロチモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351989-LVhnjTIWuEHq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuo-komura"
+    ]
+  }
+]
