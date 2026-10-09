@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Tatsumi",
+    "nameNative": "龍己",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88624-TThLAwyjojbp.png",
+    "role": "main",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Wakasa",
+    "nameNative": "若狭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88623-kfn8prYXJ0cA.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuichirou-umehara"
+    ]
+  },
+  {
+    "name": "Ducky",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138780-GdrwfMu4hy7J.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihisa-kawahara"
+    ]
+  },
+  {
+    "name": "Kasumi",
+    "nameNative": "霞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88783-wuwZ3A8Nh75Y.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ibuki-kido"
+    ]
+  },
+  {
+    "name": "Maki",
+    "nameNative": "真木",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88784-ckPLZwpH32km.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Mikuni",
+    "nameNative": "三国",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88781-0Xpmu0RdbUqg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Takasu",
+    "nameNative": "鷹巣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88782-3TwlKGJG4MHf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  }
+]
