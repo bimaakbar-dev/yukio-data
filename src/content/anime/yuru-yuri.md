@@ -1,45 +1,45 @@
 ---
-title: Yuru Yuri♪♪
-titleEnglish: YuruYuri Season 2
-titleNative: ゆるゆり♪♪
+title: "Yuru Yuri,"
+titleEnglish: "Yuru Yuri,"
+titleNative: ゆるゆり、
 
-malId: 12403
-kitsuId: "6724"
+malId: 37773
+kitsuId: "6205"
 
-type: TV
+type: OVA
 status: finished
 source: manga
 
 season: summer
-year: 2012
-episodes: 12
-duration: 23
-# rating: # edit manual
+year: 2019
+episodes: 1
+duration: 32
 
 aired:
-  from: "2012-07-03"
-  to: "2012-09-18"
+  from: "2019-09-18"
+  to: "2019-09-18"
 
 stats:
-  score: 7.7
-  # scoredBy: # edit manual
+  score: 7.6
 
 genres:
   - comedy
   - slice-of-life
 
 studios:
-  - doga-kobo
+  - lay-duce
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12403-sAG2FsLFX8bH.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12403-5u268qIm5jsR.jpg"
-trailer: "LGSOhBnMEoY"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102090-unOFHc0pmYAr.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102090-owqDmPD29vJy.jpg"
+trailer: "4elmGs7pKU0"
 
 draft: false
 ---
 
-The girls of the Amusement Club return in Yuru Yuri♪♪, finding new ways to make passing time even more enjoyable. Their members consist of the always energetic Kyouko Toshinou; calm and sensible Yui Funami; polite but often overlooked Akari Akaza; and Chinatsu Yoshikawa, who stumbled upon the others while looking for the Tea Ceremony Club. Together they are the Amusement Club, which has the deceptively simple task of keeping its members entertained.
+Akari Akaza, Chinatsu Yoshikawa, Kyouko Toshinou, and Yui Funami return to commemorate an exciting occasion! Despite their initial bizarre celebration ideas, they decide to hold a party at their Amusement Club room. With the help of friends from the Student Council, they start preparing for the big day—with a surprise planned for a special someone.
 
-Along with the Student Council and the odd family member, they strive to enjoy their youth to the fullest. Whether it's a trip to a hot spring or finishing overdue homework, their lives are never dull, and they will always find an excuse to spend time together.
+Join the girls as they work together to create an enjoyable and memorable party, all the while interacting with one another with their cute and unique quirks.
 
 (Source: MAL Rewrite)
+
+Note: The Blu-ray had an early release for crowdfunding backers, while the general release was set to November 13th.
