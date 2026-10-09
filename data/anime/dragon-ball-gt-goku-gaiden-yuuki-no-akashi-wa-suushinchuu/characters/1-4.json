@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Goku Jr. Son",
+    "nameNative": "孫悟空Jr",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2152.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Gokuu Son",
+    "nameNative": "孫悟空",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/246-wsRRr6z1kii8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Pack",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8632.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-furuya"
+    ]
+  },
+  {
+    "name": "Pan",
+    "nameNative": "パン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3168.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-minaguchi"
+    ]
+  }
+]
