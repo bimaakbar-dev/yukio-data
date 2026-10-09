@@ -1,0 +1,22 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "kidou-senshi-gundam",
+    "title": "Kidou Senshi Gundam"
+  },
+  {
+    "relation": "sequel",
+    "slug": "kidou-senshi-gundam-0083-stardust-memory",
+    "title": "Kidou Senshi Gundam 0083: Stardust Memory"
+  },
+  {
+    "relation": "side_story",
+    "slug": "kidou-senshi-gundam-dai-08-ms-shoutai",
+    "title": "Kidou Senshi Gundam: Dai 08 MS Shoutai"
+  },
+  {
+    "relation": "summary",
+    "slug": "kidou-senshi-gundam-hikaru-inochi-chronicle-uc",
+    "title": "Kidou Senshi Gundam: Hikaru Inochi Chronicle U.C."
+  }
+]
