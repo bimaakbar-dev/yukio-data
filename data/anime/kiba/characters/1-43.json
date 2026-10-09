@@ -1,0 +1,339 @@
+[
+  {
+    "name": "Noa",
+    "nameNative": "ノア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2323.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kazuma-horie"
+    ]
+  },
+  {
+    "name": "Roya",
+    "nameNative": "ロイア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3276.jpg",
+    "role": "main",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "Zed",
+    "nameNative": "ゼッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1732.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Aisha",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28816.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "erino-hazuki"
+    ]
+  },
+  {
+    "name": "Amil Gaoul",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31692.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Carter",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28819.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-yanaka"
+    ]
+  },
+  {
+    "name": "Deucem",
+    "nameNative": "デュケム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9799.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-takeuchi"
+    ]
+  },
+  {
+    "name": "Dumas Schuramux",
+    "nameNative": "デュマス・シュクラムクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3283.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-yanaka"
+    ]
+  },
+  {
+    "name": "Elda",
+    "nameNative": "エルダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21411.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "komina-matsushita"
+    ]
+  },
+  {
+    "name": "Elmeida",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3286.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "erino-hazuki"
+    ]
+  },
+  {
+    "name": "Gale",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28817.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-tachibana"
+    ]
+  },
+  {
+    "name": "Garl",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ginga",
+    "nameNative": "ギンガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9821.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-sakaguchi"
+    ]
+  },
+  {
+    "name": "Gitora",
+    "nameNative": "ギトラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9883.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-terashima"
+    ]
+  },
+  {
+    "name": "Graujio",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3287.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Guzman",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-takeuchi"
+    ]
+  },
+  {
+    "name": "Herrick",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21413.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-tachibana"
+    ]
+  },
+  {
+    "name": "Hina",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28823.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Hugh",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3285.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Jiko Zico",
+    "nameNative": "ジーコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3278.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-arikawa"
+    ]
+  },
+  {
+    "name": "Jimu",
+    "nameNative": "ジーム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9882.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-kondou"
+    ]
+  },
+  {
+    "name": "JRock Shark",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28822.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Jumamis",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31699.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Keith",
+    "nameNative": "キース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3288.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-nara"
+    ]
+  },
+  {
+    "name": "Kira",
+    "nameNative": "キ－ラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3289.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "komina-matsushita"
+    ]
+  },
+  {
+    "name": "Menardi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31695.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Mikki",
+    "nameNative": "ミッキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3280.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhisa-nakamoto"
+    ]
+  },
+  {
+    "name": "Mirette",
+    "nameNative": "ミレッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3290.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rika-morinaga"
+    ]
+  },
+  {
+    "name": "Morocco",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28818.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohisa-asou"
+    ]
+  },
+  {
+    "name": "Nudeu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Pino",
+    "nameNative": "ピーノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31715.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Professor Bender",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Pronimo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31694.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Rambos",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31713.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Rebecca",
+    "nameNative": "レベッカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3284.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Robès Redondo",
+    "nameNative": "ロベス・レドンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3279.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Robes' Butler",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28821.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Sachira",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31693.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Sagiri",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3291.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Sara",
+    "nameNative": "サラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/13343.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Sebastian",
+    "nameNative": "セバスチャン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28820.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "umeji-sasaki"
+    ]
+  },
+  {
+    "name": "Shadin",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31698.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Tasker",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31697.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taiten-kusunoki"
+    ]
+  }
+]
