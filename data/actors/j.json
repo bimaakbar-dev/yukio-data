@@ -1,5 +1,12 @@
 [
   {
+    "id": "james-bowers",
+    "name": "James Bowers",
+    "nameNative": "James R Bowers",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "jenya-davidyuk",
     "name": "Jenya Davidyuk",
     "nameNative": "Женя Давидюк",
@@ -312,6 +319,13 @@
     "name": "Junko Kitanishi",
     "nameNative": "北西純子",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105634-k4crYIeacBXT.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "junko-machida",
+    "name": "Junko Machida",
+    "nameNative": "町田淳子",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
     "defaultLanguage": "Japanese"
   },
   {
