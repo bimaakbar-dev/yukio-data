@@ -1,0 +1,438 @@
+[
+  {
+    "name": "Asuka Tenjouin",
+    "nameNative": "天上院明日香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1305.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Judai Yuki",
+    "nameNative": "遊城十代",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1300-HlFgEd6toG2M.png",
+    "role": "main",
+    "voiceActors": [
+      "kenn",
+      "mariko-nagahama"
+    ]
+  },
+  {
+    "name": "Jun Manjoume",
+    "nameNative": "万丈目準",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1301-YuYjxoeZJRfy.jpg",
+    "role": "main",
+    "voiceActors": [
+      "taiki-matsuno"
+    ]
+  },
+  {
+    "name": "Sho Marufuji",
+    "nameNative": "丸藤翔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1299-Rk689SXqfR0V.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masami-suzuki"
+    ]
+  },
+  {
+    "name": "Tyranno Kenzan",
+    "nameNative": "ティラノ剣山",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1306.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiroshi-shimozaki"
+    ]
+  },
+  {
+    "name": "Abidos the Third",
+    "nameNative": "アビドス３世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64657.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Amon Garam",
+    "nameNative": "アモン・ガラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12137.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuya-mine"
+    ]
+  },
+  {
+    "name": "Austin O'Brien",
+    "nameNative": "オースチン・オブライエン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12136.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naru-kawamoto"
+    ]
+  },
+  {
+    "name": "Camula",
+    "nameNative": "カミューラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b325178-3t5yOLP140nd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kanako-irie"
+    ]
+  },
+  {
+    "name": "Chousaku Manjoume",
+    "nameNative": "万丈目長作",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52367.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hirano-takahiro"
+    ]
+  },
+  {
+    "name": "Cobra",
+    "nameNative": "コブラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330634-fOW0KWY6NNb5.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Cronos de Medici",
+    "nameNative": "クロノス・デ・メディチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1304.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shimizu"
+    ]
+  },
+  {
+    "name": "Daichi Misawa",
+    "nameNative": "三沢大地",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1302.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-masuda"
+    ]
+  },
+  {
+    "name": "Daitokuji",
+    "nameNative": "大徳寺",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12148.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Darkness",
+    "nameNative": "ダークネス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34372.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hozumi-gouda"
+    ]
+  },
+  {
+    "name": "DD",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330635-mWK5GaTAeReH.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Echo",
+    "nameNative": "エコー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330633-JZfK2gkw2wjX.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Edo Phoenix",
+    "nameNative": "エド・フェニックス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1303.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida",
+      "asako-yoshida"
+    ]
+  },
+  {
+    "name": "Emi Ayukawa",
+    "nameNative": "鮎川恵美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29256.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "michiko-neya"
+    ]
+  },
+  {
+    "name": "Freed",
+    "nameNative": "フリード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330637-L467K54mU3UW.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Fubuki Tenjouin",
+    "nameNative": "天上院吹雪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7585.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Giese Hunt",
+    "nameNative": "ギース・ハント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330638-Yr0X5YBQQuwR.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Hayato Maeda",
+    "nameNative": "前田隼人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43886.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takehiro-hasu"
+    ]
+  },
+  {
+    "name": "Ikazuchimaru",
+    "nameNative": "雷丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330639-dRY3HsOhFC2E.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Jim Cook",
+    "nameNative": "ジム・クロコダイル・クック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12135.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoya-iwashi"
+    ]
+  },
+  {
+    "name": "Johan Andersen",
+    "nameNative": "ヨハン・アンデルサン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7586-dXehj3vKljD4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kanako-irie"
+    ]
+  },
+  {
+    "name": "Kagurazaka",
+    "nameNative": "神楽坂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/24199.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Karen",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20290.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-iwama"
+    ]
+  },
+  {
+    "name": "Kouji Satou",
+    "nameNative": "佐藤浩二",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n12147-quDQlOBq2q6T.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-miyamoto"
+    ]
+  },
+  {
+    "name": "Kyuu",
+    "nameNative": "迷宮兄弟・宮",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51573.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jin-nishimura"
+    ]
+  },
+  {
+    "name": "Martin Kanou",
+    "nameNative": "加納マルタン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12140.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asako-yoshida"
+    ]
+  },
+  {
+    "name": "Mei",
+    "nameNative": "迷宮兄弟・迷",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51571.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-takemoto"
+    ]
+  },
+  {
+    "name": "Mitsuo",
+    "nameNative": "ミツオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29327.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "anri-katsu",
+      "asako-yoshida"
+    ]
+  },
+  {
+    "name": "Momoe Hamaguchi",
+    "nameNative": "浜口ももえ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26323.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariko-nagahama"
+    ]
+  },
+  {
+    "name": "Napoleon Kanou",
+    "nameNative": "ナポレオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15023.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoki-tatsuta"
+    ]
+  },
+  {
+    "name": "Pegasus Crawford",
+    "nameNative": "ペガサス・ジェイ・クロフォード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5991.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takasugi-jay-jirou"
+    ]
+  },
+  {
+    "name": "Ran Kochou",
+    "nameNative": "胡蝶蘭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79903.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-matsui"
+    ]
+  },
+  {
+    "name": "Rei Saotome",
+    "nameNative": "早乙女レイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7566-1XDabxcojOJg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-sendai"
+    ]
+  },
+  {
+    "name": "Ryou Marufuji",
+    "nameNative": "丸藤亮",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1307-vx8PbWSEdtDc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-maeda"
+    ]
+  },
+  {
+    "name": "Ryuusei Gin",
+    "nameNative": "銀流星",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330636-6eGMbhnnxkTB.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Seto Kaiba",
+    "nameNative": "海馬瀬人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1378-PVWGuLucDP44.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Shouji Manjoume",
+    "nameNative": "万丈目正司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52369.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-tomita"
+    ]
+  },
+  {
+    "name": "Sugoroku Mutou",
+    "nameNative": "武藤双六",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16202.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tadashi-miyazawa"
+    ]
+  },
+  {
+    "name": "Taigo Sorano",
+    "nameNative": "空野大悟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12134.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-toyonaga"
+    ]
+  },
+  {
+    "name": "Taira Taizan",
+    "nameNative": "大山平",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54943.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-tsuchida"
+    ]
+  },
+  {
+    "name": "Takuma Saiou",
+    "nameNative": "斎王琢磨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12139.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Titan",
+    "nameNative": "タイタン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43666.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norio-wakamoto"
+    ]
+  },
+  {
+    "name": "Tome",
+    "nameNative": "トメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b404244-kYApFsOzRoUh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariko-nagahama"
+    ]
+  },
+  {
+    "name": "Trueman",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12138.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hozumi-gouda"
+    ]
+  },
+  {
+    "name": "Yami Yuugi",
+    "nameNative": "闇遊戯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1375-J4lAw8j1ICi1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-kazama"
+    ]
+  }
+]
