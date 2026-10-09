@@ -1,0 +1,325 @@
+[
+  {
+    "name": "Anzu Mazaki",
+    "nameNative": "真崎杏子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1379-9rgYwHTOpv0x.png",
+    "role": "main",
+    "voiceActors": [
+      "yumi-kakazu"
+    ]
+  },
+  {
+    "name": "Hiroto Honda",
+    "nameNative": "本田ヒロト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1380-ZVPdeDAoizoK.png",
+    "role": "main",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Katsuya Jonouchi",
+    "nameNative": "城之内克也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1377-QpO3YtEaEMa4.jpg",
+    "role": "main",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Miho Nosaka",
+    "nameNative": "野坂ミホ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1501.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Ryou Bakura",
+    "nameNative": "獏良了",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1488-kxvTwOy1EvEP.png",
+    "role": "main",
+    "voiceActors": [
+      "tsutomu-kashiwakura"
+    ]
+  },
+  {
+    "name": "Seto Kaiba",
+    "nameNative": "海馬瀬人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1378-PVWGuLucDP44.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Yami Yuugi",
+    "nameNative": "闇遊戯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1375-J4lAw8j1ICi1.png",
+    "role": "main",
+    "voiceActors": [
+      "megumi-ogata"
+    ]
+  },
+  {
+    "name": "Yuugi Mutou",
+    "nameNative": "武藤遊戯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1374-dZVmlraKNPp3.jpg",
+    "role": "main",
+    "voiceActors": [
+      "megumi-ogata"
+    ]
+  },
+  {
+    "name": "Aileen Rao",
+    "nameNative": "アイリーン・ラオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42305.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miina-tominaga"
+    ]
+  },
+  {
+    "name": "Chouno-sensei",
+    "nameNative": "蝶野先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38637.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-katsuki"
+    ]
+  },
+  {
+    "name": "Daimon",
+    "nameNative": "大門",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42411.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuji-saikachi"
+    ]
+  },
+  {
+    "name": "Gozaburo Kaiba",
+    "nameNative": "海馬剛三郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19410-5AWMnGMiFco2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Haiyama",
+    "nameNative": "灰山",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42295.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-sakaguchi"
+    ]
+  },
+  {
+    "name": "Hirata",
+    "nameNative": "平田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/86103.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-kisaichi"
+    ]
+  },
+  {
+    "name": "Hokeni",
+    "nameNative": "保健医",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42298.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "michie-tomizawa"
+    ]
+  },
+  {
+    "name": "Imori",
+    "nameNative": "井守",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42306.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-urawa"
+    ]
+  },
+  {
+    "name": "Jiro the Jorogumo",
+    "nameNative": "女郎蜘蛛のジロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146176-y6Ahm3FhLM7d.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mahito-ooba"
+    ]
+  },
+  {
+    "name": "Kaoruko Himekoji",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42410.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-touma"
+    ]
+  },
+  {
+    "name": "Kekeru Goyu",
+    "nameNative": "豪遊カケル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42304.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "banjou-ginga"
+    ]
+  },
+  {
+    "name": "Kokurano",
+    "nameNative": "孤蔵乃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42301.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Kujirada",
+    "nameNative": "鯨田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42296.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouzou-iizuka"
+    ]
+  },
+  {
+    "name": "Mayumi",
+    "nameNative": "まゆみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42299.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-sumitomo"
+    ]
+  },
+  {
+    "name": "Miyuki Sakurai",
+    "nameNative": "桜井美雪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42303.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuri-amano"
+    ]
+  },
+  {
+    "name": "Mokuba Kaiba",
+    "nameNative": "海馬モクバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1381.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsue-miwa"
+    ]
+  },
+  {
+    "name": "Renzoku Bakudanma",
+    "nameNative": "連続爆弾魔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35322.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "Ridley Sheldon",
+    "nameNative": "リドリー・シェルダン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42297.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chikao-ootsuka"
+    ]
+  },
+  {
+    "name": "Risa Kageyama",
+    "nameNative": "影山リサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42302.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wakana-yamazaki"
+    ]
+  },
+  {
+    "name": "Ryuichi Fuha",
+    "nameNative": "不破龍一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40650.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-horikawa"
+    ]
+  },
+  {
+    "name": "Shadi",
+    "nameNative": "シャーディー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5995.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaneto-shiozawa"
+    ]
+  },
+  {
+    "name": "Shizuka Kawai",
+    "nameNative": "川井静香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5989-KmzTsy89XEvf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "michiko-neya"
+    ]
+  },
+  {
+    "name": "Sugoroku Mutou",
+    "nameNative": "武藤双六",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16202.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-aono"
+    ]
+  },
+  {
+    "name": "Tetsu Ushio",
+    "nameNative": "牛尾哲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10815.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuzaburou-ootomo"
+    ]
+  },
+  {
+    "name": "Tetsuo Sasaki",
+    "nameNative": "ササキテツオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Warashibe",
+    "nameNative": "童部",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42300.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Yami Bakura",
+    "nameNative": "闇の獏良",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1489-dsJraGhhWx4y.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsutomu-kashiwakura"
+    ]
+  },
+  {
+    "name": "Yoshimori",
+    "nameNative": "吉森",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42294.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-nojima"
+    ]
+  }
+]
