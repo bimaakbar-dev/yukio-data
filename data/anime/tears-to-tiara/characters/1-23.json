@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Arawn",
+    "nameNative": "アロウン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14122-2Gx02RIQKHYe.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tooru-ookawa"
+    ]
+  },
+  {
+    "name": "Arthur",
+    "nameNative": "アルサル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14402.jpg",
+    "role": "main",
+    "voiceActors": [
+      "makoto-ishii"
+    ]
+  },
+  {
+    "name": "Morgan",
+    "nameNative": "モルガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14403.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Octavia",
+    "nameNative": "オクタヴィア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14404.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rie-tanaka"
+    ]
+  },
+  {
+    "name": "Rathty",
+    "nameNative": "ラスティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14408.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  },
+  {
+    "name": "Riannon",
+    "nameNative": "リアンノン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14401.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuko-gotou"
+    ]
+  },
+  {
+    "name": "Taliesin",
+    "nameNative": "タリエシン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14406.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomohiro-tsuboi"
+    ]
+  },
+  {
+    "name": "Bublux",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/53981.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masayuki-katou"
+    ]
+  },
+  {
+    "name": "Creon",
+    "nameNative": "クレオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/47087.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouto-kashii"
+    ]
+  },
+  {
+    "name": "Dekimus",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48047.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Drwc",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21487.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-kusumi"
+    ]
+  },
+  {
+    "name": "Edith",
+    "nameNative": "エティス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/47089.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shunzou-miyasaka"
+    ]
+  },
+  {
+    "name": "Epona",
+    "nameNative": "エポナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14411.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyomi-asai"
+    ]
+  },
+  {
+    "name": "Ermin",
+    "nameNative": "エルミン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14410.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-shimizu"
+    ]
+  },
+  {
+    "name": "Gaius",
+    "nameNative": "ガイウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14412.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-hamada"
+    ]
+  },
+  {
+    "name": "Lector",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21492.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Lidia",
+    "nameNative": "リディア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14413.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Limwris",
+    "nameNative": "リムリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14409.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Llyr",
+    "nameNative": "スィール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14407.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nazuka"
+    ]
+  },
+  {
+    "name": "Myrddin",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21488.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-ogata"
+    ]
+  },
+  {
+    "name": "Ogam",
+    "nameNative": "オガム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14405.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yousuke-akimoto"
+    ]
+  },
+  {
+    "name": "Primula",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21491.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-gotou"
+    ]
+  },
+  {
+    "name": "Pwyll",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21490.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-ishii"
+    ]
+  }
+]
