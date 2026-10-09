@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Kakashi Hatake",
+    "nameNative": "はたけカカシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png",
+    "role": "main",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Naruto Uzumaki",
+    "nameNative": "うずまきナルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png",
+    "role": "main",
+    "voiceActors": [
+      "junko-takeuchi"
+    ]
+  },
+  {
+    "name": "Sakura Haruno",
+    "nameNative": "春野サクラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png",
+    "role": "main",
+    "voiceActors": [
+      "chie-nakamura"
+    ]
+  },
+  {
+    "name": "Sasuke Uchiha",
+    "nameNative": "うちはサスケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13-SISLEw1oAD7a.png",
+    "role": "main",
+    "voiceActors": [
+      "noriaki-sugiyama"
+    ]
+  },
+  {
+    "name": "Shibuki",
+    "nameNative": "飛沫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46605.jpg",
+    "role": "main",
+    "voiceActors": [
+      "isshin-chiba"
+    ]
+  },
+  {
+    "name": "Suien",
+    "nameNative": "水煙",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25339.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoya-uchida"
+    ]
+  }
+]
