@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Hermes",
+    "nameNative": "エルメス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n88-yhTNhq67e5U2.png",
+    "role": "main",
+    "voiceActors": [
+      "ryuuji-aigase"
+    ]
+  },
+  {
+    "name": "Kino",
+    "nameNative": "キノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87-1sKGYKWY8EHQ.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ai-maeda"
+    ]
+  },
+  {
+    "name": "Josei",
+    "nameNative": "女性",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213509-AMIktXF4hDd2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri"
+    ]
+  },
+  {
+    "name": "Shishou",
+    "nameNative": "師匠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b57697-Lba15gfx2EqC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-midori"
+    ]
+  }
+]
