@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Mary Smith",
+    "nameNative": "メアリ・スミス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172922-i6buRm6twYaH.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hana-sugisaki"
+    ]
+  },
+  {
+    "name": "Peter",
+    "nameNative": "ピーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172923-eKNaOq9ByJnK.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ryuunosuke-kamiki"
+    ]
+  },
+  {
+    "name": "Akage no Majo",
+    "nameNative": "赤毛の魔女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230483-lbQWKjDRPk5Y.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hikari-mitsushima"
+    ]
+  },
+  {
+    "name": "Banks",
+    "nameNative": "バンクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230481-9uctdRpR62xt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-watanabe"
+    ]
+  },
+  {
+    "name": "Charlotte",
+    "nameNative": "シャーロット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230487-86DoXT3Y0yfj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinobu-ootake"
+    ]
+  },
+  {
+    "name": "Doctor Dee",
+    "nameNative": "ドクター・デイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230485-xfy1PWQtUH5Q.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiyo-kohinata"
+    ]
+  },
+  {
+    "name": "Flanagan",
+    "nameNative": "フラナガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230484-pdL6DxV7nAu0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jirou-satou"
+    ]
+  },
+  {
+    "name": "Gib",
+    "nameNative": "ギブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321013-nxz125rM5SqH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "lynn"
+    ]
+  },
+  {
+    "name": "Madame Mumblechook",
+    "nameNative": "マダム・マンブルチューク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230482-cxTw9CQZi2dt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-amami"
+    ]
+  },
+  {
+    "name": "Tib",
+    "nameNative": "ティブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326436-SCbX3khBx4Bi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Zebedee",
+    "nameNative": "ゼベディ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230486-obtdrp2gfk6g.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-endou"
+    ]
+  }
+]
