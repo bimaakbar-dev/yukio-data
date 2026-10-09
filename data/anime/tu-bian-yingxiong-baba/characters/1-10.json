@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Dashu",
+    "nameNative": "大叔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b242237-ZugHZ120kJVq.png",
+    "role": "main",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Xiaomin",
+    "nameNative": "小敏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122249-8eFLDLjTSbcn.png",
+    "role": "main",
+    "voiceActors": [
+      "moa-tsukino"
+    ]
+  },
+  {
+    "name": "Da Wangzi",
+    "nameNative": "大王子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b242241-T4WHpBiraTzu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue",
+      "kaoru-sasajima"
+    ]
+  },
+  {
+    "name": "Dawang",
+    "nameNative": "大王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b242242-caNgmP0bRMWu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouzou-iizuka"
+    ]
+  },
+  {
+    "name": "San Wangzi",
+    "nameNative": "三王子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b242240-oBoqpHT8htMC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "genki-okawa"
+    ]
+  },
+  {
+    "name": "Shuju Xingren",
+    "nameNative": "数据星人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b242243-wd9KqfISREMa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-nishida"
+    ]
+  },
+  {
+    "name": "Shujuren",
+    "nameNative": "宇宙人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-maeda"
+    ]
+  },
+  {
+    "name": "Wangzi",
+    "nameNative": "王子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b242239-PepuZ52znJbX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Xiaoxue Sheng",
+    "nameNative": "小学生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Yamada Xiansheng",
+    "nameNative": "山田先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b242238-6DuSk193ygRM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-aoyama"
+    ]
+  }
+]
