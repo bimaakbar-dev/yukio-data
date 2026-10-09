@@ -18,24 +18,6 @@
     ]
   },
   {
-    "name": "Jeanne",
-    "nameNative": "ジャンヌ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318829-ULdpPPz5QkIx.png",
-    "role": "supporting",
-    "voiceActors": [
-      "sayumi-suzushiro"
-    ]
-  },
-  {
-    "name": "Nadeshiko Masurao",
-    "nameNative": "益荒男撫子",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321161-JWbw4ElYlknu.png",
-    "role": "supporting",
-    "voiceActors": [
-      "ayaka-nanase"
-    ]
-  },
-  {
     "name": "Ami",
     "nameNative": "アミ",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282074-4sFD9JSpnhgD.png",
@@ -54,33 +36,6 @@
     ]
   },
   {
-    "name": "Lilim Zebul",
-    "nameNative": "リリム・ゼブル",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318830-vLL5dAm6AgIO.png",
-    "role": "supporting",
-    "voiceActors": [
-      "yoshino-nanjou"
-    ]
-  },
-  {
-    "name": "Milch Zebul",
-    "nameNative": "ミルチ・ゼブル",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318832-IZlH1KoF4i66.png",
-    "role": "supporting",
-    "voiceActors": [
-      "fuuka-izumi"
-    ]
-  },
-  {
-    "name": "Miel Zebul",
-    "nameNative": "ミエル・ゼブル",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318831-LPGyve4F0Aih.png",
-    "role": "supporting",
-    "voiceActors": [
-      "hikaru-toono"
-    ]
-  },
-  {
     "name": "Berika Daifugoin",
     "nameNative": "大富豪院裵理華",
     "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321159-ARBEW4w3Vccd.png",
@@ -90,12 +45,30 @@
     ]
   },
   {
-    "name": "Zebul-ka Maid-Chou",
-    "nameNative": "ゼブル家メイド長",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321162-jGNcquX3Mlwv.jpg",
+    "name": "Dagon",
+    "nameNative": "ダゴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399870-MKz7reCt6nKU.png",
     "role": "supporting",
     "voiceActors": [
-      "shiho-kokido"
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Dou",
+    "nameNative": "ドゥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rin-fujishiro"
+    ]
+  },
+  {
+    "name": "Jeanne",
+    "nameNative": "ジャンヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318829-ULdpPPz5QkIx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayumi-suzushiro"
     ]
   },
   {
@@ -108,12 +81,93 @@
     ]
   },
   {
-    "name": "Dagon",
-    "nameNative": "ダゴン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399870-MKz7reCt6nKU.png",
+    "name": "Lilim Zebul",
+    "nameNative": "リリム・ゼブル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318830-vLL5dAm6AgIO.png",
     "role": "supporting",
     "voiceActors": [
-      "tomokazu-sugita"
+      "yoshino-nanjou"
+    ]
+  },
+  {
+    "name": "Mee",
+    "nameNative": "メェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misano-sakai"
+    ]
+  },
+  {
+    "name": "Miel Zebul",
+    "nameNative": "ミエル・ゼブル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318831-LPGyve4F0Aih.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-toono"
+    ]
+  },
+  {
+    "name": "Milch Zebul",
+    "nameNative": "ミルチ・ゼブル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318832-IZlH1KoF4i66.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fuuka-izumi"
+    ]
+  },
+  {
+    "name": "Nadeshiko Masurao",
+    "nameNative": "益荒男撫子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321161-JWbw4ElYlknu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-nanase"
+    ]
+  },
+  {
+    "name": "Ryouko Reizen",
+    "nameNative": "冷然涼子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b396105-KCuc6Ogun1dy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Shoutarou Takakiyo",
+    "nameNative": "高潔初太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b396108-ABO5E6fsk0WZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "konomi-kohara"
+    ]
+  },
+  {
+    "name": "Takakiyo Mama",
+    "nameNative": "高潔ママ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b396107-IzcLyof6RDYy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-minaguchi"
+    ]
+  },
+  {
+    "name": "Takakiyo Papa",
+    "nameNative": "高潔パパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b396106-yIjekcKbADgq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Wii",
+    "nameNative": "ウィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misuzu-yamada"
     ]
   },
   {
@@ -135,66 +189,12 @@
     ]
   },
   {
-    "name": "Ryouko Reizen",
-    "nameNative": "冷然涼子",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b396105-KCuc6Ogun1dy.png",
+    "name": "Zebul-ka Maid-Chou",
+    "nameNative": "ゼブル家メイド長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321162-jGNcquX3Mlwv.jpg",
     "role": "supporting",
     "voiceActors": [
-      "yuu-kobayashi"
-    ]
-  },
-  {
-    "name": "Takakiyo Papa",
-    "nameNative": "高潔パパ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b396106-yIjekcKbADgq.png",
-    "role": "supporting",
-    "voiceActors": [
-      "ryoutarou-okiayu"
-    ]
-  },
-  {
-    "name": "Takakiyo Mama",
-    "nameNative": "高潔ママ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b396107-IzcLyof6RDYy.png",
-    "role": "supporting",
-    "voiceActors": [
-      "yuuko-minaguchi"
-    ]
-  },
-  {
-    "name": "Shoutarou Takakiyo",
-    "nameNative": "高潔初太郎",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b396108-ABO5E6fsk0WZ.png",
-    "role": "supporting",
-    "voiceActors": [
-      "konomi-kohara"
-    ]
-  },
-  {
-    "name": "Mee",
-    "nameNative": "メェ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
-    "role": "supporting",
-    "voiceActors": [
-      "misano-sakai"
-    ]
-  },
-  {
-    "name": "Wii",
-    "nameNative": "ウィ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
-    "role": "supporting",
-    "voiceActors": [
-      "misuzu-yamada"
-    ]
-  },
-  {
-    "name": "Dou",
-    "nameNative": "ドゥ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
-    "role": "supporting",
-    "voiceActors": [
-      "rin-fujishiro"
+      "shiho-kokido"
     ]
   }
 ]
