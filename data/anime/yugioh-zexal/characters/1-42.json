@@ -1,0 +1,384 @@
+[
+  {
+    "name": "Astral",
+    "nameNative": "アストラル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39184.jpg",
+    "role": "main",
+    "voiceActors": [
+      "miyu-irino"
+    ]
+  },
+  {
+    "name": "Kotori Mizuki",
+    "nameNative": "観月小鳥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39181.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "Yuma Tsukumo",
+    "nameNative": "九十九 遊馬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b39180-TJNqkB3x3ZaQ.png",
+    "role": "main",
+    "voiceActors": [
+      "mika-itou",
+      "tasuku-hatanaka"
+    ]
+  },
+  {
+    "name": "Akari Tsukumo",
+    "nameNative": "九十九明里",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40607.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nami-miyahara"
+    ]
+  },
+  {
+    "name": "Anna Kozuki",
+    "nameNative": "神月アンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51743-pHYQw2QdqNCu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rei-mochizuki"
+    ]
+  },
+  {
+    "name": "Cathy",
+    "nameNative": "キャッシー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43372.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Charlie McCoy",
+    "nameNative": "チャーリー・マッコイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54973.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-hirakawa"
+    ]
+  },
+  {
+    "name": "Coyote",
+    "nameNative": "コヨーテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/66317.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuaki-takumi"
+    ]
+  },
+  {
+    "name": "Dog-chan",
+    "nameNative": "ドッグちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/66143.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-morohoshi"
+    ]
+  },
+  {
+    "name": "Dr. Faker",
+    "nameNative": "Dr.フェイカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44044.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinji-ogawa"
+    ]
+  },
+  {
+    "name": "Droite",
+    "nameNative": "ドロワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52361.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nazuka",
+      "yumi-fukamizu"
+    ]
+  },
+  {
+    "name": "Fuya Okudaira",
+    "nameNative": "奥平風也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44012.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-iguchi"
+    ]
+  },
+  {
+    "name": "Gauche",
+    "nameNative": "ゴーシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52359.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gou-shinomiya",
+      "masahiro-yamanaka"
+    ]
+  },
+  {
+    "name": "Haru Tsukumo",
+    "nameNative": "九十九春",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40608.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikuko-tani"
+    ]
+  },
+  {
+    "name": "Haruto Tenjo",
+    "nameNative": "天城ハルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44045.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-sanpei"
+    ]
+  },
+  {
+    "name": "Housaku Yasai",
+    "nameNative": "矢最豊作",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54961.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "III",
+    "nameNative": "III（スリー）",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54977-BSE4leUVLhbi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kyousuke-ikeda"
+    ]
+  },
+  {
+    "name": "IV",
+    "nameNative": "ＩＶ （フォー）",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50285.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Jackal",
+    "nameNative": "ジャッカル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/66319.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuto-doujou"
+    ]
+  },
+  {
+    "name": "Jin",
+    "nameNative": "ジン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48419.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-narita"
+    ]
+  },
+  {
+    "name": "Kaio",
+    "nameNative": "海王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44049.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-fukuda"
+    ]
+  },
+  {
+    "name": "Kaito Tenjou",
+    "nameNative": "天城カイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43687-c1BsixXlVqkI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Kakeru Kunitachi",
+    "nameNative": "国立カケル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52363.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Kazuma Tsukumo",
+    "nameNative": "九十九一馬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48417.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ichirou-mikami"
+    ]
+  },
+  {
+    "name": "Mirai Tsukumo",
+    "nameNative": "九十九未来",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48415.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-miyajima"
+    ]
+  },
+  {
+    "name": "Mother Okudaira",
+    "nameNative": "奥平母親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44013.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-yamagata"
+    ]
+  },
+  {
+    "name": "Mr. Heartland",
+    "nameNative": "Mr.ハートランド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43965.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "juurouta-kosugi"
+    ]
+  },
+  {
+    "name": "No. 96",
+    "nameNative": "№96 ブラックミスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/82789.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-irino"
+    ]
+  },
+  {
+    "name": "Orbital 7",
+    "nameNative": "オービタル7",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50297.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "Rikuo",
+    "nameNative": "陸王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44047.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kirii"
+    ]
+  },
+  {
+    "name": "Rokujuro",
+    "nameNative": "六十朗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/45113.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "souichirou-akaboshi"
+    ]
+  },
+  {
+    "name": "Ryoga Kamishiro",
+    "nameNative": "神代凌牙",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39182.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiki-masuda"
+    ]
+  },
+  {
+    "name": "Shobee Yuatsu",
+    "nameNative": "油圧ショーベェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54959.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "motoko-kumai"
+    ]
+  },
+  {
+    "name": "Shuuta Hayami",
+    "nameNative": "速見 秀太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/55041.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-eguchi"
+    ]
+  },
+  {
+    "name": "Takashi Todoroki",
+    "nameNative": "等々力孝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43990.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taishi-murata"
+    ]
+  },
+  {
+    "name": "Tetsuo Takada",
+    "nameNative": "武田 鉄男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39183.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-shimada"
+    ]
+  },
+  {
+    "name": "Tokunosuke Omoteura",
+    "nameNative": "表裏徳之助",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42936-KZNqndYta7my.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-kanada"
+    ]
+  },
+  {
+    "name": "Tron",
+    "nameNative": "トロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52365.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sachi-kokuryuu",
+      "yasuhiko-nemoto"
+    ]
+  },
+  {
+    "name": "Ukyo Kitano",
+    "nameNative": "北野右京",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43988.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "V",
+    "nameNative": "Ｖ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54975.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouma-yamamoto"
+    ]
+  },
+  {
+    "name": "Wolf",
+    "nameNative": "ウルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/66315.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "anri-katsu"
+    ]
+  },
+  {
+    "name": "Yamikawa",
+    "nameNative": "闇川",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/45111.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouma-yamamoto"
+    ]
+  }
+]
