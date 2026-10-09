@@ -2,6 +2,11 @@
   {
     "relation": "prequel",
     "slug": "seitokai-yakuindomo",
-    "title": "Seitokai Yakuindomo"
+    "title": "Seitokai Yakuindomo*"
+  },
+  {
+    "relation": "parent_story",
+    "slug": "seitokai-yakuindomo-movie",
+    "title": "Seitokai Yakuindomo Movie"
   }
 ]

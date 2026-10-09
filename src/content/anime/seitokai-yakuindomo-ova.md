@@ -1,8 +1,9 @@
 ---
-title: Seitokai Yakuindomo OVA
-titleNative: 生徒会役員共 OVA
+title: Seitokai Yakuindomo＊ OVA
+titleEnglish: Seitokai Yakuindomo Season 2 OVA
+titleNative: 生徒会役員共＊ OVA
 
-malId: 10119
+malId: 26123
 kitsuId: "6046"
 
 type: OVA
@@ -10,16 +11,16 @@ status: finished
 source: manga
 
 season: spring
-year: 2011
-episodes: 8
+year: 2014
+episodes: 10
 duration: 25
 
 aired:
-  from: "2011-04-15"
-  to: "2013-10-17"
+  from: "2014-05-16"
+  to: "2020-09-17"
 
 stats:
-  score: 7.5
+  score: 7.6
 
 genres:
   - comedy
@@ -28,12 +29,9 @@ genres:
 studios:
   - gohands
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10119.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n10119-eGAC7HFYEJ1V.jpg"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20826.jpg"
 
 draft: false
 ---
 
-It is the start of Takatoshi Tsuda's second year as the put-upon vice president of the student council and his sister Kotomi is entering school as a first year. New friends and double entendres are made.
-
-(Source: Anime News Network)
+OVAs of Seitokai Yakuindomo* which were either bundled with the limited editions of the manga volumes or as standalone OVAs.
