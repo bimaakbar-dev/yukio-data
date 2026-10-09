@@ -1,26 +1,26 @@
 ---
-title: Dog Days
-titleEnglish: Dog Days
-titleNative: ドッグデイズ
+title: "Dog Days'"
+titleEnglish: Dog Days Season 2
+titleNative: "ドッグデイズ'"
 
-malId: 10155
+malId: 11783
 kitsuId: "6057"
 
 type: TV
 status: finished
 source: original
 
-season: spring
-year: 2011
+season: summer
+year: 2012
 episodes: 13
-duration: 24
+duration: 23
 
 aired:
-  from: "2011-04-02"
-  to: "2011-06-25"
+  from: "2012-07-07"
+  to: "2012-09-29"
 
 stats:
-  score: 6.4
+  score: 6.7
 
 genres:
   - action
@@ -30,12 +30,14 @@ genres:
 studios:
   - seven-arcs
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10155-e5d9PukNkE8D.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10155-E433GYveGz8I.jpg"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11783-R9MxLofk3OH4.png"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11783-z57cDQbDYb9h.jpg"
 
 draft: false
 ---
 
-Dog Days takes place in the world of Flonyard, an alternate Earth inhabited by beings who resemble humans, but also have the ears and tails of specific animals. The Republic of Biscotti, a union of dog-like citizens, has come under attack by the feline forces of the Galette Leo Knights. In an effort to save Biscotti, Princess Millhiore summons a champion from another world in order to defend her people. That champion is Cinque Izumi, a normal junior high student from Earth.
+Cinque returns to the land of Flonyard in Dog Days' to resume his duties as the hero of the Biscotti Republic and it's as though he never left!
 
-Agreeing to assist Biscotti, Cinque retrieves a sacred weapon called the Palladion and prepares for war. In Flonyard, wars are fought with no casualties and are more akin to sports competitions with the goal of raising money for the participating kingdoms. Cinque is successful in his role as Biscotti’s champion, but learns that a summoned champion cannot be returned to their home world. The scientists of Biscotti will endeavor to find a way for Cinque to return home, but until they figure something out, he must serve Princess Millhiore by continuing to fight as Biscotti’s hero.
+The difference this time is that he's brought two friends with him who become heroes in their own right: childhood best friend Rebecca Anderson, who becomes the hero for the Principality of Pastillage at the urging of their leader Princess Couvert Eschenbach Pastillage, and his cousin Nanami Takatsuki, who becomes the hero for the Galette Lion Dominion.
+
+As with the first season though, with so many secrets to be uncovered and mysteries to be solved, will there even be time for the athletic events that these three hyper and athletic teenagers love to participate in so much?
