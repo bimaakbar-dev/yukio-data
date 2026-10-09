@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Lilith",
+    "nameNative": "リリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181690-7AQI8NNbKhls.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Yuuri",
+    "nameNative": "悠利",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183715-2prwT5WUmEbr.png",
+    "role": "main",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Fujisaki",
+    "nameNative": "藤崎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278690-frVD2Zaf4oTC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "Natsume Nakashima",
+    "nameNative": "中島ナツメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278692-Bg68BW8WWqun.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-tomita"
+    ]
+  },
+  {
+    "name": "Tsukasa Gojouin",
+    "nameNative": "五条院つかさ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278691-OuYOhAu6WpNY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  }
+]
