@@ -1,0 +1,37 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "kidou-senshi-gundam",
+    "title": "Kidou Senshi Gundam"
+  },
+  {
+    "relation": "other",
+    "slug": "mokei-senshi-gunpla-builders-beginning-g",
+    "title": "Mokei Senshi Gunpla Builders Beginning G"
+  },
+  {
+    "relation": "side_story",
+    "slug": "gundam-build-fighters-specials",
+    "title": "Gundam Build Fighters Specials"
+  },
+  {
+    "relation": "side_story",
+    "slug": "gundam-build-fighters-battlogue",
+    "title": "Gundam Build Fighters: Battlogue"
+  },
+  {
+    "relation": "sequel",
+    "slug": "gundam-build-fighters-gm-no-gyakushuu",
+    "title": "Gundam Build Fighters: GM no Gyakushuu"
+  },
+  {
+    "relation": "alternative",
+    "slug": "gundam-build-divers",
+    "title": "Gundam Build Divers"
+  },
+  {
+    "relation": "other",
+    "slug": "gundam-build-metaverse",
+    "title": "Gundam Build Metaverse"
+  }
+]
