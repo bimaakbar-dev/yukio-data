@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Chiharu",
+    "nameNative": "千春",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154514-AaH6S1RY9TfB.jpg",
+    "role": "main",
+    "voiceActors": [
+      "asami-seto"
+    ]
+  },
+  {
+    "name": "Eita",
+    "nameNative": "瑛汰",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154515-cuXsHKkAJx2c.jpg",
+    "role": "main",
+    "voiceActors": [
+      "miyu-irino"
+    ]
+  },
+  {
+    "name": "Natsumi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b339093-mYFpLKANneSC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kokone-someya"
+    ]
+  }
+]
