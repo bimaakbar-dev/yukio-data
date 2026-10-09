@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Hossal",
+    "nameNative": "ホッサル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176362-gnDsUh9UtHxc.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ryouma-takeuchi"
+    ]
+  },
+  {
+    "name": "Sae",
+    "nameNative": "サエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176364-EaA82nd29UBz.jpg",
+    "role": "main",
+    "voiceActors": [
+      "anne"
+    ]
+  },
+  {
+    "name": "Van",
+    "nameNative": "ヴァン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176365-3kRrGloR5bHC.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shinichi-tsutsumi"
+    ]
+  },
+  {
+    "name": "Yuna",
+    "nameNative": "ユナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176366-XYYXy0izmyT8.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hisui-kimura"
+    ]
+  },
+  {
+    "name": "Kenoi",
+    "nameNative": "ケノイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176367-wcTMRYldLklF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomomichi-nishimura"
+    ]
+  },
+  {
+    "name": "Makoukan",
+    "nameNative": "マコウカン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176363-jvKDiPGbrxH0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-sakurai"
+    ]
+  },
+  {
+    "name": "Orphan",
+    "nameNative": "オーファン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinshuu-fuji"
+    ]
+  },
+  {
+    "name": "Pyuika",
+    "nameNative": "ピュイカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176369-p6ePUvDQ9EyM.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Rimuell",
+    "nameNative": "リムエッル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Suoll",
+    "nameNative": "スオッル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Toma",
+    "nameNative": "トマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chado-horii"
+    ]
+  },
+  {
+    "name": "Yamainu",
+    "nameNative": "山犬（オッサム）",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176373-QZUqJGOXhD8z.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  }
+]
