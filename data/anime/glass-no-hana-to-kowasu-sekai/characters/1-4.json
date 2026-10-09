@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Dorothy",
+    "nameNative": "ドロシー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89017-U6AtJrmOuKfy.png",
+    "role": "main",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Dual",
+    "nameNative": "デュアル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89015-SoCqnZSchucr.png",
+    "role": "main",
+    "voiceActors": [
+      "risa-taneda"
+    ]
+  },
+  {
+    "name": "Remo",
+    "nameNative": "リモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89016-ON9agLbPxrYK.png",
+    "role": "main",
+    "voiceActors": [
+      "yumiri-hanamori"
+    ]
+  },
+  {
+    "name": "Sumire",
+    "nameNative": "スミレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172240-HYoeOYisLIVl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  }
+]
