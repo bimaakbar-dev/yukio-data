@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Mary Saotome",
+    "nameNative": "早乙女芽亜里",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122687-jl1wk9rjO57e.png",
+    "role": "main",
+    "voiceActors": [
+      "minami-tanaka"
+    ]
+  },
+  {
+    "name": "Tsuzura Hanatemari",
+    "nameNative": "花手毬 つづら",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269621-lDsWwMWU5xF1.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rina-honizumi"
+    ]
+  },
+  {
+    "name": "Yukimi Togakushi",
+    "nameNative": "戸隠雪見",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136612-GM8wldmyp03a.png",
+    "role": "main",
+    "voiceActors": [
+      "you-taichi"
+    ]
+  },
+  {
+    "name": "Aoi Mibuomi",
+    "nameNative": "壬生臣葵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136604-cGOrzd9erquz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seiichirou-yamashita"
+    ]
+  },
+  {
+    "name": "Chitose Inui",
+    "nameNative": "乾千歳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284425-EZOv7x1Xihhh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-makino"
+    ]
+  },
+  {
+    "name": "Haruto Kibashira",
+    "nameNative": "鬼柱陽斗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284428-Anjftg0d4eCN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiharu-sawashiro"
+    ]
+  },
+  {
+    "name": "Kanade Musubi",
+    "nameNative": "結奏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284427-iJFW4MZeX5IB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Kokoro Aiura",
+    "nameNative": "愛浦心",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284424-gJZzBrdpYgYp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fairouz-ai"
+    ]
+  },
+  {
+    "name": "Kurumi Kurume",
+    "nameNative": "久留米くるみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284426-YOew29tRoYfB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-senbongi"
+    ]
+  },
+  {
+    "name": "Mamoru Kuonji",
+    "nameNative": "九恩字護",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284431-26Fere0pzC5b.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuya-hirose"
+    ]
+  },
+  {
+    "name": "Midari Ikishima",
+    "nameNative": "生志摩妄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Mikura Sado",
+    "nameNative": "佐渡みくら",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198341-zpKnCaypW3oA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-koga"
+    ]
+  },
+  {
+    "name": "Nobuya Sera",
+    "nameNative": "世良信也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284430-CfuCtliMX3G1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-nagatsuka"
+    ]
+  },
+  {
+    "name": "Ren Kochi",
+    "nameNative": "越智廉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284429-5eb9J8ddGTXA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-miyazaki"
+    ]
+  },
+  {
+    "name": "Sachiko  Juraku",
+    "nameNative": "聚楽幸子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136618-s502xe0mUNNJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Sakura Miharutaki",
+    "nameNative": "三春滝 咲良",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269620-COMcbAinJBPz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Sayaka Igarashi",
+    "nameNative": "五十嵐清華",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122690-BgoAty3EQ2GW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-fukuhara"
+    ]
+  }
+]
