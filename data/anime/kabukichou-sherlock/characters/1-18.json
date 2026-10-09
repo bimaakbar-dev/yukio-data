@@ -1,0 +1,162 @@
+[
+  {
+    "name": "John H. Watson",
+    "nameNative": "ジョン・H・ワトソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137428-RyYATbWGdNhK.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Sherlock Holmes",
+    "nameNative": "シャーロック・ホームズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137437-SRBdsk0b8ELp.png",
+    "role": "main",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Dylan",
+    "nameNative": "ディラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156959-yjxh9YTnuDDG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reo-tatsumori"
+    ]
+  },
+  {
+    "name": "Fuyuto Kyougoku",
+    "nameNative": "京極冬人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137430-fOIMbRxjeV59.png",
+    "role": "supporting",
+    "voiceActors": [
+      "souma-saitou"
+    ]
+  },
+  {
+    "name": "Hudson Fujin",
+    "nameNative": "ハドソン夫人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137433-NDLtCmK8Lakn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Irene Adler",
+    "nameNative": "アイリーン・アドラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156957-slCCeixcoapg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "James Moriarty",
+    "nameNative": "ジェームズ・モリアーティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137432-duxxUJlQ7iQX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seiichirou-yamashita"
+    ]
+  },
+  {
+    "name": "Lucy Morstan",
+    "nameNative": "ルーシー・モーンスタン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137427-sCnpfqFEexDX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariko-higashiuchi"
+    ]
+  },
+  {
+    "name": "Maki Hokari",
+    "nameNative": "穂刈マキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156966-2L2eHhwYZ4L5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Mary Morstan",
+    "nameNative": "メアリ・モーンスタン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137435-9uwY45dHGJr4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Masaya☆mi",
+    "nameNative": "雅也☆彡",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156958-gOzMdnDAabOs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "subaru-kimura"
+    ]
+  },
+  {
+    "name": "Michel Belmont",
+    "nameNative": "ミッシェル・ベルモント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137431-INiJ2KUZHPE0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-aoyama"
+    ]
+  },
+  {
+    "name": "Mycroft Holmes",
+    "nameNative": "マイクロフト・ホームズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156967-vITeOoMIZJtG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Nobuo Kaneko",
+    "nameNative": "兼古信雄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156960-VinYqDZA9MRo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Pipe",
+    "nameNative": "パイプ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137438-fIpAy1z4sAYb.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Sebastian Moran",
+    "nameNative": "セバスチャン・モラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156963-FTNmYSxbeMBD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-kusumi"
+    ]
+  },
+  {
+    "name": "Tony Shigeru",
+    "nameNative": "トニー茂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156965-0nYrY21yho5f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hitoshi-bifu"
+    ]
+  },
+  {
+    "name": "Toratarou Kobayashi",
+    "nameNative": "小林寅太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137429-BDnykJxcMSZ8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsumaru-tachibana"
+    ]
+  }
+]
