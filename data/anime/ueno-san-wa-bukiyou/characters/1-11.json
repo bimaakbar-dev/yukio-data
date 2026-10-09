@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Tanaka",
+    "nameNative": "田中",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129740-G2vkEvdGbTIM.png",
+    "role": "main",
+    "voiceActors": [
+      "aimi-tanaka"
+    ]
+  },
+  {
+    "name": "Ueno",
+    "nameNative": "上野",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129741-c9aoaYJW36AR.png",
+    "role": "main",
+    "voiceActors": [
+      "yuu-serizawa"
+    ]
+  },
+  {
+    "name": "Yamashita",
+    "nameNative": "山下",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129742-spkixKf7DeAI.png",
+    "role": "main",
+    "voiceActors": [
+      "akari-kageyama"
+    ]
+  },
+  {
+    "name": "Kitanaga",
+    "nameNative": "北長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131858-ZdFHnz95jL4Q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Minamine",
+    "nameNative": "南峰",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131855-zHZw7wM1qLwu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayana-taketatsu"
+    ]
+  },
+  {
+    "name": "Mizuna Tanaka",
+    "nameNative": "田中みずな",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129828-XxwjBzPppNyS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nichika-oomori"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Nishihara",
+    "nameNative": "西原",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131857-Md2jCGwbLK3t.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Tamon",
+    "nameNative": "タモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129827-7bn1pCCnOPrC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shiori-izawa"
+    ]
+  },
+  {
+    "name": "Unogawa",
+    "nameNative": "東川",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131856-y2Ly8mocqECv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Yomogi Tanaka",
+    "nameNative": "田中よもぎ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129826-OyQ0T1lfDpoi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miku-itou"
+    ]
+  }
+]
