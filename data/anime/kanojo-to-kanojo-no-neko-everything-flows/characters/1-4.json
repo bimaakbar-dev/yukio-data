@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Daru",
+    "nameNative": "ダル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89635-9z1q2nZeSBxC.png",
+    "role": "main",
+    "voiceActors": [
+      "shintarou-asanuma"
+    ]
+  },
+  {
+    "name": "Miyu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89634-LwDyJ4HFknJq.png",
+    "role": "main",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Hahaoya",
+    "nameNative": "母親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175553-ETOlhLT4um3n.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-hiramatsu"
+    ]
+  },
+  {
+    "name": "Tomoka",
+    "nameNative": "知歌",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175554-zVWpfuliB0vC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yahagi"
+    ]
+  }
+]
