@@ -1,12 +1,12 @@
 [
   {
-    "relation": "sequel",
+    "relation": "prequel",
     "slug": "working",
-    "title": "Working'!!"
+    "title": "Working!!"
   },
   {
-    "relation": "alternative",
-    "slug": "wwwworking",
-    "title": "WWW.Working!!"
+    "relation": "other",
+    "slug": "working-announcement-specials",
+    "title": "Working'!! Announcement Specials"
   }
 ]

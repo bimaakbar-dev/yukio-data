@@ -1,27 +1,27 @@
 ---
-title: "WORKING!!"
-titleEnglish: "Wagnaria!!"
-titleNative: "WORKING!!"
+title: "WORKING'!!"
+titleEnglish: "Wagnaria!!2"
+titleNative: "WORKING'!!"
 
-malId: 6956
+malId: 10521
 kitsuId: "395"
 
 type: TV
 status: finished
 source: manga
 
-season: spring
-year: 2010
+season: fall
+year: 2011
 episodes: 13
 duration: 24
 # rating: # edit manual
 
 aired:
-  from: "2010-04-04"
-  to: "2010-06-27"
+  from: "2011-10-01"
+  to: "2011-12-24"
 
 stats:
-  score: 7.4
+  score: 7.6
   # scoredBy: # edit manual
 
 genres:
@@ -31,13 +31,13 @@ genres:
 studios:
   - a-1-pictures
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6956-Nxs7H25yHLNS.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6956-V7ovHknjKRlc.jpg"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10521-dx9L5dLNJXun.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10521-DmsoEtDbMAc6.jpg"
 # trailer: # edit manual
 
 draft: false
 ---
 
-Set in a family restaurant in Hokkaido, the northern prefecture of Japan, 16-year-old high school student Souta Takanashi works part-time along with his strange co-workers: Popura Taneshima, a high school girl who's a year older than Souta, yet easily mistaken for an elementary/middle schooler, and Kyoko Shirafuji, the 28-year-old store manager who doesn't bother to do any work at all. 
+Life goes on at the Wagnaria family restaurant as its peculiar employees try to provide a good service despite their individual eccentricities.
 
-(Source: NIS America)
+(Source: Anime News Network)
