@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Buta",
+    "nameNative": "豚",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293769-iX5YGaCakl5g.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Jess",
+    "nameNative": "ジェス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293770-JrEr67v1mGL0.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomori-kusunoki"
+    ]
+  },
+  {
+    "name": "Brace",
+    "nameNative": "ブレース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313930-TYgN6q1hNfMP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Ceres",
+    "nameNative": "セレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313929-3vm53OO4kUfI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-tomita"
+    ]
+  },
+  {
+    "name": "Kuchisshi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320354-T81tTiXUF6fW.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Notto",
+    "nameNative": "ノット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313928-K4vdmBmPKdJB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kento-itou"
+    ]
+  }
+]
