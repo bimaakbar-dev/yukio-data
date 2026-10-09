@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Kanade Hisaishi",
+    "nameNative": "久石奏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133462-dY4Yc9qrhrm5.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sora-amamiya"
+    ]
+  },
+  {
+    "name": "Kumiko Oumae",
+    "nameNative": "黄前久美子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88708-ZiVPl8LjIjaK.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomoyo-kurosawa"
+    ]
+  },
+  {
+    "name": "Natsuki Nakagawa",
+    "nameNative": "中川夏紀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88923-YR8ykPfq5bMV.png",
+    "role": "main",
+    "voiceActors": [
+      "konomi-fujimura"
+    ]
+  },
+  {
+    "name": "Asuka Tanaka",
+    "nameNative": "田中あすか",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88915-t3WXoIoc6sAz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minako-kotobuki"
+    ]
+  },
+  {
+    "name": "Haruka Ogasawara",
+    "nameNative": "小笠原晴香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88921-BebUQkezSiaO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Hazuki Katou",
+    "nameNative": "加藤葉月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88707-zzEOe2FDSdlv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-asai"
+    ]
+  },
+  {
+    "name": "Mirei Suzuki",
+    "nameNative": "鈴木美玲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142964-dSfmftiPAK6j.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-nanase"
+    ]
+  },
+  {
+    "name": "Motomu Tsukinaga",
+    "nameNative": "月永求",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142966-NQVTb5nqMT67.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinba-tsuchiya"
+    ]
+  },
+  {
+    "name": "Noboru Taki",
+    "nameNative": "滝昇",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88918-a29L2V2BHvVD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Reina Kousaka",
+    "nameNative": "高坂麗奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88710-cFbSW1ga7Uax.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chika-anzai"
+    ]
+  },
+  {
+    "name": "Riko Nagase",
+    "nameNative": "長瀬梨子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88924-nnzZOLoPslcN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-kobori"
+    ]
+  },
+  {
+    "name": "Sapphire Kawashima",
+    "nameNative": "川島緑輝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88709-ZMWJDPePOmF8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "moe-toyota"
+    ]
+  },
+  {
+    "name": "Satsuki Suzuki",
+    "nameNative": "鈴木さつき",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142965-dVpRe9mNMREe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  },
+  {
+    "name": "Shuuichi Tsukamoto",
+    "nameNative": "塚本秀一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88917-knJmXRWZf0kG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruki-ishiya"
+    ]
+  },
+  {
+    "name": "Takuya Gotou",
+    "nameNative": "後藤卓也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88925-NTpzPwiGrezJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Tomoe Kabe",
+    "nameNative": "加部友恵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165569-8Sqi6vjBFUDX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "azusa-tadokoro"
+    ]
+  },
+  {
+    "name": "Yuuko Yoshikawa",
+    "nameNative": "吉川優子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88916-9qVFfyCOBnku.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuri-yamaoka"
+    ]
+  }
+]
