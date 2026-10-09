@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Kuriaki Magi",
+    "nameNative": "真木栗顕",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b350122-QB19gTIrsib0.png",
+    "role": "main",
+    "voiceActors": [
+      "genki-okawa",
+      "riri-yoshikawa"
+    ]
+  },
+  {
+    "name": "Momoyuki Mogura",
+    "nameNative": "百暗桃弓木",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b350114-H2jscv3NOLRj.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Yaeko Kirihara",
+    "nameNative": "桐原八重子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b350121-s17VCIILptMW.png",
+    "role": "main",
+    "voiceActors": [
+      "yukiyo-fujii"
+    ]
+  },
+  {
+    "name": "Hanada no Obaa-chan",
+    "nameNative": "花田のおばあちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375696-xgU6nJFYW9Yo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaya-ueda"
+    ]
+  },
+  {
+    "name": "Ikebukuro",
+    "nameNative": "イケブクロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375645-5m5Rn1f1HGh3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Kaname Mori",
+    "nameNative": "森奏芽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375698-0O9bAE5j7M7P.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junta-terashima"
+    ]
+  },
+  {
+    "name": "Koitarou Samejima",
+    "nameNative": "鮫島鯉太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375694-XnQdk58wAhKI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-yanaka"
+    ]
+  },
+  {
+    "name": "Kuroneko",
+    "nameNative": "黒猫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375656-FKIqDGP1dgs4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shun-horie"
+    ]
+  },
+  {
+    "name": "Kyouko Nekozuku",
+    "nameNative": "猫附杏子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b362121-HIoMzIOZ0qIB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsumi-tanezaki"
+    ]
+  },
+  {
+    "name": "Kyoushirou Nekozuku",
+    "nameNative": "猫附梗史郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b362120-M2LoRCMgARzP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Maggie",
+    "nameNative": "マギー君",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b366253-jOdznxXPbH8R.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-toyosaki"
+    ]
+  },
+  {
+    "name": "Maya",
+    "nameNative": "マヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375669-qDMHGIAMrrSC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aimi"
+    ]
+  },
+  {
+    "name": "Mayu Satou",
+    "nameNative": "佐藤真由",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375648-I4sWScVHU6f7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-akiyama"
+    ]
+  },
+  {
+    "name": "Miya",
+    "nameNative": "ミヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375668-U6QoftxZs7it.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-terasaki"
+    ]
+  },
+  {
+    "name": "Miya no Chichi",
+    "nameNative": "ミヤの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375671-a05wpBMKYgJC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasutaka-tomioka"
+    ]
+  },
+  {
+    "name": "Miya no Haha",
+    "nameNative": "ミヤの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375670-mASYOtPNW87f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-yamane"
+    ]
+  },
+  {
+    "name": "Miya no Oji",
+    "nameNative": "ミヤの叔父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375672-BnuxsLnk7FGD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-matsukawa"
+    ]
+  },
+  {
+    "name": "Miyama Kirihara",
+    "nameNative": "桐原雅馬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375690-RMO0VJqV6ktF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-yamazaki"
+    ]
+  },
+  {
+    "name": "Nabeshima",
+    "nameNative": "ナベシマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375644-gvuNkttimABt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "baron-yamazaki",
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Ningyo-sama",
+    "nameNative": "人魚様",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375697-FMDFUpESHVAY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyako-kobayashi"
+    ]
+  },
+  {
+    "name": "Oushiro Nekozuku",
+    "nameNative": "猫附桜史郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375655-NG1Ewjv4QNgw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shun-horie"
+    ]
+  },
+  {
+    "name": "Sachi Samejima",
+    "nameNative": "鮫島サチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375693-Al5MdiYf8hdt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kobayashi",
+      "manami-hanawa"
+    ]
+  },
+  {
+    "name": "Sakurako Konosaka",
+    "nameNative": "小野坂咲良子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375673-7b8Vgqzns7xM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-toyosaki"
+    ]
+  },
+  {
+    "name": "Sakurako no Chichi",
+    "nameNative": "咲良子の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375678-CzwXLrGKdj8k.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryousuke-tamura"
+    ]
+  },
+  {
+    "name": "Sakurako no Danna",
+    "nameNative": "咲良子の旦那",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375676-ouIO5wRXe44x.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taichi-takeda"
+    ]
+  },
+  {
+    "name": "Sakurako no Haha",
+    "nameNative": "咲良子の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375677-1E3C11OzMtl7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rena-maeda"
+    ]
+  },
+  {
+    "name": "Shio Inukai",
+    "nameNative": "犬飼詩魚",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358886-mNXMkaJqMLds.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akane-fujita"
+    ]
+  },
+  {
+    "name": "Sukekiyo",
+    "nameNative": "スケキヨ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b366254-Z9ZqIDsoDcwm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mafia-kajita"
+    ]
+  },
+  {
+    "name": "Toushirou Nekozuku",
+    "nameNative": "猫附藤史郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b362122-SUvOw3zuFjz3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Ukigumo",
+    "nameNative": "浮雲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375646-m7nqYOsDzrzE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "umeka-shouji"
+    ]
+  },
+  {
+    "name": "Umeharu Magi",
+    "nameNative": "真木梅晴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375664-ejee1oPgcGTE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-nagano",
+      "manami-hanawa"
+    ]
+  },
+  {
+    "name": "Yaeko no Chichioya",
+    "nameNative": "八重子の父親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375687-O4ViP2y5Tbrm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  },
+  {
+    "name": "Yaeko no Hahaoya",
+    "nameNative": "八重子の母親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375688-93VmJMJVyUHI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-shiono"
+    ]
+  },
+  {
+    "name": "Yoshida-san",
+    "nameNative": "吉田さん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375674-eKxgKTXjZBay.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyako-kobayashi"
+    ]
+  },
+  {
+    "name": "Yoshino Kirihara",
+    "nameNative": "桐原",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375692-ZX4x88zg8rSz.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Yuhachi Kirihara",
+    "nameNative": "桐原雄八",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375661-IBdp1dzBUKC7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiko-nagasaki",
+      "seiya-yamamoto",
+      "youji-ueda"
+    ]
+  },
+  {
+    "name": "Yui Samejima",
+    "nameNative": "鮫島鮋依",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375695-Xr9gTHSprZgG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-morohoshi"
+    ]
+  },
+  {
+    "name": "Yuuichi Fujimura",
+    "nameNative": "藤村優一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375647-hfXMmUR79qvq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "genta-nakamura"
+    ]
+  },
+  {
+    "name": "Yuutarou Kirihara",
+    "nameNative": "桐原雄太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisao-egawa"
+    ]
+  }
+]
