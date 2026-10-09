@@ -1,0 +1,12 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "pokemon",
+    "title": "Pokemon"
+  },
+  {
+    "relation": "prequel",
+    "slug": "pokemon-movie-01-mewtwo-no-gyakushuu",
+    "title": "Pokemon Movie 01: Mewtwo no Gyakushuu"
+  }
+]
