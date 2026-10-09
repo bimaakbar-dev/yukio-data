@@ -1,9 +1,9 @@
 ---
-title: "K-ON!: Ura-On!"
-titleEnglish: "K-ON! Season 1 Shorts"
-titleNative: "うらおん!"
+title: "K-ON!!: Ura-On!!"
+titleEnglish: "K-ON! Season 2 Shorts"
+titleNative: "うらおん!!"
 
-malId: 7017
+malId: 9203
 kitsuId: "4833"
 
 type: Special
@@ -11,16 +11,16 @@ status: finished
 source: original
 
 season: summer
-year: 2009
-episodes: 7
-duration: 2
+year: 2010
+episodes: 9
+duration: 3
 
 aired:
-  from: "2009-07-29"
-  to: "2010-01-20"
+  from: "2010-07-30"
+  to: "2011-03-16"
 
 stats:
-  score: 6.1
+  score: 6.2
 
 genres:
   - comedy
@@ -28,10 +28,10 @@ genres:
 studios:
   - kyoto-animation
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7017-RSDr6q8vwKf1.png"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7017-rNC7oQPr6K4r.jpg"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9203-Dvr3qxjibGHK.png"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9203-rJpTbIAN8DMj.jpg"
 
 draft: false
 ---
 
-The seven Blu-ray disc volumes of K-ON! have an extra short anime Ura-ON!.
+Extra short anime Ura-On!! included in the limited edition of the K-ON!! Blu-ray.
