@@ -1,0 +1,27 @@
+[
+  {
+    "relation": "prequel",
+    "slug": "hacksign",
+    "title": ".hack//Sign"
+  },
+  {
+    "relation": "side_story",
+    "slug": "hacktasogare-no-udewa-densetsu-offline-de-aimashou",
+    "title": ".hack//Tasogare no Udewa Densetsu: Offline de Aimashou"
+  },
+  {
+    "relation": "side_story",
+    "slug": "hackgift",
+    "title": ".hack//Gift"
+  },
+  {
+    "relation": "alternative",
+    "slug": "hackroots",
+    "title": ".hack//Roots"
+  },
+  {
+    "relation": "other",
+    "slug": "hackquantum",
+    "title": ".hack//Quantum"
+  }
+]
