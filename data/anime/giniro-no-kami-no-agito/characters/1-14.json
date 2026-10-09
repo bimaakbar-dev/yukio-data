@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Agito",
+    "nameNative": "アギト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10516.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ryou-katsuji"
+    ]
+  },
+  {
+    "name": "Shunack",
+    "nameNative": "シュナック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16312.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kenichi-endou"
+    ]
+  },
+  {
+    "name": "Toola",
+    "nameNative": "トゥーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10517.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aoi-miyazaki"
+    ]
+  },
+  {
+    "name": "Agashi",
+    "nameNative": "アガシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19838.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ren-osugi"
+    ]
+  },
+  {
+    "name": "Berui",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/83353.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kurumi-mamiya"
+    ]
+  },
+  {
+    "name": "Cain",
+    "nameNative": "カイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20079.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaru-hamaguchi"
+    ]
+  },
+  {
+    "name": "Cain's Mother",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Doctor Sakul",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/83359.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-tanaka"
+    ]
+  },
+  {
+    "name": "Hajan",
+    "nameNative": "ハジャン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19840.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshikazu-fukawa"
+    ]
+  },
+  {
+    "name": "Jessica",
+    "nameNative": "ジェシカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/83361.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-yuya"
+    ]
+  },
+  {
+    "name": "Minka",
+    "nameNative": "ミンカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20080.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "omi-minami"
+    ]
+  },
+  {
+    "name": "Old Man Nabe",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  },
+  {
+    "name": "Yolda",
+    "nameNative": "ヨルダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19839.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuko-kotegawa"
+    ]
+  },
+  {
+    "name": "Zerui",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/83355.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-kaneda"
+    ]
+  }
+]
