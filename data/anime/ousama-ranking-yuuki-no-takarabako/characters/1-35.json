@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Bojji",
+    "nameNative": "ボッジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b209532-s7ciwKqKrIw7.png",
+    "role": "main",
+    "voiceActors": [
+      "minami-hinata"
+    ]
+  },
+  {
+    "name": "Kage",
+    "nameNative": "カゲ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b209533-bICkAMcaURRi.png",
+    "role": "main",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Aban",
+    "nameNative": "アバン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305375-D1u79L6NbYyY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hinata-tadokoro"
+    ]
+  },
+  {
+    "name": "Ann",
+    "nameNative": "アン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304043-CRDMQVebeYZk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akari-higuchi"
+    ]
+  },
+  {
+    "name": "Apeas",
+    "nameNative": "アピス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231131-Rj1DjdCfzAoq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Bebin",
+    "nameNative": "ベビン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231133-3sWxcBsbchzH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youji-ueda"
+    ]
+  },
+  {
+    "name": "Bonn",
+    "nameNative": "ボーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305377-3cb3O9ntiMSs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  },
+  {
+    "name": "Bosse",
+    "nameNative": "ボッス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244198-vkPkU32k7PzJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Daida",
+    "nameNative": "ダイダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231128-QLOHN2XVZPrq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Desha",
+    "nameNative": "デスハー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244202-1Jy6ESjCyIBy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimitsu-shimoyama"
+    ]
+  },
+  {
+    "name": "Despa",
+    "nameNative": "デスパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244201-dEFFzr2e8ayu.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Dodon",
+    "nameNative": "ドドン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304045-6Qg0WjmlRjcM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masafumi-kimura"
+    ]
+  },
+  {
+    "name": "Domas",
+    "nameNative": "ドーマス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231130-tIxKAGU2TRqc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-eguchi"
+    ]
+  },
+  {
+    "name": "Dorshe",
+    "nameNative": "ドルーシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231132-i4LgVva9PoDz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hinata-tadokoro"
+    ]
+  },
+  {
+    "name": "Dou",
+    "nameNative": "ドウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304044-wavgXbiXpGU1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaaki-uchino"
+    ]
+  },
+  {
+    "name": "Fren",
+    "nameNative": "フレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304877-QLwyCN882Jab.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-okano"
+    ]
+  },
+  {
+    "name": "Hahaoya",
+    "nameNative": "母親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b302499-pQWNFh3B4ULf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "marie-ooi"
+    ]
+  },
+  {
+    "name": "Hakuou",
+    "nameNative": "白王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305372-6KCuCwrdl63e.png",
+    "role": "supporting",
+    "voiceActors": [
+      "risa-yoshinaga"
+    ]
+  },
+  {
+    "name": "Hiling",
+    "nameNative": "ヒリング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231129-zqBZvJ7LC6cp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Hokuro",
+    "nameNative": "ホクロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231134-GkJQzlJESfK0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-yamashita"
+    ]
+  },
+  {
+    "name": "Kage Haha",
+    "nameNative": "カゲ母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264680-lUymPu0fsCU6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Kyou",
+    "nameNative": "キョウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b307045-kyFScZvl4LRJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Mahou no Kagami",
+    "nameNative": "魔法の鏡",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244200-Whh5DkoAnwuK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Mitsumata",
+    "nameNative": "ミツマタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b271149-O88IJGQJmx2M.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomu-sasaki"
+    ]
+  },
+  {
+    "name": "Obaa-san",
+    "nameNative": "おばあさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b302494-BfrbEgGXiXJF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tamie-kubota"
+    ]
+  },
+  {
+    "name": "Ouken",
+    "nameNative": "オウケン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b260808-S66LecumJQjD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Renn",
+    "nameNative": "レーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305376-AlyqnHfUBmDt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-tone"
+    ]
+  },
+  {
+    "name": "Sandeo",
+    "nameNative": "サンデオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256464-BPk6aE9dm578.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-tone"
+    ]
+  },
+  {
+    "name": "Satun",
+    "nameNative": "サトゥン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304878-xgtharScgz1g.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jirou-saitou"
+    ]
+  },
+  {
+    "name": "Sheena",
+    "nameNative": "シーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244199-rtESJ9DuHxmJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takako-honda"
+    ]
+  },
+  {
+    "name": "Shinsain",
+    "nameNative": "審査員",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b307046-GM0dIlmAaiD7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taisuke-nakano"
+    ]
+  },
+  {
+    "name": "Shoujo",
+    "nameNative": "少女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b302496-gZPJYcqbNHzi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsukino-chikasada"
+    ]
+  },
+  {
+    "name": "Sorii",
+    "nameNative": "ソリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256465-SYxc1P8K7HsZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuguo-mogami"
+    ]
+  },
+  {
+    "name": "Taichou",
+    "nameNative": "隊長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b303031-iWkqHoUzGQ3t.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shoumaru-zouza"
+    ]
+  },
+  {
+    "name": "Yajuu",
+    "nameNative": "野獣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b302495-vpI5WZJTqeN4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seiyuu-fujiwara"
+    ]
+  }
+]
