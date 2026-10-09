@@ -1,28 +1,26 @@
 ---
-title: "Shinryaku! Ika Musume"
-titleEnglish: Squid Girl
-titleNative: "侵略!イカ娘"
+title: "Shinryaku!? Ika Musume"
+titleEnglish: Squid Girl 2
+titleNative: "侵略!?イカ娘"
 
-malId: 8557
+malId: 10378
 kitsuId: "6929"
 
 type: TV
 status: finished
 source: manga
 
-season: fall
-year: 2010
+season: summer
+year: 2011
 episodes: 12
 duration: 24
-# rating: # edit manual
 
 aired:
-  from: "2010-10-05"
-  to: "2010-12-21"
+  from: "2011-09-27"
+  to: "2011-12-25"
 
 stats:
-  score: 7.2
-  # scoredBy: # edit manual
+  score: 7.3
 
 genres:
   - comedy
@@ -31,15 +29,12 @@ genres:
 studios:
   - diomedea
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8557-S9DplekRj7mo.png"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8557-3mpgWYbYIOQg.jpg"
-trailer: "YhxbmA1noxg"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10378-hBXI8fXMLBOg.png"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10378-oXjrypPxJZ65.jpg"
 
 draft: false
 ---
 
-Foolish land-born air breathers! Behold the terror from the depths, the tentacled conqueror of humanity: Squid Girl! With your pollution and stuff you really deserve it, so prepare for menacing, inky doom! 
+The nefarious Squid Girl is back to continue her self-appointed mission to invade the surface world. Or that's what she would do, if she could just stop getting distracted by squidding movies, reading squidly manga, and making friends as only a squid could make them. Squid Girl must overcome not only danger found at every turn, but her own squidly good nature as well.
 
-Squid Girl has come from the depths of the sea to conquer humanity for its pollution of the ocean. Within moments of arriving on the surface world, our easily distracted, little invertebrate is promptly bullied into working for the Aizawa sisters as a waitress, supplying their restaurant with squid ink. If poor Squid Girl can't handle two pushy Japanese girls, how will she ever subjugate the human race? 
-
-(Source: Media Blasters)
+(Source: Anime News Network)

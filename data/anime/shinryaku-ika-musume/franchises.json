@@ -1,22 +1,7 @@
 [
   {
-    "relation": "side_story",
-    "slug": "shinryaku-ika-musume-specials",
-    "title": "Shinryaku! Ika Musume Specials"
-  },
-  {
-    "relation": "other",
-    "slug": "shinryaku-ika-musume-ika-ice-tabena-ika",
-    "title": "Shinryaku! Ika Musume: Ika Ice Tabena-ika?"
-  },
-  {
-    "relation": "sequel",
+    "relation": "prequel",
     "slug": "shinryaku-ika-musume",
-    "title": "Shinryaku!? Ika Musume"
-  },
-  {
-    "relation": "other",
-    "slug": "shinryaku-ika-musume-kore-ga-umi-e-no-ai-jana-ika",
-    "title": "Shinryaku! Ika Musume: Kore ga Umi e no Ai Jana-ika!"
+    "title": "Shinryaku! Ika Musume"
   }
 ]
