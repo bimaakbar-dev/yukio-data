@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Hisui",
+    "nameNative": "ヒスイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132356-5KGI0KBHs9QN.png",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Kagachi",
+    "nameNative": "カガチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132355-2pdwxFk2A58e.png",
+    "role": "main",
+    "voiceActors": [
+      "kouji-ohkura"
+    ]
+  },
+  {
+    "name": "Largo",
+    "nameNative": "ラルゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132353-DgKAQWyR4Jg5.png",
+    "role": "main",
+    "voiceActors": [
+      "mana-ashida"
+    ]
+  },
+  {
+    "name": "Lisa",
+    "nameNative": "リサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132361-IiQkAGxaymX4.png",
+    "role": "main",
+    "voiceActors": [
+      "rina-kawaei"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "nameNative": "ピカチュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Satoshi",
+    "nameNative": "サトシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+    "role": "main",
+    "voiceActors": [
+      "rica-matsumoto"
+    ]
+  },
+  {
+    "name": "Torito",
+    "nameNative": "トリト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132360-JIa1vi6NCrnR.png",
+    "role": "main",
+    "voiceActors": [
+      "gaku-hamada"
+    ]
+  },
+  {
+    "name": "Zeraora",
+    "nameNative": "ゼラオラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132358-Jk8qMfUepEkU.png",
+    "role": "main",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Joy",
+    "nameNative": "ジョーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7558-LzxI6BSiinA3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chika-fujimura"
+    ]
+  },
+  {
+    "name": "Junsa",
+    "nameNative": "ジュンサー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26545.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chinami-nishimura"
+    ]
+  },
+  {
+    "name": "Kojirou",
+    "nameNative": "コジロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3936-5sX4EZIY2BRU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Lily",
+    "nameNative": "リリィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132352-JrIStCGK78rO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Lugia",
+    "nameNative": "ルギア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35805.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Mayor Oliver",
+    "nameNative": "オリバー市長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132359-iBYrfac1Uu2M.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Mia",
+    "nameNative": "ミア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132357-MdPQDCeG3Xeu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-shimamura"
+    ]
+  },
+  {
+    "name": "Musashi",
+    "nameNative": "ムサシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3935-m000RuoIVOGI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Nyarth",
+    "nameNative": "ニャース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inuko-inuyama"
+    ]
+  },
+  {
+    "name": "Riku",
+    "nameNative": "リク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132354-Kp6gJtxM1ehZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-nakagawa"
+    ]
+  }
+]
