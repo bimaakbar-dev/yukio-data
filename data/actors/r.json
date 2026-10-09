@@ -1232,10 +1232,24 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "ryu-yamaguchi",
+    "name": "Ryu Yamaguchi",
+    "nameNative": "山口りゅう",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/11607.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "ryuji-mizuno",
     "name": "Ryuji Mizuno",
     "nameNative": "水野龍司",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/12751.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "ryuugo-saitou",
+    "name": "Ryuugo Saitou",
+    "nameNative": "齋藤龍吾",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106611-2dfSjGnojHoU.png",
     "defaultLanguage": "Japanese"
   },
   {
@@ -1292,6 +1306,13 @@
     "name": "Ryuunosuke Watanuki",
     "nameNative": "綿貫竜之介",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131578-XYDFui7Rf7M1.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "ryuusaku-chijiwa",
+    "name": "Ryuusaku Chijiwa",
+    "nameNative": "千々和竜策",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/10409.jpg",
     "defaultLanguage": "Japanese"
   },
   {
