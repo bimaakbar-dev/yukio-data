@@ -1,0 +1,32 @@
+[
+  {
+    "relation": "alternative",
+    "slug": "air-movie",
+    "title": "Air Movie"
+  },
+  {
+    "relation": "summary",
+    "slug": "air-recap",
+    "title": "Air Recap"
+  },
+  {
+    "relation": "side_story",
+    "slug": "air-in-summer",
+    "title": "Air in Summer"
+  },
+  {
+    "relation": "other",
+    "slug": "tori-no-uta",
+    "title": "Tori no Uta"
+  },
+  {
+    "relation": "character",
+    "slug": "kaginado",
+    "title": "Kaginado"
+  },
+  {
+    "relation": "character",
+    "slug": "kaginado-season-2",
+    "title": "Kaginado Season 2"
+  }
+]
