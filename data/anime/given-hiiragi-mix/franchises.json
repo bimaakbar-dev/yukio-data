@@ -1,0 +1,17 @@
+[
+  {
+    "relation": "prequel",
+    "slug": "given-movie-1",
+    "title": "Given Movie 1"
+  },
+  {
+    "relation": "other",
+    "slug": "given-movie-2-hiiragi-mix-specials",
+    "title": "Given Movie 2: Hiiragi Mix Specials"
+  },
+  {
+    "relation": "sequel",
+    "slug": "given-movie-3-umi-e",
+    "title": "Given Movie 3: Umi e"
+  }
+]
