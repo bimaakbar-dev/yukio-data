@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Miho",
+    "nameNative": "海帆",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154501-OTJBe4oAO2K6.png",
+    "role": "main",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Shouta",
+    "nameNative": "翔太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154502-Wlhpdwv8mxS0.png",
+    "role": "main",
+    "voiceActors": [
+      "kenshou-ono"
+    ]
+  },
+  {
+    "name": "Z-Kai no Sensei",
+    "nameNative": "Z会の先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154503-6pvCwxwGr2F4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masahiko-tanaka"
+    ]
+  }
+]
