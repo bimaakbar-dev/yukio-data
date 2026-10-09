@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Fine",
+    "nameNative": "フィーネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268557-VdsBB31PwrSr.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Momo",
+    "nameNative": "モモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268558-BuR5ElZd6IiR.jpg",
+    "role": "main",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Allegro",
+    "nameNative": "アレグロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274612-EZPhQW1Wmlr5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-kobayashi"
+    ]
+  },
+  {
+    "name": "Aria",
+    "nameNative": "アリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277188-eUoKA1pasDqD.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Connie",
+    "nameNative": "コニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277135-eyFjTGutL2RU.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Elisha",
+    "nameNative": "イリーシャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b276067-ZYzNEpPx3c6w.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ari-ozawa"
+    ]
+  },
+  {
+    "name": "Kaede",
+    "nameNative": "カエデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b276066-IyWjTUv9eRhj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "umeka-shouji"
+    ]
+  },
+  {
+    "name": "Kubo",
+    "nameNative": "クボ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274614-LF3LxRBWOZkS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi"
+    ]
+  },
+  {
+    "name": "Milana",
+    "nameNative": "ミレーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277134-3m5vtm24LGC4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Nobara",
+    "nameNative": "ノバラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274613-kidivGiY0FSi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rica-fukami"
+    ]
+  }
+]
