@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Douki-chan",
+    "nameNative": "同期ちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186587-3R4tV5tzo6kO.png",
+    "role": "main",
+    "voiceActors": [
+      "nene-hieda"
+    ]
+  },
+  {
+    "name": "Douki-kun",
+    "nameNative": "同期くん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b247208-Lgz4Wv9iGkvh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Kouhai-chan",
+    "nameNative": "後輩ちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229546-6VREd8aH3NMI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Senpai-san",
+    "nameNative": "先輩さん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229547-8DkoRWK2C9Wh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-seto"
+    ]
+  }
+]
