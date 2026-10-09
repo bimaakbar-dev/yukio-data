@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Akagi",
+    "nameNative": "赤城",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130161-OgsRZ2yzQcN3.png",
+    "role": "main",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Ayanami",
+    "nameNative": "綾波",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137056-hDdmwlcAzprB.jpg",
+    "role": "main",
+    "voiceActors": [
+      "you-taichi"
+    ]
+  },
+  {
+    "name": "Belfast",
+    "nameNative": "ベルファスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130070-aFSpprHYoWNn.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Enterprise",
+    "nameNative": "エンタープライズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130082-WiDwPynLeBXD.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yui-ishikawa"
+    ]
+  },
+  {
+    "name": "Javelin",
+    "nameNative": "ジャベリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137057-sg4BbOZ4pZeD.png",
+    "role": "main",
+    "voiceActors": [
+      "nozomi-yamane"
+    ]
+  },
+  {
+    "name": "Kaga",
+    "nameNative": "加賀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130163-yfYRHOgKEYNd.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Laffey",
+    "nameNative": "ラフィー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130179-CQ5NGi69TSQo.png",
+    "role": "main",
+    "voiceActors": [
+      "maria-naganawa"
+    ]
+  },
+  {
+    "name": "Shoukaku",
+    "nameNative": "翔鶴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148767-PMpgH3XZy47o.png",
+    "role": "main",
+    "voiceActors": [
+      "risa-taneda"
+    ]
+  },
+  {
+    "name": "Zuikaku",
+    "nameNative": "瑞鶴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148768-sMFFXEej6ttf.png",
+    "role": "main",
+    "voiceActors": [
+      "risa-taneda"
+    ]
+  },
+  {
+    "name": "Admiral Hipper",
+    "nameNative": "アドミラル・ヒッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b225178-UVUrttjh5QYg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuri-yamaoka"
+    ]
+  },
+  {
+    "name": "Akashi",
+    "nameNative": "明石",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130073-IMZZMiwxavfC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Amagi",
+    "nameNative": "天城",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175743-zc2HBBvks7pD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Amazon",
+    "nameNative": "アマゾン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152451-FRSkdAwH3Iju.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukiko-ayamiya"
+    ]
+  },
+  {
+    "name": "Arizona",
+    "nameNative": "アリゾナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152457-yeKQUwK9pKtH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sawako-shirakabe"
+    ]
+  },
+  {
+    "name": "Ark Royal",
+    "nameNative": "アーク・ロイヤル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130069-jwyllPpuZpi9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asuka-itou"
+    ]
+  },
+  {
+    "name": "Atago",
+    "nameNative": "愛宕",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135820-kaxe2bj0T62K.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Aulick",
+    "nameNative": "オーリック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153441-EO1Rxud5gfbD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuna-yoshino"
+    ]
+  },
+  {
+    "name": "Bailey",
+    "nameNative": "ベイリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148818-X4JbwpxCVMFX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-suzuki"
+    ]
+  },
+  {
+    "name": "Beagle",
+    "nameNative": "ビーグル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b149023-6oicIqEdBM78.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-suzuki"
+    ]
+  },
+  {
+    "name": "Bulldog",
+    "nameNative": "ブルドッグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b149022-XzsXWitBZnrF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-suzuki"
+    ]
+  },
+  {
+    "name": "Charles Ausburne",
+    "nameNative": "チャールズ・オースバーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153443-JrXzx8HTM5eJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satsuki-morita"
+    ]
+  },
+  {
+    "name": "Cleveland",
+    "nameNative": "クリーブランド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130162-Pkf13jBmoyx1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saya-horigome"
+    ]
+  },
+  {
+    "name": "Columbia",
+    "nameNative": "コロンビア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152458-SyN2e9KhxShW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saya-horigome"
+    ]
+  },
+  {
+    "name": "Cygnet",
+    "nameNative": "シグニット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152392-FZNUYzlBFxtl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "risa-taneda"
+    ]
+  },
+  {
+    "name": "Denver",
+    "nameNative": "デンバー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152452-sHbzjKkgJ6Hk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ari-ozawa"
+    ]
+  },
+  {
+    "name": "Edinburgh",
+    "nameNative": "エディンバラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152437-BNqiNe8vWMAd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-gotou"
+    ]
+  },
+  {
+    "name": "Eldridge",
+    "nameNative": "エルドリッジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130181-WQae2SpfFe6x.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-sasaki"
+    ]
+  },
+  {
+    "name": "Foote",
+    "nameNative": "フート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153442-AbsIgeoFY0Nl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuna-yoshino"
+    ]
+  },
+  {
+    "name": "Fumizuki",
+    "nameNative": "文月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152455-bRgtq8H82lA5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiyo-ousaki"
+    ]
+  },
+  {
+    "name": "Furutaka",
+    "nameNative": "古鷹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152438-8N6fdn3LAvaU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akari-kageyama"
+    ]
+  },
+  {
+    "name": "Fusou",
+    "nameNative": "扶桑",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130166-yOiXWEYtUXvg.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Glowworm",
+    "nameNative": "グローウォーム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150106-L2wabtTcqcq2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-igarashi"
+    ]
+  },
+  {
+    "name": "Gridley",
+    "nameNative": "グリッドレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152391-5MXa1VWigpgr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "narumi-shinohara"
+    ]
+  },
+  {
+    "name": "Hammann",
+    "nameNative": "ハムマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130171-N92MOFEWlsTn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asuka-itou"
+    ]
+  },
+  {
+    "name": "Helena",
+    "nameNative": "ヘレナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150107-FURQ97rWmc3k.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyo-chuujou"
+    ]
+  },
+  {
+    "name": "Hiryuu",
+    "nameNative": "飛龍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229022-fhy7I6tOhMDf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-ishigami"
+    ]
+  },
+  {
+    "name": "Hood",
+    "nameNative": "フッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130077-HpbfdSEdGO9j.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Hornet",
+    "nameNative": "ホーネット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130079-lV0hAaI575J9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-yamamoto"
+    ]
+  },
+  {
+    "name": "Houston",
+    "nameNative": "ヒューストン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152459-KypJPiwqGXKs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-yokota"
+    ]
+  },
+  {
+    "name": "Hyuuga",
+    "nameNative": "日向",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153928-UM2Ry0j1dtDW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Illustrious",
+    "nameNative": "イラストリアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130068-ZPem461wI6JH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sora-amamiya"
+    ]
+  },
+  {
+    "name": "Ise",
+    "nameNative": "伊勢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153927-bCZdj21bH7R4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Kako",
+    "nameNative": "加古",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228188-JHiRL2jkGdDv.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kawakaze",
+    "nameNative": "江風",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192603-Ve64Rz5DuNFH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Kent",
+    "nameNative": "ケント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153930-XyUD6Nvxjq1Y.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Langley",
+    "nameNative": "ラングレー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152454-5qAUAosEwC62.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-yoshimura"
+    ]
+  },
+  {
+    "name": "London",
+    "nameNative": "ロンドン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152456-wFTCnooDtsDj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-mukaiyama"
+    ]
+  },
+  {
+    "name": "Long Island",
+    "nameNative": "ロング・アイランド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130178-aNHahiJm7a0q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sachiyo-yoshida"
+    ]
+  },
+  {
+    "name": "Massachusetts",
+    "nameNative": "マサチューセッツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153931-FmaOZipIOBhx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Mikazuki",
+    "nameNative": "三日月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152453-NfWPPWYNyV57.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mako"
+    ]
+  }
+]
