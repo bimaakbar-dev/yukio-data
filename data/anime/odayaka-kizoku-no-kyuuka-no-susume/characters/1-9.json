@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Gil",
+    "nameNative": "ジル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b361186-jdB5AwV4Cxqf.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuichirou-umehara"
+    ]
+  },
+  {
+    "name": "Lizel",
+    "nameNative": "リゼル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b173948-9YNQkeJn63cD.png",
+    "role": "main",
+    "voiceActors": [
+      "souma-saitou"
+    ]
+  },
+  {
+    "name": "Ein",
+    "nameNative": "アイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b390839-Dwdgg9Tbi34M.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiki-nakajima"
+    ]
+  },
+  {
+    "name": "Eleven",
+    "nameNative": "イレヴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b380596-3yeST4CvXlJg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Insigh",
+    "nameNative": "インサイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b380601-wuNdbfqSMuZZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-hamada"
+    ]
+  },
+  {
+    "name": "Judge",
+    "nameNative": "ジャッジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b380597-j32yYAPsSXYu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-yamashita"
+    ]
+  },
+  {
+    "name": "Ray",
+    "nameNative": "レイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b380599-l1PXWo2wDkoA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Shadow",
+    "nameNative": "シャドウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b380598-wszFkxO0dt8Z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Stud",
+    "nameNative": "スタッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b380600-BCWOlDAFJj2G.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  }
+]
