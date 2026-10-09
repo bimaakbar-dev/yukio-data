@@ -1,26 +1,26 @@
 ---
-title: "Dog Days'"
-titleEnglish: Dog Days Season 2
-titleNative: "ドッグデイズ'"
+title: "Dog Days''"
+titleEnglish: Dog Days Season 3
+titleNative: "ドッグデイズ''"
 
-malId: 11783
+malId: 16385
 kitsuId: "6057"
 
 type: TV
 status: finished
 source: original
 
-season: summer
-year: 2012
-episodes: 13
-duration: 23
+season: winter
+year: 2015
+episodes: 12
+duration: 24
 
 aired:
-  from: "2012-07-07"
-  to: "2012-09-29"
+  from: "2015-01-11"
+  to: "2015-03-29"
 
 stats:
-  score: 6.7
+  score: 6.6
 
 genres:
   - action
@@ -28,16 +28,17 @@ genres:
   - fantasy
 
 studios:
-  - seven-arcs
+  - seven-arcs-pictures
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11783-R9MxLofk3OH4.png"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11783-z57cDQbDYb9h.jpg"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16385-ws6NmloFQ37V.png"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16385-MZ1JOl5ChObM.jpg"
+trailer: "plB04VgZ5SQ"
 
 draft: false
 ---
 
-Cinque returns to the land of Flonyard in Dog Days' to resume his duties as the hero of the Biscotti Republic and it's as though he never left!
+Cinque Izumi, Nanami Takatsuki, and Rebecca Anderson must once again embark on a journey to the continent of Flonyard and participate in the friendly war games of the three allied nations: Biscotti Republic, Galette, and Pastilage. Cinque is Biscotti’s hero, who also happens to be the cousin of Galette’s hero Nanami. Rebecca is Pastillage’s hero and a dear friend of Cinque.
 
-The difference this time is that he's brought two friends with him who become heroes in their own right: childhood best friend Rebecca Anderson, who becomes the hero for the Principality of Pastillage at the urging of their leader Princess Couvert Eschenbach Pastillage, and his cousin Nanami Takatsuki, who becomes the hero for the Galette Lion Dominion.
+Dog Days'' begins in the human world. Rebecca prepares her things for her journey back to Pastilage from Japan. Meanwhile, Cinque and Nanami set out to travel to Biscotti and Galette, respectively, all the way from England, when suddenly, a freakish streak of bad luck—in the form of lightning, of course—sends them off course. They soon find themselves in the great Dragon Forest, protected by a Dragon Priestess named Sharu. The Dragon Priestess informs them that demons threaten to invade the forest, as well as the whole continent of Flonyard!
 
-As with the first season though, with so many secrets to be uncovered and mysteries to be solved, will there even be time for the athletic events that these three hyper and athletic teenagers love to participate in so much?
+It looks like a real war is about to begin in Dog Days''. Can these three heroes save the whole continent from these evil beings?

@@ -2,11 +2,21 @@
   {
     "relation": "prequel",
     "slug": "dog-days",
-    "title": "Dog Days"
+    "title": "Dog Days'"
   },
   {
-    "relation": "summary",
+    "relation": "prequel",
     "slug": "dog-days-recap",
     "title": "Dog Days Recap"
+  },
+  {
+    "relation": "sequel",
+    "slug": "dog-days-limone-resort-tenbou-onsen",
+    "title": "Dog Days'': Limone Resort Tenbou Onsen!"
+  },
+  {
+    "relation": "other",
+    "slug": "dog-days-gravure-talk",
+    "title": "Dog Days'': Gravure Talk"
   }
 ]
