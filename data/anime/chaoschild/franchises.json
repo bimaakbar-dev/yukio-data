@@ -1,0 +1,37 @@
+[
+  {
+    "relation": "prequel",
+    "slug": "chaoshead",
+    "title": "ChaoS;HEAd"
+  },
+  {
+    "relation": "alternative",
+    "slug": "steinsgate",
+    "title": "Steins;Gate"
+  },
+  {
+    "relation": "alternative",
+    "slug": "roboticsnotes",
+    "title": "Robotics;Notes"
+  },
+  {
+    "relation": "alternative",
+    "slug": "occulticnine",
+    "title": "Occultic;Nine"
+  },
+  {
+    "relation": "prequel",
+    "slug": "chaoschild-episode-0",
+    "title": "ChaoS;Child Episode 0"
+  },
+  {
+    "relation": "sequel",
+    "slug": "chaoschild-silent-sky",
+    "title": "ChaoS;Child: Silent Sky"
+  },
+  {
+    "relation": "alternative",
+    "slug": "steinsgate-0",
+    "title": "Steins;Gate 0"
+  }
+]
