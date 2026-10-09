@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Eiji Hoshimiya",
+    "nameNative": "星宮 エイジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49505.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masakazu-morita"
+    ]
+  },
+  {
+    "name": "Rin Kurenai",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49509-6mm3Be09799f.png",
+    "role": "main",
+    "voiceActors": [
+      "shiori-mikami"
+    ]
+  },
+  {
+    "name": "DAISY",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49507-ZvbrTXYJeUrN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-misaki"
+    ]
+  },
+  {
+    "name": "Sena Hoshimiya",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49511.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  }
+]
