@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Haru",
+    "nameNative": "ハル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212125-4C1lXJlRVjth.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mackenyu-arata",
+      "yuki-terauchi"
+    ]
+  },
+  {
+    "name": "Yuu",
+    "nameNative": "ユウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212126-Ifqg6lE9EPmx.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kento-yamazaki",
+      "shoutarou-yoshinari"
+    ]
+  },
+  {
+    "name": "Asha",
+    "nameNative": "アーシャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212127-dgpcy2fQHD1y.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mei-nagano"
+    ]
+  },
+  {
+    "name": "Barton Rosch",
+    "nameNative": "バルトン・ロッグス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228783-749Io0P3Qv6n.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Bauer Linden",
+    "nameNative": "バウアー・レンデン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228779-L2K4yRaqLUQ7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-ogami"
+    ]
+  },
+  {
+    "name": "Danba",
+    "nameNative": "ダンパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212128-upApKkaB6FKt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Flander",
+    "nameNative": "フランダー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228781-uNNTeggVwv1p.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masatou-ibu"
+    ]
+  },
+  {
+    "name": "Gabaras Felgrimm",
+    "nameNative": "ガバラス・フォルガーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b262728-jxeVWyCxvvRq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Gnauss Wisden",
+    "nameNative": "ヨキ・ジニアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228786-jheVZOVlF1Fi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Kotona",
+    "nameNative": "コトナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212129-JupG8QYZPBir.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mei-nagano"
+    ]
+  },
+  {
+    "name": "Nanako Hayashi",
+    "nameNative": "林 奈々子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228784-YvPhDu0S1iGP.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ojiisan",
+    "nameNative": "お爺さん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228785-Ca1r5nijKt5E.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuyoshi-muro"
+    ]
+  },
+  {
+    "name": "Thomas",
+    "nameNative": "トマス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228787-XX2QuyhqgjrR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akinori-egoshi"
+    ]
+  },
+  {
+    "name": "Versa",
+    "nameNative": "ヴェルサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228780-sHelciFOEn83.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  }
+]
