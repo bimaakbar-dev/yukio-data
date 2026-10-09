@@ -1,0 +1,43 @@
+---
+title: Kidou Senshi Gundam SEED DESTINY
+titleEnglish: Mobile Suit Gundam Seed Destiny
+titleNative: 機動戦士ガンダムSEED DESTINY
+
+malId: 94
+kitsuId: "73"
+
+type: TV
+status: finished
+source: original
+
+season: fall
+year: 2004
+episodes: 50
+duration: 24
+
+aired:
+  from: "2004-10-09"
+  to: "2005-10-01"
+
+stats:
+  score: 6.6
+
+genres:
+  - action
+  - drama
+  - mecha
+  - romance
+  - sci-fi
+
+studios:
+  - sunrise
+
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx94-tng83ksiXm5E.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/94-RuejO7P6dcrm.jpg"
+
+draft: false
+---
+
+C.E. 73: While the second battle of Yachin Due brought the war between the Naturals and Coordinators to a close, tensions between the two races are at an all-time high. During a meeting between PLANT Chairman Gilbert Dullindal and Orb Representative Cagalli Yula Athha, a unit of soldiers hijack ZAFT's newly developed Gundams. ZAFT soldier Shinn Asuka along with his friends at the ZAFT ship Minerva sortie in attempt to deter this hijacking. With the assistance of Cagalli's bodyguard, Athrun Zala, the Minerva chases after the unknown ship that hijacked the Gundams until an even greater problem occurs leading to the start of the second Bloody Valentine war.
+
+Note: On March 2013, the airing of the HD Remaster began. Like the HD Remaster of Gundam SEED, the remaster of this series not only improves the animation, but also alters lines and scenes from the original, as well as introducing brand new mobile suits. The episode count for the remaster was 50 episodes. The recap episode "Refrain" was completely omitted from the HD Remaster, while the final episode divided into two parts: "Final Power" and "The Chosen Future", based on the "The Chosen Future" television special, with additional footage.
