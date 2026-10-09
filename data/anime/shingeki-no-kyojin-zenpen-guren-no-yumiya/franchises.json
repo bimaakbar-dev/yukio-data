@@ -1,0 +1,17 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "shingeki-no-kyojin",
+    "title": "Shingeki no Kyojin"
+  },
+  {
+    "relation": "alternative",
+    "slug": "shingeki-no-kyojin-ano-hi-kara",
+    "title": "Shingeki no Kyojin: Ano Hi Kara"
+  },
+  {
+    "relation": "sequel",
+    "slug": "shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa",
+    "title": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa"
+  }
+]
