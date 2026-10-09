@@ -1,0 +1,32 @@
+[
+  {
+    "relation": "prequel",
+    "slug": "inazuma-eleven",
+    "title": "Inazuma Eleven"
+  },
+  {
+    "relation": "summary",
+    "slug": "inazuma-eleven-go-specials",
+    "title": "Inazuma Eleven Go Specials"
+  },
+  {
+    "relation": "side_story",
+    "slug": "inazuma-eleven-go-kyuukyoku-no-kizuna-gryphon",
+    "title": "Inazuma Eleven Go: Kyuukyoku no Kizuna Gryphon"
+  },
+  {
+    "relation": "sequel",
+    "slug": "inazuma-eleven-go-chrono-stone",
+    "title": "Inazuma Eleven Go: Chrono Stone"
+  },
+  {
+    "relation": "other",
+    "slug": "inazuma-eleven-go-tcg-cm-ng-shuu",
+    "title": "Inazuma Eleven Go: TCG CM NG-shuu"
+  },
+  {
+    "relation": "other",
+    "slug": "inadan-gag-gaiden",
+    "title": "InaDan Gag Gaiden"
+  }
+]
