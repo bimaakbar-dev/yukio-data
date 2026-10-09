@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Chocola",
+    "nameNative": "ショコラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88787-grII9ZA6Nx1N.jpg",
+    "role": "main",
+    "voiceActors": [
+      "maki-tomonaga"
+    ]
+  },
+  {
+    "name": "Kashou Minazuki",
+    "nameNative": "水無月嘉祥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130309-8OQCgCUHzUEj.png",
+    "role": "main",
+    "voiceActors": [
+      "shinnosuke-tachibana"
+    ]
+  },
+  {
+    "name": "Vanilla",
+    "nameNative": "バニラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88788-E0ECUbMlrJye.png",
+    "role": "main",
+    "voiceActors": [
+      "yuka-inokuchi"
+    ]
+  },
+  {
+    "name": "Azuki",
+    "nameNative": "アズキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126263-9yITiEUdFACj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mia-naruse"
+    ]
+  },
+  {
+    "name": "Cinnamon",
+    "nameNative": "シナモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126266-0ebV3eqXpwu9.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tae-okajima"
+    ]
+  },
+  {
+    "name": "Coconut",
+    "nameNative": "ココナツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126264-nEmOMFvizPo2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouko-tezuka"
+    ]
+  },
+  {
+    "name": "Maple",
+    "nameNative": "メイプル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126265-jaUuUImV3KzG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-ogura"
+    ]
+  },
+  {
+    "name": "Shigure Minazuki",
+    "nameNative": "水無月時雨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130308-YWQyfCBdkb0n.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nagai"
+    ]
+  }
+]
