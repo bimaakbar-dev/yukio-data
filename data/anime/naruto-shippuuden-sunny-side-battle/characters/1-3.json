@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Itachi Uchiha",
+    "nameNative": "うちはイタチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png",
+    "role": "main",
+    "voiceActors": [
+      "hideo-ishikawa"
+    ]
+  },
+  {
+    "name": "Sasuke Uchiha",
+    "nameNative": "うちはサスケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13-SISLEw1oAD7a.png",
+    "role": "main",
+    "voiceActors": [
+      "noriaki-sugiyama"
+    ]
+  },
+  {
+    "name": "Naruto Uzumaki",
+    "nameNative": "うずまきナルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-takeuchi"
+    ]
+  }
+]
