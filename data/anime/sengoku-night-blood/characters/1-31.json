@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Hideyoshi Toyotomi",
+    "nameNative": "豊臣秀吉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140114-KGZYMh3QuMHX.png",
+    "role": "main",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Kenshin Uesugi",
+    "nameNative": "上杉謙信",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140097-xZWgvPFiir2l.png",
+    "role": "main",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Masamune Date",
+    "nameNative": "伊達政宗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140095-mHp6LH1kbHgR.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuichirou-umehara"
+    ]
+  },
+  {
+    "name": "Nobunaga Oda",
+    "nameNative": "織田信長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140094-Q4GOj0I9bW0U.png",
+    "role": "main",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Shingen Takeda",
+    "nameNative": "武田信玄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140111-j7JrpvbzHUMW.png",
+    "role": "main",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Yukimura Sanada",
+    "nameNative": "真田幸村",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140105-u39zMUJ31TAs.png",
+    "role": "main",
+    "voiceActors": [
+      "daiki-yamashita"
+    ]
+  },
+  {
+    "name": "Yuzuki",
+    "nameNative": "結月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140110-Kjl9jCaV0eRj.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Hanbee Takenaka",
+    "nameNative": "竹中半兵衛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140116-6PbOGkVHxSw0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Imari",
+    "nameNative": "イマリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140101-LsLcmaG5eGVW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-fujiwara"
+    ]
+  },
+  {
+    "name": "Kageie Kakizaki",
+    "nameNative": "柿崎景家",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140119-FdyQzN7Zihk6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Kagekatsu Uesugi",
+    "nameNative": "上杉景勝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140104-Wnqcvv6Iw9n4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihiko-aramaki"
+    ]
+  },
+  {
+    "name": "Kagemochi Amakasu",
+    "nameNative": "甘粕景持",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140098-SHWxsTUWUWn5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Kamanosuke Yuri",
+    "nameNative": "由利鎌ノ助",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140112-GLK6PIIEdZW9.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taku-yashiro"
+    ]
+  },
+  {
+    "name": "Kanbee Kuroda",
+    "nameNative": "黒田官兵衛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140108-h5NT0cgOBJW2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Kanetsugu Naoe",
+    "nameNative": "直江兼続",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140103-hTCgm7jOv7vu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Katsuie Shibata",
+    "nameNative": "柴田勝家",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140118-Pf2Slz7D3Gzp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masakazu-morita"
+    ]
+  },
+  {
+    "name": "Kojuurou Katakura",
+    "nameNative": "片倉小十郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140121-iJPhGr2yGZQZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-satou"
+    ]
+  },
+  {
+    "name": "Masakage Yamagata",
+    "nameNative": "山県昌景",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140100-QoWmtiwcB1Pw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiki-nakajima"
+    ]
+  },
+  {
+    "name": "Masanobu Kousaka",
+    "nameNative": "高坂昌信",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140107-PIpAoTKa6urA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouhei-kimura"
+    ]
+  },
+  {
+    "name": "Masatoyo Naitou",
+    "nameNative": "内藤昌豊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140096-vglO0eZiRKkZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "koutarou-nishiyama"
+    ]
+  },
+  {
+    "name": "Mitsuhide Akechi",
+    "nameNative": "明智光秀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140115-v3Z6pWmsnDcI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Mitsunari Ishida",
+    "nameNative": "石田三成",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140124-yHmWZNiPJnLM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihide-sasaki"
+    ]
+  },
+  {
+    "name": "Nagahide Niwa",
+    "nameNative": "丹羽長秀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140122-oWDJpHARQ5MZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuki-murase"
+    ]
+  },
+  {
+    "name": "Nobuhara Baba",
+    "nameNative": "馬場信春",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140099-wR7lyy6EFdCZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Nobuyuki Sanada",
+    "nameNative": "真田信之",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140109-MJKvT6y40dxC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shoutarou-morikubo"
+    ]
+  },
+  {
+    "name": "Ranmaru Mori",
+    "nameNative": "森蘭丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140117-7UR6MxRY5m7j.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-kobayashi"
+    ]
+  },
+  {
+    "name": "Saizou Kirigakure",
+    "nameNative": "霧隠才蔵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140120-mX2jJKomY4TX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-kitamura"
+    ]
+  },
+  {
+    "name": "Sasuke Sarutobi",
+    "nameNative": "猿飛佐助",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140102-jH3o1wSQucTR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Shigezane Date",
+    "nameNative": "伊達成実",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140106-1U9uMR6VrS2u.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Toshiie Maeda",
+    "nameNative": "前田利家",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140123-pZUhftnPLUGf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikkei-yamamoto"
+    ]
+  }
+]
