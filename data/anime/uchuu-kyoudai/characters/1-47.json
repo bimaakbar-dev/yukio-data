@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Hibito Nanba",
+    "nameNative": "南波日々人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55169-n1SvZ6WcEQO0.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuko-sanpei",
+      "kenn"
+    ]
+  },
+  {
+    "name": "Mutta Nanba",
+    "nameNative": "南波六太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55171-d8qSVw9zpN7r.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiroaki-hirata",
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "An Makabe",
+    "nameNative": "真壁安",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Apo",
+    "nameNative": "アポ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79109.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Aritoshi Teshima",
+    "nameNative": "手島有利",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67671.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masayasu-nagata"
+    ]
+  },
+  {
+    "name": "Brian Jay",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/83925.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Buddy Waters",
+    "nameNative": "バディ・ウォーターズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/76806.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi"
+    ]
+  },
+  {
+    "name": "Chousuke Nanba",
+    "nameNative": "南波長介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60095.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Damien Kweller",
+    "nameNative": "ダミアン・クウェラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61881.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-tsuchida"
+    ]
+  },
+  {
+    "name": "Deneil Young",
+    "nameNative": "デニール・ヤング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211605-K1pkakF9geUL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tarou-ishida"
+    ]
+  },
+  {
+    "name": "Eddie Jay",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/126850-bU0Vqva3wN7B.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kinryuu-arimoto"
+    ]
+  },
+  {
+    "name": "Emi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63515.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ena Kitamura",
+    "nameNative": "北村 絵名",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79641.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-sanpei"
+    ]
+  },
+  {
+    "name": "Freddie Saturn",
+    "nameNative": "フレディ・サターン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60099.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rintarou-nishi"
+    ]
+  },
+  {
+    "name": "Fumi Aotake",
+    "nameNative": "青竹 フミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61885.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toa-yukinari"
+    ]
+  },
+  {
+    "name": "Fuuka Makabe",
+    "nameNative": "真壁風佳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Hibitto",
+    "nameNative": "ヒビット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376582-TZmAC0lGCXB7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenn"
+    ]
+  },
+  {
+    "name": "Itou Serika no Haha",
+    "nameNative": "伊東せりかの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61341.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mana-miyamoto"
+    ]
+  },
+  {
+    "name": "Karen Jones",
+    "nameNative": "カレン・ジョーンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61883.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miwa-kohinata"
+    ]
+  },
+  {
+    "name": "Kenji Makabe",
+    "nameNative": "真壁ケンジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56205-G14yzO8jA7GL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masayuki-katou"
+    ]
+  },
+  {
+    "name": "Linda Cliff",
+    "nameNative": "リンダ・クリフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77861.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toa-yukinari"
+    ]
+  },
+  {
+    "name": "Manabu Sawaki",
+    "nameNative": "沢木 学",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61345.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-ooba"
+    ]
+  },
+  {
+    "name": "Mayumi Nanba",
+    "nameNative": "南波真弓",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60097.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-tanaka"
+    ]
+  },
+  {
+    "name": "Michiko Komachi",
+    "nameNative": "小町ミチコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79141.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chie-ayado"
+    ]
+  },
+  {
+    "name": "Mrs. Smith",
+    "nameNative": "オバー・スミス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/62157.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tamaki-taura"
+    ]
+  },
+  {
+    "name": "Naoto Fukuda",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/68891.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoki-bandou"
+    ]
+  },
+  {
+    "name": "Ozzy Smith",
+    "nameNative": "オジー・スミス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/62155.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tadashi-nakamura"
+    ]
+  },
+  {
+    "name": "Philippe Lewis",
+    "nameNative": "フィリップ ルイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138056-oMxu7cR0p0cp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taiten-kusunoki"
+    ]
+  },
+  {
+    "name": "Pico Norton",
+    "nameNative": "ピコ・ノートン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/86161.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Professor",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64719.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Reiji Nitta",
+    "nameNative": "新田零次",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b66913-PtnoPSwmExVA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takanori-hoshino"
+    ]
+  },
+  {
+    "name": "Reporter",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77405.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Rinpei Itou",
+    "nameNative": "伊東せりかの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61339.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshitsugu-takashina"
+    ]
+  },
+  {
+    "name": "Ryunosuke Tomii",
+    "nameNative": "富井竜之介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67675.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeyuki-susaki"
+    ]
+  },
+  {
+    "name": "Serika Itou",
+    "nameNative": "伊東せりか",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56045-oMldSKUqEHHn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Sharon Kaneko",
+    "nameNative": "金子シャロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56047-eXoSBIF5nBn2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-ikeda"
+    ]
+  },
+  {
+    "name": "Shigeo Nasuda",
+    "nameNative": "茄子田 シゲオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61879.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-aoyama"
+    ]
+  },
+  {
+    "name": "Shinichi Kaneko",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b79139-kTEjf5bkdAlK.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Tadashi Hoshika",
+    "nameNative": "星加 正",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60101.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "show-ryuzanji"
+    ]
+  },
+  {
+    "name": "Takio Azuma",
+    "nameNative": "吾妻滝生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78551.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "Tamura",
+    "nameNative": "田村",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61115.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariko-hayashi"
+    ]
+  },
+  {
+    "name": "Vincent Bold",
+    "nameNative": "ビンセント・ボールド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/80393.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Yamato Mizoguchi",
+    "nameNative": "溝口 大和",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61343.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shintarou-asanuma"
+    ]
+  },
+  {
+    "name": "Yasushi Furuya",
+    "nameNative": "古谷やすし",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67001.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-naitou"
+    ]
+  },
+  {
+    "name": "Yoshihara",
+    "nameNative": "吉原",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61117.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiharu-nakanishi"
+    ]
+  },
+  {
+    "name": "Yuki Makabe",
+    "nameNative": "真壁ユキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-kawase"
+    ]
+  },
+  {
+    "name": "Zack McConnell",
+    "nameNative": "ザック・マコンネル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b223516-DLoSHRUglzdC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mammoth-nishio"
+    ]
+  }
+]
