@@ -1,0 +1,326 @@
+[
+  {
+    "name": "America",
+    "nameNative": "アメリカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14793-jRHQTsS6XFHK.png",
+    "role": "main",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Chuugoku",
+    "nameNative": "中国",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16575-FLnUXHPcbUfn.png",
+    "role": "main",
+    "voiceActors": [
+      "yuki-kaida"
+    ]
+  },
+  {
+    "name": "Doitsu",
+    "nameNative": "ドイツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14792-XEafsXecPXjW.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "France",
+    "nameNative": "フランス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14794-CI3Hs8FUzl72.png",
+    "role": "main",
+    "voiceActors": [
+      "masaya-onosaka"
+    ]
+  },
+  {
+    "name": "Igirisu",
+    "nameNative": "イギリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14795-mRf6sDojQYPe.png",
+    "role": "main",
+    "voiceActors": [
+      "noriaki-sugiyama"
+    ]
+  },
+  {
+    "name": "Italia",
+    "nameNative": "イタリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14790-PsXIcYgBJ99o.png",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Nihon",
+    "nameNative": "日本",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14791-BsbJ6JxlyuPt.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroki-takahashi"
+    ]
+  },
+  {
+    "name": "Russia",
+    "nameNative": "ロシア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14796-fm88kN7EZjmk.png",
+    "role": "main",
+    "voiceActors": [
+      "yasuhiro-takato"
+    ]
+  },
+  {
+    "name": "Australia",
+    "nameNative": "オーストラリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20988.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiichirou-asai"
+    ]
+  },
+  {
+    "name": "Austria",
+    "nameNative": "オーストリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14797-J0HUZS5P82XR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-sasanuma"
+    ]
+  },
+  {
+    "name": "Belgium",
+    "nameNative": "ベルギー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19666-pzbzOfPbS9mJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eriko-nakamura"
+    ]
+  },
+  {
+    "name": "Canada",
+    "nameNative": "カナダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19150-EULgIx6RydGA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Chibiromano",
+    "nameNative": "チビロマーノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/33396.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-kanada"
+    ]
+  },
+  {
+    "name": "Denmark",
+    "nameNative": "デンマーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19655.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shimozaki"
+    ]
+  },
+  {
+    "name": "Estonia",
+    "nameNative": "エストニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18123-DWxWgHRCrFCo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-kousaka"
+    ]
+  },
+  {
+    "name": "Finland",
+    "nameNative": "フィンランド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19240-c9Hq2V0sOpYl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daichuu-mizushima"
+    ]
+  },
+  {
+    "name": "Greece",
+    "nameNative": "ギリシャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18126.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-kousaka"
+    ]
+  },
+  {
+    "name": "Holland",
+    "nameNative": "オランダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33001-F5xt3OjLjqyh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuya-mine"
+    ]
+  },
+  {
+    "name": "Hungary",
+    "nameNative": "ハンガリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16576-lSnLLmgPjCdo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "michiko-neya"
+    ]
+  },
+  {
+    "name": "Iceland",
+    "nameNative": "アイスランド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19668.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-asakura"
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "nameNative": "リトアニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14798-yHerb2UvaEwR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-takeuchi"
+    ]
+  },
+  {
+    "name": "Minami Italia",
+    "nameNative": "南イタリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17458-1zESFKIrzVuB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Norway",
+    "nameNative": "ノルウェー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19657.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masami-iwasaki"
+    ]
+  },
+  {
+    "name": "Poland",
+    "nameNative": "ポーランド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15863.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kokoro-tanaka"
+    ]
+  },
+  {
+    "name": "Prussia",
+    "nameNative": "プロイセン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18497.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-kousaka"
+    ]
+  },
+  {
+    "name": "Romania",
+    "nameNative": "ルーマニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44655.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-kodama"
+    ]
+  },
+  {
+    "name": "Sealand",
+    "nameNative": "シーランド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18006.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-orikasa"
+    ]
+  },
+  {
+    "name": "Seborga",
+    "nameNative": "セボルガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35833.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-okamoto"
+    ]
+  },
+  {
+    "name": "Seychelles",
+    "nameNative": "セーシェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19154.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-takamoto"
+    ]
+  },
+  {
+    "name": "Spain",
+    "nameNative": "スペイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17459-gmPUThUEZvGs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "gou-inoue"
+    ]
+  },
+  {
+    "name": "Suisse",
+    "nameNative": "スイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16693-0jSXBgCaj0Vi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Sweden",
+    "nameNative": "スウェーデン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15589-wi6gR7GAZ0H2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keikou-sakai"
+    ]
+  },
+  {
+    "name": "Taiwan",
+    "nameNative": "台湾",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19665.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-kaida"
+    ]
+  },
+  {
+    "name": "Turkey",
+    "nameNative": "トルコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19459.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-fujimoto"
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "nameNative": "ウクライナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19662-hfG0ASfwOqaZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-masuda"
+    ]
+  },
+  {
+    "name": "Wy",
+    "nameNative": "ワイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34358.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  }
+]
