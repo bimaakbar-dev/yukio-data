@@ -1,0 +1,42 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "kidou-senshi-gundam",
+    "title": "Kidou Senshi Gundam"
+  },
+  {
+    "relation": "side_story",
+    "slug": "kidou-senshi-gakuen-g-reco-koushien",
+    "title": "Kidou Senshi Gakuen: G-Reco Koushien"
+  },
+  {
+    "relation": "side_story",
+    "slug": "gundam-g-no-reconguista-from-the-past-to-the-future",
+    "title": "Gundam: G no Reconguista - From the Past to the Future"
+  },
+  {
+    "relation": "summary",
+    "slug": "gundam-g-no-reconguista-movie-i-ike-core-fighter",
+    "title": "Gundam: G no Reconguista Movie I - Ike! Core Fighter"
+  },
+  {
+    "relation": "summary",
+    "slug": "gundam-g-no-reconguista-movie-ii-bellri-gekishin",
+    "title": "Gundam: G no Reconguista Movie II - Bellri Gekishin"
+  },
+  {
+    "relation": "summary",
+    "slug": "gundam-g-no-reconguista-movie-iii-uchuu-kara-no-isan",
+    "title": "Gundam: G no Reconguista Movie III - Uchuu kara no Isan"
+  },
+  {
+    "relation": "summary",
+    "slug": "gundam-g-no-reconguista-movie-iv-gekitou-ni-sakebu-ai",
+    "title": "Gundam: G no Reconguista Movie IV - Gekitou ni Sakebu Ai"
+  },
+  {
+    "relation": "summary",
+    "slug": "gundam-g-no-reconguista-movie-v-shisen-wo-koete",
+    "title": "Gundam: G no Reconguista Movie V - Shisen wo Koete"
+  }
+]
