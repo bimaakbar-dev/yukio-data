@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Hei",
+    "nameNative": "黒",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2160-CbHDsANTwxg2.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hidenobu-kiuchi"
+    ]
+  },
+  {
+    "name": "Yin",
+    "nameNative": "銀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2163-nA1EMwU7E5oJ.png",
+    "role": "main",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Amagiri",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28897.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-kirimoto"
+    ]
+  },
+  {
+    "name": "Claude",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31503.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuya-iwanaga"
+    ]
+  },
+  {
+    "name": "Mina Hazuki",
+    "nameNative": "葉月水無",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26903.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Oreille",
+    "nameNative": "マダム・オレイユ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27371.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaho-kouda"
+    ]
+  },
+  {
+    "name": "Xiao Jie",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/41414.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-minagawa"
+    ]
+  },
+  {
+    "name": "Youko Sawasaki",
+    "nameNative": "沢崎照子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28738.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kozue-yoshizumi"
+    ]
+  }
+]
