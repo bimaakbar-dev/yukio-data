@@ -1,0 +1,235 @@
+[
+  {
+    "name": "Moroha",
+    "nameNative": "もろは",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169511-XL5d5sayJpTz.png",
+    "role": "main",
+    "voiceActors": [
+      "azusa-tadokoro"
+    ]
+  },
+  {
+    "name": "Setsuna",
+    "nameNative": "せつな",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169509-ldlnMY6Jd2JC.png",
+    "role": "main",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "Towa Higurashi",
+    "nameNative": "日暮とわ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169510-OD4XFyNkRY2L.png",
+    "role": "main",
+    "voiceActors": [
+      "sara-matsumoto"
+    ]
+  },
+  {
+    "name": "Grandpa Higurashi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40419.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsumi-suzuki"
+    ]
+  },
+  {
+    "name": "Gyokuto",
+    "nameNative": "玉兎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191930-SnigGCgoFyuX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-ueda"
+    ]
+  },
+  {
+    "name": "Hachiemon",
+    "nameNative": "八衛門",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1363-Y7kRvDaEWe1W.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chafuurin"
+    ]
+  },
+  {
+    "name": "Hisui",
+    "nameNative": "翡翠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189857-3rW7tMHSOT4R.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehiro-urao"
+    ]
+  },
+  {
+    "name": "Inuyasha",
+    "nameNative": "犬夜叉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1353-xsZhvfi7IFzT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Jaken",
+    "nameNative": "邪見",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1364-4Y3v1IMEAwIg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Kaede",
+    "nameNative": "楓",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1360-nvgYPaUEMeG6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kyouda"
+    ]
+  },
+  {
+    "name": "Kagome Higurashi",
+    "nameNative": "日暮かごめ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1354-PuUTCSX7UzKA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Kinu",
+    "nameNative": "金烏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191931-6gM63cCswo8R.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-gomazuru"
+    ]
+  },
+  {
+    "name": "Kirara",
+    "nameNative": "雲母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8323-RGrk8ZVTYUuy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tarako"
+    ]
+  },
+  {
+    "name": "Kirin Osamu",
+    "nameNative": "希林理",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215206-DDaVh2Hui82Q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Kohaku",
+    "nameNative": "琥珀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1366-Fac3MafjvAaJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouhei-kimura"
+    ]
+  },
+  {
+    "name": "Mama",
+    "nameNative": "ママ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b39399-mhywbOOMiUOJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asako-dodo"
+    ]
+  },
+  {
+    "name": "Miroku",
+    "nameNative": "弥勒",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1356-rLhVHJzPY0Mp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-yasumura"
+    ]
+  },
+  {
+    "name": "Myoga",
+    "nameNative": "冥加",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1361-qz5kWP3aFK9M.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Rin",
+    "nameNative": "りん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1365-C5r2sPW8PwA8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Rion",
+    "nameNative": "りおん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320917-FrjyWYEF5URN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saki-fujita"
+    ]
+  },
+  {
+    "name": "Sango",
+    "nameNative": "珊瑚",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1355-zPTmTwhMXQbt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houko-kuwashima"
+    ]
+  },
+  {
+    "name": "Sesshoumaru",
+    "nameNative": "殺生丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1358-oR7bIGfc5pnX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-narita"
+    ]
+  },
+  {
+    "name": "Shippo",
+    "nameNative": "七宝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1357-q81pBzC7ynld.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kumiko-watanabe"
+    ]
+  },
+  {
+    "name": "Souta Higurashi",
+    "nameNative": "日暮 草太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25422.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Takechiyo",
+    "nameNative": "竹千代",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189856-O0v1vkwY3T5w.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fairouz-ai"
+    ]
+  },
+  {
+    "name": "Totosai",
+    "nameNative": "刀々斎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1362.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoki-tatsuta"
+    ]
+  }
+]
