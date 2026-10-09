@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Carol",
+    "nameNative": "キャロル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/66977.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kana-asumi"
+    ]
+  },
+  {
+    "name": "Scrooge",
+    "nameNative": "スクルージ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61465.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Makoto Waltz Segai",
+    "nameNative": "嘘界ヴァルツ・誠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50709-w6HcbAb8jsLt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobutoshi-kanna"
+    ]
+  },
+  {
+    "name": "Present",
+    "nameNative": "プレゼント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/66999.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  }
+]
