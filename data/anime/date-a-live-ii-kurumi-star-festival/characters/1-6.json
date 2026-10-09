@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Kurumi Tokisaki",
+    "nameNative": "時崎狂三",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70069-DEV7X6o2L7oG.jpg",
+    "role": "main",
+    "voiceActors": [
+      "asami-sanada"
+    ]
+  },
+  {
+    "name": "Shidou Itsuka",
+    "nameNative": "五河士道",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65257-fBaWJ3ymyE5m.png",
+    "role": "main",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Kotori Itsuka",
+    "nameNative": "五河琴里",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65263-SsnYAtOtAiDK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayana-taketatsu"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kotono-mitsuishi"
+    ]
+  },
+  {
+    "name": "Tooka Yatogami",
+    "nameNative": "夜刀神十香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65259-rKR5JNNWyRC0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Yoshino",
+    "nameNative": "四糸乃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70603-7IKQbX4JZBIT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "iori-nomizu"
+    ]
+  }
+]
