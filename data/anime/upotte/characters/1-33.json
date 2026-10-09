@@ -1,0 +1,299 @@
+[
+  {
+    "name": "FNC",
+    "nameNative": "ふんこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41452-UJsbcISC3vHq.png",
+    "role": "main",
+    "voiceActors": [
+      "iori-nomizu"
+    ]
+  },
+  {
+    "name": "L85A1",
+    "nameNative": "える",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55709-lMxxBbOBKzF4.png",
+    "role": "main",
+    "voiceActors": [
+      "misato"
+    ]
+  },
+  {
+    "name": "M16A4",
+    "nameNative": "いちろく",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55707-oACWJ84fwAMF.png",
+    "role": "main",
+    "voiceActors": [
+      "misuzu-togashi"
+    ]
+  },
+  {
+    "name": "SG550",
+    "nameNative": "しぐ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55711-c6GhOC4na0Zd.png",
+    "role": "main",
+    "voiceActors": [
+      "kaori-sadohara"
+    ]
+  },
+  {
+    "name": "AK47",
+    "nameNative": "ななよん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166029-tkfYN1WDPfWi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayahi-takagaki"
+    ]
+  },
+  {
+    "name": "Ani",
+    "nameNative": "兄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166034-vOLNwjxSE8gu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaoru-mizuhara"
+    ]
+  },
+  {
+    "name": "AR18",
+    "nameNative": "いちはち",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/69117-WQGL6FEUPFc0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiharu-kitaoka"
+    ]
+  },
+  {
+    "name": "AUGA1",
+    "nameNative": "あぐ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64029.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-furuya"
+    ]
+  },
+  {
+    "name": "Curly",
+    "nameNative": "カーリィー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166041-GpwEZlpyV3FP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "FAL L1A1",
+    "nameNative": "ふぁる",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55715-mYnCpteLUpNp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mina-kasai"
+    ]
+  },
+  {
+    "name": "FG42",
+    "nameNative": "ふじこ先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/66183.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-asakawa"
+    ]
+  },
+  {
+    "name": "G3A3",
+    "nameNative": "じーすり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55717-frrX2ux1qSnj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-kosuge"
+    ]
+  },
+  {
+    "name": "Galil AR",
+    "nameNative": "ガリル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/62469.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariko-honda"
+    ]
+  },
+  {
+    "name": "Garand",
+    "nameNative": "ガーランド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166039-SYqHyu33i73h.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-ookawa"
+    ]
+  },
+  {
+    "name": "Genkoku",
+    "nameNative": "現国",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60649-IWui4hjgfv8I.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-kondou"
+    ]
+  },
+  {
+    "name": "HK33E",
+    "nameNative": "ちゅーすり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166044-NCm6GQSrhr3k.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chinatsu-akasaki"
+    ]
+  },
+  {
+    "name": "HK53",
+    "nameNative": "ごっさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166027-EHKhegslf57r.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kayoko-tsumita"
+    ]
+  },
+  {
+    "name": "Imouto",
+    "nameNative": "妹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166032-Im86vaVq77GV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chinatsu-akasaki"
+    ]
+  },
+  {
+    "name": "M10",
+    "nameNative": "えむてん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166040-Vc9oErUafeQ2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumi-fujimura"
+    ]
+  },
+  {
+    "name": "M14",
+    "nameNative": "いちよん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/55713.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saeko-zougou"
+    ]
+  },
+  {
+    "name": "M1928",
+    "nameNative": "トンプソン先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62063-7GVPluAxIoCQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  },
+  {
+    "name": "MLE 1949",
+    "nameNative": "ミレ先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166035-nCMa3Mzgr86w.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Model L",
+    "nameNative": "もでろ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166043-fQ8hTWg9q8Te.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "MP5A2",
+    "nameNative": "えむぴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166030-7Eff6c96prww.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chika-horikawa"
+    ]
+  },
+  {
+    "name": "RPK",
+    "nameNative": "RPK",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166028-6NPoY8zYsGo5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "SAKO RK95",
+    "nameNative": "さこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/62467.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "madoka-yamanaka"
+    ]
+  },
+  {
+    "name": "SAR21",
+    "nameNative": "さー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166031-lSnZmjOYr8GC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-satou"
+    ]
+  },
+  {
+    "name": "SIG SK46",
+    "nameNative": "エスケー先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166042-4gJJ5m2ujfWf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fuyuka-ooura"
+    ]
+  },
+  {
+    "name": "Springfield",
+    "nameNative": "スプリングフィールド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166038-aA2DOHqEIFP5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "SR88A",
+    "nameNative": "はちはち",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166033-pGak52V7neg0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshino-nanjou"
+    ]
+  },
+  {
+    "name": "T91",
+    "nameNative": "てい",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/62779.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Tenshu",
+    "nameNative": "店主",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166036-bNQ4L7aa3nc3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-mamiya"
+    ]
+  },
+  {
+    "name": "Type 86S",
+    "nameNative": "86式自動歩槍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166037-1kygH7MuNnDl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-takamori"
+    ]
+  }
+]
