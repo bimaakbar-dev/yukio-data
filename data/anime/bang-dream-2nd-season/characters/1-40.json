@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Arisa Ichigaya",
+    "nameNative": "市ヶ谷有咲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120230-WPEcZGRmnGC5.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayasa-itou"
+    ]
+  },
+  {
+    "name": "Kasumi Toyama",
+    "nameNative": "戸山香澄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120229-Entm21HlcfOe.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aimi"
+    ]
+  },
+  {
+    "name": "Rimi Ushigome",
+    "nameNative": "牛込りみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120231-K6AEycryRWhy.png",
+    "role": "main",
+    "voiceActors": [
+      "rimi-nishimoto"
+    ]
+  },
+  {
+    "name": "Rokka Asahi",
+    "nameNative": "朝日六花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133744-zVyRXr4pkgXZ.jpg",
+    "role": "main",
+    "voiceActors": [
+      "riko-kohara"
+    ]
+  },
+  {
+    "name": "Saaya Yamabuki",
+    "nameNative": "山吹沙綾",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120233-QLfw8r3EDBcy.png",
+    "role": "main",
+    "voiceActors": [
+      "ayaka-oohashi"
+    ]
+  },
+  {
+    "name": "Tae Hanazono",
+    "nameNative": "花園たえ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120232-AcXdfy7CwQnZ.png",
+    "role": "main",
+    "voiceActors": [
+      "sae-otsuka"
+    ]
+  },
+  {
+    "name": "Ako Udagawa",
+    "nameNative": "宇田川あこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128144-4LJFau7VtZwx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megu-sakuragawa"
+    ]
+  },
+  {
+    "name": "Asuka Toyama",
+    "nameNative": "戸山明日香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152338-uDiSB0ZJ3q47.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-ozaki"
+    ]
+  },
+  {
+    "name": "Aya Maruyama",
+    "nameNative": "丸山彩",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128160-Bfn3R7QoHCwy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-maeshima"
+    ]
+  },
+  {
+    "name": "Chisato Shirasagi",
+    "nameNative": "白鷺千聖",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128165-Sgg8gdiatFnl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Chiyu Tamade",
+    "nameNative": "玉出ちゆ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136986-NjsHVOR1HXdB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "risa-tsumugi"
+    ]
+  },
+  {
+    "name": "Eve Wakamiya",
+    "nameNative": "若宮イヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128166-f7LWEFaoxsFG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sawako-hata"
+    ]
+  },
+  {
+    "name": "Hagumi Kitazawa",
+    "nameNative": "北沢はぐみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128157-KzuPJkOKP3A7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuri-yoshida"
+    ]
+  },
+  {
+    "name": "Himari Uehara",
+    "nameNative": "上原ひまり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128154-WJMszxhwX4vl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  },
+  {
+    "name": "Hina Hikawa",
+    "nameNative": "氷川日菜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128164-cm2pNpWLQnHw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ari-ozawa"
+    ]
+  },
+  {
+    "name": "Hinako Nijikki",
+    "nameNative": "二十騎ひなこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152329-FVwvu0o376uR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sora-tokui"
+    ]
+  },
+  {
+    "name": "Kanon Matsubara",
+    "nameNative": "松原花音",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128158-MbpAkzNDhooO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "moe-toyota"
+    ]
+  },
+  {
+    "name": "Kaoru Seta",
+    "nameNative": "瀬田薫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127436-Y3pi2P3X3OrA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "azusa-tadokoro"
+    ]
+  },
+  {
+    "name": "Kokoro Tsurumaki",
+    "nameNative": "弦巻こころ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127272-GBoA1GSo0bmY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miku-itou"
+    ]
+  },
+  {
+    "name": "Lisa Imai",
+    "nameNative": "今井リサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128147-J7ZMX3qPOA0K.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-nakashima"
+    ]
+  },
+  {
+    "name": "Mami Ichigaya",
+    "nameNative": "市ヶ谷万実",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152366-4pbxVKckG33L.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-okamoto"
+    ]
+  },
+  {
+    "name": "Masuki Satou",
+    "nameNative": "佐藤ますき",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136984-8OOTRF4R5wcy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsume"
+    ]
+  },
+  {
+    "name": "Maya Yamato",
+    "nameNative": "大和麻弥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128163-giyMcwouRfrz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikumi-nakagami"
+    ]
+  },
+  {
+    "name": "Misaki Okusawa",
+    "nameNative": "奥沢美咲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128159-bFY3IoPzvTCS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyo-kurosawa"
+    ]
+  },
+  {
+    "name": "Moca Aoba",
+    "nameNative": "青葉モカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125931-mlYvTOJqEM7l.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sachika-misawa"
+    ]
+  },
+  {
+    "name": "Nanana Wanibe",
+    "nameNative": "鰐部七菜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152328-0CO6HIATKDbi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mikoi-sasaki"
+    ]
+  },
+  {
+    "name": "Natsuki Umino",
+    "nameNative": "海野夏希",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152342-kWrBomsyDFdt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Ran Mitake",
+    "nameNative": "美竹蘭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128153-Cu9jf1TMTBok.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Rei Wakana",
+    "nameNative": "和奏レイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136983-cLucL6a6d9n2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "raychell"
+    ]
+  },
+  {
+    "name": "Reona Nyubara",
+    "nameNative": "鳰原れおな",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136985-LMgp0lUFzjTR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reo-kurachi"
+    ]
+  },
+  {
+    "name": "Rii Uzawa",
+    "nameNative": "鵜沢リィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152330-Ov8Tfkuvvd9T.png",
+    "role": "supporting",
+    "voiceActors": [
+      "izumi-kitta"
+    ]
+  },
+  {
+    "name": "Rinko Shirokane",
+    "nameNative": "白金燐子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128143-GVjYbCIkvFsv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kanon-shizaki"
+    ]
+  },
+  {
+    "name": "Sayo Hikawa",
+    "nameNative": "氷川紗夜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126259-v68aRjSSM7hi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-kudou"
+    ]
+  },
+  {
+    "name": "Tome",
+    "nameNative": "トメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166725-hKSFQ5gSW9Lq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saeri-yokota"
+    ]
+  },
+  {
+    "name": "Tomoe Udagawa",
+    "nameNative": "宇田川巴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128155-YY3XR3Qfw5Fx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Tsugumi Hazawa",
+    "nameNative": "羽沢つぐみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128156-TZvwClP1AtsN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Ume",
+    "nameNative": "ウメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166726-5SnKqY9GAHxS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoko-miyazawa"
+    ]
+  },
+  {
+    "name": "Yone",
+    "nameNative": "ヨネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166724-0mkQm6dOG3EP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maki-izawa"
+    ]
+  },
+  {
+    "name": "Yukina Minato",
+    "nameNative": "湊友希那",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128146-gs1RVpeVKjDZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aina-aiba"
+    ]
+  },
+  {
+    "name": "Yuri Ushigome",
+    "nameNative": "牛込ゆり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152327-OKxP6TW7Os04.png",
+    "role": "supporting",
+    "voiceActors": [
+      "suzuko-mimori"
+    ]
+  }
+]
