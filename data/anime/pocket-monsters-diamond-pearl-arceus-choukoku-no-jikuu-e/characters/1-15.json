@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Arceus",
+    "nameNative": "アルセウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36904-VnI80CVRx3wV.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akihiro-miwa"
+    ]
+  },
+  {
+    "name": "Damos",
+    "nameNative": "ダモス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32862.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masahiro-takashima"
+    ]
+  },
+  {
+    "name": "Hikari",
+    "nameNative": "ヒカリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3966-Kz88gYqc5EcL.jpg",
+    "role": "main",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "nameNative": "ピカチュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Satoshi",
+    "nameNative": "サトシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+    "role": "main",
+    "voiceActors": [
+      "rica-matsumoto"
+    ]
+  },
+  {
+    "name": "Sheena",
+    "nameNative": "シーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37176.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kii-kitano"
+    ]
+  },
+  {
+    "name": "Takeshi",
+    "nameNative": "タケシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3854-qMVUF2YmWYoW.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Absol",
+    "nameNative": "アブソル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322914-mgBQujcKTITL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Giratina",
+    "nameNative": "ギラティナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204913-Pa618AJsYS55.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Gishin",
+    "nameNative": "ギシン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35328.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Kevin",
+    "nameNative": "ケビン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37177.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-kishi"
+    ]
+  },
+  {
+    "name": "Kojirou",
+    "nameNative": "コジロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3936-5sX4EZIY2BRU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Musashi",
+    "nameNative": "ムサシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3935-m000RuoIVOGI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Nyarth",
+    "nameNative": "ニャース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inuko-inuyama"
+    ]
+  }
+]
