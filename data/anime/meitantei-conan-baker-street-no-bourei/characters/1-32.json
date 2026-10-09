@@ -1,0 +1,292 @@
+[
+  {
+    "name": "Ai Haibara",
+    "nameNative": "灰原哀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1743-yw1FloPUI7jO.png",
+    "role": "main",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Ayumi Yoshida",
+    "nameNative": "吉田歩美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4228-c6vBLrG3AGdN.png",
+    "role": "main",
+    "voiceActors": [
+      "yukiko-iwai"
+    ]
+  },
+  {
+    "name": "Conan Edogawa",
+    "nameNative": "江戸川コナン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1742-NiV278NBFOvZ.png",
+    "role": "main",
+    "voiceActors": [
+      "minami-takayama",
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Genta Kojima",
+    "nameNative": "小嶋元太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4251-CK1ibFjPW7Kx.png",
+    "role": "main",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Kogorou Mouri",
+    "nameNative": "毛利小五郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1746-5I4sBSeXvCKP.png",
+    "role": "main",
+    "voiceActors": [
+      "akira-kamiya"
+    ]
+  },
+  {
+    "name": "Mitsuhiko Tsuburaya",
+    "nameNative": "円谷光彦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4252-eHo7i4WDIdQv.png",
+    "role": "main",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Noah's Ark",
+    "nameNative": "ノアズ・アーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52917-eWHrnbJzWDWM.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-orikasa"
+    ]
+  },
+  {
+    "name": "Ran Mouri",
+    "nameNative": "毛利蘭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1748-j3PdfbQruuOV.png",
+    "role": "main",
+    "voiceActors": [
+      "wakana-yamazaki"
+    ]
+  },
+  {
+    "name": "Akira Emori",
+    "nameNative": "江守晃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9186-jkrqJtlCVSS7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikako-aikawa"
+    ]
+  },
+  {
+    "name": "Hideki Moroboshi",
+    "nameNative": "諸星秀樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9184-DqZ7TLNEGxAU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-ogata"
+    ]
+  },
+  {
+    "name": "Hiroki Sawada",
+    "nameNative": "サワダ・ヒロキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9176-vMzEzHy9U3BW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-orikasa"
+    ]
+  },
+  {
+    "name": "Hiroshi Agasa",
+    "nameNative": "阿笠博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4162-lDyKQxlzEXcj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Hudson Fujin",
+    "nameNative": "ハドスン夫人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9181-l2KYyKysvt1V.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kei-hayami"
+    ]
+  },
+  {
+    "name": "Irene Adler",
+    "nameNative": "アイリーン・アドラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9188-EqyZdtQU9Dcl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumi-shimamoto"
+    ]
+  },
+  {
+    "name": "Jack the Ripper",
+    "nameNative": "ジャック・ザ・リッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9187-qh6eYxsap2zr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "James Moriarty Kyouju",
+    "nameNative": "ジェームズ・モリアーティ教授",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9182-lhcf273ik6TY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoshi-kobayashi"
+    ]
+  },
+  {
+    "name": "Josei Caster",
+    "nameNative": "女性キャスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52935-0UmCaO9OM5Vu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuji-mai"
+    ]
+  },
+  {
+    "name": "Juzo Megure",
+    "nameNative": "目暮十三",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4253.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chafuurin"
+    ]
+  },
+  {
+    "name": "Kazunobu Chiba",
+    "nameNative": "千葉和伸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30373-6sv7EFy1sW8j.png",
+    "role": "supporting",
+    "voiceActors": [
+      "isshin-chiba"
+    ]
+  },
+  {
+    "name": "Ninzaburo Shiratori",
+    "nameNative": "白鳥任三郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9180-1pTQwiTDZOTj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Sebastian Moran Taisa",
+    "nameNative": "セバスチャン・モラン大佐",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9179-isI6XWcgOUoJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuzuru-fujimoto"
+    ]
+  },
+  {
+    "name": "Seiichiro Kikukawa",
+    "nameNative": "菊川清一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9185-kV6TyJzFAGNj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Sherlock Holmes",
+    "nameNative": "シャーロック・ホームズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52931-jhn784uglrFz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-tanaka",
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Shimizu",
+    "nameNative": "清水",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52991-98U9o806lYCv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazusa-murai"
+    ]
+  },
+  {
+    "name": "Shinya Takizawa",
+    "nameNative": "滝沢進也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9189-7EYDt9UOnZ4t.png",
+    "role": "supporting",
+    "voiceActors": [
+      "urara-takano"
+    ]
+  },
+  {
+    "name": "Sonoko Suzuki",
+    "nameNative": "鈴木園子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1749-Jt3uRH7SRntc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-matsui"
+    ]
+  },
+  {
+    "name": "Tadaaki Kashimura",
+    "nameNative": "樫村忠彬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9178-zXO9DNgq2a36.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-hirata"
+    ]
+  },
+  {
+    "name": "Tetsunosuke Emori",
+    "nameNative": "江守哲之助",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52995-Rw7JfrKiL048.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eisuke-yoda"
+    ]
+  },
+  {
+    "name": "Thomas Schindler",
+    "nameNative": "トマス・シンドラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9183-QDT3dUEcBEq6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masane-tsukayama"
+    ]
+  },
+  {
+    "name": "Toshio Moroboshi",
+    "nameNative": "諸星登志夫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52993-NRHP0u38tkcs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuichi-horibe"
+    ]
+  },
+  {
+    "name": "Yukiko Kudo",
+    "nameNative": "工藤有希子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20372-UvED45jqnAfv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumi-shimamoto"
+    ]
+  },
+  {
+    "name": "Yusaku Kudo",
+    "nameNative": "工藤優作",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9177.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-tanaka"
+    ]
+  }
+]
