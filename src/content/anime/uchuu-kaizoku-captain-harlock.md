@@ -1,42 +1,41 @@
 ---
 title: Uchuu Kaizoku Captain Harlock
-titleEnglish: Captain Harlock Space Pirate
+titleEnglish: "Harlock: Space Pirate"
 titleNative: 宇宙海賊キャプテンハーロック
 
-malId: 1000
+malId: 17269
 kitsuId: "890"
 
-type: TV
+type: Movie
 status: finished
 source: manga
 
-season: winter
-year: 1978
-episodes: 42
-duration: 25
+season: summer
+year: 2013
+episodes: 1
+duration: 115
 
 aired:
-  from: "1978-03-14"
-  to: "1979-02-13"
+  from: "2013-09-07"
+  to: "2013-09-07"
 
 stats:
-  score: 7.3
+  score: 7.0
 
 genres:
   - action
-  - adventure
   - drama
   - sci-fi
 
 studios:
   - toei-animation
+  - marza-animation-planet
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1000-Xpeob9jND2tg.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1000-bRbPiTJ2PAYp.jpg"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx17269-PTlucMYOYZWn.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n17269-3gBPCOLabtCt.jpg"
+trailer: "FAch4diQRgY"
 
 draft: false
 ---
 
-The year is 2977. Mankind has become complacent and stagnant. All work is done by machines, while humans spend all their time on entertainment. But when a mysterious invader from the stars catches Earth unawares, only the legendary space pirate Captain Harlock and the crew of the Arcadia have the will to stand against them. 
-
-(Source: Anime News Network)
+Many years into the future, battle has been raging across the galaxies as 500 billion humans, whose forebears were exiled from Earth, plan to return to what is still called home. Forced to flee a ravaged Earth, humans have now depleted the corners of the galaxy to which they fled. Earth has now become the most valued and precious resource of all, controlled by the corrupt Gaia Coalition which governs the human race across the different galaxies. Captain Harlock and his trusted crew are the only hope mankind has of discovering the secrets that the Gaia have kept hidden.

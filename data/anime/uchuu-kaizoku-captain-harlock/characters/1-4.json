@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Captain Harlock",
+    "nameNative": "キャプテン・ハーロック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2888.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shun-oguri"
+    ]
+  },
+  {
+    "name": "Kei Yuki",
+    "nameNative": "有紀蛍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/24156.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "La Mimay",
+    "nameNative": "ラ・ミーメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31100.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-aoi"
+    ]
+  },
+  {
+    "name": "Yattaran",
+    "nameNative": "ヤッタラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14004.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "arata-furuta"
+    ]
+  }
+]

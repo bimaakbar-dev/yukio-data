@@ -1,52 +1,7 @@
 [
   {
     "relation": "alternative",
-    "slug": "uchuu-kaizoku-captain-herlock-arcadia-gou-no-nazo",
-    "title": "Uchuu Kaizoku Captain Herlock: Arcadia-gou no Nazo"
-  },
-  {
-    "relation": "character",
-    "slug": "ginga-tetsudou-999-movie",
-    "title": "Ginga Tetsudou 999 (Movie)"
-  },
-  {
-    "relation": "alternative",
-    "slug": "waga-seishun-no-arcadia",
-    "title": "Waga Seishun no Arcadia"
-  },
-  {
-    "relation": "alternative",
-    "slug": "waga-seishun-no-arcadia-mugen-kidou-ssx",
-    "title": "Waga Seishun no Arcadia: Mugen Kidou SSX"
-  },
-  {
-    "relation": "spin_off",
-    "slug": "queen-emeraldas",
-    "title": "Queen Emeraldas"
-  },
-  {
-    "relation": "sequel",
-    "slug": "herlock-saga-nibelung-no-yubiwa",
-    "title": "Herlock Saga: Nibelung no Yubiwa"
-  },
-  {
-    "relation": "side_story",
-    "slug": "cosmo-warrior-zero",
-    "title": "Cosmo Warrior Zero"
-  },
-  {
-    "relation": "alternative",
-    "slug": "gun-frontier",
-    "title": "Gun Frontier"
-  },
-  {
-    "relation": "side_story",
-    "slug": "space-pirate-captain-herlock-outside-legend-the-endless-odyssey",
-    "title": "Space Pirate Captain Herlock: Outside Legend - The Endless Odyssey"
-  },
-  {
-    "relation": "alternative",
-    "slug": "captain-herlock",
-    "title": "Captain Herlock"
+    "slug": "uchuu-kaizoku-captain-herlock",
+    "title": "Uchuu Kaizoku Captain Herlock"
   }
 ]
