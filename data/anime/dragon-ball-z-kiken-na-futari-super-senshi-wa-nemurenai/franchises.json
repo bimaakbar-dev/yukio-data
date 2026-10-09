@@ -1,0 +1,17 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "dragon-ball-z",
+    "title": "Dragon Ball Z"
+  },
+  {
+    "relation": "prequel",
+    "slug": "dragon-ball-z-movie-08-moetsukiro-nessen-ressen-chougekisen",
+    "title": "Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen"
+  },
+  {
+    "relation": "sequel",
+    "slug": "dragon-ball-z-movie-11-super-senshi-gekiha-katsu-no-wa-ore-da",
+    "title": "Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da"
+  }
+]
