@@ -1,65 +1,65 @@
 [
   {
     "name": "Ageha Yoshina",
+    "nameNative": "夜科アゲハ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10478-Xxs1Kr8NN20P.png",
     "role": "main",
     "voiceActors": [
       "rikuya-yasuda"
-    ],
-    "nameNative": "夜科アゲハ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10478-Xxs1Kr8NN20P.png"
-  },
-  {
-    "name": "Sakurako Amamiya",
-    "role": "main",
-    "voiceActors": [
-      "mayuko-kazama"
-    ],
-    "nameNative": "雨宮桜子",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10479-OOUSZF0NI5IT.png"
+    ]
   },
   {
     "name": "Asaga Hiryuu",
+    "nameNative": "朝河飛龍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10480-zcyQlLSjmjHI.png",
     "role": "main",
     "voiceActors": [
       "shunsuke-takeuchi"
-    ],
-    "nameNative": "朝河飛龍",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10480-zcyQlLSjmjHI.png"
-  },
-  {
-    "name": "Oboro Mochizuki",
-    "role": "main",
-    "voiceActors": [
-      "souma-saitou"
-    ],
-    "nameNative": "望月朧",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13808-DKK0teKbovPO.png"
+    ]
   },
   {
     "name": "Kabuto Kirisaki",
+    "nameNative": "霧崎カブト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20296-QQD1fnVdLwh3.png",
     "role": "main",
     "voiceActors": [
       "yukihiro-nozuyama"
-    ],
-    "nameNative": "霧崎カブト",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20296-QQD1fnVdLwh3.png"
+    ]
   },
   {
-    "name": "Matsuri Yakumo",
-    "role": "supporting",
+    "name": "Oboro Mochizuki",
+    "nameNative": "望月朧",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13808-DKK0teKbovPO.png",
+    "role": "main",
     "voiceActors": [
-      "yuuko-kaida"
-    ],
-    "nameNative": "八雲祭",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13809-juP5eMh5TO32.png"
+      "souma-saitou"
+    ]
+  },
+  {
+    "name": "Sakurako Amamiya",
+    "nameNative": "雨宮桜子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10479-OOUSZF0NI5IT.png",
+    "role": "main",
+    "voiceActors": [
+      "mayuko-kazama"
+    ]
   },
   {
     "name": "Dholaki",
+    "nameNative": "ドルキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23987.jpg",
     "role": "supporting",
     "voiceActors": [
       "nobuyuki-hiyama"
-    ],
-    "nameNative": "ドルキ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23987.jpg"
+    ]
+  },
+  {
+    "name": "Matsuri Yakumo",
+    "nameNative": "八雲祭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13809-juP5eMh5TO32.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
   }
 ]
