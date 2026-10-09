@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Ami Mizuno",
+    "nameNative": "水野亜美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2366-IJmfKZoSYT3N.png",
+    "role": "main",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Artemis",
+    "nameNative": "アルテミス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5408-eh4f6CArQ8G8.png",
+    "role": "main",
+    "voiceActors": [
+      "youhei-obayashi"
+    ]
+  },
+  {
+    "name": "Chibiusa",
+    "nameNative": "ちびうさ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2827-XDpzQoIQSPL8.jpg",
+    "role": "main",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Luna",
+    "nameNative": "ルナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5407.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ryou-hirohashi"
+    ]
+  },
+  {
+    "name": "Makoto Kino",
+    "nameNative": "木野まこと",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2825-d7HrsHjJgixD.png",
+    "role": "main",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Mamoru Chiba",
+    "nameNative": "地場衛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4013-pnQ2obKyW7Tv.png",
+    "role": "main",
+    "voiceActors": [
+      "kenji-nojima"
+    ]
+  },
+  {
+    "name": "Minako Aino",
+    "nameNative": "愛野美奈子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2826-BwX3oCmxTo6A.png",
+    "role": "main",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Rei Hino",
+    "nameNative": "火野レイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2367-KAExXjTB13mJ.png",
+    "role": "main",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Usagi Tsukino",
+    "nameNative": "月野うさぎ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2030-GQvVYPEYkXCy.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kotono-mitsuishi"
+    ]
+  },
+  {
+    "name": "Achiral",
+    "nameNative": "アキラル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b252528-jKIcnOBIipO3.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Berthier",
+    "nameNative": "ベルチェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8884.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rumi-kasahara"
+    ]
+  },
+  {
+    "name": "Black Lady",
+    "nameNative": "ブラック・レディ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54053-kLn0U1qNI13H.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Calaveras",
+    "nameNative": "カラベラス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8887-5PArlkejjD1Y.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoe-hanba"
+    ]
+  },
+  {
+    "name": "Chiral",
+    "nameNative": "キラル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11902-jsJinYMfnAxA.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Cooan",
+    "nameNative": "コーアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8883-LogXCBpREsFG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Crimson Rubeus",
+    "nameNative": "紅のルベウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8882-SvGmIllQW1S1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-takahashi"
+    ]
+  },
+  {
+    "name": "Diana",
+    "nameNative": "ダイアナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11899-qj8UghpgTrLA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-nakagawa"
+    ]
+  },
+  {
+    "name": "Green Esmeraude",
+    "nameNative": "翠のエスメロード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8881-vngHOpNhG04J.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "houko-kuwashima"
+    ]
+  },
+  {
+    "name": "Gurio Umino",
+    "nameNative": "海野ぐりお",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8544-X4tSTfcGaQUM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-yamashita"
+    ]
+  },
+  {
+    "name": "Haruna Sakurada",
+    "nameNative": "桜田春菜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8904-Hgd4kZ7Qo1JT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akemi-kanda"
+    ]
+  },
+  {
+    "name": "Ikuko Tsukino",
+    "nameNative": "月野育子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17937-N2Sz9U5bLmeJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-mizutani"
+    ]
+  },
+  {
+    "name": "Ittou Asanuma",
+    "nameNative": "浅沼一等",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35103.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-sakaguchi"
+    ]
+  },
+  {
+    "name": "Jadeite",
+    "nameNative": "ジェダイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8512.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kishio"
+    ]
+  },
+  {
+    "name": "Kenji Tsukino",
+    "nameNative": "月野謙之",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18345-7ZQAGo8LyccT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-madono"
+    ]
+  },
+  {
+    "name": "Kotono Sarashina",
+    "nameNative": "更科琴乃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217998-dnu9lBsokXM0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akemi-kanda"
+    ]
+  },
+  {
+    "name": "Kunzite",
+    "nameNative": "クンツァイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8515-NYM4kDPvdbWo.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-takemoto"
+    ]
+  },
+  {
+    "name": "Kuri",
+    "nameNative": "くり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41230-I57BeWmpZTgq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukiko-morishita"
+    ]
+  },
+  {
+    "name": "Mayumi Osaka",
+    "nameNative": "大阪まゆみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25887.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Morga",
+    "nameNative": "モルガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25899-GtJwq6kStBau.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Motoki Furuhata",
+    "nameNative": "古幡元基",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8906-mVPYTvxoPkKi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-okamoto"
+    ]
+  },
+  {
+    "name": "Naru Oosaka",
+    "nameNative": "大阪なる",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6870-XSkyv7S6Uzzt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-satou"
+    ]
+  },
+  {
+    "name": "Nephrite",
+    "nameNative": "ネフライト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8513-MiIUQHWs74y6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Petz",
+    "nameNative": "ペッツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8888-krWs4w1hKybn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wasabi-mizuta"
+    ]
+  },
+  {
+    "name": "Prince Dimande",
+    "nameNative": "プリンス・デマンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8892-URauR71hHYQU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Princess Dia",
+    "nameNative": "プリンセス・ダイヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b26068-i1ZSoU3b8asW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  },
+  {
+    "name": "Queen Beryl",
+    "nameNative": "クイン・ベリル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8511-FetY84D0aYCI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misa-watanabe"
+    ]
+  },
+  {
+    "name": "Queen Metalia",
+    "nameNative": "クイン・メタリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8909.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-matsuoka"
+    ]
+  },
+  {
+    "name": "Queen Serenity",
+    "nameNative": "クイン・セレニティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17010-nh0sC5kc9xvP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-koyama"
+    ]
+  },
+  {
+    "name": "Reika Nishimura",
+    "nameNative": "西村レイカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18349.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Saphir",
+    "nameNative": "蒼のサフィール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8890-6Bd4gpMfplQo.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tsubasa-yonaga"
+    ]
+  },
+  {
+    "name": "Setsuna Meiou",
+    "nameNative": "冥王せつな",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2828-1mJZhqN5Tzoo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-maeda"
+    ]
+  },
+  {
+    "name": "Shingo Tsukino",
+    "nameNative": "月野進悟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18346-a7YDFcjVydgo.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "seira-ryuu"
+    ]
+  },
+  {
+    "name": "Wiseman",
+    "nameNative": "ワイズマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8899-lAd76GAOsv89.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-iwasaki"
+    ]
+  },
+  {
+    "name": "Yumiko",
+    "nameNative": "ゆみこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41229-GAkOQkv7xVyE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hyang-lee-kim"
+    ]
+  },
+  {
+    "name": "Yuuji Kimura",
+    "nameNative": "木村雄二",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b38051-d0sTPfi5jYVd.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Zoisite",
+    "nameNative": "ゾイサイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8514-KhY9Lu4Frcol.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-matsukaze"
+    ]
+  }
+]
