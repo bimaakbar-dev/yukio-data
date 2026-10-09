@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Bardock",
+    "nameNative": "バーダック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6122-N8XCxV2YPd1r.png",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Chilled",
+    "nameNative": "チルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46175.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "Berry",
+    "nameNative": "ベリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/53833.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "houko-kuwashima"
+    ]
+  },
+  {
+    "name": "Dodoria",
+    "nameNative": "ドドリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9239.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-nagasako"
+    ]
+  },
+  {
+    "name": "Freeza",
+    "nameNative": "フリーザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3694-bDfOdSSdFfPv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "Ipana",
+    "nameNative": "イバナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/53831.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-ebara"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-yanami"
+    ]
+  },
+  {
+    "name": "Zarbon",
+    "nameNative": "ザーボン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5225.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-miura"
+    ]
+  }
+]
