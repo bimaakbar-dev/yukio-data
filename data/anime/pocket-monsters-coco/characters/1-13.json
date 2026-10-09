@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Coco",
+    "nameNative": "ココ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161863-EQ6zKxGxMKo7.png",
+    "role": "main",
+    "voiceActors": [
+      "moka-kamishiraishi",
+      "wakana-minami"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "nameNative": "ピカチュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Satoshi",
+    "nameNative": "サトシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+    "role": "main",
+    "voiceActors": [
+      "rica-matsumoto"
+    ]
+  },
+  {
+    "name": "Chouchou",
+    "nameNative": "町長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b238264-J5wE8hXvItHL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Hanako",
+    "nameNative": "ハナコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29184.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masami-toyoshima"
+    ]
+  },
+  {
+    "name": "Joy",
+    "nameNative": "ジョーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7558-LzxI6BSiinA3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kei-shindou"
+    ]
+  },
+  {
+    "name": "Karen",
+    "nameNative": "カレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183210-BZtdR61WurKh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-nakagawa"
+    ]
+  },
+  {
+    "name": "Kojirou",
+    "nameNative": "コジロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3936-5sX4EZIY2BRU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Musashi",
+    "nameNative": "ムサシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3935-m000RuoIVOGI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Nyarth",
+    "nameNative": "ニャース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inuko-inuyama"
+    ]
+  },
+  {
+    "name": "Sonans",
+    "nameNative": "ソーナンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144635-gUHUUYtPcxuV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Zarude",
+    "nameNative": "ザルード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183212-TOPUkhn70r3r.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kankurou-nakamura-vi",
+      "hiroshi-naka",
+      "kenn",
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Zed",
+    "nameNative": "ゼッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183211-O1BhtJnBzh5R.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  }
+]
