@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Kun",
+    "nameNative": "くん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130645-yV9zzZONnf7R.jpg",
+    "role": "main",
+    "voiceActors": [
+      "moka-kamishiraishi",
+      "tasuku-hatanaka"
+    ]
+  },
+  {
+    "name": "Mirai",
+    "nameNative": "ミライ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130646-hJBvo3nZL1TQ.jpg",
+    "role": "main",
+    "voiceActors": [
+      "haru-kuroki",
+      "kaede-hondo"
+    ]
+  },
+  {
+    "name": "Baba",
+    "nameNative": "ばあば",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130648-cozJZdU0zIRi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-miyazaki"
+    ]
+  },
+  {
+    "name": "Jiji",
+    "nameNative": "じいじ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130644-dObEtzgYr39b.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-hashimoto"
+    ]
+  },
+  {
+    "name": "Okaa-san",
+    "nameNative": "おかあさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130643-Xx4Z8ENB3K4J.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kumiko-asou"
+    ]
+  },
+  {
+    "name": "Otou-san",
+    "nameNative": "おとうさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130642-2NxIIsekZaGB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gen-hoshino"
+    ]
+  },
+  {
+    "name": "Seinen",
+    "nameNative": "青年",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130647-rrkgcnzwiRUB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaharu-fukuyama"
+    ]
+  },
+  {
+    "name": "Yukko",
+    "nameNative": "ゆっこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130652-rOQhvazKVlwB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuo-yoshihara"
+    ]
+  }
+]
