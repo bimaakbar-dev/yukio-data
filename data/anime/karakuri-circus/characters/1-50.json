@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Masaru Saiga",
+    "nameNative": "才賀勝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24280-bwii9YhAfT2n.png",
+    "role": "main",
+    "voiceActors": [
+      "chihiro-ueda"
+    ]
+  },
+  {
+    "name": "Narumi Katou",
+    "nameNative": "加藤鳴海",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n20174-lqVoCG8sQ75v.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Shirogane",
+    "nameNative": "しろがね",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30209-cnA0hqZEA22j.png",
+    "role": "main",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Angelina Saiga",
+    "nameNative": "才賀アンジェリーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180020-MONKt4rEydqe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Arlequino",
+    "nameNative": "アルレッキーノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128451-AyfFM9dG6joS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Bass Nash",
+    "nameNative": "バス・ナッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179986-nvvoyYMNhOnh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-miyamoto"
+    ]
+  },
+  {
+    "name": "Beth",
+    "nameNative": "ベス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179987-JSvPsNPxY9x6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiyuki-miura"
+    ]
+  },
+  {
+    "name": "Blom Blom Low",
+    "nameNative": "ブロム・ブロム・ロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179988-hZzK2FMddWlR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kensuke-satou"
+    ]
+  },
+  {
+    "name": "Brighella",
+    "nameNative": "ブリゲッラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179989-mLLjrTVtd9la.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-suyama"
+    ]
+  },
+  {
+    "name": "Candy Stamp",
+    "nameNative": "キャンディー・スタンプ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179990-rV7xf6ROD8IP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-iwasaki"
+    ]
+  },
+  {
+    "name": "Capitan Graziano",
+    "nameNative": "カピタン・グラツィアーノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179991-dGz4dPPFDPyT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kensuke-satou"
+    ]
+  },
+  {
+    "name": "Columbine",
+    "nameNative": "コロンビーヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128453-9ecA2u0NSQUG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Cupidia",
+    "nameNative": "クピディアー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179992-sS1Hbu1J4Dqd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Daiki Kanou",
+    "nameNative": "加納大輝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180005-f8F159GcWxkZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-ookuma"
+    ]
+  },
+  {
+    "name": "Dean Maistre",
+    "nameNative": "ディーン・メーストル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180009-1YynxlxNdmD1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Diamantina",
+    "nameNative": "ディアマンティーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179993-ATpwvWFHhnAS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-kanai"
+    ]
+  },
+  {
+    "name": "Doctor Lao",
+    "nameNative": "ドクトル・ラーオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179994-3I67LBWiqjGP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-yamauchi"
+    ]
+  },
+  {
+    "name": "Dottore",
+    "nameNative": "ドットーレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128459-wwBKBylXIQ4Z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuzaburou-ootomo"
+    ]
+  },
+  {
+    "name": "Drill September",
+    "nameNative": "ドリル・セプテンバー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179995-lCaQNlcdHIhI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinobu-matsumoto"
+    ]
+  },
+  {
+    "name": "Eiryou Ashihana",
+    "nameNative": "阿紫花英良",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128452-43hFKWgmvdU1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Faceless",
+    "nameNative": "フェイスレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179996-3vegNSw83aBs.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Fatima",
+    "nameNative": "ファティマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132163-vjuaB5kJNM77.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Flash Jimmy",
+    "nameNative": "フラッシュ・ジミー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179997-Zl5aLJWsMQIK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kunpei-sakamoto"
+    ]
+  },
+  {
+    "name": "Fou Claude Boileau",
+    "nameNative": "フウ・クロード・ボワロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179998-sv9rmIUuSjfM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-naka"
+    ]
+  },
+  {
+    "name": "Francine",
+    "nameNative": "フランシーヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132168-efN0xnv09Fpy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Fusae Nakamachi",
+    "nameNative": "仲町 フサエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180014-UGkc3lHA3ZZ7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-okada"
+    ]
+  },
+  {
+    "name": "Gambler Jones",
+    "nameNative": "ギャンブラー・ジョーンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180000-dTNd04i2OUOq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-takaguchi"
+    ]
+  },
+  {
+    "name": "Guy Christophe Rech",
+    "nameNative": "ギイ・クリストフ・レッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30210.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomu-sasaki"
+    ]
+  },
+  {
+    "name": "Harlequin",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180002-NOlU7jHgPOOc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Helen",
+    "nameNative": "ヘレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180003-aQ0idAZ3C3gx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-shimoda"
+    ]
+  },
+  {
+    "name": "Hiro Nakamachi",
+    "nameNative": "仲町浩男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128454-E0FdcrsmH1Md.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Jian-Feng Liang",
+    "nameNative": "梁剣峰",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132155-y0rNdjsgft3y.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Jim",
+    "nameNative": "ジム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180004-Gi3wBPXPuk8p.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouhei-komatsu"
+    ]
+  },
+  {
+    "name": "Jin Bai",
+    "nameNative": "白金",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132162-f6IIjE4imq4i.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Kanou",
+    "nameNative": "加納",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132165-rGaBA3mzKYSz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "uko-tachibana"
+    ]
+  },
+  {
+    "name": "Keniss",
+    "nameNative": "ケニス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180006-u7NLmvQ8dlb5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "you-kitazawa"
+    ]
+  },
+  {
+    "name": "Lady Spider",
+    "nameNative": "レディー・スパイダー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180007-mSDacyEYj0oO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-okada"
+    ]
+  },
+  {
+    "name": "Lucille Verneuil",
+    "nameNative": "ルシール・ベルヌイユ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128463-GMwykm0Lyfmw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Magdalen",
+    "nameNative": "マグダレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180008-7TOUZoR8vKLN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-fujiwara"
+    ]
+  },
+  {
+    "name": "Malina",
+    "nameNative": "馬麗娜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180010-Wh8sVJt9Q1Kl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kayo-ishida"
+    ]
+  },
+  {
+    "name": "Mark",
+    "nameNative": "マーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180011-guEQzyJAhQJP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-senbongi"
+    ]
+  },
+  {
+    "name": "Masamura",
+    "nameNative": "増村",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132159-U8a8hi4ocIBb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-hirai"
+    ]
+  },
+  {
+    "name": "Merry-Go-Round Olsen",
+    "nameNative": "メリーゴーラウンド・オルセン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180012-EKyRNHVnHbEr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-kanuka"
+    ]
+  },
+  {
+    "name": "Ming-Xia Liang",
+    "nameNative": "梁明霞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132166-3aszh30WY3Y5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshino-nanjou"
+    ]
+  },
+  {
+    "name": "Nakata",
+    "nameNative": "中田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132160-BNtBpKiByByE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuichi-kijima"
+    ]
+  },
+  {
+    "name": "Naya Steel",
+    "nameNative": "ナイア・スティール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180022-iofENpUvT8Eb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-kinoshita"
+    ]
+  },
+  {
+    "name": "Noriyuki Nakamachi",
+    "nameNative": "仲町紀之",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128455-20MybtZiFUC8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-iwasaki"
+    ]
+  },
+  {
+    "name": "Orazio",
+    "nameNative": "オラーツィオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180015-8piZnbSS2ead.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-yoshino"
+    ]
+  },
+  {
+    "name": "Ozaki",
+    "nameNative": "尾崎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132156-JjUo34YMXOEU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "volcano-oota"
+    ]
+  },
+  {
+    "name": "Pantalon",
+    "nameNative": "パンタローネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128458-ur6Bd3s6bwCi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  }
+]
