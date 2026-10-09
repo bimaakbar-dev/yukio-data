@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Hamaji",
+    "nameNative": "浜路",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/71929.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayahi-takagaki"
+    ]
+  },
+  {
+    "name": "Shino Inuzuka",
+    "nameNative": "犬塚信乃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65819-vR8H3F5F1JAt.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Sousuke Inukawa",
+    "nameNative": "犬川荘介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/65821.jpg",
+    "role": "main",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Akane Saiki",
+    "nameNative": "斎木 茜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78903.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Ayane Mizuki",
+    "nameNative": "観月あやね",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78401.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-akesaka"
+    ]
+  },
+  {
+    "name": "Bungo Inuta",
+    "nameNative": "犬田文吾兵衛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77581.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-uo"
+    ]
+  },
+  {
+    "name": "Chitose",
+    "nameNative": "千歳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81161.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-kimura"
+    ]
+  },
+  {
+    "name": "Daikaku Inumura",
+    "nameNative": "犬村大角",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/85619.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Dousetsu Inuyama",
+    "nameNative": "犬山道節",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75388-SM44vLo9Y0AA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Fenegan",
+    "nameNative": "フェネガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81877.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Gama no Aya",
+    "nameNative": "ガマの妖",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77351.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-matsuyama"
+    ]
+  },
+  {
+    "name": "Genpachi Inukai",
+    "nameNative": "犬飼現八",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b53741-VbOUhc3KxdJo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "Hibiki",
+    "nameNative": "響",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78457.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miho-arakawa"
+    ]
+  },
+  {
+    "name": "Jouji Sakuraba",
+    "nameNative": "桜庭丈治",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78905.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Kanachi Hinozuka",
+    "nameNative": "緋ノ塚那智",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/85615.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kaname Osaki",
+    "nameNative": "尾崎 要",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77333.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Keno Inusaka",
+    "nameNative": "犬阪毛野",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75538-fpi2lGmDtyzY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-miyake"
+    ]
+  },
+  {
+    "name": "Kenta no Chichi",
+    "nameNative": "健太の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77347.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisao-egawa"
+    ]
+  },
+  {
+    "name": "Kenta no Haha",
+    "nameNative": "健太の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77349.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mizuki-nishikawa"
+    ]
+  },
+  {
+    "name": "Kenta Ogiwara",
+    "nameNative": "健太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77345.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-sanpei"
+    ]
+  },
+  {
+    "name": "Kobungo Inuta",
+    "nameNative": "犬田小文吾",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/75532.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-terashima"
+    ]
+  },
+  {
+    "name": "Kohaku",
+    "nameNative": "琥珀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81159.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-minagawa"
+    ]
+  },
+  {
+    "name": "Kokonoe",
+    "nameNative": "九重",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78901.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-shindou"
+    ]
+  },
+  {
+    "name": "Lilith",
+    "nameNative": "リリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/82233.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-honna"
+    ]
+  },
+  {
+    "name": "Murasame",
+    "nameNative": "村雨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76930-2ODNjO3P7mBd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Myoukou",
+    "nameNative": "明光",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77355.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  },
+  {
+    "name": "Riou Satomi",
+    "nameNative": "里見莉芳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/75534.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Rou Shinpu",
+    "nameNative": "老神父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77343.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-maruyama"
+    ]
+  },
+  {
+    "name": "Ruri Kobayakawa",
+    "nameNative": "小早川るり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/80815.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sawa-ishige"
+    ]
+  },
+  {
+    "name": "Sarugami",
+    "nameNative": "猿神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78907.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-tsuruoka"
+    ]
+  },
+  {
+    "name": "Sayoko Inuta",
+    "nameNative": "犬田小夜子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77583.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "michiko-neya"
+    ]
+  },
+  {
+    "name": "Seiran",
+    "nameNative": "青蘭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77353.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriaki-sugiyama"
+    ]
+  },
+  {
+    "name": "Shinobu Inue",
+    "nameNative": "犬江仁",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/85613.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Shinpu",
+    "nameNative": "神父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77341.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Shouichi",
+    "nameNative": "昭市",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81163.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-kondou"
+    ]
+  },
+  {
+    "name": "Suzu Kumagai",
+    "nameNative": "熊谷鈴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/80813.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marie-miyake"
+    ]
+  },
+  {
+    "name": "Tamazusa",
+    "nameNative": "玉梓",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/82231.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-katsuki"
+    ]
+  },
+  {
+    "name": "Yukihime",
+    "nameNative": "雪姫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/80811.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  }
+]
