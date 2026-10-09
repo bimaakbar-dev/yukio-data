@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Aqua",
+    "nameNative": "アクア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png",
+    "role": "main",
+    "voiceActors": [
+      "sora-amamiya"
+    ]
+  },
+  {
+    "name": "Darkness",
+    "nameNative": "ダクネス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Kazuma Satou",
+    "nameNative": "佐藤和真",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukushima"
+    ]
+  },
+  {
+    "name": "Megumin",
+    "nameNative": "めぐみん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png",
+    "role": "main",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Acure",
+    "nameNative": "アキュア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b392023-U56R5Bn8u9dt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Luckless",
+    "nameNative": "ラクレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b392024-UHuKwxK9cE8l.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Luna",
+    "nameNative": "ルナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120657-xT7lUbz4uk0k.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-hara"
+    ]
+  },
+  {
+    "name": "Megumi",
+    "nameNative": "めぐみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b392022-EHu7on22SQ6o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rumi-ookubo"
+    ]
+  },
+  {
+    "name": "Ozuma",
+    "nameNative": "オズマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b392021-Kne2klZ30bSD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Wiz",
+    "nameNative": "ウィズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120655-LfUD7Mb1Mncg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Yunyun",
+    "nameNative": "ゆんゆん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-toyosaki"
+    ]
+  }
+]
