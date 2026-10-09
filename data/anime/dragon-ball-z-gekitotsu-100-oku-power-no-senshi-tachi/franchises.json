@@ -1,0 +1,17 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "dragon-ball-z",
+    "title": "Dragon Ball Z"
+  },
+  {
+    "relation": "prequel",
+    "slug": "dragon-ball-z-movie-05-tobikkiri-no-saikyou-tai-saikyou",
+    "title": "Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou"
+  },
+  {
+    "relation": "sequel",
+    "slug": "dragon-ball-z-movie-07-kyokugen-battle-sandai-super-saiyajin",
+    "title": "Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin"
+  }
+]
