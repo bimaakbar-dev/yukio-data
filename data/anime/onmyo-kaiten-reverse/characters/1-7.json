@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Abeno Seimei",
+    "nameNative": "安倍晴明",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b356944-84suqf2Vxy1m.png",
+    "role": "main",
+    "voiceActors": [
+      "ryouhei-kimura"
+    ]
+  },
+  {
+    "name": "Takeru Narihira",
+    "nameNative": "業平猛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b356942-lQlBYWAbIEIM.png",
+    "role": "main",
+    "voiceActors": [
+      "taihi-kimura"
+    ]
+  },
+  {
+    "name": "Tsukimiya",
+    "nameNative": "ツキミヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b356943-atVg9icTwKoY.png",
+    "role": "main",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Atsunaga",
+    "nameNative": "アツナガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b364183-4LreP1oUznNJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Kazura",
+    "nameNative": "カズラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b364182-1Jm1jrYzoTZt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Shino",
+    "nameNative": "シノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b364185-CJY81moyyEJr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chihaya-yoshitake"
+    ]
+  },
+  {
+    "name": "Yura",
+    "nameNative": "ユラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b364184-FZOmr7OxPXDq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "anna-nagase"
+    ]
+  }
+]
