@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Saki",
+    "nameNative": "咲希",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219509-QhBzvlsvhfIo.png",
+    "role": "main",
+    "voiceActors": [
+      "kiko-tamura"
+    ]
+  },
+  {
+    "name": "Yasuke",
+    "nameNative": "ヤスケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b216453-uNXWxh7AO3RK.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-soejima"
+    ]
+  },
+  {
+    "name": "Abraham",
+    "nameNative": "アブラハム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219502-ZhktTmuPDBNI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-ushiyama"
+    ]
+  },
+  {
+    "name": "Achoja",
+    "nameNative": "アチョジャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219505-NbPwiQx3WVzx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-kitamura"
+    ]
+  },
+  {
+    "name": "Giovanni",
+    "nameNative": "ジョバンニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b222230-a8eJQ9L8D9wV.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Gyuuichi Oota",
+    "nameNative": "太田牛一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b222234-FzykktNNeBeB.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Haruto",
+    "nameNative": "ハルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219510-rGNtXkgGfL4A.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-kubozuka"
+    ]
+  },
+  {
+    "name": "Ichika",
+    "nameNative": "一華",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219503-KHEOJbDIOpSp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-tanaka"
+    ]
+  },
+  {
+    "name": "Ichirou",
+    "nameNative": "イチロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b222225-ejjqdxDuNAak.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ishikawa",
+    "nameNative": "イシカワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219508-zSDYkFO2RzaV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Kurosaka",
+    "nameNative": "黒坂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b222077-evX1C1uGQvBU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Morisuke",
+    "nameNative": "守助",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219511-OOUKQsdZZKY8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kamio"
+    ]
+  },
+  {
+    "name": "Natsumaru",
+    "nameNative": "夏丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219506-l4h8sLw9wgKb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fusako-urabe"
+    ]
+  },
+  {
+    "name": "Nikita",
+    "nameNative": "ニキータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219504-OFGEQTrrLWk9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-nanami"
+    ]
+  },
+  {
+    "name": "Nobunaga Oda",
+    "nameNative": "織田信長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b216452-3rHXddfUgC1q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehiro-hira"
+    ]
+  },
+  {
+    "name": "Ranmaru",
+    "nameNative": "蘭丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b222226-4glzbMJdn0Vq.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Yami no Daimyou",
+    "nameNative": "闇の大名",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219507-hZbXW977JFVo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  }
+]
