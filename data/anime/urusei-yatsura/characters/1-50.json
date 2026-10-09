@@ -1,0 +1,433 @@
+[
+  {
+    "name": "Ataru Moroboshi",
+    "nameNative": "諸星あたる",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4834-N3Rgvc0ASR1d.jpg",
+    "role": "main",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Lum",
+    "nameNative": "ラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4835-Blt6iPoFEQnr.jpg",
+    "role": "main",
+    "voiceActors": [
+      "fumi-hirano"
+    ]
+  },
+  {
+    "name": "Shinobu Miyake",
+    "nameNative": "三宅しのぶ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4837-MyjmNYCS21b0.jpg",
+    "role": "main",
+    "voiceActors": [
+      "saeko-shimazu"
+    ]
+  },
+  {
+    "name": "Shuutarou Mendou",
+    "nameNative": "面堂終太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4836-trBkldOOOaIx.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akira-kamiya"
+    ]
+  },
+  {
+    "name": "Adam",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50735.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Akira",
+    "nameNative": "明",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22392.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-nishimura",
+      "issei-futamata"
+    ]
+  },
+  {
+    "name": "Amefurashi",
+    "nameNative": "アメフラシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54549.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-uetake"
+    ]
+  },
+  {
+    "name": "Anna Katsuragi",
+    "nameNative": "あんな",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54553.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miina-tominaga"
+    ]
+  },
+  {
+    "name": "Anzu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54559.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Asuka Mizunokoji",
+    "nameNative": "水乃小路飛鳥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54539-u6rp0yO1AP9B.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sumi-shimamoto"
+    ]
+  },
+  {
+    "name": "Ataru no Chichi",
+    "nameNative": "あたるの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49951.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Benten",
+    "nameNative": "弁天",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18381-HSb3d3a2GoZb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-iguchi"
+    ]
+  },
+  {
+    "name": "Bijutsu no Sensei",
+    "nameNative": "美術の先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54537.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norio-wakamoto"
+    ]
+  },
+  {
+    "name": "CAO-2",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49967.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ichirou-nagai"
+    ]
+  },
+  {
+    "name": "Chiyoko Nakamine",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50731.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Count Dracula",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54545.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaneta-kimotsuki"
+    ]
+  },
+  {
+    "name": "Eve",
+    "nameNative": "イヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50737.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sakiko-tamagawa"
+    ]
+  },
+  {
+    "name": "Flower Shop Girl",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54547.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mieko-nobusawa"
+    ]
+  },
+  {
+    "name": "Ginger",
+    "nameNative": "じんじゃあ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60557.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chika-sakamoto"
+    ]
+  },
+  {
+    "name": "Hanawa-sensei",
+    "nameNative": "花和先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49955.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rokuro-naya"
+    ]
+  },
+  {
+    "name": "Hiroyuki",
+    "nameNative": "博之",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22393.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinji-nomura"
+    ]
+  },
+  {
+    "name": "Izumi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54563.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-han"
+    ]
+  },
+  {
+    "name": "Joouheika",
+    "nameNative": "女王陛下",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60825.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  },
+  {
+    "name": "Kaede",
+    "nameNative": "かえで",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54555.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-iguchi"
+    ]
+  },
+  {
+    "name": "Kintarou",
+    "nameNative": "金太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49965.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Kitsune",
+    "nameNative": "キツネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n41582-XhtWKeVu9jnD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-sugaya"
+    ]
+  },
+  {
+    "name": "Kokeru Moroboshi",
+    "nameNative": "諸星こける",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319083-G9RE8xgmMRcK.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Komori",
+    "nameNative": "こうもり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b344698-D7ORZwYNek6f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-oota"
+    ]
+  },
+  {
+    "name": "Kotatsu-neko",
+    "nameNative": "こたつ猫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49971-fKQAMC8lZMFZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-nishimura"
+    ]
+  },
+  {
+    "name": "Kotori",
+    "nameNative": "小鳥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50733.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "matsumi-ooshiro"
+    ]
+  },
+  {
+    "name": "Kouchou-sensei",
+    "nameNative": "校長先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49953-hzkDPCZJbEjG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomomichi-nishimura"
+    ]
+  },
+  {
+    "name": "Kousuke Shirai",
+    "nameNative": "白井浩介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b216788-k2CIJmfmi0ii.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kurama",
+    "nameNative": "クラマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18379-DTJKhBXtP8j0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rihoko-yoshida"
+    ]
+  },
+  {
+    "name": "Lum no Chichi",
+    "nameNative": "ラムの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49959.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ritsuo-sawa"
+    ]
+  },
+  {
+    "name": "Lum no Haha",
+    "nameNative": "ラムの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49225-9LUk3C70IJfe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reiko-yamada"
+    ]
+  },
+  {
+    "name": "Mendou no Chichi",
+    "nameNative": "面堂の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49963-Z3plWRDNUNUZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  },
+  {
+    "name": "Mendou no Haha",
+    "nameNative": "面堂の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49223-GX4Th4Mvvpz7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-tsuboi"
+    ]
+  },
+  {
+    "name": "Miki",
+    "nameNative": "みき",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/86137.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "harumi-ichiryuusai"
+    ]
+  },
+  {
+    "name": "Mizunokoji Chichi",
+    "nameNative": "水乃小路母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54543.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "issei-futamata"
+    ]
+  },
+  {
+    "name": "Mizunokoji Haha",
+    "nameNative": "水乃小路母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54541.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuri-nashiwa"
+    ]
+  },
+  {
+    "name": "Moroboshi Ataru no Haha",
+    "nameNative": "諸星あたるの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29395.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-sakuma"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Negai Hoshi",
+    "nameNative": "願い星",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298321-HsCd7BAgjzR8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "isamu-tanonaka"
+    ]
+  },
+  {
+    "name": "Nozomi",
+    "nameNative": "望",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60287-jwkSqgJ4L7Ac.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "matsumi-ooshiro"
+    ]
+  },
+  {
+    "name": "Ogin",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50729.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  },
+  {
+    "name": "Onsen-Mark",
+    "nameNative": "温泉マーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29390-WpeX8CzzJ6Ui.png",
+    "role": "supporting",
+    "voiceActors": [
+      "michihiro-ikemizu"
+    ]
+  },
+  {
+    "name": "Oshima",
+    "nameNative": "O島",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/58185.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-sugaya"
+    ]
+  },
+  {
+    "name": "Otama",
+    "nameNative": "お玉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50723.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  },
+  {
+    "name": "Oyuki",
+    "nameNative": "おユキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18007-jyZwbvkEa5m1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-ohara"
+    ]
+  },
+  {
+    "name": "Pepper",
+    "nameNative": "ぺっぱあ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60567.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rumiko-ukai"
+    ]
+  }
+]
