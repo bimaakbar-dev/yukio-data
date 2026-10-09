@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Kuromitsu",
+    "nameNative": "黒蜜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15481.jpg",
+    "role": "main",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Kurou",
+    "nameNative": "クロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15480.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Arashiyama",
+    "nameNative": "嵐山",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17077.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Benkei",
+    "nameNative": "弁慶",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16278.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Izana",
+    "nameNative": "居座魚",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42828.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Karuta",
+    "nameNative": "歌留多",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16615.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Kuon",
+    "nameNative": "久遠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16692.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-irino"
+    ]
+  },
+  {
+    "name": "Rai",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17930.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "houko-kuwashima"
+    ]
+  }
+]
