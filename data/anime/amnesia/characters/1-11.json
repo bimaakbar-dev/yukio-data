@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Heroine",
+    "nameNative": "主人公",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70403-ETQkdyzq6ZAO.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kaori-nazuka"
+    ]
+  },
+  {
+    "name": "Ikki",
+    "nameNative": "イッキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70409-zDF3joiynlg8.png",
+    "role": "main",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Kent",
+    "nameNative": "ケント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70415-6D3uEjM1BCnl.png",
+    "role": "main",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Orion",
+    "nameNative": "オリオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70405-yf8Zxa3Jqk0w.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiromi-igarashi"
+    ]
+  },
+  {
+    "name": "Shin",
+    "nameNative": "シン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70413-nPevmSu5ymAp.png",
+    "role": "main",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Toma",
+    "nameNative": "トーマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70411-ualoJDsEEOuk.png",
+    "role": "main",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Ukyo",
+    "nameNative": "ウキョウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70407-pptT3LlZqnke.png",
+    "role": "main",
+    "voiceActors": [
+      "kouki-miyata"
+    ]
+  },
+  {
+    "name": "Mine",
+    "nameNative": "ミネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/70419.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-akutsu"
+    ]
+  },
+  {
+    "name": "Rika",
+    "nameNative": "リカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/70421.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "seiko-yoshida"
+    ]
+  },
+  {
+    "name": "Sawa",
+    "nameNative": "サワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/70417.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-moriya"
+    ]
+  },
+  {
+    "name": "Waka",
+    "nameNative": "ワカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/74261.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenori-takahashi"
+    ]
+  }
+]
