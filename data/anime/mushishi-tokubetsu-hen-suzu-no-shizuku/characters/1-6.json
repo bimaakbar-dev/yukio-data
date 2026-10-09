@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Ginko",
+    "nameNative": "ギンコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b425-khK03T5n9Umq.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuto-nakano"
+    ]
+  },
+  {
+    "name": "Kaya",
+    "nameNative": "カヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175423-h8oPsE1AgOI5.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomomi-saitou",
+      "yuura-kondou"
+    ]
+  },
+  {
+    "name": "Chichioya",
+    "nameNative": "父親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185703-7REJnj58sFXf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-satou"
+    ]
+  },
+  {
+    "name": "Hahaoya",
+    "nameNative": "母親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185701-XvVp291gp3oO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kimika-ishima"
+    ]
+  },
+  {
+    "name": "Yoshirou",
+    "nameNative": "葦朗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175424-QQkxEYLQYMN6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gen-ogawa",
+      "yuu-sakuma"
+    ]
+  },
+  {
+    "name": "Yoshirou no Otouto",
+    "nameNative": "葦朗の弟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185702-7W1XJmQjWbGy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuya-okada"
+    ]
+  }
+]
