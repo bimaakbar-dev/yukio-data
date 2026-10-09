@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Fable",
+    "nameNative": "ファブル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b173771-wgOorCDjqQhR.png",
+    "role": "main",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Bar Buffalo no Master",
+    "nameNative": "Bar Buffaloのマスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328464-fZhbwgnCya1h.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-ichijou"
+    ]
+  },
+  {
+    "name": "Boss",
+    "nameNative": "ボス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292104-jbmhvwmUqUpK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuo-komura"
+    ]
+  },
+  {
+    "name": "Etsushi Kainuma",
+    "nameNative": "貝沼悦司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328467-RCYDk0iULDtX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takumi-asahina"
+    ]
+  },
+  {
+    "name": "Hinako Saba",
+    "nameNative": "佐羽ヒナコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b347590-nOGHysZFsV4B.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chika-anzai"
+    ]
+  },
+  {
+    "name": "Hiroshi Hamada",
+    "nameNative": "浜田広志",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290486-2zTROFDQhLER.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-ishii"
+    ]
+  },
+  {
+    "name": "Hiroshi Suzuki",
+    "nameNative": "鈴木ヒロシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b347589-v3eLVdTDYNVj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Jackal Tomioka",
+    "nameNative": "ジャッカル富岡",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b325253-BtQrudgRRZiZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukushima"
+    ]
+  },
+  {
+    "name": "Katsuya Takahashi",
+    "nameNative": "高橋勝也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328459-JXxLRME3Jw9k.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuudai-mino"
+    ]
+  },
+  {
+    "name": "Kenji Kojima",
+    "nameNative": "小島賢治",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b325252-dnMF1CjZi7lZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Kenjirou Takouda",
+    "nameNative": "田高田健二郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328462-ZQdX53pPvCP9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeharu-onishi"
+    ]
+  },
+  {
+    "name": "Matsu",
+    "nameNative": "マツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292107-UDzJ07Xb9GWy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyomitsu-mizuuchi"
+    ]
+  },
+  {
+    "name": "Misaki Shimizu",
+    "nameNative": "清水岬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290549-HpZmurU0M81K.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Rei Utsubo",
+    "nameNative": "宇津帆玲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b347588-O9Ls5tGKY113.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinshuu-fuji"
+    ]
+  },
+  {
+    "name": "Ryou Kuroshio",
+    "nameNative": "黒塩遼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292106-TRCvOaQjDtQi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-iwasaki"
+    ]
+  },
+  {
+    "name": "Satoshi Ebihara",
+    "nameNative": "海老原剛士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290548-P3DNSwNML0Qc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Souichi Sunagawa",
+    "nameNative": "砂川宗一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328460-XYq9LbXFSzdy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "koujirou-takahashi"
+    ]
+  },
+  {
+    "name": "Tsutomo Isaki",
+    "nameNative": "井崎ツトム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b347591-UbJTmHFVH5gg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihiro-kanemitsu"
+    ]
+  },
+  {
+    "name": "Youko Satou",
+    "nameNative": "佐藤洋子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188618-TQU2Ks0LeEby.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Yuuki Kawai",
+    "nameNative": "河合ユウキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328466-HPLYPYLrGiJ0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  }
+]
