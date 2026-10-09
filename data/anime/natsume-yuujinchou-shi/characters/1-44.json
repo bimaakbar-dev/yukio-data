@@ -1,0 +1,401 @@
+[
+  {
+    "name": "Madara",
+    "nameNative": "斑",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/13784.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kazuhiko-inoue",
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Takashi Natsume",
+    "nameNative": "夏目貴志",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13783-FvmhRaCOKzKQ.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroshi-kamiya",
+      "ayumi-fujimura"
+    ]
+  },
+  {
+    "name": "Amana",
+    "nameNative": "アマナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/55289.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-orikasa"
+    ]
+  },
+  {
+    "name": "Aoi Miyoko no Chichi",
+    "nameNative": "蒼井三世子の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/59165.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "manabu-muraji"
+    ]
+  },
+  {
+    "name": "Aoi Miyoko no Haha",
+    "nameNative": "蒼井三世子の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/59167.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-sonoda"
+    ]
+  },
+  {
+    "name": "Atsushi Kitamoto",
+    "nameNative": "北本篤史",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23039-Q9gGFW3RLFJc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisayoshi-suganuma"
+    ]
+  },
+  {
+    "name": "Chobi-hige",
+    "nameNative": "ちょびひげ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23115.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Fusae Ogata",
+    "nameNative": "緒方房江",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/56991.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikumi-umeda"
+    ]
+  },
+  {
+    "name": "Futsuki",
+    "nameNative": "不月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/58127.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi"
+    ]
+  },
+  {
+    "name": "Hiiragi",
+    "nameNative": "柊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19023-TvAFMcLdOmTi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Hinoe",
+    "nameNative": "ヒノエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19455.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akemi-okamura"
+    ]
+  },
+  {
+    "name": "Hitotsume no Chuukyuu Youkai",
+    "nameNative": "一つ目の中級妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36826-Jr56GWbduSOF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-matsuyama"
+    ]
+  },
+  {
+    "name": "Houzuki",
+    "nameNative": "豊月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/58233.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Jun Sasada",
+    "nameNative": "笹田純",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14414-o93ZpddmPD7S.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Kaname Tanuma",
+    "nameNative": "田沼要",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13888-w2qcCutnhTTI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuma-horie"
+    ]
+  },
+  {
+    "name": "Kappa",
+    "nameNative": "カッパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44637.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kyouko-chikiri"
+    ]
+  },
+  {
+    "name": "Karikami",
+    "nameNative": "カリカミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/55597.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-sasaki"
+    ]
+  },
+  {
+    "name": "Kemari",
+    "nameNative": "ケマリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/55291.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-kanada"
+    ]
+  },
+  {
+    "name": "Ko Tengu",
+    "nameNative": "小天狗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57089.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Kurokama",
+    "nameNative": "黒鎌の妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/56081.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-nishimatsu"
+    ]
+  },
+  {
+    "name": "Mikage",
+    "nameNative": "ミカゲ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n57085-BEHA34N8CQzc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenobu-kiuchi"
+    ]
+  },
+  {
+    "name": "Misuzu",
+    "nameNative": "三篠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25272-TtXoDHXHbgQ2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kuroda"
+    ]
+  },
+  {
+    "name": "Miyoko Aoi",
+    "nameNative": "蒼井三世子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/58655.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Mushikui",
+    "nameNative": "ムシクイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/59169.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masami-iwasaki"
+    ]
+  },
+  {
+    "name": "Nanase",
+    "nameNative": "七瀬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44182.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-doi",
+      "yoriko-nagata"
+    ]
+  },
+  {
+    "name": "Nanase no Chichi",
+    "nameNative": "七瀬の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57101.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitoshi-bifu"
+    ]
+  },
+  {
+    "name": "Natsume no Chichi",
+    "nameNative": "夏目の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/58653.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Reiko Natsume",
+    "nameNative": "夏目レイコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13886-jvXFmldVIkEu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Rokka",
+    "nameNative": "六花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54955.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-ichijou"
+    ]
+  },
+  {
+    "name": "Sasago",
+    "nameNative": "笹後",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43497-rYamdTEKKWti.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chieko-honda"
+    ]
+  },
+  {
+    "name": "Satoru Nishimura",
+    "nameNative": "西村悟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23038-Hpz0og46jyCJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouhei-kimura"
+    ]
+  },
+  {
+    "name": "Seiji Matoba",
+    "nameNative": "的場静司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31303-MCf7v5ihWhic.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Shigeru Fujiwara",
+    "nameNative": "藤原滋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20336-hZooLymkPnd7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-itou"
+    ]
+  },
+  {
+    "name": "Shinpan",
+    "nameNative": "審判の妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/58129.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-matsuyama"
+    ]
+  },
+  {
+    "name": "Shuuichi Natori",
+    "nameNative": "名取周一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13887-YNOjDFZOaS79.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Takahiko",
+    "nameNative": "隆彦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/55595.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiichi-nakagawa"
+    ]
+  },
+  {
+    "name": "Tooru Taki",
+    "nameNative": "多軌透",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19515-yEKeJk2EgwDy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Touko Fujiwara",
+    "nameNative": "藤原塔子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19546-CJX65evYlXJB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Tsubo ni Fuuji Rareta Sarumen",
+    "nameNative": "壷に封じられた猿面",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54957.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kunihiro-kawamoto"
+    ]
+  },
+  {
+    "name": "Urihime",
+    "nameNative": "瓜姫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43496.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akari-higuchi"
+    ]
+  },
+  {
+    "name": "Ushikao no Chuukyuu Youkai",
+    "nameNative": "牛顔の中級妖怪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44209-WKoEs9ZA4wSt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shimozaki"
+    ]
+  },
+  {
+    "name": "Yobiko",
+    "nameNative": "ヨビコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55593-gdnHftrcvJj6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuto-nakano"
+    ]
+  },
+  {
+    "name": "Youko",
+    "nameNative": "ヨウコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/55591.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ao-takahashi"
+    ]
+  },
+  {
+    "name": "Yuriko Ogata",
+    "nameNative": "緒方ユリコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/56075.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  }
+]
