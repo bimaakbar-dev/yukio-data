@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Amelia Rose",
+    "nameNative": "アメリア＝ローズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b288008-DzS0IEBKTpn0.jpg",
+    "role": "main",
+    "voiceActors": [
+      "iori-saeki"
+    ]
+  },
+  {
+    "name": "Ariane Algren",
+    "nameNative": "アリアーヌ＝オルグレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292027-OiXPW4CXknnY.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akira-sekine"
+    ]
+  },
+  {
+    "name": "Elisa Griffith",
+    "nameNative": "エリサ＝グリフィス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b288009-1DOMkf6QWl1X.png",
+    "role": "main",
+    "voiceActors": [
+      "miyu-kubota"
+    ]
+  },
+  {
+    "name": "Ray White",
+    "nameNative": "レイ＝ホワイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b288007-QpoN6YVsVkW1.jpg",
+    "role": "main",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Albert Alium",
+    "nameNative": "アルバート＝アリウム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296597-71wl23kiRp6z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouhei-amasaki"
+    ]
+  },
+  {
+    "name": "Bianca Miller",
+    "nameNative": "ビアンカ＝ミラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-koga"
+    ]
+  },
+  {
+    "name": "Claris Cleveland",
+    "nameNative": "クラリス＝クリーヴランド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292026-KUJ6nSsDuIuZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaede-hondo"
+    ]
+  },
+  {
+    "name": "Emma Clarke",
+    "nameNative": "エマ＝クラーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "konomi-kohara"
+    ]
+  },
+  {
+    "name": "Evi Armstrong",
+    "nameNative": "エヴィ＝アームストロング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292031-2RAOsmEG9D8L.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichirou-umehara"
+    ]
+  },
+  {
+    "name": "Julius Orphe",
+    "nameNative": "ユリウス＝オルフェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouhei-kimura"
+    ]
+  },
+  {
+    "name": "Lizelotte Eden",
+    "nameNative": "リーゼロッテ＝エーデン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-shiraishi"
+    ]
+  },
+  {
+    "name": "Lucas Forst",
+    "nameNative": "ルーカス＝フォルスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "souichirou-hoshi"
+    ]
+  },
+  {
+    "name": "Maria Bradley",
+    "nameNative": "マリア＝ブラッドリィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410027-FbRUE0Tso0jL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shiki-aoki"
+    ]
+  },
+  {
+    "name": "Marius Basset",
+    "nameNative": "マリウス＝バセット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410028-93Wj4ScAg8eh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Olivia Arnold",
+    "nameNative": "オリヴィア＝アーノルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b405310-an03eJdGjlJo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-hishikawa"
+    ]
+  },
+  {
+    "name": "Rebecca Bradley",
+    "nameNative": "レベッカ＝ブラッドリィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292025-KAuekQApoAgm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "azumi-waki"
+    ]
+  },
+  {
+    "name": "Stella White",
+    "nameNative": "ステラ=ホワイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314459-P52AJyxbnV2l.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsumi-tanezaki"
+    ]
+  }
+]
