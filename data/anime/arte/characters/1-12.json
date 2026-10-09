@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Arte",
+    "nameNative": "アルテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122461-L8vuqLw2npkX.png",
+    "role": "main",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "Leo",
+    "nameNative": "レオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124604-MK0irBwkUBwH.png",
+    "role": "main",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Angelo",
+    "nameNative": "アンジェロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154934-M5C4pk19VnfC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Danilo",
+    "nameNative": "ダニロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206137-T3eGvrXLB8zF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-fujiwara"
+    ]
+  },
+  {
+    "name": "Daphne",
+    "nameNative": "ダフネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163017-HoFRweWA4ruT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Darcia",
+    "nameNative": "ダーチャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124606-KUUnqcR11Jaw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyono-yasuno"
+    ]
+  },
+  {
+    "name": "Katarina",
+    "nameNative": "カタリーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154935-g5J0UGjKHPwB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Sofia",
+    "nameNative": "ソフィア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163016-HB6W5JEgXrXU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-tanaka"
+    ]
+  },
+  {
+    "name": "Ubertino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122462-2jwZxIcM5kkg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yousuke-akimoto"
+    ]
+  },
+  {
+    "name": "Veronica",
+    "nameNative": "ヴェロニカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124605-e4RN7HxTfnDC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  },
+  {
+    "name": "Yuri Falier",
+    "nameNative": "ユーリ・ファリエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154933-uxaLY3Kcic5E.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  }
+]
