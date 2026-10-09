@@ -1,0 +1,291 @@
+[
+  {
+    "name": "Ash",
+    "nameNative": "アッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321266-9hVdrtULoKp9.png",
+    "role": "main",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Rozé",
+    "nameNative": "ロゼ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321265-fQk3AldGHgMR.png",
+    "role": "main",
+    "voiceActors": [
+      "kouhei-amasaki",
+      "reina-ueda"
+    ]
+  },
+  {
+    "name": "Arnold Renk",
+    "nameNative": "アーノルド・レンク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338217-I6a8DxaEdvhx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "souma-saitou"
+    ]
+  },
+  {
+    "name": "Callis al Britannia",
+    "nameNative": "カリス・アル・ブリタニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338214-PBxkRxgJF8AG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ichinose"
+    ]
+  },
+  {
+    "name": "Catherine Savasula",
+    "nameNative": "キャサリン・サバスラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b336102-6m6DWtoLtJ3V.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Christoph Scissorman",
+    "nameNative": "クリストフ・シザーマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338218-LnNqIU69EEQO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Cornelia li Britannia",
+    "nameNative": "コーネリア・リ・ブリタニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b797-lrtrQEESbWVa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-minagawa"
+    ]
+  },
+  {
+    "name": "Divock Merte",
+    "nameNative": "ディボック・メルテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338215-mifGBIDEiyQ0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-mizunaka"
+    ]
+  },
+  {
+    "name": "Gino Weinberg",
+    "nameNative": "ジノ・ヴァインベルグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/11474.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "souichirou-hoshi"
+    ]
+  },
+  {
+    "name": "Gran Kirkwayne",
+    "nameNative": "グラン・カークウェイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338223-0iMxyrSoWYt1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-ono"
+    ]
+  },
+  {
+    "name": "Greede Kirkwayne",
+    "nameNative": "グリード・カークウェイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338221-TzofQ5AP2mxp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hirofumi-nojima"
+    ]
+  },
+  {
+    "name": "Haruka Rutaka",
+    "nameNative": "琉高ハルカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338219-RFHAyF7DbEAA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-tomita"
+    ]
+  },
+  {
+    "name": "Heath Lott",
+    "nameNative": "ヒース・ロット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338233-zp5xJSxnslr3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Isao Monobe",
+    "nameNative": "物部勲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338222-BgCtXGSTTh6N.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Kaoru Shizuka",
+    "nameNative": "志塚香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338235-I1ne1hg0My8b.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chikahiro-kobayashi"
+    ]
+  },
+  {
+    "name": "Kensei Kuroto",
+    "nameNative": "黒戸剣成",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338237-EU9PyyqWLugw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kuroda"
+    ]
+  },
+  {
+    "name": "Mei Ema",
+    "nameNative": "江間メイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338234-EeNNJtGA7jMm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-shiraishi"
+    ]
+  },
+  {
+    "name": "Minato Sakai",
+    "nameNative": "坂井ミナト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338228-Kkord1sjo41S.png",
+    "role": "supporting",
+    "voiceActors": [
+      "lynn"
+    ]
+  },
+  {
+    "name": "Narah Vaughn",
+    "nameNative": "ナラ・ヴォーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338227-b5WQYOPKcijF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-uchiyama"
+    ]
+  },
+  {
+    "name": "Natalia Luxembourg",
+    "nameNative": "ナタリア・ルクセンブルグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338216-ug75gW1PEQEM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-terasaki"
+    ]
+  },
+  {
+    "name": "Nina Einstein",
+    "nameNative": "ニーナ・アインシュタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1124-TSD6Z8Vjy7Kn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saeko-chiba"
+    ]
+  },
+  {
+    "name": "Noland von Lüneberg",
+    "nameNative": "ノーランド・フォン・リューネベルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338213-uTDO7KtMiqnn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Sanshirou Toumi",
+    "nameNative": "東見燦士郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338229-nch5KdDxsV6d.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hayato-fujii"
+    ]
+  },
+  {
+    "name": "Shirou Sazanami",
+    "nameNative": "漣士郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338238-t3c7I4CbEqn8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kanehira-yamamoto"
+    ]
+  },
+  {
+    "name": "Shouta Munemori",
+    "nameNative": "宗森葵太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338232-qBeEit0YQsw0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taito-ban"
+    ]
+  },
+  {
+    "name": "Stanley Vonbraun",
+    "nameNative": "スタンリー・フォンブラウン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338224-UwuSb4SkMw0h.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-hirakawa"
+    ]
+  },
+  {
+    "name": "Tokio Iwamoto",
+    "nameNative": "岩本時男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338236-l3Tl4nu4qPaT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-aoyama"
+    ]
+  },
+  {
+    "name": "Tomoomi Oda",
+    "nameNative": "小田友臣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338220-cFSjr2lRMHPB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouya-chiba"
+    ]
+  },
+  {
+    "name": "Vallen Sterk",
+    "nameNative": "ヴァレン・スターク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338225-4jfHtcz09vlw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-nogawa"
+    ]
+  },
+  {
+    "name": "Walter Lindstedt",
+    "nameNative": "ヴァルター・リントシュテット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338231-N7kGWkTxWo8s.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuyuki-kase"
+    ]
+  },
+  {
+    "name": "Youko Araki",
+    "nameNative": "新城陽子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338230-FnarPv4IZrKU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "riho-sugiyama"
+    ]
+  },
+  {
+    "name": "Yuuri Sano",
+    "nameNative": "佐野悠里",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338226-gnfl98FNkHsI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "anzu-haruno"
+    ]
+  }
+]
