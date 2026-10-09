@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Batou",
+    "nameNative": "バトー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2653.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Motoko Kusanagi",
+    "nameNative": "草薙素子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1795-vKakY5aXVyCl.jpg",
+    "role": "main",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Togusa",
+    "nameNative": "トグサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2654.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Daisuke Aramaki",
+    "nameNative": "荒巻大輔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2677-lPWyWsFWTJhp.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Project 2501",
+    "nameNative": "人形使い",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18516-0jVQdvyC4i1j.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  }
+]
