@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Mina",
+    "nameNative": "ミナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201743-13ysswRW7sCH.png",
+    "role": "main",
+    "voiceActors": [
+      "akane-kumada"
+    ]
+  },
+  {
+    "name": "Noela",
+    "nameNative": "ノエラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201741-UD4TPOIHzVfL.png",
+    "role": "main",
+    "voiceActors": [
+      "risae-matsuda"
+    ]
+  },
+  {
+    "name": "Reiji Kirio",
+    "nameNative": "桐尾礼司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201744-RVI05jFgyYP8.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukushima"
+    ]
+  },
+  {
+    "name": "Alf",
+    "nameNative": "アルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243196-8hKnxJE6KB7r.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junji-majima"
+    ]
+  },
+  {
+    "name": "Annabelle",
+    "nameNative": "アナベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201745-vantofHW4CTa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariko-higashiuchi"
+    ]
+  },
+  {
+    "name": "Belial",
+    "nameNative": "ベリアル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243269-ho8PZ2WbNBxx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-fujiyoshi"
+    ]
+  },
+  {
+    "name": "Casty Fen Dran Valgas",
+    "nameNative": "カスティ・フェーン・ドラン・バルガス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244887-65IlIB7E9GGc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichirou-matsuda"
+    ]
+  },
+  {
+    "name": "Doz",
+    "nameNative": "ドズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243206-p1nkjmCsUNna.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-kageyama"
+    ]
+  },
+  {
+    "name": "Elaine Fen Dran Valgas",
+    "nameNative": "エレイン・フェーン・ドラン・バルガス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201746-czMBCRlbO7gE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satsumi-matsuda"
+    ]
+  },
+  {
+    "name": "Feris",
+    "nameNative": "フェリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243198-g5wln7YnPHMo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayumi-suzushiro"
+    ]
+  },
+  {
+    "name": "Flam Fen Dran Valgas",
+    "nameNative": "フラム・フェーン・ドラン・バルガス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243278-7VEGUjUdwOAD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asumi-yoneyama"
+    ]
+  },
+  {
+    "name": "Garo Ejil",
+    "nameNative": "ガロウ・エジル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201742-bxyJmuzUuttu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-uchimura"
+    ]
+  },
+  {
+    "name": "Gaston",
+    "nameNative": "ガストン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243195-Oh2UUj1VwWUc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-tamai"
+    ]
+  },
+  {
+    "name": "Kururu",
+    "nameNative": "クルル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244356-1ErswZuPwVn8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reo-tatsumori"
+    ]
+  },
+  {
+    "name": "Micott",
+    "nameNative": "ミコット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243201-Qk8cbaOZ2enx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukimi-hayase"
+    ]
+  },
+  {
+    "name": "Moz",
+    "nameNative": "モズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243261-U2EtDI8BMXbq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-yanagita"
+    ]
+  },
+  {
+    "name": "Paula",
+    "nameNative": "ポーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244358-KvWO6JlUF9Vj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seika-hirose"
+    ]
+  },
+  {
+    "name": "Pierre",
+    "nameNative": "ピエール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243277-3x8QJEazJNt2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "teruyuki-tanzawa"
+    ]
+  },
+  {
+    "name": "Rayne",
+    "nameNative": "レーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243279-MfWgEByDp2b9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kei-kurita"
+    ]
+  },
+  {
+    "name": "Rena",
+    "nameNative": "レナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243199-ky5tpjG9kQVt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-hamanaka"
+    ]
+  },
+  {
+    "name": "Rena no Chichi",
+    "nameNative": "レナの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244149-F2muioByqjR2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-takeda"
+    ]
+  },
+  {
+    "name": "Ririka",
+    "nameNative": "リリカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244150-OWVe2A5S4ehL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuka-watari"
+    ]
+  },
+  {
+    "name": "Vivi",
+    "nameNative": "ビビ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245664-K1kK0XkXww6T.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-oonishi"
+    ]
+  },
+  {
+    "name": "Zeral",
+    "nameNative": "ジラル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243197-6eJu3YDrtGWi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taku-yashiro"
+    ]
+  }
+]
