@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Buddha",
+    "nameNative": "ブッダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15562-Y63Nwv5DGxNd.png",
+    "role": "main",
+    "voiceActors": [
+      "gen-hoshino"
+    ]
+  },
+  {
+    "name": "Jesus",
+    "nameNative": "イエス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15560-FWBdl6gU3e66.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mirai-moriyama"
+    ]
+  },
+  {
+    "name": "Daisuke",
+    "nameNative": "大輔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284215-Oj69jKwJ0xjr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "motoko-kumai"
+    ]
+  },
+  {
+    "name": "Kouhei",
+    "nameNative": "幸平",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284216-WBaHku3hDPPM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aiko-hibi"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouko-kinomiya"
+    ]
+  },
+  {
+    "name": "Ryouta",
+    "nameNative": "良太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284217-42wUalA1leWS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-nagasawa"
+    ]
+  },
+  {
+    "name": "Ryuuji",
+    "nameNative": "竜二",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284333-Q7XllXgmwT62.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumihiko-tachiki"
+    ]
+  },
+  {
+    "name": "Sachiko Matsuda",
+    "nameNative": "松田幸代",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76040-9z1BeonD6gHa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "reiko-suzuki"
+    ]
+  }
+]
