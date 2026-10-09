@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Koguma",
+    "nameNative": "小熊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133946-PuWmDuOGkb2W.png",
+    "role": "main",
+    "voiceActors": [
+      "yuki-yomichi"
+    ]
+  },
+  {
+    "name": "Reiko",
+    "nameNative": "礼子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133947-xpqayCHNhXGQ.png",
+    "role": "main",
+    "voiceActors": [
+      "ayaka-nanase"
+    ]
+  },
+  {
+    "name": "Shii Eniwa",
+    "nameNative": "恵庭椎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204443-1Hp6mwfiwUKN.png",
+    "role": "main",
+    "voiceActors": [
+      "natsumi-hioka"
+    ]
+  },
+  {
+    "name": "Shino-san",
+    "nameNative": "シノさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217230-Eyr6cZiDnAVh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-uo"
+    ]
+  }
+]
