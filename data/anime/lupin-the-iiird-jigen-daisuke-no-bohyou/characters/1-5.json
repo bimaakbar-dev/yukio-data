@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Arsène Lupin III",
+    "nameNative": "ルパン三世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1044-UriNGSc2CKPO.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kanichi-kurita"
+    ]
+  },
+  {
+    "name": "Daisuke Jigen",
+    "nameNative": "次元大介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1045-5VLjexUmCT6p.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kiyoshi-kobayashi"
+    ]
+  },
+  {
+    "name": "Fujiko Mine",
+    "nameNative": "峰不二子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1047-3VgNXvRjylHV.png",
+    "role": "main",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Kouichi Zenigata",
+    "nameNative": "銭形幸一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1048-GDlCKww1le0Q.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Okuzaki Yael",
+    "nameNative": "ヤエル奥崎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141801-81D0P4S2aalE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-hirose"
+    ]
+  }
+]
