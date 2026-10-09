@@ -1,38 +1,38 @@
 [
   {
     "name": "Kurumi Fukuga",
+    "nameNative": "福賀くるみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387339-0fOrbizSkzGH.jpg",
     "role": "main",
     "voiceActors": [
       "aina-suzuki"
-    ],
-    "nameNative": "福賀くるみ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387339-0fOrbizSkzGH.jpg"
-  },
-  {
-    "name": "Mochiko Kogane",
-    "role": "supporting",
-    "voiceActors": [
-      "asami-seto"
-    ],
-    "nameNative": "小金萌智子",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b405456-uua8pzE2NuYJ.png"
+    ]
   },
   {
     "name": "Mebuki Yamashi",
+    "nameNative": "山師芽吹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b405455-sdeTulNdNA9T.png",
     "role": "supporting",
     "voiceActors": [
       "ayasa-itou"
-    ],
-    "nameNative": "山師芽吹",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b405455-sdeTulNdNA9T.png"
+    ]
+  },
+  {
+    "name": "Mochiko Kogane",
+    "nameNative": "小金萌智子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b405456-uua8pzE2NuYJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-seto"
+    ]
   },
   {
     "name": "Yasuko Takane",
+    "nameNative": "高根やす子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b405454-CCpLD1eI2jIV.png",
     "role": "supporting",
     "voiceActors": [
       "miho-okasaki"
-    ],
-    "nameNative": "高根やす子",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b405454-CCpLD1eI2jIV.png"
+    ]
   }
 ]
