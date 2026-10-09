@@ -1,77 +1,7 @@
 [
   {
-    "relation": "prequel",
-    "slug": "digimon-adventure-movie",
-    "title": "Digimon Adventure Movie"
-  },
-  {
-    "relation": "sequel",
-    "slug": "digimon-adventure-bokura-no-war-game",
-    "title": "Digimon Adventure: Bokura no War Game!"
-  },
-  {
-    "relation": "side_story",
-    "slug": "digimon-adventure-3d-digimon-grand-prix",
-    "title": "Digimon Adventure 3D: Digimon Grand Prix!"
-  },
-  {
-    "relation": "spin_off",
-    "slug": "digimon-tamers",
-    "title": "Digimon Tamers"
-  },
-  {
-    "relation": "spin_off",
-    "slug": "digimon-frontier",
-    "title": "Digimon Frontier"
-  },
-  {
-    "relation": "spin_off",
-    "slug": "digimon-x-evolution",
-    "title": "Digimon X-Evolution"
-  },
-  {
-    "relation": "spin_off",
-    "slug": "digimon-savers",
-    "title": "Digimon Savers"
-  },
-  {
-    "relation": "spin_off",
-    "slug": "digimon-xros-wars",
-    "title": "Digimon Xros Wars"
-  },
-  {
-    "relation": "other",
-    "slug": "digimon-universe-appli-monsters",
-    "title": "Digimon Universe: Appli Monsters"
-  },
-  {
-    "relation": "other",
-    "slug": "digimon-survive-prologue-movie",
-    "title": "Digimon Survive: Prologue Movie"
-  },
-  {
     "relation": "alternative",
     "slug": "digimon-adventure",
-    "title": "Digimon Adventure:"
-  },
-  {
-    "relation": "other",
-    "slug": "digimon-ghost-game",
-    "title": "Digimon Ghost Game"
-  },
-  {
-    "relation": "other",
-    "slug": "digimon-adventure-25-shuunen-kinen-pv-digimon-adventure-beyond",
-    "title": "Digimon Adventure 25-shuunen Kinen PV: Digimon Adventure - Beyond"
-  },
-  {
-    "relation": "other",
-    "slug": "digimon-beatbreak",
-    "title": "Digimon Beatbreak"
-  },
-  {
-    "relation": "other",
-    "slug": "digimon-story-time-stranger-prelude",
-    "title": "Digimon Story: Time Stranger Prelude"
+    "title": "Digimon Adventure"
   }
 ]
