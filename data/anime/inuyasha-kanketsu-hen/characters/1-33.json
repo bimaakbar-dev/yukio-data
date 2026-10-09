@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Inuyasha",
+    "nameNative": "犬夜叉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1353-xsZhvfi7IFzT.png",
+    "role": "main",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Kagome Higurashi",
+    "nameNative": "日暮かごめ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1354-PuUTCSX7UzKA.png",
+    "role": "main",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Miroku",
+    "nameNative": "弥勒",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1356-rLhVHJzPY0Mp.jpg",
+    "role": "main",
+    "voiceActors": [
+      "chiwa-saitou",
+      "kouji-tsujitani"
+    ]
+  },
+  {
+    "name": "Sango",
+    "nameNative": "珊瑚",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1355-zPTmTwhMXQbt.png",
+    "role": "main",
+    "voiceActors": [
+      "houko-kuwashima"
+    ]
+  },
+  {
+    "name": "Shippo",
+    "nameNative": "七宝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1357-q81pBzC7ynld.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kumiko-watanabe"
+    ]
+  },
+  {
+    "name": "Ayumi",
+    "nameNative": "あゆみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35248.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nami-okamoto"
+    ]
+  },
+  {
+    "name": "Byakuya",
+    "nameNative": "白夜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27355.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-madono"
+    ]
+  },
+  {
+    "name": "Eri",
+    "nameNative": "絵理",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34664.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-masuda"
+    ]
+  },
+  {
+    "name": "Ginta",
+    "nameNative": "銀太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6274.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Grandpa Higurashi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40419.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsumi-suzuki"
+    ]
+  },
+  {
+    "name": "Hakkaku",
+    "nameNative": "白角",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6275.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kishio"
+    ]
+  },
+  {
+    "name": "Hakudoushi",
+    "nameNative": "白童子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10801.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kobayashi"
+    ]
+  },
+  {
+    "name": "Hitomiko",
+    "nameNative": "瞳子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30045.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Hojo",
+    "nameNative": "宝条",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21689.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Jaken",
+    "nameNative": "邪見",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1364-4Y3v1IMEAwIg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Kaede",
+    "nameNative": "楓",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1360-nvgYPaUEMeG6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kyouda",
+      "mika-itou"
+    ]
+  },
+  {
+    "name": "Kagura",
+    "nameNative": "神楽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1369-LD9NafSxg3zv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "izumi-oogami"
+    ]
+  },
+  {
+    "name": "Kanna",
+    "nameNative": "神無",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1368.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Kikyou",
+    "nameNative": "桔梗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1359-AFczK1HRd3ub.png",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-hidaka"
+    ]
+  },
+  {
+    "name": "Kirara",
+    "nameNative": "雲母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8323-RGrk8ZVTYUuy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tarako"
+    ]
+  },
+  {
+    "name": "Koga",
+    "nameNative": "鋼牙",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1371.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taiki-matsuno"
+    ]
+  },
+  {
+    "name": "Kohaku",
+    "nameNative": "琥珀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1366-Fac3MafjvAaJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-yajima"
+    ]
+  },
+  {
+    "name": "Magatsuhi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29902.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-kusao"
+    ]
+  },
+  {
+    "name": "Mama",
+    "nameNative": "ママ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b39399-mhywbOOMiUOJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asako-dodo"
+    ]
+  },
+  {
+    "name": "Mouryoumaru",
+    "nameNative": "魍魎丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26565.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-terasoma"
+    ]
+  },
+  {
+    "name": "Myoga",
+    "nameNative": "冥加",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1361-qz5kWP3aFK9M.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Naraku",
+    "nameNative": "奈落",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1367.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Rin",
+    "nameNative": "りん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1365-C5r2sPW8PwA8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Sesshomaru no Haha",
+    "nameNative": "殺生丸の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28298.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  },
+  {
+    "name": "Sesshoumaru",
+    "nameNative": "殺生丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1358-oR7bIGfc5pnX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-narita"
+    ]
+  },
+  {
+    "name": "Souta Higurashi",
+    "nameNative": "日暮 草太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25422.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-nakagawa"
+    ]
+  },
+  {
+    "name": "Totosai",
+    "nameNative": "刀々斎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1362.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-yanami"
+    ]
+  },
+  {
+    "name": "Yuka",
+    "nameNative": "由加",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35247.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-shimizu"
+    ]
+  }
+]
