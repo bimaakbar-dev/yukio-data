@@ -1,0 +1,248 @@
+[
+  {
+    "name": "Alexandre Dumas",
+    "nameNative": "アレクサンドル・デュマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b218086-3Es9xUVAkduv.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shoutarou-morikubo"
+    ]
+  },
+  {
+    "name": "Assassin",
+    "nameNative": "アサシン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76520-0qLVeJrHS77v.jpg",
+    "role": "main",
+    "voiceActors": [
+      "lynn"
+    ]
+  },
+  {
+    "name": "Berserker",
+    "nameNative": "バーサーカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87321-pGFnMVgo41zF.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kenyuu-horiuchi"
+    ]
+  },
+  {
+    "name": "Enkidu",
+    "nameNative": "エルキドゥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60059-ErZDIiDz7tKq.png",
+    "role": "main",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Flatt  Escardos",
+    "nameNative": "フラット・エスカルドス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87319-t3o6viRp1ci4.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Gilgamesh",
+    "nameNative": "ギルガメッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Jester  Karture",
+    "nameNative": "ジェスター・カルトゥーレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87315-qKBNwZOLxpq6.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tatsumaru-tachibana"
+    ]
+  },
+  {
+    "name": "Orlando Reeve",
+    "nameNative": "オーランド・リーヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87313-eqVc91PCWGQu.jpg",
+    "role": "main",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Tine Chelc",
+    "nameNative": "ティーネ・チェルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87307-naKVYwZXTYuF.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sumire-morohoshi"
+    ]
+  },
+  {
+    "name": "Tsubaki Kuruoka",
+    "nameNative": "繰丘椿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76522-qVKEaj4HfvFN.png",
+    "role": "main",
+    "voiceActors": [
+      "aoi-koga"
+    ]
+  },
+  {
+    "name": "Amelia Levitt",
+    "nameNative": "アメリア・レヴィット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244641-2wodn8EsIPhk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-kitahara"
+    ]
+  },
+  {
+    "name": "Ayaka Sajyou",
+    "nameNative": "沙条綾香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54223-CEs1n0hKjakd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Caubac Alcatraz",
+    "nameNative": "コーバック・アルカトラス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244645-NJFJcc2u37Qj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kishio"
+    ]
+  },
+  {
+    "name": "Christophel Beilman",
+    "nameNative": "クリストフェル・ ベイルマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b251072-PNMKvrEczV4X.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shoutarou-uzawa"
+    ]
+  },
+  {
+    "name": "Cryer",
+    "nameNative": "クライヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b251069-ugv1WfPeVaJL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikumi-hasegawa"
+    ]
+  },
+  {
+    "name": "Faldeus Dioland",
+    "nameNative": "ファルデウス・ディオランド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87297-UMq5Y8TUq8Y1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Francesca  Prelati",
+    "nameNative": "フランチェスカ・プレラーティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138620-xfOnWeYJbtBX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Kischur Zelretch Schweinorg",
+    "nameNative": "キシュア・ゼルレッチ・シュバインオーグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185129-SF5jd26U6AID.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikuya-sawaki"
+    ]
+  },
+  {
+    "name": "Master of Archer",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b239481-PqXaUJODMqdi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-tsuyuzaki"
+    ]
+  },
+  {
+    "name": "Renri Kuruoka",
+    "nameNative": "繰丘連理",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b239476-yoDvt7T3Vlr0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-fujita"
+    ]
+  },
+  {
+    "name": "Richard I",
+    "nameNative": "リチャード一世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127453-5hx20va8HGzd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-ono"
+    ]
+  },
+  {
+    "name": "Rider",
+    "nameNative": "ライダー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87309.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Rohngall",
+    "nameNative": "ランガル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87299-xVRW65pZV8JC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-sakuya"
+    ]
+  },
+  {
+    "name": "Vera  Levitt",
+    "nameNative": "ヴェラ・レヴィット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138624-4OdxlqDBjaDX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-toujou"
+    ]
+  },
+  {
+    "name": "Waver Velvet",
+    "nameNative": "ウェイバー・ベルベット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16023-gfwOgU1743ff.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Wolf",
+    "nameNative": "銀狼の合成獣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138619-2XZcyZ81DRui.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Wolf's Creator",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244644-zjpRutKFgFGf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hironori-kondou"
+    ]
+  },
+  {
+    "name": "Yuukaku Kuruoka",
+    "nameNative": "繰丘夕鶴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b239473-20nmyeseNiWF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihisa-hosokawa"
+    ]
+  }
+]
