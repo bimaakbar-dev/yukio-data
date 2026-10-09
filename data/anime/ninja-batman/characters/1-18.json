@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Bruce Wayne",
+    "nameNative": "ブルース・ウェイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10586-fjl9nusrIiWD.png",
+    "role": "main",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Alfred Pennyworth",
+    "nameNative": "アルフレッド・ペニーワース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16911.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Bane",
+    "nameNative": "ベイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182934-2XEj8z95WeGu.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Damian Wayne",
+    "nameNative": "ダミアン・ウェイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182938-FoaT0ZLp5r5K.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Dick Grayson",
+    "nameNative": "ディック・グレイソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182944-tBFiNqAx4fKx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Eian",
+    "nameNative": "影闇",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182943-ZvO8hLaUySKj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youji-ueda"
+    ]
+  },
+  {
+    "name": "Gorilla Grodd",
+    "nameNative": "ゴリラ・グロッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182946-l8cirT5jUaWZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Harleen Quinzel",
+    "nameNative": "ハーリーン・クインゼル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182935-zn1WE3Om5exM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Harvey Dent",
+    "nameNative": "ハーヴェイ・デント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182936-BWJEaX3Lz7XZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Jason Todd",
+    "nameNative": "ジェイソン・トッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182947-6wPTtQh0EJt4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Joker",
+    "nameNative": "ジョーカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187526-z5BimLVakKUB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Monkichi",
+    "nameNative": "モン吉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182940-xKq6qMAm8Nqa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "anna-mugiho"
+    ]
+  },
+  {
+    "name": "Monmi",
+    "nameNative": "モン美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182937-4qVRT2Akb7zB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "juri-nagatsuma"
+    ]
+  },
+  {
+    "name": "Oswald Cobblepot",
+    "nameNative": "オズワルド・コブルポット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182945-2PnJ0setvtAZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Pamela Isley",
+    "nameNative": "パメラ・リリアン・アイズリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182942-D0J9vx9xZfu4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Selina Kyle",
+    "nameNative": "セリーナ・カイル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182933-J5pv1fBXqD5M.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Slade Wilson",
+    "nameNative": "スレイド・ウィルソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182941-ev4S7r0Yn9nz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Tim Drake",
+    "nameNative": "ティム・ドレイク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182939-0nBjvlYmotyw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kengo-kawanishi"
+    ]
+  }
+]
