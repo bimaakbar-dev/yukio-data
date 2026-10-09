@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Naomi Orthmann",
+    "nameNative": "ナオミ・オルトマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314498-MWFE7NRdzs3H.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomoyo-kurosawa"
+    ]
+  },
+  {
+    "name": "Rouge Redstar",
+    "nameNative": "ルジュ・レッドスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314499-Gq27VSRdxyIi.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yume-miyamoto"
+    ]
+  },
+  {
+    "name": "Aes Machias",
+    "nameNative": "アエス・マキアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323378-14t4KpbERj8U.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-tsuda"
+    ]
+  },
+  {
+    "name": "Afdal Bashal",
+    "nameNative": "アフダル・バシャール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321575-NrXYmst88Iz1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Alice Machias",
+    "nameNative": "アリス・マキアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323379-qk6FtQ0RxrIY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-tsuda"
+    ]
+  },
+  {
+    "name": "Ash Stahl",
+    "nameNative": "アッシュ・スタール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321574-QMGp2pTZAFzm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-miyauchi"
+    ]
+  },
+  {
+    "name": "Bianca Fox",
+    "nameNative": "ビアンカ・フォックス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324143-AWIzV8zAbBDs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rena-maeda"
+    ]
+  },
+  {
+    "name": "Cecile",
+    "nameNative": "セシル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358815-jrg0wZXHYLRw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyako-kobayashi"
+    ]
+  },
+  {
+    "name": "Cyan Bluestar",
+    "nameNative": "シアン・ブルースター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323382-hFK8LmarXFg8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-shiraishi"
+    ]
+  },
+  {
+    "name": "Dahlia",
+    "nameNative": "ダリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358823-KULcSNg7iJ8u.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nodoka-hasegawa"
+    ]
+  },
+  {
+    "name": "Donald Fox",
+    "nameNative": "ドナルド・フォックス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324145-fieHBqszJl7f.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-nakatsukasa"
+    ]
+  },
+  {
+    "name": "Dumas 171",
+    "nameNative": "デュマ171",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358813-4tihrs1v6Y4b.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinji-kawada"
+    ]
+  },
+  {
+    "name": "Eden Varock",
+    "nameNative": "エデン・ヴァロック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321568-ap8QkVayRx4B.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Emily",
+    "nameNative": "エミリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324139-GrKHtmK67mnQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manami-hanawa"
+    ]
+  },
+  {
+    "name": "Eva Cristella",
+    "nameNative": "エヴァ・クリステラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323380-rmntZbsgZikr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Gene Junghardt",
+    "nameNative": "ジーン・ユングハルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321569-MSuWbBBf01eP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Giallon Fate",
+    "nameNative": "ジャロン・フェイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321570-u8XipL9vAHAU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Grauphon Berg",
+    "nameNative": "グラウフォン・ベルグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323381-hMx635jsLCW8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Gregory",
+    "nameNative": "グレゴリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358817-bL3mUj69MCxF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takanori-hoshino"
+    ]
+  },
+  {
+    "name": "Herman Hayward",
+    "nameNative": "ヘルマン・ヘイワード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323688-rlMGM3zlIR7E.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-aoyama"
+    ]
+  },
+  {
+    "name": "Huey",
+    "nameNative": "ヒューイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324140-73wtymChxtVy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaaki-torashima"
+    ]
+  },
+  {
+    "name": "Jill Sturgeon",
+    "nameNative": "ジル・スタージョン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321572-eO5gwpL72Zqv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-ogura"
+    ]
+  },
+  {
+    "name": "Johnny",
+    "nameNative": "ジョニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324144-jAUbCez90Rzx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masato-niwa"
+    ]
+  },
+  {
+    "name": "Juval 087",
+    "nameNative": "ユバル087",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358818-s7Vbt96duZZD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saya-hirose"
+    ]
+  },
+  {
+    "name": "Kahn Kumaru",
+    "nameNative": "クマル・カーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358814-avSYw78Bu4PQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisao-egawa"
+    ]
+  },
+  {
+    "name": "Levi 328",
+    "nameNative": "レビ328",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358816-aJkpnduejAFm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-musashi"
+    ]
+  },
+  {
+    "name": "Miguel",
+    "nameNative": "ミゲル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324138-i587GbzN2DbI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-oominami"
+    ]
+  },
+  {
+    "name": "Nigyoutsukai-shi",
+    "nameNative": "人形遣い師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323371-7oXQyPQmRYBu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-yanaka"
+    ]
+  },
+  {
+    "name": "Noid 262",
+    "nameNative": "ノイド262",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321573-ctGIcBL2KDOL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-kobayashi"
+    ]
+  },
+  {
+    "name": "Obaa-chan",
+    "nameNative": "おばあちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324142-fTUeWTafqklr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-saitou"
+    ]
+  },
+  {
+    "name": "Opera",
+    "nameNative": "オペラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323372-kfDCGKJxGPN0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Rachel Chau",
+    "nameNative": "レイチェル・チャウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358821-JYnzg2cztNha.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rica-fukami"
+    ]
+  },
+  {
+    "name": "Reggie Avan",
+    "nameNative": "レジー・アバン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358820-jo6vjvBKj5tB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-musashi"
+    ]
+  },
+  {
+    "name": "Rion",
+    "nameNative": "リオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358822-90r8e9s4OzfL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Rob Acres",
+    "nameNative": "ロブ・エイカーズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358819-AeA55KBmZT4e.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsumi-fukuhara"
+    ]
+  },
+  {
+    "name": "Roy Junghardt",
+    "nameNative": "ロイ・ユングハルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323383-DqzOcrVjzgbz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimitsu-shimoyama"
+    ]
+  },
+  {
+    "name": "Sarah Fitzgerald",
+    "nameNative": "サラ・フィッツジェラルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321571-FVsy4t3fBzll.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-shimamura"
+    ]
+  },
+  {
+    "name": "Smith",
+    "nameNative": "スミス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324141-RmmkSUan06O6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-echigoya"
+    ]
+  }
+]
