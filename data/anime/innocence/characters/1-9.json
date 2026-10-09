@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Batou",
+    "nameNative": "バトー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2653.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Togusa",
+    "nameNative": "トグサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2654.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Azuma",
+    "nameNative": "アズマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b38533-NApqBMpglzWo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-terasoma"
+    ]
+  },
+  {
+    "name": "Daisuke Aramaki",
+    "nameNative": "荒巻大輔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n2677-lPWyWsFWTJhp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tamio-ooki"
+    ]
+  },
+  {
+    "name": "Haraway",
+    "nameNative": "ハラウェイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b79699-GX9m2xOLMza9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  },
+  {
+    "name": "Ishikawa",
+    "nameNative": "イシカワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2676-2wg98eOH9BEh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-nakano"
+    ]
+  },
+  {
+    "name": "Kim",
+    "nameNative": "キム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b79701-ON64BrVlaemB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoto-takenaka"
+    ]
+  },
+  {
+    "name": "Koga",
+    "nameNative": "コガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18447-qdvJOsoquQYl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-hirata"
+    ]
+  },
+  {
+    "name": "Motoko Kusanagi",
+    "nameNative": "草薙素子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1795-vKakY5aXVyCl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  }
+]
