@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Ciel Phantomhive",
+    "nameNative": "シエル・ファントムハイヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12531-joBTjTP3fonc.png",
+    "role": "main",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Sebastian Michaelis",
+    "nameNative": "セバスチャン・ミカエリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10863-DsfonbP2CATa.png",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Agni",
+    "nameNative": "アグニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16735-chd0v1o0IBky.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Aleister Chamber",
+    "nameNative": "アレイスト・チェンバー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18228.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  },
+  {
+    "name": "Alexis Leon Midford",
+    "nameNative": "アレクシス・レオン・ミッドフォード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b78125-OwPDA8vNeiqw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Bardroy",
+    "nameNative": "バルドロイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14954-VIwQsXyKGxOG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi"
+    ]
+  },
+  {
+    "name": "Cheslock",
+    "nameNative": "チェスロック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b352499-A53AR09DevoV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kikunosuke-toya"
+    ]
+  },
+  {
+    "name": "Clayton",
+    "nameNative": "クレイトン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b352497-tpmU7DVvWpF4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouya-ishige"
+    ]
+  },
+  {
+    "name": "Derrick Arden",
+    "nameNative": "デリックアーデン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b352498-EIpm68Xpn6l2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-kobayashi"
+    ]
+  },
+  {
+    "name": "Diedrich",
+    "nameNative": "ディーデリヒ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75208-aQQf6XABy68Y.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-hamada"
+    ]
+  },
+  {
+    "name": "Edgar Redmond",
+    "nameNative": "エドガー・レドモンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59557-UjKu6rPT3GNE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiki-watanabe"
+    ]
+  },
+  {
+    "name": "Edward Midford",
+    "nameNative": "エドワード・ミッドフォード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b79607-tTNBPbPwsQyZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "seiichirou-yamashita"
+    ]
+  },
+  {
+    "name": "Elizabeth Midford",
+    "nameNative": "エリザベス・ミッドフォード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14959-2laidx8k0blk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukari-tamura"
+    ]
+  },
+  {
+    "name": "Finnian",
+    "nameNative": "フィニアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14953-vnd5tQps1Pd6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Frances Midford",
+    "nameNative": "フランシス・ミッドフォード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59563-OufhXwhOISfl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Gregory Violet",
+    "nameNative": "グレゴリー・バイオレット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59553-fc2e83xfymKa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsumaru-tachibana"
+    ]
+  },
+  {
+    "name": "Grell Sutcliff",
+    "nameNative": "グレル・サトクリフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12960-TU6by6WTq5By.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Herman Greenhill",
+    "nameNative": "ハーマン・グリーンヒル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59559-DnHvPQHBjb1A.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Irene Diaz",
+    "nameNative": "アイリーンディアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b38829-GgEAyFJEr7u0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mana-miyamoto"
+    ]
+  },
+  {
+    "name": "Joanne Harcourt",
+    "nameNative": "ジョアン・ハーコート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130655-jfZ1J1Xrkb0L.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-tokudome"
+    ]
+  },
+  {
+    "name": "Johan Agares",
+    "nameNative": "ヨハン・アガレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b63997-jnDYEYntTbhL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "John Brown",
+    "nameNative": "ジョン・ブラウン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b38833-DE0RrunKACyw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Lau",
+    "nameNative": "劉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14958.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Lawrence Bluer",
+    "nameNative": "ロレンス・ブルーアー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59555-2BIC0UQa717f.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Maurice Cole",
+    "nameNative": "モーリス・コール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b63993-NYaIsElNKtDb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shun-horie"
+    ]
+  },
+  {
+    "name": "McMillan",
+    "nameNative": "マクミラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59561-DHD7K9c2R8D7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-shiraishi"
+    ]
+  },
+  {
+    "name": "Mey-Rin",
+    "nameNative": "メイリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14952-8VoSzSodSMdO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  },
+  {
+    "name": "Paula",
+    "nameNative": "ポーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19244.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-itsuki"
+    ]
+  },
+  {
+    "name": "Ran Mao",
+    "nameNative": "ランマオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17648-FllehRobgtzj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yahagi"
+    ]
+  },
+  {
+    "name": "Ryan Stoker",
+    "nameNative": "リアン・ストーカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39114.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Snake",
+    "nameNative": "スネーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35348-A1ABcSwEkA65.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-terashima"
+    ]
+  },
+  {
+    "name": "Soma Asman Kadar",
+    "nameNative": "ソーマ・アスマン・カダール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16733-qUb2tB4NXIDo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-tachibana"
+    ]
+  },
+  {
+    "name": "Undertaker",
+    "nameNative": "葬儀屋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14957-OUduj1a2m4eC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Victoria Joou",
+    "nameNative": "ヴィクトリア女王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20367.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-seta"
+    ]
+  },
+  {
+    "name": "Vincent Phantomhive",
+    "nameNative": "ヴィンセント・ファントムハイヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16736-YM9WCiptrJJ0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  }
+]
