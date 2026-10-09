@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Kazune Takigawa",
+    "nameNative": "瀧川和音",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280543-W7nMhnMi1Krq.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-hashimoto",
+      "kimiko-yo"
+    ]
+  },
+  {
+    "name": "Koyomi Takasaki",
+    "nameNative": "高崎暦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280544-EAo7sRA3jw5W.png",
+    "role": "main",
+    "voiceActors": [
+      "hio-miyazawa",
+      "tokuma-nishioka",
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Itoko Satou",
+    "nameNative": "佐藤絃子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314589-vqyKqfIkjfiQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-mizuno"
+    ]
+  },
+  {
+    "name": "Mayumi Takasaki",
+    "nameNative": "高崎真由美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314587-lAEhn9xzpbDo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mie-sonozaki"
+    ]
+  },
+  {
+    "name": "Shiori Satou",
+    "nameNative": "佐藤栞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280572-F80y4pAnkIZL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aju-makita"
+    ]
+  },
+  {
+    "name": "Shoudai Hidaka",
+    "nameNative": "日高翔大",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314586-lV6FA9pYKVEm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-hamada"
+    ]
+  },
+  {
+    "name": "Yasuto Takasaki",
+    "nameNative": "高崎康人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314588-NA8tBcngahjX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomomichi-nishimura"
+    ]
+  }
+]
