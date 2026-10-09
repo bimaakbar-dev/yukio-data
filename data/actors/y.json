@@ -308,6 +308,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "yoshina-makino",
+    "name": "Yoshina Makino",
+    "nameNative": "牧野芳奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n168471-HgTO05dzWRs3.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "yoshino-aoyama",
     "name": "Yoshino Aoyama",
     "nameNative": "青山吉能",
@@ -2082,6 +2089,13 @@
     "name": "Yuuki Tamai",
     "nameNative": "玉井勇輝",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n206818-pBrDQWW4mpVl.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "yuuki-tamaki",
+    "name": "Yuuki Tamaki",
+    "nameNative": "環有希",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/6171.jpg",
     "defaultLanguage": "Japanese"
   },
   {
