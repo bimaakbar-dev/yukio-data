@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Hotaru Mizushina",
+    "nameNative": "水科蛍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89976-BwNm1AnYeonG.png",
+    "role": "main",
+    "voiceActors": [
+      "hiromi-igarashi"
+    ]
+  },
+  {
+    "name": "Yuma Okazaki",
+    "nameNative": "岡崎由真",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89975-VY76MlI6YYuU.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Fujiwara",
+    "nameNative": "藤原",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89977-k8QuN63FwLRG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Takeda",
+    "nameNative": "武田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89978-b5Vs8hiwfEdp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  }
+]
