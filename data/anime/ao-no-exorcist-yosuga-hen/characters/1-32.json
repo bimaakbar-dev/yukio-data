@@ -1,0 +1,291 @@
+[
+  {
+    "name": "Shirou Fujimoto",
+    "nameNative": "藤本獅郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30431-l5NMqfM82w4q.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroaki-hirata",
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Yuri Egin",
+    "nameNative": "ユリ・エギン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b48511-FfvuZ6i6Czep.png",
+    "role": "main",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Abel Franken",
+    "nameNative": "アベル・フランケン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355652-QiJ2sOKBqjJm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-tsuruoka"
+    ]
+  },
+  {
+    "name": "Arthur Auguste Angel",
+    "nameNative": "アーサー・オーギュスト・エンジェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34758-XzvetamkXXVQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Astaroth",
+    "nameNative": "アスタロト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315001-Yr8sdNDFoi3Z.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Drac Dragulescu",
+    "nameNative": "ドラク・ドラグレスク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204126-R9YRaLGBbHLA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuunosuke-watanuki"
+    ]
+  },
+  {
+    "name": "Hilkiah Uzai",
+    "nameNative": "ヒルキア・ウザイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Homare Todo",
+    "nameNative": "藤堂誉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210807-GFerzfUrZqrD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Iblis",
+    "nameNative": "イブリース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355665-DbfUiqySzvyx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-hara"
+    ]
+  },
+  {
+    "name": "Izumo Kamiki",
+    "nameNative": "神木出雲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32162-VQiwb6CHEv8K.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Jenny Kal",
+    "nameNative": "ジェニ・カル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355650-pG0SNQDZfTDb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-hirohashi"
+    ]
+  },
+  {
+    "name": "Jeremiah Uzai",
+    "nameNative": "エレミヤ・ウザイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-kamio"
+    ]
+  },
+  {
+    "name": "Juuzou Shima",
+    "nameNative": "志摩柔造",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43383-BYanhVdQgXy8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Kinzou Shima",
+    "nameNative": "志摩金造",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43386-jUOATXKrcIEZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kishou-taniyama",
+      "hinami-nanami"
+    ]
+  },
+  {
+    "name": "Konekomaru Miwa",
+    "nameNative": "三輪子猫丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b38984-nTBWABvnb24V.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Kuro",
+    "nameNative": "クロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayahi-takagaki"
+    ]
+  },
+  {
+    "name": "Lewin Light",
+    "nameNative": "ルーイン･ライト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b73589-TR7obTVfLWGx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Lucifer",
+    "nameNative": "ルシフェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210806-ix78MMmZrbrp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Lucy Yang",
+    "nameNative": "ルーシー・陽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355653-BvYmF95u2KSL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-saitou"
+    ]
+  },
+  {
+    "name": "Mephisto Pheles",
+    "nameNative": "メフィスト・フェレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30432-I4KwsegOrzfq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Osceola Redarm",
+    "nameNative": "オセオラ・レッドアーム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143379-q18jZsbNhNYY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "Renzou Shima",
+    "nameNative": "志摩廉造",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b38983-NrEXYWsAzm68.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Rick Lincoln",
+    "nameNative": "リック・リンカーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355649-lBxxe1sfmvjn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-irino"
+    ]
+  },
+  {
+    "name": "Rin Okumura",
+    "nameNative": "奥村燐",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhiko-okamoto",
+      "kamiri-matsuda",
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Ryuuji Suguro",
+    "nameNative": "勝呂竜士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30429-NmVCBSzm3GNY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-nakai"
+    ]
+  },
+  {
+    "name": "Saburouta Toudou",
+    "nameNative": "藤堂三郎太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141955-uWxdyqqddQBZ.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Satan",
+    "nameNative": "サタン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b48449-LZibifWzcpoo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  },
+  {
+    "name": "Shiemi Moriyama",
+    "nameNative": "杜山しえみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30430-LwO3yM6dg0HF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Shura Kirigakure",
+    "nameNative": "霧隠・シュラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32110-Ats6VvSZy300.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Tatsuma Suguro",
+    "nameNative": "勝呂達磨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43137.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jin-urayama",
+      "ikuji-nose"
+    ]
+  },
+  {
+    "name": "Yaozou Shima",
+    "nameNative": "志摩八百造",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141961-aKq0KIYaU61K.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Yukio Okumura",
+    "nameNative": "奥村雪男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama",
+      "chiyuki-miura",
+      "yuu-shimamura"
+    ]
+  }
+]
