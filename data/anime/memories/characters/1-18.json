@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Eva Friedel",
+    "nameNative": "エヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128247-KBWD0aLr0jqk.png",
+    "role": "main",
+    "voiceActors": [
+      "gara-takashima"
+    ]
+  },
+  {
+    "name": "Heintz Beckner",
+    "nameNative": "ハインツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14639-4GtJg9MfGOov.png",
+    "role": "main",
+    "voiceActors": [
+      "tsutomu-isobe"
+    ]
+  },
+  {
+    "name": "Miguel Costrela",
+    "nameNative": "ミゲル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14640-xpjKeRv6aviE.png",
+    "role": "main",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Nobuo Tanaka",
+    "nameNative": "田中信男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34081-5AJNqHjY4ewe.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hideyuki-hori"
+    ]
+  },
+  {
+    "name": "Shounen",
+    "nameNative": "少年",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169669-N0zjvkCRb6Sy.png",
+    "role": "main",
+    "voiceActors": [
+      "yuu-hayashi"
+    ]
+  },
+  {
+    "name": "Anna",
+    "nameNative": "アンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169656-lwBgoX2zsEtP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-soumi"
+    ]
+  },
+  {
+    "name": "Aoshima",
+    "nameNative": "青島",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169657-HMm0KKnHZxNn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Baa-chan",
+    "nameNative": "ばっちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169668-KCzioHqIfc10.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kyouda"
+    ]
+  },
+  {
+    "name": "Beigun-shoukou",
+    "nameNative": "米軍将校",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169665-Qg3HBurpi0Eu.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Emily",
+    "nameNative": "エミリィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169658-JUVuWeV3rDA1.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Honbuchou",
+    "nameNative": "本部長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169666-CM8MVZ5rPkje.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chikao-ootsuka"
+    ]
+  },
+  {
+    "name": "Isha",
+    "nameNative": "医者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169667-7AEk7AgRMHlQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takkou-ishimori"
+    ]
+  },
+  {
+    "name": "Ivanov",
+    "nameNative": "イワノフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169655-mpaAt3hRa4ag.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouzou-iizuka"
+    ]
+  },
+  {
+    "name": "Kamata",
+    "nameNative": "鎌田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169664-1cbUR73soagK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "osamu-saka"
+    ]
+  },
+  {
+    "name": "Miki",
+    "nameNative": "美樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169660-5RY9yjlKhd6D.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chie-koujiro"
+    ]
+  },
+  {
+    "name": "Nirasaki",
+    "nameNative": "韮崎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169661-FPvMR8hQgb4s.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "michio-hazama"
+    ]
+  },
+  {
+    "name": "Oomaeda",
+    "nameNative": "大前田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169659-VSUiwdzll9mx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Sakiko",
+    "nameNative": "咲子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169662-SPNxIxIgK3iT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kayoko-fujii"
+    ]
+  }
+]
