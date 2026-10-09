@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Asahi Ikusaba",
+    "nameNative": "軍場朝陽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266717-CVWzPUymb0HB.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuki-sakakihara"
+    ]
+  },
+  {
+    "name": "Kilmaria",
+    "nameNative": "キルマリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284764-e8DXpNQn3Tad.png",
+    "role": "main",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Maya Ikusaba",
+    "nameNative": "軍場真夜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266718-dVE0m1APHe2A.png",
+    "role": "main",
+    "voiceActors": [
+      "haruka-shiraishi"
+    ]
+  },
+  {
+    "name": "Delivn",
+    "nameNative": "テリヴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b303582-2D9CsZyc5YLE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masafumi-kimura"
+    ]
+  },
+  {
+    "name": "Gloria",
+    "nameNative": "グローリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290061-VvwU596IfbDb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sora-tokui"
+    ]
+  },
+  {
+    "name": "Guririgura",
+    "nameNative": "グリリグラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308401-WOQw6DlVy2WE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Huan",
+    "nameNative": "ホアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b303576-kAUa9siEhREM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "reiko-suzuki"
+    ]
+  },
+  {
+    "name": "Kuon",
+    "nameNative": "クオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290062-Fv61wmcq5cvd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "konomi-kohara"
+    ]
+  },
+  {
+    "name": "Siegfried",
+    "nameNative": "ジークフリート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290063-liAgfRytadtW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuma-uchida"
+    ]
+  },
+  {
+    "name": "Sophie",
+    "nameNative": "ソフィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290059-JSbW70ZZovap.png",
+    "role": "supporting",
+    "voiceActors": [
+      "azumi-waki"
+    ]
+  },
+  {
+    "name": "Tanya",
+    "nameNative": "ターニャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290060-xCbd0YM68OTq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rio-tsuchiya"
+    ]
+  },
+  {
+    "name": "Tiger Hildebrandt",
+    "nameNative": "ティガー・ヒルデブラント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308400-nyLSEuOiSaO0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  }
+]
