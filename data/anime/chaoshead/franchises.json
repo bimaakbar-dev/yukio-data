@@ -1,0 +1,32 @@
+[
+  {
+    "relation": "alternative",
+    "slug": "steinsgate",
+    "title": "Steins;Gate"
+  },
+  {
+    "relation": "alternative",
+    "slug": "roboticsnotes",
+    "title": "Robotics;Notes"
+  },
+  {
+    "relation": "alternative",
+    "slug": "occulticnine",
+    "title": "Occultic;Nine"
+  },
+  {
+    "relation": "sequel",
+    "slug": "chaoschild",
+    "title": "ChaoS;Child"
+  },
+  {
+    "relation": "alternative",
+    "slug": "chaoschild-episode-0",
+    "title": "ChaoS;Child Episode 0"
+  },
+  {
+    "relation": "alternative",
+    "slug": "steinsgate-0",
+    "title": "Steins;Gate 0"
+  }
+]
