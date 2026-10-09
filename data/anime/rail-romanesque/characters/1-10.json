@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Beni",
+    "nameNative": "紅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175668-M0ygPrEufKlx.png",
+    "role": "main",
+    "voiceActors": [
+      "tomoyo-kurosawa"
+    ]
+  },
+  {
+    "name": "Iyo",
+    "nameNative": "いよ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175667-RuoSUT7T3JMg.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-furihata"
+    ]
+  },
+  {
+    "name": "Kakaa",
+    "nameNative": "かかあ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175670-JlJnzk7QGgWI.png",
+    "role": "main",
+    "voiceActors": [
+      "mai-nagai"
+    ]
+  },
+  {
+    "name": "Kiko",
+    "nameNative": "汽子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175665-kddkeR1MIXfq.png",
+    "role": "main",
+    "voiceActors": [
+      "aya-suzaki"
+    ]
+  },
+  {
+    "name": "Ran",
+    "nameNative": "ラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175666-9fZ143JnBQ8z.png",
+    "role": "main",
+    "voiceActors": [
+      "aya-uchida"
+    ]
+  },
+  {
+    "name": "Riiko",
+    "nameNative": "りいこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175669-gStAwyCXajwa.png",
+    "role": "main",
+    "voiceActors": [
+      "yurika-kubo"
+    ]
+  },
+  {
+    "name": "Shirogane",
+    "nameNative": "しろがね",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175671-qS7wf0knWGp6.png",
+    "role": "main",
+    "voiceActors": [
+      "chihiro-kamijou"
+    ]
+  },
+  {
+    "name": "Suika",
+    "nameNative": "西瓜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175672-It1n7jmKxOti.png",
+    "role": "main",
+    "voiceActors": [
+      "ayaka-igasaki"
+    ]
+  },
+  {
+    "name": "Suzushiro",
+    "nameNative": "すずしろ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175664-Yi7aWLzEGE8b.png",
+    "role": "main",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  }
+]
