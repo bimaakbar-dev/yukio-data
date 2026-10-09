@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Noctis Lucis Caelum",
+    "nameNative": "ノクティス・ルシス・チェラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n121313-ceRcU6wm8gtH.png",
+    "role": "main",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  },
+  {
+    "name": "Gladiolus Amicitia",
+    "nameNative": "グラディオラス・アミシティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/121315-Txx8dUr6eXQV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Ignis Scientia",
+    "nameNative": "イグニス・スキエンティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/121314-ZU3AlsYu43aw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Lunafreya Nox Fleuret",
+    "nameNative": "ルナフレーナ・ノックス・フルーレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142871-CWHSPHhyqBQw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-kitagawa"
+    ]
+  },
+  {
+    "name": "Marilith",
+    "nameNative": "マリリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205879-qdOwNrazwInA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-koichi"
+    ]
+  },
+  {
+    "name": "Prompto Argentum",
+    "nameNative": "プロンプト・アージェンタム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/121316-srp1j13dvrtn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Regis Lucius Caelum CXIII",
+    "nameNative": "ルシス・チェラム・レギス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142863-DavNukOwJFMo.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tsutomu-isobe"
+    ]
+  }
+]
