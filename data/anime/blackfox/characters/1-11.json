@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Melissa",
+    "nameNative": "メリッサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144487-s7hi04mBGJ3h.png",
+    "role": "main",
+    "voiceActors": [
+      "you-taichi"
+    ]
+  },
+  {
+    "name": "Mia",
+    "nameNative": "ミア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144486-kTOTNAOb59KS.png",
+    "role": "main",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Rikka Isurugi",
+    "nameNative": "石動律花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144485-3txb4aEMu98l.png",
+    "role": "main",
+    "voiceActors": [
+      "ayaka-nanase"
+    ]
+  },
+  {
+    "name": "Allen Isurugi",
+    "nameNative": "アレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144489-sEtjMJB3MHJc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-tsuchida"
+    ]
+  },
+  {
+    "name": "Brad Ingram",
+    "nameNative": "ブラッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144491-OwcOSQAk9u0D.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi"
+    ]
+  },
+  {
+    "name": "Harold",
+    "nameNative": "ハロルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144490-SVMPEeqN5NJA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Hyoe Isurugi",
+    "nameNative": "兵衛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144493-1r2JUykm2OSB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eizou-tsuda"
+    ]
+  },
+  {
+    "name": "Kasumi",
+    "nameNative": "カスミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144488-lDj6VKpYLudk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Lauren",
+    "nameNative": "ローレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144494-WAI99CpYDHE6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Madara",
+    "nameNative": "マダラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144495-LGWUbiLiCIAo.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-toyosaki"
+    ]
+  },
+  {
+    "name": "Oboro",
+    "nameNative": "オボロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144492-Owxaisvwd6th.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  }
+]
