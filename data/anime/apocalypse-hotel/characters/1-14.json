@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Yachiyo",
+    "nameNative": "ヤチヨ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b353934-3kY5L8JB4FRP.png",
+    "role": "main",
+    "voiceActors": [
+      "saho-shirasu"
+    ]
+  },
+  {
+    "name": "Bunbuku",
+    "nameNative": "ブンブク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359329-7jlaoPHU4EgE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Doorman Robo",
+    "nameNative": "ドアマンロボ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359326-kaAzBkbMz2TT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi"
+    ]
+  },
+  {
+    "name": "Fuguri",
+    "nameNative": "フグリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359331-7gSD0xwJpz2r.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Kankyou Check Robo",
+    "nameNative": "環境チェックロボ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359327-LxTjmey0G1SR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Kowamote Uchuujin",
+    "nameNative": "強面宇宙人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369792-f2LuhCU1CmgC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Mami",
+    "nameNative": "マミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359330-Nhkf4cjduIdM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takako-honda"
+    ]
+  },
+  {
+    "name": "Mujina",
+    "nameNative": "ムジナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359332-5LdcU4RMUfNL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  },
+  {
+    "name": "Onwa Uchuujin",
+    "nameNative": "温和宇宙人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369793-SnpJMCpl9GKl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takahide-adachi"
+    ]
+  },
+  {
+    "name": "Owner",
+    "nameNative": "オーナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359328-Ol9BO63LwREI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-kinoshita"
+    ]
+  },
+  {
+    "name": "Ponko",
+    "nameNative": "ポン子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b359325-5XVFObl1a3NC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-morohoshi"
+    ]
+  },
+  {
+    "name": "Ponstin",
+    "nameNative": "ポンスティン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b366644-7pztkqiBkJPM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Tabibito Uchuujin",
+    "nameNative": "旅人宇宙人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b362899-DU2G1yHPwxPE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukihiro-nozuyama"
+    ]
+  },
+  {
+    "name": "Tamako",
+    "nameNative": "タマ子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369791-krxuf5vgqLki.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hina-kino"
+    ]
+  }
+]
