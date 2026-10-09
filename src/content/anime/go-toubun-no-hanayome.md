@@ -1,48 +1,44 @@
 ---
-title: Go-toubun no Hanayome∽
-titleEnglish: The Quintessential Quintuplets Specials
-titleNative: 五等分の花嫁∽
+title: "Go-toubun no Hanayome *"
+titleEnglish: The Quintessential Quintuplets Specials 2
+titleNative: 五等分の花嫁＊
 
-malId: 54915
-kitsuId: "50699"
+malId: 58755
+kitsuId: "41966"
 
 type: Special
 status: finished
-source: manga
+source: original
 
 season: summer
-year: 2023
+year: 2024
 episodes: 2
 duration: 24
-# rating: # edit manual
 
 aired:
-  from: "2023-09-02"
-  to: "2023-09-09"
+  from: "2024-09-20"
+  to: "2024-09-20"
 
 stats:
-  score: 7.9
-  # scoredBy: # edit manual
+  score: 7.6
 
 genres:
+  - comedy
   - drama
   - romance
-  - slice-of-life
 
 studios:
-  - shaft
+  - bibury-animation-studios
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163327-xBQznOwq6emq.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163327-FadQfp1iiP6P.jpg"
-trailer: "FtiMzS9nH1s"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177191-ovNZsq8EbIPY.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177191-lcCby0Tpoobo.jpg"
+trailer: "Mbz6LljqeH4"
 
 draft: false
 ---
 
-Fuutarou, a part-time tutor, has taken on the task of guiding the Nakano sisters—quintessential beauties who are on the brink of flunking out of school and despise studying—until their graduation. With only six months left of their high school lives and the final summer vacation about to commence, he decides to take a break from his tutoring job during the summer break to focus on exam preparation.
+The honeymoon of Fuutarou and the five sisters has been adapted to film under the original idea and complete supervision of Negi Haruba. Once again, we present a romantic comedy with 500% cuteness!
 
-While the quintuplets are disheartened by their inability to see Fuutarou, an unexpected phone call from him turns everything around! A 500% adorable romantic comedy, the summer vacation edition! 
+(Source: Official 5th Anniversary Project Website, translated)
 
-(Source: TBS, edited)
-
-Note: The anime was pre-screened in Japan theatrically for 3 weeks on July 14, 2023 before being aired as a two-part special on September 2 &  September 9, 2023.
+Note: The anime was pre-screened in Japan theatrically for 3 weeks starting on September 20, 2024 before being aired as a TV special.
