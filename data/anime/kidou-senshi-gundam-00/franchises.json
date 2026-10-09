@@ -1,0 +1,42 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "kidou-senshi-gundam",
+    "title": "Kidou Senshi Gundam"
+  },
+  {
+    "relation": "other",
+    "slug": "kidou-senshi-gundam-00-cb-chara",
+    "title": "Kidou Senshi Gundam 00 CB Chara"
+  },
+  {
+    "relation": "summary",
+    "slug": "kidou-senshi-gundam-00-tenshi-tachi-no-kiseki",
+    "title": "Kidou Senshi Gundam 00: Tenshi-tachi no Kiseki"
+  },
+  {
+    "relation": "sequel",
+    "slug": "kidou-senshi-gundam-00-second-season",
+    "title": "Kidou Senshi Gundam 00 Second Season"
+  },
+  {
+    "relation": "summary",
+    "slug": "kidou-senshi-gundam-00-special-edition",
+    "title": "Kidou Senshi Gundam 00 Special Edition"
+  },
+  {
+    "relation": "character",
+    "slug": "gundam-build-fighters-battlogue",
+    "title": "Gundam Build Fighters: Battlogue"
+  },
+  {
+    "relation": "character",
+    "slug": "gundam-breaker-battlogue",
+    "title": "Gundam Breaker: Battlogue"
+  },
+  {
+    "relation": "other",
+    "slug": "kidou-senshi-gundam-00-revealed-chronicle",
+    "title": "Kidou Senshi Gundam 00: Revealed Chronicle"
+  }
+]
