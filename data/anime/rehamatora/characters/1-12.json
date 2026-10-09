@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Art",
+    "nameNative": "アート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87933-gf7t9OQrq3qO.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Hajime",
+    "nameNative": "はじめ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87932-t5GbYDoTzX4r.png",
+    "role": "main",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  },
+  {
+    "name": "Murasaki",
+    "nameNative": "ムラサキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87931-vcI0WjvRlgUT.jpg",
+    "role": "main",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Nice",
+    "nameNative": "ナイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87930.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ryouta-oosaka"
+    ]
+  },
+  {
+    "name": "Birthday",
+    "nameNative": "バースデイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88146.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Gasquet",
+    "nameNative": "ガスケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88150.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yousuke-akimoto"
+    ]
+  },
+  {
+    "name": "Honey",
+    "nameNative": "ハニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88147-1VM8QPiDnBxA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Koneko",
+    "nameNative": "コネコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87934-q2sqAXBjNRwC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyono-yasuno"
+    ]
+  },
+  {
+    "name": "Mao",
+    "nameNative": "マオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88151-XOzWBn7eKW7D.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-eguchi"
+    ]
+  },
+  {
+    "name": "Master",
+    "nameNative": "マスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88149.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-ono"
+    ]
+  },
+  {
+    "name": "Ratio",
+    "nameNative": "レシオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88145-sPSooiqFGAaE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Three",
+    "nameNative": "スリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88148-2gzPCWavL4rL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuki-murase"
+    ]
+  }
+]
