@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Izuku Midoriya",
+    "nameNative": "緑谷出久",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png",
+    "role": "main",
+    "voiceActors": [
+      "daiki-yamashita"
+    ]
+  },
+  {
+    "name": "Katsuki Bakugou",
+    "nameNative": "爆豪勝己",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png",
+    "role": "main",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Katsuma Shimano",
+    "nameNative": "島乃活真",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148023-kgZ9UpGIo7IX.png",
+    "role": "main",
+    "voiceActors": [
+      "yuka-terasaki"
+    ]
+  },
+  {
+    "name": "Mahoro Shimano",
+    "nameNative": "島乃真幌",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148024-TZvcMoreyZUI.png",
+    "role": "main",
+    "voiceActors": [
+      "tomoyo-kurosawa"
+    ]
+  }
+]
