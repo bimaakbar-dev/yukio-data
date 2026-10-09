@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Myon",
+    "nameNative": "みょん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15422-93dq7KZcRLrx.png",
+    "role": "main",
+    "voiceActors": [
+      "sayaka-maeda"
+    ]
+  },
+  {
+    "name": "Nishi",
+    "nameNative": "西",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15421-SpvepQp8QMEU.jpg",
+    "role": "main",
+    "voiceActors": [
+      "koji-imada"
+    ]
+  },
+  {
+    "name": "Atsu",
+    "nameNative": "アツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160922-b1j1KrHWSQtm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-chuujou"
+    ]
+  },
+  {
+    "name": "Boss",
+    "nameNative": "ボス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b271147-66GXWg68YK6G.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-shimaki"
+    ]
+  },
+  {
+    "name": "Chichi",
+    "nameNative": "父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b271145-jQNR4nq9jtUy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-sakata"
+    ]
+  },
+  {
+    "name": "Jii-san",
+    "nameNative": "じーさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160923-gXuD9CthpGNz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-fujii"
+    ]
+  },
+  {
+    "name": "Ryou",
+    "nameNative": "りょう",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160921-KgaA2TUHqZ0p.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomomitsu-yamaguchi"
+    ]
+  },
+  {
+    "name": "Yakuza",
+    "nameNative": "やくざ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b271144-syFT0JIAvAzh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rintarou-nishi"
+    ]
+  },
+  {
+    "name": "Yan",
+    "nameNative": "ヤン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b86163-6K0T9qPhQc57.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seiko-takuma"
+    ]
+  }
+]
