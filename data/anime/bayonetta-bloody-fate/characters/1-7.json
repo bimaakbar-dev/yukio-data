@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Bayonetta",
+    "nameNative": "ベヨネッタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87496-pBhFLnxrCi7y.jpg",
+    "role": "main",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Balder",
+    "nameNative": "バルドル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219273-sorpXDXMG8YY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norio-wakamoto"
+    ]
+  },
+  {
+    "name": "Cereza",
+    "nameNative": "セレッサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219274-P9RmNHp3VJTO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Enzo",
+    "nameNative": "エンツォ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219276-8XCzoh0nFJkh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Jeanne",
+    "nameNative": "ジャンヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219275-fGijIVw2jnag.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mie-sonozaki"
+    ]
+  },
+  {
+    "name": "Luka Redgrave",
+    "nameNative": "ルカ・レッドグレイヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219272-hVsRGflttyM8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Rodin",
+    "nameNative": "ロダン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219277-pC795F9OAEyT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  }
+]
