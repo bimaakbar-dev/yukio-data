@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Sensei",
+    "nameNative": "先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123987-a6OmZkVSWfs2.jpg",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Shiva",
+    "nameNative": "シーヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123988-OftE5hJJHfyL.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Heichou",
+    "nameNative": "兵長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b276377-mbhr2ksOXGwZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-sakaguchi"
+    ]
+  },
+  {
+    "name": "Ryoushi",
+    "nameNative": "猟師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b276376-6oZ80hEFEK66.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tadashi-miyazawa"
+    ]
+  },
+  {
+    "name": "Soto no Mono",
+    "nameNative": "外の者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b276375-pcByyAOzNBRI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-gotou"
+    ]
+  }
+]
