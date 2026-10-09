@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Akashi",
+    "nameNative": "明石",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31522-Nkfqv7px3MAv.png",
+    "role": "main",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Ozu",
+    "nameNative": "小津",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32556-zXSKPVT6WLHU.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Tamura-kun",
+    "nameNative": "田村くん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244175-Jv3Pj8UTxq4L.png",
+    "role": "main",
+    "voiceActors": [
+      "chikara-honda"
+    ]
+  },
+  {
+    "name": "Watashi",
+    "nameNative": "私",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30579-Idk9XLwfnYft.png",
+    "role": "main",
+    "voiceActors": [
+      "shintarou-asanuma"
+    ]
+  },
+  {
+    "name": "Aijima",
+    "nameNative": "相島",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32653-ZrRSzKE7PAVV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "setsuji-satou"
+    ]
+  },
+  {
+    "name": "Imai",
+    "nameNative": "イマイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Ishida",
+    "nameNative": "石田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287982-C5lYKVse9qJO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "gota-ishida"
+    ]
+  },
+  {
+    "name": "Kameda",
+    "nameNative": "カメダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Kizaki",
+    "nameNative": "キザキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Masaki Jougasaki",
+    "nameNative": "城ヶ崎マサキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32650-221Mk9iUrlQh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Nagano",
+    "nameNative": "永野",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287984-ih0iw7r5QgVB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "munemori-nagano"
+    ]
+  },
+  {
+    "name": "Ryouko Hanuki",
+    "nameNative": "羽貫涼子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33023-egRZFEqFYSHp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Sakai",
+    "nameNative": "酒井",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287980-alaO5PQAsfpe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshifumi-sakai"
+    ]
+  },
+  {
+    "name": "Seitarou Higuchi",
+    "nameNative": "樋口清太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32647-RiwUrmtfZkeT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-nakai"
+    ]
+  },
+  {
+    "name": "Tosa",
+    "nameNative": "土佐",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287986-OnHshgpzRgLE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazunari-tosa"
+    ]
+  },
+  {
+    "name": "Ueda",
+    "nameNative": "上田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287979-SGh4F71wDx8Q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-ueda"
+    ]
+  },
+  {
+    "name": "Uranai-baba",
+    "nameNative": "占い婆",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32645-vdrSOsO9PM1Z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ako-mayama"
+    ]
+  }
+]
