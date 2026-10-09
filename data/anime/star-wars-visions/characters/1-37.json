@@ -1,0 +1,333 @@
+[
+  {
+    "name": "Am",
+    "nameNative": "アム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249146-T4ReTQvzlArn.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ryouko-shiraishi"
+    ]
+  },
+  {
+    "name": "Dan",
+    "nameNative": "ダン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249164-Ejj7NZpRpXDc.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "F",
+    "nameNative": "エフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249147-avg9OsU0tJKP.jpg",
+    "role": "main",
+    "voiceActors": [
+      "asami-seto"
+    ]
+  },
+  {
+    "name": "Jay",
+    "nameNative": "ジェイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249142-Iga1A4EOZ6zC.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Kara",
+    "nameNative": "カーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249154-aYnA2YYnfe2K.jpg",
+    "role": "main",
+    "voiceActors": [
+      "chinatsu-akasaki"
+    ]
+  },
+  {
+    "name": "Karre",
+    "nameNative": "カレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249144-opiOQVqEl8j1.png",
+    "role": "main",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Lop",
+    "nameNative": "ロップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249167-iNkjw76irBEr.png",
+    "role": "main",
+    "voiceActors": [
+      "seiran-kobayashi"
+    ]
+  },
+  {
+    "name": "Ochou",
+    "nameNative": "お蝶",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249166-jeEWKgIc2Dyh.png",
+    "role": "main",
+    "voiceActors": [
+      "risa-shimizu"
+    ]
+  },
+  {
+    "name": "Rounin",
+    "nameNative": "ローニン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249134-xCopaXS77cuI.png",
+    "role": "main",
+    "voiceActors": [
+      "masaki-terasoma"
+    ]
+  },
+  {
+    "name": "T0-B1",
+    "nameNative": "ティーオービーワン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249160-zp8V9cYNTjt7.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Tajin",
+    "nameNative": "タジン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249163-pHjK0M2y1Amd.png",
+    "role": "main",
+    "voiceActors": [
+      "takaya-hashi"
+    ]
+  },
+  {
+    "name": "Tsubaki",
+    "nameNative": "ツバキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249172-M5Lnu7R389bD.png",
+    "role": "main",
+    "voiceActors": [
+      "yuu-miyazaki"
+    ]
+  },
+  {
+    "name": "Asu",
+    "nameNative": "アス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249150-uy69Yogd02TM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuma-uchida"
+    ]
+  },
+  {
+    "name": "B-2ON",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249145-1GLSNbX6YfGP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tokuyoshi-kawashima"
+    ]
+  },
+  {
+    "name": "Boba Fett",
+    "nameNative": "ボバ・フェット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15399-m38r5DIVw1fG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-kaneda"
+    ]
+  },
+  {
+    "name": "Ethan",
+    "nameNative": "イーサン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249155-tR1AKYTByT7n.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromu-mineta"
+    ]
+  },
+  {
+    "name": "Geezer",
+    "nameNative": "ギーザー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249140-ZDOtZZ5zOBMJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-gotou"
+    ]
+  },
+  {
+    "name": "Haru",
+    "nameNative": "ハル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249149-cPuVW98KsA30.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Hen Jin",
+    "nameNative": "ヘン・ジン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249158-iym9UAMEeFLT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-hirakawa"
+    ]
+  },
+  {
+    "name": "Izuma",
+    "nameNative": "イズマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249152-Pa0yuwRceV3H.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimitsu-shimoyama"
+    ]
+  },
+  {
+    "name": "Juro",
+    "nameNative": "ジューロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249157-sR1S8u9wTmbb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuo-kanao"
+    ]
+  },
+  {
+    "name": "K-344",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249143-UysVwV2jHjDC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masayo-fujita"
+    ]
+  },
+  {
+    "name": "Kamahachi",
+    "nameNative": "カマハチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249171-768MMkTPbyss.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Lan",
+    "nameNative": "ラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249141-taty4UQImKqw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "anri-katsu"
+    ]
+  },
+  {
+    "name": "Masago",
+    "nameNative": "マサゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249173-1QdBLpl63sFX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukari-nozawa"
+    ]
+  },
+  {
+    "name": "Misa",
+    "nameNative": "ミサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249174-mVKF0l3qpd0J.png",
+    "role": "supporting",
+    "voiceActors": [
+      "lynn"
+    ]
+  },
+  {
+    "name": "Mitaka Hakase",
+    "nameNative": "ミタカ博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249161-UNsvlOJ3Evgc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsutomu-isobe"
+    ]
+  },
+  {
+    "name": "Roden",
+    "nameNative": "ローデン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249159-1pyQyxrPbRO5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-nakai"
+    ]
+  },
+  {
+    "name": "Roujin",
+    "nameNative": "老人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249162-tRx9PGb2nN4v.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Saku",
+    "nameNative": "サク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249151-9uDwtglCO35S.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Senshuu",
+    "nameNative": "センシュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249170-AyoNtRZDJ0co.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Shoukou Teikoku",
+    "nameNative": "帝国将校",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249169-Xst0huDussRm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taisuke-nakano"
+    ]
+  },
+  {
+    "name": "Shounen Sonchou",
+    "nameNative": "少年村長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249136-fePkNo9PQtaf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-sanpei"
+    ]
+  },
+  {
+    "name": "Vaan",
+    "nameNative": "ヴァン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249148-hGKy7DNeLn0q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kamikawa"
+    ]
+  },
+  {
+    "name": "Yasaburou",
+    "nameNative": "弥三郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249165-aD7vr2BvXIHN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tadahisa-fujimura"
+    ]
+  },
+  {
+    "name": "Yatou no Boss",
+    "nameNative": "野盗のボス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249135-TPuHEr4GPPWf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Zhima",
+    "nameNative": "ジーマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249156-tcUYkF8Y5Fhf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  }
+]
