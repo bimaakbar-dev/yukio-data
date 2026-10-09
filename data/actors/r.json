@@ -343,6 +343,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "rie-machi",
+    "name": "Rie Machi",
+    "nameNative": "町理恵",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n174975-ljSdQGfmX8tH.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "rie-murakawa",
     "name": "Rie Murakawa",
     "nameNative": "村川梨衣",
@@ -788,6 +795,13 @@
     "name": "Risa Shimizu",
     "nameNative": "清水理沙",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107282-fyEJs2MuyVqP.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "risa-suzuki",
+    "name": "Risa Suzuki",
+    "nameNative": "鈴木里彩",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
     "defaultLanguage": "Japanese"
   },
   {
