@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Count D",
+    "nameNative": "D伯爵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2617-FXRMRJFKLjw3.png",
+    "role": "main",
+    "voiceActors": [
+      "toshihiko-seki"
+    ]
+  },
+  {
+    "name": "Leon Orcot",
+    "nameNative": "レオン・オルコット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6832.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masaya-onosaka"
+    ]
+  },
+  {
+    "name": "Albert",
+    "nameNative": "アルバート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245717-Hu8OthbAw8L2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-furusawa"
+    ]
+  },
+  {
+    "name": "Alice Hayward",
+    "nameNative": "アリス・ヘイワード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26187.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-yoshida"
+    ]
+  },
+  {
+    "name": "Buchou",
+    "nameNative": "部長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-watabe"
+    ]
+  },
+  {
+    "name": "Evangeline Blue",
+    "nameNative": "エヴァンジェリン・ブルー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245711-gF53aLGCv5jz.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Hayward Fujin",
+    "nameNative": "ヘイワード夫人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245701-vP8uSdL84On3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuriko-yamaguchi"
+    ]
+  },
+  {
+    "name": "Hayward Shi",
+    "nameNative": "ヘイワード氏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245702-bTM21yXCUBQD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-yanaka"
+    ]
+  },
+  {
+    "name": "Jason Gray",
+    "nameNative": "イアソン・グレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b240195-ApDCUPUMcU33.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Jill",
+    "nameNative": "ジル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51417.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Kelly Vincent",
+    "nameNative": "ケリー・ビンセント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245722-7GGSnok4M08n.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-miyamoto"
+    ]
+  },
+  {
+    "name": "Louise Tessen",
+    "nameNative": "ルイーズ・テッセン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245710-JyoC7h0ow8lC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Medusa",
+    "nameNative": "メデューサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245725-gb4Im0R6AaRv.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Nancy Grayson",
+    "nameNative": "ナンシー・グレイスン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245724-18BdGjB4jbs6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "narumi-hidaka"
+    ]
+  },
+  {
+    "name": "Q-chan",
+    "nameNative": "Qちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26186.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miho-yamada"
+    ]
+  },
+  {
+    "name": "Qinlin",
+    "nameNative": "慶麟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245719-Y2VDjvYR1wB8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuzaburou-ootomo"
+    ]
+  },
+  {
+    "name": "Robin  Hendrix",
+    "nameNative": "ロビン・ヘンドリックス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183377-cs3UKIietQ4I.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-tsujitani"
+    ]
+  },
+  {
+    "name": "Roger Stanford",
+    "nameNative": "ロジャー・T・スタンフォード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245723-aQ47tfj5saKd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-madono"
+    ]
+  }
+]
