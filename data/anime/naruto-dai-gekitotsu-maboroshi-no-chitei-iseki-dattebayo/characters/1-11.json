@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Naruto Uzumaki",
+    "nameNative": "うずまきナルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png",
+    "role": "main",
+    "voiceActors": [
+      "junko-takeuchi"
+    ]
+  },
+  {
+    "name": "Sakura Haruno",
+    "nameNative": "春野サクラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png",
+    "role": "main",
+    "voiceActors": [
+      "chie-nakamura"
+    ]
+  },
+  {
+    "name": "Shikamaru Nara",
+    "nameNative": "奈良シカマル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2007-QaesJlIZDifj.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shoutarou-morikubo"
+    ]
+  },
+  {
+    "name": "Temujin",
+    "nameNative": "テムジン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12968.jpg",
+    "role": "main",
+    "voiceActors": [
+      "gamon-kaai"
+    ]
+  },
+  {
+    "name": "Emina",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/45729.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoka-kurokawa"
+    ]
+  },
+  {
+    "name": "Fugai",
+    "nameNative": "フガイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44605.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "urara-takano"
+    ]
+  },
+  {
+    "name": "Gaara",
+    "nameNative": "我愛羅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1662-4E5J0LX9jZKZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Haido",
+    "nameNative": "ハイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44701.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-nojima"
+    ]
+  },
+  {
+    "name": "Kamira",
+    "nameNative": "カミラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44599.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sachiko-kojima"
+    ]
+  },
+  {
+    "name": "Kankuro",
+    "nameNative": "カンクロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n4694-2brvNKpdqARU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuyuki-kase"
+    ]
+  },
+  {
+    "name": "Ranke",
+    "nameNative": "ランケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44611.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "houko-kuwashima"
+    ]
+  }
+]
