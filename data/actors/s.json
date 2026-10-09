@@ -350,6 +350,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "sakuya",
+    "name": "Sakuya",
+    "nameNative": "朔也",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "sally-amaki",
     "name": "Sally Amaki",
     "nameNative": "天城サリー",
@@ -1950,13 +1957,6 @@
     "name": "Shouko Arai",
     "nameNative": "新井笙子",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n365371-qRewZ1pd7aJ1.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "shouko-kikuchi",
-    "name": "Shouko Kikuchi",
-    "nameNative": "菊地祥子",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1357.jpg",
     "defaultLanguage": "Japanese"
   },
   {
