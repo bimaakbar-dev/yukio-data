@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Kamina",
+    "nameNative": "カミナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2075-sWb5Xz76JWdX.png",
+    "role": "main",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Simon",
+    "nameNative": "シモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2257-jnalsdnIX1vN.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Youko Littner",
+    "nameNative": "ヨーコ・リットナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2063-7BKqQbrhtDD2.png",
+    "role": "main",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Boota",
+    "nameNative": "ブータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4700.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Chitori",
+    "nameNative": "ティトリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42102.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-kadowaki"
+    ]
+  },
+  {
+    "name": "Jigitalis",
+    "nameNative": "ジギタリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42101.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-miyashita"
+    ]
+  },
+  {
+    "name": "Rossiu Adai",
+    "nameNative": "ロシウ・アダイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2377-b95gEhI6Udqq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  }
+]
