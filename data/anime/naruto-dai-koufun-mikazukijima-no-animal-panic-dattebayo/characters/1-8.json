@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Kakashi Hatake",
+    "nameNative": "はたけカカシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png",
+    "role": "main",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Michiru Tsuki",
+    "nameNative": "ツキミチル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16971.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Naruto Uzumaki",
+    "nameNative": "うずまきナルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png",
+    "role": "main",
+    "voiceActors": [
+      "junko-takeuchi"
+    ]
+  },
+  {
+    "name": "Sakura Haruno",
+    "nameNative": "春野サクラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png",
+    "role": "main",
+    "voiceActors": [
+      "chie-nakamura"
+    ]
+  },
+  {
+    "name": "Hikaru Tsuki",
+    "nameNative": "ツキヒカル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54979.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kyousuke-ikeda"
+    ]
+  },
+  {
+    "name": "Korega",
+    "nameNative": "コ再ガイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16972.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-hamada"
+    ]
+  },
+  {
+    "name": "Rock Lee",
+    "nameNative": "ロック・リー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306-oUTOO45xInXt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youichi-masukawa"
+    ]
+  },
+  {
+    "name": "Tsunade Senju",
+    "nameNative": "綱手",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2767-r61Cj9v8I0wl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-katsuki"
+    ]
+  }
+]
