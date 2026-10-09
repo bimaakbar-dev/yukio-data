@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Ahmey",
+    "nameNative": "アーメイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10184.jpg",
+    "role": "main",
+    "voiceActors": [
+      "risa-hayamizu"
+    ]
+  },
+  {
+    "name": "Coopa",
+    "nameNative": "クーパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10186.jpg",
+    "role": "main",
+    "voiceActors": [
+      "minori-chihara"
+    ]
+  },
+  {
+    "name": "Jil",
+    "nameNative": "ジル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10182.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kenn"
+    ]
+  },
+  {
+    "name": "Kaaya",
+    "nameNative": "カーヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10183.jpg",
+    "role": "main",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Melt",
+    "nameNative": "メルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10185.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hozumi-gouda"
+    ]
+  },
+  {
+    "name": "Black Knight",
+    "nameNative": "ブラックナイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84575.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kuroda"
+    ]
+  },
+  {
+    "name": "Druaga",
+    "nameNative": "ドルアーガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84567.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Ethana",
+    "nameNative": "エタナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12992.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "risa-mizuno"
+    ]
+  },
+  {
+    "name": "Fatina",
+    "nameNative": "ファティナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10188.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Gigi",
+    "nameNative": "ジジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12993.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ishtar",
+    "nameNative": "イシター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84569.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-tanaka"
+    ]
+  },
+  {
+    "name": "Kai",
+    "nameNative": "カイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12998.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-yajima"
+    ]
+  },
+  {
+    "name": "Kally",
+    "nameNative": "カリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10189.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Kelb",
+    "nameNative": "ケルブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12995.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-terasoma"
+    ]
+  },
+  {
+    "name": "King Gilgamesh",
+    "nameNative": "ギルガメス王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12994.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-hashi"
+    ]
+  },
+  {
+    "name": "Mite the Fool",
+    "nameNative": "マイト・ザ・フール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84565.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Neeba",
+    "nameNative": "ニーバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10187.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Pazuz",
+    "nameNative": "パズズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12991.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masahiko-tanaka"
+    ]
+  },
+  {
+    "name": "Succubus",
+    "nameNative": "サキュバス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12990.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Utu",
+    "nameNative": "ウトゥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10190.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Yuuri",
+    "nameNative": "ユーリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12918.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumiko-kobayashi"
+    ]
+  }
+]
