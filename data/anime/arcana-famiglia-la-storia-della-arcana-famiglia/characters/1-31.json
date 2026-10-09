@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Dante",
+    "nameNative": "ダンテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56595-ZESk6iAXe6VO.png",
+    "role": "main",
+    "voiceActors": [
+      "juurouta-kosugi"
+    ]
+  },
+  {
+    "name": "Debito",
+    "nameNative": "デビト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56589-F20P03RDIli0.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroyuki-yoshino",
+      "chisa-yuuki"
+    ]
+  },
+  {
+    "name": "Felicità",
+    "nameNative": "フェリチータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56583-QsSCPeGNpNjf.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Jolly",
+    "nameNative": "ジョーリィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/56597.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kouji-yusa",
+      "tomo-muranaka"
+    ]
+  },
+  {
+    "name": "Libertà",
+    "nameNative": "リベルタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56585-jrgoSHCPRx04.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama",
+      "kanae-oki"
+    ]
+  },
+  {
+    "name": "Luca",
+    "nameNative": "ルカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56593-sMMVxgkIJ7PM.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuichi-nakamura",
+      "yuuko-mori"
+    ]
+  },
+  {
+    "name": "Nova",
+    "nameNative": "ノヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56587-BCiwx7ZdfHSd.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tsubasa-yonaga"
+    ]
+  },
+  {
+    "name": "Pace",
+    "nameNative": "パーチェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56591-DYi7UspC0Cvk.png",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-sugita",
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Albero",
+    "nameNative": "アルベロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169276-He4FovDjIMX4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  },
+  {
+    "name": "Alberto",
+    "nameNative": "アルベルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gentoku"
+    ]
+  },
+  {
+    "name": "Claudio",
+    "nameNative": "クラウディオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169281-modTDvieiQiw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Donatella",
+    "nameNative": "ドナテラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b82735-tuZeAaKc09o2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shiori-izawa"
+    ]
+  },
+  {
+    "name": "Elmo",
+    "nameNative": "エルモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70633-04DjSldzOFxO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Federica",
+    "nameNative": "フェデリカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b82733-4OjSjYjtO0ql.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Fukulota",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b82741-xg4LMioShp9l.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shiori-izawa"
+    ]
+  },
+  {
+    "name": "Giorgio",
+    "nameNative": "ジョルジョ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169280-JChJNuymoTNp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-shirai"
+    ]
+  },
+  {
+    "name": "Giovanna",
+    "nameNative": "ジョバンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169278-VhLWd4Fs43Mg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiko-sawada"
+    ]
+  },
+  {
+    "name": "Gli Amanti",
+    "nameNative": "リ・アマンティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/68895.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-toudou"
+    ]
+  },
+  {
+    "name": "Isabella",
+    "nameNative": "イザベラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b82737-wgxZVaDNdjdC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "amisa-sakuragi"
+    ]
+  },
+  {
+    "name": "Mariella",
+    "nameNative": "マリエッラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b82739-2XH2tja9AUvI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asuka-minamori"
+    ]
+  },
+  {
+    "name": "Martha",
+    "nameNative": "マーサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169277-sjdcZ4owl4I1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "izumi-sawada"
+    ]
+  },
+  {
+    "name": "Milena",
+    "nameNative": "ミレーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169282-lknt9IynJbxc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Mondo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56599-iBJjDITQ7iIe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumihiko-tachiki"
+    ]
+  },
+  {
+    "name": "Moreno",
+    "nameNative": "モレノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169284-2RaYzGb67gPn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kanehira-yamamoto"
+    ]
+  },
+  {
+    "name": "Nicola",
+    "nameNative": "ニコラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169288-41rLHr5IhdrQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misa-katou"
+    ]
+  },
+  {
+    "name": "Nino",
+    "nameNative": "ニーノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169283-4ijYPScPxKH9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hironori-kondou"
+    ]
+  },
+  {
+    "name": "Patrick",
+    "nameNative": "パトリック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169289-tQpu8PaGCVyh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akihiro-nagaoka"
+    ]
+  },
+  {
+    "name": "Rollo",
+    "nameNative": "ロロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169287-rdX30KFJxNKo.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiichirou-tokumoto"
+    ]
+  },
+  {
+    "name": "Sarah",
+    "nameNative": "サラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169285-VUvbPz4Ts0n1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-hino"
+    ]
+  },
+  {
+    "name": "Sumire",
+    "nameNative": "スミレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56601-uvL32XnaDoju.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Tinto",
+    "nameNative": "ティント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169286-fHYZALJQZbGU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayashi"
+    ]
+  }
+]
