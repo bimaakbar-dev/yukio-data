@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Hanyuu Furude",
+    "nameNative": "古手羽入",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3128-ms0vxrk4ZoGN.png",
+    "role": "main",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Keiichi Maebara",
+    "nameNative": "前原圭一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1851-stMK6YF2jvhS.png",
+    "role": "main",
+    "voiceActors": [
+      "souichirou-hoshi"
+    ]
+  },
+  {
+    "name": "Mion Sonozaki",
+    "nameNative": "園崎魅音",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1611-z9SVkC9loi4y.png",
+    "role": "main",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Rena Ryuuguu",
+    "nameNative": "竜宮レナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1427-28AR4oy0y2Hw.png",
+    "role": "main",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Rika Furude",
+    "nameNative": "古手梨花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1534-CtOvaSPOMZne.png",
+    "role": "main",
+    "voiceActors": [
+      "yukari-tamura"
+    ]
+  },
+  {
+    "name": "Satoko Houjou",
+    "nameNative": "北条沙都子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1612-lL5sulSea1fZ.png",
+    "role": "main",
+    "voiceActors": [
+      "mika-kanai"
+    ]
+  },
+  {
+    "name": "Shion Sonozaki",
+    "nameNative": "園崎詩音",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1313-wLhW5uDxdhqA.png",
+    "role": "main",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Jirou Tomitake",
+    "nameNative": "富竹ジロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10024-Bu0fiJR4Iz9x.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-ookawa"
+    ]
+  },
+  {
+    "name": "Kuraudo Ooishi",
+    "nameNative": "大石蔵人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3775-CQOkJnyiCThk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chafuurin"
+    ]
+  },
+  {
+    "name": "Kyousuke Irie",
+    "nameNative": "入江京介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7445-X8OacDAXCwqK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshihiko-seki"
+    ]
+  },
+  {
+    "name": "Miyo Takano",
+    "nameNative": "鷹野三四",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4934-hyXYSNh1Yqtu.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Nomura",
+    "nameNative": "野村",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7243-YvsypDV78WuZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-tanaka"
+    ]
+  },
+  {
+    "name": "Oryou Sonozaki",
+    "nameNative": "園崎お魎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9481-A5LPr9vcwiOm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-okohira"
+    ]
+  },
+  {
+    "name": "Rumiko Chie",
+    "nameNative": "知恵留美子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6696-hxF6CrBnVSYE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Satoshi Houjou",
+    "nameNative": "北条悟史",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1852-O8PeTxF1DodX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Tetsuro Okonogi",
+    "nameNative": "小此木鉄郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21243-IqmYXKE1NB08.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "juurouta-kosugi"
+    ]
+  }
+]
