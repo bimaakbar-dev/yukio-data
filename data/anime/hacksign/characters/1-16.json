@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Bear",
+    "nameNative": "ベア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2181.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kazuhiro-nakata"
+    ]
+  },
+  {
+    "name": "Mimiru",
+    "nameNative": "ミミル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2180-RbJqZHy1AGmH.png",
+    "role": "main",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Subaru",
+    "nameNative": "昴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/41.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kaori-nazuka"
+    ]
+  },
+  {
+    "name": "Tsukasa",
+    "nameNative": "司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "A-20",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5888.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-enomoto"
+    ]
+  },
+  {
+    "name": "Aura",
+    "nameNative": "アウラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6845.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Balmung",
+    "nameNative": "バルムンク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2231.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "BT",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2182.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-hiramatsu"
+    ]
+  },
+  {
+    "name": "Crim",
+    "nameNative": "クリム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2185.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Harald Hoerwick",
+    "nameNative": "ハロルド・ヒューイック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5846-6hbMlJO4QKMt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takumi-yamazaki"
+    ]
+  },
+  {
+    "name": "Helba",
+    "nameNative": "ヘルバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9169.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-touma"
+    ]
+  },
+  {
+    "name": "Kaochin",
+    "nameNative": "カオちん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10793.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sara-nakayama"
+    ]
+  },
+  {
+    "name": "Macha",
+    "nameNative": "マハ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10794.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Morganna Mode Gone",
+    "nameNative": "モルガナ・モード・ゴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12162.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-tanaka"
+    ]
+  },
+  {
+    "name": "Silver Knight",
+    "nameNative": "銀漢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2184.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "isshin-chiba"
+    ]
+  },
+  {
+    "name": "Sora",
+    "nameNative": "楚良",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2183-9UXCzkhW0uRg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-yanaka"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "relation": "alternative",
+    "slug": "hackliminality",
+    "title": ".hack//Liminality"
+  },
+  {
+    "relation": "sequel",
+    "slug": "hacktasogare-no-udewa-densetsu",
+    "title": ".hack//Tasogare no Udewa Densetsu"
+  },
+  {
+    "relation": "sequel",
+    "slug": "hackintermezzo",
+    "title": ".hack//Intermezzo"
+  },
+  {
+    "relation": "sequel",
+    "slug": "hackunison",
+    "title": ".hack//Unison"
+  },
+  {
+    "relation": "side_story",
+    "slug": "hackgift",
+    "title": ".hack//Gift"
+  },
+  {
+    "relation": "sequel",
+    "slug": "hackroots",
+    "title": ".hack//Roots"
+  },
+  {
+    "relation": "other",
+    "slug": "hackquantum",
+    "title": ".hack//Quantum"
+  },
+  {
+    "relation": "other",
+    "slug": "hackthe-movie-sekai-no-mukou-ni",
+    "title": ".hack//The Movie: Sekai no Mukou ni"
+  }
+]
