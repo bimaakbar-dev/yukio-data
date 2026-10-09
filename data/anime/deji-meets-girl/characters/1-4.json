@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ichirou Suzuki",
+    "nameNative": "すずきいちろう",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b242319-DSQIyECLkf3j.png",
+    "role": "main",
+    "voiceActors": [
+      "tatsuyuki-kobayashi"
+    ]
+  },
+  {
+    "name": "Maise Higa",
+    "nameNative": "比嘉舞星",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b242318-TydlGhdyAQz0.png",
+    "role": "main",
+    "voiceActors": [
+      "kiyono-yasuno"
+    ]
+  },
+  {
+    "name": "Kaisei Higa",
+    "nameNative": "比嘉海星",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250254-NFAQa3GSqZUK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Teruko Higa",
+    "nameNative": "比嘉テル子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b257252-b7p1ZEzuqRyy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikuko-tani"
+    ]
+  }
+]
