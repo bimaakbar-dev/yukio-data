@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Mejiro McQueen",
+    "nameNative": "メジロマックイーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125309-nhewmUEllCnU.png",
+    "role": "main",
+    "voiceActors": [
+      "saori-oonishi"
+    ]
+  },
+  {
+    "name": "Toukai Teiou",
+    "nameNative": "トウカイテイオー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125300-mb168DIpLbWC.png",
+    "role": "main",
+    "voiceActors": [
+      "machico"
+    ]
+  },
+  {
+    "name": "Air Groove",
+    "nameNative": "エアグルーヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140846-gsLxIFWO23fg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ruriko-aoki"
+    ]
+  },
+  {
+    "name": "Biwa Hayahide",
+    "nameNative": "ビワハヤヒデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174851-NYbXUXOqACOs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-kondou"
+    ]
+  },
+  {
+    "name": "Daisangen",
+    "nameNative": "ダイサンゲン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301434-nP1vSgFTW8I4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-hara"
+    ]
+  },
+  {
+    "name": "Daitaku Helios",
+    "nameNative": "ダイタクへリオス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205733-V2qapUVxBERM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-yamane"
+    ]
+  },
+  {
+    "name": "Daiwa Scarlet",
+    "nameNative": "ダイワスカーレット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125301-lWAxeTdvjUsS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chisa-kimura"
+    ]
+  },
+  {
+    "name": "El Condor Pasa",
+    "nameNative": "エルコンドルパサー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125303-xDG9kY8Wa7rC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-takahashi"
+    ]
+  },
+  {
+    "name": "Gold Ship",
+    "nameNative": "ゴールドシップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125305-EH7Kf1WPFY5x.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-ueda"
+    ]
+  },
+  {
+    "name": "Grass Wonder",
+    "nameNative": "グラスワンダー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140848-pYoMXeoZ8Pve.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rena-maeda"
+    ]
+  },
+  {
+    "name": "Hana Toujou",
+    "nameNative": "東条ハナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200349-H9F8fl4kDnIq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Hishi Akebono",
+    "nameNative": "ヒシアケボノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301436-o5YiKaPBAywP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rei-matsuzaki"
+    ]
+  },
+  {
+    "name": "Ikuno Dictus",
+    "nameNative": "イクノディクタス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200352-ciQm7Yb5QeVn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masumi-tazawa"
+    ]
+  },
+  {
+    "name": "Jiiya",
+    "nameNative": "じいや",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207525-63vMbPq8Mz9W.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-umezu"
+    ]
+  },
+  {
+    "name": "Junko Hosoe",
+    "nameNative": "細江純子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203215-50LRbPheWmbH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-hosoe"
+    ]
+  },
+  {
+    "name": "Kitasan Black",
+    "nameNative": "キタサンブラック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200355-30WAdFX7GUOZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hinaki-yano"
+    ]
+  },
+  {
+    "name": "Kuronuma",
+    "nameNative": "黒沼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211186-inQk4owAVX5D.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kuroda"
+    ]
+  },
+  {
+    "name": "Machikanefukukitaru",
+    "nameNative": "マチカネフクキタル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211561-BkDHJdLFeGhN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiyori-nitta"
+    ]
+  },
+  {
+    "name": "Machikanetannhauser",
+    "nameNative": "マチカネタンホイザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200353-DrAJpWOYyHxn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-toono"
+    ]
+  },
+  {
+    "name": "Maruzensky",
+    "nameNative": "マルゼンスキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140842-ji3yHdM0p6Dg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "lynn"
+    ]
+  },
+  {
+    "name": "Masuo",
+    "nameNative": "ますお",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388049-4XInc9XbkRTT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-arizumi"
+    ]
+  },
+  {
+    "name": "Mayano Top Gun",
+    "nameNative": "マヤノトップガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b286912-j3t0GcvKPHM3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mio-hoshitani"
+    ]
+  },
+  {
+    "name": "Meishou Dotou",
+    "nameNative": "メイショウドトウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211557-1hZnsZf7faOy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-watada"
+    ]
+  },
+  {
+    "name": "Mejiro Dober",
+    "nameNative": "メジロドーベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211555-xo31yGg8bGst.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikari-kubota"
+    ]
+  },
+  {
+    "name": "Mejiro Palmer",
+    "nameNative": "メジロパーマー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205734-6P1BUT7U7jYT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuri-noguchi"
+    ]
+  },
+  {
+    "name": "Mejiro Ryan",
+    "nameNative": "メジロライアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211554-klDWJrjnk4wi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "afumi-hashi"
+    ]
+  },
+  {
+    "name": "Mihono Bourbon",
+    "nameNative": "ミホノブルボン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205735-SmbhSGTIgmv8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikumi-hasegawa"
+    ]
+  },
+  {
+    "name": "Minami",
+    "nameNative": "みなみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388048-cdOw0cQzAm2G.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "teppei-uenishi"
+    ]
+  },
+  {
+    "name": "Minamisaka",
+    "nameNative": "南坂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b258017-VunbOa9tdmjb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Misato Akasaka",
+    "nameNative": "赤坂美聡",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203217-zBG9jwLmfIZN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-akesaka"
+    ]
+  },
+  {
+    "name": "Narita Brian",
+    "nameNative": "ナリタブライアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140843-VfJQpCEI7uAa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rika-kinugawa"
+    ]
+  },
+  {
+    "name": "Narita Taishin",
+    "nameNative": "ナリタタイシン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174850-a3FIi4hAEJmx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-watanabe"
+    ]
+  },
+  {
+    "name": "Nice Nature",
+    "nameNative": "ナイスネイチャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200350-NCKuSh9jnxFm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-maeda"
+    ]
+  },
+  {
+    "name": "Oguri Cap",
+    "nameNative": "オグリキャップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b96114-uqnjPK9012rB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyo-takayanagi"
+    ]
+  },
+  {
+    "name": "Relic Earth",
+    "nameNative": "レリックアース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301437-JnvMh1IJdHtI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asuka-kawakami"
+    ]
+  },
+  {
+    "name": "Rice Shower",
+    "nameNative": "ライスシャワー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205736-czNHCYh48fIc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Rio Natal",
+    "nameNative": "リオナタール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301438-onnKU3rKyQsa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshino-aoyama"
+    ]
+  },
+  {
+    "name": "Sakura Bakushin O",
+    "nameNative": "サクラバクシンオー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b265079-aZoxXDigj7Pm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sachika-misawa"
+    ]
+  },
+  {
+    "name": "Satono Diamond",
+    "nameNative": "サトノダイヤモンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200354-eCorGNUFRn0E.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hina-tachibana"
+    ]
+  },
+  {
+    "name": "Seiun Sky",
+    "nameNative": "セイウンスカイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125310-mPJI1mQjoEpj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akari-kitou"
+    ]
+  },
+  {
+    "name": "Shujii",
+    "nameNative": "主治医",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207526-vudep5Gwt10z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Silence Suzuka",
+    "nameNative": "サイレンススズカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125298-MyaIqv1U5mcg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marika-kouno"
+    ]
+  },
+  {
+    "name": "Special Week",
+    "nameNative": "スペシャルウィーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125299-25UtXyMMdoyQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "azumi-waki"
+    ]
+  },
+  {
+    "name": "Symboli Rudolf",
+    "nameNative": "シンボリルドルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140844-f4wvtQTMpuee.png",
+    "role": "supporting",
+    "voiceActors": [
+      "azusa-tadokoro"
+    ]
+  },
+  {
+    "name": "Tazuna Hayakawa",
+    "nameNative": "駿川たづな",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211568-wvfqOD5wuVVI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukiyo-fujii"
+    ]
+  },
+  {
+    "name": "Trainer",
+    "nameNative": "トレーナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125308-zi5QLqjXLBAF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-okino"
+    ]
+  },
+  {
+    "name": "Twin Turbo",
+    "nameNative": "ツインターボ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200351-7PNcjunPxKY9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miharu-hanai"
+    ]
+  },
+  {
+    "name": "Vodka",
+    "nameNative": "ウオッカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125304-XAdxEdkeSJh7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-oohashi"
+    ]
+  },
+  {
+    "name": "Winning Ticket",
+    "nameNative": "ウイニングチケット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174852-lfncTjSNRYAp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-watanabe"
+    ]
+  }
+]
