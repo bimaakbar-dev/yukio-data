@@ -1,0 +1,32 @@
+[
+  {
+    "relation": "prequel",
+    "slug": "tiger-bunny-pilot",
+    "title": "Tiger & Bunny Pilot"
+  },
+  {
+    "relation": "side_story",
+    "slug": "tiger-bunny-movie-1-the-beginning",
+    "title": "Tiger & Bunny Movie 1: The Beginning"
+  },
+  {
+    "relation": "summary",
+    "slug": "tiger-bunny-recaps",
+    "title": "Tiger & Bunny Recaps"
+  },
+  {
+    "relation": "sequel",
+    "slug": "tiger-bunny-movie-2-the-rising",
+    "title": "Tiger & Bunny Movie 2: The Rising"
+  },
+  {
+    "relation": "other",
+    "slug": "tiger-bunny-too-many-cooks-spoil-the-broth",
+    "title": "Tiger & Bunny: Too Many Cooks Spoil the Broth."
+  },
+  {
+    "relation": "other",
+    "slug": "double-decker-doug-kirill",
+    "title": "Double Decker! Doug & Kirill"
+  }
+]
