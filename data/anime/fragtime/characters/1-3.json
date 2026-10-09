@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Haruka Murakami",
+    "nameNative": "村上遥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88292-B7UfFfQWWAaX.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yume-miyamoto"
+    ]
+  },
+  {
+    "name": "Misuzu Moritani",
+    "nameNative": "森谷美鈴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88291-Jql79JYwg9XB.jpg",
+    "role": "main",
+    "voiceActors": [
+      "miku-itou"
+    ]
+  },
+  {
+    "name": "Yukari Kobayashi",
+    "nameNative": "小林由香利",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b170072-SLRpsiN6TBUu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chika-anzai"
+    ]
+  }
+]
