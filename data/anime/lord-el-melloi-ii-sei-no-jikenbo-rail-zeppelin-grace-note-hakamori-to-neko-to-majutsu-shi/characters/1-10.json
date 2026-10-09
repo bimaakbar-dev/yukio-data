@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Gray",
+    "nameNative": "グレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120755-pPTdmFrsmG8z.jpg",
+    "role": "main",
+    "voiceActors": [
+      "reina-ueda"
+    ]
+  },
+  {
+    "name": "Waver Velvet",
+    "nameNative": "ウェイバー・ベルベット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16023-gfwOgU1743ff.png",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Add",
+    "nameNative": "アッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141465-fypKvz7a5pDf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Bram Nuada-Re Sophia-Ri",
+    "nameNative": "ブラム・ヌァザレ・ソフィアリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158559-TYtE4irM8fti.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hirofumi-nojima"
+    ]
+  },
+  {
+    "name": "Flatt  Escardos",
+    "nameNative": "フラット・エスカルドス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87319-t3o6viRp1ci4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Inorai Valualeta Atroholm",
+    "nameNative": "イノライ・バリュエレータ・アトロホルム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206757-LhiLPfo8YPZv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-ichijou"
+    ]
+  },
+  {
+    "name": "Magician",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270536-PU2moww4YUSM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Reines El-Melloi Archisorte",
+    "nameNative": "ライネス・エルメロイ・アーチゾルテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132721-Tai8D6zBW8mT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Rocco Belfeban",
+    "nameNative": "ロッコ・ベルフェバン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158552-zvT02LWmCNoN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohisa-asou"
+    ]
+  },
+  {
+    "name": "Svin Glascheit",
+    "nameNative": "スヴィン・グラシュエート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70313-DBJ87qPjd69D.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "seiichirou-yamashita"
+    ]
+  }
+]
