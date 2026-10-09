@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Elise De Clorance",
+    "nameNative": "엘리제 드 클로랜스",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135657-S5oHYHHVJnGa.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yui-ishikawa"
+    ]
+  },
+  {
+    "name": "Linden De Romanoff",
+    "nameNative": "린덴 드 로마노프",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135658-EZVU5Y0Rggfo.png",
+    "role": "main",
+    "voiceActors": [
+      "youhei-azakami",
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Chris De Clorance",
+    "nameNative": "크리스 드 클로렌스",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165375-Sf3TaF7gg1uh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "El De Clorance",
+    "nameNative": "엘 드 클로랜스",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327833-S3VxFsNU0wJq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youji-ueda"
+    ]
+  },
+  {
+    "name": "Emily De Clorance",
+    "nameNative": "에밀리 드 클로랜스",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327836-3fk26yh9WpR4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-sugawa"
+    ]
+  },
+  {
+    "name": "Gaut Jajag",
+    "nameNative": "고트 자작",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327831-uo9g5tMe706K.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manta-yamamoto"
+    ]
+  },
+  {
+    "name": "Graham De Fallon",
+    "nameNative": "그레이엄 드 파론",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322806-dJddplx6qndK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Hans",
+    "nameNative": "한스",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327835-ojLZKG4aVtSJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuya-hozumi"
+    ]
+  },
+  {
+    "name": "Harver Gongjag Bu-in",
+    "nameNative": "하버 공작 부인",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327829-ZIBHnKAU8rzj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-satou"
+    ]
+  },
+  {
+    "name": "Lenne De Clorance",
+    "nameNative": "렌 드 클로렌스",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165374-eu1GvIIwbvWG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Marie",
+    "nameNative": "마리",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327832-gCofY00R7U8l.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miho-okasaki"
+    ]
+  },
+  {
+    "name": "Michael  De Romanoff",
+    "nameNative": "미하일 드 로마노프",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165373-SV5KFhWOc5hX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "souma-saitou"
+    ]
+  },
+  {
+    "name": "Minchester De Romanoff",
+    "nameNative": "민체스터 드 로마노프",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322803-J1Qi0xPYzaQ3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Randall",
+    "nameNative": "란돌",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327830-pnfTnLml2onI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-takeuchi"
+    ]
+  },
+  {
+    "name": "Ven Gongjag",
+    "nameNative": "밴 공작",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327834-w033SHRm50kk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-tsuchida"
+    ]
+  },
+  {
+    "name": "Vent Gyeong",
+    "nameNative": "벤트 경",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327828-06zqst1nHidi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Yulian De Childe",
+    "nameNative": "유리엔 드 차일드",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322802-u0sBrfG7KKwm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  }
+]
