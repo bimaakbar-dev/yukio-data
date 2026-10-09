@@ -1,26 +1,26 @@
 ---
-title: "Yuru Yuri Nachuyachumi!"
-titleEnglish: "YuruYuri Nachuyachumi!"
-titleNative: ゆるゆり　なちゅやちゅみ！
+title: "Yuru Yuri Nachuyachumi!+"
+titleEnglish: "YuruYuri Nachuyachumi!+"
+titleNative: ゆるゆり　なちゅやちゅみ！＋
 
-malId: 23225
+malId: 30902
 kitsuId: "8492"
 
-type: OVA
+type: Special
 status: finished
 source: manga
 
-season: winter
+season: summer
 year: 2015
-episodes: 1
-duration: 64
+episodes: 2
+duration: 24
 
 aired:
-  from: "2015-02-18"
-  to: "2015-02-18"
+  from: "2015-08-20"
+  to: "2015-09-17"
 
 stats:
-  score: 7.7
+  score: 7.6
 
 genres:
   - comedy
@@ -29,15 +29,13 @@ genres:
 studios:
   - tyo-animations
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20625-dm9pmEqlyY5T.png"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n20625-uJgQ6xl44PVV.jpg"
-trailer: "yVF4pXHAEAI"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21214-nKcMytzKkOUU.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21214-PaCt6lizdONd.jpg"
+trailer: "hXB79JRMKUM"
 
 draft: false
 ---
 
-Even during summer break, the Amusement Club lives up to its name! When Akari Akaza, Kyouko Toshinou, Chinatsu Yoshikawa, and Yui Funami find a camping tent, they decide to put it to good use by spending the weekend outside in the mountains. When some student council members catch wind of this, they are invited to come along as well.
+Two new Yuru Yuri Nachuyachumi! episodes that aired on TV in 2015 with an episode in August and another in September.
 
-After a very long journey, the group arrives at their destination and is ready to make the most of their trip. They engage in classic camping activities, such as outdoor cooking and tests of courage, and finish it all off with a visit to the hot springs. An extravagant trip like this doesn't happen every day, but the Amusement Club is sure to savor each moment.
-
-(Source: MAL Rewrite)
+Summer vacation is drawing to a close, but the Amusement Club members make the most of the last days. Between outdoor activities in the sun, reminiscing on their recent camping trip, and a sleepover, the members of the Amusement Club, and their classmates in the student council, continue to make summer memories.
