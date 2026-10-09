@@ -1,0 +1,17 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "naruto-shippuuden",
+    "title": "Naruto: Shippuuden"
+  },
+  {
+    "relation": "other",
+    "slug": "boruto-naruto-the-movie",
+    "title": "Boruto: Naruto the Movie"
+  },
+  {
+    "relation": "alternative",
+    "slug": "boruto-naruto-next-generations",
+    "title": "Boruto: Naruto Next Generations"
+  }
+]
