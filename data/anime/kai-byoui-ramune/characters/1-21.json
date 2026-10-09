@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Kuro",
+    "nameNative": "クロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187922-MRXvq4xxgWO0.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takuma-nagatsuka"
+    ]
+  },
+  {
+    "name": "Ramune",
+    "nameNative": "ラムネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187923-xtpT0PHLPkaI.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuma-uchida"
+    ]
+  },
+  {
+    "name": "Ayame",
+    "nameNative": "彩芽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192198-ZqtR1qJUoPNF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  },
+  {
+    "name": "Haru no Chichi",
+    "nameNative": "春の父親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210724-McF6eVF8K9jE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Kaori",
+    "nameNative": "香織",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruna-kakiage"
+    ]
+  },
+  {
+    "name": "Kengo Katsumata",
+    "nameNative": "勝又健吾",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210718-AgkMAqraImQs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenn"
+    ]
+  },
+  {
+    "name": "Kengo no yuujin",
+    "nameNative": "健吾の友人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210719-JA8KqLxzvBSH.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Koto Kashiwagi",
+    "nameNative": "柏木 琴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210717-Keu8MxtpKYpX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akari-kitou"
+    ]
+  },
+  {
+    "name": "Koto no Haha",
+    "nameNative": "琴の母親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210720-JwrLH9Ys4bgi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-komatsu"
+    ]
+  },
+  {
+    "name": "Momiji",
+    "nameNative": "紅葉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196734-G3WCLNyg2nmz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Nico",
+    "nameNative": "丹己",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192197-TnzY7QeeEb78.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Rio",
+    "nameNative": "理央",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210722-qY0cgo9Pkla1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Rio no Haha",
+    "nameNative": "理央の母親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210723-cNQeHl6LfdLl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Shihoko Fujita",
+    "nameNative": "藤田志保子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210715-uH4xOn1tAqTO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-sasaki"
+    ]
+  },
+  {
+    "name": "Shun Aona",
+    "nameNative": "青菜春",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215389-VxFHXMzpfPhm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Shun no Haha",
+    "nameNative": "春の母親",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210725-FOj9ypJSzQic.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-takahashi"
+    ]
+  },
+  {
+    "name": "Takaharu Ootomo",
+    "nameNative": "大友 隆晴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210721-WKOlZItURxlU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Tatsuya Bungo",
+    "nameNative": "豊後達也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210714-GgOH79xdGPGJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Thief",
+    "nameNative": "空き巣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210726-6T0RQLntOYPu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  },
+  {
+    "name": "Yumi",
+    "nameNative": "由美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210727-medNGQuHv7nM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-kurisaka"
+    ]
+  },
+  {
+    "name": "Yuu",
+    "nameNative": "優",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210728-f5Q1CjeCJDz1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sara-matsumoto"
+    ]
+  }
+]
