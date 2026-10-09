@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Bun",
+    "nameNative": "ブン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5476.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rika-komatsu"
+    ]
+  },
+  {
+    "name": "Dedede Daiou",
+    "nameNative": "デデデ大王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5473-Wsi4svMqk7Sh.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Escargoon",
+    "nameNative": "ドクター・エスカルゴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19979-6qsVuFLaNGOF.jpg",
+    "role": "main",
+    "voiceActors": [
+      "naoki-tatsuta"
+    ]
+  },
+  {
+    "name": "Fumu",
+    "nameNative": "フーム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17576-MAwfiX1eVimM.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sayuri-yoshida"
+    ]
+  },
+  {
+    "name": "Kirby",
+    "nameNative": "カービィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5471-eeOkCyhMvIHH.png",
+    "role": "main",
+    "voiceActors": [
+      "makiko-oomoto"
+    ]
+  },
+  {
+    "name": "Acore",
+    "nameNative": "アコル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Arthur Kyou",
+    "nameNative": "オーサー卿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Axel",
+    "nameNative": "アクセル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mizuki-saitou"
+    ]
+  },
+  {
+    "name": "Benikage",
+    "nameNative": "ベニカゲ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kumiko-watanabe"
+    ]
+  },
+  {
+    "name": "Bibli",
+    "nameNative": "ビブリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330941-ZCsVoZC6eqcH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazunori-sekine"
+    ]
+  },
+  {
+    "name": "Blade Knight",
+    "nameNative": "ブレイドナイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiro-kanzaki"
+    ]
+  },
+  {
+    "name": "Blocky",
+    "nameNative": "ブロッキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "osamu-hosoi"
+    ]
+  },
+  {
+    "name": "Bonkers",
+    "nameNative": "ボンカース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Borun Shochou",
+    "nameNative": "ボルン署長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183243-fLz1jL5wGI1C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-kisaichi"
+    ]
+  },
+  {
+    "name": "Cain",
+    "nameNative": "カイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Chilly",
+    "nameNative": "チリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-mizutani"
+    ]
+  },
+  {
+    "name": "Chip-sensei",
+    "nameNative": "チップ先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-nakahara"
+    ]
+  },
+  {
+    "name": "Con",
+    "nameNative": "コン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiro-kanzaki"
+    ]
+  },
+  {
+    "name": "Coo",
+    "nameNative": "クー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiro-kanzaki"
+    ]
+  },
+  {
+    "name": "Cook Kawasaki",
+    "nameNative": "コックカワサキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51801-5cflaEAuNI2z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Cook Nagoya",
+    "nameNative": "コックナゴヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Cook Osaka",
+    "nameNative": "コックオオサカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-sugawara"
+    ]
+  },
+  {
+    "name": "Curio",
+    "nameNative": "キュリオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330936-qYSwB4CEl2gT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-nagasako"
+    ]
+  },
+  {
+    "name": "Customer Service",
+    "nameNative": "カスタマーサービス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40045.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "banjou-ginga"
+    ]
+  },
+  {
+    "name": "Dakonyo",
+    "nameNative": "ダコーニョ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-naka"
+    ]
+  },
+  {
+    "name": "Devil Frog",
+    "nameNative": "デビルフロッグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-mizutani"
+    ]
+  },
+  {
+    "name": "Doron",
+    "nameNative": "ドロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330942-2Pfy7ZLySQFS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita",
+      "mizuki-saitou"
+    ]
+  },
+  {
+    "name": "Dr. Moro",
+    "nameNative": "ドクター・モロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-naka"
+    ]
+  },
+  {
+    "name": "Dyna Baby",
+    "nameNative": "ダイナベイビー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rika-komatsu"
+    ]
+  },
+  {
+    "name": "Dyna Blade",
+    "nameNative": "ダイナブレイド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Escargoon no Haha",
+    "nameNative": "エスカルゴンの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-yamamoto"
+    ]
+  },
+  {
+    "name": "Gabon",
+    "nameNative": "ガボン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Galbo",
+    "nameNative": "ガルボ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita",
+      "yuuko-mizutani"
+    ]
+  },
+  {
+    "name": "Gangu",
+    "nameNative": "ガング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330932-jg5TAjkWPAkZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mizuki-saitou"
+    ]
+  },
+  {
+    "name": "Gus",
+    "nameNative": "ガス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330931-f4q6Ug9FFEdh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "osamu-hosoi"
+    ]
+  },
+  {
+    "name": "Hana",
+    "nameNative": "ハナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330926-ueZlR0xkz8T4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiro-kanzaki"
+    ]
+  },
+  {
+    "name": "Hohhe",
+    "nameNative": "ホッヘ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330943-HQpG9Kv3nohS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makiko-oomoto"
+    ]
+  },
+  {
+    "name": "Honey",
+    "nameNative": "ハニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330947-Fxix4b1S9PeQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "madoka-akita"
+    ]
+  },
+  {
+    "name": "Ice Dragon",
+    "nameNative": "アイスドラゴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rika-komatsu"
+    ]
+  },
+  {
+    "name": "Irou",
+    "nameNative": "イロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330946-bXd32czG8r40.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rika-komatsu"
+    ]
+  },
+  {
+    "name": "Kabuu",
+    "nameNative": "カブー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Kittari Hattari",
+    "nameNative": "キッタリハッタリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "osamu-hosoi"
+    ]
+  },
+  {
+    "name": "Kittsu",
+    "nameNative": "キッツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rika-komatsu"
+    ]
+  },
+  {
+    "name": "Knuckle Joe",
+    "nameNative": "ナックルジョー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17577.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-takayama"
+    ]
+  },
+  {
+    "name": "Knuckle Joe no Chichi",
+    "nameNative": "ナックルジョーの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Konchuu Majuu Bugzzy",
+    "nameNative": "昆虫魔獣バグジー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-nagasako"
+    ]
+  },
+  {
+    "name": "Kracko",
+    "nameNative": "クラッコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiro-kanzaki"
+    ]
+  },
+  {
+    "name": "Lalala",
+    "nameNative": "ラララ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "madoka-akita"
+    ]
+  },
+  {
+    "name": "Lololo",
+    "nameNative": "ロロロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiro-kanzaki"
+    ]
+  },
+  {
+    "name": "Lovely",
+    "nameNative": "ラブリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-mizutani"
+    ]
+  }
+]
