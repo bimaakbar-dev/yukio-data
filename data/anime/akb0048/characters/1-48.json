@@ -1,0 +1,428 @@
+[
+  {
+    "name": "Chieri Sono",
+    "nameNative": "園智恵理",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/53439.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mayu-watanabe"
+    ]
+  },
+  {
+    "name": "Kanata Shinonome",
+    "nameNative": "東雲彼方",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/53435.jpg",
+    "role": "main",
+    "voiceActors": [
+      "haruka-ishida"
+    ]
+  },
+  {
+    "name": "Makoto Yokomizo",
+    "nameNative": "横溝真琴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/53443.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mao-mita"
+    ]
+  },
+  {
+    "name": "Mimori Kishida",
+    "nameNative": "岸田美森",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/53433.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sumire-satou"
+    ]
+  },
+  {
+    "name": "Nagisa Motomiya",
+    "nameNative": "本宮凪沙",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b53441-b6UJRyFV29vA.png",
+    "role": "main",
+    "voiceActors": [
+      "karen-iwata"
+    ]
+  },
+  {
+    "name": "Orine Aida",
+    "nameNative": "藍田織音",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/53427.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sayaka-nakaya"
+    ]
+  },
+  {
+    "name": "Sonata Shinonome",
+    "nameNative": "東雲楚方",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b53437-ZFuZW4D77TA4.png",
+    "role": "main",
+    "voiceActors": [
+      "kumi-yagami"
+    ]
+  },
+  {
+    "name": "Suzuko Kanzaki",
+    "nameNative": "神埼鈴子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/53431.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sawako-hata"
+    ]
+  },
+  {
+    "name": "Yuuka Ichijou",
+    "nameNative": "一条友歌",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/53429.jpg",
+    "role": "main",
+    "voiceActors": [
+      "amina-satou"
+    ]
+  },
+  {
+    "name": "Akira Igarashi",
+    "nameNative": "五十嵐アキラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62701-FWDvwbXhL4ZN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Akira Shiradou",
+    "nameNative": "志良堂晶",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Alena",
+    "nameNative": "アリョーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/65195.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "anna-murashige"
+    ]
+  },
+  {
+    "name": "Aoi Kouenji",
+    "nameNative": "高円寺葵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/66581.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "airi-furukawa"
+    ]
+  },
+  {
+    "name": "Atsuko Maeda",
+    "nameNative": "前田敦子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60937.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Ayako Kuroki",
+    "nameNative": "黒木綾子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/62707.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Brother Ichijou",
+    "nameNative": "友歌の弟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "risa-taneda"
+    ]
+  },
+  {
+    "name": "Chiharu Sakuragi",
+    "nameNative": "桜木千春",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57973.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Father Ichijou",
+    "nameNative": "友歌の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukihiro-misono"
+    ]
+  },
+  {
+    "name": "Father Itano",
+    "nameNative": "ともちん父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-hamada"
+    ]
+  },
+  {
+    "name": "Gina",
+    "nameNative": "ジーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rena-maeda"
+    ]
+  },
+  {
+    "name": "Hazuki Yanagikawa",
+    "nameNative": "柳川葉月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64437.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-takeuchi"
+    ]
+  },
+  {
+    "name": "Hikari Kimishima",
+    "nameNative": "君島光",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57969.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akemi-kanda"
+    ]
+  },
+  {
+    "name": "Himeko Ichioka",
+    "nameNative": "市岡姫子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/75720.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-ishihara"
+    ]
+  },
+  {
+    "name": "Mamoru",
+    "nameNative": "護",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/66035.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-ishida"
+    ]
+  },
+  {
+    "name": "Mayu Watanabe",
+    "nameNative": "渡辺麻友",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/62705.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukari-tamura"
+    ]
+  },
+  {
+    "name": "Megumi Wanibuchi",
+    "nameNative": "鰐淵恵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64435.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "momoka-kinoshita"
+    ]
+  },
+  {
+    "name": "Mikako Minamino",
+    "nameNative": "南野美果子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/65625.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sachiko-kojima"
+    ]
+  },
+  {
+    "name": "Mizuho Shirai",
+    "nameNative": "白井瑞穂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/75718.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-takamori"
+    ]
+  },
+  {
+    "name": "Mother Ichijou",
+    "nameNative": "友歌の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-keichou"
+    ]
+  },
+  {
+    "name": "Mother Itano",
+    "nameNative": "ともちん母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumi-tsunematsu"
+    ]
+  },
+  {
+    "name": "Motomiya no Haha",
+    "nameNative": "凪沙の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64013.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Nagisa no Chichi",
+    "nameNative": "凪沙の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64011.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-ookawa"
+    ]
+  },
+  {
+    "name": "Nika",
+    "nameNative": "ニーカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chinatsu-akasaki"
+    ]
+  },
+  {
+    "name": "Papa Cook",
+    "nameNative": "パパコック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63449.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "itaru-yamamoto"
+    ]
+  },
+  {
+    "name": "Rie Hasumi",
+    "nameNative": "蓮見李英",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77975.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Sensei-Sensei",
+    "nameNative": "先聖センセイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/85209.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsumi-watanabe"
+    ]
+  },
+  {
+    "name": "Shiori Arisawa",
+    "nameNative": "有沢栞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62703-zyQr6UmViqYS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouko-shiraishi"
+    ]
+  },
+  {
+    "name": "Sister Ichijou",
+    "nameNative": "友歌の妹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-oonishi"
+    ]
+  },
+  {
+    "name": "Tomo-chan Sobo",
+    "nameNative": "ともちん祖母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaoru-katakai"
+    ]
+  },
+  {
+    "name": "Tomoka Itano",
+    "nameNative": "板野友華",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fuyuka-ooura"
+    ]
+  },
+  {
+    "name": "Tomoyo Itano",
+    "nameNative": "板野友世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/62709.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  },
+  {
+    "name": "Tsubasa Katagiri",
+    "nameNative": "片桐ツバサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/62699.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-kakazu"
+    ]
+  },
+  {
+    "name": "Umi Doujima",
+    "nameNative": "堂島宇美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77977.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ushiyama",
+    "nameNative": "牛山",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63447.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Vera",
+    "nameNative": "ヴェーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "WOTA Leader",
+    "nameNative": "WOTA リーダー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-yasumura"
+    ]
+  },
+  {
+    "name": "Yayoi",
+    "nameNative": "やよい",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64009.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "airi-furukawa"
+    ]
+  },
+  {
+    "name": "Youko Asamiya",
+    "nameNative": "朝宮陽子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/62711.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  }
+]
