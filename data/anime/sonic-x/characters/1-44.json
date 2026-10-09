@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Amy Rose",
+    "nameNative": "エミー・ローズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5507-i813suldoh4r.jpg",
+    "role": "main",
+    "voiceActors": [
+      "taeko-kawata"
+    ]
+  },
+  {
+    "name": "Christopher Thorndyke",
+    "nameNative": "クリストファー・ソーンダイク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12065-P5cdaURvGaw8.png",
+    "role": "main",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Ivo Robotnik",
+    "nameNative": "イボ・ロボトニック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6672-mfpc0HEGdLBz.jpg",
+    "role": "main",
+    "voiceActors": [
+      "chikao-ootsuka"
+    ]
+  },
+  {
+    "name": "Knuckles the Echidna",
+    "nameNative": "ナックルズ・ザ・エキドゥナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6378-xVv7UVBsk8r8.jpg",
+    "role": "main",
+    "voiceActors": [
+      "nobutoshi-kanna"
+    ]
+  },
+  {
+    "name": "Miles Prower",
+    "nameNative": "マイルス・パウア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6377-JMNcOGMs7sI2.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ryou-hirohashi"
+    ]
+  },
+  {
+    "name": "Sonic the Hedgehog",
+    "nameNative": "ソニック・ザ・ヘッジホッグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2882-i2rD5jJr1zlZ.png",
+    "role": "main",
+    "voiceActors": [
+      "junichi-kanemaru"
+    ]
+  },
+  {
+    "name": "Big the Cat",
+    "nameNative": "ビッグ・ザ・キャット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14760.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-nagasako"
+    ]
+  },
+  {
+    "name": "Biolizard",
+    "nameNative": "バイオリザード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14759.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Bocoe",
+    "nameNative": "ボコー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14745.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "bin-shimada"
+    ]
+  },
+  {
+    "name": "Bokkun",
+    "nameNative": "ボックン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14755.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumiko-kobayashi"
+    ]
+  },
+  {
+    "name": "Chaos",
+    "nameNative": "カオス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14758.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Charmy Bee",
+    "nameNative": "チャーミー・ビー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14762.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-teppouzuka"
+    ]
+  },
+  {
+    "name": "Cheese",
+    "nameNative": "チーズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14740.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-hirohashi"
+    ]
+  },
+  {
+    "name": "Chuck Thorndyke",
+    "nameNative": "チャック・ソーンダイク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14741-nDmsqww9DtQi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "bin-shimada"
+    ]
+  },
+  {
+    "name": "Cosmo",
+    "nameNative": "コスモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14742.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Cream the Rabbit",
+    "nameNative": "クリーム・ザ・ラビット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14739.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-aoki"
+    ]
+  },
+  {
+    "name": "Daniel",
+    "nameNative": "ダニエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14769.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-shindou"
+    ]
+  },
+  {
+    "name": "Decoe",
+    "nameNative": "デコー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14744.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-yamaguchi"
+    ]
+  },
+  {
+    "name": "Dr. Atsume",
+    "nameNative": "Dr.アツミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14751.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-sahara"
+    ]
+  },
+  {
+    "name": "E-77 Lucky",
+    "nameNative": "Ｅ－７７ラッキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14756.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ella",
+    "nameNative": "エラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10832.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kujira"
+    ]
+  },
+  {
+    "name": "Emer Johnson",
+    "nameNative": "エマー・ジョンソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14750.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-sugino"
+    ]
+  },
+  {
+    "name": "Emerl",
+    "nameNative": "エメル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14768.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Espio the Chameleon",
+    "nameNative": "エスピオ・ザ・カメレオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14763.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-masuda"
+    ]
+  },
+  {
+    "name": "Gerald Robotnik",
+    "nameNative": "ジェラルド・ロボトニック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14753-r3A1E0dSlSAE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chikao-ootsuka"
+    ]
+  },
+  {
+    "name": "Hawk",
+    "nameNative": "ホーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14746-9Sp1yPz5vup9.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeharu-onishi"
+    ]
+  },
+  {
+    "name": "Helen",
+    "nameNative": "ヘレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14770-lmWDSOyPLY1b.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-hidaka"
+    ]
+  },
+  {
+    "name": "Jerome Wise",
+    "nameNative": "ジェローム・ワイズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14749-O2AJM50OSUyO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-haramaki"
+    ]
+  },
+  {
+    "name": "Kaeru-kun",
+    "nameNative": "カエルくん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14761.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohisa-asou"
+    ]
+  },
+  {
+    "name": "Lindsey Thorndyke",
+    "nameNative": "リンゼー・ソーンダイク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14748.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-shindou"
+    ]
+  },
+  {
+    "name": "Maria Robotnik",
+    "nameNative": "マリア・ロボトニック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14754.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuri-shiratori"
+    ]
+  },
+  {
+    "name": "Nelson Thorndyke",
+    "nameNative": "ネルソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14747.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-yamaguchi"
+    ]
+  },
+  {
+    "name": "Next",
+    "nameNative": "ネクスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14757.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Rouge the Bat",
+    "nameNative": "ルージュ・ザ・バット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6380-yI9lAyTDZHsu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rumi-ochiai"
+    ]
+  },
+  {
+    "name": "Sam Speed",
+    "nameNative": "サム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14743-uNJrqwZz8Dca.png",
+    "role": "supporting",
+    "voiceActors": [
+      "souichirou-tanaka"
+    ]
+  },
+  {
+    "name": "Scarlet Garcia",
+    "nameNative": "スカーレット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14752.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-shioyama"
+    ]
+  },
+  {
+    "name": "Shadow the Hedgehog",
+    "nameNative": "シャドウ・ザ・ヘッジホッグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6379-QHHZ9Ksx0ZGo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Stewart",
+    "nameNative": "スチュワート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402536-aMRlMC8K7wvJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "michio-nakao"
+    ]
+  },
+  {
+    "name": "Tanaka",
+    "nameNative": "タナカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14738.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoki-imamura"
+    ]
+  },
+  {
+    "name": "Tikal the Echidna",
+    "nameNative": "ティカル・ザ・エキドゥナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14766.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-asou"
+    ]
+  },
+  {
+    "name": "Topaz",
+    "nameNative": "トパーズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14771-otm1Pp6l5rx1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukari-hikida"
+    ]
+  },
+  {
+    "name": "Vanilla the Rabbit",
+    "nameNative": "ヴァニラ・ザ・ラビット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14767.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-aoki"
+    ]
+  },
+  {
+    "name": "Vector the Crocodile",
+    "nameNative": "ベクター・ザ・クロコダイル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14764.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Yellow Zelkova",
+    "nameNative": "イエローゼルコバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14765.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-watabe"
+    ]
+  }
+]
