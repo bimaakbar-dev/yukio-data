@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Agiri Goshiki",
+    "nameNative": "呉織あぎり",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/33582.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ai-takabe"
+    ]
+  },
+  {
+    "name": "Sonya",
+    "nameNative": "ソーニャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32769-hLJoZG67NC3D.png",
+    "role": "main",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Yasuna Oribe",
+    "nameNative": "折部やすな",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33584-P0yASEERKxcO.png",
+    "role": "main",
+    "voiceActors": [
+      "chinatsu-akasaki"
+    ]
+  },
+  {
+    "name": "Etcetera Boys",
+    "nameNative": "エトセトラボーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Etcetera Girls",
+    "nameNative": "エトセトラガール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-arai"
+    ]
+  },
+  {
+    "name": "Unused Character",
+    "nameNative": "没 キャラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54733.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  }
+]
