@@ -1,0 +1,32 @@
+[
+  {
+    "relation": "prequel",
+    "slug": "pokemon-xy",
+    "title": "Pokemon XY"
+  },
+  {
+    "relation": "side_story",
+    "slug": "pokemon-xy-mega-evolution",
+    "title": "Pokemon XY: Mega Evolution"
+  },
+  {
+    "relation": "other",
+    "slug": "pokemon-xyz-subete-no-nazo-wo-tokiakase",
+    "title": "Pokemon XY&Z: Subete no Nazo wo Tokiakase!"
+  },
+  {
+    "relation": "side_story",
+    "slug": "pokemon-movie-19-volcanion-to-karakuri-no-magearna",
+    "title": "Pokemon Movie 19: Volcanion to Karakuri no Magearna"
+  },
+  {
+    "relation": "side_story",
+    "slug": "pokemon-xyz-specials",
+    "title": "Pokemon XY&Z Specials"
+  },
+  {
+    "relation": "sequel",
+    "slug": "pokemon-sun-moon",
+    "title": "Pokemon Sun & Moon"
+  }
+]
