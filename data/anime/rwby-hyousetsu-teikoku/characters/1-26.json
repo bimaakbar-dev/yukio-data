@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Blake Belladonna",
+    "nameNative": "ブレイク・ベラドンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132314-vU4jW5oDsyVg.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuu-shimamura"
+    ]
+  },
+  {
+    "name": "Ruby Rose",
+    "nameNative": "ルビー・ローズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126569-0BUT2Wnk0DSm.png",
+    "role": "main",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Weiss Schnee",
+    "nameNative": "ワイス・シュニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126143-z2Kf4M0wksdY.png",
+    "role": "main",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Yang  Xiao Long",
+    "nameNative": "ヤン・シャオロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132223-AL1MpFbrASpk.png",
+    "role": "main",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Adam Taurus",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143451-75pwcD6YhgF1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Cardin Winchester",
+    "nameNative": "カーディン・ウィンチェスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280565-1ioE7DLdha5a.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "subaru-kimura"
+    ]
+  },
+  {
+    "name": "Glynda Goodwitch",
+    "nameNative": "グリンダ・グッドウィッチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277886-p6oQPPiybIJk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masumi-asano"
+    ]
+  },
+  {
+    "name": "Jacques Schnee",
+    "nameNative": "ジャック・シュニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280560-7wfTjQntBIhc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "madoka-shiga"
+    ]
+  },
+  {
+    "name": "Jaune Arc",
+    "nameNative": "ジョーン・アーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134355-1MII6KRsjs5J.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Klein Sieben",
+    "nameNative": "クライン・シーベン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280562-6HosQYxU0zxa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-uo"
+    ]
+  },
+  {
+    "name": "Lie Ren",
+    "nameNative": "ライ・レン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134357-HPwGCQr1B0q6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "souma-saitou"
+    ]
+  },
+  {
+    "name": "Lisa Lavender",
+    "nameNative": "リサ・ラベンダー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280563-yXLCyrDnLRHS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "arisa-sakuraba"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Nicholas Schnee",
+    "nameNative": "ニコラス・シュニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b297266-n5gOtEyJbnv2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-uo"
+    ]
+  },
+  {
+    "name": "Nora Valkyrie",
+    "nameNative": "ノーラ・ヴァルキリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134356-3FEFQcgiKLlF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-suzaki"
+    ]
+  },
+  {
+    "name": "Ozpin",
+    "nameNative": "オズピン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268340-oqpK6f5zyjrC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Penny Polendina",
+    "nameNative": "ペニー・ポレンディーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203631-BEECe5lycoID.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Peter Port",
+    "nameNative": "ピーター・ポート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277890-phbD6MffQbPR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "souichi-abe"
+    ]
+  },
+  {
+    "name": "Pyrrha Nikos",
+    "nameNative": "ピュラ・ニコス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132315-7LFJsEpjyqBJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Roman Torchwick",
+    "nameNative": "ローマン・トーチウィック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133837-m5UQdXqObyty.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Shion Zaiden",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280355-FiTlUzRn1oK3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-nanami"
+    ]
+  },
+  {
+    "name": "Sun Wukong",
+    "nameNative": "サン・ウーコン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b261259-BYE9NUY2VT7C.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "Taiyang Xiao Long",
+    "nameNative": "タイヤン・シャオロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277889-dPyf347tlovN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenyuu-horiuchi"
+    ]
+  },
+  {
+    "name": "Whitley Schnee",
+    "nameNative": "ウィットリー・シュニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280564-bPUkuUxCjdhW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Willow Schnee",
+    "nameNative": "ウィロウ・シュニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280915-m38FAIHgJyNa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gara-takashima"
+    ]
+  },
+  {
+    "name": "Winter Schnee",
+    "nameNative": "ウィンター・シュニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b280561-rAT7iidcPiHm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  }
+]
