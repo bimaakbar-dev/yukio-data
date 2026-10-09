@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Cenco",
+    "nameNative": "センコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29071-Q9JVunWxFI0Y.png",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Gotouda",
+    "nameNative": "ゴトウダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172026-MDQSuBiZiuGc.png",
+    "role": "main",
+    "voiceActors": [
+      "kenji-akabane"
+    ]
+  },
+  {
+    "name": "Kaname",
+    "nameNative": "カナメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172025-40FNPikSBXSU.png",
+    "role": "main",
+    "voiceActors": [
+      "natsumi-takamori"
+    ]
+  },
+  {
+    "name": "Shuu",
+    "nameNative": "シュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25406-bXNV5tRVe3h6.png",
+    "role": "main",
+    "voiceActors": [
+      "ryouhei-kimura"
+    ]
+  },
+  {
+    "name": "Tetsu Amamiya",
+    "nameNative": "テツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20588-P2tg7VAzJ4vi.png",
+    "role": "main",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Yuki",
+    "nameNative": "ユキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20587-KHyskJ9VXuuk.png",
+    "role": "main",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Kei",
+    "nameNative": "ケイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25407-aApPt2AOsZ0F.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-moriya"
+    ]
+  }
+]
