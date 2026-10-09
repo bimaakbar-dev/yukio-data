@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Inugami",
+    "nameNative": "狗神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88515-i60vOYMgrXwa.png",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai",
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Kohina Ichimatsu",
+    "nameNative": "市松こひな",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88513-GXAnMNVioPjH.png",
+    "role": "main",
+    "voiceActors": [
+      "ryou-hirohashi"
+    ]
+  },
+  {
+    "name": "Kokkuri-san",
+    "nameNative": "コックリさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88514-sybplgKCkCvl.png",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-ono",
+      "ryouko-shiraishi"
+    ]
+  },
+  {
+    "name": "Shigaraki",
+    "nameNative": "信楽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88516-iN2Px47plFOB.png",
+    "role": "main",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Jimeko",
+    "nameNative": "じめ子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b234700-EzUSCSdYnLHC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Kureha",
+    "nameNative": "紅葉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b234714-g9AR9pxyRmdH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Noel",
+    "nameNative": "のえる",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-nonaka"
+    ]
+  },
+  {
+    "name": "Noel no Chihi",
+    "nameNative": "のえるの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Tama",
+    "nameNative": "タマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213616-bX6ajLkWkzoW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Tengu",
+    "nameNative": "天狗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b234701-pJlSLovHSD7U.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Yamamoto-kun",
+    "nameNative": "山本くん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213615-5pBTKktBd3vh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazutomi-yamamoto"
+    ]
+  }
+]
