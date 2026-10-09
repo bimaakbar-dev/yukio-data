@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Eclair",
+    "nameNative": "エクレア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/59343.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Momon",
+    "nameNative": "モモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79455.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mika-kanai"
+    ]
+  },
+  {
+    "name": "Happy",
+    "nameNative": "ハッピー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5188-1jTaic3aJ7Ds.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Lucy Heartfilia",
+    "nameNative": "ルーシィ・ハートフィリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hirano"
+    ]
+  },
+  {
+    "name": "Natsu Dragneel",
+    "nameNative": "ナツ・ドラグニル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  }
+]
