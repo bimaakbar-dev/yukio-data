@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Hiraku Machio",
+    "nameNative": "街尾火楽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293201-VoMIPmwpVgn9.jpg",
+    "role": "main",
+    "voiceActors": [
+      "atsushi-abe"
+    ]
+  },
+  {
+    "name": "Loo",
+    "nameNative": "ルー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293202-DoP0eWRKgYan.png",
+    "role": "main",
+    "voiceActors": [
+      "shino-shimoji"
+    ]
+  },
+  {
+    "name": "Tier",
+    "nameNative": "ティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293203-InzHn5I2HjHl.png",
+    "role": "main",
+    "voiceActors": [
+      "aya-suzaki"
+    ]
+  },
+  {
+    "name": "Ann",
+    "nameNative": "アン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294907-3365lBwg6wC2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukiyo-fujii"
+    ]
+  },
+  {
+    "name": "Bell Forgma",
+    "nameNative": "ベル＝フォーグマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariko-honda"
+    ]
+  },
+  {
+    "name": "Besel Chrome",
+    "nameNative": "ビーゼル＝クライム＝クローム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376022-nsXUz1oU83Qs.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youji-ueda"
+    ]
+  },
+  {
+    "name": "Clacasse",
+    "nameNative": "クラカッセ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376039-GMspATGTTbcG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kotori-koiwai"
+    ]
+  },
+  {
+    "name": "Daga",
+    "nameNative": "ダガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376026-K4SPv4GMvmdW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruki-ishiya"
+    ]
+  },
+  {
+    "name": "Domaim",
+    "nameNative": "ドマイム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Donoban",
+    "nameNative": "ドノバン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376033-ZkdX9T9fg8DH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousei-hirota"
+    ]
+  },
+  {
+    "name": "Doosu",
+    "nameNative": "ドース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shirokuma"
+    ]
+  },
+  {
+    "name": "Doraim",
+    "nameNative": "ドライム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304726-GoNuo3PRhHs2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Flora",
+    "nameNative": "フローラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294908-8RHsJaXHGO3a.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-tomita"
+    ]
+  },
+  {
+    "name": "Fraurem Chrome",
+    "nameNative": "フラウレム＝クローム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304727-JCsgwbdivweq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miho-okasaki"
+    ]
+  },
+  {
+    "name": "Fushu",
+    "nameNative": "フーシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "you-taichi"
+    ]
+  },
+  {
+    "name": "Glatts Britoa",
+    "nameNative": "グラッツ＝ブリトア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376031-Tns75dGcwVOv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-sasanuma"
+    ]
+  },
+  {
+    "name": "Gordon",
+    "nameNative": "ゴードン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b389113-jGLVc9zOjLeg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-sakurai"
+    ]
+  },
+  {
+    "name": "Gou Forgma",
+    "nameNative": "ゴウ=フォーグマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-mamiya"
+    ]
+  },
+  {
+    "name": "Graffaloon",
+    "nameNative": "グラッファルーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b339421-dXJX8HG4bsHu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Granmaria",
+    "nameNative": "グランマリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376036-uCZE7tegrBul.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mayu-yoshioka"
+    ]
+  },
+  {
+    "name": "Gruwald",
+    "nameNative": "グルーワルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b389119-UGWZw8APuef7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariko-higashiuchi"
+    ]
+  },
+  {
+    "name": "Gucci",
+    "nameNative": "グッチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376040-WPKDbAif9SGA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-urata"
+    ]
+  },
+  {
+    "name": "Gulf",
+    "nameNative": "ガルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376021-n5isk8LrEDBK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryousuke-takahashi"
+    ]
+  },
+  {
+    "name": "Gullguld",
+    "nameNative": "ガルガルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376035-le0Ii1BRkoQ8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hozumi-gouda"
+    ]
+  },
+  {
+    "name": "Guzuden",
+    "nameNative": "グズデン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiya-imai"
+    ]
+  },
+  {
+    "name": "Hakuren",
+    "nameNative": "ハクレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300444-BYouAqBll4q4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kanae-itou"
+    ]
+  },
+  {
+    "name": "Hiterto",
+    "nameNative": "ヒテルトー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-shiraishi"
+    ]
+  },
+  {
+    "name": "Igu",
+    "nameNative": "イグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b389112-waYrOVJN8nVT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-watada"
+    ]
+  },
+  {
+    "name": "Jack",
+    "nameNative": "ジャック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rikuya-yasuda"
+    ]
+  },
+  {
+    "name": "Junea",
+    "nameNative": "ジュネア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b389115-HOTRqnaBUTxG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "marie-hatanaka"
+    ]
+  },
+  {
+    "name": "Kiabit",
+    "nameNative": "キアービット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rumi-ookubo"
+    ]
+  },
+  {
+    "name": "Kuro",
+    "nameNative": "クロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376024-dzX6qhjN1U7W.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenobu-kiuchi"
+    ]
+  },
+  {
+    "name": "Kyojinzoku",
+    "nameNative": "巨人族",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asuna-tomari"
+    ]
+  },
+  {
+    "name": "Landan",
+    "nameNative": "ランダン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376023-34b7WgEWab5R.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  },
+  {
+    "name": "Leaf",
+    "nameNative": "リーフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376038-D6dICDGoMexw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-shimano"
+    ]
+  },
+  {
+    "name": "Licott",
+    "nameNative": "リコット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376020-oJoQTBDApF0X.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-yoshioka"
+    ]
+  },
+  {
+    "name": "Liese",
+    "nameNative": "リース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376037-c2ACavF2uY25.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-yoshioka"
+    ]
+  },
+  {
+    "name": "Lily",
+    "nameNative": "リリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376027-9fLrGJhso9w8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-shimano"
+    ]
+  },
+  {
+    "name": "Lita",
+    "nameNative": "リタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376019-QrSzsWYlFgDT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuko-abe"
+    ]
+  },
+  {
+    "name": "Lize",
+    "nameNative": "リゼ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376032-PAj7c6hA3WE4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuko-abe"
+    ]
+  },
+  {
+    "name": "Loage",
+    "nameNative": "ロアージュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376034-xxhwiVLuRKx3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "reo-osanai"
+    ]
+  },
+  {
+    "name": "Majin",
+    "nameNative": "魔神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Mamu",
+    "nameNative": "マム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b389116-0ksO1WALIH4L.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiyori-kouno"
+    ]
+  },
+  {
+    "name": "Michael Goroun",
+    "nameNative": "マイケル・ゴロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376028-vUtb2obCKpTL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoki-tatsuta"
+    ]
+  },
+  {
+    "name": "Morte",
+    "nameNative": "モルテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-yukimura"
+    ]
+  },
+  {
+    "name": "Narf",
+    "nameNative": "ナーフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b389118-XBW2uF4btEfJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "genta-nakamura"
+    ]
+  },
+  {
+    "name": "Nougyou Shin",
+    "nameNative": "農業神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376029-TysPQ5lKkJAm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Quon",
+    "nameNative": "クォン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-oonishi"
+    ]
+  },
+  {
+    "name": "Ramurias",
+    "nameNative": "ラムリアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b376025-sOuNUB5UoakS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuka-aisaka"
+    ]
+  },
+  {
+    "name": "Rashashi",
+    "nameNative": "ラッシャーシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b389114-P7Kvs0h7zJcD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsu-yorita"
+    ]
+  }
+]
