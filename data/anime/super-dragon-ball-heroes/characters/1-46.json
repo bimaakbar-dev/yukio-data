@@ -1,0 +1,413 @@
+[
+  {
+    "name": "Goku: Xeno Son",
+    "nameNative": "孫そん悟ご空くう：ゼノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129334-DBl42y4YCatP.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Gokuu Son",
+    "nameNative": "孫悟空",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/246-wsRRr6z1kii8.png",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Trunks",
+    "nameNative": "トランクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2707-YKWmn4q87oF8.png",
+    "role": "main",
+    "voiceActors": [
+      "takeshi-kusao"
+    ]
+  },
+  {
+    "name": "Vegeta",
+    "nameNative": "ベジータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b913-NIFkKazWM8VO.png",
+    "role": "main",
+    "voiceActors": [
+      "ryou-horikawa"
+    ]
+  },
+  {
+    "name": "Aeos",
+    "nameNative": "アイオス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b297192-VBoAWTX6cAhv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Android 21",
+    "nameNative": "人造人間21号",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160068-wNRDCBN0lVKQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houko-kuwashima"
+    ]
+  },
+  {
+    "name": "Bardock",
+    "nameNative": "バーダック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6122-N8XCxV2YPd1r.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Beerus",
+    "nameNative": "ビルス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76348-pGWrznfxgPIV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Bojack",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9783.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Broly",
+    "nameNative": "ブロリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4945-iE59qIP7TxPu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "bin-shimada"
+    ]
+  },
+  {
+    "name": "Caulifla",
+    "nameNative": "カリフラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/126822-yhQlVdPAIAhi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-komatsu"
+    ]
+  },
+  {
+    "name": "Cell",
+    "nameNative": "セル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3908.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norio-wakamoto"
+    ]
+  },
+  {
+    "name": "Champa",
+    "nameNative": "シャンパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127220-yWeW7rlEJP4V.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuo-iwata"
+    ]
+  },
+  {
+    "name": "Chronoa",
+    "nameNative": "クロノア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129333-tg4GwMQkZgwo.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kanae-itou"
+    ]
+  },
+  {
+    "name": "Cooler",
+    "nameNative": "クウラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6304-KolzUtGZ7uF7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "Cumber",
+    "nameNative": "カンバー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b233325-zwzAapYkXX2r.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Daishinkan",
+    "nameNative": "大神官",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127217-c4K0tjHvgL8x.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-takatsuka"
+    ]
+  },
+  {
+    "name": "Dr. Wheelo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2721.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masafumi-kimura"
+    ]
+  },
+  {
+    "name": "Freeza",
+    "nameNative": "フリーザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3694-bDfOdSSdFfPv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "Fuwa",
+    "nameNative": "フワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197714-ai2vt8TFPWsW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasunori-masutani"
+    ]
+  },
+  {
+    "name": "Fyuu",
+    "nameNative": "フュー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b233324-LqfNhQ09P6MP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Gohan Son",
+    "nameNative": "孫悟飯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2093-kdFZhqcNSsqW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Goku Black",
+    "nameNative": "ゴクウブラック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126199-SKYF7o73fQtX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Hearts",
+    "nameNative": "ハーツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215309-U9xBumhwX2M3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Higashi no Kaioushin",
+    "nameNative": "東の界王神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6133-yyWJ58Eo0iye.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-oota"
+    ]
+  },
+  {
+    "name": "Hit",
+    "nameNative": "ヒット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126883-TeOFpUuzgqgW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-yamaji"
+    ]
+  },
+  {
+    "name": "Janemba",
+    "nameNative": "ジャネンバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9776.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Jinzouningen 17-gou",
+    "nameNative": "人造人間17号",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2147-AQ0iJ9QEmwPf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-nakahara"
+    ]
+  },
+  {
+    "name": "Jinzouningen 18-gou",
+    "nameNative": "人造人間18号",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4318-HfIy9rOIOZXM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Jiren",
+    "nameNative": "ジレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126257-nGjgbsnxZkUB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-hanawa"
+    ]
+  },
+  {
+    "name": "Kale",
+    "nameNative": "ケール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162508-Zv2hTgwLsy7W.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Kuririn",
+    "nameNative": "クリリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2159-qtEuMYyOUkwY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-tanaka"
+    ]
+  },
+  {
+    "name": "Kyabe",
+    "nameNative": "キャベ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127219-K9EvieXhNYzg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kishio"
+    ]
+  },
+  {
+    "name": "Mai",
+    "nameNative": "マイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2143.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiko-yamada"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoki-tatsuta"
+    ]
+  },
+  {
+    "name": "Piccolo",
+    "nameNative": "ピッコロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b914-KuS8AWjqBrqa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Quitela",
+    "nameNative": "キテラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180804-8MytlItCgryN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-numata"
+    ]
+  },
+  {
+    "name": "Tapion",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9714.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-yuuki"
+    ]
+  },
+  {
+    "name": "Toki Toki",
+    "nameNative": "トキトキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b225039-iFIT7K5mEipC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Toppo",
+    "nameNative": "トッポ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130282-DyPDybbJKEAc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "Towa",
+    "nameNative": "トワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129335-MqNMRPlWQ88c.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-katsuki"
+    ]
+  },
+  {
+    "name": "Turles",
+    "nameNative": "ターレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14961.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Vados",
+    "nameNative": "ヴァドス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127218-JwMt8dLYwdRr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuriko-yamaguchi"
+    ]
+  },
+  {
+    "name": "Whis",
+    "nameNative": "ウイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76346-BNh2DE5Rh2IW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masakazu-morita"
+    ]
+  },
+  {
+    "name": "Zamasu",
+    "nameNative": "ザマス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/126882-NQ14AE5TZCCr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Zeno",
+    "nameNative": "全王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146259-JOcHMVKvRiWB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-koorogi"
+    ]
+  }
+]
