@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Haruki Nikaido",
+    "nameNative": "二階堂春希",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315338-11fUQ5XdcBud.png",
+    "role": "main",
+    "voiceActors": [
+      "ikumi-hasegawa"
+    ]
+  },
+  {
+    "name": "Hayato Kirishima",
+    "nameNative": "霧島隼人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315337-7DxtfA0W67WN.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shunichi-toki"
+    ]
+  },
+  {
+    "name": "Himeko Kirishima",
+    "nameNative": "霧島姫子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b394360-CEm3Mi3EGX1Y.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miharu-hanai"
+    ]
+  },
+  {
+    "name": "Minamo Mitake",
+    "nameNative": "三岳みなも",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b394361-o2Sb6RZBmGsO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-haruse"
+    ]
+  },
+  {
+    "name": "Saki Murao",
+    "nameNative": "村尾沙紀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b394362-8b0ts8WFVuRN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fuuka-izumi"
+    ]
+  }
+]
