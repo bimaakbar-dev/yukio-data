@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Ike",
+    "nameNative": "アイク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324311-033n2uwOWkoi.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Cefiro",
+    "nameNative": "セフィーロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324313-95o2VB4n9xZb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Gunther",
+    "nameNative": "ギュンター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b341864-IY2D3bvd0wGB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-uo"
+    ]
+  },
+  {
+    "name": "Jace",
+    "nameNative": "ジェイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Jiron",
+    "nameNative": "ジロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330187-SMBzccaRZOWc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-tone"
+    ]
+  },
+  {
+    "name": "Lilith",
+    "nameNative": "リリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324315-f8BCGItGIO3M.png",
+    "role": "supporting",
+    "voiceActors": [
+      "azumi-waki"
+    ]
+  },
+  {
+    "name": "Maou Dairokuten",
+    "nameNative": "魔王ダイロクテン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324314-BFDyuOMYIiGK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Romberg",
+    "nameNative": "ロンベルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b341863-i05J511nbgOG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Satie",
+    "nameNative": "サティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324312-54MdbXBVf2F2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hina-tachibana"
+    ]
+  }
+]
