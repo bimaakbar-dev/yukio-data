@@ -1,42 +1,41 @@
 ---
-title: Gochuumon wa Usagi desu ka?
-titleEnglish: Is the Order a Rabbit?
-titleNative: ご注文はうさぎですか？
+title: Gochuumon wa Usagi desu ka??
+titleEnglish: Is the Order a Rabbit?? Season 2
+titleNative: ご注文はうさぎですか？？
 
-malId: 21273
+malId: 29787
 kitsuId: "8095"
 
 type: TV
 status: finished
 source: manga
 
-season: spring
-year: 2014
+season: fall
+year: 2015
 episodes: 12
 duration: 23
-# rating: # edit manual
 
 aired:
-  from: "2014-04-10"
-  to: "2014-06-26"
+  from: "2015-10-10"
+  to: "2015-12-26"
 
 stats:
-  score: 7.2
-  # scoredBy: # edit manual
+  score: 7.6
 
 genres:
   - slice-of-life
 
 studios:
   - white-fox
+  - kinema-citrus
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20517-SNNUtav2knou.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20517.jpg"
-trailer: "aWyPbj1CItQ"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21034-PgPlR55DktTJ.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21034-UaWI3qdUZxje.jpg"
+trailer: "awfptUKbWEo"
 
 draft: false
 ---
 
-Coming to a new town to start high school can be intimidating, and that's especially true for Cocoa, who can't find the place she's supposed to be staying when she arrives. When she stops at a cafe to ask for directions, however, it turns out that she's already where she needs to be! You see, the Rabbit House is both a restaurant and a boarding house, and Cocoa will be working there along with the owner's granddaughter, Chino and the strangely military-obsessed Rize. It's a great place to work, business is hopping, and Cocoa's fits right in with her new coworkers, as well as the girls from two other rival cafes. Still, there is something just a little odd about the Rabbit House. Besides the fact that Rize usually carries a Glock and a knife hidden on her, there's also a mystery involving the shop's pet rabbit, Tippy. And then there are those girls who sometimes seem to be able to communicate without talking…
+It’s time to re-open the doors to Rabbit House, where good friends are ready to take on the next exciting adventure, and there’s always something unusual going on. After all, how many cafés have waitresses who collect firearms and a rabbit that actually talks? However, trouble may be burrowing into the Kafuu residence when a magazine runs an article on places to eat and neglects to mention Rabbit House! Will an investigation into what’s been “haunting” Syaro’s house be a wild goose chase, or will someone get a lot of grey hare as a result? Is the sudden appearance of Cocoa’s big sister a blessing or a disaster waiting happen? Still, nothing is as scary as the prospect of graduating school! Will everyone make the grade, or will some friends be left behind?
 
 (Source: Sentai Filmworks)
