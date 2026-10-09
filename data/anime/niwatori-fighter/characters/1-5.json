@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Keiji",
+    "nameNative": "けいじ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212585-9H3fZVoe95h2.png",
+    "role": "main",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Elizabeth",
+    "nameNative": "エリザベス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348019-vZ4p1kLBQTtb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariko-honda"
+    ]
+  },
+  {
+    "name": "Keisuke",
+    "nameNative": "ケイスケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b368755-UQ4cxbkNdnBK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-oono"
+    ]
+  },
+  {
+    "name": "Morio",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b368754-Ug3yDowSwmkM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-kanuka"
+    ]
+  },
+  {
+    "name": "Piyoko",
+    "nameNative": "ピヨ子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348018-EhQcf7Q8e986.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shiori-izawa"
+    ]
+  }
+]
