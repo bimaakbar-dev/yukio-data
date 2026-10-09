@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Ame",
+    "nameNative": "アメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87779.jpg",
+    "role": "main",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Suou Yagyuu",
+    "nameNative": "ヤギュウ スオウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87778.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kenn"
+    ]
+  },
+  {
+    "name": "Hinata Hashiba",
+    "nameNative": "ハシバ=ヒナタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87782.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomo-saeki"
+    ]
+  },
+  {
+    "name": "Kagato Maeda",
+    "nameNative": "マエダ=カガト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87784.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chihiro-suzuki"
+    ]
+  },
+  {
+    "name": "Sanda",
+    "nameNative": "サンダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87780.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Shin Kazusa",
+    "nameNative": "カズサ=シン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87783.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Tsukiyomi",
+    "nameNative": "ツキヨミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87781.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shuuta-morishima"
+    ]
+  }
+]
