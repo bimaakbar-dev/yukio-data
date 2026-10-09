@@ -1,0 +1,351 @@
+[
+  {
+    "name": "Gray",
+    "nameNative": "グレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120755-pPTdmFrsmG8z.jpg",
+    "role": "main",
+    "voiceActors": [
+      "reina-ueda"
+    ]
+  },
+  {
+    "name": "Reines El-Melloi Archisorte",
+    "nameNative": "ライネス・エルメロイ・アーチゾルテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132721-Tai8D6zBW8mT.png",
+    "role": "main",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Waver Velvet",
+    "nameNative": "ウェイバー・ベルベット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16023-gfwOgU1743ff.png",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Add",
+    "nameNative": "アッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141465-fypKvz7a5pDf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Alec Fargo",
+    "nameNative": "アレック・ファーゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158575-utX7gEOfvT7X.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouta-yamamoto"
+    ]
+  },
+  {
+    "name": "Barzan",
+    "nameNative": "バルザーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158568-LTePK8dvcGYP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-yanagita"
+    ]
+  },
+  {
+    "name": "Bram Nuada-Re Sophia-Ri",
+    "nameNative": "ブラム・ヌァザレ・ソフィアリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158559-TYtE4irM8fti.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hirofumi-nojima"
+    ]
+  },
+  {
+    "name": "Bridget",
+    "nameNative": "ブリジット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b260443-qgtZI9RJuCUD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukiyo-fujii"
+    ]
+  },
+  {
+    "name": "Caules Forvedge  Yggdmillennia",
+    "nameNative": "カウレス・フォルヴェッジ・ユグドミレニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131968-Lo85RXWOVWxo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-kobayashi"
+    ]
+  },
+  {
+    "name": "Chardin",
+    "nameNative": "シャルダン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158556-kWahgDmf6OMZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Claire",
+    "nameNative": "クレア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158565-CcM8Fkh4Hhgj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Deputy Manager",
+    "nameNative": "支配人代行",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158570-DiQKv0jHsd9i.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Doctor Heartless",
+    "nameNative": "ドクター・ハートレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158564-kvmJyUuPQS6L.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Einnashe no Ko",
+    "nameNative": "アインナッシュの仔",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296330-xaEvu2Sb2nwo.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ernest Fargo",
+    "nameNative": "アーネスト・ファーゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158562-fMLUZozsY4Dl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-umezu"
+    ]
+  },
+  {
+    "name": "Fay",
+    "nameNative": "フェイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158571-xY5cz06ehoAh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "lynn"
+    ]
+  },
+  {
+    "name": "Fernando Li",
+    "nameNative": "フェルナンド・李",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158553-iGCJg5jzmdHd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "bin-shimada"
+    ]
+  },
+  {
+    "name": "Flatt  Escardos",
+    "nameNative": "フラット・エスカルドス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87319-t3o6viRp1ci4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Gurdoa Davenant",
+    "nameNative": "グルドア・ダヴェナント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158567-3IdssVVtnqWp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-aoyama"
+    ]
+  },
+  {
+    "name": "Hephaestion",
+    "nameNative": "ヘファイスティオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158581-Zcsxr4dZy1Ao.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "you-taichi"
+    ]
+  },
+  {
+    "name": "Hishiri  Adashino",
+    "nameNative": "化野菱理",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158579-avdx3JXh8K52.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-minaguchi"
+    ]
+  },
+  {
+    "name": "Inorai Valualeta Atroholm",
+    "nameNative": "イノライ・バリュエレータ・アトロホルム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206757-LhiLPfo8YPZv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-ichijou"
+    ]
+  },
+  {
+    "name": "Jean-Mario Supinerra",
+    "nameNative": "ジャンマリオ・スピネッラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158561-YNVTgJcVvlFa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kanehira-yamamoto"
+    ]
+  },
+  {
+    "name": "Kairi Shishigou",
+    "nameNative": "獅子劫界離",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122397-xfhrhGmpOx25.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "Karabo Frampton",
+    "nameNative": "カラボー・フランプトン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158554-Q9CuuKMFBYFV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eizou-tsuda"
+    ]
+  },
+  {
+    "name": "Leandra",
+    "nameNative": "レアンドラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158558-YVsxW982ySCn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toa-yukinari"
+    ]
+  },
+  {
+    "name": "Luviagelita Edelfelt",
+    "nameNative": "ルヴィアゼリッタ・エーデルフェルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21636-pxuF4W4Eh9x7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Mary Lil Fargo",
+    "nameNative": "メアリ・リル・ファーゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158557-YzDT36JaxecA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Melvin Weins",
+    "nameNative": "メルヴィン・ウェインズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158580-Cd4DkBAbWyjB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-hirakawa"
+    ]
+  },
+  {
+    "name": "Michael",
+    "nameNative": "マイケル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b260444-3eVj6fwvPhkr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-okino"
+    ]
+  },
+  {
+    "name": "Olga Marie Animusphere",
+    "nameNative": "オルガマリー・アニムスフィア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130834-MC4zvT4nQWAl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "madoka-yonezawa"
+    ]
+  },
+  {
+    "name": "Rocco Belfeban",
+    "nameNative": "ロッコ・ベルフェバン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158552-zvT02LWmCNoN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohisa-asou"
+    ]
+  },
+  {
+    "name": "Rodin",
+    "nameNative": "ロダン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158577-OY9I7SqAsZRU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akinori-egoshi"
+    ]
+  },
+  {
+    "name": "Svin Glascheit",
+    "nameNative": "スヴィン・グラシュエート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70313-DBJ87qPjd69D.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "seiichirou-yamashita"
+    ]
+  },
+  {
+    "name": "Trimmau",
+    "nameNative": "トリムマウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158560-zJBWdYymxbqj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Trisha Fellows",
+    "nameNative": "トリシャ・フェローズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158555-mf3e61eCsjFx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kumiko-higa"
+    ]
+  },
+  {
+    "name": "Waletta Codrington",
+    "nameNative": "ワレッタ・コドリントン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158566-23O3GfHWL9mL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fuyuka-ooura"
+    ]
+  },
+  {
+    "name": "Wills Pelham Codrington",
+    "nameNative": "ウィルズ・ペラム・コドリントン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158563-MiRmQLTFEcBx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "Yvette L. Lehrman",
+    "nameNative": "イヴェット・L・レーマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158569-ydbjwWrtVWUg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miho-okasaki"
+    ]
+  }
+]
