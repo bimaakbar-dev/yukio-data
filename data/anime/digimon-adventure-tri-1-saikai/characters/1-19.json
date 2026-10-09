@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Agumon",
+    "nameNative": "アグモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4950-7ABdx6j3jmdE.png",
+    "role": "main",
+    "voiceActors": [
+      "chika-sakamoto"
+    ]
+  },
+  {
+    "name": "Gabumon",
+    "nameNative": "ガブモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9952-mI01ix3dEKMp.png",
+    "role": "main",
+    "voiceActors": [
+      "mayumi-yamaguchi"
+    ]
+  },
+  {
+    "name": "Gomamon",
+    "nameNative": "ゴマモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5977.jpg",
+    "role": "main",
+    "voiceActors": [
+      "junko-takeuchi"
+    ]
+  },
+  {
+    "name": "Hikari Yagami",
+    "nameNative": "八神ヒカリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1963-dOvRGlPBRIYw.png",
+    "role": "main",
+    "voiceActors": [
+      "mao-ichimichi"
+    ]
+  },
+  {
+    "name": "Jou Kido",
+    "nameNative": "城戸丈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2812-UkLkIUhVyrU8.jpg",
+    "role": "main",
+    "voiceActors": [
+      "junya-ikeda"
+    ]
+  },
+  {
+    "name": "Koushirou Izumi",
+    "nameNative": "泉光子郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2277-4iS5JyV5uyjS.png",
+    "role": "main",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Mimi Tachikawa",
+    "nameNative": "太刀川ミミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2278-2pznB5TswqIk.png",
+    "role": "main",
+    "voiceActors": [
+      "hitomi-yoshida"
+    ]
+  },
+  {
+    "name": "Palmon",
+    "nameNative": "パルモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9951.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kinoko-yamada"
+    ]
+  },
+  {
+    "name": "Patamon",
+    "nameNative": "パタモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9950-QAOttyTh15ti.png",
+    "role": "main",
+    "voiceActors": [
+      "miwa-matsumoto"
+    ]
+  },
+  {
+    "name": "Piyomon",
+    "nameNative": "ピヨモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9949.jpg",
+    "role": "main",
+    "voiceActors": [
+      "atori-shigematsu"
+    ]
+  },
+  {
+    "name": "Sora Takenouchi",
+    "nameNative": "武之内空",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2276-edQsS9qzUbm5.png",
+    "role": "main",
+    "voiceActors": [
+      "suzuko-mimori"
+    ]
+  },
+  {
+    "name": "Taichi Yagami",
+    "nameNative": "八神太一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1907-ZWmX1dVGPfqn.png",
+    "role": "main",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Tailmon",
+    "nameNative": "テイルモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9954.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuka-tokumitsu"
+    ]
+  },
+  {
+    "name": "Takeru Takaishi",
+    "nameNative": "高石タケル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1961-tH2XftpODD7y.png",
+    "role": "main",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Tentomon",
+    "nameNative": "テントモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9953-4In5NaqAYCdg.png",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Yamato Ishida",
+    "nameNative": "石田ヤマト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1909-BFIYnrdbeLhB.png",
+    "role": "main",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Hackmon",
+    "nameNative": "ハックモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358794-qYduQxFZ68Et.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Meicoomon",
+    "nameNative": "メイクーモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b303606-G5UWFtwiEsjZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukiko-morishita"
+    ]
+  },
+  {
+    "name": "Meiko Mochizuki",
+    "nameNative": "望月芽心",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89274-AhuSUJasEqOj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miho-arakawa"
+    ]
+  }
+]
