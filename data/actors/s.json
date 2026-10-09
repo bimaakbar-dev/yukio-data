@@ -728,6 +728,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "sayuri-yoshida",
+    "name": "Sayuri Yoshida",
+    "nameNative": "吉田小百合",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100246-24bKnOMquJaT.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "seena-hoshiki",
     "name": "Seena Hoshiki",
     "nameNative": "星希成奏",
@@ -921,6 +928,13 @@
     "name": "Shiho Kawaragi",
     "nameNative": "河原木志穂",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95465-XNzTSiM9OGGk.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "shiho-kikuchi",
+    "name": "Shiho Kikuchi",
+    "nameNative": "志穂菊池",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1858.jpg",
     "defaultLanguage": "Japanese"
   },
   {
