@@ -14,6 +14,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "rarecho",
+    "name": "Rarecho",
+    "nameNative": "ラレコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/22351.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "rei-ichinomiya",
     "name": "Rei Ichinomiya",
     "nameNative": "一宮麗",
@@ -564,6 +571,13 @@
     "name": "Rina Honizumi",
     "nameNative": "本泉莉奈",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125577-f48HE13krNVR.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "rina-inoue",
+    "name": "Rina Inoue",
+    "nameNative": "井上奈菜",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n141238-18jonb6tVklC.jpg",
     "defaultLanguage": "Japanese"
   },
   {

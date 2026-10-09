@@ -322,6 +322,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "kaolip",
+    "name": "Kaolip",
+    "nameNative": "kaolip",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "kaori-akashi",
     "name": "Kaori Akashi",
     "nameNative": "明石香織",
@@ -1775,6 +1782,13 @@
     "name": "Kokoro Kikuchi",
     "nameNative": "菊池こころ",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96172-dgERUIzNtAoG.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "komegumi-koiwasaki",
+    "name": "Komegumi Koiwasaki",
+    "nameNative": "小岩崎小恵",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n141087-6a6jnIrP3dxF.jpg",
     "defaultLanguage": "Japanese"
   },
   {
