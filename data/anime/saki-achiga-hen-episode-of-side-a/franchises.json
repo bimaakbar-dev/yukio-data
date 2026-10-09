@@ -1,0 +1,22 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "saki",
+    "title": "Saki"
+  },
+  {
+    "relation": "sequel",
+    "slug": "saki-achiga-hen-episode-of-side-a-specials",
+    "title": "Saki Achiga-hen: Episode of Side-A Specials"
+  },
+  {
+    "relation": "parent_story",
+    "slug": "saki-zenkoku-hen",
+    "title": "Saki: Zenkoku-hen"
+  },
+  {
+    "relation": "side_story",
+    "slug": "saki-achiga-hen-episode-of-side-a-kuro-no-tanjoubi",
+    "title": "Saki Achiga-hen: Episode of Side-A - Kuro no Tanjoubi"
+  }
+]
