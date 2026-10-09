@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Argo Gulskii",
+    "nameNative": "アルゴ・ガルスキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1404.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hidenari-ugaki"
+    ]
+  },
+  {
+    "name": "Chibode Croquette",
+    "nameNative": "チボデー・クロケット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1401.jpg",
+    "role": "main",
+    "voiceActors": [
+      "houchuu-ootsuka",
+      "mami-matsui"
+    ]
+  },
+  {
+    "name": "Domon Kasshu",
+    "nameNative": "ドモン・カッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1398-mPvd7vzTZYBQ.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "George de Sand",
+    "nameNative": "ジョルジュ・ド・サンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1403.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takumi-yamazaki"
+    ]
+  },
+  {
+    "name": "Kyouji Kasshu",
+    "nameNative": "キョウジ・カッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1400-ZCZLdnMDe3nx.png",
+    "role": "main",
+    "voiceActors": [
+      "hideyuki-hori"
+    ]
+  },
+  {
+    "name": "Rain Mikamura",
+    "nameNative": "レイン・ミカムラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1399-wi8or2jdYbLp.png",
+    "role": "main",
+    "voiceActors": [
+      "yuri-amano"
+    ]
+  },
+  {
+    "name": "Sai Saici",
+    "nameNative": "サイ・サイシー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1402.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Tohofuhai Master Asia",
+    "nameNative": "東方不敗マスター・アジア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1405.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yousuke-akimoto"
+    ]
+  },
+  {
+    "name": "Akino",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42712.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Alan Lee",
+    "nameNative": "アラン・リー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63655.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kinryuu-arimoto"
+    ]
+  },
+  {
+    "name": "Allenby Beardsley",
+    "nameNative": "アレンビー・ビアズリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11756-JZ1XQKBGnsEb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "narumi-hidaka"
+    ]
+  },
+  {
+    "name": "Andrew Graham",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32460.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-sugawara"
+    ]
+  },
+  {
+    "name": "Belliman",
+    "nameNative": "ベルイマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b272667-jlAa9o4y3XOX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Bunny Higgins",
+    "nameNative": "バニー・ヒギンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42775.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wakana-yamazaki"
+    ]
+  },
+  {
+    "name": "Carlos Andalucia",
+    "nameNative": "カルロス・アンダルシア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38429.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukitoshi-hori"
+    ]
+  },
+  {
+    "name": "Cath Ronary",
+    "nameNative": "キャス・ロナリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42776.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kae-araki"
+    ]
+  },
+  {
+    "name": "Cecile Holger",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42746.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuri-shiratori"
+    ]
+  },
+  {
+    "name": "Chandra Shijiema",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42685.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "issei-futamata"
+    ]
+  },
+  {
+    "name": "Chico Rodriguez",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42708.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "urara-takano",
+      "shinya-ootaki"
+    ]
+  },
+  {
+    "name": "Dr. Mikamura",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42747.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "motomu-kiyokawa"
+    ]
+  },
+  {
+    "name": "Fuunsaiki",
+    "nameNative": "風雲再起",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408382-buQg3YI4fSXM.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Gina Rodriguez",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42709.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroko-emori"
+    ]
+  },
+  {
+    "name": "Hans Holger",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42745.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masami-kikuchi"
+    ]
+  },
+  {
+    "name": "Hoi",
+    "nameNative": "ホイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63661.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fushigi-yamada"
+    ]
+  },
+  {
+    "name": "Janet Smith",
+    "nameNative": "ジャネット・スミス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42777.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akie-sekine"
+    ]
+  },
+  {
+    "name": "Jean-Pierre Mirabeau",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42748.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "juurouta-kosugi"
+    ]
+  },
+  {
+    "name": "Karato",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42683.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shin-aomori"
+    ]
+  },
+  {
+    "name": "Kyral Mekirel",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32461.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  },
+  {
+    "name": "Maria Louise",
+    "nameNative": "マリア・ルイゼ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42687.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-touma"
+    ]
+  },
+  {
+    "name": "Max Burns",
+    "nameNative": "マックス・バーンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63651.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ginzou-matsuo"
+    ]
+  },
+  {
+    "name": "Michelo Chairiot",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n29251-stdXgezmWEwm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kyousei-tsukui"
+    ]
+  },
+  {
+    "name": "Min",
+    "nameNative": "ミン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63659.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "michiyo-yanagisawa"
+    ]
+  },
+  {
+    "name": "Nashiusu Kiruhya",
+    "nameNative": "ジャック・イン・ダイヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63653.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minoru-inaba"
+    ]
+  },
+  {
+    "name": "Nastasha Zabigov",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42409.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-yokoo"
+    ]
+  },
+  {
+    "name": "Norma Graham",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42710.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri"
+    ]
+  },
+  {
+    "name": "Raymond Bishop",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42749.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuo-oka"
+    ]
+  },
+  {
+    "name": "Romario Monini",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23388.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoki-tatsuta"
+    ]
+  },
+  {
+    "name": "Schwarz Bruder",
+    "nameNative": "シュバルツ・ブルーダー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/13896.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-hori"
+    ]
+  },
+  {
+    "name": "Shirley Lane",
+    "nameNative": "シャリー・レーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42774.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-matsukuma"
+    ]
+  },
+  {
+    "name": "Sofia",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42707.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hinako-yoshino"
+    ]
+  },
+  {
+    "name": "Tris Surugeiref",
+    "nameNative": "トリス・スルゲイレフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63657.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-mizutani"
+    ]
+  },
+  {
+    "name": "Ulube Ishikawa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42778.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Wong Yunfat",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42684.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-hashimoto"
+    ]
+  }
+]
