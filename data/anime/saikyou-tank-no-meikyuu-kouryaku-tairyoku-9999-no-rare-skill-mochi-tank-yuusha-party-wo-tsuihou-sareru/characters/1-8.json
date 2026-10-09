@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Luna",
+    "nameNative": "ルナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b316333-kaYACZGgkiPd.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kana-ichinose"
+    ]
+  },
+  {
+    "name": "Nin",
+    "nameNative": "ニン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b316332-RRLbf2vfvf7n.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kaede-hondo"
+    ]
+  },
+  {
+    "name": "Rud",
+    "nameNative": "ルード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b316331-Hb1RBbxXe27G.jpg",
+    "role": "main",
+    "voiceActors": [
+      "jun-kasama"
+    ]
+  },
+  {
+    "name": "Amon",
+    "nameNative": "アモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320019-3BL65RyHvNna.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  },
+  {
+    "name": "Lilia",
+    "nameNative": "リリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320020-i3qIAE0rILZn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-oohashi"
+    ]
+  },
+  {
+    "name": "Lily",
+    "nameNative": "リリィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320018-zxmk98TZZSPm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-yuuki"
+    ]
+  },
+  {
+    "name": "Manicia",
+    "nameNative": "マニシア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320021-HDE90ZWV7nsg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-ogura"
+    ]
+  },
+  {
+    "name": "Marius",
+    "nameNative": "マリウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320022-cNiryZXVnthp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  }
+]
