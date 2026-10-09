@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Eve",
+    "nameNative": "イヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44.jpg",
+    "role": "main",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Rinslet Walker",
+    "nameNative": "リンスレット・ウォーカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45-z9wTQOTieezu.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Sven Vollfied",
+    "nameNative": "スヴェン・ボルフィード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43-y00cvAjLFtZe.png",
+    "role": "main",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Train Heartnet",
+    "nameNative": "トレイン・ハートネット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42-mMWsls5Qx6wG.jpg",
+    "role": "main",
+    "voiceActors": [
+      "minami-takayama",
+      "takashi-kondou"
+    ]
+  },
+  {
+    "name": "Adam",
+    "nameNative": "アダム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6440.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Annette Pierce",
+    "nameNative": "アネット・ピアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7712.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-tsuda"
+    ]
+  },
+  {
+    "name": "Anubis",
+    "nameNative": "アヌビス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7705.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ash",
+    "nameNative": "アッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7708.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taketora"
+    ]
+  },
+  {
+    "name": "Baldorias Fanghini",
+    "nameNative": "ファンギーニ・バルドリアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7706-dIJTFgpufzZg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "anri-katsu"
+    ]
+  },
+  {
+    "name": "Beluga Heard",
+    "nameNative": "ベルーガ・J・ハード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6441.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-ishii"
+    ]
+  },
+  {
+    "name": "Belze Rochefort",
+    "nameNative": "ベルゼー・ロシュフォール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6429.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-hori"
+    ]
+  },
+  {
+    "name": "Charden Flamberg",
+    "nameNative": "シャルデン･フラムブルグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b561-6aRWml2f0m5F.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Creed Diskenth",
+    "nameNative": "クリード・ディスケンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b560-Cl0cQGdoK3xP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "David Pepper",
+    "nameNative": "デイビッド・ペッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7707.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kuroda"
+    ]
+  },
+  {
+    "name": "Durham Glaster",
+    "nameNative": "デュラム・グラスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7689.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-kitade",
+      "shinya-fukumatsu"
+    ]
+  },
+  {
+    "name": "Echidna Parass",
+    "nameNative": "エキドナ・パラス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6433.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Ellie",
+    "nameNative": "エリィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46035.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-koyama"
+    ]
+  },
+  {
+    "name": "Emilio Lowe",
+    "nameNative": "エミリオ・ロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7703.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "susumu-chiba"
+    ]
+  },
+  {
+    "name": "Flitt Morris",
+    "nameNative": "モリス・フリット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39177.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Gallom",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7694.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Gilbas",
+    "nameNative": "ギルバス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6432-4pMW8J0lgakE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-suyama"
+    ]
+  },
+  {
+    "name": "Gyanza Rujikee",
+    "nameNative": "ギャンザ・レジック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6443.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masuo-amada"
+    ]
+  },
+  {
+    "name": "Igor Planter",
+    "nameNative": "イゴール・プランター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6438.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jin-horikawa"
+    ]
+  },
+  {
+    "name": "Jenos Hazard",
+    "nameNative": "ジェノス・ハザード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4398.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Johanna",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36798.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-yoshida"
+    ]
+  },
+  {
+    "name": "Kevin McDougall",
+    "nameNative": "ケビン・マクドガル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7698-aDJyGznlF1Q8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-takeuchi"
+    ]
+  },
+  {
+    "name": "Kousuke Kanzaki",
+    "nameNative": "カンザキコウスケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7691.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-mizushima"
+    ]
+  },
+  {
+    "name": "Kranz Marduke",
+    "nameNative": "クランツ・マドゥーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6434.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-kakehashi"
+    ]
+  },
+  {
+    "name": "Kyouko Kirisaki",
+    "nameNative": "キリサキ・キョウコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b562-dvQ6onbS59TU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiemi-chiba"
+    ]
+  },
+  {
+    "name": "Lacdoll",
+    "nameNative": "ラクドール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7695.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-ogata"
+    ]
+  },
+  {
+    "name": "Layla",
+    "nameNative": "レイラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7692.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuu-sawai"
+    ]
+  },
+  {
+    "name": "Leon Elliott",
+    "nameNative": "レオン・エリオット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7688.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-minagawa"
+    ]
+  },
+  {
+    "name": "Lib Tyrant",
+    "nameNative": "肋骨のタイラント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36797.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-ishii"
+    ]
+  },
+  {
+    "name": "Ling Xiaoli",
+    "nameNative": "リン・シャオリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6431.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Madame Freesia",
+    "nameNative": "マダム・フレシア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6442-TpmvwZMDzZMg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kujira"
+    ]
+  },
+  {
+    "name": "Maro",
+    "nameNative": "マロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39607.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiko-kawazu"
+    ]
+  },
+  {
+    "name": "Mason Ordrosso",
+    "nameNative": "メイソン・オルドロッソ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7709.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rokuro-naya"
+    ]
+  },
+  {
+    "name": "Naizer Bruckheimer",
+    "nameNative": "ナイザー・ブラッカイマー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6437.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisao-egawa"
+    ]
+  },
+  {
+    "name": "Preta Ghoul",
+    "nameNative": "プレタ・グール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21598.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "susumu-chiba"
+    ]
+  },
+  {
+    "name": "Reis Donovan",
+    "nameNative": "レイス・ドノバン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32064.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "anri-katsu"
+    ]
+  },
+  {
+    "name": "Rich Man",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63087.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "River Zastory",
+    "nameNative": "リバー・ザストリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7697.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobutoshi-kanna"
+    ]
+  },
+  {
+    "name": "Saki",
+    "nameNative": "サキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43667.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori"
+    ]
+  },
+  {
+    "name": "Saya Minatsuki",
+    "nameNative": "サヤ・ミナツキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4232.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Sephiria Arks",
+    "nameNative": "セフィリア・アークス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6430.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Shiki",
+    "nameNative": "シキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7690.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-yamaguchi"
+    ]
+  },
+  {
+    "name": "Silphy Deacroft",
+    "nameNative": "シルフィー・デアクロフト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7696.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-minagawa"
+    ]
+  },
+  {
+    "name": "Tanya",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21597.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoe-hanba"
+    ]
+  },
+  {
+    "name": "Tearju Lunatique",
+    "nameNative": "ティアーユ・ルナティーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14894-Jw12Fs9gmaiK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Tim",
+    "nameNative": "ティム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7693.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "motoko-kumai"
+    ]
+  }
+]
