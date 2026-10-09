@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Alice",
+    "nameNative": "アリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b372999-xnM757Qd78eS.png",
+    "role": "main",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Kouji Kagami",
+    "nameNative": "鏡浩二",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b373000-lzYqm2W32n3K.png",
+    "role": "main",
+    "voiceActors": [
+      "satoshi-inomata"
+    ]
+  },
+  {
+    "name": "Dark Dragon",
+    "nameNative": "ダークドラゴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Krull",
+    "nameNative": "クルル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b391480-Khj7acGifzYh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Menou",
+    "nameNative": "メノウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichirou-umehara"
+    ]
+  },
+  {
+    "name": "Militaria Remote",
+    "nameNative": "ミリタリア・リモート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youji-ueda"
+    ]
+  },
+  {
+    "name": "Paruna",
+    "nameNative": "パルナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b391481-ZBHXENjjLsuU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "lynn"
+    ]
+  },
+  {
+    "name": "Rex",
+    "nameNative": "レックス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b391478-7pp9TvbYcUmU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Takako",
+    "nameNative": "タカコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b391477-ZcP1TDcm5tyB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroya-egashira"
+    ]
+  },
+  {
+    "name": "Tina",
+    "nameNative": "ティナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b391479-28yfJiif5oAn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-koga"
+    ]
+  }
+]
