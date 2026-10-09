@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Cecilia",
+    "nameNative": "セシリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b368609-rIFiaoe8c5Ny.png",
+    "role": "main",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Youki",
+    "nameNative": "ヨウキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b368608-TskIfiKRVLwE.png",
+    "role": "main",
+    "voiceActors": [
+      "kouhei-amasaki"
+    ]
+  },
+  {
+    "name": "Duke",
+    "nameNative": "デューク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b381120-NgEevTcmB3WV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiki-masuda"
+    ]
+  },
+  {
+    "name": "Happiness",
+    "nameNative": "ハピネス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b381121-iAdAisQpdMgT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "iori-noguchi"
+    ]
+  },
+  {
+    "name": "Mikana",
+    "nameNative": "ミカナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b374763-rGz7GafXwQJk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-natsuyoshi"
+    ]
+  },
+  {
+    "name": "Misaki",
+    "nameNative": "ミサキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b386821-MKkitc056XlO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aimi-ozawa"
+    ]
+  },
+  {
+    "name": "Raven",
+    "nameNative": "レイヴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b381122-BliFkMy2gnKv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumu-murase"
+    ]
+  },
+  {
+    "name": "Seek",
+    "nameNative": "シーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b381123-f5Qt6zNmz52b.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-tanaka"
+    ]
+  },
+  {
+    "name": "Shike",
+    "nameNative": "シケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b386824-A1DxtpbXFsoj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "momo-sakurai"
+    ]
+  },
+  {
+    "name": "Yuuga",
+    "nameNative": "ユウガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b374762-HivD24ILFvQt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouhei-kimura"
+    ]
+  }
+]
