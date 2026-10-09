@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Ganzack",
+    "nameNative": "海賊ギャンザック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12560.jpg",
+    "role": "main",
+    "voiceActors": [
+      "norio-wakamoto"
+    ]
+  },
+  {
+    "name": "Luffy Monkey",
+    "nameNative": "モンキー・D・ルフィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png",
+    "role": "main",
+    "voiceActors": [
+      "urara-takano"
+    ]
+  },
+  {
+    "name": "Medaka",
+    "nameNative": "メダカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/59267.jpg",
+    "role": "main",
+    "voiceActors": [
+      "jun-tanaka"
+    ]
+  },
+  {
+    "name": "Nami",
+    "nameNative": "ナミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png",
+    "role": "main",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Zoro Roronoa",
+    "nameNative": "ロロノア・ゾロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png",
+    "role": "main",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  }
+]
