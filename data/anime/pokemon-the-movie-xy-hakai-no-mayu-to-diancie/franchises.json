@@ -1,0 +1,17 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "pokemon-xy",
+    "title": "Pokemon XY"
+  },
+  {
+    "relation": "prequel",
+    "slug": "pokemon-xy-koukoku-no-princess-diancie",
+    "title": "Pokemon XY: Koukoku no Princess Diancie"
+  },
+  {
+    "relation": "other",
+    "slug": "pokemon-pikachu-kore-nan-no-kagi",
+    "title": "Pokemon: Pikachu, Kore Nan no Kagi?"
+  }
+]
