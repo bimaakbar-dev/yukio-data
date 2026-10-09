@@ -1,0 +1,447 @@
+[
+  {
+    "name": "Gentiane Camus",
+    "nameNative": "简缇娅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186325-n2OgV0QyeyJj.png",
+    "role": "main",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "M16A1",
+    "nameNative": "M16A1",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135782-1Zjpc21SX7Zk.jpg",
+    "role": "main",
+    "voiceActors": [
+      "nozomi-yamane"
+    ]
+  },
+  {
+    "name": "M4 SOPMOD II",
+    "nameNative": "M4 SOPMOD II",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135794-Fdqm46wDku4V.png",
+    "role": "main",
+    "voiceActors": [
+      "yukari-tamura"
+    ]
+  },
+  {
+    "name": "M4A1",
+    "nameNative": "M4A1",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135795-BFUbZxAfi4OJ.png",
+    "role": "main",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "ST AR-15",
+    "nameNative": "ST AR-15",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135793-eBJobz7dVXAX.png",
+    "role": "main",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  },
+  {
+    "name": "Agent",
+    "nameNative": "代理人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136182-1wCDbg5fKPi8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-nabatame"
+    ]
+  },
+  {
+    "name": "Alchemist",
+    "nameNative": "アルケミスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b194319-4jePYqpZzEEb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "arise-satou"
+    ]
+  },
+  {
+    "name": "AUG",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186700-GmV6sg6euEV7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "azumi-waki"
+    ]
+  },
+  {
+    "name": "Berezovich Kryuger",
+    "nameNative": "ベレゾヴィッチ・クルーガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186701-6jLlEjJ7Z55l.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "C96",
+    "nameNative": "C96",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186321-hO3Z716sAbm2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-itaya"
+    ]
+  },
+  {
+    "name": "Destroyer",
+    "nameNative": "デストロイヤー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184857-4Q70ugL2Ekv3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-takada"
+    ]
+  },
+  {
+    "name": "DP-28",
+    "nameNative": "DP28",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186353-sBqCaLXmzhLz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kanae-ikadai"
+    ]
+  },
+  {
+    "name": "Dreamer",
+    "nameNative": "ドリーマー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184858-XZSVHLXOx6Ii.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaya-okuno"
+    ]
+  },
+  {
+    "name": "Elisa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b194324-BinHD5Lz87sC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Executioner",
+    "nameNative": "エクスキューショナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186213-4SObUDXJWSPX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "FN-49",
+    "nameNative": "FN-49",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186211-hZsrYwiyo6uf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-misaki"
+    ]
+  },
+  {
+    "name": "FNC",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184863-qRz6kbDZNONs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-yatsurugi"
+    ]
+  },
+  {
+    "name": "Franklin",
+    "nameNative": "フランクリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186702-ZZ6cfis27GWe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-yanagita"
+    ]
+  },
+  {
+    "name": "G36",
+    "nameNative": "G36",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186332-2CBPqcPwv9Uy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "G43",
+    "nameNative": "G43",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263194-ZWNY0UmbJbcO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-yamane"
+    ]
+  },
+  {
+    "name": "Galil",
+    "nameNative": "ガリル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196270-sonKsvMujhEQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "karin-mitarai"
+    ]
+  },
+  {
+    "name": "Griffin Staff",
+    "nameNative": "グリフィンスタッフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263191-6zRLPJxfZcBh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-omachi",
+      "kouji-kawakami",
+      "naoto-kobayashi",
+      "yuuji-kameyama"
+    ]
+  },
+  {
+    "name": "Grizzly MkV",
+    "nameNative": "グリズリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b194317-RfxGmgYwUWh0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-itaya"
+    ]
+  },
+  {
+    "name": "Helianthus",
+    "nameNative": "赫丽安图丝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186347-z5J5tzZWybTU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rui-kariya"
+    ]
+  },
+  {
+    "name": "HK416",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135776-wwEo4JVN0Lvf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-nonaka"
+    ]
+  },
+  {
+    "name": "Hunter",
+    "nameNative": "狩猎者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186346-8tidW3LA2t29.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-hagihara"
+    ]
+  },
+  {
+    "name": "Ingram",
+    "nameNative": "イングラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186333-bRyLZipeGfxn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "airi-ishihara"
+    ]
+  },
+  {
+    "name": "Intruder",
+    "nameNative": "干擾者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186355-hsLLty5i8l8C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-ootsubo"
+    ]
+  },
+  {
+    "name": "Jidou Onsei",
+    "nameNative": "自動音声",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266059-09u9MHYRIa2u.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mariko-toribe"
+    ]
+  },
+  {
+    "name": "Jun Shi",
+    "nameNative": "石軍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186351-RfR3OKILrPV0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-sanpei"
+    ]
+  },
+  {
+    "name": "Kalina",
+    "nameNative": "カリーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184836-J1KNKw4hgMNR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Kamalov",
+    "nameNative": "カモロフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186350-3q9XEefaxtTr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-hoshino"
+    ]
+  },
+  {
+    "name": "Kawasaki",
+    "nameNative": "川崎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186699-z1LETUdGsoLR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wakana-maruoka"
+    ]
+  },
+  {
+    "name": "M14",
+    "nameNative": "M14",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190205-bOoD2fffMjgb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-oonishi"
+    ]
+  },
+  {
+    "name": "M1919A4",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184867-Gaf5gZq1iRe1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sachiyo-yoshida"
+    ]
+  },
+  {
+    "name": "M3",
+    "nameNative": "M3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186342-alnSz7BkUKHj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-yamane"
+    ]
+  },
+  {
+    "name": "MG3",
+    "nameNative": "MG3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186212-8XuRklAUdj0v.png",
+    "role": "supporting",
+    "voiceActors": [
+      "risa-taneda"
+    ]
+  },
+  {
+    "name": "Micro Uzi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196272-fYdn2SoidECw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-oonishi"
+    ]
+  },
+  {
+    "name": "Mosin-Nagant",
+    "nameNative": "モシン・ナガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263193-5M7IAOCBqPBj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "MP-446",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189825-hkKRkyN6hdUq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "iori-nomizu"
+    ]
+  },
+  {
+    "name": "MP5",
+    "nameNative": "MP5",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186322-xnANqLCQSSU5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-mukaiyama"
+    ]
+  },
+  {
+    "name": "Nazo no Koe",
+    "nameNative": "謎の声",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Negev",
+    "nameNative": "ネゲヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184862-lNohTIFU2QK0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-suwa"
+    ]
+  },
+  {
+    "name": "P7",
+    "nameNative": "P7",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186327-zh8HY6KJp3T4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyo-kurosawa"
+    ]
+  },
+  {
+    "name": "Persica",
+    "nameNative": "ペルシカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184831-uKU9NW4zySlM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-hagihara"
+    ]
+  },
+  {
+    "name": "PKP",
+    "nameNative": "PKP",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284238-FfjOw6ZNxPET.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-tsuda"
+    ]
+  },
+  {
+    "name": "PPK",
+    "nameNative": "PPK",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186354-FF66UDFELmtp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asuka-itou"
+    ]
+  },
+  {
+    "name": "PPS-43",
+    "nameNative": "PPS-43",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263192-zuE22aUnxwWL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "PPSh-41",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186205-QWgFmeo4zM1X.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "RPD",
+    "nameNative": "RPD",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b186352-nydPAJJ9WIRH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "iori-nomizu"
+    ]
+  }
+]
