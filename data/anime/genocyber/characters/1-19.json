@@ -1,0 +1,165 @@
+[
+  {
+    "name": "Diana Reed",
+    "nameNative": "ダイアナ・リード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90168-nBIOfJAaZvS9.png",
+    "role": "main",
+    "voiceActors": [
+      "akiko-hiramatsu"
+    ]
+  },
+  {
+    "name": "Elaine Reed",
+    "nameNative": "エレイン・リード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21141.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akiko-hiramatsu"
+    ]
+  },
+  {
+    "name": "Mel",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21143.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kumiko-nishihara"
+    ]
+  },
+  {
+    "name": "Nguyen Morgan",
+    "nameNative": "グエン・モルガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159529-z7ifSkjxIBWW.png",
+    "role": "main",
+    "voiceActors": [
+      "mitsuaki-hoshino"
+    ]
+  },
+  {
+    "name": "Ryu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21142-CaHAXni2Lcs0.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kouji-tsujitani"
+    ]
+  },
+  {
+    "name": "Sakomizu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159526-5R5Oxa65Lsit.jpg",
+    "role": "main",
+    "voiceActors": [
+      "toshihiko-seki"
+    ]
+  },
+  {
+    "name": "Amachi",
+    "nameNative": "天知",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21146-KZtCsJqYT3Ak.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emi-shinohara"
+    ]
+  },
+  {
+    "name": "Captain Radneck",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159524-hgjqWk62VfwS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Davey",
+    "nameNative": "デビイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159528-CJajBBRnXU99.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rokuro-naya"
+    ]
+  },
+  {
+    "name": "Genichiro Kuryu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21148-ZwoDk4OZ9nza.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tamio-ooki"
+    ]
+  },
+  {
+    "name": "Grimson Rockwell",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21147-caISL671jPaE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-sogabe"
+    ]
+  },
+  {
+    "name": "Guru",
+    "nameNative": "導師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159522-tC9o7XM1sM48.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuzaburou-ootomo"
+    ]
+  },
+  {
+    "name": "Katsu",
+    "nameNative": "勝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159527-DDaIO5xxQYUJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiharu-sakurai"
+    ]
+  },
+  {
+    "name": "Kenneth Reed",
+    "nameNative": "ケネス・リード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21149-jPj2Mt3FHajX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seizou-katou"
+    ]
+  },
+  {
+    "name": "Myra",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21144.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-katsuki"
+    ]
+  },
+  {
+    "name": "Rat",
+    "nameNative": "ラット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159525-5oHddEN0QOIU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaoru-shimamura"
+    ]
+  },
+  {
+    "name": "Roko",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159521-BHV7baDQLgiu.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinobu-adachi"
+    ]
+  },
+  {
+    "name": "Sly",
+    "nameNative": "スライ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159523-RwR2D5aoebJh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Wakayama",
+    "nameNative": "若山",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21145-sB4bvlrV1nTK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "norio-wakamoto"
+    ]
+  }
+]
