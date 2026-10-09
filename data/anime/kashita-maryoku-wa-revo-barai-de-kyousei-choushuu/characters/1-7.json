@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Empee",
+    "nameNative": "エムピー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401367-rtchOFFbjAxM.png",
+    "role": "main",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  },
+  {
+    "name": "Lent",
+    "nameNative": "レント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401369-p9g9kNAfafRV.png",
+    "role": "main",
+    "voiceActors": [
+      "reiji-kawashima"
+    ]
+  },
+  {
+    "name": "Elle",
+    "nameNative": "エル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401371-6YmbNBeFPaqG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Guy",
+    "nameNative": "ガイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401368-slH0ZrZDWnfq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-hamano"
+    ]
+  },
+  {
+    "name": "Linka",
+    "nameNative": "リンカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b407403-AH3PnLyf6SN8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "risae-matsuda"
+    ]
+  },
+  {
+    "name": "Misa",
+    "nameNative": "ミサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401370-9BLI36IZuSYa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-sekine"
+    ]
+  },
+  {
+    "name": "Roger",
+    "nameNative": "ロジャー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  }
+]
