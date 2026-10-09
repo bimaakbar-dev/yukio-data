@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Aaya Saitou",
+    "nameNative": "斉藤亜綾",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35825.jpg",
+    "role": "main",
+    "voiceActors": [
+      "miku-isshiki"
+    ]
+  },
+  {
+    "name": "Kiiko Kawakami",
+    "nameNative": "川上紀衣子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35824.jpg",
+    "role": "main",
+    "voiceActors": [
+      "asami-imai"
+    ]
+  },
+  {
+    "name": "Kouta Saitou",
+    "nameNative": "斉藤康太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/49305.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoki-koshida"
+    ]
+  }
+]
