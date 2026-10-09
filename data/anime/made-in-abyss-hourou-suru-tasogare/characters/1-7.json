@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Nanachi",
+    "nameNative": "ナナチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122445-5uDu8wMy8Jxi.png",
+    "role": "main",
+    "voiceActors": [
+      "shiori-izawa"
+    ]
+  },
+  {
+    "name": "Reg",
+    "nameNative": "レグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122444-9rGUpcjwygHD.png",
+    "role": "main",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Riko",
+    "nameNative": "リコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122443-Md7TtolADEJh.png",
+    "role": "main",
+    "voiceActors": [
+      "miyu-tomita"
+    ]
+  },
+  {
+    "name": "Bondrewd",
+    "nameNative": "ボンドルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Ilim",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161973-2zHM5lJmpYdZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuko-hara"
+    ]
+  },
+  {
+    "name": "Marulk",
+    "nameNative": "マルルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/123145-wWYcJ3SOF426.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-toyosaki"
+    ]
+  },
+  {
+    "name": "Mitty",
+    "nameNative": "ミーティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125877-nFoMWC2T67Tx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  }
+]
