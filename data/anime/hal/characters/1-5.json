@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Hal",
+    "nameNative": "ハル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78679.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yoshimasa-hosoya"
+    ]
+  },
+  {
+    "name": "Kurumi",
+    "nameNative": "くるみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/78677.jpg",
+    "role": "main",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Aranami",
+    "nameNative": "荒波",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131555-ipkoSIWBvg3i.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinpachi-tsuji"
+    ]
+  },
+  {
+    "name": "Ryuu",
+    "nameNative": "リュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131556-qRggGCYh0Mzz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Tokio",
+    "nameNative": "時夫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131557-ayQkbT68ZLsp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tamio-ooki"
+    ]
+  }
+]
