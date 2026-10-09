@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Ai Haibara",
+    "nameNative": "灰原哀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1743-yw1FloPUI7jO.png",
+    "role": "main",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Ayumi Yoshida",
+    "nameNative": "吉田歩美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4228-c6vBLrG3AGdN.png",
+    "role": "main",
+    "voiceActors": [
+      "yukiko-iwai"
+    ]
+  },
+  {
+    "name": "Conan Edogawa",
+    "nameNative": "江戸川コナン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1742-NiV278NBFOvZ.png",
+    "role": "main",
+    "voiceActors": [
+      "minami-takayama",
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Genta Kojima",
+    "nameNative": "小嶋元太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4251-CK1ibFjPW7Kx.png",
+    "role": "main",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Kogorou Mouri",
+    "nameNative": "毛利小五郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1746-5I4sBSeXvCKP.png",
+    "role": "main",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Mitsuhiko Tsuburaya",
+    "nameNative": "円谷光彦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4252-eHo7i4WDIdQv.png",
+    "role": "main",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Ran Mouri",
+    "nameNative": "毛利蘭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1748-j3PdfbQruuOV.png",
+    "role": "main",
+    "voiceActors": [
+      "wakana-yamazaki"
+    ]
+  },
+  {
+    "name": "Azusa Enomoto",
+    "nameNative": "榎本梓",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n30370-VMTIrUsGXVHG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mikiko-enomoto"
+    ]
+  },
+  {
+    "name": "Hideo Akagi",
+    "nameNative": "赤木英雄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b66711-tVtWl7U5AhvO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-tsujitani"
+    ]
+  },
+  {
+    "name": "Hiroaki Nomoto",
+    "nameNative": "野本博昭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76642-kC7bi7jgHNwq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Hiroshi Agasa",
+    "nameNative": "阿笠博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4162-lDyKQxlzEXcj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Juzo Megure",
+    "nameNative": "目暮十三",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4253.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chafuurin"
+    ]
+  },
+  {
+    "name": "Kaoru Kouda",
+    "nameNative": "幸田薫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76638-uwyVThMeEkTm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mirei-kiritani"
+    ]
+  },
+  {
+    "name": "Kazumasa Nakaoka",
+    "nameNative": "中岡一正",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76636-2hbpR88Ig6Mk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi"
+    ]
+  },
+  {
+    "name": "Kazunobu Chiba",
+    "nameNative": "千葉和伸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30373-6sv7EFy1sW8j.png",
+    "role": "supporting",
+    "voiceActors": [
+      "isshin-chiba"
+    ]
+  },
+  {
+    "name": "Kazuyoshi Miura",
+    "nameNative": "三浦知良",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76634-9WFbmtI4Q7iP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyoshi-miura"
+    ]
+  },
+  {
+    "name": "Keiichiro Motoura",
+    "nameNative": "元浦慶一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76628-XOvPhytJnLFF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "norihiro-inoue"
+    ]
+  },
+  {
+    "name": "Miwako Satou",
+    "nameNative": "佐藤美和子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13975-0vSVf8z18ghU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-yuya"
+    ]
+  },
+  {
+    "name": "Ninzaburo Shiratori",
+    "nameNative": "白鳥任三郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9180-1pTQwiTDZOTj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Ryousuke Sakagi",
+    "nameNative": "逆木陵介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76640-oMjnczBoQgfQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-nakamura"
+    ]
+  },
+  {
+    "name": "Shinzou Yamamori",
+    "nameNative": "山森慎臓",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76626-Lf5V1JBpvCZW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Sonoko Suzuki",
+    "nameNative": "鈴木園子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1749-Jt3uRH7SRntc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-matsui"
+    ]
+  },
+  {
+    "name": "Takahiro Sanada",
+    "nameNative": "真田隆宏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76632-rjryms2ntT2c.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Tomofumi Motoura",
+    "nameNative": "本浦知史",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164755-JpPyPgtXfyaG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Wataru Takagi",
+    "nameNative": "高木渉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9421-q1USRmSvw7BF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Yasuhito Endou",
+    "nameNative": "遠藤保仁",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b76630-nh0w8BVkrY4R.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhito-endou"
+    ]
+  }
+]
