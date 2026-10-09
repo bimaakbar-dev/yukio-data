@@ -1,0 +1,241 @@
+[
+  {
+    "name": "Amuro Ray",
+    "nameNative": "アムロ・レイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1335-uzT1UsLOu3nE.png",
+    "role": "main",
+    "voiceActors": [
+      "tooru-furuya"
+    ]
+  },
+  {
+    "name": "Char Aznable",
+    "nameNative": "シャア・アズナブル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1336-VjllcTHMDuhI.png",
+    "role": "main",
+    "voiceActors": [
+      "shuuichi-ikeda"
+    ]
+  },
+  {
+    "name": "Bright Noa",
+    "nameNative": "ブライト・ノア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1337-1Onnawv89DVo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hirotaka-suzuoki"
+    ]
+  },
+  {
+    "name": "Crowley Hamon",
+    "nameNative": "クラウレ・ハモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35018-EIUoFU9rfCNR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-nakatani"
+    ]
+  },
+  {
+    "name": "Degwin Sodo Zabi",
+    "nameNative": "デギン・ソド・ザビ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17498-NUf1x1K0OqKR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidekatsu-shibata",
+      "yuzuru-fujimoto"
+    ]
+  },
+  {
+    "name": "Dozle Zabi",
+    "nameNative": "ドズル・ザビ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30965.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Eschonbach",
+    "nameNative": "エッシェンバッハ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42329.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsunosuke-hori",
+      "minoru-midorikawa"
+    ]
+  },
+  {
+    "name": "Frau Bow",
+    "nameNative": "フラウ・ボゥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1349-ux4GeDXXSirU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rumiko-ukai"
+    ]
+  },
+  {
+    "name": "Garma Zabi",
+    "nameNative": "ガルマ・ザビ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35019.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuji-mori"
+    ]
+  },
+  {
+    "name": "Gihren Zabi",
+    "nameNative": "ギレン・ザビ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29686-PYiwjItps3LV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "banjou-ginga"
+    ]
+  },
+  {
+    "name": "Haro",
+    "nameNative": "ハロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1340-o4bQN75dH1CL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sanae-takagi"
+    ]
+  },
+  {
+    "name": "Hayato Kobayashi",
+    "nameNative": "ハヤト・コバヤシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1339.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyonobu-suzuki"
+    ]
+  },
+  {
+    "name": "Icelina Eschonbach",
+    "nameNative": "イセリナ・エッシェンバッハ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42328.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-ueda",
+      "shiho-nagoshi"
+    ]
+  },
+  {
+    "name": "Kai Shiden",
+    "nameNative": "カイ・シデン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1342.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Kamaria Ray",
+    "nameNative": "カマリア・レイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42319.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chieko-baishou",
+      "masako-ikeda"
+    ]
+  },
+  {
+    "name": "Katz Hawin",
+    "nameNative": "カツ・ハウィン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1384-mHp3tPYkLcVN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fuyumi-shiraishi"
+    ]
+  },
+  {
+    "name": "Kikka Kitamoto",
+    "nameNative": "キッカ・キタモト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31331.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "you-inoue"
+    ]
+  },
+  {
+    "name": "Kycilia Zabi",
+    "nameNative": "キシリア・ザビ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35020.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-koyama"
+    ]
+  },
+  {
+    "name": "Letz Cofan",
+    "nameNative": "レツ・コファン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31333.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rumiko-ukai"
+    ]
+  },
+  {
+    "name": "Marker Clan",
+    "nameNative": "マーカー・クラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42320.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama",
+      "yoku-shioya"
+    ]
+  },
+  {
+    "name": "Matilda Ajan",
+    "nameNative": "マチルダ・アジャン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35015.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-toda"
+    ]
+  },
+  {
+    "name": "Mirai Yashima",
+    "nameNative": "ミライ・ヤシマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1352.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fuyumi-shiraishi"
+    ]
+  },
+  {
+    "name": "Ramba Ral",
+    "nameNative": "ランバ・ラル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/16282.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-hirose"
+    ]
+  },
+  {
+    "name": "Ryu Jose",
+    "nameNative": "リュウ・ホセイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1350.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouzou-iizuka"
+    ]
+  },
+  {
+    "name": "Sayla Mass",
+    "nameNative": "セイラ・マス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1338-gAbM9bSiwexP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "you-inoue"
+    ]
+  },
+  {
+    "name": "Tem Ray",
+    "nameNative": "テム・レイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42318.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "motomu-kiyokawa"
+    ]
+  }
+]
