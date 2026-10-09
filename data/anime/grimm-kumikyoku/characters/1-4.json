@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Charlotte",
+    "nameNative": "シャルロッテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331109-YIW7FUB93uFJ.png",
+    "role": "main",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Jacob",
+    "nameNative": "ヤコブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331111-sRjMyAJccTGE.png",
+    "role": "main",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  },
+  {
+    "name": "Wilhelm",
+    "nameNative": "ヴィルヘルム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331110-ITr8cYrtA1is.png",
+    "role": "main",
+    "voiceActors": [
+      "kenji-nojima"
+    ]
+  },
+  {
+    "name": "Roba",
+    "nameNative": "ロバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b352992-rAbkD2x9efdV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  }
+]
