@@ -973,6 +973,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "hiro-nakajima",
+    "name": "Hiro Nakajima",
+    "nameNative": "中嶋ヒロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/12484.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "hiro-shimono",
     "name": "Hiro Shimono",
     "nameNative": "下野紘",
@@ -1600,6 +1607,13 @@
     "name": "Hiroyuki Kinoshita",
     "nameNative": "木下浩之",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100356-s2RKgZdLPAor.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "hiroyuki-shibamoto",
+    "name": "Hiroyuki Shibamoto",
+    "nameNative": "柴本浩行",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/11391.jpg",
     "defaultLanguage": "Japanese"
   },
   {
