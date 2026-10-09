@@ -1,0 +1,421 @@
+[
+  {
+    "name": "Alan",
+    "nameNative": "アラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2621.jpg",
+    "role": "main",
+    "voiceActors": [
+      "junko-minagawa",
+      "juurouta-kosugi"
+    ]
+  },
+  {
+    "name": "Alviss",
+    "nameNative": "アルヴィス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1526.jpg",
+    "role": "main",
+    "voiceActors": [
+      "souichirou-hoshi"
+    ]
+  },
+  {
+    "name": "Babbo",
+    "nameNative": "バッボ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2574.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kazuki-yao",
+      "banjou-ginga"
+    ]
+  },
+  {
+    "name": "Dorothy",
+    "nameNative": "ドロシー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1528.jpg",
+    "role": "main",
+    "voiceActors": [
+      "saki-nakajima"
+    ]
+  },
+  {
+    "name": "Ginta Toramizu",
+    "nameNative": "虎水ギンタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/675.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kumiko-higa",
+      "motoko-kumai"
+    ]
+  },
+  {
+    "name": "Jack",
+    "nameNative": "ジャック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2575.jpg",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-sakaguchi"
+    ]
+  },
+  {
+    "name": "Nanashi",
+    "nameNative": "ナナシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1527.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masaya-onosaka"
+    ]
+  },
+  {
+    "name": "Snow",
+    "nameNative": "スノウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2618.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ai-shimizu"
+    ]
+  },
+  {
+    "name": "Alibaba",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28804.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kirii"
+    ]
+  },
+  {
+    "name": "Allegro",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35427-SS87sys12FVt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-shimizu"
+    ]
+  },
+  {
+    "name": "Alma",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18102.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masumi-asano"
+    ]
+  },
+  {
+    "name": "Aqua",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18095.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kimiko-koyama"
+    ]
+  },
+  {
+    "name": "Ash",
+    "nameNative": "アッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18088.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Belle",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2619.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Bumolu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28811.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rikako-aikawa"
+    ]
+  },
+  {
+    "name": "Cal",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35048-SchBU6siD7zJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "norihisa-mori"
+    ]
+  },
+  {
+    "name": "Candice",
+    "nameNative": "キャンディス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2906.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kumi-sakuma"
+    ]
+  },
+  {
+    "name": "Chappu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28814.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "emi-motoi"
+    ]
+  },
+  {
+    "name": "Chaton",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18092.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-matsuki"
+    ]
+  },
+  {
+    "name": "Chimera",
+    "nameNative": "キメラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18084.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mie-sonozaki"
+    ]
+  },
+  {
+    "name": "Danna Toramizu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19689.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshihiko-seki"
+    ]
+  },
+  {
+    "name": "Diana",
+    "nameNative": "ディアナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18082.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "michiko-neya"
+    ]
+  },
+  {
+    "name": "Edward",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2620.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-sakaguchi"
+    ]
+  },
+  {
+    "name": "Elder of Caldia",
+    "nameNative": "カルデアの・長老",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35315.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kan-tanaka"
+    ]
+  },
+  {
+    "name": "Emokis",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35054-yAoIzpHJHYo7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiemi-chiba"
+    ]
+  },
+  {
+    "name": "Fuugi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28805.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chihiro-suzuki"
+    ]
+  },
+  {
+    "name": "Gaira",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18104.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyuki-shimura"
+    ]
+  },
+  {
+    "name": "Galian",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17295.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasunori-matsumoto"
+    ]
+  },
+  {
+    "name": "Garo Rogelu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27675.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Garon Rodokin",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18094.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenari-ugaki"
+    ]
+  },
+  {
+    "name": "General",
+    "nameNative": "ジェネラル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35429-ogxGIJZxjuBS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shirokuma"
+    ]
+  },
+  {
+    "name": "Gido",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2907.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Girom",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18093.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Grave",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35426-jILxu2uSlPoX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  },
+  {
+    "name": "Halloween",
+    "nameNative": "ハロウィン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/13739.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "dai-matsumoto",
+      "rikako-aikawa"
+    ]
+  },
+  {
+    "name": "Hamelin",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28806.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Ian",
+    "nameNative": "イアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18085.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinji-kawada"
+    ]
+  },
+  {
+    "name": "Jack's Mother",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28809.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Jake",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18100.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshihiko-nakajima"
+    ]
+  },
+  {
+    "name": "John Peach",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18103.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuo-iwata"
+    ]
+  },
+  {
+    "name": "Jupiter",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34950.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Kannochi",
+    "nameNative": "カノッチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28184.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-umezu"
+    ]
+  },
+  {
+    "name": "Kapel Meister",
+    "nameNative": "カペル・マイスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35424-VOtCrWhHw4Ho.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jin-horikawa"
+    ]
+  },
+  {
+    "name": "King",
+    "nameNative": "キング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18081.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuzaburou-ootomo"
+    ]
+  },
+  {
+    "name": "Kouga",
+    "nameNative": "コウガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18091.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-gouri"
+    ]
+  },
+  {
+    "name": "Koyuki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18099.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-shimizu"
+    ]
+  },
+  {
+    "name": "Leno Rodokin",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18097.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Lilith",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34999-E6f4CEMXHrgR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Loco",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18096.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sawa-ishige"
+    ]
+  },
+  {
+    "name": "Magical Roe",
+    "nameNative": "マジカル・ロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28807.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  }
+]
