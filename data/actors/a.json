@@ -875,6 +875,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "akira-okamori",
+    "name": "Akira Okamori",
+    "nameNative": "岡森諦",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131188-SZQfXiNIf3N5.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "akira-sasanuma",
     "name": "Akira Sasanuma",
     "nameNative": "笹沼晃",
@@ -914,6 +921,12 @@
     "name": "Alice Sakurai",
     "nameNative": "櫻井ありす",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/109491-IKIwfjO6iUSl.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "allan-schintu",
+    "name": "Allan Schintu",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
     "defaultLanguage": "Japanese"
   },
   {
