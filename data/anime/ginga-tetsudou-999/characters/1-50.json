@@ -1,0 +1,444 @@
+[
+  {
+    "name": "Maetel",
+    "nameNative": "メーテル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6321-zecC2IPZiFxq.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masako-ikeda"
+    ]
+  },
+  {
+    "name": "Shasho",
+    "nameNative": "車掌",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14490-3rBvC7TDGwzF.png",
+    "role": "main",
+    "voiceActors": [
+      "kaneta-kimotsuki"
+    ]
+  },
+  {
+    "name": "Tetsurou Hoshino",
+    "nameNative": "星野鉄郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7950-DWL6ezlYlGxH.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Alice",
+    "nameNative": "アリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51521.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minori-matsushima"
+    ]
+  },
+  {
+    "name": "Antares",
+    "nameNative": "アンタレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7956.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masao-imanishi"
+    ]
+  },
+  {
+    "name": "Arc",
+    "nameNative": "アーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51865.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "seiko-nakano"
+    ]
+  },
+  {
+    "name": "Artemis",
+    "nameNative": "アルテミス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51559.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-matsuo"
+    ]
+  },
+  {
+    "name": "Artemis no Haha",
+    "nameNative": "アルテミスの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51695-qWTP17Ta7JEV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-tsuboi"
+    ]
+  },
+  {
+    "name": "Aya",
+    "nameNative": "アヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51921.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiyoko-kawashima"
+    ]
+  },
+  {
+    "name": "Bina",
+    "nameNative": "ビーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51911.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaneto-shiozawa"
+    ]
+  },
+  {
+    "name": "Brudas",
+    "nameNative": "ブルタス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51551.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rokuro-naya"
+    ]
+  },
+  {
+    "name": "Captain Harlock",
+    "nameNative": "キャプテン・ハーロック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2888.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makio-inoue"
+    ]
+  },
+  {
+    "name": "Chromeria",
+    "nameNative": "クローマリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51329.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiyoko-kawashima"
+    ]
+  },
+  {
+    "name": "Claire",
+    "nameNative": "クレア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7954.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiyoko-kawashima"
+    ]
+  },
+  {
+    "name": "Coa",
+    "nameNative": "コア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51711.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-aono"
+    ]
+  },
+  {
+    "name": "Columbus",
+    "nameNative": "コロンバス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51871.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Damu",
+    "nameNative": "ダム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52127.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Doa",
+    "nameNative": "ドア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51717.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-majima"
+    ]
+  },
+  {
+    "name": "Dr. Cycropros",
+    "nameNative": "ドクター・サイクロプロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51431.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junpei-takiguchi"
+    ]
+  },
+  {
+    "name": "Edmond",
+    "nameNative": "エドモンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51419.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-aono"
+    ]
+  },
+  {
+    "name": "Egoterina",
+    "nameNative": "エゴテリーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51327.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taeko-nakanishi"
+    ]
+  },
+  {
+    "name": "Emeraldas",
+    "nameNative": "エメラルダス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7952-hkBjM2liTLlL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "reiko-tajima"
+    ]
+  },
+  {
+    "name": "Eroze",
+    "nameNative": "イローゼ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51557.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroko-suzuki"
+    ]
+  },
+  {
+    "name": "Fake Harlock",
+    "nameNative": "ニセハーロック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51891.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshito-yasuhara"
+    ]
+  },
+  {
+    "name": "Flyer",
+    "nameNative": "フライヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51313.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-matsuo"
+    ]
+  },
+  {
+    "name": "Geronimo",
+    "nameNative": "ゼロニモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50771.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Gunman",
+    "nameNative": "ガンマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51323.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mikio-terashima"
+    ]
+  },
+  {
+    "name": "Hanako",
+    "nameNative": "花子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51017.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Hanako no Chichi",
+    "nameNative": "花子の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51019.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "isamu-tanonaka"
+    ]
+  },
+  {
+    "name": "Hanako's Mother",
+    "nameNative": "花子の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51025.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taeko-nakanishi"
+    ]
+  },
+  {
+    "name": "Hanza",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52125.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Horohoro",
+    "nameNative": "ホロホロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51331.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouhei-miyauchi"
+    ]
+  },
+  {
+    "name": "Horohoro's Lover",
+    "nameNative": "ホロホロの恋人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51333.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nana-yamaguchi"
+    ]
+  },
+  {
+    "name": "Ikari",
+    "nameNative": "イカリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51811.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Innkeeper",
+    "nameNative": "宿の主人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51555.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-yanami"
+    ]
+  },
+  {
+    "name": "Kagero",
+    "nameNative": "影郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51495.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-hashimoto"
+    ]
+  },
+  {
+    "name": "Kanae Hoshino",
+    "nameNative": "星野加奈江",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50767-EEDKABr2xLpG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-tsuboi"
+    ]
+  },
+  {
+    "name": "Kasumi",
+    "nameNative": "カスミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51493.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "harumi-ichiryuusai"
+    ]
+  },
+  {
+    "name": "Kikai Hakushaku",
+    "nameNative": "機械伯爵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8141-Zdt0KyQ4VLcm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidekatsu-shibata"
+    ]
+  },
+  {
+    "name": "Kira",
+    "nameNative": "キラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51509.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-shimizu"
+    ]
+  },
+  {
+    "name": "Kira's Father",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51515.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuo-hisamatsu"
+    ]
+  },
+  {
+    "name": "Kufuremu",
+    "nameNative": "クーフレーム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51869.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-ichijou"
+    ]
+  },
+  {
+    "name": "Kureha",
+    "nameNative": "クレハ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51903.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-han"
+    ]
+  },
+  {
+    "name": "La Andromeda Promethium II",
+    "nameNative": "ラー·アンドロメダ·プロメシューム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8999-Eq5ENbWZEZlw.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Lelan",
+    "nameNative": "レラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51707.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuko-yanaga"
+    ]
+  },
+  {
+    "name": "Leryuz",
+    "nameNative": "レリューズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51901.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Lestel",
+    "nameNative": "レステル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51909.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Liza",
+    "nameNative": "ライザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51441.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rihoko-yoshida"
+    ]
+  },
+  {
+    "name": "Machiru",
+    "nameNative": "マチール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51719.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mieko-nobusawa"
+    ]
+  },
+  {
+    "name": "Manabu Sunayama",
+    "nameNative": "砂山 学",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51697.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-yamamoto"
+    ]
+  }
+]
