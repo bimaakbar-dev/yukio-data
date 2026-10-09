@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Jose",
+    "nameNative": "ジョゼ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b339385-F31o3hrnazRG.png",
+    "role": "main",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Kai",
+    "nameNative": "カイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b339384-qsLXNvgAFyQI.png",
+    "role": "main",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Alue",
+    "nameNative": "アルゥエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b357128-O74PyYrRncgN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hana-tamegai"
+    ]
+  },
+  {
+    "name": "Basco",
+    "nameNative": "バスコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-sugisaki"
+    ]
+  },
+  {
+    "name": "Elsa",
+    "nameNative": "エルサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b357131-1wvsVgwXdCEk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Manso",
+    "nameNative": "マンソ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b357127-cahuHcyPiACr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-fukunishi"
+    ]
+  },
+  {
+    "name": "Moloch Vegin",
+    "nameNative": "モロク・ヴェジン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b357125-vj8Q1xVntDOP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-miyauchi"
+    ]
+  },
+  {
+    "name": "Orha",
+    "nameNative": "オルハ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b357126-WqLx4l0olLNv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Polek",
+    "nameNative": "ポレック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b357130-RsFOZZaQTLRB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-naka"
+    ]
+  },
+  {
+    "name": "Tani no Kami",
+    "nameNative": "谷の神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "banjou-ginga"
+    ]
+  },
+  {
+    "name": "Zeiena",
+    "nameNative": "ゼイエナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b371637-30otOh0pWlr0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  }
+]
