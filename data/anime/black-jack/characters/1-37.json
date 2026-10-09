@@ -1,0 +1,339 @@
+[
+  {
+    "name": "Kuroo Hazama",
+    "nameNative": "間黒男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1344-2Dhub0ahIUXp.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Abumaru",
+    "nameNative": "虻丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44004.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Acetylene Lamp",
+    "nameNative": "アセチレン・ランプ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33515-RPVcsJyvaDIr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "michio-hazama"
+    ]
+  },
+  {
+    "name": "Alex Rey",
+    "nameNative": "アレックス監督",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56891-yvAkjDVCtm8s.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-hashi"
+    ]
+  },
+  {
+    "name": "Andrew",
+    "nameNative": "アンドリュー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44064-amckGX0RObOT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Armando",
+    "nameNative": "アルマンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44066-bSVrxHzWxShg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaru-ikeda"
+    ]
+  },
+  {
+    "name": "Bokushi",
+    "nameNative": "牧師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59099-NC8uKzEXMee9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuaki-itou"
+    ]
+  },
+  {
+    "name": "Catherine",
+    "nameNative": "キャサリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43997-Gtms2oFGvxky.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-han"
+    ]
+  },
+  {
+    "name": "Crossword",
+    "nameNative": "クロスワード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23465-O3q9HI5CeQVV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chikao-ootsuka"
+    ]
+  },
+  {
+    "name": "Ernesto",
+    "nameNative": "エルネスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59093-7OTgrieuWNtp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshisada-sakaguchi"
+    ]
+  },
+  {
+    "name": "Ikehata",
+    "nameNative": "池端",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44002.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sakiko-tamagawa"
+    ]
+  },
+  {
+    "name": "Jones",
+    "nameNative": "ジョーンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44067-5faWCG0MMR6x.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoya-uchida"
+    ]
+  },
+  {
+    "name": "Kaoru",
+    "nameNative": "薫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44005.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiko-fujita"
+    ]
+  },
+  {
+    "name": "Karen",
+    "nameNative": "カレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44000-zNNTodLijj1M.png",
+    "role": "supporting",
+    "voiceActors": [
+      "azusa-nakao"
+    ]
+  },
+  {
+    "name": "Katina Aleko",
+    "nameNative": "カティナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56879-ORL90pcthoD8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kyouko-hikami"
+    ]
+  },
+  {
+    "name": "Kiriko",
+    "nameNative": "キリコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11356-Jd53kj24g81s.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-yamaji"
+    ]
+  },
+  {
+    "name": "Koichiro Tsuzuki",
+    "nameNative": "都築耕一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45119-6TnQahNqz6MT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomu-sasaki",
+      "yuri-shiratori",
+      "naoya-uchida",
+      "hideyuki-hori",
+      "sayuri-sadaoka"
+    ]
+  },
+  {
+    "name": "Lawrence",
+    "nameNative": "ロレンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44065-AHOWyEwkSpbG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-nagasawa"
+    ]
+  },
+  {
+    "name": "Leslie Harris",
+    "nameNative": "レスリー・ハリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23610-v6veEEGTfvib.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-furuya"
+    ]
+  },
+  {
+    "name": "Machiko Tsuzuki",
+    "nameNative": "都築摩知子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45121-pIP6iClPRBkk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-shou"
+    ]
+  },
+  {
+    "name": "Maria Carnera",
+    "nameNative": "マリア・カルネラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50247-yNqdVoQHtkd6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-katsuki"
+    ]
+  },
+  {
+    "name": "Mariko",
+    "nameNative": "マリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45123-97F2VGOFcrnJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eiko-kudo"
+    ]
+  },
+  {
+    "name": "Michele Rochasse",
+    "nameNative": "ミシェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56889-wLdEIHA7x2GM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-doi"
+    ]
+  },
+  {
+    "name": "Patterson",
+    "nameNative": "パターソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43999-RQuDJbVZKHof.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuzaburou-ootomo"
+    ]
+  },
+  {
+    "name": "Pinoko",
+    "nameNative": "ピノコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1345-l6HJcjsCMlby.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-mizutani"
+    ]
+  },
+  {
+    "name": "Rie Fujinami",
+    "nameNative": "藤浪里枝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56875-9mUJy8HJOqG6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Rokujoji",
+    "nameNative": "六条寺",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44006.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuo-sakaguchi"
+    ]
+  },
+  {
+    "name": "Saburo Taneda",
+    "nameNative": "種田三郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44003-nT2tJleCGGIF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  },
+  {
+    "name": "Sandra",
+    "nameNative": "サンドラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59097-j07f3NRPDLrj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-tsuru"
+    ]
+  },
+  {
+    "name": "Saranda",
+    "nameNative": "サランダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b44001-0ifxPkBTTqrl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-satou"
+    ]
+  },
+  {
+    "name": "Sayuri",
+    "nameNative": "小百合",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23466-B4oeDVKrMi98.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Stanfield",
+    "nameNative": "スタンフィールド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43998-AEHSUzglbjso.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuo-muramatsu"
+    ]
+  },
+  {
+    "name": "Tachibana",
+    "nameNative": "橘",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b57663-5qR7GKhJJ1LS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoya-uchida"
+    ]
+  },
+  {
+    "name": "Taneda",
+    "nameNative": "種田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45125-rlYKVaUCA4OP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  },
+  {
+    "name": "Taxi Untenshu",
+    "nameNative": "タクシー運転手",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59087-NJFW20P2ifaX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoyuki-yanada"
+    ]
+  },
+  {
+    "name": "Tsukiko",
+    "nameNative": "月子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23625-V4O54jgBWX6h.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Yasuhiko Shirabyoshi",
+    "nameNative": "白拍子泰彦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32428-rrAYO8n7eVTq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-mizushima"
+    ]
+  }
+]
