@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Aya Okamura",
+    "nameNative": "岡村 アヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80867-iq47RRO7hzLD.png",
+    "role": "main",
+    "voiceActors": [
+      "satomi-hanamura"
+    ]
+  },
+  {
+    "name": "Father Okamura",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80869-J2TyKqcEHP51.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shinji-ogawa"
+    ]
+  },
+  {
+    "name": "Mother Okamura",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "main",
+    "voiceActors": [
+      "fumi-hirano"
+    ]
+  }
+]
