@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Inuyasha",
+    "nameNative": "犬夜叉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1353-xsZhvfi7IFzT.png",
+    "role": "main",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Kagome Higurashi",
+    "nameNative": "日暮かごめ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1354-PuUTCSX7UzKA.png",
+    "role": "main",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Ai",
+    "nameNative": "藍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182584-R5XyQDPw8rKL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emi-motoi"
+    ]
+  },
+  {
+    "name": "Asagi",
+    "nameNative": "浅葱",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30435-moR1P0GnbH7d.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Dai",
+    "nameNative": "橙",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182585-bsILaPJ9r8MR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Jaken",
+    "nameNative": "邪見",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1364-4Y3v1IMEAwIg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Juura",
+    "nameNative": "獣羅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182582-k8BFAINbLg61.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-kusao"
+    ]
+  },
+  {
+    "name": "Kikyou",
+    "nameNative": "桔梗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1359-AFczK1HRd3ub.png",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-hidaka"
+    ]
+  },
+  {
+    "name": "Kirara",
+    "nameNative": "雲母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8323-RGrk8ZVTYUuy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tarako"
+    ]
+  },
+  {
+    "name": "Kyoura",
+    "nameNative": "凶羅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182583-KKzq7tbz0Qg4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Miroku",
+    "nameNative": "弥勒",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1356-rLhVHJzPY0Mp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-tsujitani"
+    ]
+  },
+  {
+    "name": "Moegi",
+    "nameNative": "萌黄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182587-ByN3r20RrmEb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-masuda"
+    ]
+  },
+  {
+    "name": "Rin",
+    "nameNative": "りん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1365-C5r2sPW8PwA8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Roku",
+    "nameNative": "緑",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182589-LhoOmp10dCL9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reiko-kiuchi"
+    ]
+  },
+  {
+    "name": "Ryuura",
+    "nameNative": "龍羅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182586-vZ99jGYwuoRU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobutoshi-kanna"
+    ]
+  },
+  {
+    "name": "Sango",
+    "nameNative": "珊瑚",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1355-zPTmTwhMXQbt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houko-kuwashima"
+    ]
+  },
+  {
+    "name": "Sesshoumaru",
+    "nameNative": "殺生丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1358-oR7bIGfc5pnX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-narita"
+    ]
+  },
+  {
+    "name": "Shion",
+    "nameNative": "紫苑",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182588-GdWqKv5eBYWN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-shimizu"
+    ]
+  },
+  {
+    "name": "Shippo",
+    "nameNative": "七宝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1357-q81pBzC7ynld.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kumiko-watanabe"
+    ]
+  }
+]
