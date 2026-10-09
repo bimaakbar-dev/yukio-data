@@ -1,0 +1,403 @@
+[
+  {
+    "name": "Captain Harlock",
+    "nameNative": "キャプテン・ハーロック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2888.jpg",
+    "role": "main",
+    "voiceActors": [
+      "makio-inoue",
+      "kan-tokumaru"
+    ]
+  },
+  {
+    "name": "Kei Yuki",
+    "nameNative": "有紀蛍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/24156.jpg",
+    "role": "main",
+    "voiceActors": [
+      "chiyoko-kawashima"
+    ]
+  },
+  {
+    "name": "Miime",
+    "nameNative": "ミーメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25028.jpg",
+    "role": "main",
+    "voiceActors": [
+      "noriko-ohara"
+    ]
+  },
+  {
+    "name": "Tadashi Daiba",
+    "nameNative": "台場正",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25025.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akira-kamiya"
+    ]
+  },
+  {
+    "name": "Adolf",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30890.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-majima"
+    ]
+  },
+  {
+    "name": "Aki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30872.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Akias",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30881.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-nakatani"
+    ]
+  },
+  {
+    "name": "Alellgias",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30871.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-nakatani"
+    ]
+  },
+  {
+    "name": "Aman",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30878.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-tsuboi"
+    ]
+  },
+  {
+    "name": "Captain Yamanaka",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31092.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "osamu-katou"
+    ]
+  },
+  {
+    "name": "Cassandra",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30868.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sachiko-chijimatsu"
+    ]
+  },
+  {
+    "name": "Chief Engineer Maji",
+    "nameNative": "魔地機関長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30863.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Cleo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25030.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-tsuboi"
+    ]
+  },
+  {
+    "name": "Dr. Daiba",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25035.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yonehiko-kitagawa"
+    ]
+  },
+  {
+    "name": "Dr. Zero",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30862.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-yanami"
+    ]
+  },
+  {
+    "name": "Elza",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30883.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mieko-nobusawa"
+    ]
+  },
+  {
+    "name": "Emeraldas",
+    "nameNative": "エメラルダス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7952-hkBjM2liTLlL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rihoko-yoshida"
+    ]
+  },
+  {
+    "name": "Gozo Otowara",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31095.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yonehiko-kitagawa"
+    ]
+  },
+  {
+    "name": "Histerias",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30877.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-nakatani"
+    ]
+  },
+  {
+    "name": "Jorjibel",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30882.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mieko-nobusawa"
+    ]
+  },
+  {
+    "name": "Kirika",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30888.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomiko-suzuki"
+    ]
+  },
+  {
+    "name": "Lola",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30869.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-koyama"
+    ]
+  },
+  {
+    "name": "Lucia",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30884.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-koyama"
+    ]
+  },
+  {
+    "name": "Masu Tsunajima",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30864.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-tsukase"
+    ]
+  },
+  {
+    "name": "Mayu Ooyama",
+    "nameNative": "大山まゆ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25026.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiyoko-kawashima"
+    ]
+  },
+  {
+    "name": "Meizo",
+    "nameNative": "メゾン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30876.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-tsukase"
+    ]
+  },
+  {
+    "name": "Midori",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30873.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "harumi-ichiryuusai"
+    ]
+  },
+  {
+    "name": "Mitsuko Daiba",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31089.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Mitsuru Kiruta",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25029.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidekatsu-shibata"
+    ]
+  },
+  {
+    "name": "Miyu",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30886.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-tsukase"
+    ]
+  },
+  {
+    "name": "Murem",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30874.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-tsukase"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidekatsu-shibata"
+    ]
+  },
+  {
+    "name": "Prime Minister",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25031.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-yanami"
+    ]
+  },
+  {
+    "name": "Professor Aihn",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31094.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yonehiko-kitagawa"
+    ]
+  },
+  {
+    "name": "Professor Kusco",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31090.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-ootake"
+    ]
+  },
+  {
+    "name": "Rafflesia",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25027.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruko-kitahama"
+    ]
+  },
+  {
+    "name": "Sainess",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30885.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-majima"
+    ]
+  },
+  {
+    "name": "Saki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30880.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "michiko-nomura"
+    ]
+  },
+  {
+    "name": "Shiraku",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30887.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-koyama"
+    ]
+  },
+  {
+    "name": "Shizuka Namino",
+    "nameNative": "波野静香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25032.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nana-yamaguchi"
+    ]
+  },
+  {
+    "name": "Shuiichiro Yuki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31091.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Sunora",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30879.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-han"
+    ]
+  },
+  {
+    "name": "Teshusse",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30870.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nana-yamaguchi"
+    ]
+  },
+  {
+    "name": "The Dorm Dean",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30875.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-tsukase"
+    ]
+  },
+  {
+    "name": "The Twin Sisters",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30889.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-ohara",
+      "noriko-tsukase"
+    ]
+  },
+  {
+    "name": "Tochiro Ooyama",
+    "nameNative": "大山トチロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7951.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keaton-yamada"
+    ]
+  },
+  {
+    "name": "Yattaran",
+    "nameNative": "ヤッタラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14004.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-ootake"
+    ]
+  },
+  {
+    "name": "Zoll",
+    "nameNative": "トカーガの戦士ゾル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25033.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keaton-yamada"
+    ]
+  },
+  {
+    "name": "Zorba",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31093.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  }
+]
