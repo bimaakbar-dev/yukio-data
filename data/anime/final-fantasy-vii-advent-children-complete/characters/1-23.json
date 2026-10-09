@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Cloud Strife",
+    "nameNative": "クラウド・ストライフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b456-aqvvhzG5aUXV.png",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Kadaj",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2926.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shoutarou-morikubo"
+    ]
+  },
+  {
+    "name": "Sephiroth",
+    "nameNative": "セフィロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1816-dUWCJJq7bKL7.png",
+    "role": "main",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Tifa Lockhart",
+    "nameNative": "ティファ・ロックハート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b758-3QZhbFVMajHC.png",
+    "role": "main",
+    "voiceActors": [
+      "ayumi-itou"
+    ]
+  },
+  {
+    "name": "Aerith Gainsborough",
+    "nameNative": "エアリス・ゲインズブール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b757-XgHQOxpK4L6k.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Barret Wallace",
+    "nameNative": "バレット・ウォーレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2933-oGfZYXEOYUAi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masahiro-kobayashi"
+    ]
+  },
+  {
+    "name": "Cait Sith",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18587.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideo-ishikawa"
+    ]
+  },
+  {
+    "name": "Cid Highwind",
+    "nameNative": "シド・ハイウィンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2930.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-yamaji"
+    ]
+  },
+  {
+    "name": "Denzel",
+    "nameNative": "デンゼル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21600.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kyousuke-ikeda"
+    ]
+  },
+  {
+    "name": "Elena",
+    "nameNative": "イリーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36259.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Loz",
+    "nameNative": "ロッズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2928.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "Marlene Wallace",
+    "nameNative": "マリン・ウォーレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2929.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-morohoshi"
+    ]
+  },
+  {
+    "name": "Moogle Girl",
+    "nameNative": "モグガール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190306-xmXdvxQSBGMQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-mogami"
+    ]
+  },
+  {
+    "name": "Red XIII",
+    "nameNative": "レッドXIII",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/11826.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masachika-ichimura"
+    ]
+  },
+  {
+    "name": "Reeve Tuesti",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18586.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "banjou-ginga"
+    ]
+  },
+  {
+    "name": "Reno",
+    "nameNative": "レノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2860-AvuGBukL38Bq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Rude",
+    "nameNative": "ルード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2931.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taiten-kusunoki"
+    ]
+  },
+  {
+    "name": "Rufus Shinra",
+    "nameNative": "ルーファウス神羅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2932-chD5qy3qkQmk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-ookawa"
+    ]
+  },
+  {
+    "name": "Tseng",
+    "nameNative": "ツォン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4459.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Vincent Valentine",
+    "nameNative": "ヴィンセント・ヴァレンタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2321.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shougo-suzuki"
+    ]
+  },
+  {
+    "name": "Yazoo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2927.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-kishi"
+    ]
+  },
+  {
+    "name": "Yuffie Kisaragi",
+    "nameNative": "ユフィ・キサラギ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2911.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-kakazu"
+    ]
+  },
+  {
+    "name": "Zack Fair",
+    "nameNative": "ザック・フェア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4319-B87gfpXecBTc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-suzumura"
+    ]
+  }
+]
