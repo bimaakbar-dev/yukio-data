@@ -1,0 +1,255 @@
+[
+  {
+    "name": "Anzu",
+    "nameNative": "杏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13995-QBmAFgmmzfJH.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kei-shindou"
+    ]
+  },
+  {
+    "name": "Hiiragi",
+    "nameNative": "柊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13996-6XMCxKhKi9Zy.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayahi-takagaki"
+    ]
+  },
+  {
+    "name": "Koume",
+    "nameNative": "小梅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13998-MhkZ1GXgjXQQ.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mako"
+    ]
+  },
+  {
+    "name": "Nanako Yamamoto",
+    "nameNative": "山本菜々子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29511.jpg",
+    "role": "main",
+    "voiceActors": [
+      "erino-hazuki"
+    ]
+  },
+  {
+    "name": "Naozumi Tsuchida",
+    "nameNative": "土田直純",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29476.jpg",
+    "role": "main",
+    "voiceActors": [
+      "haruka-kimura",
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Anzu no Chichi",
+    "nameNative": "杏の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29888-bNBIdK8TEEAL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouto-kashii"
+    ]
+  },
+  {
+    "name": "Aoi",
+    "nameNative": "葵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30916.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-igarashi"
+    ]
+  },
+  {
+    "name": "Enchou-sensei",
+    "nameNative": "園長先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29960.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "touko-aoyama"
+    ]
+  },
+  {
+    "name": "Hanamaru-sensei",
+    "nameNative": "花丸先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32376.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Hiiragi no Chichi",
+    "nameNative": "柊の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29891-ao0GmLOGNPOf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Hinagiku",
+    "nameNative": "雛菊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30913.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Kakogawa",
+    "nameNative": "加古川",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/33686.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "arisa-ogasawara"
+    ]
+  },
+  {
+    "name": "Kawashiro-sensei",
+    "nameNative": "川代先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29892.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-wakabayashi"
+    ]
+  },
+  {
+    "name": "Kenichi",
+    "nameNative": "健一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-fujita"
+    ]
+  },
+  {
+    "name": "Kenji",
+    "nameNative": "けんじ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30485.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "manami-numakura"
+    ]
+  },
+  {
+    "name": "Maika",
+    "nameNative": "苺花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asuka-oogame"
+    ]
+  },
+  {
+    "name": "Mayumi Yamamoto",
+    "nameNative": "山本真弓",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30911.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Nishikaze-sensei",
+    "nameNative": "西風先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38845.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumi-tsunematsu"
+    ]
+  },
+  {
+    "name": "Rouze Kusano",
+    "nameNative": "草野蕗央瀬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29889.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaoru-mizuhara"
+    ]
+  },
+  {
+    "name": "Ryouta",
+    "nameNative": "良太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263622-J2jQ6vyE6VvJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumi-fujimura"
+    ]
+  },
+  {
+    "name": "Sakura",
+    "nameNative": "桜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29890.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-honna"
+    ]
+  },
+  {
+    "name": "Satsuki Tsuchida",
+    "nameNative": "土田さつき",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30328.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shion-hirota"
+    ]
+  },
+  {
+    "name": "Shinobu",
+    "nameNative": "忍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "arise-satou"
+    ]
+  },
+  {
+    "name": "Takumi",
+    "nameNative": "拓海",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "arise-satou"
+    ]
+  },
+  {
+    "name": "Tomoyuki",
+    "nameNative": "智之",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263623-OhJnPfXNJmXI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsubasa-onoue"
+    ]
+  },
+  {
+    "name": "Toshiaki",
+    "nameNative": "利明",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-yoshida"
+    ]
+  },
+  {
+    "name": "Yuna",
+    "nameNative": "柚菜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38251.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maho-matsunaga"
+    ]
+  },
+  {
+    "name": "Yuu Kobayakawa",
+    "nameNative": "小早川優",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30245.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-igarashi"
+    ]
+  }
+]
