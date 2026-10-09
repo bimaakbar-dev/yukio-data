@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Mao Nome",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/13347.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuka-nanri"
+    ]
+  },
+  {
+    "name": "Sara Nome",
+    "nameNative": "サラ・ノーム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8745.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Shin Kudou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8744.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kenichi-suzumura"
+    ]
+  },
+  {
+    "name": "Aries Turner",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15512.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-shindou"
+    ]
+  },
+  {
+    "name": "D.D. Ivanov",
+    "nameNative": "D.D.イワノフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77365.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuzaburou-ootomo"
+    ]
+  },
+  {
+    "name": "Katie",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/27173.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Nora Polyansky",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/13408.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-takayama"
+    ]
+  },
+  {
+    "name": "Roy Focker",
+    "nameNative": "ロイ・フォッカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5826.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-kamiya"
+    ]
+  }
+]
