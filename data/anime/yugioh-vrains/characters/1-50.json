@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Ai",
+    "nameNative": "アイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121930-wNeHmuJvuhae.png",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Aoi Zaizen",
+    "nameNative": "財前葵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121934-VFWHAWk0x3tz.png",
+    "role": "main",
+    "voiceActors": [
+      "yuki-nakashima"
+    ]
+  },
+  {
+    "name": "Flame",
+    "nameNative": "不霊夢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129811-WaIpSUmklzeq.jpg",
+    "role": "main",
+    "voiceActors": [
+      "taku-yashiro"
+    ]
+  },
+  {
+    "name": "Gou Onizuka",
+    "nameNative": "鬼塚豪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n121936-Q3Me9xgsaY2H.jpg",
+    "role": "main",
+    "voiceActors": [
+      "daiki-hamano"
+    ]
+  },
+  {
+    "name": "Ryoken Kogami",
+    "nameNative": "鴻上了見",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121931-Tq1GyiQJWiEc.png",
+    "role": "main",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Shouichi Kusanagi",
+    "nameNative": "草薙翔一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n121938-8UJshXqeTqUM.jpg",
+    "role": "main",
+    "voiceActors": [
+      "subaru-kimura"
+    ]
+  },
+  {
+    "name": "Takeru Homura",
+    "nameNative": "穂村尊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129508-JhdjqHvQN3Lx.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Yuusaku Fujiki",
+    "nameNative": "藤木遊作",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121929-Cwng19gg9tZS.png",
+    "role": "main",
+    "voiceActors": [
+      "shouya-ishige"
+    ]
+  },
+  {
+    "name": "Akira Zaizen",
+    "nameNative": "財前晃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n121937-vf29hNgrWtoG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouma-yamamoto"
+    ]
+  },
+  {
+    "name": "Aqua",
+    "nameNative": "アクア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130382-9GnIOU6xcikW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Bishop",
+    "nameNative": "ビショップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131967-szIsnhByyW09.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikkan"
+    ]
+  },
+  {
+    "name": "Bit",
+    "nameNative": "ビット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137374-pXyN0NFsvhia.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kento-fujinuma"
+    ]
+  },
+  {
+    "name": "Bohman",
+    "nameNative": "ボーマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131976-LHBaRPqVjPyt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-matsuda"
+    ]
+  },
+  {
+    "name": "Boot",
+    "nameNative": "ブート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137376-ciTwhlY5RSu2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-yano"
+    ]
+  },
+  {
+    "name": "Dr. Genom",
+    "nameNative": "ドクター・ゲノム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131972-qZClk7IZGXrM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takuya-kirimoto"
+    ]
+  },
+  {
+    "name": "Eagle",
+    "nameNative": "鷲",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131978-bqp9IQFN3mfN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Earth",
+    "nameNative": "アース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130379-8HizIr3hR1CX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumihiro-okabayashi"
+    ]
+  },
+  {
+    "name": "Emma Bessho",
+    "nameNative": "別所エマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121935-n7uLrQ3On5Kn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuna-kamakura"
+    ]
+  },
+  {
+    "name": "Faust",
+    "nameNative": "ァウスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131975-72dRlWt3dSvH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-mikami"
+    ]
+  },
+  {
+    "name": "Frog",
+    "nameNative": "カエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131973-jYH014PwqWpG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Go Onizuka's Manager",
+    "nameNative": "Ｇｏ鬼塚のマネージャー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137378-UoJMo6MzsCj4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eizou-tsuda"
+    ]
+  },
+  {
+    "name": "Haru",
+    "nameNative": "ハル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130380-desOCPh5cctm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouko-shiraishi"
+    ]
+  },
+  {
+    "name": "Hayami",
+    "nameNative": "早見",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131980-eDzBMvAe28ry.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chihiro-ikki"
+    ]
+  },
+  {
+    "name": "Isomaki",
+    "nameNative": "磯巻",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137379-cODnUExUOXWT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-ihara"
+    ]
+  },
+  {
+    "name": "Jin Kusunagi",
+    "nameNative": "草薙 仁",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131977-NK1Gwe80PAzg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-suzuki"
+    ]
+  },
+  {
+    "name": "Kengo Doujun",
+    "nameNative": "道順健碁",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129509-D1upb0e55l0l.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takanori-okuda"
+    ]
+  },
+  {
+    "name": "Kengo's Mother Dojun",
+    "nameNative": "健吾の母親 . 道順",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137388-XP62A1PsnIYG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "konomi-tsuboi"
+    ]
+  },
+  {
+    "name": "Kenmochi",
+    "nameNative": "剣持",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137393-PpHNoCup6D18.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-tonozaki"
+    ]
+  },
+  {
+    "name": "Kiku Kamishirakawa",
+    "nameNative": "上白河綺久",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137383-t1tnoPFNA8cB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuri-shimabukuro"
+    ]
+  },
+  {
+    "name": "Kitamura",
+    "nameNative": "北村",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131974-u39mIYgM0M5z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masayuki-katou"
+    ]
+  },
+  {
+    "name": "Kiyoshi Kogami",
+    "nameNative": "鴻上聖",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130381-TSKSFPsHgbNs.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-sugou"
+    ]
+  },
+  {
+    "name": "Knight",
+    "nameNative": "ナイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131981-BlGXLnYan6Oj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-yano"
+    ]
+  },
+  {
+    "name": "Kotarou Mizunuma",
+    "nameNative": "水沼虎太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137384-6SqvwQfwX5kq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-yano"
+    ]
+  },
+  {
+    "name": "Kyoko Taki",
+    "nameNative": "滝 響子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131969-B3DBQ46VDBIn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Lightning",
+    "nameNative": "ライトニング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130384-Je7MyWQFF3xN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "issei-maeda"
+    ]
+  },
+  {
+    "name": "Linkuriboh",
+    "nameNative": "リンクリボー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137375-BqweW8wBVHbI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-kanada"
+    ]
+  },
+  {
+    "name": "Makoto  Kimishima",
+    "nameNative": "君島誠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137387-2izuTqWx3G7o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-suzuki"
+    ]
+  },
+  {
+    "name": "MC",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137377-dCLiBdSJEcwy.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Miyu",
+    "nameNative": "美優",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131970-7qw78vXRlS3g.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-fujiwara"
+    ]
+  },
+  {
+    "name": "Naoki Shima",
+    "nameNative": "島直樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n121939-vx00Y5Qt8a8o.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiharu-sawashiro"
+    ]
+  },
+  {
+    "name": "Pigeon",
+    "nameNative": "鳩",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131971-5TfbnMZFhw3o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Prototype Ai-A",
+    "nameNative": "プロトタイプAi-A",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137391-vYIh0DN0XeAo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manabu-sakamaki"
+    ]
+  },
+  {
+    "name": "Prototype Ai-B",
+    "nameNative": "プロトタイプAi-B",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137381-t0rxspTWa7OL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manabu-sakamaki"
+    ]
+  },
+  {
+    "name": "Queen",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131982-WvLQIcqh5aij.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-koyama"
+    ]
+  },
+  {
+    "name": "Roboppy",
+    "nameNative": "ロボッピ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137382-6u4DAKij4iD5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-takahashi"
+    ]
+  },
+  {
+    "name": "Rook",
+    "nameNative": "ルーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131979-y58soWCeg8FU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-makishima"
+    ]
+  },
+  {
+    "name": "Ryujiro  Mizunuma",
+    "nameNative": "水沼 龍二郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137390-Rhkig8InLIAa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-nogami"
+    ]
+  },
+  {
+    "name": "Sato",
+    "nameNative": "佐藤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137385-VXB7wM0zUEry.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-yano"
+    ]
+  },
+  {
+    "name": "Sensei",
+    "nameNative": "先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137380-jIQ2I59k9dv4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-saco"
+    ]
+  },
+  {
+    "name": "Spectre",
+    "nameNative": "スペクタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130383-VdqNQTXNUFNb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-kajimoto"
+    ]
+  }
+]
