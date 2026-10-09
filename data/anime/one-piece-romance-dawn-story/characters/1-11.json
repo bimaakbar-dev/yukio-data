@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Galley",
+    "nameNative": "三日月のギャリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17004.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Luffy Monkey",
+    "nameNative": "モンキー・D・ルフィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png",
+    "role": "main",
+    "voiceActors": [
+      "mayumi-tanaka"
+    ]
+  },
+  {
+    "name": "Silk",
+    "nameNative": "シルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17003.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kaya-matsutani"
+    ]
+  },
+  {
+    "name": "Brook",
+    "nameNative": "ブルック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5627-av8oD3zhKvDl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Chopper Tony Tony",
+    "nameNative": "トニートニー・チョッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Franky",
+    "nameNative": "フランキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n64-ChX6ZzHHjXqA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuki-yao"
+    ]
+  },
+  {
+    "name": "Nami",
+    "nameNative": "ナミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akemi-okamura"
+    ]
+  },
+  {
+    "name": "Robin Nico",
+    "nameNative": "ニコロビン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuriko-yamaguchi"
+    ]
+  },
+  {
+    "name": "Sanji",
+    "nameNative": "サンジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-hirata"
+    ]
+  },
+  {
+    "name": "Usopp",
+    "nameNative": "ウソップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b724-GFGgI9AJQkfy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Zoro Roronoa",
+    "nameNative": "ロロノア・ゾロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-nakai"
+    ]
+  }
+]
