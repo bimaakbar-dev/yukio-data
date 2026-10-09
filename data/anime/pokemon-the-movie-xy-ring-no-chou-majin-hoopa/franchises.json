@@ -1,0 +1,22 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "pokemon-xy",
+    "title": "Pokemon XY"
+  },
+  {
+    "relation": "other",
+    "slug": "pokemon-xy-hoopa-no-odemashi-daisakusen",
+    "title": "Pokemon XY: Hoopa no Odemashi Daisakusen!!"
+  },
+  {
+    "relation": "prequel",
+    "slug": "pokemon-xy-odemashi-ko-majin-hoopa",
+    "title": "Pokemon XY: Odemashi Ko Majin Hoopa"
+  },
+  {
+    "relation": "other",
+    "slug": "pokemon-pikachu-to-pokemon-ongakutai",
+    "title": "Pokemon: Pikachu to Pokemon Ongakutai"
+  }
+]

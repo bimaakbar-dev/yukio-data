@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Citron",
+    "nameNative": "シトロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87633-oTqI6KnsGoII.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Eureka",
+    "nameNative": "ユリーカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87634-tGzxeJb0GCCT.png",
+    "role": "main",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Hoopa",
+    "nameNative": "フーパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129913-8afgYxSaGRH1.png",
+    "role": "main",
+    "voiceActors": [
+      "rie-kugimiya",
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "nameNative": "ピカチュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Satoshi",
+    "nameNative": "サトシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+    "role": "main",
+    "voiceActors": [
+      "rica-matsumoto"
+    ]
+  },
+  {
+    "name": "Serena",
+    "nameNative": "セレナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87632-CmNJcY4TdybY.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mayuki-makiguchi"
+    ]
+  },
+  {
+    "name": "Joy",
+    "nameNative": "ジョーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7558-LzxI6BSiinA3.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kojirou",
+    "nameNative": "コジロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3936-5sX4EZIY2BRU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Musashi",
+    "nameNative": "ムサシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3935-m000RuoIVOGI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Nyarth",
+    "nameNative": "ニャース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inuko-inuyama"
+    ]
+  }
+]
