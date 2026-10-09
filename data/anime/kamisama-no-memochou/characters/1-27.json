@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Ayaka Shinozaki",
+    "nameNative": "篠崎彩夏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42918.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Narumi Fujishima",
+    "nameNative": "藤島鳴海",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42917.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Yuuko Shionji",
+    "nameNative": "紫苑寺有子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41924-wRhyD6IV8nPf.png",
+    "role": "main",
+    "voiceActors": [
+      "yui-ogura"
+    ]
+  },
+  {
+    "name": "Charunee Kusakabe",
+    "nameNative": "メオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44326.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saki-ogasawara"
+    ]
+  },
+  {
+    "name": "Denchuu",
+    "nameNative": "電柱",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44441.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Hiroaki Kuwahara",
+    "nameNative": "桑原宏明",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42922.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Hitoshi Mukai",
+    "nameNative": "向井均",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42921.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-miyata"
+    ]
+  },
+  {
+    "name": "Iwao",
+    "nameNative": "岩男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44443.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-mamiya"
+    ]
+  },
+  {
+    "name": "Kayo Fujishima",
+    "nameNative": "藤島 佳代",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44330.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  },
+  {
+    "name": "Masaru Hanada",
+    "nameNative": "花田勝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48939.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Masaya Kusakabe",
+    "nameNative": "草壁 昌也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44435.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-hamada"
+    ]
+  },
+  {
+    "name": "Mika",
+    "nameNative": "美嘉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/47919.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikumi-hayama"
+    ]
+  },
+  {
+    "name": "Mikawa",
+    "nameNative": "美河",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44861.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-kinoshita"
+    ]
+  },
+  {
+    "name": "Miku Kimura",
+    "nameNative": "木村 未来",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44332.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Ming Li Huang",
+    "nameNative": "黄明麗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42919.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-nabatame"
+    ]
+  },
+  {
+    "name": "Nemo",
+    "nameNative": "ネモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44439.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taketora"
+    ]
+  },
+  {
+    "name": "Nishimura",
+    "nameNative": "西村",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48497.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hirofumi-nojima"
+    ]
+  },
+  {
+    "name": "Renji Hirasaka",
+    "nameNative": "平坂錬次",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/45889.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-suzumura"
+    ]
+  },
+  {
+    "name": "Satoshi Teraoka",
+    "nameNative": "寺岡 智",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44336.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Sayuri Kuroda",
+    "nameNative": "黒田 小百合",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44328.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-endou"
+    ]
+  },
+  {
+    "name": "Shirou Hakamizaka",
+    "nameNative": "墓見坂史郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48935.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Shouko Sakuma",
+    "nameNative": "佐久間 翔子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44334.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "harumi-sakurai"
+    ]
+  },
+  {
+    "name": "Soichirou Hinamura",
+    "nameNative": "雛村壮一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42923.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Tetsuo Ichinomiya",
+    "nameNative": "一宮哲雄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42920.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-matsukaze"
+    ]
+  },
+  {
+    "name": "Tomio Kimura",
+    "nameNative": "木村富雄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/47407.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Toshi Shinozaki",
+    "nameNative": "篠崎俊夫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/48933.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-tachibana"
+    ]
+  },
+  {
+    "name": "Yoshiki",
+    "nameNative": "ヨシキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/47811.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  }
+]
