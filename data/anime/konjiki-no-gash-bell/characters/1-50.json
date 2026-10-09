@@ -1,0 +1,445 @@
+[
+  {
+    "name": "Brago",
+    "nameNative": "ブラゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12761-MjSBUqTpHpct.png",
+    "role": "main",
+    "voiceActors": [
+      "kazunari-kojima"
+    ]
+  },
+  {
+    "name": "Gash Bell",
+    "nameNative": "ガッシュ・ベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3893-wSHOuCznXMrm.png",
+    "role": "main",
+    "voiceActors": [
+      "ikue-ootani",
+      "konami-yoshida"
+    ]
+  },
+  {
+    "name": "Kanchomé",
+    "nameNative": "キャンチョメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16871-ZbPAQDkRrNjw.png",
+    "role": "main",
+    "voiceActors": [
+      "masami-kikuchi"
+    ]
+  },
+  {
+    "name": "Kiyomaro Takamine",
+    "nameNative": "高嶺清麿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3894-ML43KXK8fA3W.png",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Megumi Ooumi",
+    "nameNative": "大海恵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10864-o4ufCoZgCKFz.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-maeda"
+    ]
+  },
+  {
+    "name": "Parco Folgore",
+    "nameNative": "パルコ・フォルゴレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5014-12exz4bbnRGg.png",
+    "role": "main",
+    "voiceActors": [
+      "hiroki-takahashi"
+    ]
+  },
+  {
+    "name": "Sherry Bellmont",
+    "nameNative": "シェリー・ベルモンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16872-asUTrh5FLU7L.png",
+    "role": "main",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Tio",
+    "nameNative": "ティオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8315-wZ8e8HKQqJDE.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Umagon",
+    "nameNative": "ウマゴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12561-5d6oe4yYAjDq.png",
+    "role": "main",
+    "voiceActors": [
+      "satomi-koorogi"
+    ]
+  },
+  {
+    "name": "Albert",
+    "nameNative": "アルバート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185308-3WCVcpePEa1U.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Alishie",
+    "nameNative": "アリシエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36462-el2wOAWagjlt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Alvin",
+    "nameNative": "アルヴィン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64741-Mn7176dzuhYB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-tsukada"
+    ]
+  },
+  {
+    "name": "Apollo",
+    "nameNative": "アポロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/56187.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshihiko-seki"
+    ]
+  },
+  {
+    "name": "Arth",
+    "nameNative": "アース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158057-0vz0uXa12efB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-umezu"
+    ]
+  },
+  {
+    "name": "Banikisu Gigo",
+    "nameNative": "バニキス・ギーゴー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158017-4Jy8NTRgs2gW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-taki"
+    ]
+  },
+  {
+    "name": "Baransha",
+    "nameNative": "バランシャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b86925-Oj60xW4FkloL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuriko-yamaguchi"
+    ]
+  },
+  {
+    "name": "Bari Vincent",
+    "nameNative": "ヴィンセント・バリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b155933-5XFgGgXDHlxM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Belgim E.O.",
+    "nameNative": "ベルギム・Ｅ・Ｏ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158256-ahkFbcHHa1Ot.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Big Boing",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21126.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-nagano"
+    ]
+  },
+  {
+    "name": "Byonko",
+    "nameNative": "ビョンコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64739-c0DlGBNQySCH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-takato"
+    ]
+  },
+  {
+    "name": "Cherish",
+    "nameNative": "チェリッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64743-NHKNL3tgsVbg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-nagano"
+    ]
+  },
+  {
+    "name": "Chita",
+    "nameNative": "チータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158061-qgQfJ3rkzUeC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-itou"
+    ]
+  },
+  {
+    "name": "Coral Q",
+    "nameNative": "コーラルQ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b47591-BgYoPFc6JOtP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chie-koujiro"
+    ]
+  },
+  {
+    "name": "D'artagnan",
+    "nameNative": "プロフェッサー・ダルタニアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158056-joYrzEDtUeni.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Danny Boy",
+    "nameNative": "ダニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b73775-QKT9Z79ya9nn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Daria  Anje",
+    "nameNative": "ダリア・アンジェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158257-pj9t6UjANcm1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-nagano"
+    ]
+  },
+  {
+    "name": "Demolt",
+    "nameNative": "デモルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158383-3A3MR7jnWI2L.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuuzaburou-ootomo"
+    ]
+  },
+  {
+    "name": "Djem",
+    "nameNative": "ジェム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175214-zyq5s3wpUe1P.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruhi-nanao"
+    ]
+  },
+  {
+    "name": "Dufaux",
+    "nameNative": "デュフォー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50865-8UmYXnyeU7db.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Eita Kubozuka",
+    "nameNative": "窪塚泳太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/59581.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Elle Chivas",
+    "nameNative": "エル・シーバス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64747-ukhQuyP5Ma0H.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kotono-mitsuishi"
+    ]
+  },
+  {
+    "name": "Ellie",
+    "nameNative": "エリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158058-YoYTdV4vevz9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "konami-yoshida"
+    ]
+  },
+  {
+    "name": "Faudo",
+    "nameNative": "ファウード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162492-onGx1OIni6KK.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Fein",
+    "nameNative": "フェイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162490-rFyDvKNRssjr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norio-wakamoto"
+    ]
+  },
+  {
+    "name": "Garza",
+    "nameNative": "ガルザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162489-QILbC3GNyYFQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Grubb",
+    "nameNative": "グラブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174302-Wt1ogkZWBfzq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-suyama"
+    ]
+  },
+  {
+    "name": "Gustav",
+    "nameNative": "グスタフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156435-yiWbcvaMdJFz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Hana Takamine",
+    "nameNative": "高嶺華",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/59587.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wakana-yamazaki"
+    ]
+  },
+  {
+    "name": "Hidetoshi Nakata",
+    "nameNative": "中田秀寿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158139-dlBQuwazOeVK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitoshi-bifu"
+    ]
+  },
+  {
+    "name": "Hiromi",
+    "nameNative": "ヒロミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162487-sqx1o68VGBiy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-nagano"
+    ]
+  },
+  {
+    "name": "Hiroshi Yamanaka",
+    "nameNative": "山中浩",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158255-qlUhmTQ4YEME.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazunari-tanaka"
+    ]
+  },
+  {
+    "name": "Hyde",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23572.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-urawa"
+    ]
+  },
+  {
+    "name": "Ivy Kinoyama",
+    "nameNative": "筑紫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64923.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-asakawa"
+    ]
+  },
+  {
+    "name": "Jido",
+    "nameNative": "ジード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64753-Emi9UtbC1tUp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-ishii"
+    ]
+  },
+  {
+    "name": "Kafka Sunbeam",
+    "nameNative": "カフカ・サンビーム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33825-6ZNECfkEgq63.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hozumi-gouda"
+    ]
+  },
+  {
+    "name": "Kaguya",
+    "nameNative": "かぐや",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174301-A6RoGpzVd8f7.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kaneko",
+    "nameNative": "金子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158136-z9stHQxMc1kG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norihisa-mori"
+    ]
+  },
+  {
+    "name": "Karudio",
+    "nameNative": "カルディオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157873-bOhj16R0Yeb2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Kid",
+    "nameNative": "キッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21125-YXPeIwcsbyvC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akemi-okamura"
+    ]
+  },
+  {
+    "name": "Koko",
+    "nameNative": "ココ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b27670-b0pBsQMBPWUE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chinami-nishimura"
+    ]
+  }
+]
