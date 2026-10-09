@@ -1,0 +1,37 @@
+[
+  {
+    "relation": "character",
+    "slug": "overlord",
+    "title": "Overlord"
+  },
+  {
+    "relation": "character",
+    "slug": "kono-subarashii-sekai-ni-shukufuku-wo",
+    "title": "Kono Subarashii Sekai ni Shukufuku wo!"
+  },
+  {
+    "relation": "character",
+    "slug": "rezero-kara-hajimeru-isekai-seikatsu",
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu"
+  },
+  {
+    "relation": "character",
+    "slug": "youjo-senki",
+    "title": "Youjo Senki"
+  },
+  {
+    "relation": "character",
+    "slug": "tate-no-yuusha-no-nariagari",
+    "title": "Tate no Yuusha no Nariagari"
+  },
+  {
+    "relation": "prequel",
+    "slug": "isekai-quartet-2",
+    "title": "Isekai Quartet 2"
+  },
+  {
+    "relation": "sequel",
+    "slug": "isekai-quartet-3",
+    "title": "Isekai Quartet 3"
+  }
+]

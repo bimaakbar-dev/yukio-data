@@ -1,0 +1,297 @@
+[
+  {
+    "name": "Albedo",
+    "nameNative": "アルベド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png",
+    "role": "main",
+    "voiceActors": [
+      "yumi-hara"
+    ]
+  },
+  {
+    "name": "Aqua",
+    "nameNative": "アクア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png",
+    "role": "main",
+    "voiceActors": [
+      "sora-amamiya"
+    ]
+  },
+  {
+    "name": "Emilia",
+    "nameNative": "エミリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Kazuma Satou",
+    "nameNative": "佐藤和真",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukushima"
+    ]
+  },
+  {
+    "name": "Momonga",
+    "nameNative": "モモンガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png",
+    "role": "main",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Subaru Natsuki",
+    "nameNative": "ナツキ・スバル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88573-F8yMTK9GhnTA.png",
+    "role": "main",
+    "voiceActors": [
+      "yuusuke-kobayashi"
+    ]
+  },
+  {
+    "name": "Tanya Degurechaff",
+    "nameNative": "ターニャ・デグレチャフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121052-bQZT3nIvaryX.png",
+    "role": "main",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Viktoriya Serebryakov",
+    "nameNative": "ヴィクトーリヤ・イヴァーノヴナ・セレブリャコーフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121057-xoaUSV1sO1CM.jpg",
+    "role": "main",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Alec",
+    "nameNative": "アレク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b267464-hnwBHNCcm3S9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Aura Bella Fiora",
+    "nameNative": "アウラ・ベラ・フィオーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89129-2Qrm5TnoKYct.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  },
+  {
+    "name": "Beatrice",
+    "nameNative": "ベアトリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90181-wRPm0OEaucmw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-arai"
+    ]
+  },
+  {
+    "name": "Chomusuke",
+    "nameNative": "ちょむすけ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120654-9yWTm8QyQy0O.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Cocytus",
+    "nameNative": "コキュートス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89138-HUcvLWduh6Mc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Darkness",
+    "nameNative": "ダクネス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Demiurge",
+    "nameNative": "デミウルゴス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masayuki-katou"
+    ]
+  },
+  {
+    "name": "Filo",
+    "nameNative": "フィーロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126828-nZDnMK4Bw7f9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  },
+  {
+    "name": "Garfiel Tinsel",
+    "nameNative": "ガーフィール・ティンゼル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133847-8I2Pjoz232vS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Hakase",
+    "nameNative": "博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203544-VRqWI2UWx1SF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Mare Bello Fiore",
+    "nameNative": "マーレ・ベロ・フィオーレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89126-1WY1bWNYPg44.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-uchiyama"
+    ]
+  },
+  {
+    "name": "Matheus Johann Weiss",
+    "nameNative": "マテウス・ヨハン・ヴァイス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135058-dZPLFV5RES9P.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-hamano"
+    ]
+  },
+  {
+    "name": "Megumin",
+    "nameNative": "めぐみん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-takahashi"
+    ]
+  },
+  {
+    "name": "Naofumi Iwatani",
+    "nameNative": "岩谷尚文",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Otto Suwen",
+    "nameNative": "オットー・スーウェン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124110-Gfr3IYI6FwqE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouhei-amasaki"
+    ]
+  },
+  {
+    "name": "Pantagruel",
+    "nameNative": "パンタグリュエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b267463-m5LliR67fcnd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-tanaka"
+    ]
+  },
+  {
+    "name": "Puck",
+    "nameNative": "パック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90187-xJXlD84KXl3t.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-uchiyama"
+    ]
+  },
+  {
+    "name": "Ram",
+    "nameNative": "ラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88576-NWkotUiJ3mK3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-murakawa"
+    ]
+  },
+  {
+    "name": "Raphtalia",
+    "nameNative": "ラフタリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-seto"
+    ]
+  },
+  {
+    "name": "Rem",
+    "nameNative": "レム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88575-Ayu8UPDA8NS6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Rhiner Neumann",
+    "nameNative": "ライナー・ノイマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135057-miJNxrLFdXke.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daichi-hayashi"
+    ]
+  },
+  {
+    "name": "Shalltear Bloodfallen",
+    "nameNative": "シャルティア・ブラッドフォールン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Vera Mitrohina",
+    "nameNative": "ヴェラ・ミトロヒナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b267462-3keZoomMmY1o.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "Warren Grantz",
+    "nameNative": "ヴォーレン・グランツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135041-h12RTaL7PRTM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-kobayashi"
+    ]
+  },
+  {
+    "name": "Wilibald Koenig",
+    "nameNative": "ヴィリバルト・ケーニッヒ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135046-JJkWsPJAIJto.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-kasama"
+    ]
+  }
+]
