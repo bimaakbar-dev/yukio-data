@@ -1,0 +1,110 @@
+[
+  {
+    "name": "El Drago",
+    "nameNative": "エルドラゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25914-PXcixCpT1zr2.png",
+    "role": "main",
+    "voiceActors": [
+      "kenji-utsumi"
+    ]
+  },
+  {
+    "name": "Luffy Monkey",
+    "nameNative": "モンキー・D・ルフィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png",
+    "role": "main",
+    "voiceActors": [
+      "mayumi-tanaka"
+    ]
+  },
+  {
+    "name": "Nami",
+    "nameNative": "ナミ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png",
+    "role": "main",
+    "voiceActors": [
+      "akemi-okamura"
+    ]
+  },
+  {
+    "name": "Tobio",
+    "nameNative": "トビオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b53001-IEs2wibFNS7T.png",
+    "role": "main",
+    "voiceActors": [
+      "yuka-imai"
+    ]
+  },
+  {
+    "name": "Usopp",
+    "nameNative": "ウソップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b724-GFGgI9AJQkfy.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Zoro Roronoa",
+    "nameNative": "ロロノア・ゾロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png",
+    "role": "main",
+    "voiceActors": [
+      "kazuya-nakai"
+    ]
+  },
+  {
+    "name": "Danny",
+    "nameNative": "ダニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52669-oxwSWT4d1UeJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinsuke-kasai"
+    ]
+  },
+  {
+    "name": "Denny",
+    "nameNative": "デニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52671-kLIpfNqgyyOe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshihiro-itou"
+    ]
+  },
+  {
+    "name": "Donny",
+    "nameNative": "ドニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52673-DycAzJi1BRnL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsurumaru-sakai"
+    ]
+  },
+  {
+    "name": "Ganzo",
+    "nameNative": "岩蔵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b53003-PJxZGE33smuE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-aono",
+      "taiki-matsuno"
+    ]
+  },
+  {
+    "name": "Golass",
+    "nameNative": "ゴラス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b382109-puk8Rrc3NgOp.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Woonan",
+    "nameNative": "ウーナン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31662-6KHSk8euGBY0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-kusao",
+      "nachi-nozawa"
+    ]
+  }
+]
