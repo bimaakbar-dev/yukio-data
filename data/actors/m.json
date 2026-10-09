@@ -62,6 +62,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "madoka-akita",
+    "name": "Madoka Akita",
+    "nameNative": "秋田まどか",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/8659.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "madoka-asahina",
     "name": "Madoka Asahina",
     "nameNative": "朝日奈丸佳",
@@ -1697,6 +1704,13 @@
     "name": "Michio Hazama",
     "nameNative": "羽佐間道夫",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1158.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "michio-miyashita",
+    "name": "Michio Miyashita",
+    "nameNative": "宮下道央",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/929.jpg",
     "defaultLanguage": "Japanese"
   },
   {
