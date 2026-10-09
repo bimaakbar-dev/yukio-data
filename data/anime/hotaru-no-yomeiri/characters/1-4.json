@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Satoko Kirigaya",
+    "nameNative": "桐ケ谷紗都子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298761-EU6Qgcu9AMQc.png",
+    "role": "main",
+    "voiceActors": [
+      "lynn"
+    ]
+  },
+  {
+    "name": "Shinpei Gotou",
+    "nameNative": "後藤進平",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298762-GJdjyPmhS8Ln.png",
+    "role": "main",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Koutarou Ogawa",
+    "nameNative": "小川康太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kento-itou"
+    ]
+  },
+  {
+    "name": "Mitsueda",
+    "nameNative": "三枝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  }
+]
