@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Maneo",
+    "nameNative": "マネオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87620-61fWqVfvmoBe.png",
+    "role": "main",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Miss Monochrome",
+    "nameNative": "ミス・モノクローム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87619-KnHaX72Tqehn.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Ruu-chan",
+    "nameNative": "ルーちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87621.jpg",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Akiko",
+    "nameNative": "あきこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124358-Ejdm4AK78KQT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-suwa"
+    ]
+  },
+  {
+    "name": "Kikuko",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87623-ATWE7y7AJTrc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Mana",
+    "nameNative": "マナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87622-PXPR4Y2CsLVX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aki-kanada"
+    ]
+  }
+]
