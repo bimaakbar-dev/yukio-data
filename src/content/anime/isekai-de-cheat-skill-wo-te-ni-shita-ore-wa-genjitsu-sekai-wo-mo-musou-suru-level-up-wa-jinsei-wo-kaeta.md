@@ -1,28 +1,26 @@
 ---
 title: "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta"
-titleEnglish: "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too"
+titleEnglish: "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too (Special) - The Legendary Dragon—Awakens"
 titleNative: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～
 
-malId: 52830
+malId: 56906
 kitsuId: "46370"
 
-type: TV
+type: Special
 status: finished
 source: light_novel
 
-season: spring
-year: 2023
-episodes: 13
-duration: 24
-# rating: # edit manual
+season: winter
+year: 2026
+episodes: 1
+duration: 47
 
 aired:
-  from: "2023-04-04"
-  to: "2023-06-29"
+  from: "2026-03-30"
+  to: "2026-03-30"
 
 stats:
-  score: 6.3
-  # scoredBy: # edit manual
+  score: 6.8
 
 genres:
   - action
@@ -33,13 +31,10 @@ genres:
 studios:
   - millepensee
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153845-C47aoKy7wf19.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153845-qcUXgT0toF1J.jpg"
-trailer: "qDaUzzpowzQ"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170110-MzWm7RaFxAnu.png"
+trailer: "SRYZgp2VliQ"
 
 draft: false
 ---
 
-All his life, Yuuya has been bullied at school and neglected by his parents. After moving into his late grandfather’s home, he discovers a strange door that seems to be calling out to him. Yuuya opens the door, steps inside, and is suddenly transported to a magical world! This new world holds rare treasures and grants him powerful skills, which he takes back to Earth for a new lease on life.
-
-(Source: Crunchyroll)
+New special episode for Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta.
