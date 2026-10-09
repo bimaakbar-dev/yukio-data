@@ -13,11 +13,11 @@ episodes: 1
 # duration: # edit manual
 # rating: # edit manual
 
-aired:
+aired: {}
   # from: # edit manual
   # to: # edit manual
 
-stats:
+stats: {}
   # score: # edit manual
   # scoredBy: # edit manual
 
