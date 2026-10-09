@@ -266,6 +266,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "kanji-suzumori",
+    "name": "Kanji Suzumori",
+    "nameNative": "鈴森勘司",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5288.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "kanna-nakamura",
     "name": "Kanna Nakamura",
     "nameNative": "中村カンナ",
@@ -998,6 +1005,13 @@
     "name": "Kei Shindou",
     "nameNative": "真堂圭",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95594-uUAU6lh6TMQW.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "keigo-manaka",
+    "name": "Keigo Manaka",
+    "nameNative": "真仲恵吾",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/10990.jpg",
     "defaultLanguage": "Japanese"
   },
   {
