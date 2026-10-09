@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Ezekiel",
+    "nameNative": "エゼキエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124099-0RIUWGSuBMgo.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Joseph",
+    "nameNative": "ジョセフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163704-jwCb8bXQ3ckV.png",
+    "role": "main",
+    "voiceActors": [
+      "kenshou-ono"
+    ]
+  },
+  {
+    "name": "Maria",
+    "nameNative": "マリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/124100-1BF4rmPzm46D.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Artemis",
+    "nameNative": "アルテミス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163706-954sPvMh34rE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Bernard",
+    "nameNative": "ベルナール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163705-9Pr6jggHhBKs.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Michael",
+    "nameNative": "ミカエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-ichijou"
+    ]
+  },
+  {
+    "name": "Viv",
+    "nameNative": "ビブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163703-FreaXHLKkZpp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  }
+]
