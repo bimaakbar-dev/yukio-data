@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Ferdinand",
+    "nameNative": "フェルディナンド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126544-DQzlrgyV6eR8.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Myne",
+    "nameNative": "マイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126156-YXVZECJdjc00.png",
+    "role": "main",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Angelica",
+    "nameNative": "アンゲリカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201569-3bkHnCaCiv72.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Benno",
+    "nameNative": "ベンノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126537-EDEeeiLkafXX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Bonifatius",
+    "nameNative": "ボニファティウス・ゾーン・エーレンフェスト・オル・リンクベルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201624-88MjvXK957Q5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-yamaji"
+    ]
+  },
+  {
+    "name": "Brigitte Armbos",
+    "nameNative": "ブリギッテ・トータ・アンブロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201567-uzfmP5JQfUvY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-seto"
+    ]
+  },
+  {
+    "name": "Charlotte",
+    "nameNative": "シャルロッテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201565-MWVHqgUHVXvM.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaede-hondo"
+    ]
+  },
+  {
+    "name": "Cornelius",
+    "nameNative": "コルネリウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201320-zBeX8081dslz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "seiichirou-yamashita"
+    ]
+  },
+  {
+    "name": "Damuel Bernett",
+    "nameNative": "ダームエル・ゾーン・ベルネット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156109-BcAVwqbjRAKC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichirou-umehara"
+    ]
+  },
+  {
+    "name": "Dirk",
+    "nameNative": "ディルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157142-lzuEiHvR7Yrn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayano-shibuya"
+    ]
+  },
+  {
+    "name": "Eckhart",
+    "nameNative": "エックハルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201318-NX54o0mG4iF7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-kobayashi"
+    ]
+  },
+  {
+    "name": "Ella",
+    "nameNative": "エラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136632-jUmKm0FvHIcP.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Elvira",
+    "nameNative": "エルヴィーラ・トータ・グートハイル・フラオ・リンクベルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157149-mpICYPsgGrCY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Florencia",
+    "nameNative": "フロレンツィア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201321-VHeKnLXk6FKL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-takayama"
+    ]
+  },
+  {
+    "name": "Fran",
+    "nameNative": "フラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126546-g46n6KsfAbyc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-karino"
+    ]
+  },
+  {
+    "name": "Freida",
+    "nameNative": "フリーダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126541-2fSYjKk8u5Sa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-uchida"
+    ]
+  },
+  {
+    "name": "Georgine",
+    "nameNative": "ゲオルギーネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201312-R71n0NSimzwg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukari-tamura"
+    ]
+  },
+  {
+    "name": "Gil",
+    "nameNative": "ギル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126547-WlkTn6TsZwN6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-sanpei"
+    ]
+  },
+  {
+    "name": "Gustav",
+    "nameNative": "グスタフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126540-9Yffl5nb24N8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-naka"
+    ]
+  },
+  {
+    "name": "Hartmut",
+    "nameNative": "ハルトムート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201611-cn7o9jNj5jTI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuma-uchida"
+    ]
+  },
+  {
+    "name": "Hasse no Chouchou",
+    "nameNative": "ハッセの町長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201589-aqVmP4WMNLR9.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ingo",
+    "nameNative": "インゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156104-SQpZsU6fSbMY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shougo-nakamura"
+    ]
+  },
+  {
+    "name": "Johann",
+    "nameNative": "ヨハン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136633-qJCgfeKta59i.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-takahashi"
+    ]
+  },
+  {
+    "name": "Justus",
+    "nameNative": "ユストクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201588-Wh84s5EgIRzr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshihiko-seki"
+    ]
+  },
+  {
+    "name": "Karstedt",
+    "nameNative": "カルステッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156108-sggGouOOCFm4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Lamprecht",
+    "nameNative": "ランプレヒト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201319-hClb94DwxYZG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-shirai"
+    ]
+  },
+  {
+    "name": "Lessy",
+    "nameNative": "レッサー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201577-nkcWRT8Fq6Cd.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Lutz",
+    "nameNative": "ルッツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126529-5BDbPIz2JbPE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Philine",
+    "nameNative": "フィリーネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201609-3CA0apxeoVSw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Rihyarda",
+    "nameNative": "リヒャルダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201570-BqYcdHhSJi2f.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoko-miyazawa"
+    ]
+  },
+  {
+    "name": "Rosina",
+    "nameNative": "ロジーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136635-kFvJt3n4zgGd.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Sylvester",
+    "nameNative": "ジルヴェスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157135-nna1WhT4wuGg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Tuuli",
+    "nameNative": "トゥーリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126526-y4BdumWU3uDv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-nakajima"
+    ]
+  },
+  {
+    "name": "Veronica",
+    "nameNative": "ヴェローニカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b194299-4M4hxb4sGp4N.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-koyama"
+    ]
+  },
+  {
+    "name": "Wilfried",
+    "nameNative": "ヴィルフリート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201564-i0RIOOolj5RV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-terasaki"
+    ]
+  },
+  {
+    "name": "Wilma",
+    "nameNative": "ヴィルマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136634-utrgVQ2a3Jdj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyono-yasuno"
+    ]
+  },
+  {
+    "name": "Zack",
+    "nameNative": "ザック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b201576-BkUAf0SHe8P8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsumi-fukuhara"
+    ]
+  }
+]
