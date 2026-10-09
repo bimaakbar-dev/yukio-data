@@ -1,0 +1,424 @@
+[
+  {
+    "name": "Alphonse Elric",
+    "nameNative": "アルフォンス・エルリック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Edward Elric",
+    "nameNative": "エドワード・エルリック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg",
+    "role": "main",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Alex Louis Armstrong",
+    "nameNative": "アレックス・ルイ・アームストロング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2079-RnhPS44vyqpJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-utsumi"
+    ]
+  },
+  {
+    "name": "Barry the Chopper",
+    "nameNative": "バリー・ザ・チョッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5428-ZIjtbA5UxvSB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-umezu"
+    ]
+  },
+  {
+    "name": "Bradley-fujin",
+    "nameNative": "ブラッドレイ夫人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34689-llxKkRcalgKz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-satou"
+    ]
+  },
+  {
+    "name": "Buccaneer",
+    "nameNative": "バッカニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15541-nw6HKt4ioDsr.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Charlie",
+    "nameNative": "チャーリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n50123-2kInS5rwOuM7.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Darius",
+    "nameNative": "ダリウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15538-DDx2RPAiQ1dy.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Dolcetto",
+    "nameNative": "ドルチェット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n10964-sJjQA54ViKVI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "anri-katsu"
+    ]
+  },
+  {
+    "name": "Dominic LeCoulte",
+    "nameNative": "ドミニク・レコルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10976-acibFFXpDrPj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouzou-iizuka"
+    ]
+  },
+  {
+    "name": "Envy",
+    "nameNative": "エンヴィー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b651-S4mzVOTMzej6.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Flask no Homunculus",
+    "nameNative": "フラスコの中の小人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n15542-7kL0vJ9U8bVR.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Foo",
+    "nameNative": "フー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23461-WxC1ACNKQC4Y.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Garfiel",
+    "nameNative": "ガーフィール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35144-UjyMf6g71t5c.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Gluttony",
+    "nameNative": "グラトニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5411.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-shiratori"
+    ]
+  },
+  {
+    "name": "Greed",
+    "nameNative": "グリード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351-XMQzTuMy2Xtn.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Heinkel",
+    "nameNative": "ハインケル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15536.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Heymans Breda",
+    "nameNative": "ハイマンス・ブレダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16648-fJ18o1PPtBYk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "biichi-sato"
+    ]
+  },
+  {
+    "name": "Isaac McDougal",
+    "nameNative": "アイザック・マクドゥーガル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n21005-n7FOAprc4nNz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Izumi Curtis",
+    "nameNative": "イズミ・カーティス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67-ggB3aC6DzQqB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-tsuda"
+    ]
+  },
+  {
+    "name": "Jean Havoc",
+    "nameNative": "ジャン・ハボック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n4685-9uloq4hxlcTw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Jerso",
+    "nameNative": "ジェルソ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n15533-i6rF5wCx5Uyg.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "King Bradley",
+    "nameNative": "キング・ブラッドレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5103-jnflrjKevO3z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidekatsu-shibata"
+    ]
+  },
+  {
+    "name": "Knox",
+    "nameNative": "ノックス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b27028-pv8abhTjBcVj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kinryuu-arimoto"
+    ]
+  },
+  {
+    "name": "Lan Fan",
+    "nameNative": "ランファン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3292-aK72k3syf1qP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "Ling Yao",
+    "nameNative": "リン・ヤオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3293-2GiFTmLQnBw8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Lust",
+    "nameNative": "ラスト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b650-viEy6bOIcGiU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Maes Hughes",
+    "nameNative": "マース･ヒューズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69-MRetSG8Qevvu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Marcoh Tim",
+    "nameNative": "ティム・マルコー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n10956-kIbRRBTTFUN1.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Maria Ross",
+    "nameNative": "マリア・ロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9319.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nazuka"
+    ]
+  },
+  {
+    "name": "May Chang",
+    "nameNative": "メイ・チャン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15532.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-gotou"
+    ]
+  },
+  {
+    "name": "Miles",
+    "nameNative": "マイルズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15540.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-nakai"
+    ]
+  },
+  {
+    "name": "Nina Tucker",
+    "nameNative": "ニーナ・タッカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4159-g0Q6tQ9SCq6R.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Number 48",
+    "nameNative": "ナンバー48",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10962-U4tJQGUmbHZp.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Olivier Mira Armstrong",
+    "nameNative": "オリヴィエ・ミラ・アームストロング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3934-MKTV6tQeP8T3.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Paninya",
+    "nameNative": "パニーニャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10974.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akemi-okamura"
+    ]
+  },
+  {
+    "name": "Pinako Rockbell",
+    "nameNative": "ピナコ・ロックベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65-Yw7j20Y9uewh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyoko-asou"
+    ]
+  },
+  {
+    "name": "Rebecca Catalina",
+    "nameNative": "レベッカ・カタリナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17103.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Riza Hawkeye",
+    "nameNative": "リザ・ホークアイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Roy Mustang",
+    "nameNative": "ロイ・マスタング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Scar",
+    "nameNative": "スカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b66-bLbGWXrmDqfV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Selim Bradley",
+    "nameNative": "セリム・ブラッドレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10982.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-sanpei"
+    ]
+  },
+  {
+    "name": "Shao May",
+    "nameNative": "シャオメイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23338.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Sheska",
+    "nameNative": "シェスカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n8452-AgUmfwiJVcSD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chika-fujimura"
+    ]
+  },
+  {
+    "name": "Shou Tucker",
+    "nameNative": "ショウ・タッカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3696-FXnbdWQXziOr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-nagai"
+    ]
+  },
+  {
+    "name": "Sig Curtis",
+    "nameNative": "シグ・カーティス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n10972-NNiWRRcdfOTO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seiji-sasaki"
+    ]
+  },
+  {
+    "name": "Sloth",
+    "nameNative": "スロウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15543-InwPEKIOdTvX.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Solf Kimblee",
+    "nameNative": "ゾルフ・J・キンブリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6590-HIiNVX4XVFom.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Van Hohenheim",
+    "nameNative": "ヴァン・ホーエンハイム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9792-YA8kiO4NjmGL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Winry Rockbell",
+    "nameNative": "ウィンリィ・ロックベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-takamoto"
+    ]
+  }
+]
