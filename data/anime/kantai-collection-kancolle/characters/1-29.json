@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Akagi",
+    "nameNative": "赤城",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174622-kIRgN5bZXGgA.png",
+    "role": "main",
+    "voiceActors": [
+      "saki-fujita"
+    ]
+  },
+  {
+    "name": "Fubuki",
+    "nameNative": "吹雪 駆逐艦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88816-S2Lb0Xe8hgsg.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Kaga",
+    "nameNative": "加賀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134668-FoGu1solPTFW.png",
+    "role": "main",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Kongou",
+    "nameNative": "戦艦 金剛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88673-NakLQbeNGBqN.jpg",
+    "role": "main",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Mutsuki",
+    "nameNative": "睦月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88828-HCw4yPrCEQKu.png",
+    "role": "main",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  },
+  {
+    "name": "Nagato",
+    "nameNative": "長門",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174620-8U488f8XRuGN.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Yuudachi",
+    "nameNative": "夕立",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88829-IeFQX48RqfDw.png",
+    "role": "main",
+    "voiceActors": [
+      "yumi-tanibe"
+    ]
+  },
+  {
+    "name": "Akatsuki",
+    "nameNative": "暁",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174729-9kdCc3687lQN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-suzaki"
+    ]
+  },
+  {
+    "name": "Atago",
+    "nameNative": "愛宕",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88676-bGmU6B066CCf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Haruna",
+    "nameNative": "榛名",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88674-NAydHAEPrVNN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Hibiki",
+    "nameNative": "響",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/126324-WaKhwY1mySlb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-suzaki"
+    ]
+  },
+  {
+    "name": "Hiei",
+    "nameNative": "超弩級戦艦 比叡",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/88677-ZbPWepsGxjP2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Ikazuchi",
+    "nameNative": "雷",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235735-ZVXbsMWvvE1Z.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-suzaki"
+    ]
+  },
+  {
+    "name": "Inazuma",
+    "nameNative": "電",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235733-dmCOZ17aSkvH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-suzaki"
+    ]
+  },
+  {
+    "name": "Jintsuu",
+    "nameNative": "神通",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235734-n9SSRNuKfmaD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Kirishima",
+    "nameNative": "霧島",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88678-DOjhIvRiMuSb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Kisaragi",
+    "nameNative": "如月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235732-8b6q2XdhdtAU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  },
+  {
+    "name": "Kitakami",
+    "nameNative": "北上",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235739-sMfYnaEbGjUw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-ootsubo"
+    ]
+  },
+  {
+    "name": "Mutsu",
+    "nameNative": "陸奥",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212208-D32cfToZLzb8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Naka",
+    "nameNative": "那珂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172233-R9FRk33SYWmF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Ooi",
+    "nameNative": "大井",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235737-yWKp19b9JyH6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-ootsubo"
+    ]
+  },
+  {
+    "name": "Ooyodo",
+    "nameNative": "大淀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235738-LBdEvTi6bzJU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Sendai",
+    "nameNative": "川内",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235736-KoJUxRhtAy3e.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Shimakaze",
+    "nameNative": "島風",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88113-1UOawy5cBEGu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Shoukaku",
+    "nameNative": "翔鶴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235731-Hx9tNqGqsijF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "iori-nomizu"
+    ]
+  },
+  {
+    "name": "Takao",
+    "nameNative": "高雄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196078-QLJArlwHZXOk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Tone",
+    "nameNative": "利根",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/125787-OkKllnrJWnMm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Yamato",
+    "nameNative": "大和",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154018-wm6HO9jDdkdm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayana-taketatsu"
+    ]
+  },
+  {
+    "name": "Zuikaku",
+    "nameNative": "瑞鶴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174621-fFlNqAzPLXAB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "iori-nomizu"
+    ]
+  }
+]
