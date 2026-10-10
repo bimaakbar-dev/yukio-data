@@ -1,0 +1,427 @@
+[
+  {
+    "name": "Blues.EXE",
+    "nameNative": "ブルース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7199.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masaya-matsukaze"
+    ]
+  },
+  {
+    "name": "Enzan Ijuuin",
+    "nameNative": "伊集院炎山",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3554.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Iceman.exe",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25565.jpg",
+    "role": "main",
+    "voiceActors": [
+      "junko-noda"
+    ]
+  },
+  {
+    "name": "Mariko Ozono",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25567.jpg",
+    "role": "main",
+    "voiceActors": [
+      "noriko-hidaka"
+    ]
+  },
+  {
+    "name": "Meiru Sakurai",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/11052.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kaori-mizuhashi"
+    ]
+  },
+  {
+    "name": "Miyuki Kuroi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25564.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kumiko-yokote"
+    ]
+  },
+  {
+    "name": "Netto Hikari",
+    "nameNative": "光熱斗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3553-LG5qHvrZKnAC.png",
+    "role": "main",
+    "voiceActors": [
+      "kumiko-higa"
+    ]
+  },
+  {
+    "name": "Rockman.EXE",
+    "nameNative": "ロックマン・エグゼ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7198-FOobFQguPn8t.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akiko-kimura"
+    ]
+  },
+  {
+    "name": "Roll.EXE",
+    "nameNative": "ロール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21940.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masako-jou"
+    ]
+  },
+  {
+    "name": "Saloma",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25566.jpg",
+    "role": "main",
+    "voiceActors": [
+      "omi-minami"
+    ]
+  },
+  {
+    "name": "Aki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26093.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sakura-nogawa"
+    ]
+  },
+  {
+    "name": "Albert Wily",
+    "nameNative": "Dr.ワイリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15986-0PywOcVgtTUr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsumi-chou"
+    ]
+  },
+  {
+    "name": "Aquaman.EXE",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26097.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chiemi-chiba"
+    ]
+  },
+  {
+    "name": "Chisao Ooyama",
+    "nameNative": "大山チサオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b26095-czGnqsn7Uq1C.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-ishimura"
+    ]
+  },
+  {
+    "name": "Daisuke Hayami",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25568.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shoutarou-morikubo"
+    ]
+  },
+  {
+    "name": "Dekao Ooyama",
+    "nameNative": "大山デカオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25718-R3VGEOELBGps.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-numata"
+    ]
+  },
+  {
+    "name": "Dingo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26104.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-yamaguchi"
+    ]
+  },
+  {
+    "name": "Forte",
+    "nameNative": "フォルテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9072.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-nemoto"
+    ]
+  },
+  {
+    "name": "Glide.EXE",
+    "nameNative": "グライド.ＥＸＥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25723-Mid0KJmCcmRo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiko-kawazu"
+    ]
+  },
+  {
+    "name": "Gutsman.EXE",
+    "nameNative": "ガッツマン.ＥＸＥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25719-jaN7VgLMxbsV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimitsu-shimoyama"
+    ]
+  },
+  {
+    "name": "Haruka Hikari",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26082.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-jou"
+    ]
+  },
+  {
+    "name": "Heatman.EXE",
+    "nameNative": "ヒートマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61215.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "issei-futamata"
+    ]
+  },
+  {
+    "name": "Higure Yamitarou",
+    "nameNative": "日暮闇太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25725.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Kenichi Hino",
+    "nameNative": "火野ケンイチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b37294-63LcliSDyxDX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Kero Midorikawa",
+    "nameNative": "緑川ケロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25563.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-nakagawa"
+    ]
+  },
+  {
+    "name": "Kingman.EXE",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26090.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keikou-sakai"
+    ]
+  },
+  {
+    "name": "Knightman.EXE",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26088.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jin-horikawa"
+    ]
+  },
+  {
+    "name": "Laika",
+    "nameNative": "ライカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26098.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-yuuki"
+    ]
+  },
+  {
+    "name": "Madoi Iroaya",
+    "nameNative": "色綾まどい",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13539-dokna1dt1dMo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-noda"
+    ]
+  },
+  {
+    "name": "MagicMan.EXE",
+    "nameNative": "マジックマン.ＥＸＥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13538-aG3nRZ6xNWuw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  },
+  {
+    "name": "Mameo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26102.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "motoko-kumai"
+    ]
+  },
+  {
+    "name": "Masa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25728.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jin-horikawa"
+    ]
+  },
+  {
+    "name": "Medi.EXE",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26106.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-kakazu"
+    ]
+  },
+  {
+    "name": "Meijin Eguchi",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26083.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Numberman.EXE",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25726.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Princess Pride",
+    "nameNative": "プリンセス・プライド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16372-3EMBhyhLSFke.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-kawakami"
+    ]
+  },
+  {
+    "name": "Quickman.EXE",
+    "nameNative": "クイックマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b26087-w9i7sNyhuKAS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaru-motegi"
+    ]
+  },
+  {
+    "name": "Raoul",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26084.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Romeda Andou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26135.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mikako-takahashi"
+    ]
+  },
+  {
+    "name": "Rush.EXE",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26094.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-kimura"
+    ]
+  },
+  {
+    "name": "Searchman.EXE",
+    "nameNative": "サーチマン.ＥＸＥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b26099-V9N11dKHsKaU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Sharkman.EXE",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/25729.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takuma-suzuki"
+    ]
+  },
+  {
+    "name": "Shun Obihiro",
+    "nameNative": "帯広 シュン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26136.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-minagawa"
+    ]
+  },
+  {
+    "name": "Skullman.EXE",
+    "nameNative": "スカルマン.ＥＸＥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25720-yc6iF0hGFeyP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "riichi-nishimoto"
+    ]
+  },
+  {
+    "name": "Tamako Shiraizuki",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26096.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takako-honda"
+    ]
+  },
+  {
+    "name": "Thunderman.EXE",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26085.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-nakamura"
+    ]
+  },
+  {
+    "name": "Toadman.EXE",
+    "nameNative": "トードマン.ＥＸＥ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b26086-pLIeBeEy9oa7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-nakagawa"
+    ]
+  },
+  {
+    "name": "Tomahawkman.EXE",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26105.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-sakaguchi"
+    ]
+  },
+  {
+    "name": "Tooru Hikawa",
+    "nameNative": "氷川透",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22117-KvZVBLbY7MdR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kumiko-watanabe"
+    ]
+  },
+  {
+    "name": "Torakichi Aragoma",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26089.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-onosaka"
+    ]
+  }
+]
