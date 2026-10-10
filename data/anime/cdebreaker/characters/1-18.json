@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Rei Oogami",
+    "nameNative": "大神零",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14451-p0TYGTyu0wfy.png",
+    "role": "main",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Sakura Sakurakouji",
+    "nameNative": "桜小路桜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/14452.jpg",
+    "role": "main",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Aoba Takatsu",
+    "nameNative": "高津あおば",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37481.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-sendai"
+    ]
+  },
+  {
+    "name": "Fujiwara",
+    "nameNative": "藤原総理",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37483-yrMlY1bwhEnd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Goutoku Sakurakouji",
+    "nameNative": "桜小路剛徳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n17024-l4CU4m1F0arO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-tsujitani"
+    ]
+  },
+  {
+    "name": "Hajime Uesugi",
+    "nameNative": "上杉萌",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37295.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taketoshi-kawano"
+    ]
+  },
+  {
+    "name": "Hitomi",
+    "nameNative": "人見",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18210.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Masaomi Heike",
+    "nameNative": "平家将臣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17021-0zREGfNIWRkz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "subaru-kimura"
+    ]
+  },
+  {
+    "name": "Miyuki Kanda",
+    "nameNative": "神田美幸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b37482-iRrEK0RPUzGU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Nenene Fujiwara",
+    "nameNative": "藤原寧々音",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18607.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Nyanmaru",
+    "nameNative": "にゃんまる",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/84805.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kanae-itou"
+    ]
+  },
+  {
+    "name": "Puppy",
+    "nameNative": "子犬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/85407.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-gibu"
+    ]
+  },
+  {
+    "name": "Rui Hachiouji",
+    "nameNative": "八王子泪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b27197-qWUSBioCqF9T.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuki-saiga"
+    ]
+  },
+  {
+    "name": "Sagashimono",
+    "nameNative": "捜シ者",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34766.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Toki Fujiwara",
+    "nameNative": "藤原刻",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n15582-FTjOiydCwyUE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-suzumura"
+    ]
+  },
+  {
+    "name": "Yuki Sakurakouji",
+    "nameNative": "桜小路ゆき",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n17023-p8BWvAoWw9dX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kyouko-hikami"
+    ]
+  },
+  {
+    "name": "Yukihina",
+    "nameNative": "雪比奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34784-LXsOfOG1ln56.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Yuuki Tenpouin",
+    "nameNative": "天宝院遊騎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21228-XNSbz0t9Sgj5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-toyonaga"
+    ]
+  }
+]
