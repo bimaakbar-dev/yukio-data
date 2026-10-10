@@ -14,7 +14,6 @@ season: winter
 year: 2020
 episodes: 13
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "2020-01-11"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 8.3
-  # scoredBy: # edit manual
 
 genres:
   - comedy
@@ -35,6 +33,9 @@ studios:
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106625-wab2Mx4NQqPQ.jpg"
 trailer: "IZ8iIHpe4Lg"
+
+addedAt: "2026-10-10T07:27:09.864Z"
+updatedAt: "2026-10-10T07:27:09.864Z"
 
 draft: false
 ---
