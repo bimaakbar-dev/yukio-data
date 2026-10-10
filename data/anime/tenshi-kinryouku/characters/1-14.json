@@ -1,0 +1,129 @@
+[
+  {
+    "name": "Kurai",
+    "nameNative": "九雷",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3453-x04m8iBjhjeX.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuko-miyamura"
+    ]
+  },
+  {
+    "name": "Sara Mudou",
+    "nameNative": "無道紗羅",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2806-wiJfnJmws5jw.png",
+    "role": "main",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Setsuna Mudou",
+    "nameNative": "無道刹那",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2805-FlvtQpGmnAmr.png",
+    "role": "main",
+    "voiceActors": [
+      "kenji-nojima"
+    ]
+  },
+  {
+    "name": "Adam Kadmon",
+    "nameNative": "アダム・カダモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46611-BckVGpBCvXsa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "Alexiel",
+    "nameNative": "アレクシエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2807-kpx5mNBKHnry.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-orikasa"
+    ]
+  },
+  {
+    "name": "Arachne",
+    "nameNative": "紫羅九音",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3454-BwYParOIekoM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-asano"
+    ]
+  },
+  {
+    "name": "Belial",
+    "nameNative": "ベリアル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3455-rDwlO1mzUjno.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-soumi"
+    ]
+  },
+  {
+    "name": "Katan",
+    "nameNative": "カタン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2811-4tBz0JL2VQqj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Metatron",
+    "nameNative": "メタトロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4550-LlaTxLQDvUZT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuri-shiratori"
+    ]
+  },
+  {
+    "name": "Rosiel",
+    "nameNative": "ロシエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2810-zkEab3d1TgXW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "susumu-chiba"
+    ]
+  },
+  {
+    "name": "Ruri Saiki",
+    "nameNative": "斉木翠雀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4549-BvU8crwVfBxy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-nagashima"
+    ]
+  },
+  {
+    "name": "Sakuya Kira",
+    "nameNative": "吉良朔夜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2808-z7NkkVH7PP9U.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu",
+      "fujiko-takimoto"
+    ]
+  },
+  {
+    "name": "Sevothtarte",
+    "nameNative": "セヴォフタルタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3452-O4zPzQn2sK5Z.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaneto-shiozawa"
+    ]
+  },
+  {
+    "name": "Yue Katou",
+    "nameNative": "加藤故",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4548-aSGjkJoNww2k.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  }
+]
