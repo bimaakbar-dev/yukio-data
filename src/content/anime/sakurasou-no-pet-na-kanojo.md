@@ -14,7 +14,6 @@ season: fall
 year: 2012
 episodes: 24
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "2012-10-09"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 7.8
-  # scoredBy: # edit manual
 
 genres:
   - comedy
