@@ -1,4 +1,4 @@
-name: Detect Duplicate Slugs
+name: Detect Duplicate Slugs v2
 
 on:
   workflow_dispatch:
@@ -10,16 +10,12 @@ jobs:
   detect:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v7
+      - uses: actions/checkout@v7
 
       - name: Run detector
         run: |
-          node --version
-          node detect-duplicate-slugs.mjs
-          echo "=== file.txt ==="
+          node detect-duplicate-slugs2.mjs
           wc -l file.txt
 
       - name: Push to dump branch
@@ -35,10 +31,7 @@ jobs:
           if git fetch origin dump 2>/dev/null; then git checkout -B dump FETCH_HEAD; fi
           cp "${GITHUB_WORKSPACE}/file.txt" ./file.txt
           git add file.txt
-          if git diff --cached --quiet; then
-            echo "ℹ️ No changes"
-            exit 0
-          fi
-          git commit -m "chore: duplicate slug report [skip ci]"
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "chore: dup slug v2 report [skip ci]"
           git push origin dump
           echo "🔗 https://github.com/${REPO}/blob/dump/file.txt" >> "$GITHUB_STEP_SUMMARY"
