@@ -1,0 +1,294 @@
+[
+  {
+    "name": "Dean Winchester",
+    "nameNative": "ディーン・ウィンチェスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34100.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiroki-touchi",
+      "atsushi-abe"
+    ]
+  },
+  {
+    "name": "Sam Winchester",
+    "nameNative": "サム・ウィンチェスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/34101.jpg",
+    "role": "main",
+    "voiceActors": [
+      "makoto-tsumura",
+      "yuuya-uchida"
+    ]
+  },
+  {
+    "name": "Amanda Evans",
+    "nameNative": "アマンダ・エバンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224119-nttXJqruicZG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rumiko-ukai"
+    ]
+  },
+  {
+    "name": "Andrew Gallagher",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40618.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gackt"
+    ]
+  },
+  {
+    "name": "Azazel",
+    "nameNative": "アザゼル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/47181.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoya-uchida"
+    ]
+  },
+  {
+    "name": "Bobby Singer",
+    "nameNative": "ボビー・シンガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b47177-pntTxS5CGjwj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-taniguchi"
+    ]
+  },
+  {
+    "name": "Charlie",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232604-cYfSKNTi80CO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masakazu-morita"
+    ]
+  },
+  {
+    "name": "David",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232588-NlgBzNzdBVNJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-nakahara"
+    ]
+  },
+  {
+    "name": "Evelyn",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232603-zzRafBkiQmdm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-horanai"
+    ]
+  },
+  {
+    "name": "Gayle",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232590-y9t9TfS4JF6J.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomomichi-nishimura"
+    ]
+  },
+  {
+    "name": "Inspector Sanchez",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b235247-fOmN3yoGWWXP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Jake Talley",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43284.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Jason",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232599-wBOFHIWBHUDz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kinryuu-arimoto"
+    ]
+  },
+  {
+    "name": "Jenny",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232594-Kp3fwtpdvCcb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "emi-shinohara"
+    ]
+  },
+  {
+    "name": "Jessica Moore",
+    "nameNative": "ジェシカ・ムーア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224117-nPpES13ueAMP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mie-sonozaki"
+    ]
+  },
+  {
+    "name": "John Winchester",
+    "nameNative": "ジョン・ウィンチェスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/47179.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-hashi"
+    ]
+  },
+  {
+    "name": "Jonah Greeley",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232582-C4Y4qVD1Wd8P.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuaki-kanemitsu"
+    ]
+  },
+  {
+    "name": "Katherine Boyle",
+    "nameNative": "キャサリン・ボイル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224121-hEZLKezrfJPX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "michiko-neya"
+    ]
+  },
+  {
+    "name": "Maria Masters",
+    "nameNative": "マリア・マスターズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224124-8iMQ7kw19TZg.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-tsuda"
+    ]
+  },
+  {
+    "name": "Marion Greeley",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232585-JenuY6guDHO2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kahoko-taki"
+    ]
+  },
+  {
+    "name": "Mary Winchester",
+    "nameNative": "メアリー・ウィンチェスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224122-zachQSllXWVq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mabuki-andou"
+    ]
+  },
+  {
+    "name": "Max Miler",
+    "nameNative": "マックス・ミラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42507.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Meg Masters",
+    "nameNative": "メグ・マスターズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40956.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "Michael McGregor",
+    "nameNative": "マイケル副署長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224125-7i3CQoURFYKA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norihiro-inoue"
+    ]
+  },
+  {
+    "name": "Miranda",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232601-O0t7Z0t56bpB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoko-nagaki"
+    ]
+  },
+  {
+    "name": "Missouri Mosely",
+    "nameNative": "ミズーリ・モズリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224116-0G1agMfSfkzj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "seiko-tamura"
+    ]
+  },
+  {
+    "name": "Molly",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232602-XXuA3rCh6EXa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kyouko-hikami"
+    ]
+  },
+  {
+    "name": "Richard Sullivan",
+    "nameNative": "リチャード・サリバン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224123-OoBZF6xTcNmr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsunosuke-hori"
+    ]
+  },
+  {
+    "name": "Risa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232589-DdYrsIWHkjKt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Ritchie",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232605-cUqo8gEtRuWv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miho-miyagawa"
+    ]
+  },
+  {
+    "name": "Rod McGregor",
+    "nameNative": "ロッド署長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224120-2E80BCejRr2l.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-aizawa"
+    ]
+  },
+  {
+    "name": "Ryan",
+    "nameNative": "ライアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40833-RQd0JcndR9bF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Sarry",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232586-DbnnMv24Xlpp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-horanai"
+    ]
+  },
+  {
+    "name": "Zach Evans",
+    "nameNative": "ザック・エバンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224118-tz1lOEe2Xzr7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kunihiko-yasui"
+    ]
+  }
+]
