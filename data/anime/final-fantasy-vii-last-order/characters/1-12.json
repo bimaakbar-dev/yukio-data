@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Cloud Strife",
+    "nameNative": "クラウド・ストライフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b456-aqvvhzG5aUXV.png",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Sephiroth",
+    "nameNative": "セフィロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1816-dUWCJJq7bKL7.png",
+    "role": "main",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Zack Fair",
+    "nameNative": "ザック・フェア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4319-B87gfpXecBTc.png",
+    "role": "main",
+    "voiceActors": [
+      "kenichi-suzumura"
+    ]
+  },
+  {
+    "name": "Hojo",
+    "nameNative": "宝条",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9468.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nachi-nozawa"
+    ]
+  },
+  {
+    "name": "Jenova",
+    "nameNative": "ジェノバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10707.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Old Man",
+    "nameNative": "老人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Reno",
+    "nameNative": "レノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2860-AvuGBukL38Bq.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Rude",
+    "nameNative": "ルード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2931.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taiten-kusunoki"
+    ]
+  },
+  {
+    "name": "Tifa Lockhart",
+    "nameNative": "ティファ・ロックハート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b758-3QZhbFVMajHC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumi-itou"
+    ]
+  },
+  {
+    "name": "Tseng",
+    "nameNative": "ツォン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4459.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Villager",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youhei-tadano"
+    ]
+  },
+  {
+    "name": "Zangan",
+    "nameNative": "ザンガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-fujioka"
+    ]
+  }
+]
