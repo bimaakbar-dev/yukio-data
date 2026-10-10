@@ -1,366 +1,1554 @@
-# Laporan Slug Duplikat
-# Generated: 2026-10-10T10:41:36.076Z
+# Duplikat by External ID
 # Total MD: 4948
+# Duplikat malId: 3 grup
+# Duplikat kitsuId: 245 grup
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1. DUPLIKAT EXACT (normalized) — 0 grup
+1. DUPLIKAT by malId — 3 grup
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-(tidak ada)
+malId=24151:
+  ao-haru-ride-page13
+      title: "Ao Haru Ride PAGE.13"
+  ao-haru-ride-unwritten
+      title: "Ao Haru Ride: unwritten"
+
+malId=38431:
+  persona5-the-animation-dark-sun
+      title: "PERSONA5 the Animation: Dark Sun..."
+  persona5-the-animation-stars-and-ours
+      title: "PERSONA5 the Animation: Stars and Ours"
+
+malId=61469:
+  jojo-no-kimyou-na-bouken-steel-ball-run-1st-stage
+      title: "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE"
+  jojo-no-kimyou-na-bouken-steel-ball-run-2nd-3rd-stage
+      title: "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE"
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2. SLUG MIRIP (fuzzy ≥ 90%) — 352 pasangan
+2. DUPLIKAT by kitsuId — 245 grup
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-98.3%  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii  ↔  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii
-98.3%  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii  ↔  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-vi
-98.0%  mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2  ↔  mushoku-tensei-iii-isekai-ittara-honki-dasu-part-2
-97.7%  mushoku-tensei-ii-isekai-ittara-honki-dasu  ↔  mushoku-tensei-iii-isekai-ittara-honki-dasu
-97.6%  honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-2nd-season  ↔  honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-3rd-season
-97.6%  princess-principal-crown-handler-chapter-1  ↔  princess-principal-crown-handler-chapter-2
-97.6%  princess-principal-crown-handler-chapter-1  ↔  princess-principal-crown-handler-chapter-3
-97.6%  princess-principal-crown-handler-chapter-2  ↔  princess-principal-crown-handler-chapter-3
-97.4%  kono-subarashii-sekai-ni-shukufuku-wo-2  ↔  kono-subarashii-sekai-ni-shukufuku-wo-3
-97.4%  kono-subarashii-sekai-ni-shukufuku-wo-2  ↔  kono-subarashii-sekai-ni-shukufuku-wo-4
-97.4%  kono-subarashii-sekai-ni-shukufuku-wo-3  ↔  kono-subarashii-sekai-ni-shukufuku-wo-4
-97.4%  otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta  ↔  otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x
-97.3%  kimetsu-no-yaiba-mugenjou-hen-movie-2  ↔  kimetsu-no-yaiba-mugenjou-hen-movie-3
-97.2%  tate-no-yuusha-no-nariagari-season-2  ↔  tate-no-yuusha-no-nariagari-season-3
-97.2%  tate-no-yuusha-no-nariagari-season-2  ↔  tate-no-yuusha-no-nariagari-season-4
-97.2%  tate-no-yuusha-no-nariagari-season-2  ↔  tate-no-yuusha-no-nariagari-season-5
-97.2%  tate-no-yuusha-no-nariagari-season-3  ↔  tate-no-yuusha-no-nariagari-season-4
-97.2%  tate-no-yuusha-no-nariagari-season-3  ↔  tate-no-yuusha-no-nariagari-season-5
-97.2%  tate-no-yuusha-no-nariagari-season-4  ↔  tate-no-yuusha-no-nariagari-season-5
-97.2%  tsue-to-tsurugi-no-wistoria-season-2  ↔  tsue-to-tsurugi-no-wistoria-season-3
-97.2%  kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo-2nd-season  ↔  kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo-3rd-season
-97.2%  maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou  ↔  maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii
-97.1%  itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu  ↔  itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-2
-97.0%  jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season  ↔  jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season
-96.9%  uma-musume-pretty-derby-season-2  ↔  uma-musume-pretty-derby-season-3
-96.9%  uta-noprince-sama-maji-love-1000  ↔  uta-noprince-sama-maji-love-2000
-96.8%  gintama-jump-festa-2005-special  ↔  gintama-jump-festa-2008-special
-96.8%  gintama-jump-festa-2005-special  ↔  gintama-jump-festa-2015-special
-96.8%  xian-wang-de-richang-shenghuo-2  ↔  xian-wang-de-richang-shenghuo-3
-96.8%  xian-wang-de-richang-shenghuo-2  ↔  xian-wang-de-richang-shenghuo-4
-96.8%  xian-wang-de-richang-shenghuo-2  ↔  xian-wang-de-richang-shenghuo-5
-96.8%  xian-wang-de-richang-shenghuo-3  ↔  xian-wang-de-richang-shenghuo-4
-96.8%  xian-wang-de-richang-shenghuo-3  ↔  xian-wang-de-richang-shenghuo-5
-96.8%  xian-wang-de-richang-shenghuo-4  ↔  xian-wang-de-richang-shenghuo-5
-96.8%  yamada-kun-to-7-nin-no-majo-ona  ↔  yamada-kun-to-7-nin-no-majo-ova
-96.7%  ani-ni-tsukeru-kusuri-wa-nai-2  ↔  ani-ni-tsukeru-kusuri-wa-nai-3
-96.7%  ani-ni-tsukeru-kusuri-wa-nai-2  ↔  ani-ni-tsukeru-kusuri-wa-nai-4
-96.7%  ani-ni-tsukeru-kusuri-wa-nai-3  ↔  ani-ni-tsukeru-kusuri-wa-nai-4
-96.7%  dr-stone-science-future-part-2  ↔  dr-stone-science-future-part-3
-96.7%  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii  ↔  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-vi
-96.7%  girls-und-panzer-saishuushou-1  ↔  girls-und-panzer-saishuushou-2
-96.7%  girls-und-panzer-saishuushou-1  ↔  girls-und-panzer-saishuushou-3
-96.7%  girls-und-panzer-saishuushou-1  ↔  girls-und-panzer-saishuushou-4
-96.7%  girls-und-panzer-saishuushou-2  ↔  girls-und-panzer-saishuushou-3
-96.7%  girls-und-panzer-saishuushou-2  ↔  girls-und-panzer-saishuushou-4
-96.7%  girls-und-panzer-saishuushou-3  ↔  girls-und-panzer-saishuushou-4
-96.7%  kanojo-okarishimasu-4th-season  ↔  kanojo-okarishimasu-5th-season
-96.6%  bishoujo-senshi-sailor-moon-r  ↔  bishoujo-senshi-sailor-moon-s
-96.6%  goku-sayonara-zetsubou-sensei  ↔  zoku-sayonara-zetsubou-sensei
-96.6%  karakai-jouzu-no-takagi-san-2  ↔  karakai-jouzu-no-takagi-san-3
-96.6%  youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season  ↔  youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season
-96.4%  beastars-final-season-part-1  ↔  beastars-final-season-part-2
-96.4%  bungou-stray-dogs-4th-season  ↔  bungou-stray-dogs-5th-season
-96.3%  aggressive-retsuko-season-2  ↔  aggressive-retsuko-season-3
-96.3%  aggressive-retsuko-season-2  ↔  aggressive-retsuko-season-4
-96.3%  aggressive-retsuko-season-2  ↔  aggressive-retsuko-season-5
-96.3%  aggressive-retsuko-season-3  ↔  aggressive-retsuko-season-4
-96.3%  aggressive-retsuko-season-3  ↔  aggressive-retsuko-season-5
-96.3%  aggressive-retsuko-season-4  ↔  aggressive-retsuko-season-5
-96.3%  fumetsu-no-anata-e-season-2  ↔  fumetsu-no-anata-e-season-3
-96.3%  overlord-ple-ple-pleiades-2  ↔  overlord-ple-ple-pleiades-3
-96.3%  senki-zesshou-symphogear-g  ↔  senki-zesshou-symphogear-gx
-96.3%  shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita  ↔  shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd
-96.3%  shingeki-no-kyojin-season-2  ↔  shingeki-no-kyojin-season-3
-96.2%  kuroko-no-basket-2-ng-shuu  ↔  kuroko-no-basket-3-ng-shuu
-96.2%  toaru-majutsu-no-index-ii  ↔  toaru-majutsu-no-index-iii
-96.1%  love-live-nijigasaki-gakuen-school-idol-doukoukai  ↔  love-live-nijigasaki-gakuen-school-idol-doukoukai-2
-96.0%  shuumatsu-no-valkyrie-ii  ↔  shuumatsu-no-valkyrie-iii
-96.0%  tensei-kizoku-kantei-skill-de-nariagaru-2nd-season  ↔  tensei-kizoku-kantei-skill-de-nariagaru-3rd-season
-96.0%  toaru-kagaku-no-railgun-s  ↔  toaru-kagaku-no-railgun-t
-95.8%  iya-na-kao-sare-nagara-opantsu-misete-moraitai  ↔  iya-na-kao-sare-nagara-opantsu-misete-moraitai-2
-95.8%  mairimashita-iruma-kun-2  ↔  mairimashita-iruma-kun-3
-95.8%  mairimashita-iruma-kun-2  ↔  mairimashita-iruma-kun-4
-95.8%  mairimashita-iruma-kun-3  ↔  mairimashita-iruma-kun-4
-95.7%  arifureta-shokugyou-de-sekai-saikyou-2nd-season  ↔  arifureta-shokugyou-de-sekai-saikyou-3rd-season
-95.7%  rezero-kara-hajimeru-isekai-seikatsu-2nd-season  ↔  rezero-kara-hajimeru-isekai-seikatsu-3rd-season
-95.7%  toaru-kagaku-no-railgun-motto-marutto-railgun  ↔  toaru-kagaku-no-railgun-s-motto-marutto-railgun
-95.7%  boku-no-hero-academia-2  ↔  boku-no-hero-academia-3
-95.7%  boku-no-hero-academia-2  ↔  boku-no-hero-academia-4
-95.7%  boku-no-hero-academia-2  ↔  boku-no-hero-academia-5
-95.7%  boku-no-hero-academia-2  ↔  boku-no-hero-academia-6
-95.7%  boku-no-hero-academia-2  ↔  boku-no-hero-academia-7
-95.7%  boku-no-hero-academia-3  ↔  boku-no-hero-academia-4
-95.7%  boku-no-hero-academia-3  ↔  boku-no-hero-academia-5
-95.7%  boku-no-hero-academia-3  ↔  boku-no-hero-academia-6
-95.7%  boku-no-hero-academia-3  ↔  boku-no-hero-academia-7
-95.7%  boku-no-hero-academia-4  ↔  boku-no-hero-academia-5
-95.7%  boku-no-hero-academia-4  ↔  boku-no-hero-academia-6
-95.7%  boku-no-hero-academia-4  ↔  boku-no-hero-academia-7
-95.7%  boku-no-hero-academia-5  ↔  boku-no-hero-academia-6
-95.7%  boku-no-hero-academia-5  ↔  boku-no-hero-academia-7
-95.7%  boku-no-hero-academia-6  ↔  boku-no-hero-academia-7
-95.6%  fatekaleid-liner-prismaillya-2wei-short-anime  ↔  fatekaleid-liner-prismaillya-3rei-short-anime
-95.6%  muhyo-to-rouji-no-mahouritsu-soudan-jimusho  ↔  muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2
-95.6%  otomege-sekai-wa-mob-ni-kibishii-sekai-desu  ↔  otomege-sekai-wa-mob-ni-kibishii-sekai-desu-2
-95.5%  tsuki-ga-michibiku-isekai-douchuu-2nd-season  ↔  tsuki-ga-michibiku-isekai-douchuu-3rd-season
-95.2%  haiyore-nyaruko-san-f  ↔  haiyore-nyaruko-san-w
-95.2%  kidou-senshi-v-gundam  ↔  kidou-senshi-z-gundam
-95.2%  saint-seiya-the-lost-canvas-meiou-shinwa  ↔  saint-seiya-the-lost-canvas-meiou-shinwa-2
-95.2%  shiguang-dailiren-ii  ↔  shiguang-dailiren-iii
-95.1%  kidou-senshi-gundam-tekketsu-no-orphans  ↔  kidou-senshi-gundam-tekketsu-no-orphans-2
-95.1%  shinigami-bocchan-to-kuro-maid-2nd-season  ↔  shinigami-bocchan-to-kuro-maid-3rd-season
-95.1%  tensei-shitara-slime-datta-ken-2nd-season  ↔  tensei-shitara-slime-datta-ken-3rd-season
-95.1%  tsuujou-kougeki-ga-zentai-kougeki-de-ni-kai-kougeki-no-okaasan-wa-suki-desu-ka  ↔  tsuujou-kougeki-ga-zentai-kougeki-de-ni-kai-kougeki-no-okaasan-wa-suki-desu-ka-ova
-95.0%  boku-no-kokoro-no-yabai-yatsu-2nd-season  ↔  boku-no-kokoro-no-yabai-yatsu-3rd-season
-95.0%  strike-the-blood-ii  ↔  strike-the-blood-iii
-94.9%  ore-no-nounai-sentakushi-ga-gakuen-love-comedy-wo-zenryoku-de-jama-shiteiru  ↔  ore-no-nounai-sentakushi-ga-gakuen-love-comedy-wo-zenryoku-de-jama-shiteiru-ova
-94.9%  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka  ↔  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii
-94.9%  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka  ↔  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-vi
-94.9%  kono-subarashii-sekai-ni-shukufuku-wo  ↔  kono-subarashii-sekai-ni-shukufuku-wo-2
-94.9%  kono-subarashii-sekai-ni-shukufuku-wo  ↔  kono-subarashii-sekai-ni-shukufuku-wo-3
-94.9%  kono-subarashii-sekai-ni-shukufuku-wo  ↔  kono-subarashii-sekai-ni-shukufuku-wo-4
-94.8%  youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season  ↔  youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-5th-season
-94.8%  youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season  ↔  youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-5th-season
-94.8%  honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen  ↔  honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ova
-94.7%  dorohedoro-season-2  ↔  dorohedoro-season-3
-94.7%  grand-blue-season-2  ↔  grand-blue-season-3
-94.7%  grand-blue-season-2  ↔  grand-blue-season-4
-94.7%  grand-blue-season-3  ↔  grand-blue-season-4
-94.7%  himouto-umaru-chan  ↔  himouto-umaru-chans
-94.7%  pocket-monsters-xy  ↔  pocket-monsters-xyz
-94.7%  strike-the-blood-ii  ↔  strike-the-blood-iv
-94.7%  tondemo-skill-de-isekai-hourou-meshi  ↔  tondemo-skill-de-isekai-hourou-meshi-2
-94.6%  yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita  ↔  yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita-ova
-94.4%  hibike-euphonium-2  ↔  hibike-euphonium-3
-94.4%  junjou-romantica-2  ↔  junjou-romantica-3
-94.4%  kingdom-4th-season  ↔  kingdom-5th-season
-94.4%  kingdom-4th-season  ↔  kingdom-6th-season
-94.4%  kingdom-5th-season  ↔  kingdom-6th-season
-94.4%  lupin-iii-part-ii  ↔  lupin-iii-part-iii
-94.4%  mob-psycho-100-ii  ↔  mob-psycho-100-iii
-94.4%  spyfamily-season-2  ↔  spyfamily-season-3
-94.4%  yuru-camp-season-2  ↔  yuru-camp-season-3
-94.4%  yuru-camp-season-2  ↔  yuru-camp-season-4
-94.4%  yuru-camp-season-3  ↔  yuru-camp-season-4
-94.3%  kidou-keisatsu-patlabor-2-the-movie  ↔  kidou-keisatsu-patlabor-the-movie
-94.3%  phi-brain-kami-no-puzzle-2nd-season  ↔  phi-brain-kami-no-puzzle-3rd-season
-94.1%  gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu  ↔  gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii
-94.1%  lupin-iii-part-ii  ↔  lupin-iii-part-iv
-94.1%  nageki-no-bourei-wa-intai-shitai  ↔  nageki-no-bourei-wa-intai-shitai-2
-94.1%  quanzhi-gaoshou-2  ↔  quanzhi-gaoshou-3
-94.0%  tensei-shitara-slime-datta-ken-4th-season-part-1-2  ↔  tensei-shitara-slime-datta-ken-4th-season-part-3
-93.9%  fatekaleid-liner-prismaillya-2wei  ↔  fatekaleid-liner-prismaillya-3rei
-93.9%  isekai-wa-smartphone-to-tomo-ni  ↔  isekai-wa-smartphone-to-tomo-ni-2
-93.9%  kidou-senshi-gundam-thunderbolt  ↔  kidou-senshi-gundam-thunderbolt-2
-93.9%  kusuriya-no-hitorigoto-2nd-season  ↔  kusuriya-no-hitorigoto-3rd-season
-93.9%  mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2  ↔  mushoku-tensei-isekai-ittara-honki-dasu-part-2
-93.8%  otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-movie  ↔  otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x
-93.8%  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii  ↔  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii-ova
-93.8%  isekai-quartet-2  ↔  isekai-quartet-3
-93.8%  kobayashi-san-chi-no-maidragon  ↔  kobayashi-san-chi-no-maidragon-s
-93.8%  lupin-iii-part-5  ↔  lupin-iii-part-6
-93.8%  yi-ren-zhi-xia-2  ↔  yi-ren-zhi-xia-3
-93.6%  code-geass-hangyaku-no-lelouch-picture-drama  ↔  code-geass-hangyaku-no-lelouch-r2-picture-drama
-93.6%  rezero-kara-hajimeru-isekai-seikatsu-2nd-season  ↔  rezero-kara-hajimeru-isekai-seikatsu-4th-season
-93.6%  rezero-kara-hajimeru-isekai-seikatsu-3rd-season  ↔  rezero-kara-hajimeru-isekai-seikatsu-4th-season
-93.6%  sword-art-online-alternative-gun-gale-online  ↔  sword-art-online-alternative-gun-gale-online-ii
-93.5%  gintama-jump-festa-2008-special  ↔  gintama-jump-festa-2015-special
-93.5%  kamitachi-ni-hirowareta-otoko  ↔  kamitachi-ni-hirowareta-otoko-2
-93.5%  shokugeki-no-souma-san-no-sara  ↔  shokugeki-no-souma-shin-no-sara
-93.5%  sword-art-offline-extra-edition  ↔  sword-art-online-extra-edition
-93.5%  xian-wang-de-richang-shenghuo  ↔  xian-wang-de-richang-shenghuo-2
-93.5%  xian-wang-de-richang-shenghuo  ↔  xian-wang-de-richang-shenghuo-3
-93.5%  xian-wang-de-richang-shenghuo  ↔  xian-wang-de-richang-shenghuo-4
-93.5%  xian-wang-de-richang-shenghuo  ↔  xian-wang-de-richang-shenghuo-5
-93.3%  ani-ni-tsukeru-kusuri-wa-nai  ↔  ani-ni-tsukeru-kusuri-wa-nai-2
-93.3%  ani-ni-tsukeru-kusuri-wa-nai  ↔  ani-ni-tsukeru-kusuri-wa-nai-3
-93.3%  ani-ni-tsukeru-kusuri-wa-nai  ↔  ani-ni-tsukeru-kusuri-wa-nai-4
-93.3%  bokusatsu-tenshi-dokuro-chan  ↔  bokusatsu-tenshi-dokuro-chan-2
-93.3%  date-a-live-ii  ↔  date-a-live-iii
-93.3%  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka  ↔  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii
-93.3%  fairy-tail-2014  ↔  fairy-tail-2018
-93.3%  hakkenden-touhou-hakken-ibun  ↔  hakkenden-touhou-hakken-ibun-2
-93.3%  kaguya-sama-wa-kokurasetai-tensaitachi-no-renai-zunousen  ↔  kaguya-sama-wa-kokurasetai-tensaitachi-no-renai-zunousen-ova
-93.3%  kanojo-okarishimasu-2nd-season  ↔  kanojo-okarishimasu-3rd-season
-93.3%  kizumonogatari-i-tekketsu-hen  ↔  kizumonogatari-ii-nekketsu-hen
-93.3%  love-live-superstar-2nd-season  ↔  love-live-superstar-3rd-season
-93.3%  one-punch-man-2  ↔  one-punch-man-3
-93.3%  quanzhi-fashi-2  ↔  quanzhi-fashi-3
-93.3%  quanzhi-fashi-2  ↔  quanzhi-fashi-4
-93.3%  quanzhi-fashi-2  ↔  quanzhi-fashi-5
-93.3%  quanzhi-fashi-2  ↔  quanzhi-fashi-6
-93.3%  quanzhi-fashi-3  ↔  quanzhi-fashi-4
-93.3%  quanzhi-fashi-3  ↔  quanzhi-fashi-5
-93.3%  quanzhi-fashi-3  ↔  quanzhi-fashi-6
-93.3%  quanzhi-fashi-4  ↔  quanzhi-fashi-5
-93.3%  quanzhi-fashi-4  ↔  quanzhi-fashi-6
-93.3%  quanzhi-fashi-5  ↔  quanzhi-fashi-6
-93.3%  shangri-la-frontier-2nd-season  ↔  shangri-la-frontier-3rd-season
-93.2%  kobayashi-san-chi-no-maidragon-s-mini-dra  ↔  kobayashi-san-chi-no-maidragon-s-mini-dra-ex
-93.1%  bishoujo-senshi-sailor-moon  ↔  bishoujo-senshi-sailor-moon-r
-93.1%  bishoujo-senshi-sailor-moon  ↔  bishoujo-senshi-sailor-moon-s
-93.1%  higurashi-no-naku-koro-ni-kai  ↔  higurashi-no-naku-koro-ni-rei
-93.1%  karakai-jouzu-no-takagi-san  ↔  karakai-jouzu-no-takagi-san-2
-93.1%  karakai-jouzu-no-takagi-san  ↔  karakai-jouzu-no-takagi-san-3
-93.1%  tales-of-zestiria-the-cross  ↔  tales-of-zestiria-the-cross-2
-93.0%  hyouken-no-majutsushi-ga-sekai-wo-suberu  ↔  hyouken-no-majutsushi-ga-sekai-wo-suberu-ii
-92.9%  bungou-stray-dogs-2nd-season  ↔  bungou-stray-dogs-3rd-season
-92.9%  date-a-live-ii  ↔  date-a-live-iv
-92.9%  date-a-live-iv  ↔  date-a-live-v
-92.9%  houkago-shounen-hanako-kun  ↔  houkago-shounen-hanako-kun-2
-92.9%  komi-san-wa-komyushou-desu  ↔  komi-san-wa-komyushou-desu-2
-92.9%  mushoku-tensei-ii-isekai-ittara-honki-dasu  ↔  mushoku-tensei-isekai-ittara-honki-dasu
-92.9%  senki-zesshou-symphogear-axz  ↔  senki-zesshou-symphogear-gx
-92.9%  senki-zesshou-symphogear-axz  ↔  senki-zesshou-symphogear-xv
-92.9%  sousou-no-frieren-2nd-season  ↔  sousou-no-frieren-3rd-season
-92.7%  boku-no-kanojo-ga-majime-sugiru-shoujo-bitch-na-ken  ↔  boku-no-kanojo-ga-majime-sugiru-shoujo-bitch-na-ken-ova
-92.7%  shingeki-no-kyojin-the-final-season-kanketsu-hen-kouhen  ↔  shingeki-no-kyojin-the-final-season-kanketsu-hen-zenpen
-92.6%  jibaku-shounen-hanako-kun  ↔  jibaku-shounen-hanako-kun-2
-92.6%  kuroko-no-basket-2nd-season  ↔  kuroko-no-basket-3rd-season
-92.6%  overlord-ple-ple-pleiades  ↔  overlord-ple-ple-pleiades-2
-92.6%  overlord-ple-ple-pleiades  ↔  overlord-ple-ple-pleiades-3
-92.6%  seitokai-yakuindomo-movie  ↔  seitokai-yakuindomo-movie-2
-92.6%  senki-zesshou-symphogear-g  ↔  senki-zesshou-symphogear-xv
-92.6%  senki-zesshou-symphogear-gx  ↔  senki-zesshou-symphogear-xv
-92.5%  code-geass-hangyaku-no-lelouch-i-koudou  ↔  code-geass-hangyaku-no-lelouch-iii-oudou
-92.5%  danganronpa-3-the-end-of-kibougamine-gakuen-kibou-hen  ↔  danganronpa-3-the-end-of-kibougamine-gakuen-mirai-hen
-92.5%  yahari-ore-no-seishun-love-come-wa-machigatteiru-kan  ↔  yahari-ore-no-seishun-love-come-wa-machigatteiru-zoku
-92.3%  chihayafuru-2  ↔  chihayafuru-3
-92.3%  kuroko-no-basket-2-ng-shuu  ↔  kuroko-no-basket-ng-shuu
-92.3%  kuroko-no-basket-3-ng-shuu  ↔  kuroko-no-basket-ng-shuu
-92.3%  modao-zushi-2  ↔  modao-zushi-3
-92.3%  modao-zushi-2  ↔  modao-zushi-q
-92.3%  modao-zushi-3  ↔  modao-zushi-q
-92.3%  psycho-pass-2  ↔  psycho-pass-3
-92.3%  senki-zesshou-symphogear  ↔  senki-zesshou-symphogear-g
-92.3%  yahari-ore-no-seishun-love-come-wa-machigatteiru  ↔  yahari-ore-no-seishun-love-come-wa-machigatteiru-kan
-92.3%  yami-shibai-2  ↔  yami-shibai-3
-92.3%  yami-shibai-2  ↔  yami-shibai-4
-92.3%  yami-shibai-2  ↔  yami-shibai-5
-92.3%  yami-shibai-3  ↔  yami-shibai-4
-92.3%  yami-shibai-3  ↔  yami-shibai-5
-92.3%  yami-shibai-4  ↔  yami-shibai-5
-92.3%  yondemasu-yo-azazel-san-tv  ↔  yondemasu-yo-azazel-san-z
-92.2%  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii  ↔  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii-ova
-92.1%  ghost-in-the-shell-koukaku-kidoutai  ↔  ghost-in-the-shell-koukaku-kidoutai-20
-92.0%  basilisk-kouga-ninpouchou  ↔  basilisk-ouka-ninpouchou
-92.0%  isekai-maou-to-shoukan-shoujo-no-dorei-majutsu  ↔  isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-ult
-92.0%  kimi-ni-todoke-2nd-season  ↔  kimi-ni-todoke-3rd-season
-92.0%  masamune-kun-no-revenge  ↔  masamune-kun-no-revenge-r
-92.0%  mushoku-tensei-iii-isekai-ittara-honki-dasu-part-2  ↔  mushoku-tensei-isekai-ittara-honki-dasu-part-2
-92.0%  rurouni-kenshin-meiji-kenkaku-romantan-seisou-hen  ↔  rurouni-kenshin-meiji-kenkaku-romantan-tsuioku-hen
-92.0%  saikin-imouto-no-yousu-ga-chotto-okashiinda-ga  ↔  saikin-imouto-no-yousu-ga-chotto-okashiinda-ga-ova
-92.0%  toaru-kagaku-no-railgun  ↔  toaru-kagaku-no-railgun-s
-92.0%  toaru-kagaku-no-railgun  ↔  toaru-kagaku-no-railgun-t
-92.0%  yondemasu-yo-azazel-san  ↔  yondemasu-yo-azazel-san-z
-91.9%  kara-no-kyoukai-satsujin-kousatsu-kou  ↔  kara-no-kyoukai-satsujin-kousatsu-zen
-91.9%  natsume-yuujinchou-go-tokubetsu-hen  ↔  natsume-yuujinchou-roku-tokubetsu-hen
-91.8%  koukaku-kidoutai-arise-ghost-in-the-shell-border1-ghost-pain  ↔  koukaku-kidoutai-arise-ghost-in-the-shell-border3-ghost-tears
-91.7%  evangelion-shin-movie-ha  ↔  evangelion-shin-movie-jo
-91.7%  gakusen-toshi-asterisk  ↔  gakusen-toshi-asterisk-2
-91.7%  initial-d-battle-stage  ↔  initial-d-battle-stage-2
-91.7%  katainaka-no-ossan-kensei-ni-naru  ↔  katainaka-no-ossan-kensei-ni-naru-ii
-91.7%  kimetsu-no-yaiba-mugen-ressha-hen  ↔  kimetsu-no-yaiba-mugen-ressha-hen-tv
-91.7%  kyuuketsuki-sugu-shinu  ↔  kyuuketsuki-sugu-shinu-2
-91.7%  mairimashita-iruma-kun  ↔  mairimashita-iruma-kun-2
-91.7%  mairimashita-iruma-kun  ↔  mairimashita-iruma-kun-3
-91.7%  mairimashita-iruma-kun  ↔  mairimashita-iruma-kun-4
-91.7%  ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai  ↔  ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-ona
-91.7%  overlord-ii  ↔  overlord-iii
-91.7%  ranma-12-2024-2nd-season  ↔  ranma-12-2024-3rd-season
-91.7%  takanashi-rikka-kai-chuunibyou-demo-koi-ga-shitai-movie  ↔  takanashi-rikka-kai-chuunibyou-demo-koi-ga-shitai-movie-lite
-91.7%  tensei-shitara-slime-datta-ken-2nd-season-part-2  ↔  tensei-shitara-slime-datta-ken-4th-season-part-3
-91.7%  world-trigger-2nd-season  ↔  world-trigger-3rd-season
-91.7%  youjo-senki  ↔  youjo-shenki
-91.4%  aoki-hagane-no-arpeggio-ars-nova  ↔  aoki-hagane-no-arpeggio-ars-nova-dc
-91.4%  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-shin-shou-meikyuu-hen  ↔  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-shin-shou-yakusai-hen
-91.3%  boku-no-hero-academia  ↔  boku-no-hero-academia-2
-91.3%  boku-no-hero-academia  ↔  boku-no-hero-academia-3
-91.3%  boku-no-hero-academia  ↔  boku-no-hero-academia-4
-91.3%  boku-no-hero-academia  ↔  boku-no-hero-academia-5
-91.3%  boku-no-hero-academia  ↔  boku-no-hero-academia-6
-91.3%  boku-no-hero-academia  ↔  boku-no-hero-academia-7
-91.3%  cyberpunk-edgerunners  ↔  cyberpunk-edgerunners-2
-91.3%  golden-kamuy-2nd-season  ↔  golden-kamuy-3rd-season
-91.3%  initial-d-extra-stage  ↔  initial-d-extra-stage-2
-91.3%  osomatsu-san-2nd-season  ↔  osomatsu-san-3rd-season
-91.3%  persona-4-the-animation  ↔  persona5-the-animation
-91.3%  tetsuwan-birdy-decode  ↔  tetsuwan-birdy-decode02
-91.3%  yakusoku-no-neverland  ↔  yakusoku-no-neverland-2
-91.2%  toaru-majutsu-no-index-ii-specials  ↔  toaru-majutsu-no-index-specials
-91.1%  inu-ni-nattara-suki-na-hito-ni-hirowareta  ↔  inu-ni-nattara-suki-na-hito-ni-hirowareta-ova
-91.1%  danganronpa-3-the-end-of-kibougamine-gakuen-kibou-hen  ↔  danganronpa-3-the-end-of-kibougamine-gakuen-zetsubou-hen
-90.9%  code-geass-hangyaku-no-lelouch  ↔  code-geass-hangyaku-no-lelouch-r2
-90.9%  getsuyoubi-no-tawawa  ↔  getsuyoubi-no-tawawa-2
-90.9%  isekai-nonbiri-nouka  ↔  isekai-nonbiri-nouka-2
-90.9%  jashin-chan-dropkick  ↔  jashin-chan-dropkick-x
-90.9%  joshikausei  ↔  joshikousei
-90.9%  kidou-senshi-gundam-00  ↔  kidou-senshi-gundam-i
-90.9%  kidou-senshi-gundam-00  ↔  kidou-senshi-gundam-nt
-90.9%  kidou-senshi-gundam-00  ↔  kidou-senshi-gundam-uc
-90.9%  kidou-senshi-gundam-00  ↔  kidou-senshi-gundam-zz
-90.9%  kidou-senshi-gundam-i  ↔  kidou-senshi-gundam-nt
-90.9%  kidou-senshi-gundam-i  ↔  kidou-senshi-gundam-uc
-90.9%  kidou-senshi-gundam-i  ↔  kidou-senshi-gundam-zz
-90.9%  kidou-senshi-gundam-nt  ↔  kidou-senshi-gundam-uc
-90.9%  kidou-senshi-gundam-nt  ↔  kidou-senshi-gundam-zz
-90.9%  kidou-senshi-gundam-uc  ↔  kidou-senshi-gundam-zz
-90.9%  mato-seihei-no-slave  ↔  mato-seihei-no-slave-2
-90.9%  monster-musume-no-iru-nichijou  ↔  monster-musume-no-iru-nichijou-sp
-90.9%  natsume-yuujinchou-san  ↔  natsume-yuujinchou-shi
-90.9%  overlord-ii  ↔  overlord-iv
-90.9%  stand-by-me-doraemon  ↔  stand-by-me-doraemon-2
-90.8%  fategrand-order-shinsei-entaku-ryouiki-camelot-paladin-agateram  ↔  fategrand-order-shinsei-entaku-ryouiki-camelot-wandering-agateram
-90.7%  mushoku-tensei-iii-isekai-ittara-honki-dasu  ↔  mushoku-tensei-isekai-ittara-honki-dasu
-90.6%  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii-ova  ↔  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-vi
-90.6%  yahari-ore-no-seishun-love-come-wa-machigatteiru  ↔  yahari-ore-no-seishun-love-come-wa-machigatteiru-zoku
-90.5%  3d-kanojo-real-girl  ↔  3d-kanojo-real-girl-2
-90.5%  bang-dream-2nd-season  ↔  bang-dream-3rd-season
-90.5%  bishoujo-senshi-sailor-moon-eternal-kouhen  ↔  bishoujo-senshi-sailor-moon-eternal-zenpen
-90.5%  blackrock-shooter-ova  ↔  blackrock-shooter-tv
-90.5%  ef-a-tale-of-melodies  ↔  ef-a-tale-of-memories
-90.5%  haiyore-nyaruko-san  ↔  haiyore-nyaruko-san-f
-90.5%  haiyore-nyaruko-san  ↔  haiyore-nyaruko-san-w
-90.5%  hoozuki-no-reitetsu  ↔  hoozuki-no-reitetsu-2
-90.5%  is-infinite-stratos  ↔  is-infinite-stratos-2
-90.5%  kidou-senshi-gundam  ↔  kidou-senshi-gundam-i
-90.5%  kidou-senshi-gundam  ↔  kidou-senshi-v-gundam
-90.5%  kidou-senshi-gundam  ↔  kidou-senshi-z-gundam
-90.5%  nanatsu-no-taizai-ensa-no-edinburgh-kouhen  ↔  nanatsu-no-taizai-ensa-no-edinburgh-zenpen
-90.5%  oshi-no-ko-2nd-season  ↔  oshi-no-ko-3rd-season
-90.3%  higurashi-no-naku-koro-ni-gou  ↔  higurashi-no-naku-koro-ni-sotsu
-90.3%  kizumonogatari-ii-nekketsu-hen  ↔  kizumonogatari-iii-reiketsu-hen
-90.3%  shokugeki-no-souma-ni-no-sara  ↔  shokugeki-no-souma-shin-no-sara
-90.2%  shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei  ↔  shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei
-90.0%  bocchi-the-rock-re  ↔  bocchi-the-rock-rere
-90.0%  bucchigire  ↔  bucchigiri
-90.0%  code-geass-hangyaku-no-lelouch-i-koudou  ↔  code-geass-hangyaku-no-lelouch-ii-handou
-90.0%  code-geass-hangyaku-no-lelouch-ii-handou  ↔  code-geass-hangyaku-no-lelouch-iii-oudou
-90.0%  enen-no-shouboutai-ni-no-shou  ↔  enen-no-shouboutai-san-no-shou
-90.0%  fatekaleid-liner-prismaillya-2wei-herz-short-anime  ↔  fatekaleid-liner-prismaillya-2wei-short-anime
-90.0%  haikyuu-to-the-top  ↔  haikyuu-to-the-top-2
-90.0%  higurashi-no-naku-koro-ni-kai  ↔  higurashi-no-naku-koro-ni-kira
-90.0%  himouto-umaru-chan  ↔  himouto-umaru-chan-r
-90.0%  himouto-umaru-chan-r  ↔  himouto-umaru-chans
-90.0%  kakumeiki-valvrave  ↔  kakumeiki-valvrave-2
-90.0%  kanojo-okarishimasu-2nd-season  ↔  kanojo-okarishimasu-4th-season
-90.0%  kanojo-okarishimasu-2nd-season  ↔  kanojo-okarishimasu-5th-season
-90.0%  kanojo-okarishimasu-3rd-season  ↔  kanojo-okarishimasu-4th-season
-90.0%  kanojo-okarishimasu-3rd-season  ↔  kanojo-okarishimasu-5th-season
-90.0%  kobayashi-san-chi-no-dragon  ↔  kobayashi-san-chi-no-maidragon
-90.0%  mahou-shoujo-lyrical-nanoha  ↔  mahou-shoujo-lyrical-nanoha-as
-90.0%  mushishi-zoku-shou  ↔  mushishi-zoku-shou-2
-90.0%  pocket-monsters-2019  ↔  pocket-monsters-2023
-90.0%  saiki-kusuo-no-nan  ↔  saiki-kusuo-no-nan-2
-90.0%  sekaiichi-hatsukoi  ↔  sekaiichi-hatsukoi-2
-90.0%  shokugeki-no-souma-gou-no-sara  ↔  shokugeki-no-souma-ni-no-sara
-90.0%  shokugeki-no-souma-gou-no-sara  ↔  shokugeki-no-souma-san-no-sara
-90.0%  shokugeki-no-souma-ni-no-sara  ↔  shokugeki-no-souma-san-no-sara
-90.0%  strike-the-blood-iii  ↔  strike-the-blood-iv
-90.0%  sword-art-offline-ii  ↔  sword-art-online-ii
-90.0%  tensei-shitara-slime-datta-ken-2nd-season-part-2  ↔  tensei-shitara-slime-datta-ken-4th-season-part-1-2
+kitsuId=1:
+  cowboy-bebop
+      title: "Cowboy Bebop"
+  two-car
+      title: "Two Car"
+
+kitsuId=10:
+  monster
+      title: "MONSTER"
+  the-big-o
+      title: "THE Big O"
+
+kitsuId=10012:
+  nihon-animator-mihonichi
+      title: "Nihon Animator Mihonichi"
+  shin-seiki-evangelion-movie-air-magokoro-wo-kimi-ni
+      title: "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni"
+  shin-seiki-evangelion-movie-shi-to-shinsei
+      title: "Shin Seiki Evangelion Movie: Shi to Shinsei"
+  shin-seiki-evangelion
+      title: "Shin Seiki Evangelion"
+
+kitsuId=1004:
+  pocket-monsters-crystal-raikou-ikazuchi-no-densetsu
+      title: "Pocket Monsters Crystal: Raikou Ikazuchi no Densetsu"
+  pocket-monsters-mizu-no-miyako-no-mamorigami-latias-to-latios
+      title: "Pocket Monsters: Mizu no Miyako no Mamorigami Latias to Latios"
+
+kitsuId=10052:
+  all-out
+      title: "ALL OUT!!"
+  fatestay-night-unlimited-blade-works-2nd-season
+      title: "Fate/stay night: Unlimited Blade Works 2nd Season"
+
+kitsuId=10077:
+  hidan-no-aria-aa
+      title: "Hidan no Aria AA"
+  hidan-no-aria-butei-ga-kitarite-onsen-kenshuu
+      title: "Hidan no Aria - Butei ga Kitarite Onsen Kenshuu"
+
+kitsuId=10154:
+  grisaia-no-meikyuu-takizono-basket-bu-no-nama-cream-party
+      title: "Grisaia no Meikyuu: Takizono Basket-bu no Nama Cream Party!"
+  grisaia-no-meikyuu
+      title: "Grisaia no Meikyuu"
+
+kitsuId=10155:
+  grisaia-no-rakuen-grisaia-no-tokuten
+      title: "Grisaia no Rakuen: Grisaia no Tokuten"
+  grisaia-no-rakuen
+      title: "Grisaia no Rakuen"
+
+kitsuId=10748:
+  monster-musume-no-iru-nichijou-sp
+      title: "Monster Musume no Iru Nichijou SP"
+  monster-musume-no-iru-nichijou
+      title: "Monster Musume no Iru Nichijou"
+
+kitsuId=10757:
+  shinmai-maou-no-testament-burst
+      title: "Shinmai Maou no Testament: BURST"
+  shinmai-maou-no-testament-toujou-basara-no-hard-sweet-na-nichijou
+      title: "Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou"
+
+kitsuId=10759:
+  akatsuki-no-yona-ova
+      title: "Akatsuki no Yona OVA"
+  akatsuki-no-yona-zoku-hen
+      title: "Akatsuki no Yona (Zoku-hen)"
+
+kitsuId=10877:
+  ansatsu-kyoushitsu-2-kagaijugyou-hen
+      title: "Ansatsu Kyoushitsu 2: Kagaijugyou-hen"
+  ansatsu-kyoushitsu-2nd-season
+      title: "Ansatsu Kyoushitsu 2nd Season"
+
+kitsuId=10911:
+  kyoukai-no-kanata-ill-be-here-kako-hen-yakusoku-no-kizuna-dance-mv
+      title: "Kyoukai no Kanata: I'LL BE HERE - Kako-hen “Yakusoku no Kizuna” Dance MV"
+  kyoukai-no-kanata-ill-be-here-kako-hen
+      title: "Kyoukai no Kanata: I'LL BE HERE - Kako-hen"
+
+kitsuId=1114:
+  one-piece-mamore-saigo-no-oobutai
+      title: "ONE PIECE: Mamore! Saigo no Oobutai"
+  one-piece-tv-special-umi-no-heso-no-daibouken-hen
+      title: "ONE PIECE TV Special: Umi no Heso no Daibouken-hen"
+
+kitsuId=11182:
+  owarimonogatari-ge
+      title: "Owarimonogatari (Ge)"
+  owarimonogatari
+      title: "Owarimonogatari"
+
+kitsuId=11209:
+  another-world
+      title: "Another World"
+  rezero-kara-hajimeru-isekai-seikatsu
+      title: "Re:Zero kara Hajimeru Isekai Seikatsu"
+
+kitsuId=113:
+  gunslinger-girl-il-teatrino
+      title: "GUNSLINGER GIRL -IL TEATRINO-"
+  gunslinger-girl
+      title: "GUNSLINGER GIRL"
+
+kitsuId=11333:
+  musaigen-no-phantom-world-mizutama-no-kiseki
+      title: "Musaigen no Phantom World: Mizutama no Kiseki"
+  musaigen-no-phantom-world
+      title: "Musaigen no Phantom World"
+
+kitsuId=11380:
+  3-gatsu-no-lion
+      title: "3-gatsu no Lion"
+  mar
+      title: "MÄR"
+
+kitsuId=11402:
+  one-punch-man-ova
+      title: "One Punch Man OVA"
+  one-punch-man-road-to-hero
+      title: "One Punch Man: Road to Hero"
+
+kitsuId=11438:
+  fatekaleid-liner-prismaillya-3rei-short-anime
+      title: "Fate/kaleid liner Prisma☆Illya 3rei!! Short Anime"
+  fatekaleid-liner-prismaillya-3rei
+      title: "Fate/kaleid liner Prisma☆Illya 3rei!!"
+  fatekaleid-liner-prismaillya-short-anime
+      title: "Fate/kaleid liner Prisma☆Illya Short Anime"
+
+kitsuId=11455:
+  big-order-ova
+      title: "Big Order OVA"
+  big-order
+      title: "Big Order"
+
+kitsuId=11578:
+  k
+      title: "K"
+  mob-psycho-100
+      title: "Mob Psycho 100"
+
+kitsuId=11690:
+  aishen-qiaokeli-ing-ii
+      title: "Aishen Qiaokeli-ING... II"
+  aishen-qiaokeli-ing
+      title: "Aishen Qiaokeli-ING..."
+
+kitsuId=11794:
+  military
+      title: "Military!"
+  youjo-senki
+      title: "Youjo Senki"
+
+kitsuId=11850:
+  kidou-senshi-gundam-uc
+      title: "Kidou Senshi Gundam UC"
+  kidou-senshi-gundam-unicorn-re-0096
+      title: "Kidou Senshi Gundam Unicorn RE: 0096"
+
+kitsuId=11882:
+  bungou-stray-dogs-2nd-season
+      title: "Bungou Stray Dogs 2nd Season"
+  bungou-stray-dogs-3rd-season
+      title: "Bungou Stray Dogs 3rd Season"
+
+kitsuId=11890:
+  kuroko-no-basket-2-ng-shuu
+      title: "Kuroko no Basket 2 NG-shuu"
+  kuroko-no-basket-winter-cup-soushuuhen-namida-no-saki-e
+      title: "Kuroko no Basket: Winter Cup Soushuuhen - Namida no Saki e"
+
+kitsuId=11891:
+  kuroko-no-basket-3-ng-shuu
+      title: "Kuroko no Basket 3 NG-shuu"
+  kuroko-no-basket-winter-cup-soushuuhen-tobira-no-mukou
+      title: "Kuroko no Basket: Winter Cup Soushuuhen - Tobira no Mukou"
+
+kitsuId=11937:
+  kono-subarashii-sekai-ni-shukufuku-wo-2-kono-subarashii-geijutsu-ni-shukufuku-wo
+      title: "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!"
+  kono-subarashii-sekai-ni-shukufuku-wo-2
+      title: "Kono Subarashii Sekai ni Shukufuku wo! 2"
+
+kitsuId=122:
+  kanon-2006
+      title: "Kanon (2006)"
+  kanon
+      title: "Kanon"
+
+kitsuId=12230:
+  given
+      title: "Given"
+  violet-evergarden
+      title: "Violet Evergarden"
+
+kitsuId=12265:
+  busou-shoujo-machiavellianism-ova
+      title: "Busou Shoujo Machiavellianism OVA"
+  busou-shoujo-machiavellianism
+      title: "Busou Shoujo Machiavellianism"
+
+kitsuId=12293:
+  ansatsu-kyoushitsu-movie-365-nichi-no-jikan
+      title: "Ansatsu Kyoushitsu Movie: 365-Nichi no Jikan"
+  koro-sensei-q-ona
+      title: "Koro-sensei Q! (ONA)"
+
+kitsuId=12497:
+  gabriel-dropout-ova
+      title: "Gabriel Dropout OVA"
+  gabriel-dropout
+      title: "Gabriel Dropout"
+
+kitsuId=12517:
+  ling-qi-huang-quan-zhi-qi
+      title: "Ling Qi: Huang Quan Zhi Qi"
+  ling-qi
+      title: "Ling Qi"
+
+kitsuId=12566:
+  one-punch-man-2-ova
+      title: "One Punch Man 2 OVA"
+  one-punch-man-2
+      title: "One Punch Man 2"
+
+kitsuId=12759:
+  one-room-another
+      title: "One Room: another"
+  room-mate
+      title: "Room Mate"
+
+kitsuId=12761:
+  hajimete-no-gal-hajimete-no-bunkasai
+      title: "Hajimete no Gal: Hajimete no Bunkasai"
+  hajimete-no-gal
+      title: "Hajimete no Gal"
+
+kitsuId=1278:
+  lupin-iii-part-ii
+      title: "Lupin III: Part II"
+  lupin-iii-part-iii
+      title: "Lupin III: Part III"
+
+kitsuId=1283:
+  lupin-iii-cagliostro-no-shiro
+      title: "Lupin III: Cagliostro no Shiro"
+  lupin-iii
+      title: "Lupin III"
+
+kitsuId=13257:
+  koi-to-uso-isshou-no-koikoi-no-kimochi
+      title: "Koi to Uso: Isshou no Koi/Koi no Kimochi"
+  koi-to-uso
+      title: "Koi to Uso"
+
+kitsuId=13635:
+  karakai-jouzu-no-takagi-san-water-slide
+      title: "Karakai Jouzu no Takagi-san: Water Slide"
+  karakai-jouzu-no-takagi-san
+      title: "Karakai Jouzu no Takagi-san"
+
+kitsuId=13658:
+  fairy-tail-2018
+      title: "FAIRY TAIL (2018)"
+  fairy-tail
+      title: "FAIRY TAIL"
+
+kitsuId=13676:
+  basilisk-kouga-ninpouchou
+      title: "Basilisk: Kouga Ninpouchou"
+  basilisk-ouka-ninpouchou
+      title: "Basilisk: Ouka Ninpouchou"
+
+kitsuId=13703:
+  net-juu-no-susume-ova
+      title: "Net-juu no Susume OVA"
+  net-juu-no-susume
+      title: "Net-juu no Susume"
+
+kitsuId=13717:
+  itou-junji-collection-tomie
+      title: "Itou Junji: Collection - Tomie"
+  itou-junji-collection
+      title: "Itou Junji: Collection"
+
+kitsuId=14010:
+  dive
+      title: "DIVE!!"
+  free-dive-to-the-future
+      title: "Free!: Dive to the Future"
+
+kitsuId=14095:
+  gintama-shirogane-no-tamashii-hen-kouhan-sen
+      title: "Gintama.: Shirogane no Tamashii-hen - Kouhan-sen"
+  gintama-shirogane-no-tamashii-hen
+      title: "Gintama.: Shirogane no Tamashii-hen"
+
+kitsuId=14157:
+  hoozuki-no-reitetsu-2-part-ii
+      title: "Hoozuki no Reitetsu 2: Part II"
+  hoozuki-no-reitetsu-2
+      title: "Hoozuki no Reitetsu 2"
+
+kitsuId=142:
+  mononoke-hime
+      title: "Mononoke-hime"
+  princess-princess
+      title: "Princess Princess"
+
+kitsuId=1555:
+  naruto-shippuuden
+      title: "NARUTO: Shippuuden"
+  naruto
+      title: "NARUTO"
+
+kitsuId=181:
+  rewrite
+      title: "Rewrite"
+  samurai-champloo
+      title: "Samurai Champloo"
+
+kitsuId=186:
+  ranma-12-nettou-hen
+      title: "Ranma 1/2: Nettou-hen"
+  ranma-12
+      title: "Ranma 1/2"
+
+kitsuId=1962:
+  clannad
+      title: "CLANNAD"
+  school-days
+      title: "School Days"
+
+kitsuId=1966:
+  meitantei-conan-11-nin-me-no-striker
+      title: "Meitantei Conan: 11 Nin-me no Striker"
+  meitantei-conan-konpeki-no-hitsugi-jolly-roger
+      title: "Meitantei Conan: Konpeki no Hitsugi (Jolly Roger)"
+
+kitsuId=201:
+  elfen-lied-tooriame-nite-arui-wa-shoujo-wa-ikani-shite-sono-shinjou-ni-itatta-ka
+      title: "Elfen Lied: Tooriame nite - Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka?"
+  elfen-lied
+      title: "Elfen Lied"
+
+kitsuId=2036:
+  naruto-dai-katsugeki-yuki-hime-ninpouchou-dattebayo
+      title: "NARUTO: Dai Katsugeki! Yuki Hime Ninpouchou Dattebayo!!"
+  naruto-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo-special-konoha-annual-sports-festival
+      title: "NARUTO: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! Special: Konoha Annual Sports Festival"
+
+kitsuId=2039:
+  baccano-bangai-hen
+      title: "Baccano! Bangai-hen"
+  baccano
+      title: "Baccano!"
+
+kitsuId=2175:
+  digimon-adventure-02-diablomon-no-gyakushuu
+      title: "Digimon Adventure 02: Diablomon no Gyakushuu"
+  digimon-adventure-02-digimon-hurricane-jouriku-chouzetsu-shinka-ougon-no-digimental
+      title: "Digimon Adventure 02: Digimon Hurricane Jouriku!! / Chouzetsu Shinka!! Ougon no Digimental"
+
+kitsuId=24:
+  berserk
+      title: "Berserk"
+  kenpuu-denki-berserk
+      title: "Kenpuu Denki Berserk"
+
+kitsuId=3022:
+  candyboy-side-story-for-archive
+      title: "Candy☆Boy: Side Story For Archive"
+  candyboy
+      title: "Candy☆Boy"
+
+kitsuId=3032:
+  nogizaka-haruka-no-himitsu-finale
+      title: "Nogizaka Haruka no Himitsu: Finale♪"
+  nogizaka-haruka-no-himitsu
+      title: "Nogizaka Haruka no Himitsu"
+
+kitsuId=3355:
+  kidou-senshi-gundam-00-2nd-season
+      title: "Kidou Senshi Gundam 00 2nd Season"
+  kidou-senshi-gundam
+      title: "Kidou Senshi Gundam"
+
+kitsuId=339:
+  cardcaptor-sakura-movie-fuinsareta-card
+      title: "Cardcaptor Sakura Movie: Fuinsareta Card"
+  cardcaptor-sakura-movie
+      title: "Cardcaptor Sakura Movie"
+
+kitsuId=3471:
+  tengen-toppa-gurren-lagann-gurren-hen
+      title: "Tengen Toppa Gurren Lagann: Gurren-hen"
+  tengen-toppa-gurren-lagann-lagann-hen
+      title: "Tengen Toppa Gurren Lagann: Lagann-hen"
+
+kitsuId=3936:
+  hagane-no-renkinjutsushi-fullmetal-alchemist-mihousou-episode
+      title: "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST Mihousou Episode"
+  hagane-no-renkinjutsushi-fullmetal-alchemist
+      title: "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
+
+kitsuId=395:
+  howl-no-ugoku-shiro
+      title: "Howl no Ugoku Shiro"
+  working
+      title: "WORKING!!!"
+
+kitsuId=40599:
+  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-mujintou-ni-yakusou-wo-motomeru-no-wa-machigatteiru-darou-ka
+      title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II: Mujintou ni Yakusou wo Motomeru no wa Machigatteiru Darou ka"
+  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii
+      title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II"
+
+kitsuId=4064:
+  asura-cryin
+      title: "Asura Cryin'"
+  asura
+      title: "Asura"
+
+kitsuId=40949:
+  sword-art-online-ordinal-scale-sword-art-offline
+      title: "Sword Art Online: Ordinal Scale - Sword Art Offline"
+  sword-art-online-ordinal-scale
+      title: "Sword Art Online: Ordinal Scale"
+
+kitsuId=41036:
+  modao-zushi-2
+      title: "Modao Zushi 2"
+  modao-zushi-3
+      title: "Modao Zushi 3"
+  modao-zushi-q
+      title: "Modao Zushi Q"
+  modao-zushi
+      title: "Modao Zushi"
+
+kitsuId=4107:
+  meitantei-conan-gouka-no-himawari
+      title: "Meitantei Conan: Gouka no Himawari"
+  meitantei-conan-shikkoku-no-chaser
+      title: "Meitantei Conan: Shikkoku no Chaser"
+
+kitsuId=41149:
+  asobi-asobase-mini-anime
+      title: "Asobi Asobase Mini Anime"
+  asobi-asobase
+      title: "Asobi Asobase"
+  bad-girl
+      title: "Bad Girl"
+
+kitsuId=41165:
+  jashin-chan-dropkick-ona
+      title: "Jashin-chan Dropkick ONA"
+  jashin-chan-dropkick
+      title: "Jashin-chan Dropkick’"
+
+kitsuId=41209:
+  uchi-no-maid-ga-uzasugiru-ova
+      title: "Uchi no Maid ga Uzasugiru! OVA"
+  uchi-no-maid-ga-uzasugiru
+      title: "Uchi no Maid ga Uzasugiru!"
+
+kitsuId=41255:
+  shirobako-gekichuugeki-animation
+      title: "SHIROBAKO: Gekichuugeki Animation"
+  shirobako-movie
+      title: "SHIROBAKO Movie"
+
+kitsuId=41269:
+  conception
+      title: "CONCEPTION"
+  star-mu
+      title: "Star Mu"
+
+kitsuId=41403:
+  watashi-ni-tenshi-ga-maiorita-ova
+      title: "Watashi ni Tenshi ga Maiorita! OVA"
+  watashi-ni-tenshi-ga-maiorita
+      title: "Watashi ni Tenshi ga Maiorita!"
+
+kitsuId=41442:
+  golden-kamuy-2nd-season-ova
+      title: "Golden Kamuy 2nd Season OVA"
+  golden-kamuy-2nd-season
+      title: "Golden Kamuy 2nd Season"
+
+kitsuId=41871:
+  pocket-monsters-mewtwo-no-gyakushuu-evolution
+      title: "Pocket Monsters: Mewtwo no Gyakushuu EVOLUTION"
+  pocket-monsters-mewtwo-no-gyakushuu
+      title: "Pocket Monsters: Mewtwo no Gyakushuu"
+
+kitsuId=41875:
+  nekopara-extra-koneko-no-hi-no-yakusoku
+      title: "Nekopara EXTRA Koneko no Hi no Yakusoku"
+  nekopara-ova
+      title: "Nekopara OVA"
+
+kitsuId=41966:
+  go-toubun-no-hanayome-movie
+      title: "Go-toubun no Hanayome Movie"
+  go-toubun-no-hanayome
+      title: "Go-toubun no Hanayome"
+
+kitsuId=42057:
+  trinity-seven-movie-tenkuu-toshokan-to-shinku-no-maou
+      title: "Trinity Seven Movie - Tenkuu Toshokan to Shinku no Maou"
+  trinity-seven-movie-yuukyuu-toshokan-to-renkinjutsu-shoujo
+      title: "Trinity Seven Movie - Yuukyuu Toshokan to Renkinjutsu Shoujo"
+
+kitsuId=42092:
+  lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-tokubetsu-hen
+      title: "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note Tokubetsu-hen"
+  lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note
+      title: "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note"
+
+kitsuId=4211:
+  eden
+      title: "Eden"
+  higashi-no-eden
+      title: "Higashi no Eden"
+
+kitsuId=42137:
+  machikado-mazoku-2-choume
+      title: "Machikado Mazoku: 2-Choume"
+  machikado-mazoku
+      title: "Machikado Mazoku"
+
+kitsuId=42143:
+  bubble
+      title: "Bubble"
+  cider-no-you-ni-kotoba-ga-wakiagaru
+      title: "Cider no You ni Kotoba ga Wakiagaru"
+
+kitsuId=42194:
+  yahari-ore-no-seishun-love-come-wa-machigatteiru-kan-dakara-shishunki-wa-owarazu-ni-seishun-wa-tsuzuiteiku
+      title: "Yahari Ore no Seishun Love Come wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku."
+  yahari-ore-no-seishun-love-come-wa-machigatteiru-kan
+      title: "Yahari Ore no Seishun Love Come wa Machigatteiru. Kan"
+
+kitsuId=422:
+  one-piece-nejimaki-jima-no-bouken-jango-no-dance-carnival
+      title: "ONE PIECE: Nejimaki-jima no Bouken - Jango no Dance Carnival"
+  one-piece-nejimaki-jima-no-bouken
+      title: "ONE PIECE: Nejimaki-jima no Bouken"
+
+kitsuId=42221:
+  joshikousei-no-mudazukai
+      title: "Joshikousei no Mudazukai"
+  joshikousei
+      title: "Joshikousei"
+
+kitsuId=42429:
+  bishoujo-senshi-sailor-moon-eternal-kouhen
+      title: "Bishoujo Senshi Sailor Moon: Eternal - Kouhen"
+  bishoujo-senshi-sailor-moon-eternal-zenpen
+      title: "Bishoujo Senshi Sailor Moon: Eternal - Zenpen"
+
+kitsuId=42554:
+  fruits-basket-1st-season
+      title: "Fruits Basket: 1st Season"
+  fruits-basket-2nd-season
+      title: "Fruits Basket: 2nd Season"
+
+kitsuId=42586:
+  gekijouban-ple-ple-pleiades
+      title: "Gekijouban Ple Ple Pleiades"
+  kimetsu-no-yaiba-mugen-ressha-hen
+      title: "Kimetsu no Yaiba: Mugen Ressha-hen"
+
+kitsuId=42628:
+  slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni
+      title: "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni"
+  slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita
+      title: "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita"
+
+kitsuId=42765:
+  jujutsu-kaisen-kaigyokugyokusetsu
+      title: "Jujutsu Kaisen: Kaigyoku・Gyokusetsu"
+  jujutsu-kaisen
+      title: "Jujutsu Kaisen"
+
+kitsuId=42915:
+  ore-wo-suki-nano-wa-omae-dake-ka-yo-oretachi-no-game-set
+      title: "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set"
+  ore-wo-suki-nano-wa-omae-dake-ka-yo
+      title: "Ore wo Suki nano wa Omae dake ka yo"
+
+kitsuId=43034:
+  tonikaku-kawaii-sns
+      title: "Tonikaku Kawaii: SNS"
+  tonikaku-kawaii
+      title: "Tonikaku Kawaii"
+
+kitsuId=43063:
+  yesterday-wo-utatte-extras
+      title: "Yesterday wo Utatte Extras"
+  yesterday-wo-utatte
+      title: "Yesterday wo Utatte"
+
+kitsuId=43108:
+  boku-no-hero-academia-5-ona
+      title: "Boku no Hero Academia 5 (ONA)"
+  boku-no-hero-academia-5
+      title: "Boku no Hero Academia 5"
+
+kitsuId=43238:
+  otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x-unmei-no-hito-ni-deatte-shimatta
+      title: "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X: Unmei no Hito ni Deatte Shimatta..."
+  otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x
+      title: "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X"
+
+kitsuId=43247:
+  rezero-kara-hajimeru-isekai-seikatsu-2nd-season-part-2
+      title: "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
+  rezero-kara-hajimeru-isekai-seikatsu-2nd-season
+      title: "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season"
+  rezero-kara-hajimeru-isekai-seikatsu-3rd-season
+      title: "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season"
+
+kitsuId=43361:
+  tensei-shitara-slime-datta-ken-2nd-season-part-2
+      title: "Tensei Shitara Slime Datta Ken 2nd Season Part 2"
+  tensei-shitara-slime-datta-ken-2nd-season
+      title: "Tensei Shitara Slime Datta Ken 2nd Season"
+
+kitsuId=43607:
+  honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-2nd-season
+      title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season"
+  honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-3rd-season
+      title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season"
+
+kitsuId=43823:
+  wave-surfing-yappe-tv
+      title: "WAVE!! Surfing Yappe!! (TV)"
+  wave-surfing-yappe
+      title: "WAVE!! Surfing Yappe!!"
+
+kitsuId=44012:
+  hells
+      title: "Hells"
+  jigokuraku
+      title: "Jigokuraku"
+
+kitsuId=44114:
+  totsukuni-no-shoujo-2022
+      title: "Totsukuni no Shoujo (2022)"
+  totsukuni-no-shoujo
+      title: "Totsukuni no Shoujo"
+
+kitsuId=44168:
+  mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi
+      title: "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi"
+  spriggan-ona
+      title: "SPRIGGAN (ONA)"
+
+kitsuId=442:
+  yugioh-duel-monsters
+      title: "Yu☆Gi☆Oh! Duel Monsters"
+  yugioh
+      title: "Yu☆Gi☆Oh!"
+
+kitsuId=44205:
+  orient-awajishima-gekitou-hen
+      title: "ORIENT: Awajishima Gekitou-hen"
+  orient
+      title: "ORIENT"
+
+kitsuId=44396:
+  world-trigger-2nd-season
+      title: "World Trigger 2nd Season"
+  world-trigger-3rd-season
+      title: "World Trigger 3rd Season"
+
+kitsuId=44423:
+  gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii
+      title: "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II"
+  gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu
+      title: "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu"
+
+kitsuId=44451:
+  mahou-shoujo-madokamagica-hangyaku-no-monogatari
+      title: "Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari"
+  mahou-shoujo-madokamagica-walpurgis-no-kaiten
+      title: "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten"
+  mahou-shoujo-madokamagica
+      title: "Mahou Shoujo Madoka☆Magica"
+
+kitsuId=44537:
+  love-live-nijigasaki-gakuen-school-idol-doukoukai-2
+      title: "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2"
+  love-live-nijigasaki-gakuen-school-idol-doukoukai
+      title: "Love Live! Nijigasaki Gakuen School Idol Doukoukai"
+
+kitsuId=44601:
+  yuru-camp-ova
+      title: "Yuru Camp△ OVA"
+  yuru-camp-season-2-ova
+      title: "Yuru Camp△ SEASON 2 OVA"
+  yuru-camp-season-2
+      title: "Yuru Camp△ SEASON 2"
+
+kitsuId=44651:
+  free-the-final-stroke-kouhen
+      title: "Free!: the Final Stroke - Kouhen"
+  free-the-final-stroke-zenpen
+      title: "Free!: the Final Stroke - Zenpen"
+
+kitsuId=45014:
+  kobayashi-san-chi-no-maidragon-s-nippon-no-omotenashi-attend-wa-dragon-desu
+      title: "Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi (Attend wa Dragon desu)"
+  kobayashi-san-chi-no-maidragon-s
+      title: "Kobayashi-san Chi no Maidragon S"
+  kobayashi-san-chi-no-maidragon-valentine-soshite-onsen-amari-kitai-shinaide-kudasai
+      title: "Kobayashi-san Chi no Maidragon: Valentine, Soshite Onsen! (Amari Kitai Shinaide Kudasai)"
+  kobayashi-san-chi-no-maidragon
+      title: "Kobayashi-san Chi no Maidragon"
+
+kitsuId=45069:
+  yuukoku-no-moriarty-ova
+      title: "Yuukoku no Moriarty OVA"
+  yuukoku-no-moriarty-part-2
+      title: "Yuukoku no Moriarty Part 2"
+
+kitsuId=45367:
+  arknights-enshin-shomei
+      title: "Arknights: Enshin Shomei"
+  arknights-reimei-zensou
+      title: "Arknights: Reimei Zensou"
+  arknights-touin-kiro
+      title: "Arknights: Touin Kiro"
+
+kitsuId=45705:
+  lycoris-recoil-shinsaku-animation
+      title: "Lycoris Recoil (Shinsaku Animation)"
+  lycoris-recoil
+      title: "Lycoris Recoil"
+
+kitsuId=45925:
+  youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season
+      title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season"
+  youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season
+      title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season"
+
+kitsuId=45989:
+  dead-dead-demons-dededededestruction-zenshou
+      title: "Dead Dead Demon's Dededededestruction Zenshou"
+  dead-dead-demons-dededededestruction
+      title: "Dead Dead Demon's Dededededestruction"
+
+kitsuId=46038:
+  shingeki-no-kyojin-the-final-season-kanketsu-hen-zenpen
+      title: "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen"
+  shingeki-no-kyojin-zenpen-guren-no-yumiya
+      title: "Shingeki no Kyojin Zenpen: Guren no Yumiya"
+
+kitsuId=4604:
+  angel-beats-tokubetsu-hen
+      title: "Angel Beats! Tokubetsu-hen"
+  angel-beats
+      title: "Angel Beats!"
+
+kitsuId=4616:
+  shakugan-no-shana-s
+      title: "Shakugan no Shana S"
+  shakugan-no-shana-special-koi-to-onsen-no-kougai-gakushuu
+      title: "Shakugan no Shana Special: Koi to Onsen no Kougai Gakushuu!"
+
+kitsuId=46213:
+  genjitsu-no-yohane-sunshine-in-the-mirror
+      title: "Genjitsu no Yohane: SUNSHINE in the MIRROR"
+  school-days-tv
+      title: "School Days (TV)"
+
+kitsuId=46268:
+  hirano-to-kagiura
+      title: "Hirano to Kagiura"
+  sasaki-to-miyano-sotsugyou-hen
+      title: "Sasaki to Miyano: Sotsugyou-hen"
+
+kitsuId=46434:
+  i-i-a-ziam-the-animation
+      title: "I Я I A ZЁIЯAM THE ANIMATION"
+  konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu
+      title: "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu"
+
+kitsuId=46454:
+  arifureta-shokugyou-de-sekai-saikyou-3rd-season
+      title: "Arifureta Shokugyou de Sekai Saikyou 3rd season"
+  arifureta-shokugyou-de-sekai-saikyou-maboroshi-no-bouken-to-kiseki-no-kaigou
+      title: "Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou"
+
+kitsuId=46556:
+  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-shin-shou-meikyuu-hen
+      title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen"
+  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-shin-shou-yakusai-hen
+      title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Yakusai-hen"
+
+kitsuId=4659:
+  planet-with
+      title: "Planet With"
+  redline
+      title: "REDLINE"
+
+kitsuId=46596:
+  evangelion-shin-movie-ha
+      title: "Evangelion Shin Movie: Ha"
+  evangelion-shin-movie-jo
+      title: "Evangelion Shin Movie: Jo"
+  evangelion-shin-movie-kyuu
+      title: "Evangelion Shin Movie: Kyuu"
+  shin-evangelion-movie
+      title: "Shin Evangelion Movie:||"
+
+kitsuId=46686:
+  shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd
+      title: "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd"
+  shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita
+      title: "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita"
+
+kitsuId=46688:
+  boushoku-no-berserk-2nd-season
+      title: "Boushoku no Berserk 2nd Season"
+  boushoku-no-berserk
+      title: "Boushoku no Berserk"
+
+kitsuId=47020:
+  kekkon-yubiwa-monogatari-ii
+      title: "Kekkon Yubiwa Monogatari II"
+  kekkon-yubiwa-monogatari
+      title: "Kekkon Yubiwa Monogatari"
+
+kitsuId=4708:
+  break-blade-1-kakusei-no-toki
+      title: "Break Blade 1: Kakusei no Toki"
+  break-blade
+      title: "Break Blade"
+
+kitsuId=47132:
+  shingeki-no-kyojin-kouhen-jiyuu-no-tsubasa
+      title: "Shingeki no Kyojin Kouhen: Jiyuu no Tsubasa"
+  shingeki-no-kyojin-the-final-season-kanketsu-hen-kouhen
+      title: "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen"
+
+kitsuId=47209:
+  given-hiiragi-mix
+      title: "Given: Hiiragi mix"
+  given-movie
+      title: "Given Movie"
+
+kitsuId=47495:
+  shuumatsu-no-valkyrie-ii-part-2
+      title: "Shuumatsu no Valkyrie II Part 2"
+  shuumatsu-no-valkyrie-ii
+      title: "Shuumatsu no Valkyrie II"
+  valkyrie-no-shokutaku
+      title: "Valkyrie no Shokutaku"
+
+kitsuId=47640:
+  yi-ren-zhi-xia-2
+      title: "Yi Ren Zhi Xia 2"
+  yi-ren-zhi-xia
+      title: "Yi Ren Zhi Xia"
+
+kitsuId=47694:
+  mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2
+      title: "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2"
+  mushoku-tensei-ii-isekai-ittara-honki-dasu
+      title: "Mushoku Tensei II: Isekai Ittara Honki Dasu"
+
+kitsuId=47784:
+  nierautomata-ver11a-2nd-season
+      title: "NieR:Automata Ver1.1a 2nd Season"
+  nierautomata-ver11a
+      title: "NieR:Automata Ver1.1a"
+
+kitsuId=47964:
+  remonster-2nd-season
+      title: "Re:Monster 2nd Season"
+  remonster
+      title: "Re:Monster"
+
+kitsuId=48363:
+  jujutsu-kaisen-shimetsu-kaiyuu-kouhen
+      title: "Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen"
+  jujutsu-kaisen-shimetsu-kaiyuu-zenpen
+      title: "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen"
+
+kitsuId=4847:
+  sayonara-zetsubou-sensei-nyankin-no-kirisuto
+      title: "Sayonara Zetsubou Sensei: Nyankin no Kirisuto"
+  zan-sayonara-zetsubou-sensei-bangaichi
+      title: "Zan Sayonara Zetsubou Sensei Bangaichi"
+
+kitsuId=48651:
+  sasaki-to-pii-chan-season-2
+      title: "Sasaki to Pii-chan Season 2"
+  sasaki-to-pii-chan
+      title: "Sasaki to Pii-chan"
+
+kitsuId=48667:
+  hime-sama-goumon-no-jikan-desu-2nd-season
+      title: "Hime-sama, \"Goumon\" no Jikan desu 2nd Season"
+  hime-sama-goumon-no-jikan-desu
+      title: "Hime-sama, \"Goumon\" no Jikan desu"
+
+kitsuId=48834:
+  tougen-anki-nikkokegon-no-taki-hen
+      title: "Tougen Anki: Nikko・Kegon no Taki-hen"
+  tougen-anki
+      title: "Tougen Anki"
+
+kitsuId=48953:
+  jiyi-guanli-ju-2026
+      title: "Jiyi Guanli Ju (2026)"
+  jiyi-guanli-ju
+      title: "Jiyi Guanli Ju"
+
+kitsuId=48978:
+  tsuki-ga-michibiku-isekai-douchuu-2nd-season
+      title: "Tsuki ga Michibiku Isekai Douchuu 2nd Season"
+  tsuki-ga-michibiku-isekai-douchuu-3rd-season
+      title: "Tsuki ga Michibiku Isekai Douchuu 3rd Season"
+
+kitsuId=49001:
+  kimetsu-no-yaiba-mugenjou-hen-movie-1-akaza-sairai
+      title: "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai"
+  kimetsu-no-yaiba-mugenjou-hen-movie-3
+      title: "Kimetsu no Yaiba: Mugenjou-hen Movie 3"
+
+kitsuId=49119:
+  katainaka-no-ossan-kensei-ni-naru-ii
+      title: "Katainaka no Ossan, Kensei ni Naru II"
+  katainaka-no-ossan-kensei-ni-naru
+      title: "Katainaka no Ossan, Kensei ni Naru"
+
+kitsuId=49358:
+  watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta-next-shine
+      title: "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine!"
+  watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta
+      title: "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)"
+
+kitsuId=49433:
+  ranma-12-2024-2nd-season
+      title: "Ranma 1/2 (2024) 2nd Season"
+  ranma-12-2024-3rd-season
+      title: "Ranma 1/2 (2024) 3rd Season"
+
+kitsuId=49651:
+  nageki-no-bourei-wa-intai-shitai-2
+      title: "Nageki no Bourei wa Intai Shitai 2"
+  nageki-no-bourei-wa-intai-shitai
+      title: "Nageki no Bourei wa Intai Shitai"
+
+kitsuId=49776:
+  jibaku-shounen-hanako-kun-2-part-2
+      title: "Jibaku Shounen Hanako-kun 2 Part 2"
+  jibaku-shounen-hanako-kun-2
+      title: "Jibaku Shounen Hanako-kun 2"
+
+kitsuId=49847:
+  jojo-no-kimyou-na-bouken-steel-ball-run-1st-stage
+      title: "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE"
+  jojo-no-kimyou-na-bouken-steel-ball-run-2nd-3rd-stage
+      title: "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE"
+
+kitsuId=49889:
+  shiguang-dailiren-ii
+      title: "Shiguang Dailiren II"
+  shiguang-dailiren-iii
+      title: "Shiguang Dailiren III"
+
+kitsuId=50334:
+  omae-gotoki-ga-maou-ni-kateru-to-omou-na-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai
+      title: "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai"
+  yeonae-haru-jeon-zero
+      title: "Yeonae Haru Jeon ZERO"
+
+kitsuId=5045:
+  kisssis-tv
+      title: "kiss×sis (TV)"
+  kisssis
+      title: "kiss×sis"
+  x-tv
+      title: "X (TV)"
+
+kitsuId=50453:
+  tensei-shitara-slime-datta-ken-4th-season-part-1-2
+      title: "Tensei Shitara Slime Datta Ken 4th Season Part 1 & 2"
+  tensei-shitara-slime-datta-ken-4th-season-part-3
+      title: "Tensei Shitara Slime Datta Ken 4th Season Part 3"
+
+kitsuId=50455:
+  guimi-zhi-zhu-specials
+      title: "Guimi Zhi Zhu Specials"
+  guimi-zhi-zhu-xiaochou-pian
+      title: "Guimi Zhi Zhu: Xiaochou Pian"
+
+kitsuId=50606:
+  date-a-live-f-last-date
+      title: "Date A Live F Last Date"
+  new-game-watashi-shainryokoutte-hajimete-na-no-de
+      title: "NEW GAME!: Watashi, Shainryokoutte Hajimete na no de..."
+
+kitsuId=50760:
+  hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season
+      title: "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season"
+  hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru
+      title: "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru"
+
+kitsuId=50872:
+  tu-bian-yingxiong-baba
+      title: "Tu Bian Yingxiong BABA"
+  tu-bian-yingxiong-leaf
+      title: "Tu Bian Yingxiong LEAF"
+
+kitsuId=51076:
+  futsutsuka-na-akujo-de-wa-gozaimasu-ga-suuguu-chouso-torikae-den-part-2
+      title: "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den Part 2"
+  futsutsuka-na-akujo-de-wa-gozaimasu-ga-suuguu-chouso-torikae-den
+      title: "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den"
+
+kitsuId=53:
+  full-metal-panic-the-second-raid-zenyasai-scene-00
+      title: "Full Metal Panic! The Second Raid: Zenyasai - Scene 00"
+  full-metal-panic-the-second-raid
+      title: "Full Metal Panic! The Second Raid"
+
+kitsuId=56:
+  mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance
+      title: "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance"
+  mahou-shoujo-lyrical-nanoha
+      title: "Mahou Shoujo Lyrical Nanoha"
+
+kitsuId=5765:
+  ki-ni-natteru-hito-ga-otoko-ja-nakatta
+      title: "Ki ni Natteru Hito ga Otoko ja Nakatta"
+  mitsudomoe-zouryouchuu
+      title: "Mitsudomoe Zouryouchuu!"
+
+kitsuId=5825:
+  flag
+      title: "FLAG"
+  kami-nomi-zo-shiru-sekai-flag-0
+      title: "Kami nomi zo Shiru Sekai: Flag 0"
+
+kitsuId=5842:
+  gintama-shinyaku-benizakura-hen-special
+      title: "Gintama: Shinyaku Benizakura-hen Special"
+  gintama-shinyaku-benizakura-hen
+      title: "Gintama: Shinyaku Benizakura-hen"
+
+kitsuId=5949:
+  maken-ki-tsuu-pwatakushigoto
+      title: "Maken-Ki! Tsuu P～Watakushigoto"
+  maken-ki-tsuu
+      title: "Maken-Ki! Tsuu"
+  maken-ki
+      title: "Maken-Ki!"
+
+kitsuId=6001:
+  bakuman-2
+      title: "Bakuman. 2"
+  rewrite-2nd-season
+      title: "Rewrite 2nd Season"
+
+kitsuId=6039:
+  mayo-chiki
+      title: "Mayo Chiki!"
+  touch
+      title: "Touch"
+
+kitsuId=6060:
+  usagi-drop-mini-story
+      title: "Usagi Drop Mini Story"
+  usagi-drop
+      title: "Usagi Drop"
+
+kitsuId=6067:
+  hen-zemi-tv
+      title: "Hen Zemi (TV)"
+  hen-zemi
+      title: "Hen Zemi"
+
+kitsuId=6087:
+  tamayura-hitotose
+      title: "Tamayura: hitotose"
+  tamayura
+      title: "Tamayura"
+
+kitsuId=6098:
+  toaru-majutsu-no-index-ii-specials
+      title: "Toaru Majutsu no Index II Specials"
+  toaru-majutsu-no-index-specials
+      title: "Toaru Majutsu no Index Specials"
+
+kitsuId=6205:
+  yuru-yuri-doushitetomaranaitokimekidoki-dokiparadoxeternal
+      title: "Yuru Yuri: Doushite☆Tomaranai☆Tokimeki☆Doki Doki☆Paradox☆Eternal"
+  yuru-yuri
+      title: "Yuru Yuri,"
+
+kitsuId=6255:
+  persona-4-the-animation
+      title: "Persona 4 the Animation"
+  persona-trinity-soul
+      title: "PERSONA -trinity soul-"
+
+kitsuId=6448:
+  hunterhunter-2011
+      title: "HUNTER×HUNTER (2011)"
+  hunterhunter-greed-island-final
+      title: "HUNTER×HUNTER: Greed Island Final"
+  hunterhunter-greed-island
+      title: "HUNTER×HUNTER: Greed Island"
+  hunterhunter-ova
+      title: "HUNTER×HUNTER OVA"
+  hunterhunter-pilot-ban
+      title: "HUNTER×HUNTER Pilot-ban"
+  hunterhunter
+      title: "HUNTER×HUNTER"
+  x
+      title: "X"
+
+kitsuId=6589:
+  sword-art-online-integral-domain
+      title: "Sword Art Online: Integral Domain"
+  sword-art-online
+      title: "Sword Art Online"
+
+kitsuId=6646:
+  uchuu-senkan-yamato-2199
+      title: "Uchuu Senkan Yamato 2199"
+  uchuu-senkan-yamato
+      title: "Uchuu Senkan Yamato"
+
+kitsuId=6734:
+  amnesia
+      title: "AMNESIA"
+  tasogare-otome-amnesia
+      title: "Tasogare Otome × Amnesia"
+
+kitsuId=6929:
+  shinryaku-ika-musume-ova
+      title: "Shinryaku!! Ika Musume OVA"
+  shinryaku-ika-musume
+      title: "Shinryaku!? Ika Musume"
+
+kitsuId=6974:
+  hyouka-motsubeki-mono-wa
+      title: "Hyouka: Motsubeki Mono wa"
+  mono
+      title: "mono"
+
+kitsuId=7006:
+  ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-ona
+      title: "Ore no Imouto ga Konna ni Kawaii Wake ga Nai. (ONA)"
+  ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-true-route
+      title: "Ore no Imouto ga Konna ni Kawaii Wake ga Nai TRUE ROUTE"
+  ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai
+      title: "Ore no Imouto ga Konna ni Kawaii Wake ga Nai."
+
+kitsuId=7023:
+  pet
+      title: "pet"
+  sakurasou-no-pet-na-kanojo
+      title: "Sakurasou no Pet na Kanojo"
+
+kitsuId=7158:
+  jojo-no-kimyou-na-bouken-tv
+      title: "JoJo no Kimyou na Bouken (TV)"
+  jojo-no-kimyou-na-bouken
+      title: "JoJo no Kimyou na Bouken"
+
+kitsuId=7160:
+  chuunibyou-demo-koi-ga-shitai
+      title: "Chuunibyou demo Koi ga Shitai!"
+  i-byeore-piryohan
+      title: "I Byeore Piryohan"
+
+kitsuId=7190:
+  boku-wa-tomodachi-ga-sukunai-next
+      title: "Boku wa Tomodachi ga Sukunai NEXT"
+  love-stage
+      title: "LOVE STAGE!!"
+
+kitsuId=720:
+  dragon-ball-z
+      title: "Dragon Ball Z"
+  dragon-ball
+      title: "Dragon Ball"
+
+kitsuId=7203:
+  idol
+      title: "Idol"
+  love-live-school-idol-project
+      title: "Love Live! School idol project"
+
+kitsuId=7331:
+  onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials
+      title: "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! Specials"
+  onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne
+      title: "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne!"
+
+kitsuId=7442:
+  shingeki-no-kyojin-gaiden-kuinaki-sentaku
+      title: "Shingeki no Kyojin Gaiden: Kuinaki Sentaku"
+  shingeki-no-kyojin
+      title: "Shingeki no Kyojin"
+
+kitsuId=7510:
+  mirai-nikki-ova
+      title: "Mirai Nikki OVA"
+  mirai-nikki-redial
+      title: "Mirai Nikki: Redial"
+
+kitsuId=759:
+  air-gear
+      title: "Air Gear"
+  air
+      title: "AIR"
+
+kitsuId=7602:
+  ghost-in-the-shell-koukaku-kidoutai
+      title: "GHOST IN THE SHELL: Koukaku Kidoutai"
+  koukaku-kidoutai-arise-ghost-in-the-shell-border1-ghost-pain
+      title: "Koukaku Kidoutai ARISE: GHOST IN THE SHELL - border:1 Ghost Pain"
+  koukaku-kidoutai-the-ghost-in-the-shell
+      title: "Koukaku Kidoutai: THE GHOST IN THE SHELL"
+
+kitsuId=7617:
+  machine-doll-wa-kizutsukanai-ova
+      title: "Machine-Doll wa Kizutsukanai OVA"
+  machine-doll-wa-kizutsukanai
+      title: "Machine-Doll wa Kizutsukanai"
+
+kitsuId=7658:
+  7seeds-2
+      title: "7SEEDS 2"
+  fatezero-2nd-season
+      title: "Fate/Zero 2nd Season"
+
+kitsuId=7668:
+  so-ra-no-wo-to-ova
+      title: "So Ra No Wo To OVA"
+  so-ra-no-wo-to
+      title: "So Ra No Wo To"
+
+kitsuId=7696:
+  kingdom
+      title: "Kingdom"
+  magi-the-kingdom-of-magic
+      title: "Magi: The kingdom of magic"
+
+kitsuId=7754:
+  vampire-miyu-tv
+      title: "Vampire Miyu (TV)"
+  vampire-miyu
+      title: "Vampire Miyu"
+
+kitsuId=7776:
+  final-fantasy-vii-advent-children
+      title: "Final Fantasy VII: Advent Children"
+  final-fantasy
+      title: "Final Fantasy"
+
+kitsuId=7810:
+  fairy-tail-houou-no-miko-hajimari-no-asa
+      title: "FAIRY TAIL: Houou no Miko - Hajimari no Asa"
+  fairy-tail-houou-no-miko
+      title: "FAIRY TAIL: Houou no Miko"
+
+kitsuId=7850:
+  pocket-monsters-xy-mega-evolution
+      title: "Pocket Monsters XY: MEGA EVOLUTION"
+  pocket-monsters-xy
+      title: "Pocket Monsters XY"
+
+kitsuId=7863:
+  new-game
+      title: "NEW GAME!!"
+  psycho-pass-2
+      title: "PSYCHO-PASS 2"
+
+kitsuId=7870:
+  kyousougiga-tv
+      title: "Kyousougiga (TV)"
+  kyousougiga
+      title: "Kyousougiga"
+
+kitsuId=7882:
+  fatestay-night-unlimited-blade-works
+      title: "Fate/stay night: Unlimited Blade Works"
+  fatestay-night
+      title: "Fate/stay night"
+
+kitsuId=7889:
+  shingeki-no-kyojin-chimi-kyara-gekijou-final
+      title: "Shingeki no Kyojin: Chimi Kyara Gekijou - Final"
+  shingeki-no-kyojin-chimi-kyara-gekijou-rivai-han-part-2
+      title: "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han Part 2"
+  shingeki-no-kyojin-chimi-kyara-gekijou-rivai-han
+      title: "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han"
+  shingeki-no-kyojin-chimi-kyara-gekijou-tondeke-kunren-heidan
+      title: "Shingeki no Kyojin: Chimi Kyara Gekijou - Tondeke! Kunren Heidan"
+
+kitsuId=7894:
+  one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatari
+      title: "ONE PIECE: Episode of Merry - Mou Hitori no Nakama no Monogatari"
+  the-one-piece
+      title: "THE ONE PIECE"
+
+kitsuId=7895:
+  pocket-monsters-best-wishes-season-2-decolora-adventure
+      title: "Pocket Monsters Best Wishes! Season 2: Decolora Adventure"
+  pocket-monsters-best-wishes-season-2
+      title: "Pocket Monsters Best Wishes! Season 2"
+
+kitsuId=7964:
+  shin-kidou-senki-gundam-wing-endless-waltz-tokubetsu-hen
+      title: "Shin Kidou Senki Gundam Wing: Endless Waltz Tokubetsu-hen"
+  shin-kidou-senki-gundam-wing-endless-waltz
+      title: "Shin Kidou Senki Gundam Wing: Endless Waltz"
+
+kitsuId=7982:
+  grisaia-no-kajitsu-grisaia-no-tokuten
+      title: "Grisaia no Kajitsu: Grisaia no Tokuten"
+  grisaia-no-kajitsu
+      title: "Grisaia no Kajitsu"
+
+kitsuId=7996:
+  gokukoku-no-brynhildr-ova
+      title: "Gokukoku no Brynhildr OVA"
+  gokukoku-no-brynhildr
+      title: "Gokukoku no Brynhildr"
+
+kitsuId=8008:
+  hitsugi-no-chaika-nerawareta-hitsugiyomigaeru-iseki
+      title: "Hitsugi no Chaika: Nerawareta Hitsugi/Yomigaeru Iseki"
+  hitsugi-no-chaika
+      title: "Hitsugi no Chaika"
+
+kitsuId=8062:
+  yamada-kun-to-7-nin-no-majo-ona
+      title: "Yamada-kun to 7-nin no Majo (ONA)"
+  yamada-kun-to-7-nin-no-majo
+      title: "Yamada-kun to 7-nin no Majo"
+
+kitsuId=8063:
+  jojo-no-kimyou-na-bouken-stardust-crusaders-egypt-hen
+      title: "JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt-hen"
+  jojo-no-kimyou-na-bouken-stardust-crusaders
+      title: "JoJo no Kimyou na Bouken: Stardust Crusaders"
+
+kitsuId=8112:
+  mushishi-hihamukage
+      title: "Mushishi: Hihamukage"
+  tokubetsu-hen-hibike-euphonium-ensemble-contest
+      title: "Tokubetsu-hen Hibike! Euphonium: Ensemble Contest"
+
+kitsuId=8120:
+  toaru-majutsu-no-index-endymion-no-kiseki-special
+      title: "Toaru Majutsu no Index: Endymion no Kiseki Special"
+  toaru-majutsu-no-index-endymion-no-kiseki
+      title: "Toaru Majutsu no Index: Endymion no Kiseki"
+
+kitsuId=8144:
+  nagato-yuki-chan-no-shoushitsu
+      title: "Nagato Yuki-chan no Shoushitsu"
+  shy
+      title: "SHY"
+
+kitsuId=8148:
+  mangaka-san-to-assistant-san-to-the-animation-mini-ovas
+      title: "Mangaka-san to Assistant-san to THE ANIMATION: Mini OVAs"
+  mangaka-san-to-assistant-san-to-the-animation
+      title: "Mangaka-san to Assistant-san to THE ANIMATION"
+
+kitsuId=8149:
+  cocoon-aru-natsu-no-shoujo-tachi-yori
+      title: "cocoon: Aru Natsu no Shoujo-tachi Yori"
+  pokemon-the-movie-xy-hakai-no-mayu-to-diancie
+      title: "Pokémon The Movie XY: Hakai no Mayu to Diancie"
+
+kitsuId=8158:
+  hi-score-girl-extra-stage
+      title: "Hi Score Girl: EXTRA STAGE"
+  hi-score-girl-ii
+      title: "Hi Score Girl II"
+  hi-score-girl
+      title: "Hi Score Girl"
+
+kitsuId=8159:
+  omoide-no-marnie
+      title: "Omoide no Marnie"
+  one-outs
+      title: "One Outs"
+
+kitsuId=8174:
+  bulletbullet
+      title: "BULLET/BULLET"
+  sword-art-online-ii
+      title: "Sword Art Online II"
+
+kitsuId=8256:
+  magi-sinbad-no-bouken-ova
+      title: "Magi: Sinbad no Bouken OVA"
+  magi-sinbad-no-bouken
+      title: "Magi: Sinbad no Bouken"
+
+kitsuId=8297:
+  aldnoahzero-part-2
+      title: "Aldnoah.Zero Part 2"
+  aldnoahzero
+      title: "Aldnoah.Zero"
+
+kitsuId=8343:
+  onee-chan-ga-kita-hajimete-no-kitaa
+      title: "Onee-chan ga Kita: Hajimete no… Kitaa!"
+  onee-chan-ga-kita
+      title: "Onee-chan ga Kita"
+
+kitsuId=8402:
+  gekkan-shoujo-nozaki-kun-mini-ovas
+      title: "Gekkan Shoujo Nozaki-kun Mini OVAs"
+  gekkan-shoujo-nozaki-kun
+      title: "Gekkan Shoujo Nozaki-kun"
+
+kitsuId=8419:
+  suisei-no-gargantia-meguru-kouro-haruka
+      title: "Suisei no Gargantia: Meguru Kouro, Haruka"
+  suisei-no-gargantia-ova
+      title: "Suisei no Gargantia OVA"
+
+kitsuId=8488:
+  ao-haru-ride-page13
+      title: "Ao Haru Ride PAGE.13"
+  ao-haru-ride-unwritten
+      title: "Ao Haru Ride: unwritten"
+
+kitsuId=852:
+  aika
+      title: "AIKa"
+  aria-the-natural
+      title: "ARIA The NATURAL"
+
+kitsuId=8536:
+  bokura-wa-minna-kawaisou-hajimete-no
+      title: "Bokura wa Minna Kawaisou: Hajimete no"
+  bokura-wa-minna-kawaisou
+      title: "Bokura wa Minna Kawaisou"
+
+kitsuId=8646:
+  blood
+      title: "BLOOD+"
+  kekkai-sensen
+      title: "Kekkai Sensen"
+
+kitsuId=8651:
+  ore-ga-ojou-sama-gakkou-ni-shomin-sample-toshite-gets-sareta-ken-kujou-san-no-doesu-soudan-shitsu-anime-ban
+      title: "Ore ga Ojou-sama Gakkou ni \"Shomin Sample\" Toshite Gets-Sareta Ken: Kujou-san no Doesu Soudan-Shitsu Anime-ban"
+  ore-ga-ojou-sama-gakkou-ni-shomin-sample-toshite-gets-sareta-ken
+      title: "Ore ga Ojou-sama Gakkou ni \"Shomin Sample\" Toshite Gets-Sareta Ken"
+
+kitsuId=8662:
+  seirei-tsukai-no-blade-dance-mini-ovas
+      title: "Seirei Tsukai no Blade Dance Mini OVAs"
+  seirei-tsukai-no-blade-dance
+      title: "Seirei Tsukai no Blade Dance"
+
+kitsuId=8671:
+  shingeki-no-kyojin-season-2-kakusei-no-houkou
+      title: "Shingeki no Kyojin Season 2: Kakusei no Houkou"
+  shingeki-no-kyojin-season-2
+      title: "Shingeki no Kyojin Season 2"
+
+kitsuId=8698:
+  just-because
+      title: "Just Because!"
+  shirobako
+      title: "SHIROBAKO"
+
+kitsuId=8699:
+  nanatsu-no-taizai-eiyuu-tachi-wa-hashagu
+      title: "Nanatsu no Taizai: Eiyuu-tachi wa Hashagu"
+  nanatsu-no-taizai
+      title: "Nanatsu no Taizai"
+
+kitsuId=8774:
+  houseki-no-kuni-pv
+      title: "Houseki no Kuni PV"
+  houseki-no-kuni
+      title: "Houseki no Kuni"
+
+kitsuId=8806:
+  saiki-kusuo-no-nan-ona
+      title: "Saiki Kusuo no Ψ-nan (ONA)"
+  saiki-kusuo-no-nan
+      title: "Saiki Kusuo no Ψ-nan"
+
+kitsuId=9538:
+  memories
+      title: "MEMORIES"
+  plastic-memories
+      title: "Plastic Memories"
+
+kitsuId=972:
+  hypnosis-mic-division-rap-battle-rhyme-anima
+      title: "Hypnosis Mic -Division Rap Battle- Rhyme Anima"
+  kimagure-orangeroad
+      title: "Kimagure Orange☆Road"
+
+kitsuId=9962:
+  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-dungeon-ni-onsen-wo-motomeru-no-wa-machigatteiru-darou-ka
+      title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Dungeon ni Onsen wo Motomeru no wa Machigatteiru Darou ka"
+  dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka
+      title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
