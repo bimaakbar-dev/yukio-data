@@ -14,7 +14,6 @@ season: summer
 year: 2023
 episodes: 23
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "2023-07-06"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 8.6
-  # scoredBy: # edit manual
 
 genres:
   - action
