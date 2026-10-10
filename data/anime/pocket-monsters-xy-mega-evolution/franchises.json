@@ -1,0 +1,12 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "pokemon-xy",
+    "title": "Pokemon XY"
+  },
+  {
+    "relation": "parent_story",
+    "slug": "pokemon-xyz",
+    "title": "Pokemon XY&Z"
+  }
+]
