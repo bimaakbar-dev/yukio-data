@@ -1,0 +1,249 @@
+[
+  {
+    "name": "Cosette",
+    "nameNative": "コゼット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6197-OFGEh8fcftTl.png",
+    "role": "main",
+    "voiceActors": [
+      "kaori-nazuka",
+      "tamaki-matsumoto"
+    ]
+  },
+  {
+    "name": "Javert",
+    "nameNative": "ジャヴェール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7920.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takashi-matsuyama"
+    ]
+  },
+  {
+    "name": "Jean Valjean",
+    "nameNative": "ジャン・ヴァルジャン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7908-wiCCJZhorQQL.png",
+    "role": "main",
+    "voiceActors": [
+      "masashi-sugawara"
+    ]
+  },
+  {
+    "name": "Marius Pontmercy",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7909.jpg",
+    "role": "main",
+    "voiceActors": [
+      "anri-katsu"
+    ]
+  },
+  {
+    "name": "Alan",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7912.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "anri-katsu"
+    ]
+  },
+  {
+    "name": "Audrey",
+    "nameNative": "オドレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44751.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Azelma Thenardier",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7918.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kurumi-mamiya"
+    ]
+  },
+  {
+    "name": "Beatrice",
+    "nameNative": "ベアトリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44735.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Bishop Myriel",
+    "nameNative": "ミリエル司教",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26035.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chikao-ootsuka"
+    ]
+  },
+  {
+    "name": "Celestine",
+    "nameNative": "セレスティーヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/80559.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akari-kudou"
+    ]
+  },
+  {
+    "name": "Charlotte",
+    "nameNative": "シャルロット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44761.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-sasaki"
+    ]
+  },
+  {
+    "name": "Chouchou",
+    "nameNative": "シュシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b370830-ogv0QKpaxW5v.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Combeferre",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7924.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Courfeyrac",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7911.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-takemoto"
+    ]
+  },
+  {
+    "name": "Enjolras",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7910.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-kishi"
+    ]
+  },
+  {
+    "name": "Éponine Thénardier",
+    "nameNative": "エポニーヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7913.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-sasamoto"
+    ]
+  },
+  {
+    "name": "Fantine",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7921.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "emiko-hagiwara"
+    ]
+  },
+  {
+    "name": "Fauchelevent",
+    "nameNative": "フォーシュルヴァン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44747.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takkou-ishimori"
+    ]
+  },
+  {
+    "name": "Gavroche Thenardier",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7919.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumiko-kobayashi"
+    ]
+  },
+  {
+    "name": "Georges Pontmercy",
+    "nameNative": "ポンメルシー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44741.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akihiko-ishizumi"
+    ]
+  },
+  {
+    "name": "Grantaire",
+    "nameNative": "グランテール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7925.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norihisa-mori"
+    ]
+  },
+  {
+    "name": "Jean Prouvaire",
+    "nameNative": "プルーヴェール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35530.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keisuke-oda"
+    ]
+  },
+  {
+    "name": "Mabeuf",
+    "nameNative": "マブーフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44743.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "bin-shimada"
+    ]
+  },
+  {
+    "name": "Madame Thénardier",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7923.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-horikoshi"
+    ]
+  },
+  {
+    "name": "Mademoiselle Gillenormand",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44739.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Monsieur Gillenormand",
+    "nameNative": "ジルノルマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44737.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuo-komura"
+    ]
+  },
+  {
+    "name": "Mother Innocente",
+    "nameNative": "修道院院長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44733.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-sadaoka"
+    ]
+  },
+  {
+    "name": "Sister Simplice",
+    "nameNative": "シスター・サンプリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/44247.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-kanai"
+    ]
+  },
+  {
+    "name": "Thenardier",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7922.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masahito-yabe"
+    ]
+  }
+]
