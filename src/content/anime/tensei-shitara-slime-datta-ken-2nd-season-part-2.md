@@ -14,7 +14,6 @@ season: summer
 year: 2021
 episodes: 12
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "2021-07-06"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 8.2
-  # scoredBy: # edit manual
 
 genres:
   - action
@@ -36,6 +34,9 @@ studios:
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116742-jn0dW23ftehq.jpg"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116742-yJjsZw2UppWO.jpg"
 trailer: "S4VDmPgxpTs"
+
+addedAt: "2026-10-10T07:37:06.479Z"
+updatedAt: "2026-10-10T07:37:06.479Z"
 
 draft: false
 ---
