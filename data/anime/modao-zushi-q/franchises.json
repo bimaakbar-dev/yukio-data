@@ -1,0 +1,17 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "mo-dao-zu-shi",
+    "title": "Mo Dao Zu Shi"
+  },
+  {
+    "relation": "parent_story",
+    "slug": "mo-dao-zu-shi-xian-yun-pian",
+    "title": "Mo Dao Zu Shi: Xian Yun Pian"
+  },
+  {
+    "relation": "parent_story",
+    "slug": "mo-dao-zu-shi-wanjie-pian",
+    "title": "Mo Dao Zu Shi: Wanjie Pian"
+  }
+]
