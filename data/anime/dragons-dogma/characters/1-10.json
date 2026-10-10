@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Ethan",
+    "nameNative": "イーサン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189354-g3XY2ACd9GSy.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Hannah",
+    "nameNative": "ハンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189352-GpiXnwyUKeVw.png",
+    "role": "main",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "Balthazar",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191571-494y9M5eHp5w.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiichi-nakagawa"
+    ]
+  },
+  {
+    "name": "Dragon",
+    "nameNative": "ドラゴン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189353-Fz17EY5ZDGzK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-sugou"
+    ]
+  },
+  {
+    "name": "Elizabeth",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191572-2gEAynElp0ne.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayumi-tsunematsu"
+    ]
+  },
+  {
+    "name": "Louis",
+    "nameNative": "ルイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189351-xXn5W7GnFcBB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-sanpei"
+    ]
+  },
+  {
+    "name": "Olivia",
+    "nameNative": "オリビア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189350-aNvaX9dfVmnq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Salai",
+    "nameNative": "サライ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189349-upKxS1lx1txQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "suzuko-mimori"
+    ]
+  },
+  {
+    "name": "Simon",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191573-PeTZqGLdBQRK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-tsuruoka"
+    ]
+  },
+  {
+    "name": "Theo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191570-9q7ie6soxVvE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  }
+]
