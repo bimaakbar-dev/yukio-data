@@ -1,7 +1,17 @@
 [
   {
-    "relation": "prequel",
-    "slug": "5-toubun-no-hanayome-movie",
-    "title": "5-toubun no Hanayome Movie"
+    "relation": "sequel",
+    "slug": "5-toubun-no-hanayome",
+    "title": "5-toubun no Hanayome ∬"
+  },
+  {
+    "relation": "other",
+    "slug": "5-toubun-no-hanayome-5-shuunen-kinen-pv",
+    "title": "5-toubun no Hanayome 5-shuunen Kinen PV"
+  },
+  {
+    "relation": "other",
+    "slug": "5-toubun-no-princess-gensou-to-shinen-to-mahou-gakuin",
+    "title": "5-toubun no Princess: Gensou to Shinen to Mahou Gakuin"
   }
 ]
