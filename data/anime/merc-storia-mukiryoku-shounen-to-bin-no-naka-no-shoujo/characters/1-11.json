@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Merc",
+    "nameNative": "メルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132208-ojaXydQzPud7.jpg",
+    "role": "main",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Yuu",
+    "nameNative": "ユウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132209-DK9lvUdaiq1z.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mutsumi-tamura"
+    ]
+  },
+  {
+    "name": "Antel",
+    "nameNative": "アンテル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154393-fabuZlBIp1UD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kento-itou"
+    ]
+  },
+  {
+    "name": "Jamo",
+    "nameNative": "ジャモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132210-OdmrUYMDVP5j.png",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Orthos",
+    "nameNative": "オルトス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139620-6Ed7II0nnhEt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Raviol",
+    "nameNative": "ラヴィオル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202558-PrkbA2fw1G5W.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Salodeah",
+    "nameNative": "サローディア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132213-xDvgiZfsAJdM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "honoka-inoue"
+    ]
+  },
+  {
+    "name": "Shaolin",
+    "nameNative": "シャオリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132214-wtiDEYlvCQiP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Toto",
+    "nameNative": "トト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132215-Zk4jkhBBcUbl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumiri-hanamori"
+    ]
+  },
+  {
+    "name": "Yusea",
+    "nameNative": "ユージア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132211-lHidtjnjtYcj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Zephyrodai",
+    "nameNative": "ゼフュロダイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132212-jKU0fdWqp254.png",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  }
+]
