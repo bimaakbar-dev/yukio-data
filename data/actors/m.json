@@ -2841,6 +2841,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "midori-maki",
+    "name": "Midori Maki",
+    "nameNative": "真木碧",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111633-9Gfx67iNEwbT.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "midori-tsukimiya",
     "name": "Midori Tsukimiya",
     "nameNative": "月宮みどり",
@@ -3929,6 +3936,13 @@
     "name": "Miwa Matsumoto",
     "nameNative": "松本美和",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/937.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "miwa-oshiro",
+    "name": "Miwa Oshiro",
+    "nameNative": "大城美和",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1115.jpg",
     "defaultLanguage": "Japanese"
   },
   {
