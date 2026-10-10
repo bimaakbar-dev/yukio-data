@@ -1,0 +1,79 @@
+[
+  {
+    "name": "A37",
+    "nameNative": "A37",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192935-QCgF48OhyE5r.png",
+    "role": "main",
+    "voiceActors": [
+      "kyouko-hikami"
+    ]
+  },
+  {
+    "name": "E92",
+    "nameNative": "E92",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192934-WM80Wg97GNnd.png",
+    "role": "main",
+    "voiceActors": [
+      "kentarou-itou"
+    ]
+  },
+  {
+    "name": "Sara Grace",
+    "nameNative": "サラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192933-NXin6rhvcXBB.png",
+    "role": "main",
+    "voiceActors": [
+      "marika-kouno"
+    ]
+  },
+  {
+    "name": "Emily",
+    "nameNative": "Emily",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b260593-prmF4LrKd6dp.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Geneva",
+    "nameNative": "ジュネーブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224743-AlXPkYJso9t0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "PJ3",
+    "nameNative": "PJ3",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b260589-ELUvWQ0lKeNo.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "S566",
+    "nameNative": "S566",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224742-9qFl1xyHrRkS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tarusuke-shingaki"
+    ]
+  },
+  {
+    "name": "Zero",
+    "nameNative": "ゼロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192932-HP6OrrJnWTxe.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Zurich",
+    "nameNative": "チューリヒ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224744-ySc8tnMMp2hl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kuwahara"
+    ]
+  }
+]
