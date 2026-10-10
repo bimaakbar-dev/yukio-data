@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Alpha",
+    "nameNative": "アルファ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162246-IbbxkhNJFDN5.png",
+    "role": "main",
+    "voiceActors": [
+      "asami-seto"
+    ]
+  },
+  {
+    "name": "Beta",
+    "nameNative": "ベータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162247-R6OrAuT1FwL4.png",
+    "role": "main",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Delta",
+    "nameNative": "デルタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162248-57Xgk6EmwKRQ.png",
+    "role": "main",
+    "voiceActors": [
+      "fairouz-ai"
+    ]
+  },
+  {
+    "name": "Epsilon",
+    "nameNative": "イプシロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162249-eJRpBIC5lAZX.png",
+    "role": "main",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Eta",
+    "nameNative": "イータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289297-e2DgfeWhVPRa.jpg",
+    "role": "main",
+    "voiceActors": [
+      "reina-kondou"
+    ]
+  },
+  {
+    "name": "Gamma",
+    "nameNative": "ガンマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162245-x86QMM6nOj75.png",
+    "role": "main",
+    "voiceActors": [
+      "suzuko-mimori"
+    ]
+  },
+  {
+    "name": "Nu",
+    "nameNative": "ニュー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b168968-aXcvuihuWhqE.png",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Zeta",
+    "nameNative": "ゼータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264565-acUMiD3pz2ZU.png",
+    "role": "main",
+    "voiceActors": [
+      "ayaka-asai"
+    ]
+  }
+]
