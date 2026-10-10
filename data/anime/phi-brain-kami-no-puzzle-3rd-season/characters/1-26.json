@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Ana Gram",
+    "nameNative": "アナ・グラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43616-TlANOljc1alg.png",
+    "role": "main",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Cubic Galois",
+    "nameNative": "キュービック・G",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43614.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kouki-miyata"
+    ]
+  },
+  {
+    "name": "Gammon Sakanoue",
+    "nameNative": "逆之上ギャモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43609-70B3O4WQJ43X.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Kaito Daimon",
+    "nameNative": "大門カイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43610-en5kZEQSZtlc.png",
+    "role": "main",
+    "voiceActors": [
+      "chiwa-saitou",
+      "shintarou-asanuma"
+    ]
+  },
+  {
+    "name": "Nonoha Itou",
+    "nameNative": "井藤ノノハ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43612.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kaori-shimizu"
+    ]
+  },
+  {
+    "name": "Airi Mizutani",
+    "nameNative": "水谷アイリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64575-wqlHDaW1F66h.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-gotou"
+    ]
+  },
+  {
+    "name": "Akira Daimon",
+    "nameNative": "大門アキラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64583.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshihide-tsuchiya"
+    ]
+  },
+  {
+    "name": "Baron Kaidou",
+    "nameNative": "解道バロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43613.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Bishop",
+    "nameNative": "ビショップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43615.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Doubt",
+    "nameNative": "ダウト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60767.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Elena Himekawa",
+    "nameNative": "姫川エレナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52947-QqF59na3u1A5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-nakajima"
+    ]
+  },
+  {
+    "name": "Enigma",
+    "nameNative": "エニグマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87137-fN9uJkdSJVM0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Freecell",
+    "nameNative": "フリーセル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60761.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Herbert Müller",
+    "nameNative": "ヘルベルト･ミューラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/55277.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiyuki-morikawa"
+    ]
+  },
+  {
+    "name": "Jin Makata",
+    "nameNative": "真方ジン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/50853.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Lovushka",
+    "nameNative": "ラヴーシュカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264922-3TkIfMaUZyqQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houko-kuwashima"
+    ]
+  },
+  {
+    "name": "Melancholy",
+    "nameNative": "メランコリィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60765.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "momoko-saitou"
+    ]
+  },
+  {
+    "name": "Mizerka",
+    "nameNative": "ミゼルカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60773-6BGqCV2u2erq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Naoki Takeda",
+    "nameNative": "武田ナオキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64587.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masahito-yabe"
+    ]
+  },
+  {
+    "name": "Pinochle",
+    "nameNative": "ピノクル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60777.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Reitzell",
+    "nameNative": "レイツェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87135.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minori-chihara"
+    ]
+  },
+  {
+    "name": "Rook Banjou Crossfield",
+    "nameNative": "ルーク・盤城・クロスフィールド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43617.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Shizuka Daimon",
+    "nameNative": "大門シズカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/64585.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazusa-murai"
+    ]
+  },
+  {
+    "name": "Souji Jikukawa",
+    "nameNative": "軸川ソウジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43611.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Tamaki Chieno",
+    "nameNative": "千枝乃タマキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61533.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Yuuichi Aizawa",
+    "nameNative": "相沢ユウイチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64589-ADx7GfG51r43.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-kishio"
+    ]
+  }
+]
