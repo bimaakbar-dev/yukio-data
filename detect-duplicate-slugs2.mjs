@@ -229,7 +229,7 @@ async function main() {
   }
 
   const out = lines.join('\n');
-  await fs.writeFile('duplicates-all.txt', out, 'utf8');
+  await fs.writeFile('file.txt', out, 'utf8');
   console.log(`\nSelesai dalam ${Date.now() - t0} ms`);
   console.log(`✅ duplicates-all.txt (${out.length} bytes)`);
 }
