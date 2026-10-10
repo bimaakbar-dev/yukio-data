@@ -34,6 +34,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204650-MpownoV
 trailer: "upBWYExYoYc"
 
 draft: false
+addedAt: "2026-10-10"
+updatedAt: "2026-10-10"
 ---
 
 After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their "the total eradication of the Momotaro."
