@@ -1,0 +1,32 @@
+[
+  {
+    "relation": "alternative",
+    "slug": "clannad-movie",
+    "title": "Clannad Movie"
+  },
+  {
+    "relation": "alternative",
+    "slug": "clannad-mou-hitotsu-no-sekai-tomoyo-hen",
+    "title": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen"
+  },
+  {
+    "relation": "sequel",
+    "slug": "clannad-after-story",
+    "title": "Clannad: After Story"
+  },
+  {
+    "relation": "alternative",
+    "slug": "clannad-after-story-mou-hitotsu-no-sekai-kyou-hen",
+    "title": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen"
+  },
+  {
+    "relation": "character",
+    "slug": "kaginado",
+    "title": "Kaginado"
+  },
+  {
+    "relation": "character",
+    "slug": "kaginado-season-2",
+    "title": "Kaginado Season 2"
+  }
+]
