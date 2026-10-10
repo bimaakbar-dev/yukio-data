@@ -1,0 +1,27 @@
+[
+  {
+    "relation": "alternative",
+    "slug": "mai-hime",
+    "title": "Mai-HiME"
+  },
+  {
+    "relation": "side_story",
+    "slug": "mai-otome-specials",
+    "title": "Mai-Otome Specials"
+  },
+  {
+    "relation": "sequel",
+    "slug": "mai-otome-zwei",
+    "title": "Mai-Otome Zwei"
+  },
+  {
+    "relation": "prequel",
+    "slug": "mai-otome-0-sifr",
+    "title": "Mai-Otome 0: S.ifr"
+  },
+  {
+    "relation": "side_story",
+    "slug": "mai-otome-special-otome-no-inori",
+    "title": "Mai-Otome Special: Otome no Inori"
+  }
+]
