@@ -1,147 +1,100 @@
-// detect-duplicate-slugs.mjs
+// detect-duplicate-by-id.mjs
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
 const MD_DIR = 'src/content/anime';
-const DATA_DIR = 'data/anime';
 
-function normalizeSlug(s) {
-  return String(s ?? '')
-    .toLowerCase()
-    .replace(/[-_.\s]+/g, '');   // buang dash, underscore, dot, spasi
-}
-
-function levenshtein(a, b) {
-  if (a === b) return 0;
-  if (!a.length) return b.length;
-  if (!b.length) return a.length;
-  const m = [];
-  for (let i = 0; i <= b.length; i++) m[i] = [i];
-  for (let j = 0; j <= a.length; j++) m[0][j] = j;
-  for (let i = 1; i <= b.length; i++) {
-    for (let j = 1; j <= a.length; j++) {
-      const cost = a[j - 1] === b[i - 1] ? 0 : 1;
-      m[i][j] = Math.min(
-        m[i - 1][j] + 1,
-        m[i][j - 1] + 1,
-        m[i - 1][j - 1] + cost
-      );
-    }
-  }
-  return m[b.length][a.length];
-}
-
-function similarity(a, b) {
-  const max = Math.max(a.length, b.length);
-  if (max === 0) return 1;
-  return 1 - levenshtein(a, b) / max;
-}
-
-async function listMdSlugs() {
-  const entries = await fs.readdir(MD_DIR, { withFileTypes: true }).catch(() => []);
-  return entries
-    .filter((e) => e.isFile() && e.name.endsWith('.md'))
-    .map((e) => e.name.replace(/\.md$/, ''));
-}
-
-async function listDataSlugs() {
-  const entries = await fs.readdir(DATA_DIR, { withFileTypes: true }).catch(() => []);
-  return entries
-    .filter((e) => e.isDirectory())
-    .map((e) => e.name);
+function parseFm(content) {
+  const m = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+  if (!m) return {};
+  const fm = m[1] ?? '';
+  const get = (k) => {
+    const re = new RegExp(`^${k}:\\s*(.+)$`, 'm');
+    const match = fm.match(re);
+    if (!match) return null;
+    return match[1].trim().replace(/^["']|["']$/g, '');
+  };
+  return {
+    title: get('title'),
+    malId: get('malId'),
+    kitsuId: get('kitsuId'),
+    anilistId: get('anilistId'),
+  };
 }
 
 async function main() {
-  console.log('=== Deteksi Slug Duplikat ===\n');
+  const files = (await fs.readdir(MD_DIR)).filter((f) => f.endsWith('.md'));
+  const entries = [];
 
-  const mdSlugs = (await listMdSlugs()).sort();
-  const dataSlugs = new Set(await listDataSlugs());
-
-  console.log(`Total MD   : ${mdSlugs.length}`);
-  console.log(`Total data : ${dataSlugs.size}\n`);
-
-  // =====================================================
-  // DETEKSI 1: Slug duplikat (normalized)
-  // =====================================================
-  const byNormalized = new Map();
-  for (const slug of mdSlugs) {
-    const norm = normalizeSlug(slug);
-    if (!norm) continue;
-    if (!byNormalized.has(norm)) byNormalized.set(norm, []);
-    byNormalized.get(norm).push(slug);
+  for (const file of files) {
+    const content = await fs.readFile(path.join(MD_DIR, file), 'utf8');
+    const fm = parseFm(content);
+    entries.push({
+      slug: file.replace(/\.md$/, ''),
+      title: fm.title ?? '',
+      malId: fm.malId,
+      kitsuId: fm.kitsuId,
+      anilistId: fm.anilistId,
+    });
   }
 
-  const exactDup = [...byNormalized.entries()]
-    .filter(([, arr]) => arr.length > 1)
-    .sort();
+  console.log(`Total MD: ${entries.length}\n`);
 
-  // =====================================================
-  // DETEKSI 2: Slug mirip (fuzzy, high threshold)
-  // =====================================================
-  const similar = [];
-  const slugs = [...mdSlugs];
-  const FUZZY_THRESHOLD = 0.9;
-
-  for (let i = 0; i < slugs.length; i++) {
-    for (let j = i + 1; j < slugs.length; j++) {
-      const a = slugs[i];
-      const b = slugs[j];
-      if (Math.abs(a.length - b.length) > 5) continue;
-      const sim = similarity(a, b);
-      if (sim >= FUZZY_THRESHOLD && sim < 1) {
-        // Skip kalau sudah di deteksi normalized
-        if (normalizeSlug(a) === normalizeSlug(b)) continue;
-        similar.push({ a, b, sim });
-      }
-    }
+  // Group by malId
+  const byMal = new Map();
+  for (const e of entries) {
+    if (!e.malId) continue;
+    if (!byMal.has(e.malId)) byMal.set(e.malId, []);
+    byMal.get(e.malId).push(e);
   }
-  similar.sort((x, y) => y.sim - x.sim);
+  const dupMal = [...byMal.entries()].filter(([, a]) => a.length > 1).sort();
 
-  // =====================================================
-  // OUTPUT
-  // =====================================================
+  // Group by kitsuId
+  const byKitsu = new Map();
+  for (const e of entries) {
+    if (!e.kitsuId) continue;
+    if (!byKitsu.has(e.kitsuId)) byKitsu.set(e.kitsuId, []);
+    byKitsu.get(e.kitsuId).push(e);
+  }
+  const dupKitsu = [...byKitsu.entries()].filter(([, a]) => a.length > 1).sort();
+
   const lines = [];
-  lines.push('# Laporan Slug Duplikat');
-  lines.push(`# Generated: ${new Date().toISOString()}`);
-  lines.push(`# Total MD: ${mdSlugs.length}`);
+  lines.push('# Duplikat by External ID');
+  lines.push(`# Total MD: ${entries.length}`);
+  lines.push(`# Duplikat malId: ${dupMal.length} grup`);
+  lines.push(`# Duplikat kitsuId: ${dupKitsu.length} grup`);
   lines.push('');
+
   lines.push('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  lines.push(`1. DUPLIKAT EXACT (normalized) — ${exactDup.length} grup`);
+  lines.push(`1. DUPLIKAT by malId — ${dupMal.length} grup`);
   lines.push('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
   lines.push('');
-  if (exactDup.length === 0) {
-    lines.push('(tidak ada)');
-  } else {
-    for (const [norm, arr] of exactDup) {
-      lines.push(`"${norm}"`);
-      for (const s of arr) {
-        const hasData = dataSlugs.has(s) ? '[DATA]' : '      ';
-        lines.push(`  ${hasData}  ${s}`);
-      }
-      lines.push('');
+  for (const [malId, arr] of dupMal) {
+    lines.push(`malId=${malId}:`);
+    for (const e of arr) {
+      lines.push(`  ${e.slug}`);
+      lines.push(`      title: "${e.title}"`);
     }
-  }
-  lines.push('');
-  lines.push('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  lines.push(`2. SLUG MIRIP (fuzzy ≥ ${(FUZZY_THRESHOLD * 100).toFixed(0)}%) — ${similar.length} pasangan`);
-  lines.push('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  lines.push('');
-  if (similar.length === 0) {
-    lines.push('(tidak ada)');
-  } else {
-    for (const s of similar) {
-      lines.push(`${(s.sim * 100).toFixed(1)}%  ${s.a}  ↔  ${s.b}`);
-    }
+    lines.push('');
   }
 
-  const output = lines.join('\n');
-  await fs.writeFile('file.txt', output, 'utf8');
+  lines.push('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+  lines.push(`2. DUPLIKAT by kitsuId — ${dupKitsu.length} grup`);
+  lines.push('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+  lines.push('');
+  for (const [kitsuId, arr] of dupKitsu) {
+    lines.push(`kitsuId=${kitsuId}:`);
+    for (const e of arr) {
+      lines.push(`  ${e.slug}`);
+      lines.push(`      title: "${e.title}"`);
+    }
+    lines.push('');
+  }
 
-  console.log(output);
-  console.log(`\n📄 file.txt written (${output.length} bytes)`);
+  const out = lines.join('\n');
+  await fs.writeFile('file.txt', out, 'utf8');
+  console.log(out);
+  console.log(`\n✅ file.txt written`);
 }
 
-main().catch((err) => {
-  console.error('Fatal:', err);
-  process.exit(1);
-});
+main();
