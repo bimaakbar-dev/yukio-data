@@ -14,7 +14,6 @@ season: winter
 year: 2023
 episodes: 24
 duration: 26
-# rating: # edit manual
 
 aired:
   from: "2023-01-10"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 8.8
-  # scoredBy: # edit manual
 
 genres:
   - action
