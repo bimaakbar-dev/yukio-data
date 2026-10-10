@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Ann Takamaki",
+    "nameNative": "高巻杏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120335-122Vh3RaM4ZK.png",
+    "role": "main",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "Futaba Sakura",
+    "nameNative": "佐倉双葉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121635-x3rT0I5xKaDu.png",
+    "role": "main",
+    "voiceActors": [
+      "aoi-yuuki"
+    ]
+  },
+  {
+    "name": "Gorou Akechi",
+    "nameNative": "明智吾郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121782-e8wdhZPK0QnP.jpg",
+    "role": "main",
+    "voiceActors": [
+      "souichirou-hoshi"
+    ]
+  },
+  {
+    "name": "Haru Okumura",
+    "nameNative": "奥村春",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122978-OtZ7OEaRmK2i.png",
+    "role": "main",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Makoto Niijima",
+    "nameNative": "新島真",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122977-6OaO4teZ9qKT.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Morgana",
+    "nameNative": "モルガナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122976-Cx8eZHg8DZhN.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Ren Amamiya",
+    "nameNative": "雨宮蓮",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121590-0IyliPlkGSZa.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Ryuuji Sakamoto",
+    "nameNative": "坂本竜司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122974-i5CTdJd6ae27.png",
+    "role": "main",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Yuusuke Kitagawa",
+    "nameNative": "喜多川祐介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122975-2R5JywKMTFOg.png",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Chihaya Mifune",
+    "nameNative": "御船千早",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153743-o5Ucwx6sN6v0.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-terui"
+    ]
+  },
+  {
+    "name": "Chiken Tokusou Buchou",
+    "nameNative": "地検特捜部長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153744-wyMCEh3Ogn8O.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohisa-asou"
+    ]
+  },
+  {
+    "name": "Igor",
+    "nameNative": "イゴール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9102-0DCjId67QGu9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masane-tsukayama"
+    ]
+  },
+  {
+    "name": "Masayoshi Shido",
+    "nameNative": "獅童正義",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153729-ECqTDoNsmRsp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shuuichi-ikeda"
+    ]
+  },
+  {
+    "name": "Sadayo Kawakami",
+    "nameNative": "川上 貞代",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144821-nHU4yfmky9Ug.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-fuchigami"
+    ]
+  },
+  {
+    "name": "Sae Niijima",
+    "nameNative": "新島 冴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139199-G6O1eeWZsyBJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Sojiro Sakura",
+    "nameNative": "佐倉惣治郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153730-xvjcoKjdEsFC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Yuuki Mishima",
+    "nameNative": "三島由輝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153739-D1jeS8equIdS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-sakaguchi"
+    ]
+  }
+]
