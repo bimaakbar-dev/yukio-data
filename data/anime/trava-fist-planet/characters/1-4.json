@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Mikuru",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21723.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shie-kohinata"
+    ]
+  },
+  {
+    "name": "Shinkai",
+    "nameNative": "シンカイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24624-g19qdwbZvGje.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yoshiyuki-morishita"
+    ]
+  },
+  {
+    "name": "Travastila Anister",
+    "nameNative": "トラヴァ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24623-wojQ4Sr0sga1.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kanji-tsuda"
+    ]
+  },
+  {
+    "name": "Reiter",
+    "nameNative": "ライター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b247661-DUsv8g0l2NUi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-shimoda"
+    ]
+  }
+]
