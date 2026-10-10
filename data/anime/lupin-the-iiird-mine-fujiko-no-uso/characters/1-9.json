@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Arsène Lupin III",
+    "nameNative": "ルパン三世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1044-UriNGSc2CKPO.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kanichi-kurita"
+    ]
+  },
+  {
+    "name": "Daisuke Jigen",
+    "nameNative": "次元大介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1045-5VLjexUmCT6p.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kiyoshi-kobayashi"
+    ]
+  },
+  {
+    "name": "Fujiko Mine",
+    "nameNative": "峰不二子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1047-3VgNXvRjylHV.png",
+    "role": "main",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Jean",
+    "nameNative": "ジーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141794-2qUFVBsoQyLA.png",
+    "role": "main",
+    "voiceActors": [
+      "tomoe-hanba"
+    ]
+  },
+  {
+    "name": "Binkam",
+    "nameNative": "ビンカム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141795-aeY6Y9MtqyPy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Carla",
+    "nameNative": "カーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169570-heSmYFYE7enB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-asano"
+    ]
+  },
+  {
+    "name": "Godfrey",
+    "nameNative": "コドフリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169571-58ls6gWiXibt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuyoshi-hara"
+    ]
+  },
+  {
+    "name": "Lark",
+    "nameNative": "ラルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169569-YWMZUOUZmdo5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "biichi-sato"
+    ]
+  },
+  {
+    "name": "Randy",
+    "nameNative": "ランディ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169568-JDXsbJOX7q5U.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masato-obara"
+    ]
+  }
+]
