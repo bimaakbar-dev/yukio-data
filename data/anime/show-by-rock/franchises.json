@@ -1,32 +1,12 @@
 [
   {
-    "relation": "other",
-    "slug": "show-by-rock-legend-of-shingan-crimsonz",
-    "title": "Show By Rock!!: Legend of Shingan Crimsonz"
-  },
-  {
-    "relation": "other",
-    "slug": "show-by-rock-plasmagica-na-gogo",
-    "title": "Show By Rock!!: Plasmagica na Gogo"
-  },
-  {
-    "relation": "other",
-    "slug": "show-by-rock-x-joysound",
-    "title": "Show By Rock!! x Joysound"
+    "relation": "prequel",
+    "slug": "show-by-rock",
+    "title": "Show By Rock!!"
   },
   {
     "relation": "side_story",
     "slug": "show-by-rock-short",
     "title": "Show By Rock!! Short!!"
-  },
-  {
-    "relation": "sequel",
-    "slug": "show-by-rock",
-    "title": "Show By Rock!! #"
-  },
-  {
-    "relation": "spin_off",
-    "slug": "show-by-rock-mashumairesh",
-    "title": "Show By Rock!! Mashumairesh!!"
   }
 ]

@@ -1,26 +1,26 @@
 ---
-title: "SHOW BY ROCK!!"
-titleEnglish: "Show By Rock!!"
-titleNative: "ＳＨＯＷ ＢＹ ＲＯＣＫ!!"
+title: "SHOW BY ROCK!!#"
+titleEnglish: "Show By Rock!!#"
+titleNative: "SHOW BY ROCK!!#"
 
-malId: 27441
+malId: 32038
 kitsuId: "9729"
 
 type: TV
 status: finished
 source: game
 
-season: spring
-year: 2015
+season: fall
+year: 2016
 episodes: 12
 duration: 24
 
 aired:
-  from: "2015-04-05"
-  to: "2015-06-21"
+  from: "2016-10-02"
+  to: "2016-12-18"
 
 stats:
-  score: 6.7
+  score: 6.9
 
 genres:
   - comedy
@@ -30,9 +30,9 @@ genres:
 studios:
   - bones
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20843-bk5OtUiP8htg.png"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20843-ghI0sFaPJiQH.jpg"
-trailer: "WubzNbFbFpY"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21476-nLwZ0ilkBEex.png"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21476-pb4IZU2Dryvq.jpg"
+trailer: "3tPiLCp6tSM"
 
 draft: false
 ---
