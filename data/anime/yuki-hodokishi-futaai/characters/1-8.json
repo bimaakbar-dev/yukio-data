@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Akio",
+    "nameNative": "アキオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b272223-r3LLTA8k9rS6.png",
+    "role": "main",
+    "voiceActors": [
+      "kouki-uchiyama",
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Zorua",
+    "nameNative": "ゾロア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41131-OKecg2pY1ksv.png",
+    "role": "main",
+    "voiceActors": [
+      "rikako-aikawa"
+    ]
+  },
+  {
+    "name": "Akio no Chichi",
+    "nameNative": "アキオの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b272224-D3n3j8mCTyxN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Gaburias",
+    "nameNative": "ガブリアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243076-okJP7tBKGcht.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-ogami"
+    ]
+  },
+  {
+    "name": "Otoko",
+    "nameNative": "男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312948-561kDBQ5TciD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-ogami"
+    ]
+  },
+  {
+    "name": "Shimaboshi",
+    "nameNative": "シマポシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312947-8rnFrWVsqsGQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Shounin",
+    "nameNative": "商人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312964-VXyGJP1o027M.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Zoroark",
+    "nameNative": "ゾロアーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b41132-p1Qk2wOeZrMZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rikako-aikawa"
+    ]
+  }
+]
