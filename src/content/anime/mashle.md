@@ -14,7 +14,6 @@ season: spring
 year: 2023
 episodes: 12
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "2023-04-08"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 7.6
-  # scoredBy: # edit manual
 
 genres:
   - action
@@ -35,6 +33,9 @@ studios:
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151801-XxVf22Le6C8o.png"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151801-zBFaJMIJFWfS.jpg"
 trailer: "zl0Kiv0kuQQ"
+
+addedAt: "2026-10-10T07:32:07.131Z"
+updatedAt: "2026-10-10T07:32:07.131Z"
 
 draft: false
 ---
