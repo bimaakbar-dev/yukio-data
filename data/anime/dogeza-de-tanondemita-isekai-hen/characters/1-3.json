@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Elf-san",
+    "nameNative": "エルフさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206409-WAg4DhYozW3d.png",
+    "role": "main",
+    "voiceActors": [
+      "miyu-tomita"
+    ]
+  },
+  {
+    "name": "Suwaru Doge",
+    "nameNative": "土下座",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187186-etrpf83yYtDn.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Ten no Koe",
+    "nameNative": "天の声",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuma-horie"
+    ]
+  }
+]
