@@ -36,6 +36,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195516-B5M0cPa
 trailer: "YvNvvUeCztE"
 
 draft: false
+addedAt: "2026-10-10"
+updatedAt: "2026-10-10"
 ---
 
 In the aftermath of the Shi Clan’s rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district.
