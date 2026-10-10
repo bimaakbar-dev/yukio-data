@@ -14,7 +14,6 @@ season: spring
 year: 2006
 episodes: 26
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "2006-04-05"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 8.0
-  # scoredBy: # edit manual
 
 genres:
   - comedy
@@ -36,6 +34,9 @@ studios:
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx853-fiUtW8yohsSF.jpg"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/853-03VYT300hMaf.jpg"
 trailer: "ZM8a3QYtOfA"
+
+addedAt: "2026-10-10T07:40:12.851Z"
+updatedAt: "2026-10-10T07:40:12.851Z"
 
 draft: false
 ---
