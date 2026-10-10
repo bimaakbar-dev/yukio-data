@@ -14,7 +14,6 @@ season: spring
 year: 2019
 episodes: 1
 duration: 90
-# rating: # edit manual
 
 aired:
   from: "2019-06-15"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 8.4
-  # scoredBy: # edit manual
 
 genres:
   - drama
@@ -36,6 +34,9 @@ studios:
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104157-rk99XI56PaIC.jpg"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104157-PS7tfPpvJKhk.jpg"
 trailer: "UbLBbxSm8hs"
+
+addedAt: "2026-10-10T07:38:06.889Z"
+updatedAt: "2026-10-10T07:38:06.889Z"
 
 draft: false
 ---
