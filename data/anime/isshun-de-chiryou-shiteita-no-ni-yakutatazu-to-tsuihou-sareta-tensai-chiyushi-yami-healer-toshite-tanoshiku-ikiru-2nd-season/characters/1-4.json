@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Carmilla",
+    "nameNative": "カーミラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349226-uozKl1GomTIA.jpg",
+    "role": "main",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Lily",
+    "nameNative": "リリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349225-COneoCab1Muf.jpg",
+    "role": "main",
+    "voiceActors": [
+      "miharu-hanai"
+    ]
+  },
+  {
+    "name": "Zenos",
+    "nameNative": "ゼノス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b349224-BzHZhjCnmBsK.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shougo-sakata"
+    ]
+  },
+  {
+    "name": "Zophia",
+    "nameNative": "ゾフィア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b352988-E5kowWNEDqGc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "anna-nagase"
+    ]
+  }
+]
