@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Akira Fudou",
+    "nameNative": "不動明",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2456-rTjIXMLPHTu2.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Devilman",
+    "nameNative": "デビルマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7973-xqPod2UbMcmH.png",
+    "role": "main",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Agwell",
+    "nameNative": "アグウェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/74617.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshihiko-nakajima"
+    ]
+  },
+  {
+    "name": "Gelmar",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18591-cVL12kCapiyJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumihiko-tachiki"
+    ]
+  },
+  {
+    "name": "Jinmen",
+    "nameNative": "ジンメン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18592-bJ0uhY8d7VLT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-aono"
+    ]
+  },
+  {
+    "name": "Kaim",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b74856-crYRRMZDlXfj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Miki Makimura",
+    "nameNative": "牧村美樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7968-te8U6niaAoKk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-kouyamaki"
+    ]
+  },
+  {
+    "name": "Ryo Asuka",
+    "nameNative": "飛鳥了",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4092-63yxC7cCrWke.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-mizushima"
+    ]
+  },
+  {
+    "name": "Silene",
+    "nameNative": "シレーヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18590-uSU2YjJWxWgJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  },
+  {
+    "name": "Tare Makimura",
+    "nameNative": "村健タレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7967-EytwuXK0gbru.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "teiyuu-ichiryuusai"
+    ]
+  }
+]
