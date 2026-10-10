@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Bob",
+    "nameNative": "ボブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21659.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masaru-ikeda"
+    ]
+  },
+  {
+    "name": "Fujikuro",
+    "nameNative": "フジクロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21661.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Iria",
+    "nameNative": "イリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7792-liAFKRTsc3S4.png",
+    "role": "main",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Kei",
+    "nameNative": "ケイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21660-lftpugiKyhWl.png",
+    "role": "main",
+    "voiceActors": [
+      "mika-kanai"
+    ]
+  },
+  {
+    "name": "Zeiram",
+    "nameNative": "ゼイラム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21662-mS0AZj9SOM8x.jpg",
+    "role": "main",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Dr. Touka",
+    "nameNative": "トウカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31002.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuzuru-fujimoto"
+    ]
+  },
+  {
+    "name": "Glenn",
+    "nameNative": "グレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21658.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "juurouta-kosugi"
+    ]
+  },
+  {
+    "name": "Jambal",
+    "nameNative": "ジャンバル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/76977.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumihiko-tachiki"
+    ]
+  },
+  {
+    "name": "Komimasa",
+    "nameNative": "コミマサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31003.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chika-sakamoto"
+    ]
+  },
+  {
+    "name": "Puttoubaya",
+    "nameNative": "プットゥバヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31001.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  }
+]
