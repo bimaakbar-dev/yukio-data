@@ -1,0 +1,280 @@
+[
+  {
+    "name": "Albert Moriarty",
+    "nameNative": "アルバート・ジェームズ・モリアーティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151489-luCWYq86nKc2.png",
+    "role": "main",
+    "voiceActors": [
+      "takuya-satou"
+    ]
+  },
+  {
+    "name": "Louis Moriarty",
+    "nameNative": "ルイス・ジェームズ・モリアーティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151488-73KDsEi7BJGl.png",
+    "role": "main",
+    "voiceActors": [
+      "chiaki-kobayashi",
+      "nao-touyama"
+    ]
+  },
+  {
+    "name": "Sherlock Holmes",
+    "nameNative": "シャーロック・ホームズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151495-MQz2Bntpg1sO.png",
+    "role": "main",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "William Moriarty",
+    "nameNative": "ウィリアム・ジェームズ・モリアーティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151486-rAFZZZm0Byu0.png",
+    "role": "main",
+    "voiceActors": [
+      "souma-saitou",
+      "shizuka-ishigami"
+    ]
+  },
+  {
+    "name": "Argleton",
+    "nameNative": "アーグルトン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195951-xaKZbcjeLsIT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-terasoma"
+    ]
+  },
+  {
+    "name": "Belfor Shishaku",
+    "nameNative": "ベルファー子爵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195952-WdwINF1feket.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuaki-hoshino"
+    ]
+  },
+  {
+    "name": "Blitz Enders",
+    "nameNative": "ブリッツ・エンダース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195960-uJpkW2WgSmtR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  },
+  {
+    "name": "Burton",
+    "nameNative": "バートン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195949-jd0Q91BqAhEt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Dudley Bale",
+    "nameNative": "ダドリー・ベイル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b218638-l47mTIqglD9o.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kishou-taniyama"
+    ]
+  },
+  {
+    "name": "Eden",
+    "nameNative": "イーデン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195953-WN7droptwSUv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "El",
+    "nameNative": "エル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b191735-29DovYehN4ce.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-fujiwara"
+    ]
+  },
+  {
+    "name": "Fred Porlock",
+    "nameNative": "フレッド・ポーロック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151491-ND6O87myBETP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuto-uemura"
+    ]
+  },
+  {
+    "name": "Gregory Lestrade",
+    "nameNative": "グレゴリー レストレード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196059-qoGSKnuATk6X.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fuminori-komatsu"
+    ]
+  },
+  {
+    "name": "Gregson",
+    "nameNative": "グレッグソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b233708-JdXypr1XgtW8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuguo-mogami"
+    ]
+  },
+  {
+    "name": "Hudson",
+    "nameNative": "ハドソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151487-t2SS10P0l5GT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-asumi"
+    ]
+  },
+  {
+    "name": "Jefferson Hope",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196060-e0xBQGObA7rf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hideaki-tezuka"
+    ]
+  },
+  {
+    "name": "John Watson",
+    "nameNative": "ジョン・H・ワトソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151496-1aCcxynt5xoU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-ono"
+    ]
+  },
+  {
+    "name": "Lucian Atwood",
+    "nameNative": "ルシアン・アトウッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195986-ifO93KsCnIBG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeo-ootsuka"
+    ]
+  },
+  {
+    "name": "Michelle",
+    "nameNative": "ミシェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195954-RpvE0J4Agutg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "umeka-shouji"
+    ]
+  },
+  {
+    "name": "Moriarty Fuujin",
+    "nameNative": "モリァーティ夫人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195956-AyyaPglXSlF3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouko-yuzuki"
+    ]
+  },
+  {
+    "name": "Moriarty Hakushaku",
+    "nameNative": "モリァーティ伯爵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195955-SSCWyXiYGRcF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youji-ueda"
+    ]
+  },
+  {
+    "name": "Mycroft Holmes",
+    "nameNative": "マイクロフト・ホームズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151492-JHwmy6E995na.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Richard",
+    "nameNative": "リチャード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195950-lRDnENOSeI0q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenyuu-horiuchi"
+    ]
+  },
+  {
+    "name": "Roddy",
+    "nameNative": "ロディー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195958-twf0gqeFnAbq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reina-aoyama"
+    ]
+  },
+  {
+    "name": "Sebastian Moran",
+    "nameNative": "セバスチャン・モラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151490-cxIe19kBnHcs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Simon",
+    "nameNative": "サイモン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195959-k1A2Gh0nuuRA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuguo-mogami"
+    ]
+  },
+  {
+    "name": "Stanford",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195990-oJwJbGJflX4R.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoru-itou"
+    ]
+  },
+  {
+    "name": "Tate Percival",
+    "nameNative": "テイト・パーシヴァル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375492-1bKEaLtzvP0R.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-shin"
+    ]
+  },
+  {
+    "name": "Thomas Michaelson",
+    "nameNative": "トマース・マイケルソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195961-VlroSe6W6nLL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-gotou"
+    ]
+  },
+  {
+    "name": "Wiggins",
+    "nameNative": "ウィギンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196062-7e11JSHWOuSa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-sakakihara"
+    ]
+  },
+  {
+    "name": "Your Majesty",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196265-nhf6vDVtBErx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mie-sonozaki"
+    ]
+  }
+]
