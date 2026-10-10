@@ -3,7 +3,7 @@ title: "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE"
 titleEnglish: "STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE"
 titleNative: ジョジョの奇妙な冒険 スティール・ボール・ラン 1st STAGE
 
-malId: 61469
+# malId: 61469
 kitsuId: "49847"
 
 type: ONA
