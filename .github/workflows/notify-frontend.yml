@@ -1,16 +1,13 @@
-name: Notify Frontend
+name: Notify Frontends
 
 on:
-  # Auto-trigger dimatikan sementara selama fase scraping.
-  # Aktifkan kembali setelah semua data selesai.
-  #
-  # push:
-  #   branches: [main]
-  #   paths:
-  #     - 'data/**'
-
+  push:
+    branches: [main]
+    paths:
+      - 'src/content/anime/**'
+      - 'data/anime/**'
   workflow_dispatch:
-
+  
 jobs:
   notify:
     runs-on: ubuntu-latest
@@ -20,4 +17,11 @@ jobs:
         with:
           token: ${{ secrets.FRONTEND_PAT }}
           repository: bimaakbar-dev/yukionime
+          event-type: data-updated
+
+      - name: Trigger qimochi rebuild
+        uses: peter-evans/repository-dispatch@v4
+        with:
+          token: ${{ secrets.FRONTEND_PAT }}
+          repository: bimaakbar-dev/qimochi
           event-type: data-updated
