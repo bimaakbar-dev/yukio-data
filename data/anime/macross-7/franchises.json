@@ -1,0 +1,32 @@
+[
+  {
+    "relation": "prequel",
+    "slug": "macross-plus",
+    "title": "Macross Plus"
+  },
+  {
+    "relation": "side_story",
+    "slug": "macross-7-plus",
+    "title": "Macross 7 Plus"
+  },
+  {
+    "relation": "side_story",
+    "slug": "macross-7-movie-ginga-ga-ore-wo-yondeiru",
+    "title": "Macross 7 Movie: Ginga ga Ore wo Yondeiru!"
+  },
+  {
+    "relation": "side_story",
+    "slug": "macross-7-encore",
+    "title": "Macross 7 Encore"
+  },
+  {
+    "relation": "sequel",
+    "slug": "macross-dynamite-7",
+    "title": "Macross Dynamite 7"
+  },
+  {
+    "relation": "alternative",
+    "slug": "macross-fb7-ore-no-uta-wo-kike",
+    "title": "Macross FB7: Ore no Uta wo Kike!"
+  }
+]
