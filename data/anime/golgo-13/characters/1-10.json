@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Golgo 13",
+    "nameNative": "ゴルゴ13",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/11734.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tetsuro-sagawa"
+    ]
+  },
+  {
+    "name": "Leonard Dawson",
+    "nameNative": "レオナルド・ドーソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39898.jpg",
+    "role": "main",
+    "voiceActors": [
+      "gorou-naya"
+    ]
+  },
+  {
+    "name": "Albert",
+    "nameNative": "アルバート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57247.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-kitamura"
+    ]
+  },
+  {
+    "name": "Big Snake",
+    "nameNative": "ビッグ・スネーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57253.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuo-senda"
+    ]
+  },
+  {
+    "name": "Bob Bragan",
+    "nameNative": "ボブ・ブレイガン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60035.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousei-tomita"
+    ]
+  },
+  {
+    "name": "Gold",
+    "nameNative": "ゴールド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57239.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Laura Dawson",
+    "nameNative": "ローラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57243.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "reiko-mutou"
+    ]
+  },
+  {
+    "name": "Pablo",
+    "nameNative": "パブロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/57237.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-aono"
+    ]
+  },
+  {
+    "name": "Paco",
+    "nameNative": "パゴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60031.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-shima"
+    ]
+  },
+  {
+    "name": "Robert Dawson",
+    "nameNative": "ロバート・ドーソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/39897.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kei-tomiyama"
+    ]
+  }
+]
