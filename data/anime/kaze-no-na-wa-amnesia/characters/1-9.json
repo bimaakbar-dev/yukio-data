@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Sophia",
+    "nameNative": "ソフィア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8321-Sz3kQmIuZSos.png",
+    "role": "main",
+    "voiceActors": [
+      "keiko-toda"
+    ]
+  },
+  {
+    "name": "Wataru",
+    "nameNative": "ワタル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8320-64UcTmiVznmD.png",
+    "role": "main",
+    "voiceActors": [
+      "kazuki-yao"
+    ]
+  },
+  {
+    "name": "Guardian",
+    "nameNative": "ガーディアン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34724-BgHP9yd6ME3E.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaharu-satou"
+    ]
+  },
+  {
+    "name": "Johnny",
+    "nameNative": "ジョニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6808-45Cvpz5ly12W.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Lisa",
+    "nameNative": "リサ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8322-gEhjuv3CO0OO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-hidaka"
+    ]
+  },
+  {
+    "name": "Little John",
+    "nameNative": "リトルジョン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34723-KsiLjPfBBATW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-gouri"
+    ]
+  },
+  {
+    "name": "Shisai",
+    "nameNative": "司祭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34725-pTFwKzp7Z56e.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hirohiko-kakegawa"
+    ]
+  },
+  {
+    "name": "Simpson",
+    "nameNative": "シンプソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b27669-UaLxsy2Q8JPA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "osamu-saka"
+    ]
+  },
+  {
+    "name": "Sue",
+    "nameNative": "スー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34722-fxn2fQR9hDux.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-iguchi"
+    ]
+  }
+]
