@@ -34,6 +34,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-g
 trailer: "8AnNxEp733c"
 
 draft: false
+addedAt: "2026-10-10"
+updatedAt: "2026-10-10"
 ---
 
 After thwarting a hijacking with beautiful, silver-haired detective Siesta, Kimihiko leads a life of globe-trotting and crime-solving—until Siesta dies. A year later, a new case will open old wounds as it threads murder, conspiracy, and his dead partner!
