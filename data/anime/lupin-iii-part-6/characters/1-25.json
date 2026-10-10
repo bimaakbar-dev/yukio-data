@@ -1,0 +1,228 @@
+[
+  {
+    "name": "Arsène Lupin III",
+    "nameNative": "ルパン三世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1044-UriNGSc2CKPO.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kanichi-kurita"
+    ]
+  },
+  {
+    "name": "Daisuke Jigen",
+    "nameNative": "次元大介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1045-5VLjexUmCT6p.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akio-ootsuka",
+      "kiyoshi-kobayashi"
+    ]
+  },
+  {
+    "name": "Fujiko Mine",
+    "nameNative": "峰不二子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1047-3VgNXvRjylHV.png",
+    "role": "main",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Goemon Ishikawa XIII",
+    "nameNative": "石川五ェ門",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1046-kFemmr8KkgFb.png",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Kouichi Zenigata",
+    "nameNative": "銭形幸一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1048-GDlCKww1le0Q.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Albert Dandrezie",
+    "nameNative": "アルベール・ダンドレジー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127421-1HOjxbh4tcEr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Amelia",
+    "nameNative": "アメリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342633-qOsVlqjMJhiH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-han"
+    ]
+  },
+  {
+    "name": "Arianna",
+    "nameNative": "アリアンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342629-Zp5Aa5RX6Dhj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nanako-mori"
+    ]
+  },
+  {
+    "name": "Finn Clark",
+    "nameNative": "フィン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342729-IPycMQOhSn1i.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Gabby",
+    "nameNative": "ギャビー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b286511-E9uuYUm2Swdt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Gorou  Yatagarasu",
+    "nameNative": "八咫烏五郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156242-bNvxcKjTjNzg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Hazel",
+    "nameNative": "ヘイゼル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342628-NfJPf0cEui8W.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Holmes",
+    "nameNative": "ホームズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b247306-pnXDJCEAa4oU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masato-obara"
+    ]
+  },
+  {
+    "name": "Jackal",
+    "nameNative": "ジャッカル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313164-vy0gilan7qY3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsutaka-itakura"
+    ]
+  },
+  {
+    "name": "James Moriarty",
+    "nameNative": "ジェームズ・モリアーティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284082-m7KUEHB5OlX7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Lestrade",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313161-xf3MATbNtiQl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoyuki-shimura"
+    ]
+  },
+  {
+    "name": "Lily",
+    "nameNative": "リリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b247307-y8Xm3ApE6lxZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-morohoshi"
+    ]
+  },
+  {
+    "name": "Linfa",
+    "nameNative": "リンファ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342630-uEaJqTyLZgTY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Mariel Clark",
+    "nameNative": "マリエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342730-TK0oFbDQncXN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Mattea Farah",
+    "nameNative": "マティア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270957-ZzKu5lSfgArt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "risa-shimizu"
+    ]
+  },
+  {
+    "name": "Mercedes",
+    "nameNative": "メルセデス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342627-iu3bB44Xvc1l.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroko-kiso"
+    ]
+  },
+  {
+    "name": "Muru",
+    "nameNative": "ムルー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342634-eeVe1UCTxQ9B.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reika-uyama"
+    ]
+  },
+  {
+    "name": "Mylene Legrand",
+    "nameNative": "ミレーヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313162-X3GGMRV9VltT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-satou"
+    ]
+  },
+  {
+    "name": "Sed",
+    "nameNative": "セド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313163-tOSusGLpGlqi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-nara"
+    ]
+  },
+  {
+    "name": "Tomoe",
+    "nameNative": "トモエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b313160-GSjF0nTw6uDN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rica-fukami",
+      "miru-hitotsuyanagi"
+    ]
+  }
+]
