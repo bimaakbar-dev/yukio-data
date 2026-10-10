@@ -3,7 +3,7 @@ title: "PERSONA5 the Animation: Dark Sun..."
 titleEnglish: "PERSONA5 the Animation: Dark Sun..."
 titleNative: "PERSONA5 the Animation: Dark Sun…"
 
-malId: 38431
+malId: 38149
 kitsuId: "41972"
 
 type: Special
