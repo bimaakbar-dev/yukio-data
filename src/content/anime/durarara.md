@@ -14,7 +14,6 @@ season: winter
 year: 2010
 episodes: 24
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "2010-01-08"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 7.9
-  # scoredBy: # edit manual
 
 genres:
   - action
@@ -35,6 +33,9 @@ studios:
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6746-3LTwM95Uqeoa.png"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6746-84oNA7P9pboV.jpg"
 trailer: "q5qlX4lWst0"
+
+addedAt: "2026-10-10T07:28:08.028Z"
+updatedAt: "2026-10-10T07:28:08.028Z"
 
 draft: false
 ---
