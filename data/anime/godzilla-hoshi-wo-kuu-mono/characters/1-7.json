@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Gojira",
+    "nameNative": "ゴジラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b26845-FYwdjDa6drVc.jpg",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Haruo Sakaki",
+    "nameNative": "ハルオ・サカキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121799-jFznIZrbYiik.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mamoru-miyano"
+    ]
+  },
+  {
+    "name": "Metphies",
+    "nameNative": "メトフィエス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121805-EMNZCSj869dz.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Adam Bindewald",
+    "nameNative": "アダム・ビンデバルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121813-hrZpD9Bnr4XS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kaji"
+    ]
+  },
+  {
+    "name": "Maina",
+    "nameNative": "マイナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135160-aqBqh5zyPEzT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reina-ueda"
+    ]
+  },
+  {
+    "name": "Martin Lazzari",
+    "nameNative": "マーティン・ラッザリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121811-dXDiUICwlNHV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Miana",
+    "nameNative": "ミアナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135159-k2eeTnLBVo8K.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ari-ozawa"
+    ]
+  }
+]
