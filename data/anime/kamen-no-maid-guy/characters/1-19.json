@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Fubuki",
+    "nameNative": "フブキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11142-KxUGvAv3Rb3b.png",
+    "role": "main",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Kogarashi",
+    "nameNative": "コガラシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11140-wluoBZEKnkyv.png",
+    "role": "main",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Kousuke Fujiwara",
+    "nameNative": "富士原幸助",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11146-D82DvWWcMLtI.png",
+    "role": "main",
+    "voiceActors": [
+      "daisuke-sakaguchi"
+    ]
+  },
+  {
+    "name": "Naeka Fujiwara",
+    "nameNative": "富士原なえか",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11144-YST0EV9XzDZa.png",
+    "role": "main",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Buchou",
+    "nameNative": "部長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13078-LZtgd3mI2yvJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mayuko-takahashi"
+    ]
+  },
+  {
+    "name": "Chichi Club Leader",
+    "nameNative": "乳クラブ・りーだー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15674-nlg9SLsSBahe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tokuyoshi-kawashima"
+    ]
+  },
+  {
+    "name": "Eiko Izumi",
+    "nameNative": "和泉栄子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11150-NcWjeZGGl6eL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  },
+  {
+    "name": "Elizabeth Strawberryfield",
+    "nameNative": "エリザベス・K・ストロベリフィルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13073-qdr31PC0zCdn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saki-fujita"
+    ]
+  },
+  {
+    "name": "Hendrick Strawberryfield",
+    "nameNative": "ヘンドリック・K・ストロベリーフィールド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13600-ZEkQJ5azuVhU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-takahashi"
+    ]
+  },
+  {
+    "name": "Hyouchuuka",
+    "nameNative": "氷柱花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18627-0lSmKxlX1kIT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Kingyo",
+    "nameNative": "金魚",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274599-55okFHosIazx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Miko",
+    "nameNative": "巫女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14704-iORMSkaruo7p.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouka-yuzuki"
+    ]
+  },
+  {
+    "name": "Miwa Hirano",
+    "nameNative": "平野美和",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11152-s1u3JjBLUecJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumihiko-tachiki"
+    ]
+  },
+  {
+    "name": "Saki Tabaruzaka",
+    "nameNative": "田原坂沙希",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13079-yuRrCUfEwlHf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Shizuku",
+    "nameNative": "シズク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13074-7lLHom1i6HIG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akemi-kanda"
+    ]
+  },
+  {
+    "name": "Tsurara",
+    "nameNative": "ツララ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13075-IEBc5SjBdqEw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroe-oka"
+    ]
+  },
+  {
+    "name": "Yoshie Arayashiki",
+    "nameNative": "荒屋敷吉江",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14705-fzHoupKZTlKQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-yamaguchi"
+    ]
+  },
+  {
+    "name": "Zenjuurou Fujiwara",
+    "nameNative": "大富士原全重郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11148-RZ0c6sUO6W3g.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  }
+]
