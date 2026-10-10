@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Kanna",
+    "nameNative": "カンナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169441-UNEBTVBYzGlk.png",
+    "role": "main",
+    "voiceActors": [
+      "aju-makita"
+    ]
+  },
+  {
+    "name": "Shiro",
+    "nameNative": "シロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169442-Wg8dy82c4PFP.png",
+    "role": "main",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Yasha",
+    "nameNative": "夜叉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169443-nyiN0UDikceA.png",
+    "role": "main",
+    "voiceActors": [
+      "miyu-irino"
+    ]
+  },
+  {
+    "name": "Ebisu",
+    "nameNative": "恵比寿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b214101-JRaqkkcpQjDD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chafuurin"
+    ]
+  },
+  {
+    "name": "Miki",
+    "nameNative": "ミキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b214099-9DWHkoELERag.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "riko-nagase"
+    ]
+  },
+  {
+    "name": "Ookuninushi",
+    "nameNative": "大国主",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b214102-vPzhFpZKwbDt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-kamiya"
+    ]
+  },
+  {
+    "name": "Ryuujin",
+    "nameNative": "龍神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b214100-YrXtMSaMFCXs.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  }
+]
