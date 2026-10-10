@@ -2,6 +2,7 @@ import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
 const MD_DIR = 'src/content/anime';
+const YEAR_TOLERANCE = 1; // tahun sama atau beda max 1 tahun
 
 function parseFrontmatter(content) {
   const m = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
@@ -25,6 +26,13 @@ function getId(fm, name) {
   return s && s !== 'null' && s !== 'undefined' ? s : null;
 }
 
+function getYear(fm) {
+  const v = fm.year;
+  if (!v) return null;
+  const n = parseInt(String(v).replace(/["']/g, ''), 10);
+  return Number.isFinite(n) && n >= 1900 && n <= 2100 ? n : null;
+}
+
 function normalizeTitle(s) {
   return String(s || '')
     .toLowerCase()
@@ -39,7 +47,7 @@ async function main() {
   const files = (await fs.readdir(MD_DIR)).filter((f) => f.endsWith('.md'));
   console.log(`Total MD: ${files.length}`);
 
-  // === 1. Baca semua file secara paralel (batched) ===
+  // === 1. Baca file paralel ===
   const entries = new Array(files.length);
   const BATCH = 200;
 
@@ -59,18 +67,15 @@ async function main() {
           titleEnglish: fm.titleEnglish || null,
           titleNative: fm.titleNative || null,
           type: fm.type || null,
-          year: fm.year || null,
+          year: getYear(fm),
           episodes: fm.episodes || null,
         };
       })
     );
-    for (let k = 0; k < slice.length; k++) {
-      entries[i + k] = results[k];
-    }
+    for (let k = 0; k < slice.length; k++) entries[i + k] = results[k];
   }
-  console.log(`Baca file: ${Date.now() - t0} ms`);
 
-  // === 2. Precompute normalized titles (sekali saja per entry) ===
+  // === 2. Precompute normalized titles ===
   for (const e of entries) {
     e._norms = [
       e.title && normalizeTitle(e.title),
@@ -79,7 +84,7 @@ async function main() {
     ].filter(Boolean);
   }
 
-  // === 3. Group by ID (O(n)) ===
+  // === 3. Group by ID (tetap semua, tidak difilter tahun) ===
   const groupBy = (field) => {
     const map = new Map();
     for (const e of entries) {
@@ -95,59 +100,90 @@ async function main() {
   const dupMal = groupBy('malId');
   const dupAni = groupBy('anilistId');
   const dupKit = groupBy('kitsuId');
-  console.log(`Group by ID: ${Date.now() - t0} ms`);
 
-  // === 4. Group by title (O(n)) ===
-  // Bikin map: normalizedTitle → entry[], untuk SEMUA varian judul
-  const titleBuckets = new Map();
+  // === 4. Title matching — hanya dalam bucket tahun yang sama/berdekatan ===
+  // Bucket per tahun: 1969, 1970, ..., 2027
+  const yearBuckets = new Map();
+  const noYear = [];
+
   for (const e of entries) {
-    for (const norm of e._norms) {
-      if (norm.length <= 5) continue; // skip judul terlalu pendek
-      let arr = titleBuckets.get(norm);
-      if (!arr) { arr = []; titleBuckets.set(norm, arr); }
-      arr.push(e);
-    }
+    if (!e.year) { noYear.push(e); continue; }
+    let arr = yearBuckets.get(e.year);
+    if (!arr) { arr = []; yearBuckets.set(e.year, arr); }
+    arr.push(e);
   }
 
-  // Kumpulkan pasangan dari bucket yang punya >1 entry
+  console.log(`Bucket tahun: ${yearBuckets.size}, tanpa tahun: ${noYear.length}`);
+
   const pairSet = new Set();
   const titleDupes = [];
 
-  for (const [norm, list] of titleBuckets) {
-    if (list.length < 2) continue;
+  // Bandingkan hanya antar tahun yang berdekatan (±YEAR_TOLERANCE)
+  const years = [...yearBuckets.keys()].sort((a, b) => a - b);
 
-    for (let i = 0; i < list.length; i++) {
-      for (let j = i + 1; j < list.length; j++) {
-        const a = list[i];
-        const b = list[j];
-        if (a.slug === b.slug) continue;
+  for (const y of years) {
+    // Kumpulkan semua entry dari tahun y, y+1, ..., y+tolerance
+    const combined = [];
+    for (let d = 0; d <= YEAR_TOLERANCE; d++) {
+      const arr = yearBuckets.get(y + d);
+      if (arr) combined.push(...arr);
+    }
+    if (combined.length < 2) continue;
 
-        // Skip kalau salah satu ID sama (sudah dilaporkan di grup ID)
-        if (a.malId && b.malId && a.malId === b.malId) continue;
-        if (a.anilistId && b.anilistId && a.anilistId === b.anilistId) continue;
-        if (a.kitsuId && b.kitsuId && a.kitsuId === b.kitsuId) continue;
+    // Group by normalized title dalam bucket ini
+    const localTitleMap = new Map();
+    for (const e of combined) {
+      for (const norm of e._norms) {
+        if (norm.length <= 5) continue;
+        let arr = localTitleMap.get(norm);
+        if (!arr) { arr = []; localTitleMap.set(norm, arr); }
+        arr.push(e);
+      }
+    }
 
-        // Verifikasi type sama (kalau ada)
-        if (a.type && b.type && a.type !== b.type) continue;
+    for (const [norm, list] of localTitleMap) {
+      if (list.length < 2) continue;
 
-        const key = a.slug < b.slug ? `${a.slug}|${b.slug}` : `${b.slug}|${a.slug}`;
-        if (pairSet.has(key)) continue;
-        pairSet.add(key);
+      for (let i = 0; i < list.length; i++) {
+        for (let j = i + 1; j < list.length; j++) {
+          const a = list[i];
+          const b = list[j];
+          if (a.slug === b.slug) continue;
 
-        titleDupes.push({ a, b, matchedTitle: norm });
+          // Cek tahun benar-benar dalam toleransi
+          if (Math.abs((a.year || 0) - (b.year || 0)) > YEAR_TOLERANCE) continue;
+
+          // Skip kalau ID sama (sudah dilaporkan)
+          if (a.malId && b.malId && a.malId === b.malId) continue;
+          if (a.anilistId && b.anilistId && a.anilistId === b.anilistId) continue;
+          if (a.kitsuId && b.kitsuId && a.kitsuId === b.kitsuId) continue;
+
+          // Skip kalau type beda
+          if (a.type && b.type && a.type !== b.type) continue;
+
+          const key = a.slug < b.slug ? `${a.slug}|${b.slug}` : `${b.slug}|${a.slug}`;
+          if (pairSet.has(key)) continue;
+          pairSet.add(key);
+
+          titleDupes.push({ a, b, matchedTitle: norm });
+        }
       }
     }
   }
+
   console.log(`Group by title: ${Date.now() - t0} ms`);
 
   // === 5. Output ===
   const lines = [];
-  lines.push('=== Duplikat Berdasarkan ID & Judul ===');
+  lines.push('=== Duplikat Berdasarkan ID & Judul (filter tahun) ===');
   lines.push(`# Total MD: ${entries.length}`);
+  lines.push(`# Tahun: ${years[0] ?? '?'} - ${years[years.length - 1] ?? '?'}`);
+  lines.push(`# Toleransi tahun: ±${YEAR_TOLERANCE}`);
   lines.push(`# Duplikat malId: ${dupMal.length}`);
   lines.push(`# Duplikat anilistId: ${dupAni.length}`);
   lines.push(`# Duplikat kitsuId: ${dupKit.length}`);
   lines.push(`# Duplikat judul: ${titleDupes.length}`);
+  lines.push(`# MD tanpa tahun: ${noYear.length}`);
   lines.push('');
 
   const printGroup = (label, group, idField) => {
@@ -155,7 +191,9 @@ async function main() {
     lines.push(`=== ${label} ===`);
     for (const [id, list] of group) {
       lines.push(`${idField}: ${id} (${list.length} file)`);
-      for (const e of list) lines.push(`  - ${e.slug}  (${e.file})`);
+      for (const e of list) {
+        lines.push(`  - ${e.slug}  (tahun: ${e.year ?? '-'}, type: ${e.type ?? '-'})`);
+      }
       lines.push('');
     }
   };
@@ -165,19 +203,28 @@ async function main() {
   printGroup('Duplikat kitsuId', dupKit, 'kitsuId');
 
   if (titleDupes.length) {
+    // Urutkan berdasarkan tahun
+    titleDupes.sort((x, y) => (x.a.year || 0) - (y.a.year || 0));
+
     lines.push('=== Duplikat Judul (perlu dicek manual) ===');
+    let currentYear = null;
     for (const d of titleDupes) {
+      const y = Math.min(d.a.year || 0, d.b.year || 0);
+      if (y !== currentYear) {
+        lines.push('');
+        lines.push(`--- Tahun ${y} ---`);
+        currentYear = y;
+      }
       lines.push(`Judul: "${d.matchedTitle}"`);
-      lines.push(`  A: ${d.a.slug}  (malId: ${d.a.malId || '-'}, anilist: ${d.a.anilistId || '-'})`);
-      lines.push(`  B: ${d.b.slug}  (malId: ${d.b.malId || '-'}, anilist: ${d.b.anilistId || '-'})`);
-      lines.push('');
+      lines.push(`  A: ${d.a.slug}  (tahun: ${d.a.year}, type: ${d.a.type}, malId: ${d.a.malId || '-'})`);
+      lines.push(`  B: ${d.b.slug}  (tahun: ${d.b.year}, type: ${d.b.type}, malId: ${d.b.malId || '-'})`);
     }
+    lines.push('');
   }
 
-  const noId = entries.filter((e) => !e.malId && !e.anilistId && !e.kitsuId);
-  if (noId.length) {
-    lines.push(`=== MD tanpa ID sama sekali (${noId.length}) ===`);
-    for (const e of noId) lines.push(`  - ${e.slug}`);
+  if (noYear.length) {
+    lines.push(`=== MD tanpa tahun (${noYear.length}) ===`);
+    for (const e of noYear) lines.push(`  - ${e.slug}`);
     lines.push('');
   }
 
