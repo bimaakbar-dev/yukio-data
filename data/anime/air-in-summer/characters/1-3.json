@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Kanna",
+    "nameNative": "神奈備命",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387-HlnHkQQoL3ct.png",
+    "role": "main",
+    "voiceActors": [
+      "chinami-nishimura"
+    ]
+  },
+  {
+    "name": "Ryuuya",
+    "nameNative": "柳也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b389-RnphvvZusuns.png",
+    "role": "main",
+    "voiceActors": [
+      "nobutoshi-kanna",
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Uraha",
+    "nameNative": "裏葉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388-3F9x3CsI5siF.png",
+    "role": "main",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  }
+]
