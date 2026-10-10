@@ -14,7 +14,6 @@ season: spring
 year: 2022
 episodes: 13
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "2022-04-09"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 8.9
-  # scoredBy: # edit manual
 
 genres:
   - comedy
@@ -36,6 +34,9 @@ studios:
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125367-1yuq9NFcQuLI.png"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/125367-hGPJLSNfprO3.jpg"
 trailer: "RN4FFgHpAZo"
+
+addedAt: "2026-10-10T07:29:06.226Z"
+updatedAt: "2026-10-10T07:29:06.226Z"
 
 draft: false
 ---
