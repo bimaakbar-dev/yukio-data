@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Flower",
+    "nameNative": "ふらわー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35085.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masumi-asano"
+    ]
+  },
+  {
+    "name": "Keiichirou Kawada",
+    "nameNative": "九路敬一郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35087.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Iris",
+    "nameNative": "アイリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43969.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Noriko Kawada",
+    "nameNative": "法子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/46873.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-nakao"
+    ]
+  },
+  {
+    "name": "Shunpei",
+    "nameNative": "俊平",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35628.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shintarou-asanuma"
+    ]
+  }
+]
