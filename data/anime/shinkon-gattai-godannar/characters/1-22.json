@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Anna Aoi",
+    "nameNative": "葵杏奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6016.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Goh Saruwatari",
+    "nameNative": "猿渡ゴオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5822.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takayuki-kondou"
+    ]
+  },
+  {
+    "name": "Ekaterina",
+    "nameNative": "エカテリーナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20927.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miho-yamada"
+    ]
+  },
+  {
+    "name": "Ellis Valentine",
+    "nameNative": "エリス・ヴァレンタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20931.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukari-tamura"
+    ]
+  },
+  {
+    "name": "Kagemaru",
+    "nameNative": "影丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20935.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tarou-yamaguchi"
+    ]
+  },
+  {
+    "name": "Ken",
+    "nameNative": "剣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20934.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-ookawa"
+    ]
+  },
+  {
+    "name": "Kiriko Aoi",
+    "nameNative": "葵霧子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6254.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takako-honda"
+    ]
+  },
+  {
+    "name": "Knight Valentine",
+    "nameNative": "ナイト・ヴァレンタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Kukrachyov",
+    "nameNative": "ククラチョフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinji-kawada"
+    ]
+  },
+  {
+    "name": "Lou Roux",
+    "nameNative": "ルウ・ルー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12983.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-shimizu"
+    ]
+  },
+  {
+    "name": "Luna",
+    "nameNative": "ルナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6332.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-kawakami"
+    ]
+  },
+  {
+    "name": "Mira Ackerman",
+    "nameNative": "ミラ・アッカーマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3847.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Momoko Momozono",
+    "nameNative": "桃園桃子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60499.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Moukaku",
+    "nameNative": "モウカク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20930.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "juurouta-kosugi"
+    ]
+  },
+  {
+    "name": "Sanae Hayashi",
+    "nameNative": "林奈々絵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5487.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nanae-katou"
+    ]
+  },
+  {
+    "name": "Shadow",
+    "nameNative": "シャドウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6333.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Shinobu Saruwatari",
+    "nameNative": "猿渡忍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20933.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-minagawa"
+    ]
+  },
+  {
+    "name": "Shizuru Fujimura",
+    "nameNative": "藤村静流",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/13650.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-kakazu"
+    ]
+  },
+  {
+    "name": "Shukuyu",
+    "nameNative": "シュクユウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20929.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wakana-yamazaki"
+    ]
+  },
+  {
+    "name": "Tatsuya Aoi",
+    "nameNative": "葵竜也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20112.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroya-ishimaru"
+    ]
+  },
+  {
+    "name": "Tetsuya Kouji",
+    "nameNative": "光司鉄也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20926.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Yanagisawa",
+    "nameNative": "柳沢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21128.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keisuke-oda"
+    ]
+  }
+]
