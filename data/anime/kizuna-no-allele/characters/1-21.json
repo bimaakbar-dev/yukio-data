@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Ai Kizuna",
+    "nameNative": "キズナアイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206833-1C9cbghV2XZl.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-kizuna"
+    ]
+  },
+  {
+    "name": "Chris",
+    "nameNative": "クリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293318-lVmtkAIWnYfI.png",
+    "role": "main",
+    "voiceActors": [
+      "hikari-codama"
+    ]
+  },
+  {
+    "name": "Miracle",
+    "nameNative": "ミラク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291947-PdrUNnoWpmys.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayumi-hinohara"
+    ]
+  },
+  {
+    "name": "Noelle",
+    "nameNative": "ノエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293317-GEg8n7o2BAtf.png",
+    "role": "main",
+    "voiceActors": [
+      "yuka-nukui"
+    ]
+  },
+  {
+    "name": "Quan",
+    "nameNative": "クオン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293316-hhfbNb94vFql.png",
+    "role": "main",
+    "voiceActors": [
+      "rina-kawaguchi"
+    ]
+  },
+  {
+    "name": "Riz",
+    "nameNative": "リズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293319-TH5RczjyyBxn.png",
+    "role": "main",
+    "voiceActors": [
+      "arisa-hanawa"
+    ]
+  },
+  {
+    "name": "Ada",
+    "nameNative": "エイダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b303426-BJE0QwGtRpD5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-ueda"
+    ]
+  },
+  {
+    "name": "Auris",
+    "nameNative": "オーリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b303417-XKl0iT9R16b9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masumi-tazawa"
+    ]
+  },
+  {
+    "name": "Ellie",
+    "nameNative": "エリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293785-CnFyvDtDkYBl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-yoshiki"
+    ]
+  },
+  {
+    "name": "Halle",
+    "nameNative": "ハル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293788-VQTPaI3MUYRo.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hinaki-yano"
+    ]
+  },
+  {
+    "name": "Jessie",
+    "nameNative": "ジェシー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293784-m3nkt1zOCRvv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "randhi"
+    ]
+  },
+  {
+    "name": "Jua",
+    "nameNative": "ジュア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294390-x2zosPLe6V6j.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-nagumo"
+    ]
+  },
+  {
+    "name": "Marumaru",
+    "nameNative": "まるまる",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b303427-WXSrjeJVmjWb.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Niska",
+    "nameNative": "ニスカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293783-UkLxy4TzhbCa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuri-matsuoka"
+    ]
+  },
+  {
+    "name": "Sarah",
+    "nameNative": "サラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293787-WuXOmPaTLNDd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hina-natsume"
+    ]
+  },
+  {
+    "name": "Seia",
+    "nameNative": "セア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294391-7VGkhBbT1jmD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tsukino"
+    ]
+  },
+  {
+    "name": "Sofia",
+    "nameNative": "ソフィア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294850-27mTIHevRAc1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuna-kitahara"
+    ]
+  },
+  {
+    "name": "Vanity",
+    "nameNative": "バニティ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-uchiyama"
+    ]
+  },
+  {
+    "name": "Vanity Sensei",
+    "nameNative": "バニティ先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouya-chiba"
+    ]
+  },
+  {
+    "name": "Ximena",
+    "nameNative": "ヒメナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294847-zXeNDdcokp5s.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ruri-arai"
+    ]
+  },
+  {
+    "name": "Zoe",
+    "nameNative": "ゾーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294848-HWKkrTN9KfCl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-furuhata"
+    ]
+  }
+]
