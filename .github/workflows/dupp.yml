@@ -1,4 +1,4 @@
-name: Detect Duplicate Anime
+name: Detect Duplicate Slugs
 
 on:
   workflow_dispatch:
@@ -9,50 +9,36 @@ permissions:
 jobs:
   detect:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 15
 
     steps:
-      - name: Checkout main
+      - name: Checkout
         uses: actions/checkout@v7
-
-      - name: Setup Node
-        uses: actions/setup-node@v7
-        with:
-          node-version: 24
 
       - name: Run detector
         run: |
-          node detect-duplicates.mjs
-          echo "=== lines ==="
-          wc -l duplicates-report.txt
-          echo "=== bytes ==="
-          wc -c duplicates-report.txt
+          node --version
+          node detect-duplicate-slugs.mjs
+          echo "=== file.txt ==="
+          wc -l file.txt
 
-      - name: Push report to dump branch
+      - name: Push to dump branch
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
         run: |
-          mkdir -p /tmp/dump-repo
-          cd /tmp/dump-repo
+          mkdir -p /tmp/dump-repo && cd /tmp/dump-repo
           git init -b dump
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git"
-
-          if git fetch origin dump 2>/dev/null; then
-            git checkout -B dump FETCH_HEAD
-          fi
-
-          cp "${GITHUB_WORKSPACE}/duplicates-report.txt" ./file.txt
+          if git fetch origin dump 2>/dev/null; then git checkout -B dump FETCH_HEAD; fi
+          cp "${GITHUB_WORKSPACE}/file.txt" ./file.txt
           git add file.txt
-
           if git diff --cached --quiet; then
             echo "ℹ️ No changes"
             exit 0
           fi
-
-          git commit -m "chore: duplicate report $(date -u +%Y-%m-%d) [skip ci]"
+          git commit -m "chore: duplicate slug report [skip ci]"
           git push origin dump
-
           echo "🔗 https://github.com/${REPO}/blob/dump/file.txt" >> "$GITHUB_STEP_SUMMARY"
