@@ -14,7 +14,6 @@ season: summer
 year: 2014
 episodes: 11
 duration: 23
-# rating: # edit manual
 
 aired:
   from: "2014-07-11"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 7.8
-  # scoredBy: # edit manual
 
 genres:
   - drama
@@ -36,6 +34,9 @@ studios:
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20661-aCR7QgzDfOSI.png"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20661-JwMKrCzeSTZ7.png"
 trailer: "nLVy50LnLMM"
+
+addedAt: "2026-10-10T07:31:05.724Z"
+updatedAt: "2026-10-10T07:31:05.724Z"
 
 draft: false
 ---
