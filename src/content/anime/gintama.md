@@ -1,28 +1,26 @@
 ---
-title: Gintama.
-titleEnglish: Gintama Season 4
-titleNative: 銀魂。
+title: Gintama
+titleEnglish: Gintama
+titleNative: 銀魂
 
-malId: 34096
+malId: 918
 kitsuId: "818"
 
 type: TV
 status: finished
 source: manga
 
-season: winter
-year: 2017
-episodes: 12
-duration: 24
-# rating: # edit manual
+season: spring
+year: 2006
+episodes: 201
+duration: 25
 
 aired:
-  from: "2017-01-09"
-  to: "2017-03-27"
+  from: "2006-04-04"
+  to: "2010-03-25"
 
 stats:
-  score: 8.9
-  # scoredBy: # edit manual
+  score: 8.5
 
 genres:
   - action
@@ -31,17 +29,17 @@ genres:
   - sci-fi
 
 studios:
-  - bandai-namco-pictures
+  - sunrise
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97889-ytqHdmus9wQi.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97889-z0Gm66dFW93U.jpg"
-trailer: "LOdAAEJiebM"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-iOaeBVUn4uK7.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/918-bljqHE1PFArH.jpg"
+
+addedAt: "2026-10-10T07:26:07.810Z"
+updatedAt: "2026-10-10T07:26:07.810Z"
 
 draft: false
 ---
 
-After joining the resistance against the bakufu, Gintoki and the gang are in hiding, along with Katsura and his Joui rebels. The Yorozuya is soon approached by Nobume Imai and two members of the Kiheitai, who explain that the Harusame pirates have turned against 7th Division Captain Kamui and their former ally Takasugi. The Kiheitai present Gintoki with a job: find Takasugi, who has been missing since his ship was ambushed in a Harusame raid. Nobume also makes a stunning revelation regarding the Tendoushuu, a secret organization pulling the strings of numerous factions, and their leader Utsuro, the shadowy figure with an uncanny resemblance to Gintoki's former teacher.
+Life isn't easy in feudal Japan... especially since the aliens landed and conquered everything! Oh sure, the new health care is great, but the public ban on the use of swords has left a lot of defeated samurai with a difficult decision to make concerning their future career paths! This is especially true if, as in the case of Gintoki Sakata, they're not particularly inclined towards holding a day job, which is why Gintoki's opted for the freelance route, taking any job that's offered to him as long as the financial remuneration sounds right. Unfortunately, in a brave new world filled with stray bug-eyed monsters, upwardly mobile Yakuza and overly ambitious E.T. entrepreneurs, those jobs usually don't pay as well as they should for the pain, suffering and indignities endured!
 
-Hitching a ride on Sakamoto's space ship, the Yorozuya and Katsura set out for Rakuyou, Kagura's home planet, where the various factions have gathered and tensions are brewing. Long-held grudges, political infighting, and the Tendoushuu's sinister overarching plan finally culminate into a massive, decisive battle on Rakuyou.
-
-(Source: MAL Rewrite)
+(Source: Sentai Filmworks)

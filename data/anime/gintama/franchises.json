@@ -1,12 +1,87 @@
 [
   {
-    "relation": "prequel",
-    "slug": "gintama",
-    "title": "Gintama°"
+    "relation": "side_story",
+    "slug": "gintama-nanigoto-mo-saisho-ga-kanjin-nanode-tashou-senobisuru-kurai-ga-choudoyoi",
+    "title": "Gintama: Nanigoto mo Saisho ga Kanjin nanode Tashou Senobisuru Kurai ga Choudoyoi"
+  },
+  {
+    "relation": "side_story",
+    "slug": "gintama-shiroyasha-koutan",
+    "title": "Gintama: Shiroyasha Koutan"
+  },
+  {
+    "relation": "side_story",
+    "slug": "gintama-dai-hanseikai",
+    "title": "Gintama: Dai Hanseikai"
+  },
+  {
+    "relation": "alternative",
+    "slug": "gintama-movie-1-shinyaku-benizakura-hen",
+    "title": "Gintama Movie 1: Shinyaku Benizakura-hen"
   },
   {
     "relation": "sequel",
-    "slug": "gintama-porori-hen",
-    "title": "Gintama. Porori-hen"
+    "slug": "gintama",
+    "title": "Gintama'"
+  },
+  {
+    "relation": "alternative",
+    "slug": "gintama-yorinuki-gintama-san-on-theater-2d",
+    "title": "Gintama: Yorinuki Gintama-san on Theater 2D"
+  },
+  {
+    "relation": "other",
+    "slug": "gintama-movie-2-kanketsu-hen-yorozuya-yo-eien-nare",
+    "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare"
+  },
+  {
+    "relation": "other",
+    "slug": "gintama-x-mameshiba",
+    "title": "Gintama x Mameshiba"
+  },
+  {
+    "relation": "side_story",
+    "slug": "gintama-futon-ni-haitte-kara-buki-nokoshi-ni-kizuite-neru-ni-nerenai-toki-mo-aru",
+    "title": "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru"
+  },
+  {
+    "relation": "side_story",
+    "slug": "gintama-umai-mono-wa-atomawashi-ni-suru-to-yokodorisareru-kara-yappari-saki-ni-kue",
+    "title": "Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue"
+  },
+  {
+    "relation": "other",
+    "slug": "yinhun-x-kfc",
+    "title": "Yinhun x KFC"
+  },
+  {
+    "relation": "character",
+    "slug": "gintama-monster-strike-hen",
+    "title": "Gintama: Monster Strike-hen"
+  },
+  {
+    "relation": "other",
+    "slug": "3-nen-z-gumi-ginpachi-sensei-announcement-special",
+    "title": "3-nen Z-gumi Ginpachi-sensei Announcement Special"
+  },
+  {
+    "relation": "other",
+    "slug": "gintama-x-meta-quest-3-collaboration-cm",
+    "title": "Gintama x Meta Quest 3 Collaboration CM"
+  },
+  {
+    "relation": "other",
+    "slug": "jantama-x-gintama-collab-kettei-promotion-anime",
+    "title": "Jantama x Gintama Collab Kettei Promotion Anime"
+  },
+  {
+    "relation": "spin_off",
+    "slug": "3-nen-z-gumi-ginpachi-sensei",
+    "title": "3-nen Z-gumi Ginpachi-sensei"
+  },
+  {
+    "relation": "alternative",
+    "slug": "gintama-movie-3-yoshiwara-daienjou",
+    "title": "Gintama Movie 3: Yoshiwara Daienjou"
   }
 ]
