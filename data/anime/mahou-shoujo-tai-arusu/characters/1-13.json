@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Arusu",
+    "nameNative": "アルス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7117.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sachiko-kojima"
+    ]
+  },
+  {
+    "name": "Eva",
+    "nameNative": "エバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7120.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ryou-hirohashi"
+    ]
+  },
+  {
+    "name": "Sheila",
+    "nameNative": "シーラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7118.jpg",
+    "role": "main",
+    "voiceActors": [
+      "houko-kuwashima"
+    ]
+  },
+  {
+    "name": "Ateria",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12683.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Barun",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26918.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takako-honda"
+    ]
+  },
+  {
+    "name": "Grand Master",
+    "nameNative": "グランドマスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19458.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouko-kinomiya"
+    ]
+  },
+  {
+    "name": "Grande",
+    "nameNative": "グランデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/72939.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Menow",
+    "nameNative": "メノウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219622-JB2uduF8ROUw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinobu-adachi"
+    ]
+  },
+  {
+    "name": "Qoo",
+    "nameNative": "クー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219623-oaUqoYvl9B4A.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kikumi-umeda"
+    ]
+  },
+  {
+    "name": "Renon",
+    "nameNative": "レノン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12860.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-tai"
+    ]
+  },
+  {
+    "name": "Sigma",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/12682.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Will",
+    "nameNative": "ウィル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219621-YeNI29mF5veR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumito-yamano"
+    ]
+  },
+  {
+    "name": "Youko",
+    "nameNative": "ヨーコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219624-G839q5qNy4Z1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yurika-hino"
+    ]
+  }
+]
