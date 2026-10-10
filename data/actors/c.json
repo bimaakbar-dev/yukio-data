@@ -1,44 +1,9 @@
 [
   {
-    "id": "canon-abe",
-    "name": "Canon Abe",
-    "nameNative": "阿部カノン",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n278598-cQqpfH2JCVjy.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chado-horii",
-    "name": "Chado Horii",
-    "nameNative": "堀井茶渡",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/22195.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
     "id": "chafuurin",
     "name": "Chafuurin",
     "nameNative": "茶風林",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95831-yMEQTpN1WEtp.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiaki-fujimoto",
-    "name": "Chiaki Fujimoto",
-    "nameNative": "藤本千秋",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/16753.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiaki-horan",
-    "name": "Chiaki Horan",
-    "nameNative": "ホラン千秋",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n253717-nqd7XvknRjwB.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiaki-kanou",
-    "name": "Chiaki Kanou",
-    "nameNative": "加納千秋",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/17221.jpg",
     "defaultLanguage": "Japanese"
   },
   {
@@ -49,24 +14,10 @@
     "defaultLanguage": "Japanese"
   },
   {
-    "id": "chiaki-mori",
-    "name": "Chiaki Mori",
-    "nameNative": "森千晃",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n162675-TBMck7OWDxUc.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
     "id": "chiaki-omigawa",
     "name": "Chiaki Omigawa",
     "nameNative": "小見川千明",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96760-z00Vs7vhLR07.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiaki-shimogama",
-    "name": "Chiaki Shimogama",
-    "nameNative": "下釜千昌",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/11526.jpg",
     "defaultLanguage": "Japanese"
   },
   {
@@ -77,66 +28,10 @@
     "defaultLanguage": "Japanese"
   },
   {
-    "id": "chiaki-yurin",
-    "name": "Chiaki Yurin",
-    "nameNative": "ユリン千晶",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104713-zrsI9Z4c61yC.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chie-arikawa",
-    "name": "Chie Arikawa",
-    "nameNative": "有川知江",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n323752-cy5Ztv64s7Zz.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chie-horikoshi",
-    "name": "Chie Horikoshi",
-    "nameNative": "知恵 堀越",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128188-QuBu8RIE6OHp.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chie-kitagawa",
-    "name": "Chie Kitagawa",
-    "nameNative": "北川智繪",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/16695.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chie-koujiro",
-    "name": "Chie Koujiro",
-    "nameNative": "神代知衣",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96518-zUTotiOtaogJ.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chie-matsuura",
-    "name": "Chie Matsuura",
-    "nameNative": "松浦チエ",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101172-PI3KwThqoqtX.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
     "id": "chie-nakamura",
     "name": "Chie Nakamura",
     "nameNative": "中村千絵",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95300-84lMPsAHkPP3.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chie-satou",
-    "name": "Chie Satou",
-    "nameNative": "佐藤智恵",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/8776.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chie-tamura",
-    "name": "Chie Tamura",
-    "nameNative": "田村千恵",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
     "defaultLanguage": "Japanese"
   },
   {
@@ -147,115 +42,10 @@
     "defaultLanguage": "Japanese"
   },
   {
-    "id": "chieko-baishou",
-    "name": "Chieko Baishou",
-    "nameNative": "倍賞千恵子",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96056-FsYy39l7yMR0.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chieko-higuchi",
-    "name": "Chieko Higuchi",
-    "nameNative": "樋口智恵子",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/50.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chieko-honda",
-    "name": "Chieko Honda",
-    "nameNative": "本多知恵子",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95677-5luaaavs3b8I.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chieko-ichikawa",
-    "name": "Chieko Ichikawa",
-    "nameNative": "市川千恵子",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131187-k7vGMdm78cm6.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chieko-kagose",
-    "name": "Chieko Kagose",
-    "nameNative": "籠瀬千恵子",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n252857-dk49mJDnnuP4.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chieko-nanba",
-    "name": "Chieko Nanba",
-    "nameNative": "千絵子 南場",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/8779.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chieko-sasai",
-    "name": "Chieko Sasai",
-    "nameNative": "笹井千恵子",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/24189-8DP76GL6eNo7.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiemi-chiba",
-    "name": "Chiemi Chiba",
-    "nameNative": "千葉千恵巳",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95795-R95HhZinSrFX.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiemi-ishimatsu",
-    "name": "Chiemi Ishimatsu",
-    "nameNative": "石松千恵美",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103499-TJhxxfathOxF.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiemi-matsutera",
-    "name": "Chiemi Matsutera",
-    "nameNative": "松寺千恵美",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184563-xikzK6DpI7Fu.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiemi-tanaka",
-    "name": "Chiemi Tanaka",
-    "nameNative": "田中ちえ美",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120102-ACcTD55vyr1D.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
     "id": "chigusa-ikeda",
     "name": "Chigusa Ikeda",
     "nameNative": "池田千草",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5853.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiharu",
-    "name": "Chiharu",
-    "nameNative": "千春",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n142669-zx2qbqyxXfwR.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiharu-kataishi",
-    "name": "Chiharu Kataishi",
-    "nameNative": "片石千春",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/8761.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiharu-kitaoka",
-    "name": "Chiharu Kitaoka",
-    "nameNative": "喜多丘千陽",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/8929.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiharu-sasa",
-    "name": "Chiharu Sasa",
-    "nameNative": "佐々千春",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n141237-eRiFbIcEasZu.jpg",
     "defaultLanguage": "Japanese"
   },
   {
@@ -266,129 +56,10 @@
     "defaultLanguage": "Japanese"
   },
   {
-    "id": "chiharu-shigematsu",
-    "name": "Chiharu Shigematsu",
-    "nameNative": "重松千晴",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190319-11oCWRlhViHs.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiharu-suzuka",
-    "name": "Chiharu Suzuka",
-    "nameNative": "鈴鹿千春",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/423.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chihaya-yoshitake",
-    "name": "Chihaya Yoshitake",
-    "nameNative": "吉武千颯",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104439-hl0QEF03cdie.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chihira-mochida",
-    "name": "Chihira Mochida",
-    "nameNative": "持田千妃来",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197266-Sal5ryUxBgZu.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chihiro-aikawa",
-    "name": "Chihiro Aikawa",
-    "nameNative": "千尋 藍川",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/16017.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chihiro-ibuki",
-    "name": "Chihiro Ibuki",
-    "nameNative": "伊吹茅紘",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n327620-EJF5nM43rID9.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chihiro-ishiguro",
-    "name": "Chihiro Ishiguro",
-    "nameNative": "石黒千尋",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/127387-AUCe0xLD9ekr.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chihiro-iwayama",
-    "name": "Chihiro Iwayama",
-    "nameNative": "岩山ちひろ",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n252856-0wZKZ50qJHJX.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chihiro-kamijou",
-    "name": "Chihiro Kamijou",
-    "nameNative": "上絛千尋",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n188341-x2qxRFS3ngNN.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chihiro-kawakami",
-    "name": "Chihiro Kawakami",
-    "nameNative": "川上千尋",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116381-dvqJcf3NigDB.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chihiro-kusaka",
-    "name": "Chihiro Kusaka",
-    "nameNative": "日下ちひろ",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/10066.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chihiro-shirata",
-    "name": "Chihiro Shirata",
-    "nameNative": "白田千尋",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n288437-p2aLJvW4VJ4f.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
     "id": "chihiro-suno",
     "name": "Chihiro Suno",
     "nameNative": "須能千裕",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n350107-C7iQzmWADtyL.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chihiro-suzuki",
-    "name": "Chihiro Suzuki",
-    "nameNative": "鈴木千尋",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95164-q5cxbs9WUnTU.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chihiro-tagaino",
-    "name": "Chihiro Tagaino",
-    "nameNative": "ちひろ 互野",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/9869.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chihiro-ueda",
-    "name": "Chihiro Ueda",
-    "nameNative": "植田千尋",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127647-gyNByy9zeseu.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chihiro-uno",
-    "name": "Chihiro Uno",
-    "nameNative": "うのちひろ",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n167198-iIsVjYTTY8vm.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiho-ookawa",
-    "name": "Chiho Ookawa",
-    "nameNative": "大川千帆",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103591-XfYplxeWzkOP.png",
     "defaultLanguage": "Japanese"
   },
   {
@@ -399,59 +70,10 @@
     "defaultLanguage": "Japanese"
   },
   {
-    "id": "chika-arakawa",
-    "name": "Chika Arakawa",
-    "nameNative": "ちか荒川",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/19777.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chika-fujimura",
-    "name": "Chika Fujimura",
-    "nameNative": "藤村知可",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95913-eMfzgvLKXZfg.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chika-fujitou",
-    "name": "Chika Fujitou",
-    "nameNative": "知夏藤東",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102278-u3B6ZH3gk3PS.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chika-horikawa",
-    "name": "Chika Horikawa",
-    "nameNative": "堀川千華",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/9149.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chika-ookubo",
-    "name": "Chika Ookubo",
-    "nameNative": "大久保ちか",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115060-1pWety7T33Ed.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
     "id": "chika-sakamoto",
     "name": "Chika Sakamoto",
     "nameNative": "坂本千夏",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95387-CLYs2OZwhe9c.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chika-tamura",
-    "name": "Chika Tamura",
-    "nameNative": "田村知佳",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n200691-WIInaSS3NS7Z.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chika-yoshitomi",
-    "name": "Chika Yoshitomi",
-    "nameNative": "吉富ちか",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123802-GsvSaBdWHoJl.jpg",
     "defaultLanguage": "Japanese"
   },
   {
@@ -462,52 +84,10 @@
     "defaultLanguage": "Japanese"
   },
   {
-    "id": "chikako-akimoto",
-    "name": "Chikako Akimoto",
-    "nameNative": "千賀子 秋元",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/15587.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
     "id": "chikao-ootsuka",
     "name": "Chikao Ootsuka",
     "nameNative": "大塚周夫",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95974-SvJQqqEApoSf.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chikara-ousaka",
-    "name": "Chikara Ousaka",
-    "nameNative": "力逢坂",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104815-dkgJtguRWOVv.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiko",
-    "name": "Chiko",
-    "nameNative": "ちこ",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/9156.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiko-mizumori",
-    "name": "Chiko Mizumori",
-    "nameNative": "水森ちこ",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128506-jiQh9n8ARo0H.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "china-kitahara",
-    "name": "China Kitahara",
-    "nameNative": "北原知奈",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153430-6dnBy0Rc9lNx.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chinami-hashimoto",
-    "name": "Chinami Hashimoto",
-    "nameNative": "橋本ちなみ",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120122-Y1zWcqv5AlqT.png",
     "defaultLanguage": "Japanese"
   },
   {
@@ -525,143 +105,10 @@
     "defaultLanguage": "Japanese"
   },
   {
-    "id": "chiro-kanzaki",
-    "name": "Chiro Kanzaki",
-    "nameNative": "ちろ神崎",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/7084.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chisa-kaneko",
-    "name": "Chisa Kaneko",
-    "nameNative": "金子千紗",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n222846-2qGgLftIHYrK.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chisa-kimura",
-    "name": "Chisa Kimura",
-    "nameNative": "木村千咲",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/125302-IauFzcIvSkos.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chisa-suganuma",
-    "name": "Chisa Suganuma",
-    "nameNative": "菅沼千紗",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n165315-oOcR3nCSAiO9.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chisa-yokoyama",
-    "name": "Chisa Yokoyama",
-    "nameNative": "横山智佐",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95904-Hwjlrw4tCDMl.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chisa-yuuki",
-    "name": "Chisa Yuuki",
-    "nameNative": "優希知冴",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n137008-p3fwu5I1gAtx.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chisaki-morishita",
-    "name": "Chisaki Morishita",
-    "nameNative": "森下千咲",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128996-QTTU2Sb0sKKZ.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chisato-nakajima",
-    "name": "Chisato Nakajima",
-    "nameNative": "中島千里",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106950-fT4Gqhi567zW.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chise-nakamura",
-    "name": "Chise Nakamura",
-    "nameNative": "知世中村",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/6291.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chitose-morinaga",
-    "name": "Chitose Morinaga",
-    "nameNative": "森永千才",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119813-M3X0yu8k0MGB.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
     "id": "chiwa-saitou",
     "name": "Chiwa Saitou",
     "nameNative": "斎藤千和",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-ncYFfzPJDoQV.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiyako-shibahara",
-    "name": "Chiyako Shibahara",
-    "nameNative": "芝原チヤコ",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96742-cFSSAhLT7l65.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiyo-ousaki",
-    "name": "Chiyo Ousaki",
-    "nameNative": "桜咲千依",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114391-i05AWt0UrKgi.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiyo-tomaru",
-    "name": "Chiyo Tomaru",
-    "nameNative": "都丸ちよ",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129304-BaURCLqA3g9z.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiyoko-kawashima",
-    "name": "Chiyoko Kawashima",
-    "nameNative": "川島千代子",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96406-uSFHgd5yrehn.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiyuki-miura",
-    "name": "Chiyuki  Miura",
-    "nameNative": "三浦千幸",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n140853-vukwnaiv2b8g.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chiyuki-zakouji",
-    "name": "Chiyuki Zakouji",
-    "nameNative": "座光寺知幸",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n330022-HIC96EXpOKK2.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chizu-yonemoto",
-    "name": "Chizu Yonemoto",
-    "nameNative": "千珠 米本",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1294.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chizuru-ikewaki",
-    "name": "Chizuru Ikewaki",
-    "nameNative": "池脇千鶴",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/684.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "chomenori-yamawaki",
-    "name": "Chomenori Yamawaki",
-    "nameNative": "山脇〆紀",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100269-6XGSGcg7pqGi.jpg",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-R8YSAYX7UFCO.png",
     "defaultLanguage": "Japanese"
   },
   {
@@ -669,20 +116,6 @@
     "name": "Choo",
     "nameNative": "チョー",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95898-XHSESV65G8Jv.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "christelle-ciari",
-    "name": "Christelle Ciari",
-    "nameNative": "クリステル・チアリ",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110585-k9N8DB1cQY6N.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "coco-hayashi",
-    "name": "Coco Hayashi",
-    "nameNative": "林鼓子",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124857-RCzne9pqFvY4.jpg",
     "defaultLanguage": "Japanese"
   },
   {
