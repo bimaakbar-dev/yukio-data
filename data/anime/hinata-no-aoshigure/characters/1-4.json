@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Hinata",
+    "nameNative": "ヒナタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87532-7Gy8sgTEga2B.jpg",
+    "role": "main",
+    "voiceActors": [
+      "anju-inami"
+    ]
+  },
+  {
+    "name": "Shigure",
+    "nameNative": "シグレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87533-7dy9Sk5R5AnF.jpg",
+    "role": "main",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Moe",
+    "nameNative": "モエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/87534.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "azusa-satou"
+    ]
+  },
+  {
+    "name": "Natsuko",
+    "nameNative": "ナツコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomi-furuki"
+    ]
+  }
+]
