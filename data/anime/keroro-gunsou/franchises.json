@@ -1,7 +1,62 @@
 [
   {
+    "relation": "side_story",
+    "slug": "keroro-gunsou-movie-1",
+    "title": "Keroro Gunsou Movie 1"
+  },
+  {
+    "relation": "side_story",
+    "slug": "keroro-gunsou-movie-2-shinkai-no-princess-de-arimasu",
+    "title": "Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!"
+  },
+  {
+    "relation": "spin_off",
+    "slug": "chibi-kero-kerobouru-no-himitsu",
+    "title": "Chibi Kero: Kerobouru no Himitsu!?"
+  },
+  {
+    "relation": "side_story",
+    "slug": "keroro-gunsou-movie-3-tenkuu-daikessen-de-arimasu",
+    "title": "Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!"
+  },
+  {
+    "relation": "prequel",
+    "slug": "kero-0-shuppatsu-da-yo-zenin-shuugou",
+    "title": "Kero 0: Shuppatsu da yo! Zenin Shuugou!"
+  },
+  {
+    "relation": "side_story",
+    "slug": "keroro-gunsou-movie-4-gekishin-dragon-warriors-de-arimasu",
+    "title": "Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!"
+  },
+  {
+    "relation": "side_story",
+    "slug": "keroro-gunsou-movie-5-tanjou-kyuukyoku-keroro-kiseki-no-jikuu-jima-de-arimasu",
+    "title": "Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de Arimasu!!"
+  },
+  {
+    "relation": "side_story",
+    "slug": "keroro-gunsou-chou-rittai-ban-hoshizora-wo-torimodose-taiyoukei-daitsuiseki-de-arimasu",
+    "title": "Keroro Gunsou Chou Rittai-ban: Hoshizora wo Torimodose! Taiyoukei Daitsuiseki de Arimasu!!"
+  },
+  {
+    "relation": "alternative",
+    "slug": "keroro",
+    "title": "Keroro"
+  },
+  {
+    "relation": "character",
+    "slug": "keroro-gunsou-x-no-more-eiga-dorobou",
+    "title": "Keroro Gunsou x No More Eiga Dorobou"
+  },
+  {
+    "relation": "side_story",
+    "slug": "keroro-gunsou-movie-6-fukkatsu-shite-sokkou-chikyuu-metsubou-no-kiki-de-arimasu",
+    "title": "Keroro Gunsou Movie 6: Fukkatsu shite Sokkou Chikyuu Metsubou no Kiki de Arimasu!"
+  },
+  {
     "relation": "alternative",
     "slug": "keroro-gunsou",
-    "title": "Keroro Gunsou"
+    "title": "Keroro Gunsou☆"
   }
 ]

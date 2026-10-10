@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Dororo",
+    "nameNative": "ドロロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1249-21c2LwcxWzlu.png",
+    "role": "main",
+    "voiceActors": [
+      "takeshi-kusao"
+    ]
+  },
+  {
+    "name": "Fuyuki Hinata",
+    "nameNative": "日向冬樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5651-WVXOHLIRCLwp.png",
+    "role": "main",
+    "voiceActors": [
+      "houko-kuwashima",
+      "tomoko-kawakami"
+    ]
+  },
+  {
+    "name": "Giroro",
+    "nameNative": "ギロロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1246-hxTSGKKqJ27J.png",
+    "role": "main",
+    "voiceActors": [
+      "akiko-hiramatsu",
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Keroro",
+    "nameNative": "ケロロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1245-FpkLA2JEhOdi.png",
+    "role": "main",
+    "voiceActors": [
+      "kumiko-watanabe"
+    ]
+  },
+  {
+    "name": "Kururu",
+    "nameNative": "クルル曹長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1248-9WXisKqwGAFo.png",
+    "role": "main",
+    "voiceActors": [
+      "takehito-koyasu"
+    ]
+  },
+  {
+    "name": "Natsumi Hinata",
+    "nameNative": "日向夏美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5652-bOZbLMZTbG3v.png",
+    "role": "main",
+    "voiceActors": [
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Tamama",
+    "nameNative": "タママ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1247-YusBIDaxpzOC.png",
+    "role": "main",
+    "voiceActors": [
+      "etsuko-kozakura"
+    ]
+  },
+  {
+    "name": "3M",
+    "nameNative": "3M",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410063-ldurRTI463Ci.png",
+    "role": "supporting",
+    "voiceActors": [
+      "bin-shimada"
+    ]
+  },
+  {
+    "name": "Aki Hinata",
+    "nameNative": "日向秋",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5662-n56NT2hdroIs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-hiramatsu"
+    ]
+  },
+  {
+    "name": "Alisa Southerncross",
+    "nameNative": "アリサ=サザンクロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5770.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-yajima"
+    ]
+  },
+  {
+    "name": "Angol Mois",
+    "nameNative": "アンゴル・モア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5673-K5Nsvd1HxHqk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Asami",
+    "nameNative": "麻美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410079-04O1TzUwLUgf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Baio Nishizawa",
+    "nameNative": "西澤梅雄",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10157.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shuuichi-ikeda"
+    ]
+  },
+  {
+    "name": "Chiroro",
+    "nameNative": "チロロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/65099.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuko-kuwatani"
+    ]
+  },
+  {
+    "name": "DANCE☆MAN",
+    "nameNative": "ダンス☆マン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b366514-KeT5uEECNuGg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "danceman"
+    ]
+  },
+  {
+    "name": "Dansonu Maso",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/19232.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Desk",
+    "nameNative": "デスク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-sakaguchi"
+    ]
+  },
+  {
+    "name": "Gail",
+    "nameNative": "ゲイル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410071-L7GcVchTniAR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita"
+    ]
+  },
+  {
+    "name": "Garuru",
+    "nameNative": "ガルル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5694.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Gesu-chan",
+    "nameNative": "ゲスちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410070-Td4vENkyFL8X.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiko-kawazu"
+    ]
+  },
+  {
+    "name": "Jessica Harpie",
+    "nameNative": "ジェシカ・ハーピィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/80011.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "emi-shinohara"
+    ]
+  },
+  {
+    "name": "Karara",
+    "nameNative": "カララ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32891.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-noda"
+    ]
+  },
+  {
+    "name": "Keroro Chichi",
+    "nameNative": "ケロロ父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410050-8Cgt1SasF9VI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Keroro Haha",
+    "nameNative": "ケロロ母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410051-OJXMWYWfdbvp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sachiko-chijimatsu"
+    ]
+  },
+  {
+    "name": "Kiruru.",
+    "nameNative": "キルル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32940.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keisuke-oda"
+    ]
+  },
+  {
+    "name": "Kogoro",
+    "nameNative": "コゴロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5688.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Koyuki Azumaya",
+    "nameNative": "東谷小雪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5404-76NlQ3GHO8w2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-hirohashi"
+    ]
+  },
+  {
+    "name": "Lavie",
+    "nameNative": "ラビー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10469.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-kaneda"
+    ]
+  },
+  {
+    "name": "Masayoshi Yoshiokadaira",
+    "nameNative": "吉岡平 正義",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/74189.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  },
+  {
+    "name": "Mekeke",
+    "nameNative": "メケケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/42855.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "choo"
+    ]
+  },
+  {
+    "name": "Melody Honey",
+    "nameNative": "メロディーハニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10159.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Moa no Chichi",
+    "nameNative": "モアの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410081-XFcbFD7Zz7Ie.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuaki-kakuda"
+    ]
+  },
+  {
+    "name": "Mojaran",
+    "nameNative": "モジャラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fumihiko-tachiki"
+    ]
+  },
+  {
+    "name": "Momoka Nishizawa",
+    "nameNative": "西澤桃華",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5653-eEUGX7SaOTPI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruna-ikezawa"
+    ]
+  },
+  {
+    "name": "Mother",
+    "nameNative": "マザー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410062-LRO5NqOpmpmy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Mr. G",
+    "nameNative": "Mr.G",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410064-hA9qWYrInHku.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Mutsumi Houjou",
+    "nameNative": "北城睦実",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5668.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10161-tIld6WNUqVzB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Neko",
+    "nameNative": "猫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10158-u7lZAsOFX9Ao.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "asuka-tanii"
+    ]
+  },
+  {
+    "name": "Nontruma no Shoujo",
+    "nameNative": "ノントルマの少女",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b410094-N8ozwAzRWoFU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Paul Moriyama",
+    "nameNative": "ポール森山",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5667-rOtKlhtrXFta.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-fujiwara"
+    ]
+  },
+  {
+    "name": "Poyon",
+    "nameNative": "ポヨン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10281.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mayuko-omimura"
+    ]
+  },
+  {
+    "name": "Pururu",
+    "nameNative": "プルル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5709.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "R Gray",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/74802.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Rei Kinoshita",
+    "nameNative": "木下黎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/79999.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Rie Imogo",
+    "nameNative": "芋碁 理恵",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/82529.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Satsuki Shiwasu",
+    "nameNative": "師走 さつき",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/73517.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chie-matsuura"
+    ]
+  },
+  {
+    "name": "Shurara",
+    "nameNative": "シュララ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/43513.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norio-wakamoto"
+    ]
+  },
+  {
+    "name": "Sumomo",
+    "nameNative": "スモモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10160.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "juri-ihata"
+    ]
+  },
+  {
+    "name": "Taruru",
+    "nameNative": "タルル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5695.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akeno-watanabe"
+    ]
+  }
+]
