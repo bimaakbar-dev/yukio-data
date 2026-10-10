@@ -14,7 +14,6 @@ season: fall
 year: 1995
 episodes: 26
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "1995-10-03"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 8.3
-  # scoredBy: # edit manual
 
 genres:
   - action
