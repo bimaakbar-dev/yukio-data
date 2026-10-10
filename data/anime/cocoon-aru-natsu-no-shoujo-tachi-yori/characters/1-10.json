@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Mayu",
+    "nameNative": "マユ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355330-x0QS7IeVYldt.png",
+    "role": "main",
+    "voiceActors": [
+      "hikari-mitsushima"
+    ]
+  },
+  {
+    "name": "San",
+    "nameNative": "サン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355331-qKra4Y8lYBJz.png",
+    "role": "main",
+    "voiceActors": [
+      "marika-itou"
+    ]
+  },
+  {
+    "name": "Hina",
+    "nameNative": "ヒナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365439-aCtMDqovuDIV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rena-motomura"
+    ]
+  },
+  {
+    "name": "Kaede",
+    "nameNative": "カエデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yume-miyamoto"
+    ]
+  },
+  {
+    "name": "Kaho",
+    "nameNative": "カホ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Mari",
+    "nameNative": "マリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365441-zuVkrlUMFcy1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chinatsu-akasaki"
+    ]
+  },
+  {
+    "name": "Sensei",
+    "nameNative": "先生",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365446-LhNHgKvcroO7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "umeka-shouji"
+    ]
+  },
+  {
+    "name": "Shiho",
+    "nameNative": "シホ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365444-vSt4P7i04o1T.png",
+    "role": "supporting",
+    "voiceActors": [
+      "izumi-aoyagi"
+    ]
+  },
+  {
+    "name": "Tamaki",
+    "nameNative": "タマキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365438-mVAJG1Bem1M3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Yuri",
+    "nameNative": "ユリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365442-eI5S1VqzTHA3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-koga"
+    ]
+  }
+]
