@@ -1,0 +1,122 @@
+[
+  {
+    "number": 1,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "doply",
+            "url": "https://doply.net/e/48fjnuo6e9k7"
+          },
+          {
+            "name": "pixeldrain",
+            "url": "https://pixeldrain.com/u/W6LnaYdC"
+          },
+          {
+            "name": "vikingfile",
+            "url": "https://vikingfile.com/f/65yQriRoWA"
+          },
+          {
+            "name": "abyss",
+            "url": "https://player.abyssplayer.com/6A6GSvKaW"
+          },
+          {
+            "name": "mixdrop",
+            "url": "https://miiiixdrop.net/e/k0nowj4es3djldd"
+          },
+          {
+            "name": "mp4upload",
+            "url": "https://mp4upload.com/embed-gxs0lpzmwjkm.html"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "doply",
+            "url": "https://doply.net/e/e69lb307pmtf"
+          },
+          {
+            "name": "pixeldrain",
+            "url": "https://pixeldrain.com/u/ViuAPL7i"
+          },
+          {
+            "name": "vikingfile",
+            "url": "https://vikingfile.com/f/wsOmliXEL9"
+          },
+          {
+            "name": "mixdrop",
+            "url": "https://miiiixdrop.net/e/vknj7wxluzw8l9"
+          },
+          {
+            "name": "mp4upload",
+            "url": "https://mp4upload.com/embed-gf7o1thq6phj.html"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "doply",
+            "url": "https://doply.net/e/24pnm88dbq71"
+          },
+          {
+            "name": "pixeldrain",
+            "url": "https://pixeldrain.com/u/GPzETLR8"
+          },
+          {
+            "name": "vikingfile",
+            "url": "https://vikingfile.com/f/0CqhRN8cWr"
+          },
+          {
+            "name": "mixdrop",
+            "url": "https://miiiixdrop.net/e/9wng19mobrk0kq"
+          },
+          {
+            "name": "abyss",
+            "url": "https://player.abyssplayer.com/URQa-QrKi"
+          },
+          {
+            "name": "mp4upload",
+            "url": "https://mp4upload.com/embed-nxko06rhu4f2.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "pixeldrain",
+            "url": "https://pixeldrain.com/d/vUUNYU7u"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "pixeldrain",
+            "url": "https://pixeldrain.com/d/PnkSN5Yd"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "pixeldrain",
+            "url": "https://pixeldrain.com/d/es81Yr9s"
+          }
+        ]
+      }
+    ]
+  }
+]

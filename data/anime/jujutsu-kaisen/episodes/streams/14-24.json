@@ -1,0 +1,69 @@
+[
+    {
+    "number": 13,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mixdrop",
+            "url": "https://miiiixdrop.net/e/8l997jmguzpxgk"
+          },
+          {
+            "name": "mp4upload",
+            "url": "https://mp4upload.com/embed-7tu13r0fkbrq.html"
+          },
+          {
+            "name": "poi",
+            "url": "https://new.uservideo.xyz/file/nanime.in.jujutsu.kaisen.tv.e13.720p.sub.indo.mp4?embed=true&autoplay=true"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mixdrop",
+            "url": "https://miiiixdrop.net/e/r6vvd0r9ugrng0"
+          },
+          {
+            "name": "mp4upload",
+            "url": "https://mp4upload.com/embed-re8xah08piwj.html"
+          },
+          {
+            "name": "poi",
+            "url": "https://new.uservideo.xyz/file/nanime.in.jujutsu.kaisen.tv.e13.480p.sub.indo.mp4?embed=true&autoplay=true"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mixdrop",
+            "url": "https://miiiixdrop.net/e/36oo0qd0f980vl"
+          },
+          {
+            "name": "mp4upload",
+            "url": "https://mp4upload.com/embed-z0ylmt985fxj.html"
+          }
+        ]
+      }
+      
+    ]
+  },
+  {
+    "number": 14,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "Mirror",
+            "url": "https://streaming.animekuid.com/?id=cLm2rGsNq"
+          }
+        ]
+      }
+    ]
+  }
+]

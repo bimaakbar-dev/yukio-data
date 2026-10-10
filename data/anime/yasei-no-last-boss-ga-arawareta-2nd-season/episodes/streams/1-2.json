@@ -1,0 +1,114 @@
+[
+  {
+    "number": 1,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/mjpuht07gufl"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/2nwUgQTD#C0m6ExtpSv1zYC3X43l2C12VDKDVlVgv4cPsuQPQKdk"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=STBOeFpFcDNwUTdvK2I4YUJnaVNodG44NFY2TWszSzVDNnpnQnFwaDVHdz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=Y1dKVEluVmVZN2dHQ2tpVDJJOGxVL0dUTHM3cGpVNmh6RjJnS0xDZkZKODNzaUNNR2h2dHFEeU44Z04rTG1JcFZoZVBmd3dLQSs1OUI3OEtOSEl5ZXc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/uf2o80f4izcm"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/rnYWyIQJ#ixFTIvVtfjIHaDq_KTxiQ8VqJsSXys2COOnSABqRVVU"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0dStEaXpVdTg3RXFoTnBRYzlhVlZOMlpEbjBSSEhXbEU4R05oRjFLbnd5Rg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/4bvpam40m3ev"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/fiIAnDCR#eZvOyhBusI5NbqJAZqGYKieJjdDh_sKJpV10aRNZxf0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/3swbjqe5aglf"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/LrJlQQ6S#edFmMJQoeJk9_9KOGUJK1JVzDfSAJS5H1pUxPh9wq5M"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=YmI1cHAvbWhIMXVKeFlUSzVaWlo1Rml3S1NlaFQ5c1VBMzRWUDQzMENkYz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=UE1ySDlzSEtRWFQwbGJSWE1hdUQ1TnBwWW8ySmFjcEhwdUJsdzRTYzlzUTNXNmt0ZDdBdG5PcHlSbEJRdmVoOU1wbFNmMjFMU2YyZ014OVR6aHlDdEE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/obxtopxz6zlj"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/SqxEzbzL#MY1BnJvH3J8HRuiC8Cirqr2ppamQrPKDsvNBkia-oes"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0bWhhT0VrYVFuUWhLNGhPcTVpUjlWUVB1bFBHQTBKaENiVktPVXk4cGdYVQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/7x2jvknwg8mo"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vj5GQIQL#xzK5quBjLiaKIz-H_z2K39MMb4VayFq9xj1YG9UDNkc"
+          }
+        ]
+      }
+    ]
+  }
+]
