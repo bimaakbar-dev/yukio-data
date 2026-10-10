@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Joel",
+    "nameNative": "ジョエル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21014.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kouki-miyata"
+    ]
+  },
+  {
+    "name": "Minami Shimabara",
+    "nameNative": "島原魅波",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15427.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuko-sumitomo"
+    ]
+  },
+  {
+    "name": "Neo Ranga",
+    "nameNative": "南海奇皇",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/20924.jpg",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Ushio Shimabara",
+    "nameNative": "島原海潮",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15426.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuko-miyamura"
+    ]
+  },
+  {
+    "name": "Yuuhi Shimabara",
+    "nameNative": "島原夕姫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/15425.jpg",
+    "role": "main",
+    "voiceActors": [
+      "eri-sendai"
+    ]
+  }
+]
