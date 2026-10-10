@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Kou",
+    "nameNative": "恒",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87600-XItfNi9SB0cu.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Masamune",
+    "nameNative": "正宗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87602-xwJFOiGmPRXW.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Miwa",
+    "nameNative": "美羽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87603-IaVOt5GI8cOp.jpg",
+    "role": "main",
+    "voiceActors": [
+      "satsuki-yukino"
+    ]
+  },
+  {
+    "name": "Takumi",
+    "nameNative": "巧美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87601-Xoheec4k7XUy.png",
+    "role": "main",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Karasu",
+    "nameNative": "カラス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayako-toujou"
+    ]
+  },
+  {
+    "name": "Masashi Mikuni",
+    "nameNative": "美国雅史",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sayako-toujou"
+    ]
+  },
+  {
+    "name": "Mera",
+    "nameNative": "米良",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140251-ngp9TBAUA4bB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi"
+    ]
+  }
+]
