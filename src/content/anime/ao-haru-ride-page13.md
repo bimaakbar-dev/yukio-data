@@ -2,7 +2,7 @@
 title: Ao Haru Ride PAGE.13
 titleNative: アオハライド PAGE.13
 
-malId: 24151
+# malId: 24151
 kitsuId: "8488"
 
 type: OVA
