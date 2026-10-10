@@ -1,31 +1,1693 @@
-=== Duplikat Berdasarkan malId ===
+=== Duplikat Berdasarkan ID & Judul (filter tahun) ===
 # Total MD: 4948
-# malId unik: 4933
+# Tahun: 1969 - 2027
+# Toleransi tahun: ±1
 # Duplikat malId: 3
-# MD tanpa malId: 12
+# Duplikat anilistId: 0
+# Duplikat kitsuId: 245
+# Duplikat judul: 138
+# MD tanpa tahun: 195
 
+=== Duplikat malId ===
 malId: 24151 (2 file)
-  - ao-haru-ride-page13  (ao-haru-ride-page13.md)
-  - ao-haru-ride-unwritten  (ao-haru-ride-unwritten.md)
-
-malId: 38431 (2 file)
-  - persona5-the-animation-dark-sun  (persona5-the-animation-dark-sun.md)
-  - persona5-the-animation-stars-and-ours  (persona5-the-animation-stars-and-ours.md)
+  - ao-haru-ride-page13  (tahun: 2014, type: OVA)
+  - ao-haru-ride-unwritten  (tahun: 2014, type: OVA)
 
 malId: 61469 (2 file)
-  - jojo-no-kimyou-na-bouken-steel-ball-run-1st-stage  (jojo-no-kimyou-na-bouken-steel-ball-run-1st-stage.md)
-  - jojo-no-kimyou-na-bouken-steel-ball-run-2nd-3rd-stage  (jojo-no-kimyou-na-bouken-steel-ball-run-2nd-3rd-stage.md)
+  - jojo-no-kimyou-na-bouken-steel-ball-run-1st-stage  (tahun: 2026, type: ONA)
+  - jojo-no-kimyou-na-bouken-steel-ball-run-2nd-3rd-stage  (tahun: 2026, type: ONA)
 
-=== MD tanpa malId ===
-  - bocchi-the-rock-rere  (bocchi-the-rock-rere.md)
-  - fatestrange-fake-zoku-hen  (fatestrange-fake-zoku-hen.md)
-  - genshin  (genshin.md)
-  - kyoukai-no-kanata-ill-be-here-kako-hen-yakusoku-no-kizuna-dance-mv  (kyoukai-no-kanata-ill-be-here-kako-hen-yakusoku-no-kizuna-dance-mv.md)
-  - mekakucity-reload  (mekakucity-reload.md)
-  - okusama-ga-seitokaichou-okusama-gekijou  (okusama-ga-seitokaichou-okusama-gekijou.md)
-  - ranma-12-nettou-hen  (ranma-12-nettou-hen.md)
-  - satsuriku-no-tenshi-ona  (satsuriku-no-tenshi-ona.md)
-  - scott-pilgrim-takes-off  (scott-pilgrim-takes-off.md)
-  - shingeki-no-kyojin-chimi-kyara-gekijou-rivai-han-part-2  (shingeki-no-kyojin-chimi-kyara-gekijou-rivai-han-part-2.md)
-  - shingeki-no-kyojin-the-final-season-kanketsu-hen-kouhen  (shingeki-no-kyojin-the-final-season-kanketsu-hen-kouhen.md)
-  - yuuri-on-ice-the-movie-ice-adolescence  (yuuri-on-ice-the-movie-ice-adolescence.md)
+malId: 38431 (2 file)
+  - persona5-the-animation-dark-sun  (tahun: 2018, type: Special)
+  - persona5-the-animation-stars-and-ours  (tahun: 2019, type: Special)
+
+=== Duplikat kitsuId ===
+kitsuId: 11380 (2 file)
+  - 3-gatsu-no-lion  (tahun: 2016, type: TV)
+  - mar  (tahun: 2005, type: TV)
+
+kitsuId: 7658 (2 file)
+  - 7seeds-2  (tahun: 2020, type: ONA)
+  - fatezero-2nd-season  (tahun: 2012, type: TV)
+
+kitsuId: 852 (2 file)
+  - aika  (tahun: 1997, type: OVA)
+  - aria-the-natural  (tahun: 2006, type: TV)
+
+kitsuId: 759 (2 file)
+  - air-gear  (tahun: 2006, type: TV)
+  - air  (tahun: 2005, type: TV)
+
+kitsuId: 11690 (2 file)
+  - aishen-qiaokeli-ing-ii  (tahun: -, type: ONA)
+  - aishen-qiaokeli-ing  (tahun: -, type: ONA)
+
+kitsuId: 10759 (2 file)
+  - akatsuki-no-yona-ova  (tahun: 2015, type: OVA)
+  - akatsuki-no-yona-zoku-hen  (tahun: -, type: TV)
+
+kitsuId: 8297 (2 file)
+  - aldnoahzero-part-2  (tahun: 2015, type: TV)
+  - aldnoahzero  (tahun: 2014, type: TV)
+
+kitsuId: 10052 (2 file)
+  - all-out  (tahun: 2016, type: TV)
+  - fatestay-night-unlimited-blade-works-2nd-season  (tahun: 2015, type: TV)
+
+kitsuId: 6734 (2 file)
+  - amnesia  (tahun: 2013, type: TV)
+  - tasogare-otome-amnesia  (tahun: 2012, type: TV)
+
+kitsuId: 4604 (2 file)
+  - angel-beats-tokubetsu-hen  (tahun: 2010, type: Special)
+  - angel-beats  (tahun: 2010, type: TV)
+
+kitsuId: 11209 (2 file)
+  - another-world  (tahun: 2019, type: ONA)
+  - rezero-kara-hajimeru-isekai-seikatsu  (tahun: 2016, type: TV)
+
+kitsuId: 10877 (2 file)
+  - ansatsu-kyoushitsu-2-kagaijugyou-hen  (tahun: 2016, type: ONA)
+  - ansatsu-kyoushitsu-2nd-season  (tahun: 2016, type: TV)
+
+kitsuId: 12293 (2 file)
+  - ansatsu-kyoushitsu-movie-365-nichi-no-jikan  (tahun: 2016, type: Movie)
+  - koro-sensei-q-ona  (tahun: 2017, type: ONA)
+
+kitsuId: 8488 (2 file)
+  - ao-haru-ride-page13  (tahun: 2014, type: OVA)
+  - ao-haru-ride-unwritten  (tahun: 2014, type: OVA)
+
+kitsuId: 46454 (2 file)
+  - arifureta-shokugyou-de-sekai-saikyou-3rd-season  (tahun: 2024, type: TV)
+  - arifureta-shokugyou-de-sekai-saikyou-maboroshi-no-bouken-to-kiseki-no-kaigou  (tahun: 2022, type: OVA)
+
+kitsuId: 45367 (3 file)
+  - arknights-enshin-shomei  (tahun: 2025, type: TV)
+  - arknights-reimei-zensou  (tahun: 2022, type: TV)
+  - arknights-touin-kiro  (tahun: 2023, type: TV)
+
+kitsuId: 41149 (3 file)
+  - asobi-asobase-mini-anime  (tahun: 2018, type: Special)
+  - asobi-asobase  (tahun: 2018, type: TV)
+  - bad-girl  (tahun: 2025, type: ONA)
+
+kitsuId: 4064 (2 file)
+  - asura-cryin  (tahun: 2009, type: TV)
+  - asura  (tahun: 2012, type: Movie)
+
+kitsuId: 2039 (2 file)
+  - baccano-bangai-hen  (tahun: 2008, type: Special)
+  - baccano  (tahun: 2007, type: TV)
+
+kitsuId: 6001 (2 file)
+  - bakuman-2  (tahun: 2011, type: TV)
+  - rewrite-2nd-season  (tahun: 2017, type: TV)
+
+kitsuId: 13676 (2 file)
+  - basilisk-kouga-ninpouchou  (tahun: 2005, type: TV)
+  - basilisk-ouka-ninpouchou  (tahun: 2018, type: TV)
+
+kitsuId: 24 (2 file)
+  - berserk  (tahun: 2016, type: TV)
+  - kenpuu-denki-berserk  (tahun: 1997, type: TV)
+
+kitsuId: 11455 (2 file)
+  - big-order-ova  (tahun: 2015, type: OVA)
+  - big-order  (tahun: 2016, type: TV)
+
+kitsuId: 42429 (2 file)
+  - bishoujo-senshi-sailor-moon-eternal-kouhen  (tahun: 2021, type: Movie)
+  - bishoujo-senshi-sailor-moon-eternal-zenpen  (tahun: 2021, type: Movie)
+
+kitsuId: 8646 (2 file)
+  - blood  (tahun: 2005, type: TV)
+  - kekkai-sensen  (tahun: 2015, type: TV)
+
+kitsuId: 43108 (2 file)
+  - boku-no-hero-academia-5-ona  (tahun: 2022, type: ONA)
+  - boku-no-hero-academia-5  (tahun: 2021, type: TV)
+
+kitsuId: 7190 (2 file)
+  - boku-wa-tomodachi-ga-sukunai-next  (tahun: 2013, type: TV)
+  - love-stage  (tahun: 2014, type: TV)
+
+kitsuId: 8536 (2 file)
+  - bokura-wa-minna-kawaisou-hajimete-no  (tahun: 2015, type: Special)
+  - bokura-wa-minna-kawaisou  (tahun: 2014, type: TV)
+
+kitsuId: 46688 (2 file)
+  - boushoku-no-berserk-2nd-season  (tahun: -, type: TV)
+  - boushoku-no-berserk  (tahun: 2023, type: TV)
+
+kitsuId: 4708 (2 file)
+  - break-blade-1-kakusei-no-toki  (tahun: 2010, type: Movie)
+  - break-blade  (tahun: 2014, type: TV)
+
+kitsuId: 42143 (2 file)
+  - bubble  (tahun: 2022, type: ONA)
+  - cider-no-you-ni-kotoba-ga-wakiagaru  (tahun: 2021, type: Movie)
+
+kitsuId: 8174 (2 file)
+  - bulletbullet  (tahun: 2025, type: ONA)
+  - sword-art-online-ii  (tahun: 2014, type: TV)
+
+kitsuId: 11882 (2 file)
+  - bungou-stray-dogs-2nd-season  (tahun: 2016, type: TV)
+  - bungou-stray-dogs-3rd-season  (tahun: 2019, type: TV)
+
+kitsuId: 12265 (2 file)
+  - busou-shoujo-machiavellianism-ova  (tahun: 2017, type: OVA)
+  - busou-shoujo-machiavellianism  (tahun: 2017, type: TV)
+
+kitsuId: 3022 (2 file)
+  - candyboy-side-story-for-archive  (tahun: 2007, type: ONA)
+  - candyboy  (tahun: 2008, type: ONA)
+
+kitsuId: 339 (2 file)
+  - cardcaptor-sakura-movie-fuinsareta-card  (tahun: 2000, type: Movie)
+  - cardcaptor-sakura-movie  (tahun: 1999, type: Movie)
+
+kitsuId: 7160 (2 file)
+  - chuunibyou-demo-koi-ga-shitai  (tahun: 2012, type: TV)
+  - i-byeore-piryohan  (tahun: -, type: Movie)
+
+kitsuId: 1962 (2 file)
+  - clannad  (tahun: 2007, type: TV)
+  - school-days  (tahun: 2005, type: ONA)
+
+kitsuId: 8149 (2 file)
+  - cocoon-aru-natsu-no-shoujo-tachi-yori  (tahun: 2025, type: Special)
+  - pokemon-the-movie-xy-hakai-no-mayu-to-diancie  (tahun: 2014, type: Movie)
+
+kitsuId: 41269 (2 file)
+  - conception  (tahun: 2018, type: TV)
+  - star-mu  (tahun: 2015, type: TV)
+
+kitsuId: 1 (2 file)
+  - cowboy-bebop  (tahun: 1998, type: TV)
+  - two-car  (tahun: 2017, type: TV)
+
+kitsuId: 50606 (2 file)
+  - date-a-live-f-last-date  (tahun: -, type: TV)
+  - new-game-watashi-shainryokoutte-hajimete-na-no-de  (tahun: 2017, type: OVA)
+
+kitsuId: 45989 (2 file)
+  - dead-dead-demons-dededededestruction-zenshou  (tahun: 2024, type: Movie)
+  - dead-dead-demons-dededededestruction  (tahun: 2024, type: ONA)
+
+kitsuId: 2175 (2 file)
+  - digimon-adventure-02-diablomon-no-gyakushuu  (tahun: 2001, type: Movie)
+  - digimon-adventure-02-digimon-hurricane-jouriku-chouzetsu-shinka-ougon-no-digimental  (tahun: 2000, type: Movie)
+
+kitsuId: 14010 (2 file)
+  - dive  (tahun: 2017, type: TV)
+  - free-dive-to-the-future  (tahun: 2018, type: TV)
+
+kitsuId: 720 (2 file)
+  - dragon-ball-z  (tahun: 1989, type: TV)
+  - dragon-ball  (tahun: 1986, type: TV)
+
+kitsuId: 9962 (2 file)
+  - dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-dungeon-ni-onsen-wo-motomeru-no-wa-machigatteiru-darou-ka  (tahun: 2016, type: OVA)
+  - dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka  (tahun: 2015, type: TV)
+
+kitsuId: 40599 (2 file)
+  - dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-mujintou-ni-yakusou-wo-motomeru-no-wa-machigatteiru-darou-ka  (tahun: 2020, type: OVA)
+  - dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii  (tahun: 2019, type: TV)
+
+kitsuId: 46556 (2 file)
+  - dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-shin-shou-meikyuu-hen  (tahun: 2022, type: TV)
+  - dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-shin-shou-yakusai-hen  (tahun: 2023, type: TV)
+
+kitsuId: 4211 (2 file)
+  - eden  (tahun: 2021, type: ONA)
+  - higashi-no-eden  (tahun: 2009, type: TV)
+
+kitsuId: 201 (2 file)
+  - elfen-lied-tooriame-nite-arui-wa-shoujo-wa-ikani-shite-sono-shinjou-ni-itatta-ka  (tahun: 2005, type: OVA)
+  - elfen-lied  (tahun: 2004, type: TV)
+
+kitsuId: 46596 (4 file)
+  - evangelion-shin-movie-ha  (tahun: 2009, type: Movie)
+  - evangelion-shin-movie-jo  (tahun: 2007, type: Movie)
+  - evangelion-shin-movie-kyuu  (tahun: 2012, type: Movie)
+  - shin-evangelion-movie  (tahun: 2021, type: Movie)
+
+kitsuId: 13658 (2 file)
+  - fairy-tail-2018  (tahun: 2018, type: TV)
+  - fairy-tail  (tahun: 2009, type: TV)
+
+kitsuId: 7810 (2 file)
+  - fairy-tail-houou-no-miko-hajimari-no-asa  (tahun: 2013, type: Special)
+  - fairy-tail-houou-no-miko  (tahun: 2012, type: Movie)
+
+kitsuId: 11438 (3 file)
+  - fatekaleid-liner-prismaillya-3rei-short-anime  (tahun: -, type: Special)
+  - fatekaleid-liner-prismaillya-3rei  (tahun: 2016, type: TV)
+  - fatekaleid-liner-prismaillya-short-anime  (tahun: 2013, type: Special)
+
+kitsuId: 7882 (2 file)
+  - fatestay-night-unlimited-blade-works  (tahun: 2014, type: TV)
+  - fatestay-night  (tahun: 2006, type: TV)
+
+kitsuId: 7776 (2 file)
+  - final-fantasy-vii-advent-children  (tahun: 2005, type: Movie)
+  - final-fantasy  (tahun: 2001, type: Movie)
+
+kitsuId: 5825 (2 file)
+  - flag  (tahun: 2006, type: ONA)
+  - kami-nomi-zo-shiru-sekai-flag-0  (tahun: 2010, type: OVA)
+
+kitsuId: 44651 (2 file)
+  - free-the-final-stroke-kouhen  (tahun: 2022, type: Movie)
+  - free-the-final-stroke-zenpen  (tahun: 2021, type: Movie)
+
+kitsuId: 42554 (2 file)
+  - fruits-basket-1st-season  (tahun: 2019, type: TV)
+  - fruits-basket-2nd-season  (tahun: 2020, type: TV)
+
+kitsuId: 53 (2 file)
+  - full-metal-panic-the-second-raid-zenyasai-scene-00  (tahun: 2005, type: Special)
+  - full-metal-panic-the-second-raid  (tahun: 2005, type: TV)
+
+kitsuId: 51076 (2 file)
+  - futsutsuka-na-akujo-de-wa-gozaimasu-ga-suuguu-chouso-torikae-den-part-2  (tahun: 2027, type: TV)
+  - futsutsuka-na-akujo-de-wa-gozaimasu-ga-suuguu-chouso-torikae-den  (tahun: 2026, type: TV)
+
+kitsuId: 12497 (2 file)
+  - gabriel-dropout-ova  (tahun: 2017, type: OVA)
+  - gabriel-dropout  (tahun: 2017, type: TV)
+
+kitsuId: 44423 (2 file)
+  - gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii  (tahun: 2026, type: TV)
+  - gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu  (tahun: 2022, type: TV)
+
+kitsuId: 42586 (2 file)
+  - gekijouban-ple-ple-pleiades  (tahun: 2017, type: Special)
+  - kimetsu-no-yaiba-mugen-ressha-hen  (tahun: 2020, type: Movie)
+
+kitsuId: 8402 (2 file)
+  - gekkan-shoujo-nozaki-kun-mini-ovas  (tahun: 2014, type: Special)
+  - gekkan-shoujo-nozaki-kun  (tahun: 2014, type: TV)
+
+kitsuId: 46213 (2 file)
+  - genjitsu-no-yohane-sunshine-in-the-mirror  (tahun: 2023, type: TV)
+  - school-days-tv  (tahun: 2007, type: TV)
+
+kitsuId: 7602 (3 file)
+  - ghost-in-the-shell-koukaku-kidoutai  (tahun: 1995, type: Movie)
+  - koukaku-kidoutai-arise-ghost-in-the-shell-border1-ghost-pain  (tahun: 2013, type: Movie)
+  - koukaku-kidoutai-the-ghost-in-the-shell  (tahun: 2026, type: TV)
+
+kitsuId: 5842 (2 file)
+  - gintama-shinyaku-benizakura-hen-special  (tahun: 2011, type: Special)
+  - gintama-shinyaku-benizakura-hen  (tahun: 2010, type: Movie)
+
+kitsuId: 14095 (2 file)
+  - gintama-shirogane-no-tamashii-hen-kouhan-sen  (tahun: 2018, type: TV)
+  - gintama-shirogane-no-tamashii-hen  (tahun: 2018, type: TV)
+
+kitsuId: 47209 (2 file)
+  - given-hiiragi-mix  (tahun: 2024, type: Movie)
+  - given-movie  (tahun: 2020, type: Movie)
+
+kitsuId: 12230 (2 file)
+  - given  (tahun: 2019, type: TV)
+  - violet-evergarden  (tahun: 2018, type: TV)
+
+kitsuId: 41966 (2 file)
+  - go-toubun-no-hanayome-movie  (tahun: 2022, type: Movie)
+  - go-toubun-no-hanayome  (tahun: 2019, type: TV)
+
+kitsuId: 7996 (2 file)
+  - gokukoku-no-brynhildr-ova  (tahun: 2014, type: OVA)
+  - gokukoku-no-brynhildr  (tahun: 2014, type: TV)
+
+kitsuId: 41442 (2 file)
+  - golden-kamuy-2nd-season-ova  (tahun: 2019, type: OVA)
+  - golden-kamuy-2nd-season  (tahun: 2018, type: TV)
+
+kitsuId: 7982 (2 file)
+  - grisaia-no-kajitsu-grisaia-no-tokuten  (tahun: 2015, type: Special)
+  - grisaia-no-kajitsu  (tahun: 2014, type: TV)
+
+kitsuId: 10154 (2 file)
+  - grisaia-no-meikyuu-takizono-basket-bu-no-nama-cream-party  (tahun: 2015, type: Special)
+  - grisaia-no-meikyuu  (tahun: 2015, type: Special)
+
+kitsuId: 10155 (2 file)
+  - grisaia-no-rakuen-grisaia-no-tokuten  (tahun: 2015, type: Special)
+  - grisaia-no-rakuen  (tahun: 2015, type: TV)
+
+kitsuId: 50455 (2 file)
+  - guimi-zhi-zhu-specials  (tahun: -, type: ONA)
+  - guimi-zhi-zhu-xiaochou-pian  (tahun: -, type: ONA)
+
+kitsuId: 113 (2 file)
+  - gunslinger-girl-il-teatrino  (tahun: 2008, type: TV)
+  - gunslinger-girl  (tahun: 2003, type: TV)
+
+kitsuId: 3936 (2 file)
+  - hagane-no-renkinjutsushi-fullmetal-alchemist-mihousou-episode  (tahun: 2009, type: OVA)
+  - hagane-no-renkinjutsushi-fullmetal-alchemist  (tahun: 2009, type: TV)
+
+kitsuId: 12761 (2 file)
+  - hajimete-no-gal-hajimete-no-bunkasai  (tahun: 2017, type: OVA)
+  - hajimete-no-gal  (tahun: 2017, type: TV)
+
+kitsuId: 50760 (2 file)
+  - hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season  (tahun: 2026, type: TV)
+  - hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru  (tahun: 2026, type: TV)
+
+kitsuId: 44012 (2 file)
+  - hells  (tahun: 2008, type: Movie)
+  - jigokuraku  (tahun: 2023, type: TV)
+
+kitsuId: 6067 (2 file)
+  - hen-zemi-tv  (tahun: 2011, type: TV)
+  - hen-zemi  (tahun: 2010, type: OVA)
+
+kitsuId: 8158 (3 file)
+  - hi-score-girl-extra-stage  (tahun: 2019, type: OVA)
+  - hi-score-girl-ii  (tahun: 2019, type: TV)
+  - hi-score-girl  (tahun: 2018, type: TV)
+
+kitsuId: 10077 (2 file)
+  - hidan-no-aria-aa  (tahun: 2015, type: TV)
+  - hidan-no-aria-butei-ga-kitarite-onsen-kenshuu  (tahun: 2011, type: Special)
+
+kitsuId: 48667 (2 file)
+  - hime-sama-goumon-no-jikan-desu-2nd-season  (tahun: 2026, type: TV)
+  - hime-sama-goumon-no-jikan-desu  (tahun: 2024, type: TV)
+
+kitsuId: 46268 (2 file)
+  - hirano-to-kagiura  (tahun: 2023, type: Special)
+  - sasaki-to-miyano-sotsugyou-hen  (tahun: 2023, type: Movie)
+
+kitsuId: 8008 (2 file)
+  - hitsugi-no-chaika-nerawareta-hitsugiyomigaeru-iseki  (tahun: 2015, type: OVA)
+  - hitsugi-no-chaika  (tahun: 2014, type: TV)
+
+kitsuId: 43607 (2 file)
+  - honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-2nd-season  (tahun: 2020, type: TV)
+  - honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-3rd-season  (tahun: 2022, type: TV)
+
+kitsuId: 14157 (2 file)
+  - hoozuki-no-reitetsu-2-part-ii  (tahun: 2018, type: TV)
+  - hoozuki-no-reitetsu-2  (tahun: 2017, type: TV)
+
+kitsuId: 8774 (2 file)
+  - houseki-no-kuni-pv  (tahun: -, type: ONA)
+  - houseki-no-kuni  (tahun: 2017, type: TV)
+
+kitsuId: 395 (2 file)
+  - howl-no-ugoku-shiro  (tahun: 2004, type: Movie)
+  - working  (tahun: 2015, type: TV)
+
+kitsuId: 6448 (7 file)
+  - hunterhunter-2011  (tahun: 2011, type: TV)
+  - hunterhunter-greed-island-final  (tahun: 2004, type: OVA)
+  - hunterhunter-greed-island  (tahun: 2003, type: OVA)
+  - hunterhunter-ova  (tahun: 2002, type: OVA)
+  - hunterhunter-pilot-ban  (tahun: -, type: OVA)
+  - hunterhunter  (tahun: 1999, type: TV)
+  - x  (tahun: 1996, type: Movie)
+
+kitsuId: 6974 (2 file)
+  - hyouka-motsubeki-mono-wa  (tahun: 2012, type: OVA)
+  - mono  (tahun: 2025, type: TV)
+
+kitsuId: 972 (2 file)
+  - hypnosis-mic-division-rap-battle-rhyme-anima  (tahun: 2020, type: TV)
+  - kimagure-orangeroad  (tahun: 1987, type: TV)
+
+kitsuId: 46434 (2 file)
+  - i-i-a-ziam-the-animation  (tahun: 1994, type: OVA)
+  - konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu  (tahun: 2023, type: TV)
+
+kitsuId: 7203 (2 file)
+  - idol  (tahun: -, type: Music)
+  - love-live-school-idol-project  (tahun: 2013, type: TV)
+
+kitsuId: 13717 (2 file)
+  - itou-junji-collection-tomie  (tahun: 2018, type: OVA)
+  - itou-junji-collection  (tahun: 2018, type: TV)
+
+kitsuId: 41165 (2 file)
+  - jashin-chan-dropkick-ona  (tahun: 2018, type: ONA)
+  - jashin-chan-dropkick  (tahun: 2020, type: ONA)
+
+kitsuId: 49776 (2 file)
+  - jibaku-shounen-hanako-kun-2-part-2  (tahun: 2025, type: TV)
+  - jibaku-shounen-hanako-kun-2  (tahun: 2025, type: TV)
+
+kitsuId: 48953 (2 file)
+  - jiyi-guanli-ju-2026  (tahun: -, type: ONA)
+  - jiyi-guanli-ju  (tahun: -, type: ONA)
+
+kitsuId: 8063 (2 file)
+  - jojo-no-kimyou-na-bouken-stardust-crusaders-egypt-hen  (tahun: 2015, type: TV)
+  - jojo-no-kimyou-na-bouken-stardust-crusaders  (tahun: 2014, type: TV)
+
+kitsuId: 49847 (2 file)
+  - jojo-no-kimyou-na-bouken-steel-ball-run-1st-stage  (tahun: 2026, type: ONA)
+  - jojo-no-kimyou-na-bouken-steel-ball-run-2nd-3rd-stage  (tahun: 2026, type: ONA)
+
+kitsuId: 7158 (2 file)
+  - jojo-no-kimyou-na-bouken-tv  (tahun: 2012, type: TV)
+  - jojo-no-kimyou-na-bouken  (tahun: 1993, type: OVA)
+
+kitsuId: 42221 (2 file)
+  - joshikousei-no-mudazukai  (tahun: 2019, type: TV)
+  - joshikousei  (tahun: 2006, type: TV)
+
+kitsuId: 42765 (2 file)
+  - jujutsu-kaisen-kaigyokugyokusetsu  (tahun: 2025, type: Movie)
+  - jujutsu-kaisen  (tahun: 2020, type: TV)
+
+kitsuId: 48363 (2 file)
+  - jujutsu-kaisen-shimetsu-kaiyuu-kouhen  (tahun: -, type: TV)
+  - jujutsu-kaisen-shimetsu-kaiyuu-zenpen  (tahun: 2026, type: TV)
+
+kitsuId: 8698 (2 file)
+  - just-because  (tahun: 2017, type: TV)
+  - shirobako  (tahun: 2014, type: TV)
+
+kitsuId: 11578 (2 file)
+  - k  (tahun: 2012, type: TV)
+  - mob-psycho-100  (tahun: 2016, type: TV)
+
+kitsuId: 122 (2 file)
+  - kanon-2006  (tahun: 2006, type: TV)
+  - kanon  (tahun: 2002, type: TV)
+
+kitsuId: 13635 (2 file)
+  - karakai-jouzu-no-takagi-san-water-slide  (tahun: 2018, type: OVA)
+  - karakai-jouzu-no-takagi-san  (tahun: 2018, type: TV)
+
+kitsuId: 49119 (2 file)
+  - katainaka-no-ossan-kensei-ni-naru-ii  (tahun: 2026, type: TV)
+  - katainaka-no-ossan-kensei-ni-naru  (tahun: 2025, type: TV)
+
+kitsuId: 47020 (2 file)
+  - kekkon-yubiwa-monogatari-ii  (tahun: 2025, type: TV)
+  - kekkon-yubiwa-monogatari  (tahun: 2024, type: TV)
+
+kitsuId: 5765 (2 file)
+  - ki-ni-natteru-hito-ga-otoko-ja-nakatta  (tahun: 2027, type: TV)
+  - mitsudomoe-zouryouchuu  (tahun: 2011, type: TV)
+
+kitsuId: 3355 (2 file)
+  - kidou-senshi-gundam-00-2nd-season  (tahun: 2008, type: TV)
+  - kidou-senshi-gundam  (tahun: 1979, type: TV)
+
+kitsuId: 11850 (2 file)
+  - kidou-senshi-gundam-uc  (tahun: 2010, type: OVA)
+  - kidou-senshi-gundam-unicorn-re-0096  (tahun: 2016, type: TV)
+
+kitsuId: 49001 (2 file)
+  - kimetsu-no-yaiba-mugenjou-hen-movie-1-akaza-sairai  (tahun: 2025, type: Movie)
+  - kimetsu-no-yaiba-mugenjou-hen-movie-3  (tahun: -, type: Movie)
+
+kitsuId: 7696 (2 file)
+  - kingdom  (tahun: 2012, type: TV)
+  - magi-the-kingdom-of-magic  (tahun: 2013, type: TV)
+
+kitsuId: 5045 (3 file)
+  - kisssis-tv  (tahun: 2010, type: TV)
+  - kisssis  (tahun: 2009, type: OVA)
+  - x-tv  (tahun: 2001, type: TV)
+
+kitsuId: 45014 (4 file)
+  - kobayashi-san-chi-no-maidragon-s-nippon-no-omotenashi-attend-wa-dragon-desu  (tahun: 2022, type: OVA)
+  - kobayashi-san-chi-no-maidragon-s  (tahun: 2021, type: TV)
+  - kobayashi-san-chi-no-maidragon-valentine-soshite-onsen-amari-kitai-shinaide-kudasai  (tahun: 2017, type: OVA)
+  - kobayashi-san-chi-no-maidragon  (tahun: 2017, type: TV)
+
+kitsuId: 13257 (2 file)
+  - koi-to-uso-isshou-no-koikoi-no-kimochi  (tahun: 2018, type: OVA)
+  - koi-to-uso  (tahun: 2017, type: TV)
+
+kitsuId: 11937 (2 file)
+  - kono-subarashii-sekai-ni-shukufuku-wo-2-kono-subarashii-geijutsu-ni-shukufuku-wo  (tahun: 2017, type: OVA)
+  - kono-subarashii-sekai-ni-shukufuku-wo-2  (tahun: 2017, type: TV)
+
+kitsuId: 11890 (2 file)
+  - kuroko-no-basket-2-ng-shuu  (tahun: 2014, type: Special)
+  - kuroko-no-basket-winter-cup-soushuuhen-namida-no-saki-e  (tahun: 2016, type: Movie)
+
+kitsuId: 11891 (2 file)
+  - kuroko-no-basket-3-ng-shuu  (tahun: 2015, type: Special)
+  - kuroko-no-basket-winter-cup-soushuuhen-tobira-no-mukou  (tahun: 2016, type: Movie)
+
+kitsuId: 10911 (2 file)
+  - kyoukai-no-kanata-ill-be-here-kako-hen-yakusoku-no-kizuna-dance-mv  (tahun: -, type: Music)
+  - kyoukai-no-kanata-ill-be-here-kako-hen  (tahun: 2015, type: Movie)
+
+kitsuId: 7870 (2 file)
+  - kyousougiga-tv  (tahun: 2013, type: TV)
+  - kyousougiga  (tahun: 2011, type: ONA)
+
+kitsuId: 12517 (2 file)
+  - ling-qi-huang-quan-zhi-qi  (tahun: -, type: TV)
+  - ling-qi  (tahun: -, type: ONA)
+
+kitsuId: 42092 (2 file)
+  - lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-tokubetsu-hen  (tahun: 2021, type: Special)
+  - lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note  (tahun: 2019, type: TV)
+
+kitsuId: 44537 (2 file)
+  - love-live-nijigasaki-gakuen-school-idol-doukoukai-2  (tahun: 2022, type: TV)
+  - love-live-nijigasaki-gakuen-school-idol-doukoukai  (tahun: 2020, type: TV)
+
+kitsuId: 1283 (2 file)
+  - lupin-iii-cagliostro-no-shiro  (tahun: 1979, type: Movie)
+  - lupin-iii  (tahun: 1971, type: TV)
+
+kitsuId: 1278 (2 file)
+  - lupin-iii-part-ii  (tahun: 1977, type: TV)
+  - lupin-iii-part-iii  (tahun: 1984, type: TV)
+
+kitsuId: 45705 (2 file)
+  - lycoris-recoil-shinsaku-animation  (tahun: -, type: TV)
+  - lycoris-recoil  (tahun: 2022, type: TV)
+
+kitsuId: 42137 (2 file)
+  - machikado-mazoku-2-choume  (tahun: 2022, type: TV)
+  - machikado-mazoku  (tahun: 2019, type: TV)
+
+kitsuId: 7617 (2 file)
+  - machine-doll-wa-kizutsukanai-ova  (tahun: 2014, type: OVA)
+  - machine-doll-wa-kizutsukanai  (tahun: 2013, type: TV)
+
+kitsuId: 8256 (2 file)
+  - magi-sinbad-no-bouken-ova  (tahun: 2014, type: OVA)
+  - magi-sinbad-no-bouken  (tahun: 2016, type: TV)
+
+kitsuId: 56 (2 file)
+  - mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance  (tahun: 2026, type: TV)
+  - mahou-shoujo-lyrical-nanoha  (tahun: 2004, type: TV)
+
+kitsuId: 44451 (3 file)
+  - mahou-shoujo-madokamagica-hangyaku-no-monogatari  (tahun: 2013, type: Movie)
+  - mahou-shoujo-madokamagica-walpurgis-no-kaiten  (tahun: 2026, type: Movie)
+  - mahou-shoujo-madokamagica  (tahun: 2011, type: TV)
+
+kitsuId: 44168 (2 file)
+  - mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi  (tahun: 2021, type: OVA)
+  - spriggan-ona  (tahun: 2022, type: ONA)
+
+kitsuId: 5949 (3 file)
+  - maken-ki-tsuu-pwatakushigoto  (tahun: 2014, type: Special)
+  - maken-ki-tsuu  (tahun: 2014, type: TV)
+  - maken-ki  (tahun: 2011, type: TV)
+
+kitsuId: 8148 (2 file)
+  - mangaka-san-to-assistant-san-to-the-animation-mini-ovas  (tahun: 2014, type: Special)
+  - mangaka-san-to-assistant-san-to-the-animation  (tahun: 2014, type: TV)
+
+kitsuId: 6039 (2 file)
+  - mayo-chiki  (tahun: 2011, type: TV)
+  - touch  (tahun: 1985, type: TV)
+
+kitsuId: 1966 (2 file)
+  - meitantei-conan-11-nin-me-no-striker  (tahun: 2012, type: Movie)
+  - meitantei-conan-konpeki-no-hitsugi-jolly-roger  (tahun: 2007, type: Movie)
+
+kitsuId: 4107 (2 file)
+  - meitantei-conan-gouka-no-himawari  (tahun: 2015, type: Movie)
+  - meitantei-conan-shikkoku-no-chaser  (tahun: 2009, type: Movie)
+
+kitsuId: 9538 (2 file)
+  - memories  (tahun: 1995, type: Movie)
+  - plastic-memories  (tahun: 2015, type: TV)
+
+kitsuId: 11794 (2 file)
+  - military  (tahun: 2015, type: TV)
+  - youjo-senki  (tahun: 2017, type: TV)
+
+kitsuId: 7510 (2 file)
+  - mirai-nikki-ova  (tahun: 2010, type: OVA)
+  - mirai-nikki-redial  (tahun: 2013, type: OVA)
+
+kitsuId: 41036 (4 file)
+  - modao-zushi-2  (tahun: -, type: ONA)
+  - modao-zushi-3  (tahun: -, type: ONA)
+  - modao-zushi-q  (tahun: -, type: ONA)
+  - modao-zushi  (tahun: -, type: ONA)
+
+kitsuId: 142 (2 file)
+  - mononoke-hime  (tahun: 1997, type: Movie)
+  - princess-princess  (tahun: 2006, type: TV)
+
+kitsuId: 10748 (2 file)
+  - monster-musume-no-iru-nichijou-sp  (tahun: 2016, type: OVA)
+  - monster-musume-no-iru-nichijou  (tahun: 2015, type: TV)
+
+kitsuId: 10 (2 file)
+  - monster  (tahun: 2004, type: TV)
+  - the-big-o  (tahun: 1999, type: TV)
+
+kitsuId: 11333 (2 file)
+  - musaigen-no-phantom-world-mizutama-no-kiseki  (tahun: 2016, type: OVA)
+  - musaigen-no-phantom-world  (tahun: 2016, type: TV)
+
+kitsuId: 8112 (2 file)
+  - mushishi-hihamukage  (tahun: 2014, type: Special)
+  - tokubetsu-hen-hibike-euphonium-ensemble-contest  (tahun: 2023, type: OVA)
+
+kitsuId: 47694 (2 file)
+  - mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2  (tahun: 2024, type: TV)
+  - mushoku-tensei-ii-isekai-ittara-honki-dasu  (tahun: 2023, type: TV)
+
+kitsuId: 8144 (2 file)
+  - nagato-yuki-chan-no-shoushitsu  (tahun: 2015, type: TV)
+  - shy  (tahun: 2023, type: TV)
+
+kitsuId: 49651 (2 file)
+  - nageki-no-bourei-wa-intai-shitai-2  (tahun: 2025, type: ONA)
+  - nageki-no-bourei-wa-intai-shitai  (tahun: 2024, type: TV)
+
+kitsuId: 8699 (2 file)
+  - nanatsu-no-taizai-eiyuu-tachi-wa-hashagu  (tahun: 2018, type: OVA)
+  - nanatsu-no-taizai  (tahun: 2014, type: TV)
+
+kitsuId: 2036 (2 file)
+  - naruto-dai-katsugeki-yuki-hime-ninpouchou-dattebayo  (tahun: 2004, type: Movie)
+  - naruto-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo-special-konoha-annual-sports-festival  (tahun: 2004, type: Special)
+
+kitsuId: 1555 (2 file)
+  - naruto-shippuuden  (tahun: 2007, type: TV)
+  - naruto  (tahun: 2002, type: TV)
+
+kitsuId: 41875 (2 file)
+  - nekopara-extra-koneko-no-hi-no-yakusoku  (tahun: 2018, type: OVA)
+  - nekopara-ova  (tahun: 2017, type: OVA)
+
+kitsuId: 13703 (2 file)
+  - net-juu-no-susume-ova  (tahun: 2017, type: OVA)
+  - net-juu-no-susume  (tahun: 2017, type: TV)
+
+kitsuId: 7863 (2 file)
+  - new-game  (tahun: 2017, type: TV)
+  - psycho-pass-2  (tahun: 2014, type: TV)
+
+kitsuId: 47784 (2 file)
+  - nierautomata-ver11a-2nd-season  (tahun: 2024, type: TV)
+  - nierautomata-ver11a  (tahun: 2023, type: TV)
+
+kitsuId: 10012 (4 file)
+  - nihon-animator-mihonichi  (tahun: 2014, type: ONA)
+  - shin-seiki-evangelion-movie-air-magokoro-wo-kimi-ni  (tahun: 1997, type: Movie)
+  - shin-seiki-evangelion-movie-shi-to-shinsei  (tahun: 1997, type: Movie)
+  - shin-seiki-evangelion  (tahun: 1995, type: TV)
+
+kitsuId: 3032 (2 file)
+  - nogizaka-haruka-no-himitsu-finale  (tahun: 2012, type: OVA)
+  - nogizaka-haruka-no-himitsu  (tahun: 2008, type: TV)
+
+kitsuId: 50334 (2 file)
+  - omae-gotoki-ga-maou-ni-kateru-to-omou-na-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai  (tahun: 2026, type: TV)
+  - yeonae-haru-jeon-zero  (tahun: -, type: ONA)
+
+kitsuId: 8159 (2 file)
+  - omoide-no-marnie  (tahun: 2014, type: Movie)
+  - one-outs  (tahun: 2008, type: TV)
+
+kitsuId: 7894 (2 file)
+  - one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatari  (tahun: 2013, type: Special)
+  - the-one-piece  (tahun: 2027, type: TV)
+
+kitsuId: 1114 (2 file)
+  - one-piece-mamore-saigo-no-oobutai  (tahun: 2003, type: Special)
+  - one-piece-tv-special-umi-no-heso-no-daibouken-hen  (tahun: 2000, type: Special)
+
+kitsuId: 422 (2 file)
+  - one-piece-nejimaki-jima-no-bouken-jango-no-dance-carnival  (tahun: 2001, type: Special)
+  - one-piece-nejimaki-jima-no-bouken  (tahun: 2001, type: Movie)
+
+kitsuId: 12566 (2 file)
+  - one-punch-man-2-ova  (tahun: 2019, type: OVA)
+  - one-punch-man-2  (tahun: 2019, type: TV)
+
+kitsuId: 11402 (2 file)
+  - one-punch-man-ova  (tahun: 2016, type: OVA)
+  - one-punch-man-road-to-hero  (tahun: 2015, type: OVA)
+
+kitsuId: 12759 (2 file)
+  - one-room-another  (tahun: 2017, type: OVA)
+  - room-mate  (tahun: 2017, type: TV)
+
+kitsuId: 8343 (2 file)
+  - onee-chan-ga-kita-hajimete-no-kitaa  (tahun: 2014, type: OVA)
+  - onee-chan-ga-kita  (tahun: 2014, type: TV)
+
+kitsuId: 7331 (2 file)
+  - onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials  (tahun: 2013, type: Special)
+  - onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne  (tahun: 2012, type: TV)
+
+kitsuId: 8651 (2 file)
+  - ore-ga-ojou-sama-gakkou-ni-shomin-sample-toshite-gets-sareta-ken-kujou-san-no-doesu-soudan-shitsu-anime-ban  (tahun: 2016, type: Special)
+  - ore-ga-ojou-sama-gakkou-ni-shomin-sample-toshite-gets-sareta-ken  (tahun: 2015, type: TV)
+
+kitsuId: 7006 (3 file)
+  - ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-ona  (tahun: 2013, type: ONA)
+  - ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-true-route  (tahun: 2011, type: ONA)
+  - ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai  (tahun: 2013, type: TV)
+
+kitsuId: 42915 (2 file)
+  - ore-wo-suki-nano-wa-omae-dake-ka-yo-oretachi-no-game-set  (tahun: 2020, type: OVA)
+  - ore-wo-suki-nano-wa-omae-dake-ka-yo  (tahun: 2019, type: TV)
+
+kitsuId: 44205 (2 file)
+  - orient-awajishima-gekitou-hen  (tahun: 2022, type: TV)
+  - orient  (tahun: 2022, type: TV)
+
+kitsuId: 43238 (2 file)
+  - otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x-unmei-no-hito-ni-deatte-shimatta  (tahun: 2021, type: OVA)
+  - otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x  (tahun: 2021, type: TV)
+
+kitsuId: 11182 (2 file)
+  - owarimonogatari-ge  (tahun: 2017, type: TV)
+  - owarimonogatari  (tahun: 2015, type: TV)
+
+kitsuId: 6255 (2 file)
+  - persona-4-the-animation  (tahun: 2011, type: TV)
+  - persona-trinity-soul  (tahun: 2008, type: TV)
+
+kitsuId: 7023 (2 file)
+  - pet  (tahun: 2020, type: TV)
+  - sakurasou-no-pet-na-kanojo  (tahun: 2012, type: TV)
+
+kitsuId: 4659 (2 file)
+  - planet-with  (tahun: 2018, type: TV)
+  - redline  (tahun: 2009, type: Movie)
+
+kitsuId: 7895 (2 file)
+  - pocket-monsters-best-wishes-season-2-decolora-adventure  (tahun: 2013, type: TV)
+  - pocket-monsters-best-wishes-season-2  (tahun: 2012, type: TV)
+
+kitsuId: 1004 (2 file)
+  - pocket-monsters-crystal-raikou-ikazuchi-no-densetsu  (tahun: 2001, type: Special)
+  - pocket-monsters-mizu-no-miyako-no-mamorigami-latias-to-latios  (tahun: 2002, type: Movie)
+
+kitsuId: 41871 (2 file)
+  - pocket-monsters-mewtwo-no-gyakushuu-evolution  (tahun: 2019, type: Movie)
+  - pocket-monsters-mewtwo-no-gyakushuu  (tahun: 1998, type: Movie)
+
+kitsuId: 7850 (2 file)
+  - pocket-monsters-xy-mega-evolution  (tahun: 2014, type: Special)
+  - pocket-monsters-xy  (tahun: 2013, type: TV)
+
+kitsuId: 49433 (2 file)
+  - ranma-12-2024-2nd-season  (tahun: 2025, type: TV)
+  - ranma-12-2024-3rd-season  (tahun: 2026, type: TV)
+
+kitsuId: 186 (2 file)
+  - ranma-12-nettou-hen  (tahun: 1989, type: TV)
+  - ranma-12  (tahun: 1989, type: TV)
+
+kitsuId: 47964 (2 file)
+  - remonster-2nd-season  (tahun: -, type: TV)
+  - remonster  (tahun: 2024, type: TV)
+
+kitsuId: 181 (2 file)
+  - rewrite  (tahun: 2016, type: TV)
+  - samurai-champloo  (tahun: 2004, type: TV)
+
+kitsuId: 43247 (3 file)
+  - rezero-kara-hajimeru-isekai-seikatsu-2nd-season-part-2  (tahun: 2021, type: TV)
+  - rezero-kara-hajimeru-isekai-seikatsu-2nd-season  (tahun: 2020, type: TV)
+  - rezero-kara-hajimeru-isekai-seikatsu-3rd-season  (tahun: 2024, type: TV)
+
+kitsuId: 8806 (2 file)
+  - saiki-kusuo-no-nan-ona  (tahun: 2013, type: ONA)
+  - saiki-kusuo-no-nan  (tahun: 2016, type: TV)
+
+kitsuId: 48651 (2 file)
+  - sasaki-to-pii-chan-season-2  (tahun: 2026, type: TV)
+  - sasaki-to-pii-chan  (tahun: 2024, type: TV)
+
+kitsuId: 4847 (2 file)
+  - sayonara-zetsubou-sensei-nyankin-no-kirisuto  (tahun: 2012, type: OVA)
+  - zan-sayonara-zetsubou-sensei-bangaichi  (tahun: 2009, type: OVA)
+
+kitsuId: 8662 (2 file)
+  - seirei-tsukai-no-blade-dance-mini-ovas  (tahun: 2014, type: Special)
+  - seirei-tsukai-no-blade-dance  (tahun: 2014, type: TV)
+
+kitsuId: 4616 (2 file)
+  - shakugan-no-shana-s  (tahun: 2009, type: OVA)
+  - shakugan-no-shana-special-koi-to-onsen-no-kougai-gakushuu  (tahun: 2006, type: Special)
+
+kitsuId: 49889 (2 file)
+  - shiguang-dailiren-ii  (tahun: -, type: ONA)
+  - shiguang-dailiren-iii  (tahun: -, type: ONA)
+
+kitsuId: 7964 (2 file)
+  - shin-kidou-senki-gundam-wing-endless-waltz-tokubetsu-hen  (tahun: 1998, type: Movie)
+  - shin-kidou-senki-gundam-wing-endless-waltz  (tahun: 1997, type: OVA)
+
+kitsuId: 46686 (2 file)
+  - shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd  (tahun: 2024, type: TV)
+  - shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita  (tahun: 2021, type: TV)
+
+kitsuId: 7889 (4 file)
+  - shingeki-no-kyojin-chimi-kyara-gekijou-final  (tahun: 2021, type: Special)
+  - shingeki-no-kyojin-chimi-kyara-gekijou-rivai-han-part-2  (tahun: 2019, type: Special)
+  - shingeki-no-kyojin-chimi-kyara-gekijou-rivai-han  (tahun: 2018, type: Special)
+  - shingeki-no-kyojin-chimi-kyara-gekijou-tondeke-kunren-heidan  (tahun: 2013, type: Special)
+
+kitsuId: 7442 (2 file)
+  - shingeki-no-kyojin-gaiden-kuinaki-sentaku  (tahun: 2015, type: OVA)
+  - shingeki-no-kyojin  (tahun: 2013, type: TV)
+
+kitsuId: 47132 (2 file)
+  - shingeki-no-kyojin-kouhen-jiyuu-no-tsubasa  (tahun: 2015, type: Movie)
+  - shingeki-no-kyojin-the-final-season-kanketsu-hen-kouhen  (tahun: 2023, type: Special)
+
+kitsuId: 8671 (2 file)
+  - shingeki-no-kyojin-season-2-kakusei-no-houkou  (tahun: 2018, type: Movie)
+  - shingeki-no-kyojin-season-2  (tahun: 2017, type: TV)
+
+kitsuId: 46038 (2 file)
+  - shingeki-no-kyojin-the-final-season-kanketsu-hen-zenpen  (tahun: 2023, type: Special)
+  - shingeki-no-kyojin-zenpen-guren-no-yumiya  (tahun: 2014, type: Movie)
+
+kitsuId: 10757 (2 file)
+  - shinmai-maou-no-testament-burst  (tahun: 2015, type: TV)
+  - shinmai-maou-no-testament-toujou-basara-no-hard-sweet-na-nichijou  (tahun: 2015, type: OVA)
+
+kitsuId: 6929 (2 file)
+  - shinryaku-ika-musume-ova  (tahun: 2012, type: OVA)
+  - shinryaku-ika-musume  (tahun: 2011, type: TV)
+
+kitsuId: 41255 (2 file)
+  - shirobako-gekichuugeki-animation  (tahun: 2015, type: Special)
+  - shirobako-movie  (tahun: 2020, type: Movie)
+
+kitsuId: 47495 (3 file)
+  - shuumatsu-no-valkyrie-ii-part-2  (tahun: 2023, type: ONA)
+  - shuumatsu-no-valkyrie-ii  (tahun: 2023, type: ONA)
+  - valkyrie-no-shokutaku  (tahun: 2019, type: ONA)
+
+kitsuId: 42628 (2 file)
+  - slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni  (tahun: 2025, type: TV)
+  - slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita  (tahun: 2021, type: TV)
+
+kitsuId: 7668 (2 file)
+  - so-ra-no-wo-to-ova  (tahun: 2010, type: OVA)
+  - so-ra-no-wo-to  (tahun: 2010, type: TV)
+
+kitsuId: 8419 (2 file)
+  - suisei-no-gargantia-meguru-kouro-haruka  (tahun: 2014, type: OVA)
+  - suisei-no-gargantia-ova  (tahun: 2013, type: OVA)
+
+kitsuId: 6589 (2 file)
+  - sword-art-online-integral-domain  (tahun: -, type: Movie)
+  - sword-art-online  (tahun: 2012, type: TV)
+
+kitsuId: 40949 (2 file)
+  - sword-art-online-ordinal-scale-sword-art-offline  (tahun: 2017, type: Special)
+  - sword-art-online-ordinal-scale  (tahun: 2017, type: Movie)
+
+kitsuId: 6087 (2 file)
+  - tamayura-hitotose  (tahun: 2011, type: TV)
+  - tamayura  (tahun: 2010, type: OVA)
+
+kitsuId: 3471 (2 file)
+  - tengen-toppa-gurren-lagann-gurren-hen  (tahun: 2008, type: Movie)
+  - tengen-toppa-gurren-lagann-lagann-hen  (tahun: 2009, type: Movie)
+
+kitsuId: 43361 (2 file)
+  - tensei-shitara-slime-datta-ken-2nd-season-part-2  (tahun: 2021, type: TV)
+  - tensei-shitara-slime-datta-ken-2nd-season  (tahun: 2021, type: TV)
+
+kitsuId: 50453 (2 file)
+  - tensei-shitara-slime-datta-ken-4th-season-part-1-2  (tahun: 2026, type: TV)
+  - tensei-shitara-slime-datta-ken-4th-season-part-3  (tahun: 2027, type: TV)
+
+kitsuId: 8120 (2 file)
+  - toaru-majutsu-no-index-endymion-no-kiseki-special  (tahun: 2013, type: Special)
+  - toaru-majutsu-no-index-endymion-no-kiseki  (tahun: 2013, type: Movie)
+
+kitsuId: 6098 (2 file)
+  - toaru-majutsu-no-index-ii-specials  (tahun: 2011, type: Special)
+  - toaru-majutsu-no-index-specials  (tahun: 2009, type: Special)
+
+kitsuId: 43034 (2 file)
+  - tonikaku-kawaii-sns  (tahun: 2021, type: OVA)
+  - tonikaku-kawaii  (tahun: 2020, type: TV)
+
+kitsuId: 44114 (2 file)
+  - totsukuni-no-shoujo-2022  (tahun: 2022, type: OVA)
+  - totsukuni-no-shoujo  (tahun: 2019, type: OVA)
+
+kitsuId: 48834 (2 file)
+  - tougen-anki-nikkokegon-no-taki-hen  (tahun: 2026, type: TV)
+  - tougen-anki  (tahun: 2025, type: TV)
+
+kitsuId: 42057 (2 file)
+  - trinity-seven-movie-tenkuu-toshokan-to-shinku-no-maou  (tahun: 2019, type: Movie)
+  - trinity-seven-movie-yuukyuu-toshokan-to-renkinjutsu-shoujo  (tahun: 2017, type: Movie)
+
+kitsuId: 48978 (2 file)
+  - tsuki-ga-michibiku-isekai-douchuu-2nd-season  (tahun: 2024, type: TV)
+  - tsuki-ga-michibiku-isekai-douchuu-3rd-season  (tahun: -, type: TV)
+
+kitsuId: 50872 (2 file)
+  - tu-bian-yingxiong-baba  (tahun: -, type: ONA)
+  - tu-bian-yingxiong-leaf  (tahun: -, type: ONA)
+
+kitsuId: 41209 (2 file)
+  - uchi-no-maid-ga-uzasugiru-ova  (tahun: 2019, type: OVA)
+  - uchi-no-maid-ga-uzasugiru  (tahun: 2018, type: TV)
+
+kitsuId: 6646 (2 file)
+  - uchuu-senkan-yamato-2199  (tahun: 2012, type: OVA)
+  - uchuu-senkan-yamato  (tahun: 1974, type: TV)
+
+kitsuId: 6060 (2 file)
+  - usagi-drop-mini-story  (tahun: 2011, type: Special)
+  - usagi-drop  (tahun: 2011, type: TV)
+
+kitsuId: 7754 (2 file)
+  - vampire-miyu-tv  (tahun: 1997, type: TV)
+  - vampire-miyu  (tahun: 1988, type: OVA)
+
+kitsuId: 49358 (2 file)
+  - watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta-next-shine  (tahun: 2026, type: TV)
+  - watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta  (tahun: 2025, type: TV)
+
+kitsuId: 41403 (2 file)
+  - watashi-ni-tenshi-ga-maiorita-ova  (tahun: 2019, type: OVA)
+  - watashi-ni-tenshi-ga-maiorita  (tahun: 2019, type: TV)
+
+kitsuId: 43823 (2 file)
+  - wave-surfing-yappe-tv  (tahun: 2021, type: TV)
+  - wave-surfing-yappe  (tahun: 2020, type: Movie)
+
+kitsuId: 44396 (2 file)
+  - world-trigger-2nd-season  (tahun: 2021, type: TV)
+  - world-trigger-3rd-season  (tahun: 2021, type: TV)
+
+kitsuId: 42194 (2 file)
+  - yahari-ore-no-seishun-love-come-wa-machigatteiru-kan-dakara-shishunki-wa-owarazu-ni-seishun-wa-tsuzuiteiku  (tahun: 2023, type: OVA)
+  - yahari-ore-no-seishun-love-come-wa-machigatteiru-kan  (tahun: 2020, type: TV)
+
+kitsuId: 8062 (2 file)
+  - yamada-kun-to-7-nin-no-majo-ona  (tahun: 2013, type: ONA)
+  - yamada-kun-to-7-nin-no-majo  (tahun: 2015, type: TV)
+
+kitsuId: 43063 (2 file)
+  - yesterday-wo-utatte-extras  (tahun: 2020, type: ONA)
+  - yesterday-wo-utatte  (tahun: 2020, type: TV)
+
+kitsuId: 47640 (2 file)
+  - yi-ren-zhi-xia-2  (tahun: -, type: TV)
+  - yi-ren-zhi-xia  (tahun: -, type: TV)
+
+kitsuId: 45925 (2 file)
+  - youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season  (tahun: 2022, type: TV)
+  - youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season  (tahun: 2024, type: TV)
+
+kitsuId: 442 (2 file)
+  - yugioh-duel-monsters  (tahun: 2000, type: TV)
+  - yugioh  (tahun: 1998, type: TV)
+
+kitsuId: 44601 (3 file)
+  - yuru-camp-ova  (tahun: 2018, type: OVA)
+  - yuru-camp-season-2-ova  (tahun: 2021, type: OVA)
+  - yuru-camp-season-2  (tahun: 2021, type: TV)
+
+kitsuId: 6205 (2 file)
+  - yuru-yuri-doushitetomaranaitokimekidoki-dokiparadoxeternal  (tahun: 2011, type: Special)
+  - yuru-yuri  (tahun: 2019, type: OVA)
+
+kitsuId: 45069 (2 file)
+  - yuukoku-no-moriarty-ova  (tahun: 2022, type: OVA)
+  - yuukoku-no-moriarty-part-2  (tahun: 2021, type: TV)
+
+=== Duplikat Judul (perlu dicek manual) ===
+
+--- Tahun 2001 ---
+Judul: "one piece"
+  A: one-piece-nejimaki-jima-no-bouken-jango-no-dance-carnival  (tahun: 2001, type: Special, malId: 2385)
+  B: one-piece-yume-no-soccer-ou  (tahun: 2002, type: Special, malId: 2386)
+Judul: "one piece"
+  A: one-piece-nejimaki-jima-no-bouken  (tahun: 2001, type: Movie, malId: 460)
+  B: one-piece-chinjuu-jima-no-chopper-oukoku  (tahun: 2002, type: Movie, malId: 461)
+
+--- Tahun 2002 ---
+Judul: "one piece"
+  A: one-piece-yume-no-soccer-ou  (tahun: 2002, type: Special, malId: 2386)
+  B: one-piece-mamore-saigo-no-oobutai  (tahun: 2003, type: Special, malId: 1238)
+Judul: "one piece"
+  A: one-piece-yume-no-soccer-ou  (tahun: 2002, type: Special, malId: 2386)
+  B: one-piece-oounabara-ni-hirake-dekkai-dekkai-chichi-no-yume  (tahun: 2003, type: Special, malId: 1237)
+
+--- Tahun 2003 ---
+Judul: "naruto"
+  A: naruto-akaki-yotsuba-no-clover-wo-sagase  (tahun: 2003, type: Special, malId: 761)
+  B: naruto-takigakure-no-shitou-ore-ga-eiyuu-dattebayo  (tahun: 2003, type: Special, malId: 594)
+Judul: "one piece"
+  A: one-piece-mamore-saigo-no-oobutai  (tahun: 2003, type: Special, malId: 1238)
+  B: one-piece-oounabara-ni-hirake-dekkai-dekkai-chichi-no-yume  (tahun: 2003, type: Special, malId: 1237)
+Judul: "one piece"
+  A: one-piece-mamore-saigo-no-oobutai  (tahun: 2003, type: Special, malId: 1238)
+  B: one-piece-mezase-kaizoku-yakyuu-ou  (tahun: 2004, type: Special, malId: 2490)
+Judul: "one piece"
+  A: one-piece-oounabara-ni-hirake-dekkai-dekkai-chichi-no-yume  (tahun: 2003, type: Special, malId: 1237)
+  B: one-piece-mezase-kaizoku-yakyuu-ou  (tahun: 2004, type: Special, malId: 2490)
+
+--- Tahun 2004 ---
+Judul: "naruto"
+  A: naruto-dai-katsugeki-yuki-hime-ninpouchou-dattebayo  (tahun: 2004, type: Movie, malId: 442)
+  B: naruto-dai-gekitotsu-maboroshi-no-chitei-iseki-dattebayo  (tahun: 2005, type: Movie, malId: 936)
+Judul: "one piece"
+  A: one-piece-mezase-kaizoku-yakyuu-ou  (tahun: 2004, type: Special, malId: 2490)
+  B: one-piece-nenmatsu-tokubetsu-kikaku-mugiwara-no-luffy-oyabun-torimonochou  (tahun: 2005, type: Special, malId: 2020)
+
+--- Tahun 2005 ---
+Judul: "negima"
+  A: mahou-sensei-negima  (tahun: 2005, type: TV, malId: 157)
+  B: negima  (tahun: 2006, type: TV, malId: 1546)
+Judul: "naruto"
+  A: naruto-dai-gekitotsu-maboroshi-no-chitei-iseki-dattebayo  (tahun: 2005, type: Movie, malId: 936)
+  B: naruto-dai-koufun-mikazukijima-no-animal-panic-dattebayo  (tahun: 2006, type: Movie, malId: 2144)
+Judul: "one piece the movie"
+  A: one-piece-the-movie-omatsuri-danshaku-to-himitsu-no-shima  (tahun: 2005, type: Movie, malId: 464)
+  B: one-piece-the-movie-karakuri-jou-no-mecha-kyohei  (tahun: 2006, type: Movie, malId: 465)
+
+--- Tahun 2006 ---
+Judul: "naruto"
+  A: naruto-dai-koufun-mikazukijima-no-animal-panic-dattebayo  (tahun: 2006, type: Movie, malId: 2144)
+  B: naruto-shippuuden-movie  (tahun: 2007, type: Movie, malId: 2472)
+
+--- Tahun 2007 ---
+Judul: "naruto"
+  A: naruto-shippuuden-movie  (tahun: 2007, type: Movie, malId: 2472)
+  B: naruto-shippuuden-kizuna  (tahun: 2008, type: Movie, malId: 4437)
+
+--- Tahun 2008 ---
+Judul: "naruto"
+  A: naruto-shippuuden-kizuna  (tahun: 2008, type: Movie, malId: 4437)
+  B: naruto-shippuuden-hi-no-ishi-wo-tsugu-mono  (tahun: 2009, type: Movie, malId: 6325)
+
+--- Tahun 2009 ---
+Judul: "naruto"
+  A: naruto-shippuuden-hi-no-ishi-wo-tsugu-mono  (tahun: 2009, type: Movie, malId: 6325)
+  B: naruto-shippuuden-the-lost-tower  (tahun: 2010, type: Movie, malId: 8246)
+Judul: "basara"
+  A: sengoku-basara  (tahun: 2009, type: TV, malId: 5355)
+  B: sengoku-basara-ni  (tahun: 2010, type: TV, malId: 6634)
+
+--- Tahun 2010 ---
+Judul: "naruto"
+  A: naruto-shippuuden-the-lost-tower  (tahun: 2010, type: Movie, malId: 8246)
+  B: naruto-blood-prison  (tahun: 2011, type: Movie, malId: 10589)
+
+--- Tahun 2012 ---
+Judul: "one piece"
+  A: one-piece-episode-of-luffy-hand-island-no-bouken  (tahun: 2012, type: Special, malId: 16239)
+  B: one-piece-episode-of-nami-koukaishi-no-namida-to-nakama-no-kizuna  (tahun: 2012, type: Special, malId: 15323)
+Judul: "one piece"
+  A: one-piece-episode-of-luffy-hand-island-no-bouken  (tahun: 2012, type: Special, malId: 16239)
+  B: one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatari  (tahun: 2013, type: Special, malId: 19123)
+Judul: "one piece"
+  A: one-piece-episode-of-nami-koukaishi-no-namida-to-nakama-no-kizuna  (tahun: 2012, type: Special, malId: 15323)
+  B: one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatari  (tahun: 2013, type: Special, malId: 19123)
+
+--- Tahun 2013 ---
+Judul: "the animation"
+  A: choujigen-game-neptune-the-animation  (tahun: 2013, type: TV, malId: 16157)
+  B: danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei-the-animation  (tahun: 2013, type: TV, malId: 16592)
+Judul: "the animation"
+  A: choujigen-game-neptune-the-animation  (tahun: 2013, type: TV, malId: 16157)
+  B: miss-monochrome-the-animation  (tahun: 2013, type: TV, malId: 20033)
+Judul: "the animation"
+  A: danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei-the-animation  (tahun: 2013, type: TV, malId: 16592)
+  B: miss-monochrome-the-animation  (tahun: 2013, type: TV, malId: 20033)
+Judul: "the animation"
+  A: choujigen-game-neptune-the-animation  (tahun: 2013, type: TV, malId: 16157)
+  B: hamatora-the-animation  (tahun: 2014, type: TV, malId: 20689)
+Judul: "the animation"
+  A: choujigen-game-neptune-the-animation  (tahun: 2013, type: TV, malId: 16157)
+  B: mangaka-san-to-assistant-san-to-the-animation  (tahun: 2014, type: TV, malId: 21863)
+Judul: "the animation"
+  A: choujigen-game-neptune-the-animation  (tahun: 2013, type: TV, malId: 16157)
+  B: ping-pong-the-animation  (tahun: 2014, type: TV, malId: 22135)
+Judul: "the animation"
+  A: danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei-the-animation  (tahun: 2013, type: TV, malId: 16592)
+  B: hamatora-the-animation  (tahun: 2014, type: TV, malId: 20689)
+Judul: "the animation"
+  A: danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei-the-animation  (tahun: 2013, type: TV, malId: 16592)
+  B: mangaka-san-to-assistant-san-to-the-animation  (tahun: 2014, type: TV, malId: 21863)
+Judul: "the animation"
+  A: danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei-the-animation  (tahun: 2013, type: TV, malId: 16592)
+  B: ping-pong-the-animation  (tahun: 2014, type: TV, malId: 22135)
+Judul: "the animation"
+  A: miss-monochrome-the-animation  (tahun: 2013, type: TV, malId: 20033)
+  B: hamatora-the-animation  (tahun: 2014, type: TV, malId: 20689)
+Judul: "the animation"
+  A: miss-monochrome-the-animation  (tahun: 2013, type: TV, malId: 20033)
+  B: mangaka-san-to-assistant-san-to-the-animation  (tahun: 2014, type: TV, malId: 21863)
+Judul: "the animation"
+  A: miss-monochrome-the-animation  (tahun: 2013, type: TV, malId: 20033)
+  B: ping-pong-the-animation  (tahun: 2014, type: TV, malId: 22135)
+Judul: "fate kaleid liner"
+  A: fatekaleid-liner-prismaillya-short-anime  (tahun: 2013, type: Special, malId: 19109)
+  B: fatekaleid-liner-prismaillya-2wei-short-anime  (tahun: 2014, type: Special, malId: 25011)
+Judul: "extra edition"
+  A: sword-art-online-extra-edition  (tahun: 2013, type: Special, malId: 20021)
+  B: sword-art-offline-extra-edition  (tahun: 2014, type: Special, malId: 21879)
+
+--- Tahun 2014 ---
+Judul: "the animation"
+  A: hamatora-the-animation  (tahun: 2014, type: TV, malId: 20689)
+  B: mangaka-san-to-assistant-san-to-the-animation  (tahun: 2014, type: TV, malId: 21863)
+Judul: "the animation"
+  A: hamatora-the-animation  (tahun: 2014, type: TV, malId: 20689)
+  B: ping-pong-the-animation  (tahun: 2014, type: TV, malId: 22135)
+Judul: "the animation"
+  A: mangaka-san-to-assistant-san-to-the-animation  (tahun: 2014, type: TV, malId: 21863)
+  B: ping-pong-the-animation  (tahun: 2014, type: TV, malId: 22135)
+Judul: "the animation"
+  A: hamatora-the-animation  (tahun: 2014, type: TV, malId: 20689)
+  B: gunslinger-stratos-the-animation  (tahun: 2015, type: TV, malId: 28791)
+Judul: "the animation"
+  A: mangaka-san-to-assistant-san-to-the-animation  (tahun: 2014, type: TV, malId: 21863)
+  B: gunslinger-stratos-the-animation  (tahun: 2015, type: TV, malId: 28791)
+Judul: "the animation"
+  A: ping-pong-the-animation  (tahun: 2014, type: TV, malId: 22135)
+  B: gunslinger-stratos-the-animation  (tahun: 2015, type: TV, malId: 28791)
+Judul: "fate kaleid liner"
+  A: fatekaleid-liner-prismaillya-2wei-short-anime  (tahun: 2014, type: Special, malId: 25011)
+  B: fatekaleid-liner-prismaillya-2wei-herz-short-anime  (tahun: 2015, type: Special, malId: 31056)
+Judul: "fate kaleid liner"
+  A: fatekaleid-liner-prismaillya-2wei  (tahun: 2014, type: TV, malId: 20509)
+  B: fatekaleid-liner-prismaillya-2wei-herz  (tahun: 2015, type: TV, malId: 27525)
+
+--- Tahun 2015 ---
+Judul: "i ll be here"
+  A: kyoukai-no-kanata-ill-be-here-kako-hen  (tahun: 2015, type: Movie, malId: 25015)
+  B: kyoukai-no-kanata-ill-be-here-mirai-hen  (tahun: 2015, type: Movie, malId: 28675)
+Judul: "the idolm ster cinderella girls"
+  A: the-idolmster-cinderella-girls-2nd-season  (tahun: 2015, type: TV, malId: 30344)
+  B: the-idolmster-cinderella-girls  (tahun: 2015, type: TV, malId: 23587)
+Judul: "fate kaleid liner"
+  A: fatekaleid-liner-prismaillya-2wei-herz  (tahun: 2015, type: TV, malId: 27525)
+  B: fatekaleid-liner-prismaillya-3rei  (tahun: 2016, type: TV, malId: 31706)
+Judul: "one piece"
+  A: one-piece-adventure-of-nebulandia  (tahun: 2015, type: Special, malId: 32051)
+  B: one-piece-heart-of-gold  (tahun: 2016, type: Special, malId: 33338)
+
+--- Tahun 2016 ---
+Judul: "3 the end of"
+  A: danganronpa-3-the-end-of-kibougamine-gakuen-mirai-hen  (tahun: 2016, type: TV, malId: 32189)
+  B: danganronpa-3-the-end-of-kibougamine-gakuen-zetsubou-hen  (tahun: 2016, type: TV, malId: 33028)
+
+--- Tahun 2017 ---
+Judul: "free timeless medley"
+  A: free-timeless-medley-kizuna  (tahun: 2017, type: Movie, malId: 33845)
+  B: free-timeless-medley-yakusoku  (tahun: 2017, type: Movie, malId: 35191)
+Judul: "bang dream"
+  A: bang-dream  (tahun: 2017, type: TV, malId: 33573)
+  B: bang-dream-garupapico  (tahun: 2018, type: TV, malId: 37873)
+Judul: "godzilla"
+  A: godzilla-kaijuu-wakusei  (tahun: 2017, type: Movie, malId: 33783)
+  B: godzilla-hoshi-wo-kuu-mono  (tahun: 2018, type: Movie, malId: 37897)
+Judul: "godzilla"
+  A: godzilla-kaijuu-wakusei  (tahun: 2017, type: Movie, malId: 33783)
+  B: godzilla-kessen-kidou-zoushoku-toshi  (tahun: 2018, type: Movie, malId: 36816)
+Judul: "one room"
+  A: one-room  (tahun: 2017, type: TV, malId: 34392)
+  B: one-room-second-season  (tahun: 2018, type: TV, malId: 36431)
+Judul: "the animation"
+  A: ousama-game-the-animation  (tahun: 2017, type: TV, malId: 36027)
+  B: dorei-ku-the-animation  (tahun: 2018, type: TV, malId: 36525)
+Judul: "season2"
+  A: shingeki-no-kyojin-season-2  (tahun: 2017, type: TV, malId: 25777)
+  B: gyakuten-saiban-sono-shinjitsu-igi-ari-season-2  (tahun: 2018, type: TV, malId: 37490)
+
+--- Tahun 2018 ---
+Judul: "godzilla"
+  A: godzilla-hoshi-wo-kuu-mono  (tahun: 2018, type: Movie, malId: 37897)
+  B: godzilla-kessen-kidou-zoushoku-toshi  (tahun: 2018, type: Movie, malId: 36816)
+Judul: "the animation"
+  A: dorei-ku-the-animation  (tahun: 2018, type: TV, malId: 36525)
+  B: grimms-notes-the-animation  (tahun: 2019, type: TV, malId: 37154)
+
+--- Tahun 2019 ---
+Judul: "the animation"
+  A: grimms-notes-the-animation  (tahun: 2019, type: TV, malId: 37154)
+  B: shin-sakura-taisen-the-animation  (tahun: 2020, type: TV, malId: 40403)
+Judul: "the animation"
+  A: grisaia-phantom-trigger-the-animation  (tahun: 2019, type: Movie, malId: 35868)
+  B: grisaia-phantom-trigger-the-animation-stargazer  (tahun: 2020, type: Movie, malId: 42392)
+
+--- Tahun 2020 ---
+Judul: "date a bullet dead or bullet nightmare or queen"
+  A: date-a-bullet-dead-or-bullet  (tahun: 2020, type: Movie, malId: 40416)
+  B: date-a-bullet-nightmare-or-queen  (tahun: 2020, type: Movie, malId: 42423)
+Judul: "2nd season"
+  A: fruits-basket-2nd-season  (tahun: 2020, type: TV, malId: 40417)
+  B: magia-record-mahou-shoujo-madokamagica-gaiden-2nd-season-kakusei-zenya  (tahun: 2021, type: TV, malId: 41530)
+Judul: "the animation"
+  A: shin-sakura-taisen-the-animation  (tahun: 2020, type: TV, malId: 40403)
+  B: subarashiki-kono-sekai-the-animation  (tahun: 2021, type: TV, malId: 42307)
+
+--- Tahun 2021 ---
+Judul: "2nd season"
+  A: magia-record-mahou-shoujo-madokamagica-gaiden-2nd-season-kakusei-zenya  (tahun: 2021, type: TV, malId: 41530)
+  B: arifureta-shokugyou-de-sekai-saikyou-2nd-season  (tahun: 2022, type: TV, malId: 40507)
+Judul: "2nd season"
+  A: magia-record-mahou-shoujo-madokamagica-gaiden-2nd-season-kakusei-zenya  (tahun: 2021, type: TV, malId: 41530)
+  B: shadows-house-2nd-season  (tahun: 2022, type: TV, malId: 49782)
+Judul: "2nd season"
+  A: magia-record-mahou-shoujo-madokamagica-gaiden-2nd-season-kakusei-zenya  (tahun: 2021, type: TV, malId: 41530)
+  B: youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season  (tahun: 2022, type: TV, malId: 51096)
+Judul: "season 2"
+  A: uma-musume-pretty-derby-season-2  (tahun: 2021, type: TV, malId: 42941)
+  B: fumetsu-no-anata-e-season-2  (tahun: 2022, type: TV, malId: 49709)
+Judul: "season 2"
+  A: uma-musume-pretty-derby-season-2  (tahun: 2021, type: TV, malId: 42941)
+  B: tate-no-yuusha-no-nariagari-season-2  (tahun: 2022, type: TV, malId: 40356)
+
+--- Tahun 2022 ---
+Judul: "2nd season"
+  A: arifureta-shokugyou-de-sekai-saikyou-2nd-season  (tahun: 2022, type: TV, malId: 40507)
+  B: shadows-house-2nd-season  (tahun: 2022, type: TV, malId: 49782)
+Judul: "2nd season"
+  A: arifureta-shokugyou-de-sekai-saikyou-2nd-season  (tahun: 2022, type: TV, malId: 40507)
+  B: youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season  (tahun: 2022, type: TV, malId: 51096)
+Judul: "2nd season"
+  A: shadows-house-2nd-season  (tahun: 2022, type: TV, malId: 49782)
+  B: youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season  (tahun: 2022, type: TV, malId: 51096)
+Judul: "season 2"
+  A: fumetsu-no-anata-e-season-2  (tahun: 2022, type: TV, malId: 49709)
+  B: tate-no-yuusha-no-nariagari-season-2  (tahun: 2022, type: TV, malId: 40356)
+Judul: "2nd season"
+  A: arifureta-shokugyou-de-sekai-saikyou-2nd-season  (tahun: 2022, type: TV, malId: 40507)
+  B: hataraku-maou-sama-2nd-season  (tahun: 2023, type: TV, malId: 53200)
+Judul: "2nd season"
+  A: arifureta-shokugyou-de-sekai-saikyou-2nd-season  (tahun: 2022, type: TV, malId: 40507)
+  B: kage-no-jitsuryokusha-ni-naritakute-2nd-season  (tahun: 2023, type: TV, malId: 54595)
+Judul: "2nd season"
+  A: arifureta-shokugyou-de-sekai-saikyou-2nd-season  (tahun: 2022, type: TV, malId: 40507)
+  B: spy-kyoushitsu-2nd-season  (tahun: 2023, type: TV, malId: 54947)
+Judul: "2nd season"
+  A: shadows-house-2nd-season  (tahun: 2022, type: TV, malId: 49782)
+  B: hataraku-maou-sama-2nd-season  (tahun: 2023, type: TV, malId: 53200)
+Judul: "2nd season"
+  A: shadows-house-2nd-season  (tahun: 2022, type: TV, malId: 49782)
+  B: kage-no-jitsuryokusha-ni-naritakute-2nd-season  (tahun: 2023, type: TV, malId: 54595)
+Judul: "2nd season"
+  A: shadows-house-2nd-season  (tahun: 2022, type: TV, malId: 49782)
+  B: spy-kyoushitsu-2nd-season  (tahun: 2023, type: TV, malId: 54947)
+Judul: "2nd season"
+  A: youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season  (tahun: 2022, type: TV, malId: 51096)
+  B: hataraku-maou-sama-2nd-season  (tahun: 2023, type: TV, malId: 53200)
+Judul: "2nd season"
+  A: youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season  (tahun: 2022, type: TV, malId: 51096)
+  B: kage-no-jitsuryokusha-ni-naritakute-2nd-season  (tahun: 2023, type: TV, malId: 54595)
+Judul: "2nd season"
+  A: youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season  (tahun: 2022, type: TV, malId: 51096)
+  B: spy-kyoushitsu-2nd-season  (tahun: 2023, type: TV, malId: 54947)
+Judul: "bastard"
+  A: bastard-ankoku-no-hakaishin-ona  (tahun: 2022, type: ONA, malId: 50953)
+  B: bastard-ankoku-no-hakaishin-jigoku-no-chinkonka-hen  (tahun: 2023, type: ONA, malId: 54141)
+Judul: "bleach"
+  A: bleach-sennen-kessen-hen  (tahun: 2022, type: TV, malId: 41467)
+  B: bleach-sennen-kessen-hen-ketsubetsu-tan  (tahun: 2023, type: TV, malId: 53998)
+Judul: "season 2"
+  A: fumetsu-no-anata-e-season-2  (tahun: 2022, type: TV, malId: 49709)
+  B: kanojo-mo-kanojo-season-2  (tahun: 2023, type: TV, malId: 53040)
+Judul: "season 2"
+  A: tate-no-yuusha-no-nariagari-season-2  (tahun: 2022, type: TV, malId: 40356)
+  B: kanojo-mo-kanojo-season-2  (tahun: 2023, type: TV, malId: 53040)
+
+--- Tahun 2023 ---
+Judul: "2nd season"
+  A: hataraku-maou-sama-2nd-season  (tahun: 2023, type: TV, malId: 53200)
+  B: kage-no-jitsuryokusha-ni-naritakute-2nd-season  (tahun: 2023, type: TV, malId: 54595)
+Judul: "2nd season"
+  A: hataraku-maou-sama-2nd-season  (tahun: 2023, type: TV, malId: 53200)
+  B: spy-kyoushitsu-2nd-season  (tahun: 2023, type: TV, malId: 54947)
+Judul: "2nd season"
+  A: kage-no-jitsuryokusha-ni-naritakute-2nd-season  (tahun: 2023, type: TV, malId: 54595)
+  B: spy-kyoushitsu-2nd-season  (tahun: 2023, type: TV, malId: 54947)
+Judul: "season2"
+  A: kidou-senshi-gundam-suisei-no-majo-season-2  (tahun: 2023, type: TV, malId: 53199)
+  B: kyokou-suiri-season-2  (tahun: 2023, type: TV, malId: 44204)
+Judul: "season2"
+  A: kidou-senshi-gundam-suisei-no-majo-season-2  (tahun: 2023, type: TV, malId: 53199)
+  B: mahoutsukai-no-yome-season-2  (tahun: 2023, type: TV, malId: 52955)
+Judul: "season2"
+  A: kidou-senshi-gundam-suisei-no-majo-season-2  (tahun: 2023, type: TV, malId: 53199)
+  B: seijo-no-maryoku-wa-bannou-desu-season-2  (tahun: 2023, type: TV, malId: 51215)
+Judul: "season2"
+  A: kidou-senshi-gundam-suisei-no-majo-season-2  (tahun: 2023, type: TV, malId: 53199)
+  B: vinland-saga-season-2  (tahun: 2023, type: TV, malId: 49387)
+Judul: "season2"
+  A: kyokou-suiri-season-2  (tahun: 2023, type: TV, malId: 44204)
+  B: mahoutsukai-no-yome-season-2  (tahun: 2023, type: TV, malId: 52955)
+Judul: "season2"
+  A: kyokou-suiri-season-2  (tahun: 2023, type: TV, malId: 44204)
+  B: seijo-no-maryoku-wa-bannou-desu-season-2  (tahun: 2023, type: TV, malId: 51215)
+Judul: "season2"
+  A: kyokou-suiri-season-2  (tahun: 2023, type: TV, malId: 44204)
+  B: vinland-saga-season-2  (tahun: 2023, type: TV, malId: 49387)
+Judul: "season2"
+  A: mahoutsukai-no-yome-season-2  (tahun: 2023, type: TV, malId: 52955)
+  B: seijo-no-maryoku-wa-bannou-desu-season-2  (tahun: 2023, type: TV, malId: 51215)
+Judul: "season2"
+  A: mahoutsukai-no-yome-season-2  (tahun: 2023, type: TV, malId: 52955)
+  B: vinland-saga-season-2  (tahun: 2023, type: TV, malId: 49387)
+Judul: "season2"
+  A: seijo-no-maryoku-wa-bannou-desu-season-2  (tahun: 2023, type: TV, malId: 51215)
+  B: vinland-saga-season-2  (tahun: 2023, type: TV, malId: 49387)
+Judul: "the final season"
+  A: shingeki-no-kyojin-the-final-season-kanketsu-hen-kouhen  (tahun: 2023, type: Special, malId: -)
+  B: shingeki-no-kyojin-the-final-season-kanketsu-hen-zenpen  (tahun: 2023, type: Special, malId: 51535)
+Judul: "season 3"
+  A: tate-no-yuusha-no-nariagari-season-3  (tahun: 2023, type: TV, malId: 40357)
+  B: uma-musume-pretty-derby-season-3  (tahun: 2023, type: TV, malId: 53526)
+Judul: "bleach"
+  A: bleach-sennen-kessen-hen-ketsubetsu-tan  (tahun: 2023, type: TV, malId: 53998)
+  B: bleach-sennen-kessen-hen-soukoku-tan  (tahun: 2024, type: TV, malId: 56784)
+Judul: "2nd season"
+  A: hataraku-maou-sama-2nd-season  (tahun: 2023, type: TV, malId: 53200)
+  B: kamonohashi-ron-no-kindan-suiri-2nd-season  (tahun: 2024, type: TV, malId: 57635)
+Judul: "2nd season"
+  A: hataraku-maou-sama-2nd-season  (tahun: 2023, type: TV, malId: 53200)
+  B: shangri-la-frontier-2nd-season  (tahun: 2024, type: TV, malId: 58572)
+Judul: "2nd season"
+  A: kage-no-jitsuryokusha-ni-naritakute-2nd-season  (tahun: 2023, type: TV, malId: 54595)
+  B: kamonohashi-ron-no-kindan-suiri-2nd-season  (tahun: 2024, type: TV, malId: 57635)
+Judul: "2nd season"
+  A: kage-no-jitsuryokusha-ni-naritakute-2nd-season  (tahun: 2023, type: TV, malId: 54595)
+  B: shangri-la-frontier-2nd-season  (tahun: 2024, type: TV, malId: 58572)
+Judul: "2nd season"
+  A: spy-kyoushitsu-2nd-season  (tahun: 2023, type: TV, malId: 54947)
+  B: kamonohashi-ron-no-kindan-suiri-2nd-season  (tahun: 2024, type: TV, malId: 57635)
+Judul: "2nd season"
+  A: spy-kyoushitsu-2nd-season  (tahun: 2023, type: TV, malId: 54947)
+  B: shangri-la-frontier-2nd-season  (tahun: 2024, type: TV, malId: 58572)
+Judul: "mashle"
+  A: mashle  (tahun: 2023, type: TV, malId: 52211)
+  B: mashle-kami-shinkakusha-kouho-senbatsu-shiken-hen  (tahun: 2024, type: TV, malId: 55813)
+
+--- Tahun 2024 ---
+Judul: "2nd season"
+  A: kamonohashi-ron-no-kindan-suiri-2nd-season  (tahun: 2024, type: TV, malId: 57635)
+  B: shangri-la-frontier-2nd-season  (tahun: 2024, type: TV, malId: 58572)
+Judul: "3rd season"
+  A: arifureta-shokugyou-de-sekai-saikyou-3rd-season  (tahun: 2024, type: TV, malId: 52995)
+  B: youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season  (tahun: 2024, type: TV, malId: 51180)
+Judul: "2nd season"
+  A: kamonohashi-ron-no-kindan-suiri-2nd-season  (tahun: 2024, type: TV, malId: 57635)
+  B: jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season  (tahun: 2025, type: TV, malId: 56700)
+Judul: "2nd season"
+  A: kamonohashi-ron-no-kindan-suiri-2nd-season  (tahun: 2024, type: TV, malId: 57635)
+  B: sentai-daishikkaku-2nd-season  (tahun: 2025, type: TV, malId: 59189)
+Judul: "2nd season"
+  A: shangri-la-frontier-2nd-season  (tahun: 2024, type: TV, malId: 58572)
+  B: jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season  (tahun: 2025, type: TV, malId: 56700)
+Judul: "2nd season"
+  A: shangri-la-frontier-2nd-season  (tahun: 2024, type: TV, malId: 58572)
+  B: sentai-daishikkaku-2nd-season  (tahun: 2025, type: TV, malId: 59189)
+
+--- Tahun 2025 ---
+Judul: "2nd season"
+  A: jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season  (tahun: 2025, type: TV, malId: 56700)
+  B: sentai-daishikkaku-2nd-season  (tahun: 2025, type: TV, malId: 59189)
+Judul: "season2"
+  A: aharen-san-wa-hakarenai-season-2  (tahun: 2025, type: TV, malId: 59466)
+  B: kakkou-no-iinazuke-season-2  (tahun: 2025, type: TV, malId: 59402)
+Judul: "season 2"
+  A: grand-blue-season-2  (tahun: 2025, type: TV, malId: 59986)
+  B: sono-bisque-doll-wa-koi-wo-suru-season-2  (tahun: 2025, type: TV, malId: 53065)
+Judul: "season 2"
+  A: grand-blue-season-2  (tahun: 2025, type: TV, malId: 59986)
+  B: yofukashi-no-uta-season-2  (tahun: 2025, type: TV, malId: 58390)
+Judul: "season 2"
+  A: sono-bisque-doll-wa-koi-wo-suru-season-2  (tahun: 2025, type: TV, malId: 53065)
+  B: yofukashi-no-uta-season-2  (tahun: 2025, type: TV, malId: 58390)
+Judul: "season2"
+  A: aharen-san-wa-hakarenai-season-2  (tahun: 2025, type: TV, malId: 59466)
+  B: ao-no-hako-season-2  (tahun: 2026, type: TV, malId: 61323)
+Judul: "season2"
+  A: aharen-san-wa-hakarenai-season-2  (tahun: 2025, type: TV, malId: 59466)
+  B: higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2  (tahun: 2026, type: TV, malId: 61931)
+Judul: "season2"
+  A: aharen-san-wa-hakarenai-season-2  (tahun: 2025, type: TV, malId: 59466)
+  B: tantei-wa-mou-shindeiru-season-2  (tahun: 2026, type: TV, malId: 52480)
+Judul: "season2"
+  A: aharen-san-wa-hakarenai-season-2  (tahun: 2025, type: TV, malId: 59466)
+  B: tsue-to-tsurugi-no-wistoria-season-2  (tahun: 2026, type: TV, malId: 59983)
+Judul: "season2"
+  A: kakkou-no-iinazuke-season-2  (tahun: 2025, type: TV, malId: 59402)
+  B: ao-no-hako-season-2  (tahun: 2026, type: TV, malId: 61323)
+Judul: "season2"
+  A: kakkou-no-iinazuke-season-2  (tahun: 2025, type: TV, malId: 59402)
+  B: higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2  (tahun: 2026, type: TV, malId: 61931)
+Judul: "season2"
+  A: kakkou-no-iinazuke-season-2  (tahun: 2025, type: TV, malId: 59402)
+  B: tantei-wa-mou-shindeiru-season-2  (tahun: 2026, type: TV, malId: 52480)
+Judul: "season2"
+  A: kakkou-no-iinazuke-season-2  (tahun: 2025, type: TV, malId: 59402)
+  B: tsue-to-tsurugi-no-wistoria-season-2  (tahun: 2026, type: TV, malId: 59983)
+Judul: "season 3"
+  A: fumetsu-no-anata-e-season-3  (tahun: 2025, type: TV, malId: 54703)
+  B: grand-blue-season-3  (tahun: 2026, type: TV, malId: 62542)
+Judul: "2nd season"
+  A: jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season  (tahun: 2025, type: TV, malId: 56700)
+  B: hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season  (tahun: 2026, type: TV, malId: 63817)
+Judul: "2nd season"
+  A: sentai-daishikkaku-2nd-season  (tahun: 2025, type: TV, malId: 59189)
+  B: hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season  (tahun: 2026, type: TV, malId: 63817)
+
+--- Tahun 2026 ---
+Judul: "season2"
+  A: ao-no-hako-season-2  (tahun: 2026, type: TV, malId: 61323)
+  B: higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2  (tahun: 2026, type: TV, malId: 61931)
+Judul: "season2"
+  A: ao-no-hako-season-2  (tahun: 2026, type: TV, malId: 61323)
+  B: tantei-wa-mou-shindeiru-season-2  (tahun: 2026, type: TV, malId: 52480)
+Judul: "season2"
+  A: ao-no-hako-season-2  (tahun: 2026, type: TV, malId: 61323)
+  B: tsue-to-tsurugi-no-wistoria-season-2  (tahun: 2026, type: TV, malId: 59983)
+Judul: "season2"
+  A: higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2  (tahun: 2026, type: TV, malId: 61931)
+  B: tantei-wa-mou-shindeiru-season-2  (tahun: 2026, type: TV, malId: 52480)
+Judul: "season2"
+  A: higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2  (tahun: 2026, type: TV, malId: 61931)
+  B: tsue-to-tsurugi-no-wistoria-season-2  (tahun: 2026, type: TV, malId: 59983)
+Judul: "season2"
+  A: tantei-wa-mou-shindeiru-season-2  (tahun: 2026, type: TV, malId: 52480)
+  B: tsue-to-tsurugi-no-wistoria-season-2  (tahun: 2026, type: TV, malId: 59983)
+Judul: "2nd season"
+  A: hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season  (tahun: 2026, type: TV, malId: 63817)
+  B: skip-to-loafer-2nd-season  (tahun: 2027, type: TV, malId: 60548)
+Judul: "3rd season"
+  A: jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season  (tahun: 2026, type: TV, malId: 62512)
+  B: shangri-la-frontier-3rd-season  (tahun: 2027, type: TV, malId: 61338)
+
+=== MD tanpa tahun (195) ===
+  - 25-jigen-no-ririsa-2nd-season
+  - aishang-ta-de-liyou
+  - aishen-qiaokeli-ing-ii
+  - aishen-qiaokeli-ing
+  - akatsuki-no-yona-zoku-hen
+  - akira-shin-anime
+  - amayo-no-tsuki
+  - aya-to-majo
+  - biaoren
+  - blackrock-shooter
+  - blue-lock-neo-egoist-league
+  - bocchi-the-rock-2nd-season
+  - boku-no-kokoro-no-yabai-yatsu-3rd-season
+  - boruto-naruto-next-generations-part-2
+  - boushoku-no-berserk-2nd-season
+  - chainsaw-man-shikaku-hen
+  - chao-neng-lifang
+  - chiyu-mahou-no-machigatta-tsukaikata-2nd-season
+  - chuan-shu-zijiu-zhinan
+  - cike-wu-liuqi-fanwai
+  - cike-wu-liuqi
+  - da-yu-hai-tang
+  - dandadan-3rd-season
+  - date-a-live-date-to-date
+  - date-a-live-f-last-date
+  - dawang-raoming-2
+  - dawang-raoming
+  - dogul-wang
+  - dorohedoro-season-3
+  - douluo-dalu
+  - dragon-ball-specials
+  - dragon-ball-super-ginga-patrol
+  - dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-vi
+  - evangelion-shinsaku-series
+  - fangkai-nage-nuwu
+  - fategrand-order-cms
+  - fatekaleid-liner-prismaillya-3rei-short-anime
+  - fatestrange-fake-zoku-hen
+  - gachiakuta-2nd-season
+  - gate-2-jieitai-kano-umi-nite-kaku-tatakaeri
+  - genshin
+  - go-saitama
+  - gotcha
+  - grand-blue-season-4
+  - guimi-zhi-zhu-specials
+  - guimi-zhi-zhu-wu-mian-ren-pian
+  - guimi-zhi-zhu-xiaochou-pian
+  - haikyuu-bakemono-tachi-no-iku-tokoro
+  - haikyuu-quest
+  - haikyuu-vs-chiisana-kyojin
+  - hikaru-ga-shinda-natsu-2nd-season
+  - houseki-no-kuni-pv
+  - hunterhunter-pilot-ban
+  - i-byeore-piryohan
+  - idol
+  - isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-2nd-season
+  - isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-ult
+  - isekai-munchkin-hp-1-no-mama-de-saikyou-saisoku-dungeon-kouryaku
+  - isshun-de-chiryou-shiteita-no-ni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru-2nd-season
+  - jimoto-saikou
+  - jiyi-guanli-ju-2026
+  - jiyi-guanli-ju
+  - jujutsu-kaisen-pv
+  - jujutsu-kaisen-shimetsu-kaiyuu-kouhen
+  - kage-no-jitsuryokusha-ni-naritakute-zankyou-hen
+  - kaguya-sama-wa-kokurasetai-kanketsu-hen
+  - kaijuu-8-gou-kanketsu-hen
+  - kanojo-to-kanojo-no-neko
+  - kao-ni-la-zhanshen-xitong
+  - kawaki-wo-ameku
+  - kimetsu-no-yaiba-mugenjou-hen-movie-2
+  - kimetsu-no-yaiba-mugenjou-hen-movie-3
+  - koiseyo-mayakashi-tenshi-domo
+  - kono-subarashii-sekai-ni-shukufuku-wo-4
+  - koyomi-history
+  - kun-tun-tianxia-zhi-zhang-men-guilai
+  - kyoukai-no-kanata-ill-be-here-kako-hen-yakusoku-no-kizuna-dance-mv
+  - let-you-down
+  - ling-qi-huang-quan-zhi-qi
+  - ling-qi
+  - lixiang-jinqu
+  - long-zu-2
+  - long-zu
+  - luo-xiaohei-zhan-ji-2
+  - luo-xiaohei-zhan-ji-movie
+  - lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life-2nd-season
+  - lycoris-recoil-shinsaku-animation
+  - mahou-shoujo-ni-akogarete-2nd-season
+  - make-heroine-ga-oosugiru-2nd-season
+  - mayonaka-heart-tune-2nd-season
+  - mekakucity-reload
+  - meng-qi-shi-shen
+  - modao-zushi-2
+  - modao-zushi-3
+  - modao-zushi-q
+  - modao-zushi
+  - mofa-gongzhu-de-xiao-fannao
+  - monogatari-series-off-monster-season-shin-episode
+  - mushoku-tensei-iii-isekai-ittara-honki-dasu-part-2
+  - naruto-2026
+  - nezha-zhi-mo-tong-jiang-shi
+  - noblesse-pamyeol-ui-sijak
+  - nozomanu-fushi-no-boukensha-2nd-season
+  - oemojisangjuui
+  - on-your-mark-chage-aska
+  - one-punch-man-3-part-2
+  - ookami-to-koushinryou-merchant-meets-the-wise-wolf-2nd-season
+  - ore-dake-level-up-na-ken-beyond-the-system
+  - ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-2nd-season
+  - oshi-no-ko-final-season
+  - ousama-ranking-movie
+  - quanzhi-fashi-2
+  - quanzhi-fashi-3
+  - quanzhi-fashi-4
+  - quanzhi-fashi-5
+  - quanzhi-fashi-6
+  - quanzhi-fashi
+  - quanzhi-gaoshou-2
+  - quanzhi-gaoshou-3
+  - quanzhi-gaoshou-dianfeng-rongyao
+  - quanzhi-gaoshou-specials
+  - quanzhi-gaoshou
+  - rain-town
+  - remonster-2nd-season
+  - ruri-dragon
+  - sabikui-bisco-2nd-season
+  - shelter
+  - shicao-lao-long-bei-guanyi-e-long-zhi-ming
+  - shiguang-dailiren-ii
+  - shiguang-dailiren-iii
+  - shiguang-dailiren-special
+  - shiguang-dailiren-yingdu-pian
+  - shiguang-dailiren
+  - shikong-shitu
+  - shingeki-no-kyotou
+  - shiyan-pin-jiating
+  - si-ge-yongzhe
+  - sk-2nd-season
+  - snow-halation
+  - sword-art-online-integral-domain
+  - tate-no-yuusha-no-nariagari-season-5
+  - ten-count
+  - tengen-toppa-gurren-lagann-kiramekiyoko-box-pieces-of-sweet-stars
+  - tengen-toppa-gurren-lagann-parallel-works
+  - the-everlasting-guilty-crown
+  - tian-guan-ci-fu-2
+  - tian-guan-ci-fu-special
+  - tian-guan-ci-fu
+  - toaru-kagaku-no-railgun-4th-season
+  - tokidoki-bosotto-rossiya-go-de-dereru-tonari-no-alya-san-season-2
+  - tongari-boushi-no-atelier-2nd-season
+  - tongling-fei
+  - tsue-to-tsurugi-no-wistoria-season-3
+  - tsuki-ga-michibiku-isekai-douchuu-3rd-season
+  - tu-bian-yingxiong-baba
+  - tu-bian-yingxiong-leaf
+  - tu-bian-yingxiong-x
+  - undead-unluck-2nd-season
+  - utsu-musume-sayuri
+  - vivy-fluorite-eyes-song-pilot-movie
+  - wan-sheng-jie
+  - wei-kanjian-erduo-la
+  - witch-watch-2nd-season
+  - wo-de-tian-jie-nuyou
+  - wu-liuqi-anying-suming
+  - wu-liuqi-jiyi-suipian
+  - wu-liuqi-xuanwu-guo-pian
+  - wu-liuqi-zui-qiang-faxingshi
+  - wu-shan-wu-xing-xi-chuan-huan-zi-lin
+  - wu-shan-wu-xing-zhuo-yuan-shen-huo
+  - xian-wang-de-richang-shenghuo-2
+  - xian-wang-de-richang-shenghuo-3
+  - xian-wang-de-richang-shenghuo-4
+  - xian-wang-de-richang-shenghuo-5
+  - xian-wang-de-richang-shenghuo
+  - xie-wang-zhui-qi
+  - yaojing-zhongzhi-shouce
+  - yeonae-haru-jeon-2
+  - yeonae-haru-jeon-zero
+  - yeonae-haru-jeon
+  - yeosingangnim
+  - yi-nian-yongheng
+  - yi-ren-zhi-xia-2
+  - yi-ren-zhi-xia-3
+  - yi-ren-zhi-xia
+  - yingxiong-zailin
+  - yomi-no-tsugai-2nd-season
+  - youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-5th-season
+  - yuru-camp-season-4
+  - yuuri-on-ice-the-movie-ice-adolescence
+  - yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku-2nd-season
+  - yuusha-party-wo-oidasareta-kiyou-binbou-2nd-season
+  - zenchiteki-na-dokusha-no-shiten-kara
+  - zhen-hun-jie
+  - zuihou-de-zhaohuan-shi
