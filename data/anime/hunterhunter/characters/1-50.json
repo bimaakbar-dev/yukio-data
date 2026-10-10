@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Gon Freecss",
+    "nameNative": "ゴン＝フリークス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg",
+    "role": "main",
+    "voiceActors": [
+      "junko-takeuchi"
+    ]
+  },
+  {
+    "name": "Killua Zoldyck",
+    "nameNative": "キルア=ゾルディック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b27-Z5O02kQUydpT.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kanako-mitsuhashi"
+    ]
+  },
+  {
+    "name": "Kurapika",
+    "nameNative": "クラピカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28-ivA7UGnfE40a.png",
+    "role": "main",
+    "voiceActors": [
+      "yuki-kaida"
+    ]
+  },
+  {
+    "name": "Leorio Paradinight",
+    "nameNative": "レオリオ・パラディナイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29-RgzoSeKmDYzl.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hozumi-gouda"
+    ]
+  },
+  {
+    "name": "86-ban",
+    "nameNative": "86番",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b237341-Ep6HiiTOoosO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihiro-togashi"
+    ]
+  },
+  {
+    "name": "Amori",
+    "nameNative": "アモリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63541.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norihisa-mori"
+    ]
+  },
+  {
+    "name": "Anita",
+    "nameNative": "アニタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38622.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "umi-tenjin"
+    ]
+  },
+  {
+    "name": "Baise",
+    "nameNative": "ヴェーゼ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33378-CCUuuCbPk9qy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shiori-oota"
+    ]
+  },
+  {
+    "name": "Basho",
+    "nameNative": "バショウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n33380-8sbAnMeufQkH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenobu-kiuchi"
+    ]
+  },
+  {
+    "name": "Beans",
+    "nameNative": "ビーンズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/53271.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norihisa-mori"
+    ]
+  },
+  {
+    "name": "Bendot",
+    "nameNative": "ベンドット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b53279-CosyMp3DE5b7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-sugino"
+    ]
+  },
+  {
+    "name": "Bodoro",
+    "nameNative": "ボドロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b57757-XH4bpyMbNXBb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-takemoto"
+    ]
+  },
+  {
+    "name": "Bourbon",
+    "nameNative": "バーボン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b57761-e4GtJz64H1MH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-takemoto"
+    ]
+  },
+  {
+    "name": "Buhara",
+    "nameNative": "ブハラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50847-XGj2qeYWkvIK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "keiji-takahashi"
+    ]
+  },
+  {
+    "name": "Canary",
+    "nameNative": "カナリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35894-pIxaSDFr0oGe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reiko-kiuchi"
+    ]
+  },
+  {
+    "name": "Chrollo Lucilfer",
+    "nameNative": "クロロ・ルシルフル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b58-USOmsz3nursi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshikazu-nagano"
+    ]
+  },
+  {
+    "name": "Cocco",
+    "nameNative": "コッコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b66135-osaTSFrkgK2A.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Dalzollene",
+    "nameNative": "ダルツォルネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33382-5Jvz56mXsxl4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-sugino"
+    ]
+  },
+  {
+    "name": "Eliza",
+    "nameNative": "エリザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67203-Cne1pPDwxmxd.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Feitan Portor",
+    "nameNative": "フェイタン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3195.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akari-hibino"
+    ]
+  },
+  {
+    "name": "Franklin Bordeaux",
+    "nameNative": "フランクリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n5828-cMOh5ifgAEW1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshinobu-kaneko"
+    ]
+  },
+  {
+    "name": "Gereta",
+    "nameNative": "ゲレタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50695-VUoHaVoyPqCF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-matsuyama"
+    ]
+  },
+  {
+    "name": "Gido",
+    "nameNative": "ギド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64513-QfeHMcTTlXaa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouhei-kowada"
+    ]
+  },
+  {
+    "name": "Ging Freecss",
+    "nameNative": "ジン・フリークス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26-VpZXIwOdcz8p.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-touchi"
+    ]
+  },
+  {
+    "name": "Gotou",
+    "nameNative": "ゴトー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60009-e0TWRv9Mwvtd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-matsuyama"
+    ]
+  },
+  {
+    "name": "Gozu",
+    "nameNative": "ゴズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54129-v9v9aSqpHzyd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-kishi"
+    ]
+  },
+  {
+    "name": "Hanzou",
+    "nameNative": "ハンゾー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20677-I7bchq2Ema7S.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshirou-matsumoto"
+    ]
+  },
+  {
+    "name": "Hi-sobo",
+    "nameNative": "ヒ祖母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49759-SFguG9pkcpCy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiko-mizutani"
+    ]
+  },
+  {
+    "name": "Hisoka Morow",
+    "nameNative": "ヒソカ・モロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31-FZckOuu7L1un.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-takahashi"
+    ]
+  },
+  {
+    "name": "Illumi Zoldyck",
+    "nameNative": "イルミ＝ゾルディック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b57-pTFguojSOQZW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "urara-takano"
+    ]
+  },
+  {
+    "name": "Imori",
+    "nameNative": "イモリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/63543.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nakano"
+    ]
+  },
+  {
+    "name": "Isaac Netero",
+    "nameNative": "アイザック・ネテロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14489-WgGsdlQJka65.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "bunmei-tobayama"
+    ]
+  },
+  {
+    "name": "Izunavi",
+    "nameNative": "イズナビ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b66481-bmXF4XHJiVpR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuki-yao"
+    ]
+  },
+  {
+    "name": "Johness",
+    "nameNative": "ジョネス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b53275-yZ5qpYYl7ZUL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tsuyoshi-koyama"
+    ]
+  },
+  {
+    "name": "Kalluto Zoldyck",
+    "nameNative": "カルト＝ゾルディック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n6089-ro8HdSKvlycB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuko-maekawa"
+    ]
+  },
+  {
+    "name": "Kastro",
+    "nameNative": "カストロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b63099-9W2TXlY0ewX3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-kishi"
+    ]
+  },
+  {
+    "name": "Katzo",
+    "nameNative": "カッツォ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49569-4SdIezCcFECx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "norihisa-mori"
+    ]
+  },
+  {
+    "name": "Kikyo Zoldyck",
+    "nameNative": "キキョウ＝ゾルディック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59457-r6WAzVNE0zUH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rena-yukie"
+    ]
+  },
+  {
+    "name": "Kiriko",
+    "nameNative": "キリコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61955.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-takemoto"
+    ]
+  },
+  {
+    "name": "Kite",
+    "nameNative": "カイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20594-QQJBR3LYobbv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-kishi"
+    ]
+  },
+  {
+    "name": "Kortopi",
+    "nameNative": "コルトピ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n5829-ubGjeYxlPnxL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "umi-tenjin"
+    ]
+  },
+  {
+    "name": "Leroute",
+    "nameNative": "レルート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n10535-iCSNBBSq22iD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuko"
+    ]
+  },
+  {
+    "name": "Light Nostrade",
+    "nameNative": "ライト＝ノストラード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18108-NVyC0NCmyBnA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-nishimatsu"
+    ]
+  },
+  {
+    "name": "Lippo",
+    "nameNative": "リッポー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52399-NPrfid9JYTDv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihiko-akaida"
+    ]
+  },
+  {
+    "name": "Machi Komacine",
+    "nameNative": "マチ゠コマチネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5830-IEl8BCasHZvG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "noriko-namiki"
+    ]
+  },
+  {
+    "name": "Majitani",
+    "nameNative": "マジタニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52497-TYAsMF2XBFeG.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenobu-kiuchi"
+    ]
+  },
+  {
+    "name": "Menchi",
+    "nameNative": "メンチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6088-Bih7EhJL1QE6.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akari-hibino"
+    ]
+  },
+  {
+    "name": "Milluki Zoldyck",
+    "nameNative": "ミルキ＝ゾルディック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33375-uyAQDvo1lZc2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katashi-ishizuka"
+    ]
+  },
+  {
+    "name": "Mito Freecss",
+    "nameNative": "ミト・フリークス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20678-srslmpp3o4yK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akiko-kimura"
+    ]
+  },
+  {
+    "name": "Neon Nostrade",
+    "nameNative": "ネオン＝ノストラード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17564-tJHe64LxFqm1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuko-maekawa"
+    ]
+  }
+]
