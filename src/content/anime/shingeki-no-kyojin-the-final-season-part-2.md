@@ -14,7 +14,6 @@ season: winter
 year: 2022
 episodes: 12
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "2022-01-10"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 8.6
-  # scoredBy: # edit manual
 
 genres:
   - action
