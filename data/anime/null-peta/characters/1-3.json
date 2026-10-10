@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Null",
+    "nameNative": "ぬる",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142786-b6Gf0ZmgyS92.jpg",
+    "role": "main",
+    "voiceActors": [
+      "azumi-waki"
+    ]
+  },
+  {
+    "name": "Peta",
+    "nameNative": "ぺた",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142785-G4y0imRNLks2.jpg",
+    "role": "main",
+    "voiceActors": [
+      "reina-ueda"
+    ]
+  },
+  {
+    "name": "Kaki",
+    "nameNative": "かき",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150922-xkDVhtJUXVsm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maki-yamamoto"
+    ]
+  }
+]
