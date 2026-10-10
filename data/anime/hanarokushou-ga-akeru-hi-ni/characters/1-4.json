@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Kaoru Shikimori",
+    "nameNative": "式森カオル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b404085-PHELeRzXN8v9.png",
+    "role": "main",
+    "voiceActors": [
+      "kotone-furukawa"
+    ]
+  },
+  {
+    "name": "Keitarou Obinata",
+    "nameNative": "帯刀敬太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b404083-zRer29xC8dvz.png",
+    "role": "main",
+    "voiceActors": [
+      "riku-hagiwara"
+    ]
+  },
+  {
+    "name": "Eitarou Obinata",
+    "nameNative": "帯刀榮太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b404088-OYvGuYIWyoyc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-okabe"
+    ]
+  },
+  {
+    "name": "Sentarou Obinata",
+    "nameNative": "帯刀千太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b404087-pSUPmMbQWJVc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-irino"
+    ]
+  }
+]
