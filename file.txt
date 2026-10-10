@@ -1,47 +1,50 @@
-# Duplikat by External ID
-# Total MD: 4948
-# Duplikat malId: 3 grup
-# Duplikat kitsuId: 245 grup
+=== Deteksi Duplikat by External ID ===
+Total MD: 4948
+
+Duplikat by malId    : 3 grup
+Duplikat by kitsuId  : 245 grup
+Duplikat by anilistId: 0 grup
+Duplikat by title    : 0 grup
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1. DUPLIKAT by malId — 3 grup
+1. DUPLIKAT BY malId — 3 grup
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-malId=24151:
+malId=24151 (2 anime):
   ao-haru-ride-page13
       title: "Ao Haru Ride PAGE.13"
   ao-haru-ride-unwritten
       title: "Ao Haru Ride: unwritten"
 
-malId=38431:
+malId=38431 (2 anime):
   persona5-the-animation-dark-sun
       title: "PERSONA5 the Animation: Dark Sun..."
   persona5-the-animation-stars-and-ours
       title: "PERSONA5 the Animation: Stars and Ours"
 
-malId=61469:
+malId=61469 (2 anime):
   jojo-no-kimyou-na-bouken-steel-ball-run-1st-stage
       title: "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE"
   jojo-no-kimyou-na-bouken-steel-ball-run-2nd-3rd-stage
       title: "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE"
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2. DUPLIKAT by kitsuId — 245 grup
+2. DUPLIKAT BY kitsuId — 245 grup
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-kitsuId=1:
+kitsuId=1 (2 anime):
   cowboy-bebop
       title: "Cowboy Bebop"
   two-car
       title: "Two Car"
 
-kitsuId=10:
+kitsuId=10 (2 anime):
   monster
       title: "MONSTER"
   the-big-o
       title: "THE Big O"
 
-kitsuId=10012:
+kitsuId=10012 (4 anime):
   nihon-animator-mihonichi
       title: "Nihon Animator Mihonichi"
   shin-seiki-evangelion-movie-air-magokoro-wo-kimi-ni
@@ -51,109 +54,109 @@ kitsuId=10012:
   shin-seiki-evangelion
       title: "Shin Seiki Evangelion"
 
-kitsuId=1004:
+kitsuId=1004 (2 anime):
   pocket-monsters-crystal-raikou-ikazuchi-no-densetsu
       title: "Pocket Monsters Crystal: Raikou Ikazuchi no Densetsu"
   pocket-monsters-mizu-no-miyako-no-mamorigami-latias-to-latios
       title: "Pocket Monsters: Mizu no Miyako no Mamorigami Latias to Latios"
 
-kitsuId=10052:
+kitsuId=10052 (2 anime):
   all-out
       title: "ALL OUT!!"
   fatestay-night-unlimited-blade-works-2nd-season
       title: "Fate/stay night: Unlimited Blade Works 2nd Season"
 
-kitsuId=10077:
+kitsuId=10077 (2 anime):
   hidan-no-aria-aa
       title: "Hidan no Aria AA"
   hidan-no-aria-butei-ga-kitarite-onsen-kenshuu
       title: "Hidan no Aria - Butei ga Kitarite Onsen Kenshuu"
 
-kitsuId=10154:
+kitsuId=10154 (2 anime):
   grisaia-no-meikyuu-takizono-basket-bu-no-nama-cream-party
       title: "Grisaia no Meikyuu: Takizono Basket-bu no Nama Cream Party!"
   grisaia-no-meikyuu
       title: "Grisaia no Meikyuu"
 
-kitsuId=10155:
+kitsuId=10155 (2 anime):
   grisaia-no-rakuen-grisaia-no-tokuten
       title: "Grisaia no Rakuen: Grisaia no Tokuten"
   grisaia-no-rakuen
       title: "Grisaia no Rakuen"
 
-kitsuId=10748:
+kitsuId=10748 (2 anime):
   monster-musume-no-iru-nichijou-sp
       title: "Monster Musume no Iru Nichijou SP"
   monster-musume-no-iru-nichijou
       title: "Monster Musume no Iru Nichijou"
 
-kitsuId=10757:
+kitsuId=10757 (2 anime):
   shinmai-maou-no-testament-burst
       title: "Shinmai Maou no Testament: BURST"
   shinmai-maou-no-testament-toujou-basara-no-hard-sweet-na-nichijou
       title: "Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou"
 
-kitsuId=10759:
+kitsuId=10759 (2 anime):
   akatsuki-no-yona-ova
       title: "Akatsuki no Yona OVA"
   akatsuki-no-yona-zoku-hen
       title: "Akatsuki no Yona (Zoku-hen)"
 
-kitsuId=10877:
+kitsuId=10877 (2 anime):
   ansatsu-kyoushitsu-2-kagaijugyou-hen
       title: "Ansatsu Kyoushitsu 2: Kagaijugyou-hen"
   ansatsu-kyoushitsu-2nd-season
       title: "Ansatsu Kyoushitsu 2nd Season"
 
-kitsuId=10911:
+kitsuId=10911 (2 anime):
   kyoukai-no-kanata-ill-be-here-kako-hen-yakusoku-no-kizuna-dance-mv
       title: "Kyoukai no Kanata: I'LL BE HERE - Kako-hen “Yakusoku no Kizuna” Dance MV"
   kyoukai-no-kanata-ill-be-here-kako-hen
       title: "Kyoukai no Kanata: I'LL BE HERE - Kako-hen"
 
-kitsuId=1114:
+kitsuId=1114 (2 anime):
   one-piece-mamore-saigo-no-oobutai
       title: "ONE PIECE: Mamore! Saigo no Oobutai"
   one-piece-tv-special-umi-no-heso-no-daibouken-hen
       title: "ONE PIECE TV Special: Umi no Heso no Daibouken-hen"
 
-kitsuId=11182:
+kitsuId=11182 (2 anime):
   owarimonogatari-ge
       title: "Owarimonogatari (Ge)"
   owarimonogatari
       title: "Owarimonogatari"
 
-kitsuId=11209:
+kitsuId=11209 (2 anime):
   another-world
       title: "Another World"
   rezero-kara-hajimeru-isekai-seikatsu
       title: "Re:Zero kara Hajimeru Isekai Seikatsu"
 
-kitsuId=113:
+kitsuId=113 (2 anime):
   gunslinger-girl-il-teatrino
       title: "GUNSLINGER GIRL -IL TEATRINO-"
   gunslinger-girl
       title: "GUNSLINGER GIRL"
 
-kitsuId=11333:
+kitsuId=11333 (2 anime):
   musaigen-no-phantom-world-mizutama-no-kiseki
       title: "Musaigen no Phantom World: Mizutama no Kiseki"
   musaigen-no-phantom-world
       title: "Musaigen no Phantom World"
 
-kitsuId=11380:
+kitsuId=11380 (2 anime):
   3-gatsu-no-lion
       title: "3-gatsu no Lion"
   mar
       title: "MÄR"
 
-kitsuId=11402:
+kitsuId=11402 (2 anime):
   one-punch-man-ova
       title: "One Punch Man OVA"
   one-punch-man-road-to-hero
       title: "One Punch Man: Road to Hero"
 
-kitsuId=11438:
+kitsuId=11438 (3 anime):
   fatekaleid-liner-prismaillya-3rei-short-anime
       title: "Fate/kaleid liner Prisma☆Illya 3rei!! Short Anime"
   fatekaleid-liner-prismaillya-3rei
@@ -161,307 +164,307 @@ kitsuId=11438:
   fatekaleid-liner-prismaillya-short-anime
       title: "Fate/kaleid liner Prisma☆Illya Short Anime"
 
-kitsuId=11455:
+kitsuId=11455 (2 anime):
   big-order-ova
       title: "Big Order OVA"
   big-order
       title: "Big Order"
 
-kitsuId=11578:
+kitsuId=11578 (2 anime):
   k
       title: "K"
   mob-psycho-100
       title: "Mob Psycho 100"
 
-kitsuId=11690:
+kitsuId=11690 (2 anime):
   aishen-qiaokeli-ing-ii
       title: "Aishen Qiaokeli-ING... II"
   aishen-qiaokeli-ing
       title: "Aishen Qiaokeli-ING..."
 
-kitsuId=11794:
+kitsuId=11794 (2 anime):
   military
       title: "Military!"
   youjo-senki
       title: "Youjo Senki"
 
-kitsuId=11850:
+kitsuId=11850 (2 anime):
   kidou-senshi-gundam-uc
       title: "Kidou Senshi Gundam UC"
   kidou-senshi-gundam-unicorn-re-0096
       title: "Kidou Senshi Gundam Unicorn RE: 0096"
 
-kitsuId=11882:
+kitsuId=11882 (2 anime):
   bungou-stray-dogs-2nd-season
       title: "Bungou Stray Dogs 2nd Season"
   bungou-stray-dogs-3rd-season
       title: "Bungou Stray Dogs 3rd Season"
 
-kitsuId=11890:
+kitsuId=11890 (2 anime):
   kuroko-no-basket-2-ng-shuu
       title: "Kuroko no Basket 2 NG-shuu"
   kuroko-no-basket-winter-cup-soushuuhen-namida-no-saki-e
       title: "Kuroko no Basket: Winter Cup Soushuuhen - Namida no Saki e"
 
-kitsuId=11891:
+kitsuId=11891 (2 anime):
   kuroko-no-basket-3-ng-shuu
       title: "Kuroko no Basket 3 NG-shuu"
   kuroko-no-basket-winter-cup-soushuuhen-tobira-no-mukou
       title: "Kuroko no Basket: Winter Cup Soushuuhen - Tobira no Mukou"
 
-kitsuId=11937:
+kitsuId=11937 (2 anime):
   kono-subarashii-sekai-ni-shukufuku-wo-2-kono-subarashii-geijutsu-ni-shukufuku-wo
       title: "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!"
   kono-subarashii-sekai-ni-shukufuku-wo-2
       title: "Kono Subarashii Sekai ni Shukufuku wo! 2"
 
-kitsuId=122:
+kitsuId=122 (2 anime):
   kanon-2006
       title: "Kanon (2006)"
   kanon
       title: "Kanon"
 
-kitsuId=12230:
+kitsuId=12230 (2 anime):
   given
       title: "Given"
   violet-evergarden
       title: "Violet Evergarden"
 
-kitsuId=12265:
+kitsuId=12265 (2 anime):
   busou-shoujo-machiavellianism-ova
       title: "Busou Shoujo Machiavellianism OVA"
   busou-shoujo-machiavellianism
       title: "Busou Shoujo Machiavellianism"
 
-kitsuId=12293:
+kitsuId=12293 (2 anime):
   ansatsu-kyoushitsu-movie-365-nichi-no-jikan
       title: "Ansatsu Kyoushitsu Movie: 365-Nichi no Jikan"
   koro-sensei-q-ona
       title: "Koro-sensei Q! (ONA)"
 
-kitsuId=12497:
+kitsuId=12497 (2 anime):
   gabriel-dropout-ova
       title: "Gabriel Dropout OVA"
   gabriel-dropout
       title: "Gabriel Dropout"
 
-kitsuId=12517:
+kitsuId=12517 (2 anime):
   ling-qi-huang-quan-zhi-qi
       title: "Ling Qi: Huang Quan Zhi Qi"
   ling-qi
       title: "Ling Qi"
 
-kitsuId=12566:
+kitsuId=12566 (2 anime):
   one-punch-man-2-ova
       title: "One Punch Man 2 OVA"
   one-punch-man-2
       title: "One Punch Man 2"
 
-kitsuId=12759:
+kitsuId=12759 (2 anime):
   one-room-another
       title: "One Room: another"
   room-mate
       title: "Room Mate"
 
-kitsuId=12761:
+kitsuId=12761 (2 anime):
   hajimete-no-gal-hajimete-no-bunkasai
       title: "Hajimete no Gal: Hajimete no Bunkasai"
   hajimete-no-gal
       title: "Hajimete no Gal"
 
-kitsuId=1278:
+kitsuId=1278 (2 anime):
   lupin-iii-part-ii
       title: "Lupin III: Part II"
   lupin-iii-part-iii
       title: "Lupin III: Part III"
 
-kitsuId=1283:
+kitsuId=1283 (2 anime):
   lupin-iii-cagliostro-no-shiro
       title: "Lupin III: Cagliostro no Shiro"
   lupin-iii
       title: "Lupin III"
 
-kitsuId=13257:
+kitsuId=13257 (2 anime):
   koi-to-uso-isshou-no-koikoi-no-kimochi
       title: "Koi to Uso: Isshou no Koi/Koi no Kimochi"
   koi-to-uso
       title: "Koi to Uso"
 
-kitsuId=13635:
+kitsuId=13635 (2 anime):
   karakai-jouzu-no-takagi-san-water-slide
       title: "Karakai Jouzu no Takagi-san: Water Slide"
   karakai-jouzu-no-takagi-san
       title: "Karakai Jouzu no Takagi-san"
 
-kitsuId=13658:
+kitsuId=13658 (2 anime):
   fairy-tail-2018
       title: "FAIRY TAIL (2018)"
   fairy-tail
       title: "FAIRY TAIL"
 
-kitsuId=13676:
+kitsuId=13676 (2 anime):
   basilisk-kouga-ninpouchou
       title: "Basilisk: Kouga Ninpouchou"
   basilisk-ouka-ninpouchou
       title: "Basilisk: Ouka Ninpouchou"
 
-kitsuId=13703:
+kitsuId=13703 (2 anime):
   net-juu-no-susume-ova
       title: "Net-juu no Susume OVA"
   net-juu-no-susume
       title: "Net-juu no Susume"
 
-kitsuId=13717:
+kitsuId=13717 (2 anime):
   itou-junji-collection-tomie
       title: "Itou Junji: Collection - Tomie"
   itou-junji-collection
       title: "Itou Junji: Collection"
 
-kitsuId=14010:
+kitsuId=14010 (2 anime):
   dive
       title: "DIVE!!"
   free-dive-to-the-future
       title: "Free!: Dive to the Future"
 
-kitsuId=14095:
+kitsuId=14095 (2 anime):
   gintama-shirogane-no-tamashii-hen-kouhan-sen
       title: "Gintama.: Shirogane no Tamashii-hen - Kouhan-sen"
   gintama-shirogane-no-tamashii-hen
       title: "Gintama.: Shirogane no Tamashii-hen"
 
-kitsuId=14157:
+kitsuId=14157 (2 anime):
   hoozuki-no-reitetsu-2-part-ii
       title: "Hoozuki no Reitetsu 2: Part II"
   hoozuki-no-reitetsu-2
       title: "Hoozuki no Reitetsu 2"
 
-kitsuId=142:
+kitsuId=142 (2 anime):
   mononoke-hime
       title: "Mononoke-hime"
   princess-princess
       title: "Princess Princess"
 
-kitsuId=1555:
+kitsuId=1555 (2 anime):
   naruto-shippuuden
       title: "NARUTO: Shippuuden"
   naruto
       title: "NARUTO"
 
-kitsuId=181:
+kitsuId=181 (2 anime):
   rewrite
       title: "Rewrite"
   samurai-champloo
       title: "Samurai Champloo"
 
-kitsuId=186:
+kitsuId=186 (2 anime):
   ranma-12-nettou-hen
       title: "Ranma 1/2: Nettou-hen"
   ranma-12
       title: "Ranma 1/2"
 
-kitsuId=1962:
+kitsuId=1962 (2 anime):
   clannad
       title: "CLANNAD"
   school-days
       title: "School Days"
 
-kitsuId=1966:
+kitsuId=1966 (2 anime):
   meitantei-conan-11-nin-me-no-striker
       title: "Meitantei Conan: 11 Nin-me no Striker"
   meitantei-conan-konpeki-no-hitsugi-jolly-roger
       title: "Meitantei Conan: Konpeki no Hitsugi (Jolly Roger)"
 
-kitsuId=201:
+kitsuId=201 (2 anime):
   elfen-lied-tooriame-nite-arui-wa-shoujo-wa-ikani-shite-sono-shinjou-ni-itatta-ka
       title: "Elfen Lied: Tooriame nite - Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka?"
   elfen-lied
       title: "Elfen Lied"
 
-kitsuId=2036:
+kitsuId=2036 (2 anime):
   naruto-dai-katsugeki-yuki-hime-ninpouchou-dattebayo
       title: "NARUTO: Dai Katsugeki! Yuki Hime Ninpouchou Dattebayo!!"
   naruto-dai-katsugeki-yuki-hime-shinobu-houjou-dattebayo-special-konoha-annual-sports-festival
       title: "NARUTO: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! Special: Konoha Annual Sports Festival"
 
-kitsuId=2039:
+kitsuId=2039 (2 anime):
   baccano-bangai-hen
       title: "Baccano! Bangai-hen"
   baccano
       title: "Baccano!"
 
-kitsuId=2175:
+kitsuId=2175 (2 anime):
   digimon-adventure-02-diablomon-no-gyakushuu
       title: "Digimon Adventure 02: Diablomon no Gyakushuu"
   digimon-adventure-02-digimon-hurricane-jouriku-chouzetsu-shinka-ougon-no-digimental
       title: "Digimon Adventure 02: Digimon Hurricane Jouriku!! / Chouzetsu Shinka!! Ougon no Digimental"
 
-kitsuId=24:
+kitsuId=24 (2 anime):
   berserk
       title: "Berserk"
   kenpuu-denki-berserk
       title: "Kenpuu Denki Berserk"
 
-kitsuId=3022:
+kitsuId=3022 (2 anime):
   candyboy-side-story-for-archive
       title: "Candy☆Boy: Side Story For Archive"
   candyboy
       title: "Candy☆Boy"
 
-kitsuId=3032:
+kitsuId=3032 (2 anime):
   nogizaka-haruka-no-himitsu-finale
       title: "Nogizaka Haruka no Himitsu: Finale♪"
   nogizaka-haruka-no-himitsu
       title: "Nogizaka Haruka no Himitsu"
 
-kitsuId=3355:
+kitsuId=3355 (2 anime):
   kidou-senshi-gundam-00-2nd-season
       title: "Kidou Senshi Gundam 00 2nd Season"
   kidou-senshi-gundam
       title: "Kidou Senshi Gundam"
 
-kitsuId=339:
+kitsuId=339 (2 anime):
   cardcaptor-sakura-movie-fuinsareta-card
       title: "Cardcaptor Sakura Movie: Fuinsareta Card"
   cardcaptor-sakura-movie
       title: "Cardcaptor Sakura Movie"
 
-kitsuId=3471:
+kitsuId=3471 (2 anime):
   tengen-toppa-gurren-lagann-gurren-hen
       title: "Tengen Toppa Gurren Lagann: Gurren-hen"
   tengen-toppa-gurren-lagann-lagann-hen
       title: "Tengen Toppa Gurren Lagann: Lagann-hen"
 
-kitsuId=3936:
+kitsuId=3936 (2 anime):
   hagane-no-renkinjutsushi-fullmetal-alchemist-mihousou-episode
       title: "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST Mihousou Episode"
   hagane-no-renkinjutsushi-fullmetal-alchemist
       title: "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
 
-kitsuId=395:
+kitsuId=395 (2 anime):
   howl-no-ugoku-shiro
       title: "Howl no Ugoku Shiro"
   working
       title: "WORKING!!!"
 
-kitsuId=40599:
+kitsuId=40599 (2 anime):
   dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-mujintou-ni-yakusou-wo-motomeru-no-wa-machigatteiru-darou-ka
       title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II: Mujintou ni Yakusou wo Motomeru no wa Machigatteiru Darou ka"
   dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii
       title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II"
 
-kitsuId=4064:
+kitsuId=4064 (2 anime):
   asura-cryin
       title: "Asura Cryin'"
   asura
       title: "Asura"
 
-kitsuId=40949:
+kitsuId=40949 (2 anime):
   sword-art-online-ordinal-scale-sword-art-offline
       title: "Sword Art Online: Ordinal Scale - Sword Art Offline"
   sword-art-online-ordinal-scale
       title: "Sword Art Online: Ordinal Scale"
 
-kitsuId=41036:
+kitsuId=41036 (4 anime):
   modao-zushi-2
       title: "Modao Zushi 2"
   modao-zushi-3
@@ -471,13 +474,13 @@ kitsuId=41036:
   modao-zushi
       title: "Modao Zushi"
 
-kitsuId=4107:
+kitsuId=4107 (2 anime):
   meitantei-conan-gouka-no-himawari
       title: "Meitantei Conan: Gouka no Himawari"
   meitantei-conan-shikkoku-no-chaser
       title: "Meitantei Conan: Shikkoku no Chaser"
 
-kitsuId=41149:
+kitsuId=41149 (3 anime):
   asobi-asobase-mini-anime
       title: "Asobi Asobase Mini Anime"
   asobi-asobase
@@ -485,169 +488,169 @@ kitsuId=41149:
   bad-girl
       title: "Bad Girl"
 
-kitsuId=41165:
+kitsuId=41165 (2 anime):
   jashin-chan-dropkick-ona
       title: "Jashin-chan Dropkick ONA"
   jashin-chan-dropkick
       title: "Jashin-chan Dropkick’"
 
-kitsuId=41209:
+kitsuId=41209 (2 anime):
   uchi-no-maid-ga-uzasugiru-ova
       title: "Uchi no Maid ga Uzasugiru! OVA"
   uchi-no-maid-ga-uzasugiru
       title: "Uchi no Maid ga Uzasugiru!"
 
-kitsuId=41255:
+kitsuId=41255 (2 anime):
   shirobako-gekichuugeki-animation
       title: "SHIROBAKO: Gekichuugeki Animation"
   shirobako-movie
       title: "SHIROBAKO Movie"
 
-kitsuId=41269:
+kitsuId=41269 (2 anime):
   conception
       title: "CONCEPTION"
   star-mu
       title: "Star Mu"
 
-kitsuId=41403:
+kitsuId=41403 (2 anime):
   watashi-ni-tenshi-ga-maiorita-ova
       title: "Watashi ni Tenshi ga Maiorita! OVA"
   watashi-ni-tenshi-ga-maiorita
       title: "Watashi ni Tenshi ga Maiorita!"
 
-kitsuId=41442:
+kitsuId=41442 (2 anime):
   golden-kamuy-2nd-season-ova
       title: "Golden Kamuy 2nd Season OVA"
   golden-kamuy-2nd-season
       title: "Golden Kamuy 2nd Season"
 
-kitsuId=41871:
+kitsuId=41871 (2 anime):
   pocket-monsters-mewtwo-no-gyakushuu-evolution
       title: "Pocket Monsters: Mewtwo no Gyakushuu EVOLUTION"
   pocket-monsters-mewtwo-no-gyakushuu
       title: "Pocket Monsters: Mewtwo no Gyakushuu"
 
-kitsuId=41875:
+kitsuId=41875 (2 anime):
   nekopara-extra-koneko-no-hi-no-yakusoku
       title: "Nekopara EXTRA Koneko no Hi no Yakusoku"
   nekopara-ova
       title: "Nekopara OVA"
 
-kitsuId=41966:
+kitsuId=41966 (2 anime):
   go-toubun-no-hanayome-movie
       title: "Go-toubun no Hanayome Movie"
   go-toubun-no-hanayome
       title: "Go-toubun no Hanayome"
 
-kitsuId=42057:
+kitsuId=42057 (2 anime):
   trinity-seven-movie-tenkuu-toshokan-to-shinku-no-maou
       title: "Trinity Seven Movie - Tenkuu Toshokan to Shinku no Maou"
   trinity-seven-movie-yuukyuu-toshokan-to-renkinjutsu-shoujo
       title: "Trinity Seven Movie - Yuukyuu Toshokan to Renkinjutsu Shoujo"
 
-kitsuId=42092:
+kitsuId=42092 (2 anime):
   lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-tokubetsu-hen
       title: "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note Tokubetsu-hen"
   lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note
       title: "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note"
 
-kitsuId=4211:
+kitsuId=4211 (2 anime):
   eden
       title: "Eden"
   higashi-no-eden
       title: "Higashi no Eden"
 
-kitsuId=42137:
+kitsuId=42137 (2 anime):
   machikado-mazoku-2-choume
       title: "Machikado Mazoku: 2-Choume"
   machikado-mazoku
       title: "Machikado Mazoku"
 
-kitsuId=42143:
+kitsuId=42143 (2 anime):
   bubble
       title: "Bubble"
   cider-no-you-ni-kotoba-ga-wakiagaru
       title: "Cider no You ni Kotoba ga Wakiagaru"
 
-kitsuId=42194:
+kitsuId=42194 (2 anime):
   yahari-ore-no-seishun-love-come-wa-machigatteiru-kan-dakara-shishunki-wa-owarazu-ni-seishun-wa-tsuzuiteiku
       title: "Yahari Ore no Seishun Love Come wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku."
   yahari-ore-no-seishun-love-come-wa-machigatteiru-kan
       title: "Yahari Ore no Seishun Love Come wa Machigatteiru. Kan"
 
-kitsuId=422:
+kitsuId=422 (2 anime):
   one-piece-nejimaki-jima-no-bouken-jango-no-dance-carnival
       title: "ONE PIECE: Nejimaki-jima no Bouken - Jango no Dance Carnival"
   one-piece-nejimaki-jima-no-bouken
       title: "ONE PIECE: Nejimaki-jima no Bouken"
 
-kitsuId=42221:
+kitsuId=42221 (2 anime):
   joshikousei-no-mudazukai
       title: "Joshikousei no Mudazukai"
   joshikousei
       title: "Joshikousei"
 
-kitsuId=42429:
+kitsuId=42429 (2 anime):
   bishoujo-senshi-sailor-moon-eternal-kouhen
       title: "Bishoujo Senshi Sailor Moon: Eternal - Kouhen"
   bishoujo-senshi-sailor-moon-eternal-zenpen
       title: "Bishoujo Senshi Sailor Moon: Eternal - Zenpen"
 
-kitsuId=42554:
+kitsuId=42554 (2 anime):
   fruits-basket-1st-season
       title: "Fruits Basket: 1st Season"
   fruits-basket-2nd-season
       title: "Fruits Basket: 2nd Season"
 
-kitsuId=42586:
+kitsuId=42586 (2 anime):
   gekijouban-ple-ple-pleiades
       title: "Gekijouban Ple Ple Pleiades"
   kimetsu-no-yaiba-mugen-ressha-hen
       title: "Kimetsu no Yaiba: Mugen Ressha-hen"
 
-kitsuId=42628:
+kitsuId=42628 (2 anime):
   slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni
       title: "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni"
   slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita
       title: "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita"
 
-kitsuId=42765:
+kitsuId=42765 (2 anime):
   jujutsu-kaisen-kaigyokugyokusetsu
       title: "Jujutsu Kaisen: Kaigyoku・Gyokusetsu"
   jujutsu-kaisen
       title: "Jujutsu Kaisen"
 
-kitsuId=42915:
+kitsuId=42915 (2 anime):
   ore-wo-suki-nano-wa-omae-dake-ka-yo-oretachi-no-game-set
       title: "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set"
   ore-wo-suki-nano-wa-omae-dake-ka-yo
       title: "Ore wo Suki nano wa Omae dake ka yo"
 
-kitsuId=43034:
+kitsuId=43034 (2 anime):
   tonikaku-kawaii-sns
       title: "Tonikaku Kawaii: SNS"
   tonikaku-kawaii
       title: "Tonikaku Kawaii"
 
-kitsuId=43063:
+kitsuId=43063 (2 anime):
   yesterday-wo-utatte-extras
       title: "Yesterday wo Utatte Extras"
   yesterday-wo-utatte
       title: "Yesterday wo Utatte"
 
-kitsuId=43108:
+kitsuId=43108 (2 anime):
   boku-no-hero-academia-5-ona
       title: "Boku no Hero Academia 5 (ONA)"
   boku-no-hero-academia-5
       title: "Boku no Hero Academia 5"
 
-kitsuId=43238:
+kitsuId=43238 (2 anime):
   otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x-unmei-no-hito-ni-deatte-shimatta
       title: "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X: Unmei no Hito ni Deatte Shimatta..."
   otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x
       title: "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X"
 
-kitsuId=43247:
+kitsuId=43247 (3 anime):
   rezero-kara-hajimeru-isekai-seikatsu-2nd-season-part-2
       title: "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
   rezero-kara-hajimeru-isekai-seikatsu-2nd-season
@@ -655,67 +658,67 @@ kitsuId=43247:
   rezero-kara-hajimeru-isekai-seikatsu-3rd-season
       title: "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season"
 
-kitsuId=43361:
+kitsuId=43361 (2 anime):
   tensei-shitara-slime-datta-ken-2nd-season-part-2
       title: "Tensei Shitara Slime Datta Ken 2nd Season Part 2"
   tensei-shitara-slime-datta-ken-2nd-season
       title: "Tensei Shitara Slime Datta Ken 2nd Season"
 
-kitsuId=43607:
+kitsuId=43607 (2 anime):
   honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-2nd-season
       title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season"
   honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-3rd-season
       title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season"
 
-kitsuId=43823:
+kitsuId=43823 (2 anime):
   wave-surfing-yappe-tv
       title: "WAVE!! Surfing Yappe!! (TV)"
   wave-surfing-yappe
       title: "WAVE!! Surfing Yappe!!"
 
-kitsuId=44012:
+kitsuId=44012 (2 anime):
   hells
       title: "Hells"
   jigokuraku
       title: "Jigokuraku"
 
-kitsuId=44114:
+kitsuId=44114 (2 anime):
   totsukuni-no-shoujo-2022
       title: "Totsukuni no Shoujo (2022)"
   totsukuni-no-shoujo
       title: "Totsukuni no Shoujo"
 
-kitsuId=44168:
+kitsuId=44168 (2 anime):
   mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi
       title: "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi"
   spriggan-ona
       title: "SPRIGGAN (ONA)"
 
-kitsuId=442:
+kitsuId=442 (2 anime):
   yugioh-duel-monsters
       title: "Yu☆Gi☆Oh! Duel Monsters"
   yugioh
       title: "Yu☆Gi☆Oh!"
 
-kitsuId=44205:
+kitsuId=44205 (2 anime):
   orient-awajishima-gekitou-hen
       title: "ORIENT: Awajishima Gekitou-hen"
   orient
       title: "ORIENT"
 
-kitsuId=44396:
+kitsuId=44396 (2 anime):
   world-trigger-2nd-season
       title: "World Trigger 2nd Season"
   world-trigger-3rd-season
       title: "World Trigger 3rd Season"
 
-kitsuId=44423:
+kitsuId=44423 (2 anime):
   gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii
       title: "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II"
   gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu
       title: "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu"
 
-kitsuId=44451:
+kitsuId=44451 (3 anime):
   mahou-shoujo-madokamagica-hangyaku-no-monogatari
       title: "Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari"
   mahou-shoujo-madokamagica-walpurgis-no-kaiten
@@ -723,13 +726,13 @@ kitsuId=44451:
   mahou-shoujo-madokamagica
       title: "Mahou Shoujo Madoka☆Magica"
 
-kitsuId=44537:
+kitsuId=44537 (2 anime):
   love-live-nijigasaki-gakuen-school-idol-doukoukai-2
       title: "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2"
   love-live-nijigasaki-gakuen-school-idol-doukoukai
       title: "Love Live! Nijigasaki Gakuen School Idol Doukoukai"
 
-kitsuId=44601:
+kitsuId=44601 (3 anime):
   yuru-camp-ova
       title: "Yuru Camp△ OVA"
   yuru-camp-season-2-ova
@@ -737,13 +740,13 @@ kitsuId=44601:
   yuru-camp-season-2
       title: "Yuru Camp△ SEASON 2"
 
-kitsuId=44651:
+kitsuId=44651 (2 anime):
   free-the-final-stroke-kouhen
       title: "Free!: the Final Stroke - Kouhen"
   free-the-final-stroke-zenpen
       title: "Free!: the Final Stroke - Zenpen"
 
-kitsuId=45014:
+kitsuId=45014 (4 anime):
   kobayashi-san-chi-no-maidragon-s-nippon-no-omotenashi-attend-wa-dragon-desu
       title: "Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi (Attend wa Dragon desu)"
   kobayashi-san-chi-no-maidragon-s
@@ -753,13 +756,13 @@ kitsuId=45014:
   kobayashi-san-chi-no-maidragon
       title: "Kobayashi-san Chi no Maidragon"
 
-kitsuId=45069:
+kitsuId=45069 (2 anime):
   yuukoku-no-moriarty-ova
       title: "Yuukoku no Moriarty OVA"
   yuukoku-no-moriarty-part-2
       title: "Yuukoku no Moriarty Part 2"
 
-kitsuId=45367:
+kitsuId=45367 (3 anime):
   arknights-enshin-shomei
       title: "Arknights: Enshin Shomei"
   arknights-reimei-zensou
@@ -767,79 +770,79 @@ kitsuId=45367:
   arknights-touin-kiro
       title: "Arknights: Touin Kiro"
 
-kitsuId=45705:
+kitsuId=45705 (2 anime):
   lycoris-recoil-shinsaku-animation
       title: "Lycoris Recoil (Shinsaku Animation)"
   lycoris-recoil
       title: "Lycoris Recoil"
 
-kitsuId=45925:
+kitsuId=45925 (2 anime):
   youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season
       title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season"
   youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season
       title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season"
 
-kitsuId=45989:
+kitsuId=45989 (2 anime):
   dead-dead-demons-dededededestruction-zenshou
       title: "Dead Dead Demon's Dededededestruction Zenshou"
   dead-dead-demons-dededededestruction
       title: "Dead Dead Demon's Dededededestruction"
 
-kitsuId=46038:
+kitsuId=46038 (2 anime):
   shingeki-no-kyojin-the-final-season-kanketsu-hen-zenpen
       title: "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen"
   shingeki-no-kyojin-zenpen-guren-no-yumiya
       title: "Shingeki no Kyojin Zenpen: Guren no Yumiya"
 
-kitsuId=4604:
+kitsuId=4604 (2 anime):
   angel-beats-tokubetsu-hen
       title: "Angel Beats! Tokubetsu-hen"
   angel-beats
       title: "Angel Beats!"
 
-kitsuId=4616:
+kitsuId=4616 (2 anime):
   shakugan-no-shana-s
       title: "Shakugan no Shana S"
   shakugan-no-shana-special-koi-to-onsen-no-kougai-gakushuu
       title: "Shakugan no Shana Special: Koi to Onsen no Kougai Gakushuu!"
 
-kitsuId=46213:
+kitsuId=46213 (2 anime):
   genjitsu-no-yohane-sunshine-in-the-mirror
       title: "Genjitsu no Yohane: SUNSHINE in the MIRROR"
   school-days-tv
       title: "School Days (TV)"
 
-kitsuId=46268:
+kitsuId=46268 (2 anime):
   hirano-to-kagiura
       title: "Hirano to Kagiura"
   sasaki-to-miyano-sotsugyou-hen
       title: "Sasaki to Miyano: Sotsugyou-hen"
 
-kitsuId=46434:
+kitsuId=46434 (2 anime):
   i-i-a-ziam-the-animation
       title: "I Я I A ZЁIЯAM THE ANIMATION"
   konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu
       title: "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu"
 
-kitsuId=46454:
+kitsuId=46454 (2 anime):
   arifureta-shokugyou-de-sekai-saikyou-3rd-season
       title: "Arifureta Shokugyou de Sekai Saikyou 3rd season"
   arifureta-shokugyou-de-sekai-saikyou-maboroshi-no-bouken-to-kiseki-no-kaigou
       title: "Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou"
 
-kitsuId=46556:
+kitsuId=46556 (2 anime):
   dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-shin-shou-meikyuu-hen
       title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen"
   dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-shin-shou-yakusai-hen
       title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Yakusai-hen"
 
-kitsuId=4659:
+kitsuId=4659 (2 anime):
   planet-with
       title: "Planet With"
   redline
       title: "REDLINE"
 
-kitsuId=46596:
+kitsuId=46596 (4 anime):
   evangelion-shin-movie-ha
       title: "Evangelion Shin Movie: Ha"
   evangelion-shin-movie-jo
@@ -849,43 +852,43 @@ kitsuId=46596:
   shin-evangelion-movie
       title: "Shin Evangelion Movie:||"
 
-kitsuId=46686:
+kitsuId=46686 (2 anime):
   shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd
       title: "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd"
   shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita
       title: "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita"
 
-kitsuId=46688:
+kitsuId=46688 (2 anime):
   boushoku-no-berserk-2nd-season
       title: "Boushoku no Berserk 2nd Season"
   boushoku-no-berserk
       title: "Boushoku no Berserk"
 
-kitsuId=47020:
+kitsuId=47020 (2 anime):
   kekkon-yubiwa-monogatari-ii
       title: "Kekkon Yubiwa Monogatari II"
   kekkon-yubiwa-monogatari
       title: "Kekkon Yubiwa Monogatari"
 
-kitsuId=4708:
+kitsuId=4708 (2 anime):
   break-blade-1-kakusei-no-toki
       title: "Break Blade 1: Kakusei no Toki"
   break-blade
       title: "Break Blade"
 
-kitsuId=47132:
+kitsuId=47132 (2 anime):
   shingeki-no-kyojin-kouhen-jiyuu-no-tsubasa
       title: "Shingeki no Kyojin Kouhen: Jiyuu no Tsubasa"
   shingeki-no-kyojin-the-final-season-kanketsu-hen-kouhen
       title: "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen"
 
-kitsuId=47209:
+kitsuId=47209 (2 anime):
   given-hiiragi-mix
       title: "Given: Hiiragi mix"
   given-movie
       title: "Given Movie"
 
-kitsuId=47495:
+kitsuId=47495 (3 anime):
   shuumatsu-no-valkyrie-ii-part-2
       title: "Shuumatsu no Valkyrie II Part 2"
   shuumatsu-no-valkyrie-ii
@@ -893,127 +896,127 @@ kitsuId=47495:
   valkyrie-no-shokutaku
       title: "Valkyrie no Shokutaku"
 
-kitsuId=47640:
+kitsuId=47640 (2 anime):
   yi-ren-zhi-xia-2
       title: "Yi Ren Zhi Xia 2"
   yi-ren-zhi-xia
       title: "Yi Ren Zhi Xia"
 
-kitsuId=47694:
+kitsuId=47694 (2 anime):
   mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2
       title: "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2"
   mushoku-tensei-ii-isekai-ittara-honki-dasu
       title: "Mushoku Tensei II: Isekai Ittara Honki Dasu"
 
-kitsuId=47784:
+kitsuId=47784 (2 anime):
   nierautomata-ver11a-2nd-season
       title: "NieR:Automata Ver1.1a 2nd Season"
   nierautomata-ver11a
       title: "NieR:Automata Ver1.1a"
 
-kitsuId=47964:
+kitsuId=47964 (2 anime):
   remonster-2nd-season
       title: "Re:Monster 2nd Season"
   remonster
       title: "Re:Monster"
 
-kitsuId=48363:
+kitsuId=48363 (2 anime):
   jujutsu-kaisen-shimetsu-kaiyuu-kouhen
       title: "Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen"
   jujutsu-kaisen-shimetsu-kaiyuu-zenpen
       title: "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen"
 
-kitsuId=4847:
+kitsuId=4847 (2 anime):
   sayonara-zetsubou-sensei-nyankin-no-kirisuto
       title: "Sayonara Zetsubou Sensei: Nyankin no Kirisuto"
   zan-sayonara-zetsubou-sensei-bangaichi
       title: "Zan Sayonara Zetsubou Sensei Bangaichi"
 
-kitsuId=48651:
+kitsuId=48651 (2 anime):
   sasaki-to-pii-chan-season-2
       title: "Sasaki to Pii-chan Season 2"
   sasaki-to-pii-chan
       title: "Sasaki to Pii-chan"
 
-kitsuId=48667:
+kitsuId=48667 (2 anime):
   hime-sama-goumon-no-jikan-desu-2nd-season
       title: "Hime-sama, \"Goumon\" no Jikan desu 2nd Season"
   hime-sama-goumon-no-jikan-desu
       title: "Hime-sama, \"Goumon\" no Jikan desu"
 
-kitsuId=48834:
+kitsuId=48834 (2 anime):
   tougen-anki-nikkokegon-no-taki-hen
       title: "Tougen Anki: Nikko・Kegon no Taki-hen"
   tougen-anki
       title: "Tougen Anki"
 
-kitsuId=48953:
+kitsuId=48953 (2 anime):
   jiyi-guanli-ju-2026
       title: "Jiyi Guanli Ju (2026)"
   jiyi-guanli-ju
       title: "Jiyi Guanli Ju"
 
-kitsuId=48978:
+kitsuId=48978 (2 anime):
   tsuki-ga-michibiku-isekai-douchuu-2nd-season
       title: "Tsuki ga Michibiku Isekai Douchuu 2nd Season"
   tsuki-ga-michibiku-isekai-douchuu-3rd-season
       title: "Tsuki ga Michibiku Isekai Douchuu 3rd Season"
 
-kitsuId=49001:
+kitsuId=49001 (2 anime):
   kimetsu-no-yaiba-mugenjou-hen-movie-1-akaza-sairai
       title: "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai"
   kimetsu-no-yaiba-mugenjou-hen-movie-3
       title: "Kimetsu no Yaiba: Mugenjou-hen Movie 3"
 
-kitsuId=49119:
+kitsuId=49119 (2 anime):
   katainaka-no-ossan-kensei-ni-naru-ii
       title: "Katainaka no Ossan, Kensei ni Naru II"
   katainaka-no-ossan-kensei-ni-naru
       title: "Katainaka no Ossan, Kensei ni Naru"
 
-kitsuId=49358:
+kitsuId=49358 (2 anime):
   watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta-next-shine
       title: "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine!"
   watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta
       title: "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)"
 
-kitsuId=49433:
+kitsuId=49433 (2 anime):
   ranma-12-2024-2nd-season
       title: "Ranma 1/2 (2024) 2nd Season"
   ranma-12-2024-3rd-season
       title: "Ranma 1/2 (2024) 3rd Season"
 
-kitsuId=49651:
+kitsuId=49651 (2 anime):
   nageki-no-bourei-wa-intai-shitai-2
       title: "Nageki no Bourei wa Intai Shitai 2"
   nageki-no-bourei-wa-intai-shitai
       title: "Nageki no Bourei wa Intai Shitai"
 
-kitsuId=49776:
+kitsuId=49776 (2 anime):
   jibaku-shounen-hanako-kun-2-part-2
       title: "Jibaku Shounen Hanako-kun 2 Part 2"
   jibaku-shounen-hanako-kun-2
       title: "Jibaku Shounen Hanako-kun 2"
 
-kitsuId=49847:
+kitsuId=49847 (2 anime):
   jojo-no-kimyou-na-bouken-steel-ball-run-1st-stage
       title: "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE"
   jojo-no-kimyou-na-bouken-steel-ball-run-2nd-3rd-stage
       title: "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE"
 
-kitsuId=49889:
+kitsuId=49889 (2 anime):
   shiguang-dailiren-ii
       title: "Shiguang Dailiren II"
   shiguang-dailiren-iii
       title: "Shiguang Dailiren III"
 
-kitsuId=50334:
+kitsuId=50334 (2 anime):
   omae-gotoki-ga-maou-ni-kateru-to-omou-na-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai
       title: "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai"
   yeonae-haru-jeon-zero
       title: "Yeonae Haru Jeon ZERO"
 
-kitsuId=5045:
+kitsuId=5045 (3 anime):
   kisssis-tv
       title: "kiss×sis (TV)"
   kisssis
@@ -1021,73 +1024,73 @@ kitsuId=5045:
   x-tv
       title: "X (TV)"
 
-kitsuId=50453:
+kitsuId=50453 (2 anime):
   tensei-shitara-slime-datta-ken-4th-season-part-1-2
       title: "Tensei Shitara Slime Datta Ken 4th Season Part 1 & 2"
   tensei-shitara-slime-datta-ken-4th-season-part-3
       title: "Tensei Shitara Slime Datta Ken 4th Season Part 3"
 
-kitsuId=50455:
+kitsuId=50455 (2 anime):
   guimi-zhi-zhu-specials
       title: "Guimi Zhi Zhu Specials"
   guimi-zhi-zhu-xiaochou-pian
       title: "Guimi Zhi Zhu: Xiaochou Pian"
 
-kitsuId=50606:
+kitsuId=50606 (2 anime):
   date-a-live-f-last-date
       title: "Date A Live F Last Date"
   new-game-watashi-shainryokoutte-hajimete-na-no-de
       title: "NEW GAME!: Watashi, Shainryokoutte Hajimete na no de..."
 
-kitsuId=50760:
+kitsuId=50760 (2 anime):
   hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season
       title: "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season"
   hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru
       title: "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru"
 
-kitsuId=50872:
+kitsuId=50872 (2 anime):
   tu-bian-yingxiong-baba
       title: "Tu Bian Yingxiong BABA"
   tu-bian-yingxiong-leaf
       title: "Tu Bian Yingxiong LEAF"
 
-kitsuId=51076:
+kitsuId=51076 (2 anime):
   futsutsuka-na-akujo-de-wa-gozaimasu-ga-suuguu-chouso-torikae-den-part-2
       title: "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den Part 2"
   futsutsuka-na-akujo-de-wa-gozaimasu-ga-suuguu-chouso-torikae-den
       title: "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den"
 
-kitsuId=53:
+kitsuId=53 (2 anime):
   full-metal-panic-the-second-raid-zenyasai-scene-00
       title: "Full Metal Panic! The Second Raid: Zenyasai - Scene 00"
   full-metal-panic-the-second-raid
       title: "Full Metal Panic! The Second Raid"
 
-kitsuId=56:
+kitsuId=56 (2 anime):
   mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance
       title: "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance"
   mahou-shoujo-lyrical-nanoha
       title: "Mahou Shoujo Lyrical Nanoha"
 
-kitsuId=5765:
+kitsuId=5765 (2 anime):
   ki-ni-natteru-hito-ga-otoko-ja-nakatta
       title: "Ki ni Natteru Hito ga Otoko ja Nakatta"
   mitsudomoe-zouryouchuu
       title: "Mitsudomoe Zouryouchuu!"
 
-kitsuId=5825:
+kitsuId=5825 (2 anime):
   flag
       title: "FLAG"
   kami-nomi-zo-shiru-sekai-flag-0
       title: "Kami nomi zo Shiru Sekai: Flag 0"
 
-kitsuId=5842:
+kitsuId=5842 (2 anime):
   gintama-shinyaku-benizakura-hen-special
       title: "Gintama: Shinyaku Benizakura-hen Special"
   gintama-shinyaku-benizakura-hen
       title: "Gintama: Shinyaku Benizakura-hen"
 
-kitsuId=5949:
+kitsuId=5949 (3 anime):
   maken-ki-tsuu-pwatakushigoto
       title: "Maken-Ki! Tsuu P～Watakushigoto"
   maken-ki-tsuu
@@ -1095,55 +1098,55 @@ kitsuId=5949:
   maken-ki
       title: "Maken-Ki!"
 
-kitsuId=6001:
+kitsuId=6001 (2 anime):
   bakuman-2
       title: "Bakuman. 2"
   rewrite-2nd-season
       title: "Rewrite 2nd Season"
 
-kitsuId=6039:
+kitsuId=6039 (2 anime):
   mayo-chiki
       title: "Mayo Chiki!"
   touch
       title: "Touch"
 
-kitsuId=6060:
+kitsuId=6060 (2 anime):
   usagi-drop-mini-story
       title: "Usagi Drop Mini Story"
   usagi-drop
       title: "Usagi Drop"
 
-kitsuId=6067:
+kitsuId=6067 (2 anime):
   hen-zemi-tv
       title: "Hen Zemi (TV)"
   hen-zemi
       title: "Hen Zemi"
 
-kitsuId=6087:
+kitsuId=6087 (2 anime):
   tamayura-hitotose
       title: "Tamayura: hitotose"
   tamayura
       title: "Tamayura"
 
-kitsuId=6098:
+kitsuId=6098 (2 anime):
   toaru-majutsu-no-index-ii-specials
       title: "Toaru Majutsu no Index II Specials"
   toaru-majutsu-no-index-specials
       title: "Toaru Majutsu no Index Specials"
 
-kitsuId=6205:
+kitsuId=6205 (2 anime):
   yuru-yuri-doushitetomaranaitokimekidoki-dokiparadoxeternal
       title: "Yuru Yuri: Doushite☆Tomaranai☆Tokimeki☆Doki Doki☆Paradox☆Eternal"
   yuru-yuri
       title: "Yuru Yuri,"
 
-kitsuId=6255:
+kitsuId=6255 (2 anime):
   persona-4-the-animation
       title: "Persona 4 the Animation"
   persona-trinity-soul
       title: "PERSONA -trinity soul-"
 
-kitsuId=6448:
+kitsuId=6448 (7 anime):
   hunterhunter-2011
       title: "HUNTER×HUNTER (2011)"
   hunterhunter-greed-island-final
@@ -1159,37 +1162,37 @@ kitsuId=6448:
   x
       title: "X"
 
-kitsuId=6589:
+kitsuId=6589 (2 anime):
   sword-art-online-integral-domain
       title: "Sword Art Online: Integral Domain"
   sword-art-online
       title: "Sword Art Online"
 
-kitsuId=6646:
+kitsuId=6646 (2 anime):
   uchuu-senkan-yamato-2199
       title: "Uchuu Senkan Yamato 2199"
   uchuu-senkan-yamato
       title: "Uchuu Senkan Yamato"
 
-kitsuId=6734:
+kitsuId=6734 (2 anime):
   amnesia
       title: "AMNESIA"
   tasogare-otome-amnesia
       title: "Tasogare Otome × Amnesia"
 
-kitsuId=6929:
+kitsuId=6929 (2 anime):
   shinryaku-ika-musume-ova
       title: "Shinryaku!! Ika Musume OVA"
   shinryaku-ika-musume
       title: "Shinryaku!? Ika Musume"
 
-kitsuId=6974:
+kitsuId=6974 (2 anime):
   hyouka-motsubeki-mono-wa
       title: "Hyouka: Motsubeki Mono wa"
   mono
       title: "mono"
 
-kitsuId=7006:
+kitsuId=7006 (3 anime):
   ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-ona
       title: "Ore no Imouto ga Konna ni Kawaii Wake ga Nai. (ONA)"
   ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-true-route
@@ -1197,67 +1200,67 @@ kitsuId=7006:
   ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai
       title: "Ore no Imouto ga Konna ni Kawaii Wake ga Nai."
 
-kitsuId=7023:
+kitsuId=7023 (2 anime):
   pet
       title: "pet"
   sakurasou-no-pet-na-kanojo
       title: "Sakurasou no Pet na Kanojo"
 
-kitsuId=7158:
+kitsuId=7158 (2 anime):
   jojo-no-kimyou-na-bouken-tv
       title: "JoJo no Kimyou na Bouken (TV)"
   jojo-no-kimyou-na-bouken
       title: "JoJo no Kimyou na Bouken"
 
-kitsuId=7160:
+kitsuId=7160 (2 anime):
   chuunibyou-demo-koi-ga-shitai
       title: "Chuunibyou demo Koi ga Shitai!"
   i-byeore-piryohan
       title: "I Byeore Piryohan"
 
-kitsuId=7190:
+kitsuId=7190 (2 anime):
   boku-wa-tomodachi-ga-sukunai-next
       title: "Boku wa Tomodachi ga Sukunai NEXT"
   love-stage
       title: "LOVE STAGE!!"
 
-kitsuId=720:
+kitsuId=720 (2 anime):
   dragon-ball-z
       title: "Dragon Ball Z"
   dragon-ball
       title: "Dragon Ball"
 
-kitsuId=7203:
+kitsuId=7203 (2 anime):
   idol
       title: "Idol"
   love-live-school-idol-project
       title: "Love Live! School idol project"
 
-kitsuId=7331:
+kitsuId=7331 (2 anime):
   onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials
       title: "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! Specials"
   onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne
       title: "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne!"
 
-kitsuId=7442:
+kitsuId=7442 (2 anime):
   shingeki-no-kyojin-gaiden-kuinaki-sentaku
       title: "Shingeki no Kyojin Gaiden: Kuinaki Sentaku"
   shingeki-no-kyojin
       title: "Shingeki no Kyojin"
 
-kitsuId=7510:
+kitsuId=7510 (2 anime):
   mirai-nikki-ova
       title: "Mirai Nikki OVA"
   mirai-nikki-redial
       title: "Mirai Nikki: Redial"
 
-kitsuId=759:
+kitsuId=759 (2 anime):
   air-gear
       title: "Air Gear"
   air
       title: "AIR"
 
-kitsuId=7602:
+kitsuId=7602 (3 anime):
   ghost-in-the-shell-koukaku-kidoutai
       title: "GHOST IN THE SHELL: Koukaku Kidoutai"
   koukaku-kidoutai-arise-ghost-in-the-shell-border1-ghost-pain
@@ -1265,73 +1268,73 @@ kitsuId=7602:
   koukaku-kidoutai-the-ghost-in-the-shell
       title: "Koukaku Kidoutai: THE GHOST IN THE SHELL"
 
-kitsuId=7617:
+kitsuId=7617 (2 anime):
   machine-doll-wa-kizutsukanai-ova
       title: "Machine-Doll wa Kizutsukanai OVA"
   machine-doll-wa-kizutsukanai
       title: "Machine-Doll wa Kizutsukanai"
 
-kitsuId=7658:
+kitsuId=7658 (2 anime):
   7seeds-2
       title: "7SEEDS 2"
   fatezero-2nd-season
       title: "Fate/Zero 2nd Season"
 
-kitsuId=7668:
+kitsuId=7668 (2 anime):
   so-ra-no-wo-to-ova
       title: "So Ra No Wo To OVA"
   so-ra-no-wo-to
       title: "So Ra No Wo To"
 
-kitsuId=7696:
+kitsuId=7696 (2 anime):
   kingdom
       title: "Kingdom"
   magi-the-kingdom-of-magic
       title: "Magi: The kingdom of magic"
 
-kitsuId=7754:
+kitsuId=7754 (2 anime):
   vampire-miyu-tv
       title: "Vampire Miyu (TV)"
   vampire-miyu
       title: "Vampire Miyu"
 
-kitsuId=7776:
+kitsuId=7776 (2 anime):
   final-fantasy-vii-advent-children
       title: "Final Fantasy VII: Advent Children"
   final-fantasy
       title: "Final Fantasy"
 
-kitsuId=7810:
+kitsuId=7810 (2 anime):
   fairy-tail-houou-no-miko-hajimari-no-asa
       title: "FAIRY TAIL: Houou no Miko - Hajimari no Asa"
   fairy-tail-houou-no-miko
       title: "FAIRY TAIL: Houou no Miko"
 
-kitsuId=7850:
+kitsuId=7850 (2 anime):
   pocket-monsters-xy-mega-evolution
       title: "Pocket Monsters XY: MEGA EVOLUTION"
   pocket-monsters-xy
       title: "Pocket Monsters XY"
 
-kitsuId=7863:
+kitsuId=7863 (2 anime):
   new-game
       title: "NEW GAME!!"
   psycho-pass-2
       title: "PSYCHO-PASS 2"
 
-kitsuId=7870:
+kitsuId=7870 (2 anime):
   kyousougiga-tv
       title: "Kyousougiga (TV)"
   kyousougiga
       title: "Kyousougiga"
 
-kitsuId=7882:
+kitsuId=7882 (2 anime):
   fatestay-night-unlimited-blade-works
       title: "Fate/stay night: Unlimited Blade Works"
   fatestay-night
       title: "Fate/stay night"
 
-kitsuId=7889:
+kitsuId=7889 (4 anime):
   shingeki-no-kyojin-chimi-kyara-gekijou-final
       title: "Shingeki no Kyojin: Chimi Kyara Gekijou - Final"
   shingeki-no-kyojin-chimi-kyara-gekijou-rivai-han-part-2
@@ -1341,85 +1344,85 @@ kitsuId=7889:
   shingeki-no-kyojin-chimi-kyara-gekijou-tondeke-kunren-heidan
       title: "Shingeki no Kyojin: Chimi Kyara Gekijou - Tondeke! Kunren Heidan"
 
-kitsuId=7894:
+kitsuId=7894 (2 anime):
   one-piece-episode-of-merry-mou-hitori-no-nakama-no-monogatari
       title: "ONE PIECE: Episode of Merry - Mou Hitori no Nakama no Monogatari"
   the-one-piece
       title: "THE ONE PIECE"
 
-kitsuId=7895:
+kitsuId=7895 (2 anime):
   pocket-monsters-best-wishes-season-2-decolora-adventure
       title: "Pocket Monsters Best Wishes! Season 2: Decolora Adventure"
   pocket-monsters-best-wishes-season-2
       title: "Pocket Monsters Best Wishes! Season 2"
 
-kitsuId=7964:
+kitsuId=7964 (2 anime):
   shin-kidou-senki-gundam-wing-endless-waltz-tokubetsu-hen
       title: "Shin Kidou Senki Gundam Wing: Endless Waltz Tokubetsu-hen"
   shin-kidou-senki-gundam-wing-endless-waltz
       title: "Shin Kidou Senki Gundam Wing: Endless Waltz"
 
-kitsuId=7982:
+kitsuId=7982 (2 anime):
   grisaia-no-kajitsu-grisaia-no-tokuten
       title: "Grisaia no Kajitsu: Grisaia no Tokuten"
   grisaia-no-kajitsu
       title: "Grisaia no Kajitsu"
 
-kitsuId=7996:
+kitsuId=7996 (2 anime):
   gokukoku-no-brynhildr-ova
       title: "Gokukoku no Brynhildr OVA"
   gokukoku-no-brynhildr
       title: "Gokukoku no Brynhildr"
 
-kitsuId=8008:
+kitsuId=8008 (2 anime):
   hitsugi-no-chaika-nerawareta-hitsugiyomigaeru-iseki
       title: "Hitsugi no Chaika: Nerawareta Hitsugi/Yomigaeru Iseki"
   hitsugi-no-chaika
       title: "Hitsugi no Chaika"
 
-kitsuId=8062:
+kitsuId=8062 (2 anime):
   yamada-kun-to-7-nin-no-majo-ona
       title: "Yamada-kun to 7-nin no Majo (ONA)"
   yamada-kun-to-7-nin-no-majo
       title: "Yamada-kun to 7-nin no Majo"
 
-kitsuId=8063:
+kitsuId=8063 (2 anime):
   jojo-no-kimyou-na-bouken-stardust-crusaders-egypt-hen
       title: "JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt-hen"
   jojo-no-kimyou-na-bouken-stardust-crusaders
       title: "JoJo no Kimyou na Bouken: Stardust Crusaders"
 
-kitsuId=8112:
+kitsuId=8112 (2 anime):
   mushishi-hihamukage
       title: "Mushishi: Hihamukage"
   tokubetsu-hen-hibike-euphonium-ensemble-contest
       title: "Tokubetsu-hen Hibike! Euphonium: Ensemble Contest"
 
-kitsuId=8120:
+kitsuId=8120 (2 anime):
   toaru-majutsu-no-index-endymion-no-kiseki-special
       title: "Toaru Majutsu no Index: Endymion no Kiseki Special"
   toaru-majutsu-no-index-endymion-no-kiseki
       title: "Toaru Majutsu no Index: Endymion no Kiseki"
 
-kitsuId=8144:
+kitsuId=8144 (2 anime):
   nagato-yuki-chan-no-shoushitsu
       title: "Nagato Yuki-chan no Shoushitsu"
   shy
       title: "SHY"
 
-kitsuId=8148:
+kitsuId=8148 (2 anime):
   mangaka-san-to-assistant-san-to-the-animation-mini-ovas
       title: "Mangaka-san to Assistant-san to THE ANIMATION: Mini OVAs"
   mangaka-san-to-assistant-san-to-the-animation
       title: "Mangaka-san to Assistant-san to THE ANIMATION"
 
-kitsuId=8149:
+kitsuId=8149 (2 anime):
   cocoon-aru-natsu-no-shoujo-tachi-yori
       title: "cocoon: Aru Natsu no Shoujo-tachi Yori"
   pokemon-the-movie-xy-hakai-no-mayu-to-diancie
       title: "Pokémon The Movie XY: Hakai no Mayu to Diancie"
 
-kitsuId=8158:
+kitsuId=8158 (3 anime):
   hi-score-girl-extra-stage
       title: "Hi Score Girl: EXTRA STAGE"
   hi-score-girl-ii
@@ -1427,128 +1430,139 @@ kitsuId=8158:
   hi-score-girl
       title: "Hi Score Girl"
 
-kitsuId=8159:
+kitsuId=8159 (2 anime):
   omoide-no-marnie
       title: "Omoide no Marnie"
   one-outs
       title: "One Outs"
 
-kitsuId=8174:
+kitsuId=8174 (2 anime):
   bulletbullet
       title: "BULLET/BULLET"
   sword-art-online-ii
       title: "Sword Art Online II"
 
-kitsuId=8256:
+kitsuId=8256 (2 anime):
   magi-sinbad-no-bouken-ova
       title: "Magi: Sinbad no Bouken OVA"
   magi-sinbad-no-bouken
       title: "Magi: Sinbad no Bouken"
 
-kitsuId=8297:
+kitsuId=8297 (2 anime):
   aldnoahzero-part-2
       title: "Aldnoah.Zero Part 2"
   aldnoahzero
       title: "Aldnoah.Zero"
 
-kitsuId=8343:
+kitsuId=8343 (2 anime):
   onee-chan-ga-kita-hajimete-no-kitaa
       title: "Onee-chan ga Kita: Hajimete no… Kitaa!"
   onee-chan-ga-kita
       title: "Onee-chan ga Kita"
 
-kitsuId=8402:
+kitsuId=8402 (2 anime):
   gekkan-shoujo-nozaki-kun-mini-ovas
       title: "Gekkan Shoujo Nozaki-kun Mini OVAs"
   gekkan-shoujo-nozaki-kun
       title: "Gekkan Shoujo Nozaki-kun"
 
-kitsuId=8419:
+kitsuId=8419 (2 anime):
   suisei-no-gargantia-meguru-kouro-haruka
       title: "Suisei no Gargantia: Meguru Kouro, Haruka"
   suisei-no-gargantia-ova
       title: "Suisei no Gargantia OVA"
 
-kitsuId=8488:
+kitsuId=8488 (2 anime):
   ao-haru-ride-page13
       title: "Ao Haru Ride PAGE.13"
   ao-haru-ride-unwritten
       title: "Ao Haru Ride: unwritten"
 
-kitsuId=852:
+kitsuId=852 (2 anime):
   aika
       title: "AIKa"
   aria-the-natural
       title: "ARIA The NATURAL"
 
-kitsuId=8536:
+kitsuId=8536 (2 anime):
   bokura-wa-minna-kawaisou-hajimete-no
       title: "Bokura wa Minna Kawaisou: Hajimete no"
   bokura-wa-minna-kawaisou
       title: "Bokura wa Minna Kawaisou"
 
-kitsuId=8646:
+kitsuId=8646 (2 anime):
   blood
       title: "BLOOD+"
   kekkai-sensen
       title: "Kekkai Sensen"
 
-kitsuId=8651:
+kitsuId=8651 (2 anime):
   ore-ga-ojou-sama-gakkou-ni-shomin-sample-toshite-gets-sareta-ken-kujou-san-no-doesu-soudan-shitsu-anime-ban
       title: "Ore ga Ojou-sama Gakkou ni \"Shomin Sample\" Toshite Gets-Sareta Ken: Kujou-san no Doesu Soudan-Shitsu Anime-ban"
   ore-ga-ojou-sama-gakkou-ni-shomin-sample-toshite-gets-sareta-ken
       title: "Ore ga Ojou-sama Gakkou ni \"Shomin Sample\" Toshite Gets-Sareta Ken"
 
-kitsuId=8662:
+kitsuId=8662 (2 anime):
   seirei-tsukai-no-blade-dance-mini-ovas
       title: "Seirei Tsukai no Blade Dance Mini OVAs"
   seirei-tsukai-no-blade-dance
       title: "Seirei Tsukai no Blade Dance"
 
-kitsuId=8671:
+kitsuId=8671 (2 anime):
   shingeki-no-kyojin-season-2-kakusei-no-houkou
       title: "Shingeki no Kyojin Season 2: Kakusei no Houkou"
   shingeki-no-kyojin-season-2
       title: "Shingeki no Kyojin Season 2"
 
-kitsuId=8698:
+kitsuId=8698 (2 anime):
   just-because
       title: "Just Because!"
   shirobako
       title: "SHIROBAKO"
 
-kitsuId=8699:
+kitsuId=8699 (2 anime):
   nanatsu-no-taizai-eiyuu-tachi-wa-hashagu
       title: "Nanatsu no Taizai: Eiyuu-tachi wa Hashagu"
   nanatsu-no-taizai
       title: "Nanatsu no Taizai"
 
-kitsuId=8774:
+kitsuId=8774 (2 anime):
   houseki-no-kuni-pv
       title: "Houseki no Kuni PV"
   houseki-no-kuni
       title: "Houseki no Kuni"
 
-kitsuId=8806:
+kitsuId=8806 (2 anime):
   saiki-kusuo-no-nan-ona
       title: "Saiki Kusuo no Ψ-nan (ONA)"
   saiki-kusuo-no-nan
       title: "Saiki Kusuo no Ψ-nan"
 
-kitsuId=9538:
+kitsuId=9538 (2 anime):
   memories
       title: "MEMORIES"
   plastic-memories
       title: "Plastic Memories"
 
-kitsuId=972:
+kitsuId=972 (2 anime):
   hypnosis-mic-division-rap-battle-rhyme-anima
       title: "Hypnosis Mic -Division Rap Battle- Rhyme Anima"
   kimagure-orangeroad
       title: "Kimagure Orange☆Road"
 
-kitsuId=9962:
+kitsuId=9962 (2 anime):
   dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-dungeon-ni-onsen-wo-motomeru-no-wa-machigatteiru-darou-ka
       title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Dungeon ni Onsen wo Motomeru no wa Machigatteiru Darou ka"
   dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka
       title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. DUPLIKAT BY anilistId — 0 grup
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+(tidak ada)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. DUPLIKAT BY title (exact lowercase) — 0 grup
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+(tidak ada)
