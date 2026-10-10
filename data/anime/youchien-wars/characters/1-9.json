@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Doug",
+    "nameNative": "ダグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289106-HZySkLbmkZ1S.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kentarou-kumagai"
+    ]
+  },
+  {
+    "name": "Rita",
+    "nameNative": "リタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289105-XlABZdV3FdQt.png",
+    "role": "main",
+    "voiceActors": [
+      "atsumi-tanezaki"
+    ]
+  },
+  {
+    "name": "Erina Winkler",
+    "nameNative": "エリナ・ウインクラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293693-KEAKRsQj4trz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  },
+  {
+    "name": "Gordon Z. Sky",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b310043-ulJbBP8C2YFu.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Hana Bradley",
+    "nameNative": "ハナ・ブラッドリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293694-2VQMyEmZhaJe.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hitomi-oowada"
+    ]
+  },
+  {
+    "name": "Luke Smith",
+    "nameNative": "ルーク・スミス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b310037-tUgbkXtNyjMp.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Mack Freeman",
+    "nameNative": "マック・フリーマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330828-W8IajoRPVFdr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mirei-kumagai"
+    ]
+  },
+  {
+    "name": "Silvia Scott",
+    "nameNative": "シルビア・スコット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b310039-6jNpKSqnyAoJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Una Mauri",
+    "nameNative": "ウーナ・マウリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321071-ukIDrPBd4Tx1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-morohoshi"
+    ]
+  }
+]
