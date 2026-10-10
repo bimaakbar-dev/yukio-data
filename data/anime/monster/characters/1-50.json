@@ -1,0 +1,454 @@
+[
+  {
+    "name": "Anna Liebert",
+    "nameNative": "アンナ・リーベルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b720-VFo5SzZsVfzl.png",
+    "role": "main",
+    "voiceActors": [
+      "mamiko-noto"
+    ]
+  },
+  {
+    "name": "Eva Heinemann",
+    "nameNative": "エヴァ・ハイネマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6123-kLLVgdI8Elv4.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mami-koyama"
+    ]
+  },
+  {
+    "name": "Heinrich Runge",
+    "nameNative": "ハインリッヒ・ルンゲ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b721-VSOxZHBedxtD.png",
+    "role": "main",
+    "voiceActors": [
+      "tsutomu-isobe"
+    ]
+  },
+  {
+    "name": "Johan Liebert",
+    "nameNative": "ヨハン・リーベルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b719-y984mDWyGf5n.jpg",
+    "role": "main",
+    "voiceActors": [
+      "nozomu-sasaki",
+      "yuuto-uemura"
+    ]
+  },
+  {
+    "name": "Kenzou Tenma",
+    "nameNative": "天馬賢三",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b718-b6ZZVp822lw0.png",
+    "role": "main",
+    "voiceActors": [
+      "hidenobu-kiuchi"
+    ]
+  },
+  {
+    "name": "Adolf Junkers",
+    "nameNative": "アドルフ ユンケルス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166666-nuWoWXbbwEFw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takehiro-murozono"
+    ]
+  },
+  {
+    "name": "Akanbou",
+    "nameNative": "赤ん坊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8612-3k0OoEaDXzQI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuo-kumakura"
+    ]
+  },
+  {
+    "name": "Blue Sophie",
+    "nameNative": "偽マルゴット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36224.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuko-yanaga"
+    ]
+  },
+  {
+    "name": "Christof Sievernich",
+    "nameNative": "クリストフ・ジーヴァーニッヒ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8614-muRUQIkXjl6A.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-hironaka"
+    ]
+  },
+  {
+    "name": "Dieter",
+    "nameNative": "ディーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6329-1EP0t4paLi3y.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junko-takeuchi"
+    ]
+  },
+  {
+    "name": "Dr. Becker",
+    "nameNative": "Dr.ベッカー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166667-hz6ZpV9Wuu2D.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuyoshi-hara"
+    ]
+  },
+  {
+    "name": "Elna",
+    "nameNative": "エルナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166957-e3JqWgQPSSvY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-kouda"
+    ]
+  },
+  {
+    "name": "Franz Bonaparta",
+    "nameNative": "フランツ・ボナパルタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8615-8eOPwbeu9jZh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nachi-nozawa"
+    ]
+  },
+  {
+    "name": "Fritz Vardemann",
+    "nameNative": "フリッツ・ヴァーデマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8619-TU1dqO0CFOoH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusuke-oobayashi"
+    ]
+  },
+  {
+    "name": "Gross",
+    "nameNative": "グロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166947-d8HOug14xigE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kinryuu-arimoto"
+    ]
+  },
+  {
+    "name": "Gunther Milch",
+    "nameNative": "ギュンター・ミルヒ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28692.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Gustav Milch",
+    "nameNative": "グスタフ・ミルヒ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/32430.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Hans Georg Schuwald",
+    "nameNative": "ハンス・ゲオルグ・シューバルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8620.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "michio-hazama"
+    ]
+  },
+  {
+    "name": "Hartmann",
+    "nameNative": "ハルトマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166955-f6voQrkdh7t7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaaki-yajima"
+    ]
+  },
+  {
+    "name": "Heinz",
+    "nameNative": "ハインツ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166962-WDtbTNd4F131.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-miyamoto"
+    ]
+  },
+  {
+    "name": "Helenka Novakova",
+    "nameNative": "ヘレンカ・ノヴァコバー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/38843.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-tanaka"
+    ]
+  },
+  {
+    "name": "Helmut Wolf",
+    "nameNative": "ヘルムート・ヴォルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8613.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-kitamura"
+    ]
+  },
+  {
+    "name": "Herbert Knaup",
+    "nameNative": "ヘルベルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229558-TFElRD6V2hWD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-hanawa"
+    ]
+  },
+  {
+    "name": "Jacob Maurer",
+    "nameNative": "ヤコプ・マウラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b260057-WgnvomUNHgvQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yousuke-akimoto"
+    ]
+  },
+  {
+    "name": "Jan Suk",
+    "nameNative": "ヤン・スーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8618.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisayoshi-suganuma"
+    ]
+  },
+  {
+    "name": "Jaromír Lipský",
+    "nameNative": "ヤロミール・リプスキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23328.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-hirata"
+    ]
+  },
+  {
+    "name": "Joushi",
+    "nameNative": "上司",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166960-Kp1F5S5ceT9h.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shirou-saitou"
+    ]
+  },
+  {
+    "name": "Julius Reichwein",
+    "nameNative": "ユーリウス・ライヒワイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/11080-QZxwmy36GaQH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ichirou-nagai"
+    ]
+  },
+  {
+    "name": "Karl Brandt",
+    "nameNative": "カール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166953-maHd6pjEAtWd.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-nishimura"
+    ]
+  },
+  {
+    "name": "Karl Neumann",
+    "nameNative": "カール・ノイマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8622.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki",
+      "hikaru-tokita"
+    ]
+  },
+  {
+    "name": "Lotte Frank",
+    "nameNative": "ロッテ・フランク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8623.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kyouko-hikami"
+    ]
+  },
+  {
+    "name": "Martin Reest",
+    "nameNative": "マルティン・レースト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12117-bIHpLFAb9fiD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shuuichi-ikeda"
+    ]
+  },
+  {
+    "name": "Max Steindorf",
+    "nameNative": "マックス・シュタインドルフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166954-moL8cBN8WS4l.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyonobu-suzuki"
+    ]
+  },
+  {
+    "name": "Messener",
+    "nameNative": "メスナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229939-SoN7YveohY8u.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Michael Müller",
+    "nameNative": "ミハエル・ミュラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229940-xAXzr8f67Qnb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-mikimoto"
+    ]
+  },
+  {
+    "name": "Mikhail Ivanovich Petrov",
+    "nameNative": "ミハイル・イワーノヴィチ・ペドロフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229941-fPcLqYLMsCSB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chikao-ootsuka"
+    ]
+  },
+  {
+    "name": "Milan Kolacsh",
+    "nameNative": "ミラン・コラーシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45169-728dH0TecrNt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Milosz",
+    "nameNative": "ミローシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229942-lSGx6kwflD9t.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-mashiba"
+    ]
+  },
+  {
+    "name": "Otto Heckel",
+    "nameNative": "オットー・ヘッケル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8624-Ui2NPXiWXV3B.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshito-yasuhara"
+    ]
+  },
+  {
+    "name": "Peter Jürgens",
+    "nameNative": "ペーター・ユルゲンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34401-om0vJUzJg1d3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Petr Čapek",
+    "nameNative": "ペトル・チャペック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8616-pAuphO7Cla8o.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tanaka"
+    ]
+  },
+  {
+    "name": "Petra",
+    "nameNative": "ペトラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166959-w9Mp1jZjDfzn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikuko-tani"
+    ]
+  },
+  {
+    "name": "Pionyr",
+    "nameNative": "ピオニール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166963-ezIUb1F2HfQf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yumi-hikita"
+    ]
+  },
+  {
+    "name": "Richard Braun",
+    "nameNative": "リヒァルト・ブラウン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36223.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-arikawa"
+    ]
+  },
+  {
+    "name": "Roberto",
+    "nameNative": "ロベルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8611.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-katsube"
+    ]
+  },
+  {
+    "name": "Rosso",
+    "nameNative": "ロッソ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b273439-5OJvXb5IFItT.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "banjou-ginga"
+    ]
+  },
+  {
+    "name": "Rudy-Ulrich Gillen",
+    "nameNative": "ルーディ・ギーレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8617.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-sugou"
+    ]
+  },
+  {
+    "name": "Schone",
+    "nameNative": "ショーネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166961-TJ8zELVB86kt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiichi-sonobe"
+    ]
+  },
+  {
+    "name": "Turkojin Shoufu",
+    "nameNative": "トルコ人娼婦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b244851-NQBAyhOpl8Vs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-soumi"
+    ]
+  },
+  {
+    "name": "Udo Heinemann",
+    "nameNative": "ハイネマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b166665-PHEgehLtxotP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaru-ikeda"
+    ]
+  }
+]
