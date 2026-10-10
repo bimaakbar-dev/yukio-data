@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Azul",
+    "nameNative": "アスル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b374596-Y7MVfDQkZszY.png",
+    "role": "main",
+    "voiceActors": [
+      "takeo-ootsuka"
+    ]
+  },
+  {
+    "name": "Kaede",
+    "nameNative": "カエデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b374595-fJ0upkWdlvUo.png",
+    "role": "main",
+    "voiceActors": [
+      "kaede-hondo"
+    ]
+  },
+  {
+    "name": "Karudeno",
+    "nameNative": "カルデノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b374599-fgQl3ri8PcQl.png",
+    "role": "main",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Nina",
+    "nameNative": "ニナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b374600-sOyo5jfINuyk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miharu-hanai"
+    ]
+  },
+  {
+    "name": "Rei",
+    "nameNative": "レイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b374601-j9StivwqLlS0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yurika-moriyama"
+    ]
+  }
+]
