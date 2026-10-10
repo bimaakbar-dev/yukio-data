@@ -1,45 +1,41 @@
 ---
-title: Colorful
-titleEnglish: Colorful ~ The Motion Picture
-titleNative: カラフル
+title: COLORFUL
+titleEnglish: Colorful
+titleNative: COLORFUL
 
-malId: 8142
+malId: 841
 kitsuId: "5212"
 
-type: Movie
+type: TV
 status: finished
-source: other
+source: manga
 
 season: summer
-year: 2010
-episodes: 1
-duration: 127
-# rating: # edit manual
+year: 1999
+episodes: 16
+duration: 6
 
 aired:
-  from: "2010-08-21"
-  to: "2010-08-21"
+  from: "1999-09-06"
+  to: "1999-09-30"
 
 stats:
-  score: 7.5
-  # scoredBy: # edit manual
+  score: 5.0
 
 genres:
-  - drama
+  - comedy
+  - ecchi
   - slice-of-life
-  - supernatural
 
 studios:
-  - sunrise
-  - ascension
+  - triangle-staff
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8142-C8NvVbzJz7hN.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8142-6OpPG0lnoN4P.jpg"
-# trailer: # edit manual
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx841-gdXOqxm7hUVl.jpg"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/841-qo5WpPqEgvz1.jpg"
 
 draft: false
 ---
 
-"I" died and was kicked out of the cycle of reincarnation because of the sin "I" committed. An angel told me that "I" won a lottery and he gave me a chance to remember the sin. My spirit possessed the body of the 14-year-old boy Makoto, who committed suicide and "I" tried to recollect my memory. "I" felt distressed by the terrible circumstances of Makoto and the fact that "I" was borrowing his body. "I" have started to realize that people are hurting each other because the world is too colorful to distinguish the true color of themselves from others.
+Two horny college slackers and a beautiful professor. A frustrated TV reporter. A sexy track star and her tempted coach. And a high school girlzilla that’s the size of the Empire State building. From hotties on subways and perverted cabbies, to panty-obsessed video geeks, sexy mall babes, and the furry phenomenon, Colorful is a strange, deranged, racy and hilarious dose of animated Viagra!
 
-Based on an award-winning first person narrative novel by Mori Eto. The movie won several awards in Japan.
+(Source: ADV Films)
