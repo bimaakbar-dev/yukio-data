@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Alpha",
+    "nameNative": "アルファ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162246-IbbxkhNJFDN5.png",
+    "role": "main",
+    "voiceActors": [
+      "asami-seto"
+    ]
+  },
+  {
+    "name": "Beta",
+    "nameNative": "ベータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162247-R6OrAuT1FwL4.png",
+    "role": "main",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Cid Kagenou",
+    "nameNative": "シド・カゲノー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136837-3WR22FYet8Hv.jpg",
+    "role": "main",
+    "voiceActors": [
+      "seiichirou-yamashita",
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Akane Nishino",
+    "nameNative": "西野アカネ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229652-JE0EUB5nfONo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Alexia Midgar",
+    "nameNative": "アレクシア・ミドガル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b168799-uAsWFrrfqxTN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Annerose Nichtsehen",
+    "nameNative": "アンネローゼ・フシアナス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204202-bvSbKDSSGg7J.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shion-wakayama"
+    ]
+  },
+  {
+    "name": "Aurora",
+    "nameNative": "アウロラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215409-Y1Ti42451ivg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nazuka"
+    ]
+  },
+  {
+    "name": "Beatrix",
+    "nameNative": "ベアトリクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229656-fVc5WjlFefhD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "Cid no Chichi",
+    "nameNative": "シドの父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295296-qCUtokdmzQkg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-mamiya"
+    ]
+  },
+  {
+    "name": "Cid no Haha",
+    "nameNative": "シドの母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295297-Q9MuVIy81Szg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Claire Kagenou",
+    "nameNative": "クレア・カゲノー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b168798-IrHBKh5xbRsr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  },
+  {
+    "name": "Delta",
+    "nameNative": "デルタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162248-57Xgk6EmwKRQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fairouz-ai"
+    ]
+  },
+  {
+    "name": "Doem Ketsuhat",
+    "nameNative": "ドエム・ケツハット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b297029-0uu6ETEihyie.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Doumoto",
+    "nameNative": "胴元",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295298-QFMHrPKXHTX1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reigo-yamaguchi"
+    ]
+  },
+  {
+    "name": "Epsilon",
+    "nameNative": "イプシロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162249-eJRpBIC5lAZX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-kanemoto"
+    ]
+  },
+  {
+    "name": "Eta",
+    "nameNative": "イータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289297-e2DgfeWhVPRa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "reina-kondou"
+    ]
+  },
+  {
+    "name": "Gamma",
+    "nameNative": "ガンマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162245-x86QMM6nOj75.png",
+    "role": "supporting",
+    "voiceActors": [
+      "suzuko-mimori"
+    ]
+  },
+  {
+    "name": "Glen",
+    "nameNative": "ゲレン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290846-SXZnUe22C8BC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouta-yamamoto"
+    ]
+  },
+  {
+    "name": "Goldou Kinmekki",
+    "nameNative": "ゴルドー・キンメッキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296394-tJo8XIMuP42Z.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-okitsu"
+    ]
+  },
+  {
+    "name": "Hakui no Otoko",
+    "nameNative": "白衣の男",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295305-2eVtQ2eFeVQB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hirofumi-nojima"
+    ]
+  },
+  {
+    "name": "Hyoro Gali",
+    "nameNative": "ヒョロ・ガリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287012-sI6YVKQcuhAh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Iris  Midgar",
+    "nameNative": "アイリス・ミドガル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204204-wsPvzUwfdUwJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Jack Nelson",
+    "nameNative": "ジャック・ネルソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294236-qLd9wMfP0iGO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mugihito"
+    ]
+  },
+  {
+    "name": "Jaga Imo",
+    "nameNative": "ジャガ・イモ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b287013-mKBY4xbondVc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shin-matsushige"
+    ]
+  },
+  {
+    "name": "Kai",
+    "nameNative": "カイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295292-Eo3yIn4Qh8ND.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mayu-minami"
+    ]
+  },
+  {
+    "name": "Lambda",
+    "nameNative": "ラムダ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298851-UMG5YdDRpnRB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ikumi-hasegawa"
+    ]
+  },
+  {
+    "name": "Lutheran Barnett",
+    "nameNative": "ルスラン・バーネット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291390-EuycCQW1unsi.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "houchuu-ootsuka"
+    ]
+  },
+  {
+    "name": "Marco Granger",
+    "nameNative": "マルコ・グレンジャー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290847-2rdQVKiCCwIk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rikuya-yasuda"
+    ]
+  },
+  {
+    "name": "Midgar Kokuou",
+    "nameNative": "ミドガル国王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b298257-sihPu0SwILbB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-mikami"
+    ]
+  },
+  {
+    "name": "Nu",
+    "nameNative": "ニュー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b168968-aXcvuihuWhqE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Olba",
+    "nameNative": "オルバ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295300-0bIlwZ3wRewz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Olivier",
+    "nameNative": "オリヴィエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204203-AUa5RQad7eC7.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Omega",
+    "nameNative": "オメガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295293-w4DP3ifIZHu2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouko-maekawa"
+    ]
+  },
+  {
+    "name": "Quinton",
+    "nameNative": "クイントン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296393-wvxuGqitrNTa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenta-miyake"
+    ]
+  },
+  {
+    "name": "Raphael Oriana",
+    "nameNative": "ラファエロ・オリアナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b297028-PNxLB1yTkXLK.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yutaka-aoyama"
+    ]
+  },
+  {
+    "name": "Rex",
+    "nameNative": "レックス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291391-WhBry6vS5bGX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuhiko-okamoto"
+    ]
+  },
+  {
+    "name": "Rose Oriana",
+    "nameNative": "ローズ・オリアナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b168800-eb3FqWq0IdyV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-shiraishi"
+    ]
+  },
+  {
+    "name": "Sherry Barnett",
+    "nameNative": "シェリー・バーネット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197922-zq7eT5LTjvoj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saya-aizawa"
+    ]
+  },
+  {
+    "name": "Tsugiide Makkenjii",
+    "nameNative": "ツギーデ・マッケンジー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296392-SL1OMA0wXuHJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuunosuke-watanuki"
+    ]
+  },
+  {
+    "name": "Zenon Griffey",
+    "nameNative": "ゼノン・グリフィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290064-5TdClmoLQxJz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaya-matsukaze"
+    ]
+  },
+  {
+    "name": "Zeta",
+    "nameNative": "ゼータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264565-acUMiD3pz2ZU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-asai"
+    ]
+  }
+]
