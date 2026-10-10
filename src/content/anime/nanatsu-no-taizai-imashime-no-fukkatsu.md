@@ -14,7 +14,6 @@ season: winter
 year: 2018
 episodes: 24
 duration: 25
-# rating: # edit manual
 
 aired:
   from: "2018-01-13"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 7.3
-  # scoredBy: # edit manual
 
 genres:
   - action
@@ -38,6 +36,9 @@ studios:
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99539-caPX28RSsgRP.jpg"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99539-ermF56v2Gz2p.png"
 trailer: "ULP_6faadB4"
+
+addedAt: "2026-10-10T07:35:10.205Z"
+updatedAt: "2026-10-10T07:35:10.205Z"
 
 draft: false
 ---
