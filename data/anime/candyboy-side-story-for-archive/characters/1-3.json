@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Kanade Sakurai",
+    "nameNative": "桜井奏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7324-A8Yzrw7qIv6r.png",
+    "role": "main",
+    "voiceActors": [
+      "hitomi-nabatame"
+    ]
+  },
+  {
+    "name": "Yukino Sakurai",
+    "nameNative": "桜井雪乃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7325-0679VRu1m8Wc.png",
+    "role": "main",
+    "voiceActors": [
+      "ryouka-yuzuki"
+    ]
+  },
+  {
+    "name": "Sakuya Kamiyama",
+    "nameNative": "神山咲夜",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8822-75M2piuNiml8.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  }
+]
