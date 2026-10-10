@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Ai",
+    "nameNative": "愛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35720-OJarV963I5Zk.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Aruberto",
+    "nameNative": "アルベルト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314062-4TCHnC7DYGib.png",
+    "role": "main",
+    "voiceActors": [
+      "takatoshi-koneko"
+    ]
+  },
+  {
+    "name": "Bouquet",
+    "nameNative": "ブーケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35721-ts2Z2Y5u9G6V.jpg",
+    "role": "main",
+    "voiceActors": [
+      "misato-fukuen"
+    ]
+  },
+  {
+    "name": "Sari",
+    "nameNative": "サリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4454-yMVUlCXOmkDI.png",
+    "role": "main",
+    "voiceActors": [
+      "fumiko-orikasa"
+    ]
+  },
+  {
+    "name": "Yuu",
+    "nameNative": "ゆう",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35722-29a9MKTfNFe5.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Alan",
+    "nameNative": "アラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314054-t4qHRSth0MIo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-tatekabe"
+    ]
+  },
+  {
+    "name": "Apollo",
+    "nameNative": "アポロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314048-ibt1WD1JdGsD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-terasoma"
+    ]
+  },
+  {
+    "name": "Asami",
+    "nameNative": "あさみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314061-7TAAypvhJAO1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hattori"
+    ]
+  },
+  {
+    "name": "Bianca",
+    "nameNative": "ビアンカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160296-HvpbHVTdiPM2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yurika-hino"
+    ]
+  },
+  {
+    "name": "Daruman",
+    "nameNative": "ダルマン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314058-6hKIYhUaMokr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hisao-egawa"
+    ]
+  },
+  {
+    "name": "Fuuko",
+    "nameNative": "風光",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43754-fnsODUHNC7PA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mika-kanai"
+    ]
+  },
+  {
+    "name": "Fuuta",
+    "nameNative": "フータ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b38174-CoWNYgd5Anyd.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Joni",
+    "nameNative": "ジョニー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314059-x8f1CCJA1cFX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Kappei",
+    "nameNative": "カッペイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314051-q4Gs8PZl6TSX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuo-iwata"
+    ]
+  },
+  {
+    "name": "Kinuyo",
+    "nameNative": "きぬよ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314049-EzJQDOPFeUjM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-adachi"
+    ]
+  },
+  {
+    "name": "Kotobuki",
+    "nameNative": "コトブキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314053-Qew07Syd9JV4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Master",
+    "nameNative": "マスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314052-LEAlG7zmJk7B.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-hashi"
+    ]
+  },
+  {
+    "name": "Periko",
+    "nameNative": "ぺりこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314047-rg7kFl0j2uSQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "otoha"
+    ]
+  },
+  {
+    "name": "Perimi",
+    "nameNative": "ぺりみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314056-s1r8SOttGIxP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-mizutani"
+    ]
+  },
+  {
+    "name": "Perio",
+    "nameNative": "ぺりお",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314057-aRUBXOR3twc9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-suyama"
+    ]
+  },
+  {
+    "name": "Rakosuke",
+    "nameNative": "ラコスケ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314050-SJmJ6xrp4zhZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-miike"
+    ]
+  },
+  {
+    "name": "Reset-san",
+    "nameNative": "リセットさん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9463-tWGQKDPlb7IX.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-kimura"
+    ]
+  },
+  {
+    "name": "Sakurajima",
+    "nameNative": "さくらじま",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314055-1IsX621lufpr.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuji-ueda"
+    ]
+  },
+  {
+    "name": "Saruo",
+    "nameNative": "さるお",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b314060-2EuFu1wnvo8X.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasuhiro-takato"
+    ]
+  },
+  {
+    "name": "Seiichi",
+    "nameNative": "誠一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18868.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junpei-takiguchi"
+    ]
+  },
+  {
+    "name": "Tanukichi",
+    "nameNative": "たぬきち",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3915-eYz7kGvPwrWW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoki-tatsuta"
+    ]
+  },
+  {
+    "name": "Totakeke",
+    "nameNative": "とたけけ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18289-O6sF6QPbR2cc.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shun-oguri"
+    ]
+  },
+  {
+    "name": "Tsunekichi",
+    "nameNative": "つねきち",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154078-P3xqiUxJt36B.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuo-sakaguchi"
+    ]
+  }
+]
