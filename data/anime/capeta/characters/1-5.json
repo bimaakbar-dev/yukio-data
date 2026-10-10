@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Capeta Taira",
+    "nameNative": "カペタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7161-gbibC3CtmhsC.jpg",
+    "role": "main",
+    "voiceActors": [
+      "toshiyuki-toyonaga",
+      "naoto-adachi"
+    ]
+  },
+  {
+    "name": "Monami Suzuki",
+    "nameNative": "鈴木茂波",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7043-vVt1U5zCrxSP.png",
+    "role": "main",
+    "voiceActors": [
+      "mika-kikuchi",
+      "yume-miyamoto"
+    ]
+  },
+  {
+    "name": "Naomi Minamoto",
+    "nameNative": "源 奈臣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22541-Sp4LKe7byVJk.png",
+    "role": "main",
+    "voiceActors": [
+      "ryou-naitou"
+    ]
+  },
+  {
+    "name": "Nobu Andou",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22566.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kouhei-kiyasu"
+    ]
+  },
+  {
+    "name": "Nanako Minamoto",
+    "nameNative": "源 奈々子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/22568.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-daiki"
+    ]
+  }
+]
