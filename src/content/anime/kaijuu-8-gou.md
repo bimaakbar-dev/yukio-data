@@ -14,7 +14,6 @@ season: spring
 year: 2024
 episodes: 12
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "2024-04-13"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 8.1
-  # scoredBy: # edit manual
 
 genres:
   - action
@@ -34,6 +32,9 @@ studios:
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-25FBfFJzEQ5O.jpg"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153288-JNsWuMPMAuJL.jpg"
 trailer: "7n_mFVPeApw"
+
+addedAt: "2026-10-10T07:36:07.511Z"
+updatedAt: "2026-10-10T07:36:07.511Z"
 
 draft: false
 ---
