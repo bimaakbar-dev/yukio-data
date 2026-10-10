@@ -1,180 +1,129 @@
-// detect-duplicate-content.mjs
+// detect-duplicate-slugs2.mjs
 import { promises as fs } from 'node:fs';
-import path from 'node:path';
 
 const MD_DIR = 'src/content/anime';
 
-function parseFrontmatter(content) {
-  const m = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
-  if (!m) return {};
-  const fm = m[1] ?? '';
-  const get = (key) => {
-    const re = new RegExp(`^${key}:\\s*(.+)$`, 'm');
-    const match = fm.match(re);
-    if (!match) return null;
-    return match[1].trim().replace(/^["']|["']$/g, '');
-  };
-  return {
-    title: get('title'),
-    titleEnglish: get('titleEnglish'),
-    titleNative: get('titleNative'),
-    malId: get('malId'),
-    kitsuId: get('kitsuId'),
-    anilistId: get('anilistId'),
-  };
+// Hapus suffix yang menandakan season/part/versi
+const SUFFIX_PATTERNS = [
+  /[-_\s]+(season|part|chapter|movie|the-movie|2nd|3rd|4th|5th|6th|7th|8th|9th|10th)[-_\s]*\d*$/i,
+  /[-_\s]+(season|part|chapter|movie)[-_\s]+(i{1,3}|iv|v|vi{0,3}|ix|x)$/i,
+  /[-_\s]+(i{2,3}|iv|vi{0,3}|ix)$/i,          // ii, iii, iv, vi, vii, ix
+  /[-_\s]+(2nd|3rd|4th|5th|6th|7th|8th|9th|10th)[-_\s]+season$/i,
+  /[-_\s]+\d+$/i,                              // -2, -3
+];
+
+function stripSuffix(slug) {
+  let s = slug;
+  let changed = true;
+  let safety = 0;
+  while (changed && safety < 5) {
+    changed = false;
+    safety++;
+    for (const re of SUFFIX_PATTERNS) {
+      const next = s.replace(re, '');
+      if (next !== s) {
+        s = next;
+        changed = true;
+      }
+    }
+  }
+  return s;
+}
+
+function normalize(s) {
+  return String(s ?? '').toLowerCase().replace(/[-_.\s]+/g, '');
+}
+
+function levenshtein(a, b) {
+  if (a === b) return 0;
+  if (!a.length) return b.length;
+  if (!b.length) return a.length;
+  const m = [];
+  for (let i = 0; i <= b.length; i++) m[i] = [i];
+  for (let j = 0; j <= a.length; j++) m[0][j] = j;
+  for (let i = 1; i <= b.length; i++) {
+    for (let j = 1; j <= a.length; j++) {
+      const cost = a[j - 1] === b[i - 1] ? 0 : 1;
+      m[i][j] = Math.min(
+        m[i - 1][j] + 1,
+        m[i][j - 1] + 1,
+        m[i - 1][j - 1] + cost
+      );
+    }
+  }
+  return m[b.length][a.length];
 }
 
 async function main() {
-  console.log('=== Deteksi Duplikat by External ID ===\n');
-  console.log(`Scan: ${MD_DIR}\n`);
-
   const files = (await fs.readdir(MD_DIR)).filter((f) => f.endsWith('.md'));
-  console.log(`Total MD: ${files.length}\n`);
+  const slugs = files.map((f) => f.replace(/\.md$/, '')).sort();
 
-  const entries = [];
-  for (const file of files) {
-    const content = await fs.readFile(path.join(MD_DIR, file), 'utf8');
-    const fm = parseFrontmatter(content);
-    entries.push({
-      slug: file.replace(/\.md$/, ''),
-      title: fm.title ?? '',
-      titleEnglish: fm.titleEnglish ?? '',
-      malId: fm.malId,
-      kitsuId: fm.kitsuId,
-      anilistId: fm.anilistId,
-    });
+  console.log(`Total slug: ${slugs.length}\n`);
+
+  const stripped = new Map();
+  for (const s of slugs) stripped.set(s, stripSuffix(s));
+
+  const found = [];
+  const MAX_DIST = 4; // max edit distance (perbedaan karakter)
+
+  for (let i = 0; i < slugs.length; i++) {
+    for (let j = i + 1; j < slugs.length; j++) {
+      const a = slugs[i];
+      const b = slugs[j];
+      const sa = stripped.get(a);
+      const sb = stripped.get(b);
+
+      // Skip kalau base sama → beda season, bukan dup
+      if (sa === sb) continue;
+
+      // Skip kalau normalize sama (sudah dihandle sebelumnya)
+      if (normalize(a) === normalize(b)) continue;
+
+      // Skip kalau panjang beda jauh
+      if (Math.abs(sa.length - sb.length) > 6) continue;
+
+      const dist = levenshtein(sa, sb);
+      if (dist > 0 && dist <= MAX_DIST) {
+        const max = Math.max(sa.length, sb.length);
+        const sim = 1 - dist / max;
+        found.push({
+          a,
+          b,
+          sa,
+          sb,
+          dist,
+          sim,
+        });
+      }
+    }
   }
 
-  // Group by malId
-  const byMal = new Map();
-  for (const e of entries) {
-    if (!e.malId) continue;
-    if (!byMal.has(e.malId)) byMal.set(e.malId, []);
-    byMal.get(e.malId).push(e);
-  }
-  const dupMal = [...byMal.entries()]
-    .filter(([, arr]) => arr.length > 1)
-    .sort((a, b) => Number(a[0]) - Number(b[0]));
+  found.sort((x, y) => {
+    if (x.dist !== y.dist) return x.dist - y.dist;
+    return y.sim - x.sim;
+  });
 
-  // Group by kitsuId
-  const byKitsu = new Map();
-  for (const e of entries) {
-    if (!e.kitsuId) continue;
-    if (!byKitsu.has(e.kitsuId)) byKitsu.set(e.kitsuId, []);
-    byKitsu.get(e.kitsuId).push(e);
-  }
-  const dupKitsu = [...byKitsu.entries()]
-    .filter(([, arr]) => arr.length > 1)
-    .sort((a, b) => a[0].localeCompare(b[0]));
-
-  // Group by anilistId
-  const byAnilist = new Map();
-  for (const e of entries) {
-    if (!e.anilistId) continue;
-    if (!byAnilist.has(e.anilistId)) byAnilist.set(e.anilistId, []);
-    byAnilist.get(e.anilistId).push(e);
-  }
-  const dupAnilist = [...byAnilist.entries()]
-    .filter(([, arr]) => arr.length > 1)
-    .sort((a, b) => Number(a[0]) - Number(b[0]));
-
-  // No malId same title exact
-  const byTitle = new Map();
-  for (const e of entries) {
-    const t = (e.title ?? '').toLowerCase().trim();
-    if (!t) continue;
-    if (!byTitle.has(t)) byTitle.set(t, []);
-    byTitle.get(t).push(e);
-  }
-  const dupTitle = [...byTitle.entries()].filter(([, arr]) => arr.length > 1);
-
-  // Build report
   const lines = [];
-  lines.push('=== Deteksi Duplikat by External ID ===');
-  lines.push(`Total MD: ${files.length}`);
-  lines.push('');
-  lines.push(`Duplikat by malId    : ${dupMal.length} grup`);
-  lines.push(`Duplikat by kitsuId  : ${dupKitsu.length} grup`);
-  lines.push(`Duplikat by anilistId: ${dupAnilist.length} grup`);
-  lines.push(`Duplikat by title    : ${dupTitle.length} grup`);
+  lines.push('=== Duplikat Berdasarkan Nama File (filtered) ===');
+  lines.push(`# Total MD: ${files.length}`);
+  lines.push(`# Kandidat: ${found.length} pasang`);
+  lines.push(`# (season differences sudah difilter)`);
   lines.push('');
 
-  lines.push('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  lines.push(`1. DUPLIKAT BY malId — ${dupMal.length} grup`);
-  lines.push('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  lines.push('');
-  if (dupMal.length === 0) {
-    lines.push('(tidak ada)');
-  } else {
-    for (const [malId, arr] of dupMal) {
-      lines.push(`malId=${malId} (${arr.length} anime):`);
-      for (const e of arr) {
-        lines.push(`  ${e.slug}`);
-        lines.push(`      title: "${e.title}"`);
-      }
-      lines.push('');
+  for (const f of found) {
+    lines.push(`${(f.sim * 100).toFixed(1)}%  dist=${f.dist}`);
+    lines.push(`  A: ${f.a}`);
+    lines.push(`  B: ${f.b}`);
+    if (f.sa !== f.a || f.sb !== f.b) {
+      lines.push(`  → base: ${f.sa}  |  ${f.sb}`);
     }
-  }
-
-  lines.push('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  lines.push(`2. DUPLIKAT BY kitsuId — ${dupKitsu.length} grup`);
-  lines.push('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  lines.push('');
-  if (dupKitsu.length === 0) {
-    lines.push('(tidak ada)');
-  } else {
-    for (const [kitsuId, arr] of dupKitsu) {
-      lines.push(`kitsuId=${kitsuId} (${arr.length} anime):`);
-      for (const e of arr) {
-        lines.push(`  ${e.slug}`);
-        lines.push(`      title: "${e.title}"`);
-      }
-      lines.push('');
-    }
-  }
-
-  lines.push('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  lines.push(`3. DUPLIKAT BY anilistId — ${dupAnilist.length} grup`);
-  lines.push('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  lines.push('');
-  if (dupAnilist.length === 0) {
-    lines.push('(tidak ada)');
-  } else {
-    for (const [anilistId, arr] of dupAnilist) {
-      lines.push(`anilistId=${anilistId} (${arr.length} anime):`);
-      for (const e of arr) {
-        lines.push(`  ${e.slug}`);
-        lines.push(`      title: "${e.title}"`);
-      }
-      lines.push('');
-    }
-  }
-
-  lines.push('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  lines.push(`4. DUPLIKAT BY title (exact lowercase) — ${dupTitle.length} grup`);
-  lines.push('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  lines.push('');
-  if (dupTitle.length === 0) {
-    lines.push('(tidak ada)');
-  } else {
-    for (const [title, arr] of dupTitle) {
-      lines.push(`"${title}" (${arr.length} anime):`);
-      for (const e of arr) {
-        lines.push(`  ${e.slug}`);
-        lines.push(`      malId=${e.malId ?? '-'}  kitsuId=${e.kitsuId ?? '-'}`);
-      }
-      lines.push('');
-    }
+    lines.push('');
   }
 
   const out = lines.join('\n');
   await fs.writeFile('file.txt', out, 'utf8');
-
   console.log(out);
-  console.log(`\n✅ file.txt written (${out.length} bytes)`);
+  console.log(`\n✅ file.txt (${out.length} bytes)`);
 }
 
-main().catch((err) => {
-  console.error('Fatal:', err);
-  process.exit(1);
-});
+main();
