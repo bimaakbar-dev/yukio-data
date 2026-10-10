@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Kotoko",
+    "nameNative": "琴子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230-ATTtLUW6tmHV.png",
+    "role": "main",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Sumomo",
+    "nameNative": "すもも",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/231.jpg",
+    "role": "main",
+    "voiceActors": [
+      "motoko-kumai"
+    ]
+  },
+  {
+    "name": "Chii",
+    "nameNative": "ちぃ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b227-UBfxedtnTzH2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-tanaka"
+    ]
+  },
+  {
+    "name": "Hideki Motosuwa",
+    "nameNative": "本須和秀樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b225-jhAGBOFjFxWI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  }
+]
