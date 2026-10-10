@@ -14,7 +14,6 @@ season: spring
 year: 2019
 episodes: 12
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "2019-04-10"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 7.4
-  # scoredBy: # edit manual
 
 genres:
   - action
