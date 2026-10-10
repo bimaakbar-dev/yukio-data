@@ -517,6 +517,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "makoto-ataka",
+    "name": "Makoto Ataka",
+    "nameNative": "あたか誠",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n183040-U37M6WB441tX.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "makoto-awane",
     "name": "Makoto Awane",
     "nameNative": "粟根まこと",
@@ -3370,6 +3377,20 @@
     "name": "Miki Ootani",
     "nameNative": "大谷美貴",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/6839.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "miki-saijou",
+    "name": "Miki Saijou",
+    "nameNative": "西城美希",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "miki-takahashi",
+    "name": "Miki Takahashi",
+    "nameNative": "高橋美紀",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/6311.jpg",
     "defaultLanguage": "Japanese"
   },
   {
