@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Doraemon",
+    "nameNative": "ドラえもん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4304-4eXX8C1O4Pda.png",
+    "role": "main",
+    "voiceActors": [
+      "wasabi-mizuta"
+    ]
+  },
+  {
+    "name": "Nobita Nobi",
+    "nameNative": "野比のび太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4303.jpg",
+    "role": "main",
+    "voiceActors": [
+      "megumi-oohara",
+      "satoshi-tsumabuki"
+    ]
+  },
+  {
+    "name": "Shizuka Minamoto",
+    "nameNative": "源静香",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8260-Hz17eZuElZ7U.png",
+    "role": "main",
+    "voiceActors": [
+      "yumi-kakazu"
+    ]
+  },
+  {
+    "name": "Suneo Honekawa",
+    "nameNative": "骨川スネ夫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8261-qGxKWau5iZrf.png",
+    "role": "main",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Takeshi Gouda",
+    "nameNative": "剛田武",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8262-N2Lsf46EjZBf.png",
+    "role": "main",
+    "voiceActors": [
+      "subaru-kimura"
+    ]
+  },
+  {
+    "name": "Hidetoshi Dekisugi",
+    "nameNative": "出木杉英才",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31870-GGFedy239Ddk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shihoko-hagino"
+    ]
+  },
+  {
+    "name": "Jaiko Gouda",
+    "nameNative": "剛田ジャイ子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264317-nI3OThgT0CI4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "vanilla-yamazaki"
+    ]
+  },
+  {
+    "name": "Nobisuke Nobi",
+    "nameNative": "野比のび助",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163726-PR4mAPmZpfnw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yasunori-matsumoto"
+    ]
+  },
+  {
+    "name": "Tamako Nobi",
+    "nameNative": "野比玉子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163725-HLpX1CACQtVL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kotono-mitsuishi"
+    ]
+  }
+]
