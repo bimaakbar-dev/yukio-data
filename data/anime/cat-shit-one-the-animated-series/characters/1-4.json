@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Botasky",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/33578.jpg",
+    "role": "main",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Perkins",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/33577.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiroshi-tsuchida"
+    ]
+  },
+  {
+    "name": "Bowen",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-nitta"
+    ]
+  },
+  {
+    "name": "CP",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sawaki-akimoto"
+    ]
+  }
+]
