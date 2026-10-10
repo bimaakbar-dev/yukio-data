@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Arataka Reigen",
+    "nameNative": "霊幻新隆",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89334-OPj1hCzvrt7X.png",
+    "role": "main",
+    "voiceActors": [
+      "takahiro-sakurai"
+    ]
+  },
+  {
+    "name": "Shigeo Kageyama",
+    "nameNative": "影山茂夫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89616-dXmdOc7L6SDi.png",
+    "role": "main",
+    "voiceActors": [
+      "setsuo-itou"
+    ]
+  },
+  {
+    "name": "Ekubo",
+    "nameNative": "エクボ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89617-HHZ1kziYxc0q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-ootsuka"
+    ]
+  },
+  {
+    "name": "Tome Kurata",
+    "nameNative": "暗田トメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89620-C1z1mMLIlO17.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsumi-tanezaki"
+    ]
+  }
+]
