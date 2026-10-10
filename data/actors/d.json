@@ -1,12 +1,5 @@
 [
   {
-    "id": "dai-matsumoto",
-    "name": "Dai Matsumoto",
-    "nameNative": "松本大",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/838.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
     "id": "daichi-endou",
     "name": "Daichi Endou",
     "nameNative": "遠藤大智",
@@ -14,66 +7,10 @@
     "defaultLanguage": "Japanese"
   },
   {
-    "id": "daichi-fujiwara",
-    "name": "Daichi Fujiwara",
-    "nameNative": "藤原大智",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n346639-NRuXnn2AZQxH.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daichi-hayashi",
-    "name": "Daichi Hayashi",
-    "nameNative": "林大地",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121241-Vfs2dkk6SLW0.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daichi-kanbara",
-    "name": "Daichi Kanbara",
-    "nameNative": "神原大地",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108725-k2urm9rZtyl1.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daichi-kaneko",
-    "name": "Daichi Kaneko",
-    "nameNative": "金子大地",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n203479-yOVxhSD40KLh.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
     "id": "daichuu-mizushima",
     "name": "Daichuu Mizushima",
     "nameNative": "水島大宙",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95279-5fMO4r9szQKL.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daigo",
-    "name": "Daigo",
-    "nameNative": "大悟",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n164100-Z6LqsHs2UQ2b.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daigo-fujimaki",
-    "name": "Daigo Fujimaki",
-    "nameNative": "藤巻大悟",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n214521-eEC47WYSSJtZ.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daigo-naito",
-    "name": "Daigo Naito",
-    "nameNative": "内藤大湖",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110119-8KvOlgcD4KMF.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daijiro-harada",
-    "name": "Daijiro Harada",
-    "nameNative": "原田大二郎",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100135-vNSAxrSBlN60.png",
     "defaultLanguage": "Japanese"
   },
   {
@@ -98,24 +35,10 @@
     "defaultLanguage": "Japanese"
   },
   {
-    "id": "daiki-matsubayashi",
-    "name": "Daiki Matsubayashi",
-    "nameNative": "松林大樹",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107753-hECfUGXYHiXE.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
     "id": "daiki-nakamura",
     "name": "Daiki Nakamura",
     "nameNative": "中村大樹",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101207-auZVaqSt1LfQ.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daiki-oomori",
-    "name": "Daiki Oomori",
-    "nameNative": "大森大樹",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n171933-yrL27FK7lLjt.png",
     "defaultLanguage": "Japanese"
   },
   {
@@ -126,31 +49,10 @@
     "defaultLanguage": "Japanese"
   },
   {
-    "id": "daishi-kajita",
-    "name": "Daishi Kajita",
-    "nameNative": "梶田大嗣",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n195176-ALX3RDwpwMhc.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daishiro-hano",
-    "name": "Daishiro Hano",
-    "nameNative": "羽野 だい豆",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n239960-KVMTIGhTSXMS.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
     "id": "daisuke-egawa",
     "name": "Daisuke Egawa",
     "nameNative": "江川大輔",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1466.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daisuke-endou",
-    "name": "Daisuke Endou",
-    "nameNative": "遠藤大輔",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102912-rsQfOL03JeC4.png",
     "defaultLanguage": "Japanese"
   },
   {
@@ -168,34 +70,6 @@
     "defaultLanguage": "Japanese"
   },
   {
-    "id": "daisuke-hirose",
-    "name": "Daisuke Hirose",
-    "nameNative": "廣瀬大介",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121556-clF6MDM5ADgb.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daisuke-hosomi",
-    "name": "Daisuke Hosomi",
-    "nameNative": "細見大輔",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106269-0YJWgQYc0mlm.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daisuke-kageura",
-    "name": "Daisuke Kageura",
-    "nameNative": "景浦大輔",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105059-A6MzxL57fW1j.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daisuke-kasuya",
-    "name": "Daisuke Kasuya",
-    "nameNative": "粕谷大介",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n283410-erm3jWhOG0Cr.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
     "id": "daisuke-kirii",
     "name": "Daisuke Kirii",
     "nameNative": "桐井大介",
@@ -210,31 +84,10 @@
     "defaultLanguage": "Japanese"
   },
   {
-    "id": "daisuke-masuoka",
-    "name": "Daisuke Masuoka",
-    "nameNative": "増岡大介",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n191240-t0myNar9WBie.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
     "id": "daisuke-matsubara",
     "name": "Daisuke Matsubara",
     "nameNative": "松原大典",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102422-NghXCJ6FSqjO.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daisuke-motohashi",
-    "name": "Daisuke Motohashi",
-    "nameNative": "本橋大輔",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n164581-6W7buPgshP5h.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daisuke-nakamura",
-    "name": "Daisuke Nakamura",
-    "nameNative": "中村太亮",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/705.jpg",
     "defaultLanguage": "Japanese"
   },
   {
@@ -263,61 +116,6 @@
     "name": "Daisuke Sakuma",
     "nameNative": "佐久間大介",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n272715-S1sEtc8iY78H.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daisuke-satou",
-    "name": "Daisuke Satou",
-    "nameNative": "佐藤大輔",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n97604-nTggrvImb5Xr.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daisuke-takahashi",
-    "name": "Daisuke Takahashi",
-    "nameNative": "高橋大輔",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n140941-NnA2r3NvTz4d.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daisuke-tonosaki",
-    "name": "Daisuke Tonosaki",
-    "nameNative": "外崎大輔",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153693-vVw40aY8zY1G.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daizaburou-arakawa",
-    "name": "Daizaburou Arakawa",
-    "nameNative": "大三郎 荒川",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/19589.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "danshun-tatekawa",
-    "name": "Danshun Tatekawa",
-    "nameNative": "立川談春",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n256097-OdXvMbTpiJ0h.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "daria-midou",
-    "name": "Daria Midou",
-    "nameNative": "御堂ダリア",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n132447-Xxu5MOLqotU0.jpg",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "debi-debi-debiru",
-    "name": "Debi-Debi Debiru",
-    "nameNative": "でびでび・でびる",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n405305-smYEGLczAMYh.png",
-    "defaultLanguage": "Japanese"
-  },
-  {
-    "id": "donna-burke",
-    "name": "Donna Burke",
-    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103348-VEQsO8vQGqKd.jpg",
     "defaultLanguage": "Japanese"
   }
 ]
