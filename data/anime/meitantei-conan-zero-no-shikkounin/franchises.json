@@ -1,0 +1,17 @@
+[
+  {
+    "relation": "parent_story",
+    "slug": "meitantei-conan",
+    "title": "Meitantei Conan"
+  },
+  {
+    "relation": "prequel",
+    "slug": "meitantei-conan-movie-20-junkoku-no-nightmare",
+    "title": "Meitantei Conan Movie 20: Junkoku no Nightmare"
+  },
+  {
+    "relation": "other",
+    "slug": "meitantei-conan-amuro-secret-call",
+    "title": "Meitantei Conan: Amuro Secret Call"
+  }
+]
