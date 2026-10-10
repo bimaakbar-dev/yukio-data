@@ -1,0 +1,20 @@
+[
+  {
+    "number": 1,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dxh33cY-SOoBltO2rREmlL4bJ1ksrt94IxJk5BkKA7dXL4-m5gfficnflI-dpQxklUv1Pax1u_arlI0H_b0EjPdOvr19qhrg6V6PHF5WYY1-TH2a3mKfktMvj0fcE443r038Y9o"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dxh33cY-SOoBltO2rREmlL4bJ1ksrt94IxJk5BkKA7dXL4-m5gfficnflI-dpQxklUv1Pax1u_arlI0H_b0EjPdOvr19qhrg6V6PHF5WYY1-TH2a3mKfktMvj0fcE443r038Y9o"
+          }
+        ]
+      }
+    ]
+  }
+]
