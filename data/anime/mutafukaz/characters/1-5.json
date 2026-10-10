@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Angelino",
+    "nameNative": "アンジェリーノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135634-Pgelzx610AkR.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tsuyoshi-kusanagi"
+    ]
+  },
+  {
+    "name": "Luna",
+    "nameNative": "ルナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182733-yTByw9Fn0aXP.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Vinz",
+    "nameNative": "ヴィンス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135635-mfOBh3VLdDcF.jpg",
+    "role": "main",
+    "voiceActors": [
+      "tokio-emoto"
+    ]
+  },
+  {
+    "name": "Mr. K",
+    "nameNative": "ミスターK",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219255-nwsu0KQQY4xH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidekatsu-shibata"
+    ]
+  },
+  {
+    "name": "Willy",
+    "nameNative": "ウィリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135636-1gnl52AtjcCZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-mitsushima"
+    ]
+  }
+]
