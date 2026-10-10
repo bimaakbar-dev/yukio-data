@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Iason Mink",
+    "nameNative": "イアソン・ミンク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3021.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kaneto-shiozawa"
+    ]
+  },
+  {
+    "name": "Riki",
+    "nameNative": "リキ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3022.jpg",
+    "role": "main",
+    "voiceActors": [
+      "toshihiko-seki"
+    ]
+  },
+  {
+    "name": "Gai",
+    "nameNative": "ガイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7259.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-tsujitani"
+    ]
+  },
+  {
+    "name": "Katze",
+    "nameNative": "カッツェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8195.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-tanaka"
+    ]
+  },
+  {
+    "name": "Kirie",
+    "nameNative": "キリエ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8197.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-nakahara"
+    ]
+  },
+  {
+    "name": "Kyal",
+    "nameNative": "キャル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tsutomu-kashiwakura"
+    ]
+  },
+  {
+    "name": "Luke",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Raoul Am",
+    "nameNative": "ラウール・アム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8198.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Sid",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8194.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-hori"
+    ]
+  }
+]
