@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Alice",
+    "nameNative": "アリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13836-a7CzqtzhMLSS.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Gilbert Nightray",
+    "nameNative": "ギルバート・ナイトレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n16211-6c8Kyg9QWfGb.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kousuke-toriumi",
+      "azuma-sakamoto"
+    ]
+  },
+  {
+    "name": "Oz Vessalius",
+    "nameNative": "オズ・ベザリウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13835-1H8HQb47woJH.png",
+    "role": "main",
+    "voiceActors": [
+      "junko-minagawa"
+    ]
+  },
+  {
+    "name": "Abyss no Ishi",
+    "nameNative": "アヴィスの意志",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/21420.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  },
+  {
+    "name": "Cheshire Cat",
+    "nameNative": "チェシャ猫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20609-bbfFHBTTqZAS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Echo",
+    "nameNative": "エコー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20843-YmX9cDUlJjXL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-hirohashi"
+    ]
+  },
+  {
+    "name": "Elliot Nightray",
+    "nameNative": "エリオット・ナイトレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21105-EwOpuz9cnqj2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hirofumi-nojima"
+    ]
+  },
+  {
+    "name": "Emily",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19583-cN35Hm4chdkl.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  },
+  {
+    "name": "Jack Vessalius",
+    "nameNative": "ジャック・ベザリウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19370-hn6m8CnxPhnA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-ono"
+    ]
+  },
+  {
+    "name": "Leo",
+    "nameNative": "リーオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21415-UhAJ6EBq14jm.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "akeno-watanabe"
+    ]
+  },
+  {
+    "name": "Sharon Rainsworth",
+    "nameNative": "シャロン・レインズワース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n14021-JVeMfEbulePe.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Vincent Nightray",
+    "nameNative": "ヴィンセント・ナイトレイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17888-QdKtNNZ1B5HU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "jun-fukuyama"
+    ]
+  },
+  {
+    "name": "Xerxes Break",
+    "nameNative": "ザークシーズ・ブレイク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14020-r0qXmjKEWv7L.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-ishida"
+    ]
+  }
+]
