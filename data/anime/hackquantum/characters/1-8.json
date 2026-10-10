@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Hermit",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36077.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yui-ogura"
+    ]
+  },
+  {
+    "name": "Mary",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36021.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ayumi-fujimura"
+    ]
+  },
+  {
+    "name": "Sakuya",
+    "nameNative": "サクヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36023.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Shamrock",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37881.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Tobias",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36022.jpg",
+    "role": "main",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Asta",
+    "nameNative": "アスタ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29009.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-honna"
+    ]
+  },
+  {
+    "name": "IYOTEN",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29013.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Smith",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37882.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masami-iwasaki"
+    ]
+  }
+]
