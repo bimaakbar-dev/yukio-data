@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Charlés",
+    "nameNative": "シャルル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22723-tAU59GCaf2H4.png",
+    "role": "main",
+    "voiceActors": [
+      "yui-horie"
+    ]
+  },
+  {
+    "name": "Erza Scarlet",
+    "nameNative": "エルザ・スカーレツト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg",
+    "role": "main",
+    "voiceActors": [
+      "sayaka-oohara"
+    ]
+  },
+  {
+    "name": "Gray Fullbuster",
+    "nameNative": "グレイ・フルバスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Happy",
+    "nameNative": "ハッピー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5188-1jTaic3aJ7Ds.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Lucy Heartfilia",
+    "nameNative": "ルーシィ・ハートフィリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png",
+    "role": "main",
+    "voiceActors": [
+      "aya-hirano"
+    ]
+  },
+  {
+    "name": "Natsu Dragneel",
+    "nameNative": "ナツ・ドラグニル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png",
+    "role": "main",
+    "voiceActors": [
+      "tetsuya-kakihara"
+    ]
+  },
+  {
+    "name": "Wendy Marvell",
+    "nameNative": "ウェンディマベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28886-unO1rEi3zdyF.jpg",
+    "role": "main",
+    "voiceActors": [
+      "satomi-satou"
+    ]
+  },
+  {
+    "name": "Abel",
+    "nameNative": "アベル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128409-xG9OzdoHpTRu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  },
+  {
+    "name": "Acnologia",
+    "nameNative": "アクノロギア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n49003-EGHCfhVFatPw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Alzack Connell",
+    "nameNative": "アルザック・コネル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28546.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshimitsu-shimoyama"
+    ]
+  },
+  {
+    "name": "Angel",
+    "nameNative": "エンジェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28559-EP4u5YazeHmf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fuyuka-ooura"
+    ]
+  },
+  {
+    "name": "Aquarius",
+    "nameNative": "アクエリアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26799.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Arania Web",
+    "nameNative": "アラーニャ・ウェブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n63901-k22tUKTDPwNj.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "harumi-sakurai"
+    ]
+  },
+  {
+    "name": "Arcadios",
+    "nameNative": "アルカディオス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/71495.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kuroda"
+    ]
+  },
+  {
+    "name": "Asuka Connell",
+    "nameNative": "アスカ・コネル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60015.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-arai"
+    ]
+  },
+  {
+    "name": "Azuma",
+    "nameNative": "アズマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/40161.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-shirokuma"
+    ]
+  },
+  {
+    "name": "Beth Vanderwood",
+    "nameNative": "ベス・バンダーウッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72037-4FlbEDIus89B.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-murakawa"
+    ]
+  },
+  {
+    "name": "Bickslow",
+    "nameNative": "ビックスロー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29752-j9In6z6TGNwL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihisa-kawahara"
+    ]
+  },
+  {
+    "name": "Bisca Mulan",
+    "nameNative": "ビスカ・ムーラン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28548.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-arai"
+    ]
+  },
+  {
+    "name": "Bluenote Stinger",
+    "nameNative": "ブルーノート・スティンガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/54569.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shirou-saitou"
+    ]
+  },
+  {
+    "name": "Brandish μ",
+    "nameNative": "ブランディッシュ・μ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128149-ttaSqfPepayI.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "manami-numakura"
+    ]
+  },
+  {
+    "name": "Briar",
+    "nameNative": "ブライヤ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128408-6oNBTW3CqtTo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-satou"
+    ]
+  },
+  {
+    "name": "Cana Alberona",
+    "nameNative": "カナ・アルベローナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8296-QdKicnM0gSGN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Chelia Blendy",
+    "nameNative": "シェリア・ブレンディ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64723-owB2deCp4qYR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-iguchi"
+    ]
+  },
+  {
+    "name": "Cobra",
+    "nameNative": "コブラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/30009.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-imaruoka"
+    ]
+  },
+  {
+    "name": "D-6",
+    "nameNative": "D-6",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128196-cKUEDiQ7yQp2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-nakatsukasa"
+    ]
+  },
+  {
+    "name": "Darton",
+    "nameNative": "ダートン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77175.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihisa-kawahara"
+    ]
+  },
+  {
+    "name": "Droy",
+    "nameNative": "ドロイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29491.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiji-sekiguchi"
+    ]
+  },
+  {
+    "name": "Elfman Strauss",
+    "nameNative": "エルフマン・ストラウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5334-jJiCoq8kJAUB.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Eve Tilm",
+    "nameNative": "イヴ・ティルム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/36718.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "fuyuka-ooura"
+    ]
+  },
+  {
+    "name": "Evergreen",
+    "nameNative": "エバーグリーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29755-wZBPALuFyi90.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-seto"
+    ]
+  },
+  {
+    "name": "Freed Justine",
+    "nameNative": "フリード・ジャスティーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29754.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Frosch",
+    "nameNative": "フロッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51183.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-koorogi"
+    ]
+  },
+  {
+    "name": "Gajeel Redfox",
+    "nameNative": "ガジル レッドフォックス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16893-l9HhHQ8j09H5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-hatano"
+    ]
+  },
+  {
+    "name": "Gildarts Clive",
+    "nameNative": "ギルダーツ・クライヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29502-znlVXVdXEQqg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Goumon",
+    "nameNative": "豪門",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128198-l5aJKMZEtV6P.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-sanpei"
+    ]
+  },
+  {
+    "name": "Hibiki Laytis",
+    "nameNative": "ヒビキ・レイティス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/35202.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takashi-kondou"
+    ]
+  },
+  {
+    "name": "Hisui E. Fiore",
+    "nameNative": "ヒスイ・E・フィオーレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72529-sOkKjhAwdBVS.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "suzuko-mimori"
+    ]
+  },
+  {
+    "name": "Hoteye",
+    "nameNative": "ホットアイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37773.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuya-ichijou"
+    ]
+  },
+  {
+    "name": "Ichiya Vandalay Kotobuki",
+    "nameNative": "一夜=ヴァンダレイ=寿",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b37771-JbtAOruvH9P9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shou-hayami"
+    ]
+  },
+  {
+    "name": "Igneel",
+    "nameNative": "イグニール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n40157-g0mcplX9XssJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidekatsu-shibata"
+    ]
+  },
+  {
+    "name": "Ikaruga",
+    "nameNative": "斑鳩",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29115.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-shindou"
+    ]
+  },
+  {
+    "name": "Invel Yura",
+    "nameNative": "インベル・ユラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n127448-HKmFIS1iVXYk.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "Jellal Fernandes",
+    "nameNative": "ジェラール・フェルナンデス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22751-ITQZWdiz8Ym7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Jenny Realight",
+    "nameNative": "ジェニー・リアライト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/61229.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nazuka"
+    ]
+  },
+  {
+    "name": "Jerome",
+    "nameNative": "ジェローム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128407-1pu2Ecr9lFBE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiaki-hasegawa"
+    ]
+  },
+  {
+    "name": "Jet",
+    "nameNative": "ジェット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/29490.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masaki-kawanabe"
+    ]
+  },
+  {
+    "name": "Juvia Lockser",
+    "nameNative": "ジュビア・ロクサー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Kagura Mikazuchi",
+    "nameNative": "カグラ・ミカヅチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b61697-lgeq3rWy3tqw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Kinana",
+    "nameNative": "キナナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/47981.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsue-sasamoto"
+    ]
+  }
+]
