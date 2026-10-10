@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Ai",
+    "nameNative": "愛",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/74201.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuka-ootsubo"
+    ]
+  },
+  {
+    "name": "Mai",
+    "nameNative": "麻衣",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/74203.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aya-uchida"
+    ]
+  },
+  {
+    "name": "Mii",
+    "nameNative": "ミイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/74205.jpg",
+    "role": "main",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Ponoka",
+    "nameNative": "ぽのか",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/74207.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Alisa London",
+    "nameNative": "アリサ・ロンドン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/77453.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  }
+]
