@@ -34,6 +34,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176314-nj2hmqb
 trailer: "gY0hpk9E7p8"
 
 draft: false
+addedAt: "2026-10-10"
+updatedAt: "2026-10-10"
 ---
 
 The second season of Sasaki to Pii-chan.
