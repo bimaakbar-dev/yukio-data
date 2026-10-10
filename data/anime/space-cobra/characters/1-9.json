@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Cobra",
+    "nameNative": "コブラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9916.jpg",
+    "role": "main",
+    "voiceActors": [
+      "nachi-nozawa"
+    ]
+  },
+  {
+    "name": "Lady Armaroid",
+    "nameNative": "アーマロイド・レディ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17855.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  },
+  {
+    "name": "Crystal Boy",
+    "nameNative": "クリスタル·ボーイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/23297.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoshi-kobayashi"
+    ]
+  },
+  {
+    "name": "Dominique Royal",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b163467-a68ywRG7dBjB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gara-takashima"
+    ]
+  },
+  {
+    "name": "Doug Savalas",
+    "nameNative": "サバラダグ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177143-wH69tNqzfFX2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "seizou-katou"
+    ]
+  },
+  {
+    "name": "Jane Royal",
+    "nameNative": "ローヤルジェーン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177146-fyW4EMpE5b0T.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiko-fujita"
+    ]
+  },
+  {
+    "name": "Katherine Royal",
+    "nameNative": "ローヤルキャサリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177144-hrOg7JyvncfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuko-sasaki"
+    ]
+  },
+  {
+    "name": "Salamander",
+    "nameNative": "サンショウウオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177145-yd2orliGIVG7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidekatsu-shibata"
+    ]
+  },
+  {
+    "name": "Sandra",
+    "nameNative": "サンドラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177142-VkIQFzrHygFr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "reiko-tajima"
+    ]
+  }
+]
