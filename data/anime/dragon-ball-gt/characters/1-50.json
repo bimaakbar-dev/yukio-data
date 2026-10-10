@@ -1,0 +1,437 @@
+[
+  {
+    "name": "Giru",
+    "nameNative": "ギル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9379.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shinobu-satouchi"
+    ]
+  },
+  {
+    "name": "Gokuu Son",
+    "nameNative": "孫悟空",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/246-wsRRr6z1kii8.png",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Pan",
+    "nameNative": "パン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3168.jpg",
+    "role": "main",
+    "voiceActors": [
+      "yuuko-minaguchi"
+    ]
+  },
+  {
+    "name": "Trunks",
+    "nameNative": "トランクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2707-YKWmn4q87oF8.png",
+    "role": "main",
+    "voiceActors": [
+      "takeshi-kusao"
+    ]
+  },
+  {
+    "name": "Baby",
+    "nameNative": "ベビー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9376-QvJayCZR9mqk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-numata"
+    ]
+  },
+  {
+    "name": "Bee",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2100.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Bra",
+    "nameNative": "ブラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2733.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-tsuru"
+    ]
+  },
+  {
+    "name": "Bulma",
+    "nameNative": "ブルマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b678-2YCe13F0tFos.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-tsuru"
+    ]
+  },
+  {
+    "name": "Bulma no Mama",
+    "nameNative": "ブルマのママ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2107.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Cell",
+    "nameNative": "セル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3908.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "norio-wakamoto"
+    ]
+  },
+  {
+    "name": "Chi-Chi",
+    "nameNative": "チチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2102.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-watanabe"
+    ]
+  },
+  {
+    "name": "Dende",
+    "nameNative": "デンデ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6273.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-yuuki"
+    ]
+  },
+  {
+    "name": "Dolltaki",
+    "nameNative": "ドルタッキー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9779.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hirotaka-suzuoki"
+    ]
+  },
+  {
+    "name": "Dr. Gero",
+    "nameNative": "ドクター・ゲロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2146.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yada"
+    ]
+  },
+  {
+    "name": "Dr. Myu",
+    "nameNative": "ミュー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9778.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuyuki-sogabe"
+    ]
+  },
+  {
+    "name": "Enma Daiou",
+    "nameNative": "閻魔大王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9773.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-gouri"
+    ]
+  },
+  {
+    "name": "Freeza",
+    "nameNative": "フリーザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3694-bDfOdSSdFfPv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryuusei-nakao"
+    ]
+  },
+  {
+    "name": "General Blue",
+    "nameNative": "ブルー将軍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2138-Jg42fRDMvrDQ.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "General Rilldo",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9764.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoyuki-yanada"
+    ]
+  },
+  {
+    "name": "Gohan Son",
+    "nameNative": "孫悟飯",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2093-kdFZhqcNSsqW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Goku Jr. Son",
+    "nameNative": "孫悟空Jr",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2152.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Goten Son",
+    "nameNative": "孫悟天",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2551.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Gyuumaou",
+    "nameNative": "牛魔王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2094.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-gouri"
+    ]
+  },
+  {
+    "name": "Higashi no Kaioushin",
+    "nameNative": "東の界王神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6133-yyWJ58Eo0iye.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Jinzouningen 17-gou",
+    "nameNative": "人造人間17号",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2147-AQ0iJ9QEmwPf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-nakahara"
+    ]
+  },
+  {
+    "name": "Jinzouningen 18-gou",
+    "nameNative": "人造人間18号",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4318-HfIy9rOIOZXM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Jinzouningen 19-gou",
+    "nameNative": "人造人間19号",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6115.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yukitoshi-hori"
+    ]
+  },
+  {
+    "name": "Karin",
+    "nameNative": "カリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/7309.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kita no Kaiou",
+    "nameNative": "北の界王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4850.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-yanami"
+    ]
+  },
+  {
+    "name": "Kuririn",
+    "nameNative": "クリリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2159-qtEuMYyOUkwY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-tanaka"
+    ]
+  },
+  {
+    "name": "Liang Xing Long",
+    "nameNative": "二星龍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/76056.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chafuurin"
+    ]
+  },
+  {
+    "name": "Mai",
+    "nameNative": "マイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2143.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eiko-yamada"
+    ]
+  },
+  {
+    "name": "Majin Boo",
+    "nameNative": "魔人ブウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1012.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouzou-shioya"
+    ]
+  },
+  {
+    "name": "Marron",
+    "nameNative": "マーロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2106.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomiko-suzuki"
+    ]
+  },
+  {
+    "name": "Mister Satan",
+    "nameNative": "ミスター・サタン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9377.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-gouri"
+    ]
+  },
+  {
+    "name": "Mr. Popo",
+    "nameNative": "ミスター・ポポ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6106.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toku-nishio"
+    ]
+  },
+  {
+    "name": "Muten Roushi",
+    "nameNative": "武天老師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6167-aMPt1bHf5YbV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-masuoka"
+    ]
+  },
+  {
+    "name": "Nappa",
+    "nameNative": "ナッパ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/5224.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kiyoyuki-yanada"
+    ]
+  },
+  {
+    "name": "Narrator",
+    "nameNative": "ナレーター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-yanami"
+    ]
+  },
+  {
+    "name": "Oob",
+    "nameNative": "ウーブ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/9392.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "atsushi-kisaichi"
+    ]
+  },
+  {
+    "name": "Oolong",
+    "nameNative": "ウーロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2108.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoki-tatsuta"
+    ]
+  },
+  {
+    "name": "Pack",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8632.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-furuya"
+    ]
+  },
+  {
+    "name": "Paresu",
+    "nameNative": "パレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2119.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-yanase"
+    ]
+  },
+  {
+    "name": "Piccolo",
+    "nameNative": "ピッコロ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b914-KuS8AWjqBrqa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "toshio-furukawa"
+    ]
+  },
+  {
+    "name": "Pilaf",
+    "nameNative": "ピラフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2141.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Poperu",
+    "nameNative": "ポペル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/60627.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-kamiya"
+    ]
+  },
+  {
+    "name": "Pu'ar",
+    "nameNative": "プーアル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b677-PTNZaPeuV1Dx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-watanabe"
+    ]
+  },
+  {
+    "name": "Rou Dai Kaioshin",
+    "nameNative": "老界王神",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6293.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "reizou-nomoto"
+    ]
+  },
+  {
+    "name": "San Xing Long",
+    "nameNative": "三星龍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148305-6qshLids3OhR.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Shen Long",
+    "nameNative": "神龍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6127.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-gouri"
+    ]
+  }
+]
