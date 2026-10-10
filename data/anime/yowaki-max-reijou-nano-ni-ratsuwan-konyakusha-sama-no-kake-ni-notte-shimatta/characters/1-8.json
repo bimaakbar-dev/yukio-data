@@ -1,75 +1,75 @@
 [
   {
     "name": "Pia Rockwell",
+    "nameNative": "ピア・ロックウェル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b377367-K3VKiYG5Cjyu.jpg",
     "role": "main",
     "voiceActors": [
       "miku-itou"
-    ],
-    "nameNative": "ピア・ロックウェル",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b377367-K3VKiYG5Cjyu.jpg"
+    ]
   },
   {
     "name": "Rufus Stan",
+    "nameNative": "ルーファス・スタン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b377368-WSZFccTwoIYo.jpg",
     "role": "main",
     "voiceActors": [
       "ryouta-oosaka",
       "shizuka-ishigami"
-    ],
-    "nameNative": "ルーファス・スタン",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b377368-WSZFccTwoIYo.jpg"
-  },
-  {
-    "name": "Caroline Ramsey",
-    "role": "supporting",
-    "voiceActors": [
-      "rina-hidaka"
-    ],
-    "nameNative": "キャロライン・ラムゼー",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399924-lYQcpbz5nybZ.png"
-  },
-  {
-    "name": "Erin White",
-    "role": "supporting",
-    "voiceActors": [
-      "sora-amamiya"
-    ],
-    "nameNative": "エリン・ホワイト",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399925-IzJNWyqRdRHw.png"
-  },
-  {
-    "name": "Henry Cox",
-    "role": "supporting",
-    "voiceActors": [
-      "haruki-ishiya"
-    ],
-    "nameNative": "ヘンリー・コックス",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399926-SYxuw7rZd1qT.png"
+    ]
   },
   {
     "name": "Amelia Keys",
+    "nameNative": "アメリア・キース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
     "role": "supporting",
     "voiceActors": [
       "haruka-shiraishi"
-    ],
-    "nameNative": "アメリア・キース",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+    ]
+  },
+  {
+    "name": "Caroline Ramsey",
+    "nameNative": "キャロライン・ラムゼー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399924-lYQcpbz5nybZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-hidaka"
+    ]
+  },
+  {
+    "name": "Erin White",
+    "nameNative": "エリン・ホワイト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399925-IzJNWyqRdRHw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sora-amamiya"
+    ]
+  },
+  {
+    "name": "Henry Cox",
+    "nameNative": "ヘンリー・コックス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399926-SYxuw7rZd1qT.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruki-ishiya"
+    ]
   },
   {
     "name": "Mike",
+    "nameNative": "マイク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
     "role": "supporting",
     "voiceActors": [
       "shouya-ishige"
-    ],
-    "nameNative": "マイク",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+    ]
   },
   {
     "name": "Phillip",
+    "nameNative": "フィリップ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
     "role": "supporting",
     "voiceActors": [
       "shougo-sakata"
-    ],
-    "nameNative": "フィリップ",
-    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+    ]
   }
 ]
