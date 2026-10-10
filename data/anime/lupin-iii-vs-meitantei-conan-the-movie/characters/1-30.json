@@ -1,0 +1,264 @@
+[
+  {
+    "name": "Ai Haibara",
+    "nameNative": "灰原哀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1743-yw1FloPUI7jO.png",
+    "role": "main",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Arsène Lupin III",
+    "nameNative": "ルパン三世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1044-UriNGSc2CKPO.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kanichi-kurita"
+    ]
+  },
+  {
+    "name": "Conan Edogawa",
+    "nameNative": "江戸川コナン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1742-NiV278NBFOvZ.png",
+    "role": "main",
+    "voiceActors": [
+      "minami-takayama"
+    ]
+  },
+  {
+    "name": "Daisuke Jigen",
+    "nameNative": "次元大介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/1045-5VLjexUmCT6p.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kiyoshi-kobayashi"
+    ]
+  },
+  {
+    "name": "Ran Mouri",
+    "nameNative": "毛利蘭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1748-j3PdfbQruuOV.png",
+    "role": "main",
+    "voiceActors": [
+      "wakana-yamazaki"
+    ]
+  },
+  {
+    "name": "Alan Smithee",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Ayumi Yoshida",
+    "nameNative": "吉田歩美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4228-c6vBLrG3AGdN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukiko-iwai"
+    ]
+  },
+  {
+    "name": "Claudia Belucci",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Emilio Baretti",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-irino"
+    ]
+  },
+  {
+    "name": "Fujiko Mine",
+    "nameNative": "峰不二子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1047-3VgNXvRjylHV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Genta Kojima",
+    "nameNative": "小嶋元太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4251-CK1ibFjPW7Kx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Ginzo Nakamori",
+    "nameNative": "中森銀三",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13973-0RmL2qQY0xxI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Goemon Ishikawa XIII",
+    "nameNative": "石川五ェ門",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1046-kFemmr8KkgFb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Hiroshi Agasa",
+    "nameNative": "阿笠博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4162-lDyKQxlzEXcj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "James Black",
+    "nameNative": "ジェイムズ・ブラック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30377-02uADHJrttVo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "iemasa-kayumi"
+    ]
+  },
+  {
+    "name": "Jodie Starling",
+    "nameNative": "ジョディ・スターリング",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b26754-73EPyg9Mkb1m.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-ichijou"
+    ]
+  },
+  {
+    "name": "Juzo Megure",
+    "nameNative": "目暮十三",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4253.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chafuurin"
+    ]
+  },
+  {
+    "name": "Kaito Kuroba",
+    "nameNative": "黒羽快斗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1747-LYyYIvIZIdnE.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Kazunobu Chiba",
+    "nameNative": "千葉和伸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30373-6sv7EFy1sW8j.png",
+    "role": "supporting",
+    "voiceActors": [
+      "isshin-chiba"
+    ]
+  },
+  {
+    "name": "Keith Dan Stinger",
+    "nameNative": "キース・ダン・スティンガー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28258-wL9F7lQda0or.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hikaru-midorikawa"
+    ]
+  },
+  {
+    "name": "Kogorou Mouri",
+    "nameNative": "毛利小五郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1746-5I4sBSeXvCKP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Kouichi Zenigata",
+    "nameNative": "銭形幸一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1048-GDlCKww1le0Q.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouichi-yamadera"
+    ]
+  },
+  {
+    "name": "Luciano Carnevale",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuo-kanao"
+    ]
+  },
+  {
+    "name": "Mitsuhiko Tsuburaya",
+    "nameNative": "円谷光彦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4252-eHo7i4WDIdQv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Miwako Satou",
+    "nameNative": "佐藤美和子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13975-0vSVf8z18ghU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "atsuko-yuya"
+    ]
+  },
+  {
+    "name": "Naeko Miike",
+    "nameNative": "三池苗子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55947-ev1aUF2sXyVp.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-tanaka"
+    ]
+  },
+  {
+    "name": "Ninzaburo Shiratori",
+    "nameNative": "白鳥任三郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9180-1pTQwiTDZOTj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Sonoko Suzuki",
+    "nameNative": "鈴木園子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1749-Jt3uRH7SRntc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-matsui"
+    ]
+  },
+  {
+    "name": "Wataru Takagi",
+    "nameNative": "高木渉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9421-q1USRmSvw7BF.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Yumi Miyamoto",
+    "nameNative": "宮本由美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28418-eP9a6vMUbl0k.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-sugimoto"
+    ]
+  }
+]

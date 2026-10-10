@@ -1,0 +1,17 @@
+[
+  {
+    "relation": "character",
+    "slug": "lupin-iii",
+    "title": "Lupin III"
+  },
+  {
+    "relation": "character",
+    "slug": "meitantei-conan",
+    "title": "Meitantei Conan"
+  },
+  {
+    "relation": "prequel",
+    "slug": "lupin-iii-vs-meitantei-conan",
+    "title": "Lupin III vs. Meitantei Conan"
+  }
+]
