@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Kaoru",
+    "nameNative": "カオル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138576-xbzfcgcRmQnw.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mikako-tabe"
+    ]
+  },
+  {
+    "name": "Kiiroitori",
+    "nameNative": "キイロイトリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138856-T1IVwwdilgoY.jpg",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Korilakkuma",
+    "nameNative": "コリラックマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138858-leVQcZ2IEuOg.png",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Rilakkuma",
+    "nameNative": "リラックマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138857-eKcJGcegU2C4.jpg",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Hayate",
+    "nameNative": "ハヤテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144362-FSoeZt80LB1N.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takayuki-yamada"
+    ]
+  },
+  {
+    "name": "Kaoru Haha",
+    "nameNative": "カオル母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144360-nJZ0tGzH3yoR.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-matsuno"
+    ]
+  },
+  {
+    "name": "Katou",
+    "nameNative": "加藤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144363-diY30lBLYKEe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-sugimoto"
+    ]
+  },
+  {
+    "name": "Obake-chan",
+    "nameNative": "オバケちゃん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144361-k8mI3oh9BS19.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuzuha-kobayashi"
+    ]
+  },
+  {
+    "name": "Sayu",
+    "nameNative": "サユ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139169-i3IwDY5qGv1r.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-kanazawa"
+    ]
+  },
+  {
+    "name": "Tokio",
+    "nameNative": "トキオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139170-QjH1FFRNHvRC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "souki-matsumoto"
+    ]
+  }
+]
