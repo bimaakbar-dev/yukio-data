@@ -1,0 +1,355 @@
+[
+  {
+    "name": "Dae-Wi Han",
+    "nameNative": "한대위",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143291-E0gdqrvHUWiP.png",
+    "role": "main",
+    "voiceActors": [
+      "kentarou-kumagai"
+    ]
+  },
+  {
+    "name": "Mi-Ra Yu",
+    "nameNative": "유미라",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153293-qepIpM9aw3nw.png",
+    "role": "main",
+    "voiceActors": [
+      "ayaka-oohashi"
+    ]
+  },
+  {
+    "name": "Mo-Ri Jin",
+    "nameNative": "진모리",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124136-mdvrdRyKVn4R.png",
+    "role": "main",
+    "voiceActors": [
+      "tatsumaru-tachibana"
+    ]
+  },
+  {
+    "name": "Announcer T",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175442-puHCauXxggqK.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Axley",
+    "nameNative": "엑슬리",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161468-Ku6BkgYi4mJl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tatsuhisa-suzuki"
+    ]
+  },
+  {
+    "name": "Bo-Ra Ma",
+    "nameNative": "마보라",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161455-y4hPlzqKhgXy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Bong-Chim Na",
+    "nameNative": "나봉침",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161461-FjpRlPJefWlh.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenyuu-horiuchi"
+    ]
+  },
+  {
+    "name": "Commissioner O",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175440-hRoHzKGx4F39.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-kaida"
+    ]
+  },
+  {
+    "name": "Commissioner P",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175439-DOyEoEv1OQVJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-tano"
+    ]
+  },
+  {
+    "name": "Commissioner Q",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175441-fs9d51Mh1njC.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-hamada"
+    ]
+  },
+  {
+    "name": "Commissioner R",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175443-jLBYEOob9BjD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chikahiro-kobayashi"
+    ]
+  },
+  {
+    "name": "Drake McDonald",
+    "nameNative": "드레이크 맥도널드",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161469-T0YHjpIOKxNR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Fei-Long",
+    "nameNative": "페이롱",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161466-Wsn2CpeoUEZa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Gam-Do Go",
+    "nameNative": "고감도",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177511-jbqPH38BtzWG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroyuki-yoshino"
+    ]
+  },
+  {
+    "name": "Gi-Ju Moon",
+    "nameNative": "문기주",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192024-iwNuT4zwFJuj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tarou-kiuchi"
+    ]
+  },
+  {
+    "name": "Han-Ryang Seo",
+    "nameNative": "서한량",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b184367-K5Oi8YzvYMeP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-yasumoto"
+    ]
+  },
+  {
+    "name": "Han-Sung Na",
+    "nameNative": "나한성",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15504-WGfCyTCg3R1v.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhito-nomura"
+    ]
+  },
+  {
+    "name": "Heal",
+    "nameNative": "힐",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189730-OshR6MqYKTu5.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Hyang-Dan Lee",
+    "nameNative": "이향단",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188993-NAtMbbHXAdr0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuki-shirato"
+    ]
+  },
+  {
+    "name": "Hyun-Bok Ryu",
+    "nameNative": "류현복",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15505-uzK4nFimdvQs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masayoshi-sugawara"
+    ]
+  },
+  {
+    "name": "Il-Pyo Park",
+    "nameNative": "박일표",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161450-eu1N5cZ5dGLv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Jae-San Jeon",
+    "nameNative": "전재산",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161458-07CUVp8ZM3g6.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-hashi"
+    ]
+  },
+  {
+    "name": "Jang-Mi Jang",
+    "nameNative": "장장미",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161454-4g322qv6kAE2.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuu-kobayashi"
+    ]
+  },
+  {
+    "name": "Je-Gal Taek",
+    "nameNative": "택제갈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161451-IYcfrVp2TtcV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenjirou-tsuda"
+    ]
+  },
+  {
+    "name": "Ju-Gok Jeon",
+    "nameNative": "전주곡",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161452-di2S2qcBttEu.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masahiro-yamanaka"
+    ]
+  },
+  {
+    "name": "Ma-Rin Lee",
+    "nameNative": "이마린",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161462-VmR4qvSotjw4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naomi-maruyama"
+    ]
+  },
+  {
+    "name": "Man-Duk Sang",
+    "nameNative": "상만덕",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161465-PhO2a3Z6iaNf.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuma-uchida"
+    ]
+  },
+  {
+    "name": "Man-Suk Kang",
+    "nameNative": "강만석",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175436-hvpyBpS04Y9Q.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Mi-Sun Ma",
+    "nameNative": "마미선",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161453-4PW0oxE5MSVZ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Mu-Jin Park",
+    "nameNative": "박무진",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161457-F1Px0a9djFyk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "Pum-Gwang Jin",
+    "nameNative": "진품광",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b254133-3lIsvev7tm7c.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Sai",
+    "nameNative": "사이",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189729-KEmvr6rbvgG9.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saku-minami"
+    ]
+  },
+  {
+    "name": "Saturn",
+    "nameNative": "세턴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161463-0j1UvUwUGRHt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-murakawa"
+    ]
+  },
+  {
+    "name": "Seung-Ah Park",
+    "nameNative": "박승아",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161456-UO1vrEJXsram.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Seung-Chul Baek",
+    "nameNative": "백승철",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b177044-blXpAa2OnrW4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuya-uchida"
+    ]
+  },
+  {
+    "name": "Seung-Yeon Park",
+    "nameNative": "박승연",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15506-odM8VABSzn6a.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-komatsu"
+    ]
+  },
+  {
+    "name": "Su-Mi Yu",
+    "nameNative": "유수미",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182865-vNYtwEJT3rpS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  },
+  {
+    "name": "Sung-Jin Oh",
+    "nameNative": "오성진",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182983-7DuQ7wCgLp9s.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Tae-Jin Jin",
+    "nameNative": "진태진",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181867-lPrLVaXs4TQy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-yamaji"
+    ]
+  },
+  {
+    "name": "Ungnyeo Kim",
+    "nameNative": "김웅녀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161460-mQsbB5iwfscy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "romi-park"
+    ]
+  }
+]
