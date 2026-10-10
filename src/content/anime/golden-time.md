@@ -14,7 +14,6 @@ season: fall
 year: 2013
 episodes: 24
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "2013-10-04"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 7.5
-  # scoredBy: # edit manual
 
 genres:
   - drama
