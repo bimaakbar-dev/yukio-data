@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Bulma",
+    "nameNative": "ブルマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b678-2YCe13F0tFos.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hiromi-tsuru"
+    ]
+  },
+  {
+    "name": "Gokuu Son",
+    "nameNative": "孫悟空",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/246-wsRRr6z1kii8.png",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Chao",
+    "nameNative": "チャオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331322-XbF5Tcg66NQk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuriko-yamamoto"
+    ]
+  },
+  {
+    "name": "Fukei",
+    "nameNative": "婦警",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331321-nTd96UMckZ3K.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mami-koyama"
+    ]
+  },
+  {
+    "name": "Kuririn",
+    "nameNative": "クリリン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2159-qtEuMYyOUkwY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-tanaka"
+    ]
+  },
+  {
+    "name": "Muten Roushi",
+    "nameNative": "武天老師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6167-aMPt1bHf5YbV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouhei-miyauchi"
+    ]
+  },
+  {
+    "name": "Oolong",
+    "nameNative": "ウーロン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2108.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoki-tatsuta"
+    ]
+  },
+  {
+    "name": "Pu'ar",
+    "nameNative": "プーアル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b677-PTNZaPeuV1Dx.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-watanabe"
+    ]
+  },
+  {
+    "name": "Sanzoku Kuma",
+    "nameNative": "山賊熊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2115.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takahiko-sakaguma"
+    ]
+  },
+  {
+    "name": "Suno",
+    "nameNative": "スノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2095.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-watanabe"
+    ]
+  },
+  {
+    "name": "Yamcha",
+    "nameNative": "ヤムチャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4014-of2ONLvA7T8p.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-furuya"
+    ]
+  }
+]
