@@ -14,7 +14,6 @@ season: spring
 year: 1989
 episodes: 291
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "1989-04-26"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 8.1
-  # scoredBy: # edit manual
 
 genres:
   - action
@@ -36,7 +34,6 @@ studios:
 
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/813-03ZLvWJgR6Wd.jpg"
-# trailer: # edit manual
 
 draft: false
 ---
