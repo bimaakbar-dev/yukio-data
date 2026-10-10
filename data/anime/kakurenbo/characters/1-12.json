@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Hikora",
+    "nameNative": "ヒコラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10450.jpg",
+    "role": "main",
+    "voiceActors": [
+      "junko-takeuchi"
+    ]
+  },
+  {
+    "name": "Inmu",
+    "nameNative": "インム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10453.jpg",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Noshiga",
+    "nameNative": "ノシガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10455.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ryou-naitou"
+    ]
+  },
+  {
+    "name": "Sorincha",
+    "nameNative": "ソリンチャ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10452.jpg",
+    "role": "main",
+    "voiceActors": [
+      "masami-suzuki"
+    ]
+  },
+  {
+    "name": "Suku",
+    "nameNative": "スク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6472.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akiko-kobayashi"
+    ]
+  },
+  {
+    "name": "Tachiji",
+    "nameNative": "タチジ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10456.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mika-ishibashi"
+    ]
+  },
+  {
+    "name": "Yaimao",
+    "nameNative": "ヤイマオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10451.jpg",
+    "role": "main",
+    "voiceActors": [
+      "makoto-ueki"
+    ]
+  },
+  {
+    "name": "Yanku",
+    "nameNative": "ヤンク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10454.jpg",
+    "role": "main",
+    "voiceActors": []
+  },
+  {
+    "name": "Aburatori",
+    "nameNative": "油取り",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10459.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Chitori",
+    "nameNative": "血取り",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10458.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kimotori",
+    "nameNative": "肝取り",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10457.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Kotori",
+    "nameNative": "子取り",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/10460.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  }
+]
