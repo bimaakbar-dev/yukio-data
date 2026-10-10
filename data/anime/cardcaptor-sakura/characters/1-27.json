@@ -1,0 +1,248 @@
+[
+  {
+    "name": "Cerberus",
+    "nameNative": "ケルベロス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2897-Ckmv1Y2i9hZZ.jpg",
+    "role": "main",
+    "voiceActors": [
+      "aya-hisakawa",
+      "masaya-onosaka"
+    ]
+  },
+  {
+    "name": "Sakura Kinomoto",
+    "nameNative": "木之本さくら",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2671-DflaemZz0xJo.png",
+    "role": "main",
+    "voiceActors": [
+      "sakura-tange"
+    ]
+  },
+  {
+    "name": "Tomoyo Daidouji",
+    "nameNative": "大道寺知世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3120-oZ4uB6NX5ReK.png",
+    "role": "main",
+    "voiceActors": [
+      "junko-iwao"
+    ]
+  },
+  {
+    "name": "Xiaolang Li",
+    "nameNative": "李小狼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3029-urpwynZhFdbi.jpg",
+    "role": "main",
+    "voiceActors": [
+      "motoko-kumai"
+    ]
+  },
+  {
+    "name": "Chiharu Mihara",
+    "nameNative": "三原千春",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7134-TbQGcDJL57Kt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miwa-matsumoto"
+    ]
+  },
+  {
+    "name": "Clow Reed",
+    "nameNative": "クロウ・リード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3612.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuo-hayashi"
+    ]
+  },
+  {
+    "name": "Eriol Hiiragizawa",
+    "nameNative": "柊沢エリオル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3456-zuOlvxijKqkB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomu-sasaki"
+    ]
+  },
+  {
+    "name": "Fujitaka Kinomoto",
+    "nameNative": "木之本藤隆",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3614-1RivUAINlQi0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-tanaka"
+    ]
+  },
+  {
+    "name": "Kaho Mizuki",
+    "nameNative": "観月歌帆",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3616-ubzeJlpAiSij.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emi-shinohara"
+    ]
+  },
+  {
+    "name": "Maki Matsumoto",
+    "nameNative": "松本真樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50347-GxRjg21Evcdv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kotono-mitsuishi"
+    ]
+  },
+  {
+    "name": "Masaki Amamiya",
+    "nameNative": "雨宮真嬉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b285725-e2tJUQieXZbO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "osamu-saka"
+    ]
+  },
+  {
+    "name": "Meiling Li",
+    "nameNative": "李苺鈴",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6768-o5qxlO8O8HIa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Nadeshiko Kinomoto",
+    "nameNative": "木之本撫子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3615-hLaXEz5IOHrQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-minaguchi"
+    ]
+  },
+  {
+    "name": "Nakuru Akizuki",
+    "nameNative": "秋月奈久留",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3617-dBVAoa2mSEn3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouka-yuzuki"
+    ]
+  },
+  {
+    "name": "Naoko Yanagisawa",
+    "nameNative": "柳沢奈緒子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7139-gAVwX8aqsnYG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "emi-motoi"
+    ]
+  },
+  {
+    "name": "Rika Sasaki",
+    "nameNative": "佐々木利佳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5771-f3fntF73nAPk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoko-kawakami"
+    ]
+  },
+  {
+    "name": "Shouko Tsujitani",
+    "nameNative": "辻谷彰子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b285726-BEVGD8Bt7GGo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "michiko-neya"
+    ]
+  },
+  {
+    "name": "Sonomi Daidouji",
+    "nameNative": "大道寺園美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29244-A3EHkGP5vyRL.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miki-itou"
+    ]
+  },
+  {
+    "name": "Spinel Sun",
+    "nameNative": "スピネル・サン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3618.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi",
+      "yumi-touma"
+    ]
+  },
+  {
+    "name": "Takashi Yamazaki",
+    "nameNative": "山崎貴史",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7138-pya3EAEmNJap.png",
+    "role": "supporting",
+    "voiceActors": [
+      "issei-miyazaki"
+    ]
+  },
+  {
+    "name": "The Mirror",
+    "nameNative": "ミラー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295055-fRJjdK0DX3AA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Touya Kinomoto",
+    "nameNative": "木之本桃矢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3076-cc4uGPnxp3aI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-seki"
+    ]
+  },
+  {
+    "name": "Wei Wang",
+    "nameNative": "偉望",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n32625-2QMATMl40bV1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "motomu-kiyokawa"
+    ]
+  },
+  {
+    "name": "Yoshiyuki Terada",
+    "nameNative": "寺田良幸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11546-FoYNT8rKokUt.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuyuki-konishi",
+      "tooru-furusawa"
+    ]
+  },
+  {
+    "name": "Yue",
+    "nameNative": "月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3613-T0NHyrgxfyYb.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-ogata"
+    ]
+  },
+  {
+    "name": "Yukito Tsukishiro",
+    "nameNative": "月城雪兎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/3077.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-ogata"
+    ]
+  },
+  {
+    "name": "Yuuki Tachibana",
+    "nameNative": "橘優希",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/8874.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "taeko-kawata"
+    ]
+  }
+]
