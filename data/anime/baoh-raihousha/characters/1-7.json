@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Dr. Kasuminome",
+    "nameNative": "霞の目",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28319.jpg",
+    "role": "main",
+    "voiceActors": [
+      "ichirou-nagai"
+    ]
+  },
+  {
+    "name": "Ikurou Hashizawa",
+    "nameNative": "橋沢育朗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28317-lDTBHB46gN5T.png",
+    "role": "main",
+    "voiceActors": [
+      "hideyuki-hori"
+    ]
+  },
+  {
+    "name": "Sumire",
+    "nameNative": "スミレ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28318-RtyYCH2lHBxX.png",
+    "role": "main",
+    "voiceActors": [
+      "noriko-hidaka"
+    ]
+  },
+  {
+    "name": "Dordo",
+    "nameNative": "ドルド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28320.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shuuichi-ikeda"
+    ]
+  },
+  {
+    "name": "Number 22",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Sophine",
+    "nameNative": "ソフィヌ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28322.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "you-inoue"
+    ]
+  },
+  {
+    "name": "Walken",
+    "nameNative": "ウォーケン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28321.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusaku-yara"
+    ]
+  }
+]
