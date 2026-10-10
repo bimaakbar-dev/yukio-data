@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Kenshirou",
+    "nameNative": "ケンシロウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2511-I5ff3jioC5Ze.jpg",
+    "role": "main",
+    "voiceActors": [
+      "akira-kamiya"
+    ]
+  },
+  {
+    "name": "Lin",
+    "nameNative": "リン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17906-N5UxLPEw0SBe.png",
+    "role": "main",
+    "voiceActors": [
+      "miina-tominaga"
+    ]
+  },
+  {
+    "name": "Shachi",
+    "nameNative": "シャチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13953-hdyTT1OJkVO2.jpg",
+    "role": "main",
+    "voiceActors": [
+      "hirotaka-suzuoki"
+    ]
+  },
+  {
+    "name": "Akashachi",
+    "nameNative": "赤鯱",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52655.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-gouri"
+    ]
+  },
+  {
+    "name": "Bat",
+    "nameNative": "バット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17907-Ap7Lb80fwbCb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "keiichi-nanba"
+    ]
+  },
+  {
+    "name": "Ein",
+    "nameNative": "アイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b26895-SKJ5Q9lHd8Qw.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ken-yamaguchi"
+    ]
+  },
+  {
+    "name": "Falco",
+    "nameNative": "ファルコ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64179-AFlHPgFh228u.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hideyuki-tanaka"
+    ]
+  },
+  {
+    "name": "Han",
+    "nameNative": "ハン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13952-OHICTBUbCExU.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-totani"
+    ]
+  },
+  {
+    "name": "Hyoh",
+    "nameNative": "ヒョウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13951-vi5tnaJVpvkx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinji-ogawa",
+      "ryou-horikawa"
+    ]
+  },
+  {
+    "name": "Jukei",
+    "nameNative": "ジュウケイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13955-4yt8j8OAZSaS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuji-mori",
+      "kouhei-miyauchi"
+    ]
+  },
+  {
+    "name": "Kaioh",
+    "nameNative": "カイオウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13950-P833EBkPAnos.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-utsumi",
+      "masaaki-ookura"
+    ]
+  },
+  {
+    "name": "Kuro-Yasha",
+    "nameNative": "黒夜叉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13954-Bf5teARJPzYH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shigeru-chiba"
+    ]
+  },
+  {
+    "name": "Leia",
+    "nameNative": "レイア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20376-HPTkfINnayCZ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masako-katsuki"
+    ]
+  },
+  {
+    "name": "Lui",
+    "nameNative": "ルイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/26261.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshino-takamori"
+    ]
+  },
+  {
+    "name": "Raoh",
+    "nameNative": "ラオウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8738-0Ig51QXoeLBW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuo-tobita",
+      "kenji-utsumi"
+    ]
+  },
+  {
+    "name": "Rihaku",
+    "nameNative": "海のリハク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/17902.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-aono"
+    ]
+  },
+  {
+    "name": "Rock",
+    "nameNative": "ロック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/67817.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "masashi-hironaka"
+    ]
+  },
+  {
+    "name": "Sayaka",
+    "nameNative": "サヤカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/52653.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "gara-takashima"
+    ]
+  },
+  {
+    "name": "Tao",
+    "nameNative": "タオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/33773.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nozomu-sasaki"
+    ]
+  },
+  {
+    "name": "Yuria",
+    "nameNative": "ユリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17982-kmFvPSR6VbD7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuriko-yamamoto"
+    ]
+  }
+]
