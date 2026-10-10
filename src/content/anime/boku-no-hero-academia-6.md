@@ -14,7 +14,6 @@ season: fall
 year: 2022
 episodes: 25
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "2022-10-01"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 8.2
-  # scoredBy: # edit manual
 
 genres:
   - action
