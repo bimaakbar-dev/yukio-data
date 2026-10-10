@@ -1,0 +1,211 @@
+[
+  {
+    "name": "Conan Edogawa",
+    "nameNative": "江戸川コナン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1742-NiV278NBFOvZ.png",
+    "role": "main",
+    "voiceActors": [
+      "minami-takayama",
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Kaito Kuroba",
+    "nameNative": "黒羽快斗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1747-LYyYIvIZIdnE.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kappei-yamaguchi"
+    ]
+  },
+  {
+    "name": "Ai Haibara",
+    "nameNative": "灰原哀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1743-yw1FloPUI7jO.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  },
+  {
+    "name": "Ayumi Yoshida",
+    "nameNative": "吉田歩美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4228-c6vBLrG3AGdN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukiko-iwai"
+    ]
+  },
+  {
+    "name": "Charlie",
+    "nameNative": "チャーリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230109-G4eI7zM4K2zG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-sakuya"
+    ]
+  },
+  {
+    "name": "Genta Kojima",
+    "nameNative": "小嶋元太",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4251-CK1ibFjPW7Kx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wataru-takagi"
+    ]
+  },
+  {
+    "name": "Ginzo Nakamori",
+    "nameNative": "中森銀三",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13973-0RmL2qQY0xxI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Hideo Haraguchi",
+    "nameNative": "原口秀夫",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230113-EyEuNzkHWGSl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hidekatsu-shibata"
+    ]
+  },
+  {
+    "name": "Hiroshi Agasa",
+    "nameNative": "阿笠博士",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4162-lDyKQxlzEXcj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenichi-ogata"
+    ]
+  },
+  {
+    "name": "Ishimine Taizou",
+    "nameNative": "石嶺泰三",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230107-xGukyRgKICEG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Jirokichi Suzuki",
+    "nameNative": "鈴木次郎吉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30357-6I4KYyaR8yc1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousei-tomita"
+    ]
+  },
+  {
+    "name": "Juzo Megure",
+    "nameNative": "目暮十三",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4253.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "chafuurin"
+    ]
+  },
+  {
+    "name": "Keiko Anderson",
+    "nameNative": "圭子アンダーンン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230100-EMv3Q5XZqe7y.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshiko-sakakibara"
+    ]
+  },
+  {
+    "name": "Kogorou Mouri",
+    "nameNative": "毛利小五郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1746-5I4sBSeXvCKP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rikiya-koyama"
+    ]
+  },
+  {
+    "name": "Kouji Azuma",
+    "nameNative": "東幸二",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230104-GNhfEjdL5eLI.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-isobe"
+    ]
+  },
+  {
+    "name": "Kounosuke Jii",
+    "nameNative": "寺井黄之助",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34111-RNQNgdHztMmF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akio-suyama"
+    ]
+  },
+  {
+    "name": "Kumiko Kishi",
+    "nameNative": "岸久美子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230106-ub2yf3o9juSL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukana"
+    ]
+  },
+  {
+    "name": "Mitsuhiko Tsuburaya",
+    "nameNative": "円谷光彦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4252-eHo7i4WDIdQv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ikue-ootani"
+    ]
+  },
+  {
+    "name": "Natsumi Miyadai",
+    "nameNative": "宮台なつみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230102-T7XKe6HHmmkX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nana-eikura"
+    ]
+  },
+  {
+    "name": "Ran Mouri",
+    "nameNative": "毛利蘭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1748-j3PdfbQruuOV.png",
+    "role": "supporting",
+    "voiceActors": [
+      "wakana-yamazaki"
+    ]
+  },
+  {
+    "name": "Sonoko Suzuki",
+    "nameNative": "鈴木園子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1749-Jt3uRH7SRntc.png",
+    "role": "supporting",
+    "voiceActors": [
+      "naoko-matsui"
+    ]
+  },
+  {
+    "name": "Umeno",
+    "nameNative": "ウメノ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230111-1OoLi1A2FcqR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "toshiko-sawada",
+      "yuuko-minaguchi"
+    ]
+  },
+  {
+    "name": "Zengo Gotou",
+    "nameNative": "後藤善悟",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230114-bzqZ8bg3oAhW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taiten-kusunoki"
+    ]
+  }
+]
