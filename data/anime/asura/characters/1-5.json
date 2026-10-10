@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Asura",
+    "nameNative": "アシュラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81195-wqpf34J9Kt3z.png",
+    "role": "main",
+    "voiceActors": [
+      "masako-nozawa"
+    ]
+  },
+  {
+    "name": "Houshi",
+    "nameNative": "法師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81197.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kinya-kitaoji"
+    ]
+  },
+  {
+    "name": "Jitou",
+    "nameNative": "地頭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81199.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tesshou-genda"
+    ]
+  },
+  {
+    "name": "Shichirou",
+    "nameNative": "七郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81201.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroaki-hirata"
+    ]
+  },
+  {
+    "name": "Wakasa",
+    "nameNative": "若狭",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/81203.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-hayashibara"
+    ]
+  }
+]
