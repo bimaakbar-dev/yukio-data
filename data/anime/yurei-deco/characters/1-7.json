@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Berry",
+    "nameNative": "ベリィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268368-GAQP26RXtjvT.png",
+    "role": "main",
+    "voiceActors": [
+      "mira-kawakatsu"
+    ]
+  },
+  {
+    "name": "Hack",
+    "nameNative": "ハック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268369-5ycvS0eVX1WV.png",
+    "role": "main",
+    "voiceActors": [
+      "anna-nagase"
+    ]
+  },
+  {
+    "name": "Finn",
+    "nameNative": "フィン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278594-RxTSHKBg9LuF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-irino"
+    ]
+  },
+  {
+    "name": "Hank",
+    "nameNative": "ハンク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278595-rRBc7Q7IjVTU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "setsuji-satou"
+    ]
+  },
+  {
+    "name": "Madam 44",
+    "nameNative": "マダム44",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278596-KwkxpWgD0yv5.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayuri-sadaoka"
+    ]
+  },
+  {
+    "name": "Mister Watson",
+    "nameNative": "ミスターワトソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278649-J46CBhzhhfIJ.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Smiley",
+    "nameNative": "スマイリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278597-UKQlfcnl78qN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya"
+    ]
+  }
+]
