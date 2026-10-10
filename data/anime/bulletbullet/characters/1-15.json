@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Gear",
+    "nameNative": "ギア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358700-3SHcgd1ibjaQ.png",
+    "role": "main",
+    "voiceActors": [
+      "marina-inoue"
+    ]
+  },
+  {
+    "name": "Afternoontea",
+    "nameNative": "アフタヌーンティー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363328-vjVqGEU7jKxE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-kakuma"
+    ]
+  },
+  {
+    "name": "Barrel",
+    "nameNative": "バレル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358703-mzqAIKkF9Yq4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Batting Center Saitou",
+    "nameNative": "バッティングセンター斎藤",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363326-Ucx4zgPSvr7B.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichi-nakamura"
+    ]
+  },
+  {
+    "name": "Breakfast",
+    "nameNative": "ブレックファースト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363324-axPkWlv7jJjz.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshihisa-kawahara"
+    ]
+  },
+  {
+    "name": "Brunch",
+    "nameNative": "ブランチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363325-TNL26GXPanq1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mayumi-shintani"
+    ]
+  },
+  {
+    "name": "Destroinu",
+    "nameNative": "デストロ犬",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363330-uPiE6GwGXqed.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hironori-kondou"
+    ]
+  },
+  {
+    "name": "Dinner",
+    "nameNative": "ディナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363331-vWPysrq2nYaY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-orikasa"
+    ]
+  },
+  {
+    "name": "Lunch",
+    "nameNative": "ランチ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363327-nW6bsdq8gjal.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nao-tamura"
+    ]
+  },
+  {
+    "name": "Lynn",
+    "nameNative": "リン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358705-IbHmKHoaUBTY.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-wakai"
+    ]
+  },
+  {
+    "name": "Noah",
+    "nameNative": "ノア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358702-I4T26JGhMV8J.png",
+    "role": "supporting",
+    "voiceActors": [
+      "asami-seto"
+    ]
+  },
+  {
+    "name": "Qu-0213",
+    "nameNative": "キューゼロニーイチサン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358706-c5haKqqFlRc4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rie-kugimiya",
+      "kana-hanazawa",
+      "tomokazu-seki",
+      "ai-orikasa"
+    ]
+  },
+  {
+    "name": "Shirokuma",
+    "nameNative": "シロクマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358701-4N1qJ9Ls5n9U.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiro-yamaji"
+    ]
+  },
+  {
+    "name": "Sushimaru Tempura",
+    "nameNative": "天麩羅寿司丸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363329-AuqRgdNflx5u.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-kamio"
+    ]
+  },
+  {
+    "name": "Wheel",
+    "nameNative": "ウィール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358704-5wnkFaUPFqH9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takamasa-mogi"
+    ]
+  }
+]
