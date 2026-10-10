@@ -1,0 +1,86 @@
+[
+  {
+    "number": 1,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Z0l2eXZ1MXFkMXlJTnBWTit3Yjh6cEpGck1nZThmVHFNenNBaW9vanJHQT0="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=NjFLUGh4WGF6NzdZMkM0eG5wTFk3RTFrcXRURDYzYURvbGhXbm5MUEpMOD0="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=dVA4eHdQaFR4WU5SNHI4Z3d0dndTYjdSOE1xYlhJcnRhYzhGay9YRGtPYz0="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=a3RLMnZ4TTdiMzlzdUlJd3RROHN1OTVHMnZXSjRsa2xiWWpGc1FZd1g0UT0="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=NGdJTFNrNjNzZjFVRFM1aG56WUxsTXBkcyttenZUb25sN3IrSmp2a24xcz0="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Yi9zUm1URzdtdXoxU1ozVzBxVG0rL1JZYUFQVlh2K3VFYzhhVjdBSlBNOD0="
+          }
+        ]
+      }
+    ]
+  }
+]
