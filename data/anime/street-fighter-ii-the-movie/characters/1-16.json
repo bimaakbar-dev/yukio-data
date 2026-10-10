@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Chun-Li",
+    "nameNative": "チュンリー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5165-g0Vo7XosHh4I.png",
+    "role": "main",
+    "voiceActors": [
+      "miki-fujitani"
+    ]
+  },
+  {
+    "name": "Guile",
+    "nameNative": "ガイル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9312-I1FafoKpC5R7.png",
+    "role": "main",
+    "voiceActors": [
+      "masane-tsukayama"
+    ]
+  },
+  {
+    "name": "Ken Masters",
+    "nameNative": "ケン・マスターズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9313-T4jq0jGXmmyN.png",
+    "role": "main",
+    "voiceActors": [
+      "kenji-haga"
+    ]
+  },
+  {
+    "name": "Ryuu",
+    "nameNative": "リュウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6723-KL01Q7pi0nc8.png",
+    "role": "main",
+    "voiceActors": [
+      "koujirou-shimizu"
+    ]
+  },
+  {
+    "name": "Balrog",
+    "nameNative": "バルログ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9479-FbaGBgIyflmv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaneto-shiozawa"
+    ]
+  },
+  {
+    "name": "Blanka",
+    "nameNative": "ブランカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b246538-PwPnMI0ghNjh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "unshou-ishizuka"
+    ]
+  },
+  {
+    "name": "Cammy",
+    "nameNative": "キャミィ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9915-VZKb8TQwdYAn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "youko-sasaki"
+    ]
+  },
+  {
+    "name": "Dee Jay",
+    "nameNative": "ディージェイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9476-V85hmgGNn8LQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ginzou-matsuo"
+    ]
+  },
+  {
+    "name": "Dhalsim",
+    "nameNative": "ダルシム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9478-48r5X2JVhzTM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukimasa-kishino"
+    ]
+  },
+  {
+    "name": "Edmond Honda",
+    "nameNative": "エドモンド本田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9477-JsbowUET2qKe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-gouri"
+    ]
+  },
+  {
+    "name": "Eliza Masters",
+    "nameNative": "イライザ・マスターズ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19622-vMM2DZAsXROw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-tsuru"
+    ]
+  },
+  {
+    "name": "Fei-Long",
+    "nameNative": "飛龍",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16914-B2eSldGP6nDo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masakatsu-funaki"
+    ]
+  },
+  {
+    "name": "Mike Bison",
+    "nameNative": "マイク・バイソン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188685-FyhSixy0ojdH.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "jouji-nakata"
+    ]
+  },
+  {
+    "name": "Sagat",
+    "nameNative": "サガット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9480-GB5eZ2B9ZRKs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shigezou-sasaoka"
+    ]
+  },
+  {
+    "name": "Vega",
+    "nameNative": "ベガ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9311-Wxb7JpEC55Qn.png",
+    "role": "supporting",
+    "voiceActors": [
+      "takeshi-kusaka"
+    ]
+  },
+  {
+    "name": "Zangief",
+    "nameNative": "ザンギエフ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9317-gmNxaVNfqvDX.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsuo-kanao"
+    ]
+  }
+]
