@@ -19,14 +19,10 @@ function parseFrontmatter(content) {
 }
 
 function getId(fm, name) {
-  for (const [k, v] of Object.entries(fm)) {
-    if (k.toLowerCase() === name.toLowerCase()) {
-      const s = String(v).trim();
-      if (!s || s === 'null' || s === 'undefined') return null;
-      return s;
-    }
-  }
-  return null;
+  const v = fm[name];
+  if (!v) return null;
+  const s = String(v).trim();
+  return s && s !== 'null' && s !== 'undefined' ? s : null;
 }
 
 function normalizeTitle(s) {
@@ -39,82 +35,112 @@ function normalizeTitle(s) {
 }
 
 async function main() {
+  const t0 = Date.now();
   const files = (await fs.readdir(MD_DIR)).filter((f) => f.endsWith('.md'));
-  const entries = [];
+  console.log(`Total MD: ${files.length}`);
 
-  for (const file of files) {
-    const content = await fs.readFile(path.join(MD_DIR, file), 'utf8');
-    const fm = parseFrontmatter(content);
-    entries.push({
-      file,
-      slug: file.replace(/\.md$/, ''),
-      malId: getId(fm, 'malId'),
-      anilistId: getId(fm, 'anilistId'),
-      kitsuId: getId(fm, 'kitsuId'),
-      title: fm.title || null,
-      titleEnglish: fm.titleEnglish || null,
-      titleNative: fm.titleNative || null,
-      type: fm.type || null,
-      year: fm.year || null,
-      episodes: fm.episodes || null,
-    });
+  // === 1. Baca semua file secara paralel (batched) ===
+  const entries = new Array(files.length);
+  const BATCH = 200;
+
+  for (let i = 0; i < files.length; i += BATCH) {
+    const slice = files.slice(i, i + BATCH);
+    const results = await Promise.all(
+      slice.map(async (file) => {
+        const content = await fs.readFile(path.join(MD_DIR, file), 'utf8');
+        const fm = parseFrontmatter(content);
+        return {
+          file,
+          slug: file.replace(/\.md$/, ''),
+          malId: getId(fm, 'malId'),
+          anilistId: getId(fm, 'anilistId'),
+          kitsuId: getId(fm, 'kitsuId'),
+          title: fm.title || null,
+          titleEnglish: fm.titleEnglish || null,
+          titleNative: fm.titleNative || null,
+          type: fm.type || null,
+          year: fm.year || null,
+          episodes: fm.episodes || null,
+        };
+      })
+    );
+    for (let k = 0; k < slice.length; k++) {
+      entries[i + k] = results[k];
+    }
+  }
+  console.log(`Baca file: ${Date.now() - t0} ms`);
+
+  // === 2. Precompute normalized titles (sekali saja per entry) ===
+  for (const e of entries) {
+    e._norms = [
+      e.title && normalizeTitle(e.title),
+      e.titleEnglish && normalizeTitle(e.titleEnglish),
+      e.titleNative && normalizeTitle(e.titleNative),
+    ].filter(Boolean);
   }
 
-  console.log(`Total MD: ${entries.length}\n`);
-
-  // === Lapis 1-3: duplikat by ID ===
-  const byField = (field) => {
+  // === 3. Group by ID (O(n)) ===
+  const groupBy = (field) => {
     const map = new Map();
     for (const e of entries) {
       const v = e[field];
       if (!v) continue;
-      if (!map.has(v)) map.set(v, []);
-      map.get(v).push(e);
+      let arr = map.get(v);
+      if (!arr) { arr = []; map.set(v, arr); }
+      arr.push(e);
     }
     return [...map.entries()].filter(([, list]) => list.length > 1);
   };
 
-  const dupMal = byField('malId');
-  const dupAni = byField('anilistId');
-  const dupKit = byField('kitsuId');
+  const dupMal = groupBy('malId');
+  const dupAni = groupBy('anilistId');
+  const dupKit = groupBy('kitsuId');
+  console.log(`Group by ID: ${Date.now() - t0} ms`);
 
-  // === Lapis 4: duplikat by title ===
-  // Bandingkan semua pasangan, pakai title + titleEnglish + titleNative
-  const titleDupes = [];
-  const seen = new Set();
-
-  for (let i = 0; i < entries.length; i++) {
-    for (let j = i + 1; j < entries.length; j++) {
-      const a = entries[i];
-      const b = entries[j];
-
-      // Kalau sudah ketangkep by ID, skip
-      const key = [a.slug, b.slug].sort().join('|');
-      if (seen.has(key)) continue;
-
-      // Skip kalau salah satu ID-nya sama (sudah dilaporkan)
-      if (a.malId && b.malId && a.malId === b.malId) continue;
-      if (a.anilistId && b.anilistId && a.anilistId === b.anilistId) continue;
-      if (a.kitsuId && b.kitsuId && a.kitsuId === b.kitsuId) continue;
-
-      // Kumpulkan semua varian judul
-      const titlesA = [a.title, a.titleEnglish, a.titleNative]
-        .filter(Boolean).map(normalizeTitle).filter(Boolean);
-      const titlesB = [b.title, b.titleEnglish, b.titleNative]
-        .filter(Boolean).map(normalizeTitle).filter(Boolean);
-
-      // Cek apakah ada judul yang persis sama
-      const match = titlesA.find((t) => titlesB.includes(t));
-      if (match && match.length > 5) {
-        // Verifikasi: type harus sama (kalau ada)
-        if (a.type && b.type && a.type !== b.type) continue;
-        seen.add(key);
-        titleDupes.push({ a, b, matchedTitle: match });
-      }
+  // === 4. Group by title (O(n)) ===
+  // Bikin map: normalizedTitle → entry[], untuk SEMUA varian judul
+  const titleBuckets = new Map();
+  for (const e of entries) {
+    for (const norm of e._norms) {
+      if (norm.length <= 5) continue; // skip judul terlalu pendek
+      let arr = titleBuckets.get(norm);
+      if (!arr) { arr = []; titleBuckets.set(norm, arr); }
+      arr.push(e);
     }
   }
 
-  // === Output ===
+  // Kumpulkan pasangan dari bucket yang punya >1 entry
+  const pairSet = new Set();
+  const titleDupes = [];
+
+  for (const [norm, list] of titleBuckets) {
+    if (list.length < 2) continue;
+
+    for (let i = 0; i < list.length; i++) {
+      for (let j = i + 1; j < list.length; j++) {
+        const a = list[i];
+        const b = list[j];
+        if (a.slug === b.slug) continue;
+
+        // Skip kalau salah satu ID sama (sudah dilaporkan di grup ID)
+        if (a.malId && b.malId && a.malId === b.malId) continue;
+        if (a.anilistId && b.anilistId && a.anilistId === b.anilistId) continue;
+        if (a.kitsuId && b.kitsuId && a.kitsuId === b.kitsuId) continue;
+
+        // Verifikasi type sama (kalau ada)
+        if (a.type && b.type && a.type !== b.type) continue;
+
+        const key = a.slug < b.slug ? `${a.slug}|${b.slug}` : `${b.slug}|${a.slug}`;
+        if (pairSet.has(key)) continue;
+        pairSet.add(key);
+
+        titleDupes.push({ a, b, matchedTitle: norm });
+      }
+    }
+  }
+  console.log(`Group by title: ${Date.now() - t0} ms`);
+
+  // === 5. Output ===
   const lines = [];
   lines.push('=== Duplikat Berdasarkan ID & Judul ===');
   lines.push(`# Total MD: ${entries.length}`);
@@ -148,7 +174,6 @@ async function main() {
     }
   }
 
-  // === Tanpa ID sama sekali ===
   const noId = entries.filter((e) => !e.malId && !e.anilistId && !e.kitsuId);
   if (noId.length) {
     lines.push(`=== MD tanpa ID sama sekali (${noId.length}) ===`);
@@ -158,8 +183,8 @@ async function main() {
 
   const out = lines.join('\n');
   await fs.writeFile('duplicates-all.txt', out, 'utf8');
-  console.log(out);
-  console.log('\n✅ duplicates-all.txt');
+  console.log(`\nSelesai dalam ${Date.now() - t0} ms`);
+  console.log(`✅ duplicates-all.txt (${out.length} bytes)`);
 }
 
 main();
