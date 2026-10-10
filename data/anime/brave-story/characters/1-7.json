@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Cutts",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/66355.jpg",
+    "role": "main",
+    "voiceActors": [
+      "takako-tokiwa"
+    ]
+  },
+  {
+    "name": "Ki-Kima",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6802.jpg",
+    "role": "main",
+    "voiceActors": [
+      "you-oizumi"
+    ]
+  },
+  {
+    "name": "Miina",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/6485.jpg",
+    "role": "main",
+    "voiceActors": [
+      "chiwa-saitou"
+    ]
+  },
+  {
+    "name": "Mitsuru Ashikawa",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2454.jpg",
+    "role": "main",
+    "voiceActors": [
+      "eiji-wentz"
+    ]
+  },
+  {
+    "name": "Wataru Mitani",
+    "nameNative": "三谷亘",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/2453.jpg",
+    "role": "main",
+    "voiceActors": [
+      "miyuki-sawashiro",
+      "matsu-takako"
+    ]
+  },
+  {
+    "name": "Monk Rau",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28950.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shirou-itou"
+    ]
+  },
+  {
+    "name": "Mysterious Girl",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/28949.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ayako-kawasumi"
+    ]
+  }
+]
