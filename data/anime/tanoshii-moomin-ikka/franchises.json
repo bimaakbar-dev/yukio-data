@@ -1,0 +1,27 @@
+[
+  {
+    "relation": "alternative",
+    "slug": "muumin",
+    "title": "Muumin"
+  },
+  {
+    "relation": "alternative",
+    "slug": "muumin-1972",
+    "title": "Muumin (1972)"
+  },
+  {
+    "relation": "sequel",
+    "slug": "tanoshii-muumin-ikka-bouken-nikki",
+    "title": "Tanoshii Muumin Ikka Bouken Nikki"
+  },
+  {
+    "relation": "prequel",
+    "slug": "muumindani-no-suisei",
+    "title": "Muumindani no Suisei"
+  },
+  {
+    "relation": "character",
+    "slug": "ningen-ni-shiawase-ni-suru-ningen-teijin",
+    "title": "Ningen ni Shiawase ni suru Ningen, Teijin"
+  }
+]
