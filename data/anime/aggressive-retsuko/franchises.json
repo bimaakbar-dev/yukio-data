@@ -1,17 +1,37 @@
 [
   {
+    "relation": "other",
+    "slug": "hot-minute-aggretsuko",
+    "title": "Hot Minute: Aggretsuko"
+  },
+  {
     "relation": "alternative",
-    "slug": "aggressive-retsuko",
-    "title": "Aggressive Retsuko"
+    "slug": "aggressive-retsuko-ona",
+    "title": "Aggressive Retsuko (ONA)"
   },
   {
-    "relation": "sequel",
-    "slug": "aggressive-retsuko-we-wish-you-a-metal-christmas",
-    "title": "Aggressive Retsuko: We Wish You a Metal Christmas"
-  },
-  {
-    "relation": "sequel",
+    "relation": "alternative",
     "slug": "aggressive-retsuko-ona-2nd-season",
     "title": "Aggressive Retsuko (ONA) 2nd Season"
+  },
+  {
+    "relation": "alternative",
+    "slug": "aggressive-retsuko-ona-3rd-season",
+    "title": "Aggressive Retsuko (ONA) 3rd Season"
+  },
+  {
+    "relation": "character",
+    "slug": "otmgirls-no-yokiyoki-channel",
+    "title": "OTMGirls no Yokiyoki Channel"
+  },
+  {
+    "relation": "alternative",
+    "slug": "aggressive-retsuko-ona-4th-season",
+    "title": "Aggressive Retsuko (ONA) 4th Season"
+  },
+  {
+    "relation": "alternative",
+    "slug": "aggressive-retsuko-ona-5th-season",
+    "title": "Aggressive Retsuko (ONA) 5th Season"
   }
 ]
