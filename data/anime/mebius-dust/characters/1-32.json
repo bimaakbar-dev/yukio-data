@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Araki Tomori",
+    "nameNative": "松明 新樹",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b398636-5SRkS9Fw6E8K.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuto-takenaka"
+    ]
+  },
+  {
+    "name": "Olga Shiratori",
+    "nameNative": "白鳥織花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b398635-d4gtGilM2hNc.png",
+    "role": "main",
+    "voiceActors": [
+      "haruka-satou"
+    ]
+  },
+  {
+    "name": "Stella Tomori",
+    "nameNative": "松明ステラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b398637-qB8svxcXaa7k.png",
+    "role": "main",
+    "voiceActors": [
+      "nene-hieda"
+    ]
+  },
+  {
+    "name": "Ainojou Kamairi",
+    "nameNative": "釜煎藍之丞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b403305-gUdMYy5NUyuJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-nakamura"
+    ]
+  },
+  {
+    "name": "Anzu Karasu",
+    "nameNative": "唐臼杏子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b400908-wHUy8VN1e9EW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "rina-honizumi"
+    ]
+  },
+  {
+    "name": "Atsushi Aokaze",
+    "nameNative": "青風敦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401616-qz8jDfL3JqpS.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromichi-tezuka"
+    ]
+  },
+  {
+    "name": "Gengo Kakuriki",
+    "nameNative": "角力源午",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b403301-pJhyAEzsAzDe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-inomata"
+    ]
+  },
+  {
+    "name": "Haoyu Shi",
+    "nameNative": "石昊宇",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b404353-y0GGKscgde4U.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenshou-uesugi"
+    ]
+  },
+  {
+    "name": "Haruto Kagari",
+    "nameNative": "篝晴人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b400477-dutBaqBX8BOL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "souhei-horikane"
+    ]
+  },
+  {
+    "name": "Kai Kinami",
+    "nameNative": "曳波櫂",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b400474-njpfFV9MLl5i.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aoi-ichikawa"
+    ]
+  },
+  {
+    "name": "Katsuki Soga",
+    "nameNative": "曾我克輝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b400909-P2wpFPQDWqxq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-nakamura"
+    ]
+  },
+  {
+    "name": "Kei Tsurugi",
+    "nameNative": "劔螢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b400904-elAy3UbVIv93.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-oono"
+    ]
+  },
+  {
+    "name": "Kirara Misumiya",
+    "nameNative": "三角屋綺羅々",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401614-SfObCESK28AQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mari-hino"
+    ]
+  },
+  {
+    "name": "Kouhei Oonada",
+    "nameNative": "大灘虹平",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b403470-rK69OsFmcviD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kou-bonkobara"
+    ]
+  },
+  {
+    "name": "Kurusu Kotobuki",
+    "nameNative": "寿倶留守",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b400478-BJ3chZ4Q8fbN.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satsumi-matsuda"
+    ]
+  },
+  {
+    "name": "Kyouko Natsuduri",
+    "nameNative": "夏釣暁子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b400905-hahndNJKTAZG.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-fukuhara"
+    ]
+  },
+  {
+    "name": "Mao Amihoshi",
+    "nameNative": "網星磨央",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b403303-RJpegMHpOpCq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "reina-aoyama"
+    ]
+  },
+  {
+    "name": "Maria Shiokumi",
+    "nameNative": "塩汲マリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b400906-tLdlIrHTqfpW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sayaka-senbongi"
+    ]
+  },
+  {
+    "name": "Renji Kurumaza",
+    "nameNative": "車座連次",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b403300-RuyC0B05bw6s.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shinnosuke-tokudome"
+    ]
+  },
+  {
+    "name": "Shinri Yuda",
+    "nameNative": "湯田真理",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b400476-OVohgzHFMrsm.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maki-kawase"
+    ]
+  },
+  {
+    "name": "Shippo Marimo",
+    "nameNative": "しっぽまりも",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401611-qErVDIHLObnU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-tsuchida"
+    ]
+  },
+  {
+    "name": "Shirayuki Yakata",
+    "nameNative": "屋形白雪",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401613-yAC7WTcJP9nP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-hirohashi"
+    ]
+  },
+  {
+    "name": "Shousei Isora",
+    "nameNative": "五空照星",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b400475-CTHCBmqw0zUv.png",
+    "role": "supporting",
+    "voiceActors": [
+      "taito-ban"
+    ]
+  },
+  {
+    "name": "Sora Mera",
+    "nameNative": "女良そら",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b403467-zbZicBh6qWq0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kanon-amane"
+    ]
+  },
+  {
+    "name": "Spica Kotobuki",
+    "nameNative": "寿真珠",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b400479-SefqkuSW4f1t.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shiori-mikami"
+    ]
+  },
+  {
+    "name": "Suzaku Koganesawa",
+    "nameNative": "黄金澤朱雀",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b400907-E3olqUn337q4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayaka-atsuchi"
+    ]
+  },
+  {
+    "name": "Taiyou Kanokishi",
+    "nameNative": "彼岸太陽",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b403469-wDFhC7lTGS72.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shouta-hayama"
+    ]
+  },
+  {
+    "name": "Takara Tsubakura",
+    "nameNative": "津波倉蓮宝",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401615-cimXbaZszHyb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuki-kuwahara"
+    ]
+  },
+  {
+    "name": "Taketsune Horii",
+    "nameNative": "堀井焚恒",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b403302-xYjG7tRcAtgs.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ayato-morinaga"
+    ]
+  },
+  {
+    "name": "Tatsuto Himizu",
+    "nameNative": "干水龍門",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b403468-7L2IdGNKsMTq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "genta-nakamura"
+    ]
+  },
+  {
+    "name": "Tenrou Yakata",
+    "nameNative": "屋形天狼",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401612-19bV1cmXIGjP.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouhei-shioguchi"
+    ]
+  },
+  {
+    "name": "Yuuichi Kamado",
+    "nameNative": "竈悠一",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b403304-AOhCW1JzZZ2i.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouhei-shioguchi"
+    ]
+  }
+]
