@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Emirun",
+    "nameNative": "エミルン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393013-5xWKMfLaXSuh.png",
+    "role": "main",
+    "voiceActors": [
+      "tomoyo-kurosawa"
+    ]
+  },
+  {
+    "name": "Rex",
+    "nameNative": "レックス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393014-OdAgv6wrvaXj.png",
+    "role": "main",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Asuna Yuuki",
+    "nameNative": "結城明日奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png",
+    "role": "supporting",
+    "voiceActors": [
+      "haruka-tomatsu"
+    ]
+  },
+  {
+    "name": "Kazuto Kirigaya",
+    "nameNative": "桐ヶ谷和人",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  }
+]
