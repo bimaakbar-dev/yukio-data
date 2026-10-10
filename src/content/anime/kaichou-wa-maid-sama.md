@@ -14,7 +14,6 @@ season: spring
 year: 2010
 episodes: 26
 duration: 24
-# rating: # edit manual
 
 aired:
   from: "2010-04-02"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 7.7
-  # scoredBy: # edit manual
 
 genres:
   - comedy
@@ -34,7 +32,9 @@ studios:
 
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7054-GW4D7VAZG19W.png"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7054-iTfiX8juTvRV.jpg"
-# trailer: # edit manual
+
+addedAt: "2026-10-10T07:34:07.000Z"
+updatedAt: "2026-10-10T07:34:07.000Z"
 
 draft: false
 ---
