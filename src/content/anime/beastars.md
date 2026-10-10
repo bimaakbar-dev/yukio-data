@@ -14,7 +14,6 @@ season: fall
 year: 2019
 episodes: 12
 duration: 23
-# rating: # edit manual
 
 aired:
   from: "2019-10-10"
@@ -22,7 +21,6 @@ aired:
 
 stats:
   score: 7.6
-  # scoredBy: # edit manual
 
 genres:
   - drama
@@ -37,6 +35,9 @@ studios:
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107660-hgknnyaLchJW.png"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107660-AxwrzHkXzYYN.jpg"
 trailer: "n-35-JRzT7k"
+
+addedAt: "2026-10-10T07:39:06.212Z"
+updatedAt: "2026-10-10T07:39:06.212Z"
 
 draft: false
 ---
