@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Astolfo",
+    "nameNative": "アストルフォ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n79995-UtAWfXTwgTMf.jpg",
+    "role": "main",
+    "voiceActors": [
+      "rumi-ookubo"
+    ]
+  },
+  {
+    "name": "Jeanne  d'Arc",
+    "nameNative": "ジャンヌ・ダルク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67769-6TSfn8kz4KVf.jpg",
+    "role": "main",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Sieg",
+    "nameNative": "ジーク",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89923-YeZjSKL7NYnS.jpg",
+    "role": "main",
+    "voiceActors": [
+      "natsuki-hanae"
+    ]
+  },
+  {
+    "name": "Achilles",
+    "nameNative": "アキレウス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129412-HarnBxtTXG1z.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "makoto-furukawa"
+    ]
+  },
+  {
+    "name": "Atalanta",
+    "nameNative": "アタランテ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/89924-Z4xYcaYxmEZ7.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Caules Forvedge  Yggdmillennia",
+    "nameNative": "カウレス・フォルヴェッジ・ユグドミレニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131968-Lo85RXWOVWxo.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuusuke-kobayashi"
+    ]
+  },
+  {
+    "name": "Celenike Icecolle Yggdmillennia",
+    "nameNative": "セレニケ・アイスコル・ユグドミレニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122393-ImBJXlGcAWjo.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-ishigami"
+    ]
+  },
+  {
+    "name": "Chiron",
+    "nameNative": "ケイローン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129564-EbXYci7Vqpzz.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shunsuke-takeuchi"
+    ]
+  },
+  {
+    "name": "Darnic Prestone Yggdmillennia",
+    "nameNative": "ダーニック・プレストーン・ユグドミレニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122395-OKU9jcRGamo4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "nobuyuki-hiyama"
+    ]
+  },
+  {
+    "name": "Fiore Forvedge Yggdmillennia",
+    "nameNative": "フィオレ・フォルヴェッジ・ユグドミレニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122391-rH66b2Pwzy2t.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chinatsu-akasaki"
+    ]
+  },
+  {
+    "name": "Flatt  Escardos",
+    "nameNative": "フラット・エスカルドス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87319-t3o6viRp1ci4.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Frankenstein",
+    "nameNative": "フランケンシュタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129411-ODivzbiio6MQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-nonaka"
+    ]
+  },
+  {
+    "name": "Gilles de Rais",
+    "nameNative": "ジル・ド・レェ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16024-MZXEjshw6q6B.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-tsuruoka"
+    ]
+  },
+  {
+    "name": "Gordes Musik Yggdmillennia",
+    "nameNative": "ゴルド・ムジーク・ユグドミレニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122394-S52XJ7EgTGoJ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tooru-ookawa"
+    ]
+  },
+  {
+    "name": "Hagen",
+    "nameNative": "ハーゲン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263980-eZ9uiFOiA7Kq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "susumu-chiba"
+    ]
+  },
+  {
+    "name": "Heracles",
+    "nameNative": "ヘラクレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b504-2k7LldrHYSAP.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Jack the Ripper",
+    "nameNative": "ジャック・ザ・リッパー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55951-7uBzcKzN5tvf.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "sakura-tange"
+    ]
+  },
+  {
+    "name": "Justeaze Lizrich von Einzbern",
+    "nameNative": "ユスティーツァ・リズライヒ・フォン・アインツベルン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176941-NG0wG1tfJS18.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sanae-kobayashi"
+    ]
+  },
+  {
+    "name": "Kairi Shishigou",
+    "nameNative": "獅子劫界離",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122397-xfhrhGmpOx25.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kenji-nomura"
+    ]
+  },
+  {
+    "name": "Karna",
+    "nameNative": "カルナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120461-n2FsP6JfASZa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Kuro no Caster",
+    "nameNative": "黒のキャスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129565-ZO1vmJMc5Kjy.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mitsuru-miyamoto"
+    ]
+  },
+  {
+    "name": "Laeticia",
+    "nameNative": "レティシア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176939-qepu1rzQCMnV.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "maaya-sakamoto"
+    ]
+  },
+  {
+    "name": "Medea",
+    "nameNative": "メデイア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3440-134Ip9KiQeZL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ai-nonaka"
+    ]
+  },
+  {
+    "name": "Mordred Pendragon",
+    "nameNative": "モードレッド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55977-wqiEfiJUuEFw.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuki-sawashiro"
+    ]
+  },
+  {
+    "name": "Reika Rikudou",
+    "nameNative": "六導玲霞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122396-3Hg7l1TA4P18.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Rocco Belfeban",
+    "nameNative": "ロッコ・ベルフェバン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158552-zvT02LWmCNoN.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohisa-asou"
+    ]
+  },
+  {
+    "name": "Roche Frain Yggdmillennia",
+    "nameNative": "ロシェ・フレイン・ユグドミレニア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/122392-hANLZXc93OyB.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "emiri-katou"
+    ]
+  },
+  {
+    "name": "Semiramis",
+    "nameNative": "セミラミス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35596-KTzllg6135Up.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kei-shindou"
+    ]
+  },
+  {
+    "name": "Serge",
+    "nameNative": "セルジュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176940-3T35dwVo6sId.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroshi-naka"
+    ]
+  },
+  {
+    "name": "Shirou Tokisada Amakusa",
+    "nameNative": "天草四郎時貞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35603-YsTDbUZ55RJW.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouki-uchiyama"
+    ]
+  },
+  {
+    "name": "Siegfried",
+    "nameNative": "ジークフリート",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35609-MBiQVK3AxTSv.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junichi-suwabe"
+    ]
+  },
+  {
+    "name": "Spartacus",
+    "nameNative": "スパルタクス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129410-B1R1JTwZgDNQ.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-tsuruoka"
+    ]
+  },
+  {
+    "name": "Toole",
+    "nameNative": "トゥール",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176942-JHqGgsRN67Aa.png",
+    "role": "supporting",
+    "voiceActors": [
+      "minako-kotobuki"
+    ]
+  },
+  {
+    "name": "Victor Frankenstein",
+    "nameNative": "ヴィクター・フランケンシュタイン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263981-ZBzEEWk9pVJQ.png",
+    "role": "supporting",
+    "voiceActors": []
+  },
+  {
+    "name": "Vlad III",
+    "nameNative": "ヴラド三世",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/121137-AnD6fj9Z9r0R.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Waver Velvet",
+    "nameNative": "ウェイバー・ベルベット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16023-gfwOgU1743ff.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-namikawa"
+    ]
+  },
+  {
+    "name": "William  Shakespeare",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122798-zoECQiNGG8gl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  }
+]
