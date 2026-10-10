@@ -14,7 +14,7 @@ season: summer
 year: 2026
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2026-07-03"
@@ -39,6 +39,8 @@ trailer: "KYGgyQtSAdI"
 draft: false
 ---
 
-Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever? 
+Yani, seorang gadis berwujud kucing, memiliki kebiasaan merokok yang sangat buruk. Apartemennya dipenuhi dengan bau asap dan puntung rokok, serta sampah lainnya. Kebiasaan merokoknya sudah sangat mengganggu kehidupannya sehari-hari.
 
-(Source: Seven Seas Entertainment)
+Setiap kali Yani mencoba berhenti merokok, dia selalu kalah oleh keinginan untuk merokok lagi. Kebiasaan buruk ini membuatnya lemah dan tidak dapat menolak godaan untuk merokok. Pertanyaannya, apakah Yani akan pernah bisa mengubah kehidupannya dan meninggalkan kebiasaan merokoknya?
+
+Dengan kehidupan yang tidak teratur dan kebiasaan merokok yang kuat, Yani harus berjuang untuk mengubah dirinya dan meninggalkan kebiasaan buruknya. Apakah dia akan berhasil, atau akan terjebak dalam kebiasaan merokoknya selamanya?
