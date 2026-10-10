@@ -27,6 +27,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v
 trailer: "NNHxQJgZdbQ"
 
 draft: false
+addedAt: "2026-10-10"
+updatedAt: "2026-10-10"
 ---
 
 This is a story of four girls living in the "Dark Side" of Academy City.
