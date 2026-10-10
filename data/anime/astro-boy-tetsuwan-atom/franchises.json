@@ -1,0 +1,37 @@
+[
+  {
+    "relation": "alternative",
+    "slug": "tetsuwan-atom",
+    "title": "Tetsuwan Atom"
+  },
+  {
+    "relation": "alternative",
+    "slug": "tetsuwan-atom-1980",
+    "title": "Tetsuwan Atom (1980)"
+  },
+  {
+    "relation": "character",
+    "slug": "kyutai-panic-adventure",
+    "title": "Kyutai Panic Adventure!"
+  },
+  {
+    "relation": "side_story",
+    "slug": "tetsuwan-atom-ivan-no-wakusei-robot-to-ningen-no-yuujou",
+    "title": "Tetsuwan Atom: Ivan no Wakusei - Robot to Ningen no Yuujou"
+  },
+  {
+    "relation": "alternative",
+    "slug": "ravex-in-tezuka-world",
+    "title": "Ravex in Tezuka World"
+  },
+  {
+    "relation": "prequel",
+    "slug": "atom-the-beginning",
+    "title": "Atom: The Beginning"
+  },
+  {
+    "relation": "alternative",
+    "slug": "go-go-atom",
+    "title": "Go! Go! Atom"
+  }
+]
