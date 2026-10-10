@@ -1727,6 +1727,13 @@
     "defaultLanguage": "Japanese"
   },
   {
+    "id": "keito-okuyama",
+    "name": "Keito Okuyama",
+    "nameNative": "奥山敬人",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/120378-Y21ih2Nq1td0.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
     "id": "ken-akamatsu",
     "name": "Ken Akamatsu",
     "nameNative": "赤松健",
@@ -2255,6 +2262,13 @@
     "name": "Kikunosuke Toya",
     "nameNative": "戸谷菊之介",
     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n284463-w0qcBQXvlz3Z.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "kimeru",
+    "name": "Kimeru",
+    "nameNative": "きめる",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1109.jpg",
     "defaultLanguage": "Japanese"
   },
   {
