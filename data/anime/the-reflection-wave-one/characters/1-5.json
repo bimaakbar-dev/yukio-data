@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Eleanor Evans",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mariya-ise"
+    ]
+  },
+  {
+    "name": "Ian Izetti",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "main",
+    "voiceActors": [
+      "satoshi-mikami"
+    ]
+  },
+  {
+    "name": "Xon",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  },
+  {
+    "name": "Lisa Livington",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "satomi-hanamura"
+    ]
+  },
+  {
+    "name": "Stan Lee",
+    "nameNative": "スタン・リー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/31714.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomomichi-nishimura"
+    ]
+  }
+]
