@@ -1,0 +1,165 @@
+[
+  {
+    "name": "Haruhiko Ichijou",
+    "nameNative": "一条晴彦",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89033-GQ9CedEaa4JR.png",
+    "role": "main",
+    "voiceActors": [
+      "hiro-shimono",
+      "omi-minami"
+    ]
+  },
+  {
+    "name": "Koito Minase",
+    "nameNative": "水無瀬小糸",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89036-BIIEqhfriIcm.png",
+    "role": "main",
+    "voiceActors": [
+      "maaya-uchida"
+    ]
+  },
+  {
+    "name": "Mai Kawakami",
+    "nameNative": "川神舞",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89034-K6V63SfSuMjA.png",
+    "role": "main",
+    "voiceActors": [
+      "sumire-uesaka"
+    ]
+  },
+  {
+    "name": "Reina Izumi",
+    "nameNative": "和泉玲奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89035-51jssFRh0fgB.png",
+    "role": "main",
+    "voiceActors": [
+      "saori-hayami"
+    ]
+  },
+  {
+    "name": "Ruru",
+    "nameNative": "ルル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89499-cr8VzU9zUgF4.png",
+    "role": "main",
+    "voiceActors": [
+      "azusa-tadokoro"
+    ]
+  },
+  {
+    "name": "Albrecht",
+    "nameNative": "アルブレヒト",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348778-Cmhneo7uUQHL.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryoutarou-okiayu"
+    ]
+  },
+  {
+    "name": "Arina Samo",
+    "nameNative": "佐茂アリナ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348780-7VwOUyiLAfub.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-watada"
+    ]
+  },
+  {
+    "name": "Arisu Himeno",
+    "nameNative": "姫野アリス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332558-vvN0yW0RHfd9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kikuko-inoue"
+    ]
+  },
+  {
+    "name": "Ayumi Kitajima",
+    "nameNative": "北島亜弓",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348786-R5ojNJGfWNt9.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ami-koshimizu"
+    ]
+  },
+  {
+    "name": "Enigma",
+    "nameNative": "エニグマ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175787-BW0lPhJFrTK4.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Haruhiko no Haha",
+    "nameNative": "晴彦の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332559-4L9FcdcdRSZC.png",
+    "role": "supporting",
+    "voiceActors": [
+      "mai-nakahara"
+    ]
+  },
+  {
+    "name": "Kurumi Kumamakura",
+    "nameNative": "熊枕久瑠美",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89498-ps24ItjVWGC1.png",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  },
+  {
+    "name": "Majo no Phantom",
+    "nameNative": "魔女のファントム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203918-mUx2R59YpLlk.png",
+    "role": "supporting",
+    "voiceActors": [
+      "juri-nagatsuma"
+    ]
+  },
+  {
+    "name": "Marchosias",
+    "nameNative": "マルコシアス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348754-hk7puZjUxDXW.png",
+    "role": "supporting",
+    "voiceActors": [
+      "omi-minami"
+    ]
+  },
+  {
+    "name": "Reina no Chichi",
+    "nameNative": "玲奈の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348771-sM46gZwHQjfD.png",
+    "role": "supporting",
+    "voiceActors": [
+      "fumihiko-tachiki"
+    ]
+  },
+  {
+    "name": "Reina no Haha",
+    "nameNative": "玲奈の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348772-zxg43nj5lqGb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-hisakawa"
+    ]
+  },
+  {
+    "name": "Salmon Ou",
+    "nameNative": "サーモン王",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348779-RD9TQH6Noqbl.png",
+    "role": "supporting",
+    "voiceActors": [
+      "katsuhisa-houki"
+    ]
+  },
+  {
+    "name": "Shosuke Morohashi",
+    "nameNative": "諸橋翔介",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b348751-55lc1kHNSCdQ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daisuke-sakaguchi"
+    ]
+  }
+]
