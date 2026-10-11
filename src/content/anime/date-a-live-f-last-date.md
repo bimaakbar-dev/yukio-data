@@ -7,6 +7,7 @@ kitsuId: "50606"
 
 type: TV
 status: upcoming
+rating: R
 source: light_novel
 
 
