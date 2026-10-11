@@ -8,6 +8,7 @@ kitsuId: "6739"
 
 type: TV
 status: finished
+rating: PG-13
 source: visual_novel
 
 season: spring
