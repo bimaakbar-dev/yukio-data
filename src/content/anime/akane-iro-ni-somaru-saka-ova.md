@@ -8,6 +8,7 @@ kitsuId: "4270"
 
 type: Special
 status: finished
+rating: R+
 source: visual_novel
 
 season: spring

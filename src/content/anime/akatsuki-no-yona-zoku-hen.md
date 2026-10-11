@@ -7,6 +7,7 @@ kitsuId: "10759"
 
 type: TV
 status: upcoming
+rating: PG-13
 source: manga
 
 
