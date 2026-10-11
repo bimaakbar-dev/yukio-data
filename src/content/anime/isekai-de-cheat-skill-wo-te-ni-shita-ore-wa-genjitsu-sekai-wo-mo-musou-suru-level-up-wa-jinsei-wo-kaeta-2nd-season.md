@@ -7,6 +7,7 @@ kitsuId: "48138"
 
 type: TV
 status: upcoming
+rating: PG-13
 source: light_novel
 
 
