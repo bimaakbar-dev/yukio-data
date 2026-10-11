@@ -8,6 +8,7 @@ kitsuId: "1178"
 
 type: TV
 status: finished
+rating: PG
 source: original
 
 season: spring

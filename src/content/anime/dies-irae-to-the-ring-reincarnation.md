@@ -7,6 +7,7 @@ kitsuId: "40566"
 
 type: ONA
 status: finished
+rating: R
 source: visual_novel
 
 season: summer
