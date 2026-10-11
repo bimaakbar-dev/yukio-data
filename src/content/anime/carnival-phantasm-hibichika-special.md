@@ -7,6 +7,7 @@ kitsuId: "7342"
 
 type: Special
 status: finished
+rating: PG-13
 
 season: summer
 year: 2012

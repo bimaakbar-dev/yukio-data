@@ -7,6 +7,7 @@ kitsuId: "7286"
 
 type: OVA
 status: finished
+rating: R
 source: manga
 
 season: fall
