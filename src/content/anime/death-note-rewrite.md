@@ -8,6 +8,7 @@ kitsuId: "2707"
 
 type: Special
 status: finished
+rating: R
 source: manga
 
 season: summer
