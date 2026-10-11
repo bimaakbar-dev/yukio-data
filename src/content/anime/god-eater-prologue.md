@@ -7,6 +7,7 @@ kitsuId: "6197"
 
 type: Special
 status: finished
+rating: R
 source: game
 
 season: summer
