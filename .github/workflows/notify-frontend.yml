@@ -1,11 +1,11 @@
 name: Notify Frontends
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'src/content/anime/**'
-      - 'data/anime/**'
+  # push:
+  #  branches: [main]
+  #  paths:
+  #    - 'src/content/anime/**'
+  #    - 'data/anime/**'
   workflow_dispatch:
   
 jobs:
