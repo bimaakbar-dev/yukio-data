@@ -8,6 +8,7 @@ kitsuId: "10920"
 
 type: TV
 status: finished
+rating: R+
 source: other
 
 season: summer
