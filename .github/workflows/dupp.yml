@@ -1,37 +1,47 @@
-name: Detect Duplicate Slugs v2
+name: Migrate rating → stats.score
 
 on:
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Dry run (tidak commit)
+        type: boolean
+        default: true
 
 permissions:
   contents: write
 
 jobs:
-  detect:
+  migrate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
 
-      - name: Run detector
-        run: |
-          node detect-duplicate-slugs2.mjs
-          wc -l file.txt
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
 
-      - name: Push to dump branch
+      - name: Dry run
+        if: ${{ inputs.dry_run }}
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPO: ${{ github.repository }}
+          DRY_RUN: '1'
+        run: node scripts/migrate-rating.mjs
+
+      - name: Write migration
+        if: ${{ !inputs.dry_run }}
+        run: node scripts/migrate-rating.mjs
+
+      - name: Commit & push
+        if: ${{ !inputs.dry_run }}
         run: |
-          mkdir -p /tmp/dump-repo && cd /tmp/dump-repo
-          git init -b dump
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git"
-          if git fetch origin dump 2>/dev/null; then git checkout -B dump FETCH_HEAD; fi
-          cp "${GITHUB_WORKSPACE}/file.txt" ./file.txt
-          git add file.txt
-          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
-          git commit -m "chore: dup slug v2 report [skip ci]"
-          git push origin dump
-          echo "🔗 https://github.com/${REPO}/blob/dump/file.txt" >> "$GITHUB_STEP_SUMMARY"
+          git add -A src/content/anime
+          if git diff --staged --quiet; then
+            echo "Tidak ada perubahan."
+          else
+            git commit -m "chore(data): migrate rating (skor) ke stats.score"
+            git push
+          fi
