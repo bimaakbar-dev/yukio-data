@@ -7,6 +7,7 @@ kitsuId: "6063"
 
 type: Special
 status: finished
+rating: R+
 
 season: winter
 year: 2011
