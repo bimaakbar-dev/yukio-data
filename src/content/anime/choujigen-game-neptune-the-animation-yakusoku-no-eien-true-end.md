@@ -8,6 +8,7 @@ kitsuId: "42367"
 
 type: OVA
 status: finished
+rating: PG-13
 source: game
 
 season: winter
