@@ -8,6 +8,7 @@ kitsuId: "5404"
 
 type: TV
 status: finished
+rating: PG
 source: original
 
 season: summer
