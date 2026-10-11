@@ -7,6 +7,7 @@ kitsuId: "7168"
 
 type: Special
 status: finished
+rating: PG-13
 source: light_novel
 
 season: spring
