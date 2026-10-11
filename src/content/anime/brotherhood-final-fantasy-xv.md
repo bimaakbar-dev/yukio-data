@@ -8,6 +8,7 @@ kitsuId: "12019"
 
 type: ONA
 status: finished
+rating: PG-13
 source: game
 
 season: winter
