@@ -8,6 +8,7 @@ kitsuId: "7810"
 
 type: Special
 status: finished
+rating: PG-13
 source: manga
 
 season: winter
