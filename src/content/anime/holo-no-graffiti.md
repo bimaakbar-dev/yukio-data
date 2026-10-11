@@ -7,6 +7,7 @@ kitsuId: "43740"
 
 type: ONA
 status: airing
+rating: PG-13
 source: other
 
 season: spring
