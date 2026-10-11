@@ -7,6 +7,7 @@ kitsuId: "43585"
 
 type: Music
 status: finished
+rating: PG
 source: game
 
 season: summer
