@@ -7,6 +7,7 @@ kitsuId: "5749"
 
 type: Movie
 status: finished
+rating: PG-13
 source: original
 
 season: spring
