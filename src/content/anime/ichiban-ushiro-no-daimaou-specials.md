@@ -8,6 +8,7 @@ kitsuId: "5346"
 
 type: Special
 status: finished
+rating: R+
 
 season: spring
 year: 2010
