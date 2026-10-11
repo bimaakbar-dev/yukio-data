@@ -8,6 +8,7 @@ kitsuId: "11880"
 
 type: ONA
 status: finished
+rating: R
 source: original
 
 season: winter
