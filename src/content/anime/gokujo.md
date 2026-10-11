@@ -7,6 +7,7 @@ kitsuId: "6594"
 
 type: TV
 status: finished
+rating: PG-13
 source: manga
 
 season: winter
