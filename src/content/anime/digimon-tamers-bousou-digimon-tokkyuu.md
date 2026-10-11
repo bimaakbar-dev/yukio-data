@@ -8,6 +8,7 @@ kitsuId: "2739"
 
 type: Movie
 status: finished
+rating: PG
 source: original
 
 season: winter
