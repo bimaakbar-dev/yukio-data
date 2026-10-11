@@ -7,6 +7,7 @@ kitsuId: "8303"
 
 type: Special
 status: finished
+rating: G
 source: original
 
 season: winter

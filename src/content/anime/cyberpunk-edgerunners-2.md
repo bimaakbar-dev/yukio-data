@@ -8,6 +8,7 @@ kitsuId: "50016"
 
 type: ONA
 status: upcoming
+rating: R
 source: game
 
 season: fall
