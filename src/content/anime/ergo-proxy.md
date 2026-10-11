@@ -8,6 +8,7 @@ kitsuId: "705"
 
 type: TV
 status: finished
+rating: R
 source: original
 
 season: winter
