@@ -8,6 +8,7 @@ kitsuId: "1959"
 
 type: TV
 status: finished
+rating: G
 source: original
 
 season: spring
