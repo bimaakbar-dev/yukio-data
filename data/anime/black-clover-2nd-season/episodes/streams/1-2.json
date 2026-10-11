@@ -1,0 +1,38 @@
+[
+  {
+    "number": 1,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzT-2Th6xkejyettsgufJHF14h9ZjEpjp_1Dmw49yjyDAa4dMeaSVBCNbFLFxKPqv-LH99SAZmugWUeVbCDYZLZzeFtwmZ0O1IIocyceLC-SG9m5lG1rraQozNIX2OZZDZMz0Vp"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzT-2Th6xkejyettsgufJHF14h9ZjEpjp_1Dmw49yjyDAa4dMeaSVBCNbFLFxKPqv-LH99SAZmugWUeVbCDYZLZzeFtwmZ0O1IIocyceLC-SG9m5lG1rraQozNIX2OZZDZMz0Vp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwDwRFlROCa2nli_eiHAPo_1-6qMUg0nLk0jYSbbW6h8XM9950kMxYC1PqLQXukbx8ZFBQTTyRKokdkH4oilkS4H2FYelo2nwEpUywypD1XE1qP91STHzDynzbIMEM3LAw7f1ls"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://play.xtwap.top/btube3.php?url=pj4JmpLnJktJYHoGSEksTQDTB4Re%2Bg%3D%3D"
+          }
+        ]
+      }
+    ]
+  }
+]
