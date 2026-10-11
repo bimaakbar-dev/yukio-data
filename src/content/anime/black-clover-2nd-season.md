@@ -37,6 +37,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-t
 trailer: "4MYo8FfiXMA"
 
 draft: false
+addedAt: "2026-10-11"
+updatedAt: "2026-10-11"
 ---
 
 As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.
