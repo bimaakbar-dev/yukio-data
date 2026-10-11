@@ -8,6 +8,7 @@ kitsuId: "1145"
 
 type: OVA
 status: finished
+rating: R
 source: manga
 
 season: spring
