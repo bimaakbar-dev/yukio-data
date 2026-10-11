@@ -7,6 +7,7 @@ kitsuId: "50584"
 
 type: ONA
 status: upcoming
+rating: R
 source: other
 
 
