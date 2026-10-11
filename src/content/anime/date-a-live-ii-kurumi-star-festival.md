@@ -7,6 +7,7 @@ kitsuId: "8511"
 
 type: OVA
 status: finished
+rating: PG-13
 source: light_novel
 
 season: fall
