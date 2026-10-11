@@ -27,11 +27,11 @@ jobs:
         if: ${{ inputs.dry_run }}
         env:
           DRY_RUN: '1'
-        run: node scripts/migrate-rating.mjs
+        run: node migrate-rating.mjs
 
       - name: Write migration
         if: ${{ !inputs.dry_run }}
-        run: node scripts/migrate-rating.mjs
+        run: node migrate-rating.mjs
 
       - name: Commit & push
         if: ${{ !inputs.dry_run }}
