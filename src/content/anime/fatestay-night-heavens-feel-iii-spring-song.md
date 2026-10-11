@@ -8,6 +8,7 @@ kitsuId: "12008"
 
 type: Movie
 status: finished
+rating: R
 source: visual_novel
 
 season: summer
