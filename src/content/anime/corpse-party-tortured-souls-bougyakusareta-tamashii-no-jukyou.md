@@ -8,6 +8,7 @@ kitsuId: "7199"
 
 type: OVA
 status: finished
+rating: R
 source: game
 
 season: summer
