@@ -7,6 +7,7 @@ kitsuId: "7511"
 
 type: ONA
 status: finished
+rating: R
 source: original
 
 season: fall

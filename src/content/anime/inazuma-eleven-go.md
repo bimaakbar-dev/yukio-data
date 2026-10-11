@@ -7,6 +7,7 @@ kitsuId: "6213"
 
 type: TV
 status: finished
+rating: G
 source: game
 
 season: spring
