@@ -8,6 +8,7 @@ kitsuId: "2623"
 
 type: Movie
 status: finished
+rating: PG-13
 source: original
 
 season: fall
