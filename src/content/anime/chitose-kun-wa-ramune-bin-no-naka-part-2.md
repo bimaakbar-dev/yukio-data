@@ -8,6 +8,7 @@ kitsuId: "50966"
 
 type: TV
 status: upcoming
+rating: PG-13
 source: light_novel
 
 season: fall
