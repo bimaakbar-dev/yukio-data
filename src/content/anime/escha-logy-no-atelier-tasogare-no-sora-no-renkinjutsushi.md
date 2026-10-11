@@ -8,6 +8,7 @@ kitsuId: "8091"
 
 type: TV
 status: finished
+rating: PG-13
 source: game
 
 season: spring
