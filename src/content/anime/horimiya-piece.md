@@ -8,6 +8,7 @@ kitsuId: "47234"
 
 type: TV
 status: finished
+rating: PG-13
 source: manga
 
 season: summer
