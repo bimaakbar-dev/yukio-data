@@ -8,6 +8,7 @@ kitsuId: "6031"
 
 type: Movie
 status: finished
+rating: R
 source: manga
 
 season: winter

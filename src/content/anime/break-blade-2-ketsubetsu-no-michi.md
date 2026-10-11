@@ -8,6 +8,7 @@ kitsuId: "5366"
 
 type: Movie
 status: finished
+rating: R
 source: manga
 
 season: spring
