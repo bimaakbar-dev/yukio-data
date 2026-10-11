@@ -8,6 +8,7 @@ kitsuId: "50497"
 
 type: TV
 status: upcoming
+rating: PG-13
 source: other
 
 season: fall
