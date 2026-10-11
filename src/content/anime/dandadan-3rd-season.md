@@ -7,6 +7,7 @@ kitsuId: "50163"
 
 type: TV
 status: upcoming
+rating: R
 source: manga
 
 # duration: # edit manual
