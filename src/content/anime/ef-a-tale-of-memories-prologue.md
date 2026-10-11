@@ -7,6 +7,7 @@ kitsuId: "4531"
 
 type: Special
 status: finished
+rating: PG-13
 source: visual_novel
 
 season: summer
