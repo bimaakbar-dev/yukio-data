@@ -8,6 +8,7 @@ kitsuId: "2102"
 
 type: OVA
 status: finished
+rating: PG-13
 source: manga
 
 season: summer
