@@ -7,6 +7,7 @@ kitsuId: "49270"
 
 type: TV
 status: upcoming
+rating: R+
 source: manga
 
 
