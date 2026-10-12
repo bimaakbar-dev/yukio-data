@@ -7,6 +7,7 @@ kitsuId: "41373"
 
 type: Movie
 status: upcoming
+rating: PG-13
 source: original
 
 episodes: 1
