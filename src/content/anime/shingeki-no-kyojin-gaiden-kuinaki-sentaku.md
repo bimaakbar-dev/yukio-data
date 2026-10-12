@@ -8,6 +8,7 @@ kitsuId: "7442"
 
 type: OVA
 status: finished
+rating: R
 source: visual_novel
 
 season: fall
