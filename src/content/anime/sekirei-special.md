@@ -6,6 +6,7 @@ kitsuId: "4031"
 
 type: Special
 status: finished
+rating: R+
 source: manga
 
 season: winter

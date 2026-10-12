@@ -8,6 +8,7 @@ kitsuId: "50104"
 
 type: TV
 status: upcoming
+rating: R
 source: game
 
 season: winter
