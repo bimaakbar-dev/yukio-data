@@ -8,6 +8,7 @@ kitsuId: "1950"
 
 type: Movie
 status: finished
+rating: R
 source: manga
 
 season: fall

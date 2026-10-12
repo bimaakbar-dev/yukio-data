@@ -7,6 +7,7 @@ kitsuId: "4605"
 
 type: Music
 status: finished
+rating: PG-13
 source: original
 
 season: spring
