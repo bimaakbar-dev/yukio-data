@@ -8,6 +8,7 @@ kitsuId: "9098"
 
 type: OVA
 status: finished
+rating: R+
 source: original
 
 season: summer
