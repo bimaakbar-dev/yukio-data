@@ -8,6 +8,7 @@ kitsuId: "50842"
 
 type: Movie
 status: upcoming
+rating: PG-13
 source: original
 
 season: fall
