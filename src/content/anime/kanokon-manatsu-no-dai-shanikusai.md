@@ -7,6 +7,7 @@ kitsuId: "4715"
 
 type: OVA
 status: finished
+rating: R+
 
 season: fall
 year: 2009
