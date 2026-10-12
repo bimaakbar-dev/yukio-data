@@ -8,6 +8,7 @@ kitsuId: "7331"
 
 type: Special
 status: finished
+rating: R+
 
 season: fall
 year: 2013
