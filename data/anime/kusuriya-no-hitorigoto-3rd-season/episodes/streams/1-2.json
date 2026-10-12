@@ -1,0 +1,30 @@
+[
+  {
+    "number": 1,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=a2JSRnZna1J4NjFQak9IcWxEREYrb2pHbnM5VzZkT3ZsMUxJZEIvaWxJQVVLTDlCMnBIcUZ6bnY3YUxpREJVdDNHZDBOb09icVFqdkFTV1ZaRGp1Z3c9PQ=="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=ZXR3YnBTUllRYmlYeHJ2Ky83UFRTdFAxbnQxRXM0THNzelF0c3ErL2R4TFFMdU9RcThaSEtSR0tkSkQ5QVI1Q0FLWkZYYi84UGkxVGU0OVZDZGo2WkE9PQ=="
+          }
+        ]
+      }
+    ]
+  }
+]
