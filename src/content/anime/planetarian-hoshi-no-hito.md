@@ -8,6 +8,7 @@ kitsuId: "12053"
 
 type: Movie
 status: finished
+rating: PG-13
 source: visual_novel
 
 season: summer
