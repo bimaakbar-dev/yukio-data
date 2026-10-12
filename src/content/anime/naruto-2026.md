@@ -7,6 +7,7 @@ kitsuId: "47150"
 
 type: TV
 status: upcoming
+rating: PG-13
 
 episodes: 4
 
