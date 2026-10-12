@@ -34,6 +34,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200455-rlIXyuk
 trailer: "e41RGxVwJRs"
 
 draft: false
+addedAt: "2026-10-12"
+updatedAt: "2026-10-12"
 ---
 
 I was reborn as a villainous daughter in a reverse harem otome game. 
