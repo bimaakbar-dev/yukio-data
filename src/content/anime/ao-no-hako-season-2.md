@@ -37,6 +37,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189123-s2oirY2
 trailer: "hJ6Y8PAOUk8"
 
 draft: false
+addedAt: "2026-10-12"
+updatedAt: "2026-10-12"
 ---
 
 The second season of Ao no Hako.
