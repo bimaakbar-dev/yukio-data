@@ -37,7 +37,7 @@ trailer: "YvNvvUeCztE"
 
 draft: false
 addedAt: "2026-10-10"
-updatedAt: "2026-10-10"
+updatedAt: "2026-10-12"
 ---
 
 In the aftermath of the Shi Clan’s rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district.
