@@ -8,6 +8,7 @@ kitsuId: "404"
 
 type: Movie
 status: finished
+rating: R+
 source: original
 
 season: summer
