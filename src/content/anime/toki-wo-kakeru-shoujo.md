@@ -8,6 +8,7 @@ kitsuId: "2027"
 
 type: Movie
 status: finished
+rating: G
 source: other
 
 season: summer
