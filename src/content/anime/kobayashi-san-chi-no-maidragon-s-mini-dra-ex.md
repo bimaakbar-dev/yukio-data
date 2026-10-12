@@ -8,6 +8,7 @@ kitsuId: "45015"
 
 type: Special
 status: finished
+rating: PG-13
 
 season: summer
 year: 2021
