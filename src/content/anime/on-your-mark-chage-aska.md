@@ -8,6 +8,7 @@ kitsuId: "937"
 
 type: Music
 status: finished
+rating: G
 source: original
 
 season: summer
