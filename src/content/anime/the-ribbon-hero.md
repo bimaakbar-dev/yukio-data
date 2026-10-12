@@ -8,6 +8,7 @@ kitsuId: "50765"
 
 type: Movie
 status: finished
+rating: PG-13
 
 season: summer
 year: 2026
