@@ -8,6 +8,7 @@ kitsuId: "46530"
 
 type: Movie
 status: finished
+rating: PG-13
 source: light_novel
 
 season: spring
