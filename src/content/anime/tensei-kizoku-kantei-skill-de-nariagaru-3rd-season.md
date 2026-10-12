@@ -31,6 +31,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-x
 trailer: "8_Lxr7vO9l0"
 
 draft: false
+addedAt: "2026-10-12"
+updatedAt: "2026-10-12"
 ---
 
 The third season of Tensei Kizoku, Kantei Skill de Nariagaru.
