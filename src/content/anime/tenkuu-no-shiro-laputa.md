@@ -8,6 +8,7 @@ kitsuId: "472"
 
 type: Movie
 status: finished
+rating: PG
 source: original
 
 season: summer

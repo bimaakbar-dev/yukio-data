@@ -7,6 +7,7 @@ kitsuId: "885"
 
 type: OVA
 status: finished
+rating: PG-13
 
 season: winter
 year: 2006
