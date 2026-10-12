@@ -33,6 +33,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207191-xYgpkCD
 trailer: "hGRtocAh3iw"
 
 draft: false
+addedAt: "2026-10-12"
+updatedAt: "2026-10-12"
 ---
 
 “Make me a love potion.”
