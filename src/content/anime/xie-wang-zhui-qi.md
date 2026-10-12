@@ -7,6 +7,7 @@ kitsuId: "42157"
 
 type: ONA
 status: finished
+rating: PG-13
 source: other
 
 season: winter
