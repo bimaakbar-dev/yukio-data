@@ -7,6 +7,7 @@ kitsuId: "7824"
 
 type: Movie
 status: finished
+rating: PG-13
 source: game
 
 season: winter

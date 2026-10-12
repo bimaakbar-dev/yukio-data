@@ -8,6 +8,7 @@ kitsuId: "7894"
 
 type: TV
 status: upcoming
+rating: PG-13
 source: manga
 
 season: winter
