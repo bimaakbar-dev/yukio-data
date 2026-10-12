@@ -8,6 +8,7 @@ kitsuId: "11053"
 
 type: Movie
 status: finished
+rating: PG-13
 source: manga
 
 season: winter

@@ -8,6 +8,7 @@ kitsuId: "42274"
 
 type: Movie
 status: finished
+rating: PG-13
 source: game
 
 season: summer
