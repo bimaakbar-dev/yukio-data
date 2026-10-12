@@ -8,6 +8,7 @@ kitsuId: "44260"
 
 type: Special
 status: finished
+rating: R
 source: original
 
 season: spring
