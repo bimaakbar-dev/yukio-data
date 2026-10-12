@@ -8,6 +8,7 @@ kitsuId: "47020"
 
 type: TV
 status: finished
+rating: R+
 source: manga
 
 season: fall
