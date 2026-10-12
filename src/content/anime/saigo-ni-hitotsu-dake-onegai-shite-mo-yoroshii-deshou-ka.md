@@ -8,6 +8,7 @@ kitsuId: "49206"
 
 type: ONA
 status: finished
+rating: PG-13
 source: light_novel
 
 season: fall
