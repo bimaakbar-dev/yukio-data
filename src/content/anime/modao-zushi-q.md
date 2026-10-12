@@ -8,6 +8,7 @@ kitsuId: "41036"
 
 type: ONA
 status: finished
+rating: PG-13
 source: original
 
 season: summer
