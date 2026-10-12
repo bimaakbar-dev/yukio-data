@@ -7,6 +7,7 @@ kitsuId: "11294"
 
 type: OVA
 status: finished
+rating: R
 source: light_novel
 
 season: fall
