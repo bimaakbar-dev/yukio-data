@@ -8,6 +8,7 @@ kitsuId: "400"
 
 type: Movie
 status: finished
+rating: R+
 source: other
 
 season: winter
