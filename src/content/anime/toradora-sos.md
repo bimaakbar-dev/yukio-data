@@ -8,6 +8,7 @@ kitsuId: "4438"
 
 type: Special
 status: finished
+rating: PG-13
 
 season: winter
 year: 2009
