@@ -8,6 +8,7 @@ kitsuId: "50404"
 
 type: ONA
 status: airing
+rating: PG-13
 source: light_novel
 
 season: summer
