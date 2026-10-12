@@ -8,6 +8,7 @@ kitsuId: "7573"
 
 type: TV
 status: finished
+rating: R
 source: light_novel
 
 season: summer
