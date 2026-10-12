@@ -7,6 +7,7 @@ kitsuId: "42112"
 
 type: Special
 status: finished
+rating: R
 source: manga
 
 season: fall
