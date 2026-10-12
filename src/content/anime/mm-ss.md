@@ -7,6 +7,7 @@ kitsuId: "5797"
 
 type: Special
 status: finished
+rating: R+
 source: light_novel
 
 season: fall
