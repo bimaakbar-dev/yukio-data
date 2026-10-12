@@ -8,6 +8,7 @@ kitsuId: "45081"
 
 type: TV
 status: finished
+rating: R
 source: light_novel
 
 season: spring
