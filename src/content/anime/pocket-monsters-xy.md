@@ -8,6 +8,7 @@ kitsuId: "7850"
 
 type: TV
 status: finished
+rating: PG
 source: game
 
 season: fall

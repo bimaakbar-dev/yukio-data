@@ -8,6 +8,7 @@ kitsuId: "7922"
 
 type: Special
 status: finished
+rating: PG
 source: game
 
 season: fall

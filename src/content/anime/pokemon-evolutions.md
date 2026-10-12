@@ -8,6 +8,7 @@ kitsuId: "45055"
 
 type: ONA
 status: finished
+rating: PG
 source: game
 
 season: summer
