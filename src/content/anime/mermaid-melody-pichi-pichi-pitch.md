@@ -7,6 +7,7 @@ kitsuId: "480"
 
 type: TV
 status: finished
+rating: PG
 source: manga
 
 season: spring
