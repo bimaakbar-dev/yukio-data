@@ -8,6 +8,7 @@ kitsuId: "46480"
 
 type: Music
 status: finished
+rating: PG-13
 source: other
 
 season: summer

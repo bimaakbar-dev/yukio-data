@@ -8,6 +8,7 @@ kitsuId: "4459"
 
 type: Movie
 status: finished
+rating: PG
 source: game
 
 season: fall
