@@ -8,6 +8,7 @@ kitsuId: "4616"
 
 type: Special
 status: finished
+rating: PG-13
 
 season: fall
 year: 2006
