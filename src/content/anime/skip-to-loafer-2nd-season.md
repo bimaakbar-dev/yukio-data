@@ -8,6 +8,7 @@ kitsuId: "49424"
 
 type: TV
 status: upcoming
+rating: PG-13
 source: manga
 
 season: spring
