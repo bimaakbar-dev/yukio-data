@@ -8,6 +8,7 @@ kitsuId: "8703"
 
 type: Special
 status: finished
+rating: PG-13
 source: game
 
 season: fall
