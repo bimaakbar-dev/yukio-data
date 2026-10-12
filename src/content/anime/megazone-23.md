@@ -8,6 +8,7 @@ kitsuId: "1744"
 
 type: OVA
 status: finished
+rating: R+
 source: original
 
 season: winter
