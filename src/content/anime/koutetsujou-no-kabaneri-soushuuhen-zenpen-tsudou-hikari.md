@@ -8,6 +8,7 @@ kitsuId: "12501"
 
 type: Movie
 status: finished
+rating: R
 source: original
 
 season: fall
