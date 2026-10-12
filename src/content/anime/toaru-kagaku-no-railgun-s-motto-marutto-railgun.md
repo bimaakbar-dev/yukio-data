@@ -8,6 +8,7 @@ kitsuId: "7969"
 
 type: Special
 status: finished
+rating: PG-13
 source: manga
 
 season: summer
