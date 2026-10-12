@@ -7,6 +7,7 @@ kitsuId: "5339"
 
 type: TV
 status: finished
+rating: R
 source: visual_novel
 
 season: fall
