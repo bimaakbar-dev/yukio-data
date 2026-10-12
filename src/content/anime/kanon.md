@@ -7,6 +7,7 @@ kitsuId: "122"
 
 type: TV
 status: finished
+rating: G
 source: visual_novel
 
 season: winter
