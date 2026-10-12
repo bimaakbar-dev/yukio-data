@@ -8,6 +8,7 @@ kitsuId: "9730"
 
 type: ONA
 status: finished
+rating: R
 source: manga
 
 season: winter
