@@ -33,6 +33,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191788-tyhsHpX
 trailer: "phKPnPXm74c"
 
 draft: false
+addedAt: "2026-10-12"
+updatedAt: "2026-10-12"
 ---
 
 Aoi Ashito’s game has now earned him a spot on the A team, but he is quickly overwhelmed by his harsh new reality. Surrounded by elite players like Kuribayashi and Akutsu, practices are just as merciless as the matches. In this U-18 Premier League of powerhouse talent, Ashito must evolve or be crushed, if he’s ever to be acknowledged.
