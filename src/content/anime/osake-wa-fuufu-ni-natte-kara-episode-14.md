@@ -8,6 +8,7 @@ kitsuId: "41271"
 
 type: ONA
 status: finished
+rating: PG-13
 source: manga
 
 season: fall
