@@ -8,6 +8,7 @@ kitsuId: "45073"
 
 type: ONA
 status: finished
+rating: PG-13
 source: original
 
 season: spring
