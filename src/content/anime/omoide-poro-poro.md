@@ -8,6 +8,7 @@ kitsuId: "919"
 
 type: Movie
 status: finished
+rating: G
 source: manga
 
 season: summer

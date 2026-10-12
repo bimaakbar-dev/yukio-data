@@ -8,6 +8,7 @@ kitsuId: "50334"
 
 type: TV
 status: finished
+rating: R
 source: light_novel
 
 season: winter
