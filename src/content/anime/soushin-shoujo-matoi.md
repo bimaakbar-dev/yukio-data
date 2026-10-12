@@ -8,6 +8,7 @@ kitsuId: "12322"
 
 type: TV
 status: finished
+rating: PG-13
 source: original
 
 season: fall
