@@ -7,6 +7,7 @@ kitsuId: "41361"
 
 type: ONA
 status: finished
+rating: R
 source: original
 
 season: summer
