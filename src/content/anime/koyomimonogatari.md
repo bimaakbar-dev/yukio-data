@@ -8,6 +8,7 @@ kitsuId: "11613"
 
 type: ONA
 status: finished
+rating: R
 source: light_novel
 
 season: winter
