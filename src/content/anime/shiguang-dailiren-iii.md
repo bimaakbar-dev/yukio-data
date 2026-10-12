@@ -8,6 +8,7 @@ kitsuId: "49889"
 
 type: ONA
 status: airing
+rating: R
 source: original
 
 season: summer
