@@ -7,6 +7,7 @@ kitsuId: "47444"
 
 type: ONA
 status: finished
+rating: R
 source: manga
 
 season: spring
