@@ -8,6 +8,7 @@ kitsuId: "12534"
 
 type: TV
 status: finished
+rating: R+
 source: manga
 
 season: spring
