@@ -8,6 +8,7 @@ kitsuId: "2051"
 
 type: OVA
 status: finished
+rating: PG
 source: game
 
 season: winter
