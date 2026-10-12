@@ -7,6 +7,7 @@ kitsuId: "7874"
 
 type: Special
 status: finished
+rating: R
 source: original
 
 season: fall
