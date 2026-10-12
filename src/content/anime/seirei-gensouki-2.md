@@ -8,6 +8,7 @@ kitsuId: "45420"
 
 type: TV
 status: finished
+rating: PG-13
 source: light_novel
 
 season: fall
