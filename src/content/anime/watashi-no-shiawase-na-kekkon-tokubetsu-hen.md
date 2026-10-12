@@ -8,6 +8,7 @@ kitsuId: "49838"
 
 type: Special
 status: upcoming
+rating: PG-13
 
 season: fall
 year: 2026

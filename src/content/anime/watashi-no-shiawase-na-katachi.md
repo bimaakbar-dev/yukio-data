@@ -8,6 +8,7 @@ kitsuId: "47800"
 
 type: OVA
 status: finished
+rating: PG-13
 source: light_novel
 
 season: winter
