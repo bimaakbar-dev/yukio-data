@@ -7,6 +7,7 @@ kitsuId: "2940"
 
 type: OVA
 status: finished
+rating: R+
 
 season: winter
 year: 2008
