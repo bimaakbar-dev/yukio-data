@@ -8,6 +8,7 @@ kitsuId: "7723"
 
 type: Movie
 status: finished
+rating: G
 
 season: fall
 year: 2013
