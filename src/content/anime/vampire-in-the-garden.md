@@ -8,6 +8,7 @@ kitsuId: "42188"
 
 type: ONA
 status: finished
+rating: R
 source: original
 
 season: spring

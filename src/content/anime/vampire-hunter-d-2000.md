@@ -8,6 +8,7 @@ kitsuId: "501"
 
 type: Movie
 status: finished
+rating: R
 source: light_novel
 
 season: summer
