@@ -8,6 +8,7 @@ kitsuId: "41459"
 
 type: TV
 status: finished
+rating: R
 source: original
 
 season: fall

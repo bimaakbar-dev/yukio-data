@@ -8,6 +8,7 @@ kitsuId: "50170"
 
 type: TV
 status: airing
+rating: PG-13
 source: manga
 
 season: fall
