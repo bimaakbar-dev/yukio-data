@@ -1,0 +1,110 @@
+[
+  {
+    "number": 1,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=RlF0U0ZET2YxelRtVkIyVm80OHlkR0l2Qm41aVBpTFQ0R3JuOFFXVE5LYz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=SXFBaFZtdVgxLytway9CNmY0cUZ4YVpZK0RqQ045eXRPK29ldDhWMDU0dG5BeS9VcnVMYStFVVJYdjNFT1l0Nw=="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=V05OYk5PL0tEbnVvT0k5WmN1WXZOdGo4TTMvVWdLeWhnc2dCamxvRmpzTT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=ZUlwQndSMzNqSUluSEVsWUY4aHFObThFUkJtTHlXRmxKbnpPRnlSRUtoZUVobVFsRHBMblFRTG8vSDdUa0xtTA=="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ZGhtMGRMUzdWVGJPelVuODJYbGhlY0g5c1FMY3VKekxDYjlOYitEeGdXZz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=VFZ2dkZ4UE8zV0o4L2pWdEVYdVd2Y21RWFBIZnFPV2c4T0drNzZIdytpSERkUGVSVWxxZjJNOCtEc3pnM25xbQ=="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=WmJVYzdESzdXbnhCSW5ORTFIMXg0cVl1SUFlNUhOMFNIT2lUWHhoMUVzST0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bzlBZE5SUW1VT0tUdVJpZGNiZ2hwYWNQckV6bFFwV002ekE3anJEUzRZdE5jc0pjZW96WmZLdTNlaFd1eWpNZg=="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=S1lmSTY4M1JoY1FlS2hQcWU3UzJRdHpYbm93QnFHU25idFllenYzNFRQdz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TFh3cWRoL2I5S2NHZWMremtnNXBkdFBvbjQvWUYrNmF4UHhjVzRCWVRXY09LT0ZLMzhPSUp5RHdBaGpVZ2dSZg=="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=WWdQQ0IrMmRMaWFIQ0V2R2licFFMeEI2aW13UFRTWmlQakdhaVRxRUhmZz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dzJVUXZ4MUliSWVGUWJNNUdSVlVDSXRFaE5tMkh5djFleHY4NG15amhsRGdvOFpNSlFRT0d2cHhOay94Um10Ug=="
+          }
+        ]
+      }
+    ]
+  }
+]
