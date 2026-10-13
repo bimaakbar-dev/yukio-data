@@ -1,32 +1,27 @@
 [
-
   {
     "number": 1,
     "streams": [
       {
-        "quality": "720p",
+        "quality": "360p",
         "servers": [
           {
-            "name": "pixeldrain",
-            "url": "https://pixeldrain.com/d/HVfqbvxL"
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=V1FLY2RLaE8xUnZnOUZTTW5LQ3hWUT09"
           }
         ]
-      },
-      {
-        "quality": "480p",
-        "servers": [
-          {
-            "name": "pixeldrain",
-            "url": "https://pixeldrain.com/d/JA3mGx3J"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "streams": [
       {
         "quality": "360p",
         "servers": [
           {
-            "name": "pixeldrain",
-            "url": "https://pixeldrain.com/d/N6JKUAdv"
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=ZmE4a2VKSnR5U3RsQTI1VktmZzA3c0d0RzhYUUgyK3UvNUJYcGZYYzNNMD0="
           }
         ]
       }
