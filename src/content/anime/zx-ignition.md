@@ -8,6 +8,7 @@ kitsuId: "8030"
 
 type: TV
 status: finished
+rating: PG-13
 source: other
 
 season: winter

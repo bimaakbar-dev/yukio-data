@@ -8,6 +8,7 @@ kitsuId: "46081"
 
 type: ONA
 status: finished
+rating: PG-13
 source: manga
 
 season: spring

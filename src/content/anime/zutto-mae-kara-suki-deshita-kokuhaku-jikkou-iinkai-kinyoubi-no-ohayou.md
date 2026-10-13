@@ -7,6 +7,7 @@ kitsuId: "13924"
 
 type: Special
 status: finished
+rating: PG
 source: other
 
 season: fall
