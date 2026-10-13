@@ -32,6 +32,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-o
 trailer: "PxXPcoo8uGM"
 
 draft: false
+addedAt: "2026-10-13"
+updatedAt: "2026-10-13"
 ---
 
 Romelia and her party succeed in defeating the Demon King Zelgis, though Prince Henri’s reckless charge forces them into a grueling battle. In the aftermath, Romelia is branded "dead weight" for not fighting directly, and the Prince unilaterally breaks off their engagement. Denied a place in the victory celebrations, Romelia returns home, only to be met with cold indifference from her family and society. Yet, she refuses to break. She has already set her sights on the path that lies ahead.
