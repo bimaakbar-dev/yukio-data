@@ -36,6 +36,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-8
 trailer: "_0kVb8-uRSI"
 
 draft: false
+addedAt: "2026-10-13"
+updatedAt: "2026-10-13"
 ---
 
 It may be a ruined city ravaged by zombies, but to Aki and her friends, it’s amazing! Having grown up only hearing stories of the old world and the mysterious outbreak that wiped out humanity, she sets off with her childhood friends in search of her missing father. Things quickly become a fight for survival outside the safety of their small village, yet they’ve never felt more alive.
