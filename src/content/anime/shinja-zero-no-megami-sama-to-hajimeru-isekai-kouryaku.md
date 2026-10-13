@@ -37,8 +37,8 @@ trailer: "qlMB8vSpLzc"
 draft: false
 ---
 
-Makoto Takatsuki, seorang pemain RPG, tiba-tiba terlempar ke dunia lain. Namun, kemampuan dan statistiknya ternyata sangat rendah, membuatnya merasa tidak berdaya.
+Makoto Takatsuki, seorang pemain RPG, tiba-tiba dibawa ke dunia lain. Namun, kemampuan dan statistiknya ternyata sangat rendah, membuatnya merasa tidak berdaya. 
 
-Namun, keberuntungannya berubah ketika dia bertemu dengan seorang dewi bernama Noah. Dewi ini memiliki tawaran menarik untuk Makoto, yaitu menjadi orang pertama yang menyembahnya. Sebagai imbalan, Makoto akan menerima berkah yang dapat membantunya bertahan hidup di dunia baru ini.
+Di tengah kesulitan, Makoto bertemu dengan seorang dewi bernama Noah. Dewi ini memiliki tujuan yang unik dan menawarkan kesepakatan yang menarik. Ia meminta Makoto untuk menjadi orang pertama yang mempercayainya, dan sebagai imbalan, Makoto akan menerima berkah-berkah yang luar biasa. 
 
-Dengan harapan baru, Makoto harus memutuskan apakah akan menerima tawaran dewi Noah atau mencari jalan lain untuk bertahan hidup di dunia yang tidak familiar baginya.
+Dengan kesempatan ini, Makoto mungkin dapat mengubah nasibnya di dunia baru ini. Apakah ia akan menerima tawaran dewi Noah dan memulai petualangan baru?
