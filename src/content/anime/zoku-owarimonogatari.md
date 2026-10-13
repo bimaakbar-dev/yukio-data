@@ -8,6 +8,7 @@ kitsuId: "14129"
 
 type: OVA
 status: finished
+rating: R
 source: light_novel
 
 season: winter
