@@ -1,0 +1,76 @@
+[
+  {
+    "number": 1,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/daoirtta9k39"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/lRQXmKTY#jZLUYqSwX1Ue3O9vCSp6q5ujJK0j4bQzkz1bLcVi6ng"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=eGVLWWRFczlwbG1ncW1ReThDMmNJdz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=U1llaE5rakpTUTF6M3lvcUlMQlZSTjBTZVBLRldqeDdBN2hNUFRSZHo4eUt5dG04TE1yNUw3YlN3ODBtZitLanJnYjNsV0tLd2NtWElIcjdYYTZlRnc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/s5jjuzoky0im"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/4UoFgTwJ#79Yu6snhOktr9CKWwy4ZDTVZ_0JkvzLcJ1ei7W3rftc"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0cy9yNzFmQ0VVZFpkdkM3a2I0MHNoOTZIaWU2OW0xcWdNTTZ0MXhTL0NlNQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/s1xf034wkvaa"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/JZpEAJJQ#87IMVr9ZZlK6IHg817eD-QHUsIA--t-LynlnowOt0Fc"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "streams": [
+      {
+        "quality": "Unknown",
+        "servers": [
+          {
+            "name": "hd",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dx6Idc3i_nqvc1uDQIrhOxyP94tm4HlnRVk9xKnwM9I30Y4vc0NFWYqrVDgwnVzQ5DdAjc6drpOzTrvTlQc70eMwHUZ9zaEGkY_s9MEQhPZD2lLF6Otw5JnpltUKIUWO-ljEKno"
+          },
+          {
+            "name": "hd",
+            "url": "https://play.xtwap.top/cepat2.php?url=QPBv5TYeQTXOxrUiMFuDfzl9sGWQZ0GMspE5b3c2NmLZ5qX5KwpGVLIr68Nfu7qcolF2zFWq8IDmDVEtvNJkH4zn860VQIu9ka8u2YvnPFHYVL6tcjaiFWQLFRDrydGUAShI5aJ2nWTKf3ywNJybxEebDDshHUtUgQ3EP1gmlkwlrIBLhEVbSthe%252FzQnBcm0hMHPIQo%253D"
+          }
+        ]
+      }
+    ]
+  }
+]
