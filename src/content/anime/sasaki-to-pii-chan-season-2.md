@@ -35,7 +35,7 @@ trailer: "gY0hpk9E7p8"
 
 draft: false
 addedAt: "2026-10-10"
-updatedAt: "2026-10-10"
+updatedAt: "2026-10-14"
 ---
 
 The second season of Sasaki to Pii-chan.
