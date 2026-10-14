@@ -14,7 +14,7 @@ season: summer
 year: 2019
 episodes: 12
 duration: 13
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2019-07-02"
@@ -39,4 +39,8 @@ trailer: "EN_Bv64q21E"
 draft: false
 ---
 
-Our MC finds out that his school requires him to join a club and during his reluctant search he stumbles upon Tejina Senpai attempting magic tricks in her clubroom. Tejina Senpai has massive stage fright however and so now that she has an audience her attempts are simply comedic.
+Di sekolahnya, sang tokoh utama dipaksa untuk bergabung dengan sebuah klub. Dalam pencarian yang tidak terlalu antusias, ia menemukan sebuah klub yang cukup unik. Di sana, ia bertemu dengan Tejina Senpai, seorang seniornya yang sedang berusaha melakukan trik-trik sulap di ruang klub.
+
+Tejina Senpai memiliki ambisi besar untuk menjadi seorang pesulap, namun ia memiliki satu masalah besar: rasa takut yang luar biasa saat tampil di depan umum. Ketika sang tokoh utama menontonnya, Tejina Senpai menjadi semakin gugup dan trik-trik sulapnya malah menjadi komedi yang tidak terduga.
+
+Dengan kehadiran sang tokoh utama, ruang klub tersebut menjadi lebih ramai dan Tejina Senpai harus beradaptasi dengan kehadiran audiens baru ini. Apakah ia bisa mengatasi rasa takutnya dan menampilkan trik-trik sulap yang memukau, ataukah kehadiran sang tokoh utama hanya akan membuat situasi menjadi semakin kacau?
