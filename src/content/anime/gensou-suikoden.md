@@ -37,6 +37,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187316-j
 trailer: "m4T9VcBD0vo"
 
 draft: false
+addedAt: "2026-10-14"
+updatedAt: "2026-10-14"
 ---
 
 Di kerajaan Highland, sebuah negara militer kuat di wilayah Dunan, dua pemuda bernama Riliu dan Jowy tumbuh bersama sebagai anggota brigade pemuda. Mereka berbagi impian dan harapan, serta menghabiskan waktu bersama di bawah langit yang sama.
