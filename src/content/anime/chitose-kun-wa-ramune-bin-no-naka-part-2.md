@@ -7,7 +7,7 @@ malId: 62484
 kitsuId: "50966"
 
 type: TV
-status: upcoming
+status: airing
 rating: PG-13
 source: light_novel
 
