@@ -37,6 +37,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159042-X0mqyaU
 trailer: "kbtRqqa2GyA"
 
 draft: false
+addedAt: "2026-10-15"
+updatedAt: "2026-10-15"
 ---
 
 The second season of Tensei Shitara Ken Deshita.
