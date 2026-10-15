@@ -35,6 +35,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207809-c
 trailer: "qpFcQ1Bek08"
 
 draft: false
+addedAt: "2026-10-15"
+updatedAt: "2026-10-15"
 ---
 
 After a mysterious hand drags her beneath a puddle, modern Japanese teenager Yuri awakens in the Hittite Empire of the 14th century BCE. Thrust into a deadly struggle for the throne, she joins Prince Kail to battle assassins, outwit royal conspiracies, and survive a world at war. As her exploits earn her renown as the goddess Ishtar, Yuri must choose between her old life and an uncertain future.
