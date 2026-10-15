@@ -1,0 +1,30 @@
+[
+  {
+    "number": 14,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=UVcvRnE3SWk1YzRTVkYrSlBQYTZNNjQ2eUpFTHBGc1ZaajV3RDhEYkxJOD0="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=OGFhTEhLd2V1MTVsakRUTmZzQ2JYMnlOQTd3Q2RpTUpVYVNwS3lkOThGVT0="
+          }
+        ]
+      }
+    ]
+  }
+]
