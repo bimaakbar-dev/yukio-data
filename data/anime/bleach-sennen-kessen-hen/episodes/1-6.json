@@ -1,38 +1,260 @@
 [
   {
     "number": 1,
-    "title": "THE BLOOD WARFARE",
-    "aired": "2022-10-10",
-    "duration": 24
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/KYdBAbbI#VX1irztxO66OnpjxHaUzzQxoebHjptZF3144OX19zb4"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=MGwxZG9NVDY0VGdXaU1EdTBkL2hRYmhiRHMvWWR1bGI1elNXdkFIOXpNQT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=R2ZOaHhEeHZYeFdvU0VEaHlXVzJPNzZEczIwZmY0c1ZxNjhmUDBGL2dlTmhFTk95ZjBVVElxU2w2bmZiaTBJUA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-dpqkxqexk934.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6F10SQDJ#NFyaGbIJsHRIYpExBv03qJzaTnAlzzrfJS5uyCuYqtM"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=MGwxZG9NVDY0VGdXaU1EdTBkL2hRYmhiRHMvWWR1bGI1elNXdkFIOXpNQT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=R2ZOaHhEeHZYeFdvU0VEaHlXVzJPNzZEczIwZmY0c1ZxNjhmUDBGL2dlUGRUUFZ4S0x5Q0pZdlZxSWVURmVyRg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
-    "title": "Foundation Stones",
-    "aired": "2022-10-17",
-    "duration": 24
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/eNNQEaYb#MC1QkDcW1xGZf8GkqT69_DvLA160qI_rTv04AOErEJw"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=MGwxZG9NVDY0VGdXaU1EdTBkL2hRYnRRYmRYUUNtTDdmWHRLcHVmMXJLTT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=R2ZOaHhEeHZYeFdvU0VEaHlXVzJPNzZEczIwZmY0c1ZxNjhmUDBGL2dlTWsvZWpNbE9TaHltaUdLZ0hDalhFTQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-wg4y2da296h6.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/CZVTTDqD#xz1q3LBIU1QKv1oBOxb3mtaTIG5pb1wD3-a7rMx7O8o"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=MGwxZG9NVDY0VGdXaU1EdTBkL2hRYnRRYmRYUUNtTDdmWHRLcHVmMXJLTT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=R2ZOaHhEeHZYeFdvU0VEaHlXVzJPNzZEczIwZmY0c1ZxNjhmUDBGL2dlTzd1dHNGTHFWekN4RSsvM3Y3K0pObw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
-    "title": "March of the StarCross",
-    "aired": "2022-10-24",
-    "duration": 24
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bF8XWbSR#l1dfclflICFTuQpg5LxUbGR3Llp8u1AZhAFe-1IPwdI"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=MGwxZG9NVDY0VGdXaU1EdTBkL2hRYlNEQVNtdkdFanRGZTdkSXphWU41Yz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=R2ZOaHhEeHZYeFdvU0VEaHlXVzJPNzZEczIwZmY0c1ZxNjhmUDBGL2dlTlkwRjhDMEp2cWtFSXlkMTMxZG5qQQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-bsytko58d9sk.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/zdVBHaLD#gVmyJbXVAYYYC3jkQFXWUNXMF4DKGJ-wpAFHwo_GD2E"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=MGwxZG9NVDY0VGdXaU1EdTBkL2hRYlNEQVNtdkdFanRGZTdkSXphWU41Yz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=R2ZOaHhEeHZYeFdvU0VEaHlXVzJPNzZEczIwZmY0c1ZxNjhmUDBGL2dlTm5jZklITllyK0hCWHZMWlRtQW5oOQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
-    "title": "Kill The Shadow",
-    "aired": "2022-10-31",
-    "duration": 24
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/DYUmGRAI#74m59FEw_75N7NOzzMFT69LmgJycCs8mn_3K_esLPfY"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=MGwxZG9NVDY0VGdXaU1EdTBkL2hRWktzT0p1eVlpRGpieHNhM21WRHZGOD0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=R2ZOaHhEeHZYeFdvU0VEaHlXVzJPNzZEczIwZmY0c1ZxNjhmUDBGL2dlT0plSU5Va3h2NXpTeklJTURUc1FacA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-u6xxje8ogwcm.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/WEUVnJQT#rm5lKdAWzDd-O6yx7uvOGeBWtC44jp196rcSXCewMmk"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=MGwxZG9NVDY0VGdXaU1EdTBkL2hRWktzT0p1eVlpRGpieHNhM21WRHZGOD0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=R2ZOaHhEeHZYeFdvU0VEaHlXVzJPNzZEczIwZmY0c1ZxNjhmUDBGL2dlTkh5YkJZQUpaUUM0dmo0Q0pQZkJyNA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
-    "title": "Wrath as a Lightning",
-    "aired": "2022-11-07",
-    "duration": 24
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/yd9CGDqS#Ahd7oC_YSwXQG8GWNugu4tRr0uCFvWDrdscwn2HgzzE"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=MGwxZG9NVDY0VGdXaU1EdTBkL2hRU2dERG9UUzYrNEhERjdTc1pXdmo1QT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=R2ZOaHhEeHZYeFdvU0VEaHlXVzJPNzZEczIwZmY0c1ZxNjhmUDBGL2dlTzZPSjk0ZW1nZllOTytrUzBna3JZbw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-nlpxeg5qigi3.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/HUMixYhJ#ZvYvHYlGvtH-gD5_e5kA19zeLq5wvQUfUq55LQO8BLE"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=MGwxZG9NVDY0VGdXaU1EdTBkL2hRU2dERG9UUzYrNEhERjdTc1pXdmo1QT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=R2ZOaHhEeHZYeFdvU0VEaHlXVzJPNzZEczIwZmY0c1ZxNjhmUDBGL2dlUFU1VzFJTXJCdUlwVmZQMmtTMUpQWQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
-    "title": "The Fire",
-    "aired": "2022-11-14",
-    "duration": 24
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/CJVkQYpK#RB8zDHhxlAULBu4RL2Y1HKKjJSV27ftC00-GwpJC58M"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=MGwxZG9NVDY0VGdXaU1EdTBkL2hRUTRlbzd5SUZjRTNxdWRXVDM5ZXFERT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=R2ZOaHhEeHZYeFdvU0VEaHlXVzJPNzZEczIwZmY0c1ZxNjhmUDBGL2dlTTFqVURJOFUyVDVodStPU3ZtQkNkMw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-crpcapicv00g.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/WIlUGThD#pg_xDTIugSdyZj6-pCYSxmU1QVY88vdZgNFtOEtkc-8"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=MGwxZG9NVDY0VGdXaU1EdTBkL2hRUTRlbzd5SUZjRTNxdWRXVDM5ZXFERT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=R2ZOaHhEeHZYeFdvU0VEaHlXVzJPNzZEczIwZmY0c1ZxNjhmUDBGL2dlTU8xWE1Jc1JIdkVSMWo3T1JKT0p4Rw=="
+          }
+        ]
+      }
+    ]
   }
 ]
