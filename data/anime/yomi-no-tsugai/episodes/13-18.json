@@ -3,36 +3,434 @@
     "number": 13,
     "title": "Daikyo and Shokyo",
     "aired": "2026-07-04",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/iDCBuGSftB"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/khb5txmqogk2"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/cQlxHSRY#VN8WpWayDbep5F55Sb1Dhnw0NHovNpkmlIR-OsyL1rg"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=cXUyZ2FvTkFsczRuNUxXT1N3THZFZlFxamEybm5sZHFkMFFLWFZic2czMElqSHZhRDQvekRjSGRSaVpQZkNMVQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/p1FdtDd2A9"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/dx3vx856dn5d"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/tEszURzQ#EtusyMo9G6HGaphiknnVnTU1SBuGOvn99I9v4QpsLOM"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=OGd2Zk5hT3Y0YW1UK3U3UHlWSUMrdz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=cXUyZ2FvTkFsczRuNUxXT1N3THZFZlFxamEybm5sZHFkMFFLWFZic2czMzVhWXJWT0lIMFpYMFBIMjZIcCt2Ug=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/NDVcOVNxui"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/j9pdpiyk1drt"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ZdE2FCoY#nxl6LAEvCGTbUdKtRya8ibiuGOIRwWsrkZUFdkASiEg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 14,
     "title": "Family and Friends",
     "aired": "2026-07-11",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/o5m28OccZn"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/w6cxlrnuuk4w"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/es5gCSRA#uhiDFrO8P2dITI4I6m9yc_t3RiVVa9VokZ2zUzsXQdk"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=MDRQNkVuWVppUUxSSUxPMlNIbGtwZz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MzZ6VWRrbDM1WVNMdlB2UmVpRHJseHZxWXZtVjMyTmpJb2I4RzVPM3NuQkt4c1I0enhvVzNGSEpyZ1hJU0dGam9pMXBmTDdHNzdBN1gvUkhFUUFTblE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/2hgawyvuQF"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/0fe2ar0tfdz5"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/7w4AzJTR#9Z6UdY1bz8jrqvrNQaUrpRGDCYZIoaeqUP1CaeTZYcE"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=MDRQNkVuWVppUUxSSUxPMlNIbGtwZz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MzZ6VWRrbDM1WVNMdlB2UmVpRHJseHZxWXZtVjMyTmpJb2I4RzVPM3NuQkt4c1I0enhvVzNGSEpyZ1hJU0dGajJHKytHUjRqS2k0M1lJYjEzYncvcEE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/5gcdKm3LOM"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/6uwvk9etkkl6"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/H8pjyLCS#Ag3br8ZgTNmXqL7ci7AIFF3PDDTZMWEfPnakT36AkdU"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 15,
     "title": "Yuru and Danji",
     "aired": "2026-07-18",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/B3BJfCmWRE"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ymmm6fopj7f8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/emBwnABa#OeWwrA2JKr1yrXTRF7wSSI3S0nAZBKr2KQT37-VdtPU"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=d2lOeFpDYUZNMFpjdEczaFF4UUhrdz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MWlwSXJsdXBrM0lLSnZuOU9NMHFrVlFmNUFrUDJyTGUyZ21yR01PMWszd1J6a3BKSk91RlQ1ajVJOHJpRVJqOA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/v2JXmOfswV"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/2lhb8gv8oec1"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6ioVDQZb#fmhgYHuVwRjXQndnmXXOxWAh4DFv9ANby2UyAnI3Ndw"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=d2lOeFpDYUZNMFpjdEczaFF4UUhrdz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/nB3TS7xjxC"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/x2xaejti4ib4"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/L6AmWLhQ#Ovpuii4gg5pesYeG0ClIMNQd16qJnBhBKjbDLA3vkj0"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 16,
     "title": "Kagemori and Shingo",
     "aired": "2026-07-25",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/KJFm85xDVO"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/GfJBSIDb#qZlnLPUBeensn4EYo_ISWHkkXSpi7J7zhcqlVFguo6o"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=K3Bla2RmUkFLVWZ3cnlyZzg4dnpEdz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MVdrZ25CSmpPZW9PaTczYW1POERQQ3Z5c3JMcmRib0hGb09UVE1xSUpEVCtDMEdaRktSWTZRQ1VSZmJFNG4vT2Zrck94Y1N1Zk9zcG1iVGRXa0hvL3c9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/EAXrOdQv2w"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/qag2lLTA#dCoC0AjdFNVhaCh5zeACCdHapiEMB0AtWRE56Ewq19g"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=K3Bla2RmUkFLVWZ3cnlyZzg4dnpEdz09"
+          },
+          {
+            "name": "blogs",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzcrfdvxhRroheY2BvoMW7y4XY2LiyH8rvhnEAb-MjXmx7ZZKnOvIEqggwKuD1AgBGOGW9doUnYKN-85SCeEbDq1Jwm7licXqBqNXMXTzfAXClAHySLfVNXgSfhnUrRIB-pi6Yj"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "upbolt",
+            "url": "https://upbolt.to/e/i6iie14sw4r4"
+          },
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/ZuhSJ4tRny"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/iG5WECaC#Qdu1v3H8pk4jUt6IFqgWp2SmdH40C7MNyuDQQmy5i1A"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 17,
     "title": "Crybaby and Naughty Child",
     "aired": "2026-08-01",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/6ingGSwTh4"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/fsz7ou9sxb7o"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/OtBzyQpY#k-el-QQWCV9XTRgXYc1Wkwi_RNrK53XvvNCupSgL3D0"
+          },
+          {
+            "name": "ondesu2hd",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=WmYxMFAvekpaaHZIUTdUSnl3L05JZVBuTC9IamZoQ1MwZFBMZ2huN3NWYz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=RGU5SUlKUGM4b0U5QS9UdXR4eHUrN1JvZlZSKzI3VzdKUjRtckFkWmpwZkp5L05zbGxYWVkwQzdxanlncWxmdQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/F4OnIJh2yr"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/t1aku2p3ogb6"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/zp4WRZwQ#s7uDKfDUy7q8Ylcr9fuDHNsGHSaoW6cgSTX_ETdwfQ8"
+          },
+          {
+            "name": "ondesu2",
+            "url": "https://desustream.net/dstream/ondesu2/v5/index.php?id=UklaZEpvYllSa2d5ek9uYnkrdE5TQT09"
+          },
+          {
+            "name": "blogs",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dxOkfGdjzaJyQGQlBVdgXEdLFIzQN-2xZhY9Z4IGYyPmFUz7isWLIhQHvfk6mIG2UZIIQmWQkNyNFRgRTsUoW4IKEGG4adnPdpKd3Ise_uO65Uv9CVcYGBwGYYTLW2nI00J3Q"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/J3AomaUtUE"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/qg90gg07oyqk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Wxw3VToJ#Vy-IEe2YOmOvztRVpwkVJu1DBXxRfrbehBPbjScAeD4"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 18,
     "title": "Fujin and Raijin",
     "aired": "2026-08-08",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/3GIB0Afr5A"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/hk6k8hhop2vu"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/3DpGWYCI#q4IpYKfR54UwZ3DItkfdWbgEt07WmuBx9oKV1-E7wPc"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=QTB1UVo3aVZMeHJCdXVZclpybUhTdz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=eTFhTUdaTWJvMFNPOFlad3plNWdsNld0SzdQNmFBTGpoTnVzM1l3UURCVCtnbFNaZlBjcW5YREwwc055eGxJUzd0K1N6QW55MFRpR3gzVVRUSGFMUmc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/D11dv2km2X"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/vu12d2d5h9to"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/GegjDIia#du6613cSpS03sYE6peDogWc61E4NlfcQQLKNdYIxOSE"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=eTFhTUdaTWJvMFNPOFlad3plNWdsNld0SzdQNmFBTGpoTnVzM1l3UURCVCtnbFNaZlBjcW5YREwwc055eGxJU3ZWQkM2aDAwT0NrM01TMUlsUFJVSGc9PQ=="
+          },
+          {
+            "name": "blogs",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dytpCSWgWFcwvtniNN3ZlgzVLjxslk-AFjGs9O-nn73hQE65IgdJ1NvlbBnAiNQ97eMeZkAr8zA7GHLLGyxyqmSb60mtL-byhAf-oM_-Kuv-TzFy0ZtzMtRZqBmNqiNnJ1nkQo"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/LODsXQcsMw"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/d9bitjnzhjxi"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/rbQ0kASQ#cObw_mVtZSqUkjELqcCviYavZE332qHvY9EA1y2wjiI"
+          }
+        ]
+      }
+    ]
   }
 ]
