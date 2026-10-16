@@ -14,11 +14,11 @@ season: fall
 year: 2026
 episodes: 12
 duration: 23
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2026-10-01"
-  # to: # edit manual
+  to: "2021-03-30"
 
 stats:
   score: 7.5
@@ -37,10 +37,10 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159042-X0mqyaU
 trailer: "kbtRqqa2GyA"
 
 draft: false
-addedAt: "2026-10-15"
-updatedAt: "2026-10-15"
 ---
 
-The second season of Tensei Shitara Ken Deshita.
+Musim kedua dari serial anime Tensei Shitara Ken Deshita telah hadir, membawa kita kembali ke dalam petualangan yang menarik. Serial ini mengisahkan tentang seorang tokoh utama yang telah bereinkarnasi ke dalam dunia baru dengan kemampuan unik sebagai seorang pedang.
 
-Note: Each episode was streamed one week in advance of the TV broadcast starting on October 1, 2026 on Abema. Regular broadcasting began on October 8, 2026.
+Setiap episodenya menawarkan keseruan dan kejutan yang tidak terduga, membuat penonton penasaran dengan apa yang akan terjadi selanjutnya. Dengan kemampuan pedangnya, tokoh utama harus menghadapi berbagai tantangan dan musuh yang kuat di dunia barunya.
+
+Musim kedua ini telah ditayangkan secara online satu minggu lebih awal sebelum tayang di TV, yaitu mulai tanggal 1 Oktober 2026 di platform Abema, dan siaran reguler dimulai pada tanggal 8 Oktober 2026.
