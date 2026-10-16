@@ -3,36 +3,398 @@
     "number": 1,
     "title": "Asa and Yuru",
     "aired": "2026-04-04",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/4DqmZxGGhR"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/fj8nr4uso2pc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/u9YV2LqR#AiItc2AL6GiH7qvj6P5EjIY3vClDnkGx_8vhKPbD0xc"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=QTFvQTFiZGE2SlRSbThRL1lyazAxdz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/m2zztAV1Ny"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/lgmbpsb9bti2"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/WtIAXIZD#jpCQtt-xblFxcgmIyC7LVcII8de580kqpfMJSw4J72Q"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=QTFvQTFiZGE2SlRSbThRL1lyazAxdz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/1oklALJVDK"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/u9830s6tsa8x"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/jo5VnDqT#WeZ2bxy41JRoHf28w8c6m_xk3Cc5owfrAQ0GorjGzWY"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Right and Left",
     "aired": "2026-04-11",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/Bom69nXQ3o"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/d4w6r5pa5542"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/8381VJAR#BtYKCFwUj0CUGMWnBq36K2IfcrqEQSK-96bcppiapis"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/TL7VbxX2e8"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/r5geax6t8t2l"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/MrsGlZTK#Ph81k0U2v51UBkKR_nPrViVjnqJ5cMtea9n3Cktkqk0"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=aXVlcUF2c0dOajJQcnhlZDFDYldCZz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/S0HMU7uiRv"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/o7g5g9iappan"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/g7V0haoA#D8VNdXCK0sEtyIH9xGpZFS4WN5Ud3J8-WbydsQj1bTI"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Dera and Hana",
     "aired": "2026-04-18",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/fLoOqIALcK"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ee1fczp1897e"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/omcnXRya#y1t53YYVXbteOR4VkE0sNPgHZFjqfECfGU2Mtce837Q"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=SmVSNHhjTG9nMVdyMzNpakVoMDVSQT09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/KZPbH9Adh0"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/4cwtbvy2510h"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/hjsiSLDT#NaIrHmHf55Vldh52Y7NCMZizY_im4sKrV3lSKPxXGGM"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=SmVSNHhjTG9nMVdyMzNpakVoMDVSQT09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/M9AoGCgTMC"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/nykw09fgn9ve"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Zqc1DYZa#7f-HCEpcLRbWuZfQ18AsZiKXEA38VmLwJLqfdi2B9mY"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Jin and Yuru",
     "aired": "2026-04-25",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/2pSaF68fY0"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ejxm9kt1np0k"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/425TkDwT#3JzJsc6qvRPkRUfTazamgr5rfYByP8Sqh_L-HLpgLxg"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=OExBMUpqblBQWWtaejhnemRvK3o5Zz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/01mhm98GVh"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ikv1i9khkr3n"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/kqIFVR7B#ximrNKaMPBtwUJENnwv8DbmxmRcbAFBWue_I84IKs8U"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=OExBMUpqblBQWWtaejhnemRvK3o5Zz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/Ia6PlRwNgO"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/rglbd2hjhb56"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/g6JiBZwb#J6TD9Lrf6ImIWPXv2qdMT3it965ggNEz_YMTlpky5Fk"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Hare and Tortoise",
     "aired": "2026-05-02",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/beZPxpEOb8"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/nzuudnlqjd8a"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/pINHwahY#gtw7TreJquNlX6rjgJ93Wg59Oqx9mibc9oOYedZ0XqU"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=WFM0WEpDanlaQThhZyt4OTA4NWE2QT09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/zrFgPqxDab"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/znmzespqj4q8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/BZ0XHabL#K0NYO4zYzgcQUt6eonsaKx3KpnrNKek82RrardrUg_Q"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=WFM0WEpDanlaQThhZyt4OTA4NWE2QT09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/1R4FbFvpXk"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/khmvhxug2itc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/pINwnK6Q#XAC7RLVIBea6Shk-wUMdZu1tmdqeAu-q4jxsnvZ4eyQ"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "The Kagemori Clan and the Unknown Assailants",
     "aired": "2026-05-09",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/HKgoMebgqc"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/su2jpt9y9max"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/F6Fl2Zpa#6AJbvpyBmH_ri2rc-scc_zTM5hzEshOdg2UOi5LeFVw"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=U1cxYkVWSEh2ZlRmYm1DU1VUblhxQT09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/U510IxR9EG"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/aak2l2dwcnie"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/E3MVkDhL#6C7CdpBoVsj-7wvJJJyoEpENUq0HdOWkHXZkK8BB4PU"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=U1cxYkVWSEh2ZlRmYm1DU1VUblhxQT09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/nWMeYlxlBK"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/s7dalk5nzhhm"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Br8AiT4L#Vuf6fQ1fl66Ypk3Z8gQoKrTd0AaKLOC2cjj3Dp_Jl1Q"
+          }
+        ]
+      }
+    ]
   }
 ]
