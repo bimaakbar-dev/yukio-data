@@ -40,8 +40,8 @@ trailer: "pN8EE8d9yYE"
 draft: false
 ---
 
-“I have no interest in real girls!” 
+Okumura, presiden klub manga sekolah, mengaku tidak tertarik dengan gadis-gadis di dunia nyata. Ia adalah seorang otaku yang terobsesi dengan karakter manga 2D bernama Lilliel. Namun, kehidupan Okumura mulai berubah dengan datangnya tahun ajaran baru. Seorang gadis cosplay bernama Lilysa bergabung dengan klub manga dan berhasil meyakinkan Okumura untuk menjadi fotografer pribadinya.
 
-So claims Okumura, the president of the school’s manga club. He’s your typical otaku, obsessed with a sexy (fictional) 2D manga character known as Lilliel. Then the new school year starts, and a (real!) 3D girl named Lilysa whose passion is cosplay joins the club. Lilysa convinces Okumura to become her photographer–and guess who her favorite manga character is? Not only that, but Lilysa is into modeling the fetishy stuff! The boundaries between 2D and 3D start to blur as this hot-blooded romantic comedy unfolds.
+Lilysa memiliki kesamaan dengan karakter manga favorit Okumura, baik dari nama maupun minatnya. Ia juga suka bermodel dengan kostum yang cukup sensual. Okumura mulai merasa bingung karena batas antara dunia 2D dan 3D mulai memburam. 
 
-(Source: Seven Seas Entertainment)
+Kehidupan Okumura kini dipenuhi dengan komedi romantis yang penuh semangat. Ia harus menghadapi perasaannya yang semakin kompleks dan menemukan jalan untuk mengatasi perbedaan antara cintanya pada karakter manga dan kenyataan di sekitarnya.
