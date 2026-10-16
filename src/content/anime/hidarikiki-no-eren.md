@@ -8,13 +8,13 @@ kitsuId: "46806"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: spring
 year: 2026
 episodes: 13
 duration: 25
+rating: PG-13
 
 aired:
   from: "2026-04-08"
@@ -22,6 +22,7 @@ aired:
 
 stats:
   score: 5.9
+  # scoredBy: # edit manual
 
 genres:
   - drama
@@ -37,6 +38,8 @@ trailer: "EsQudPqDOQQ"
 draft: false
 ---
 
-As high school reaches its midpoint, Koichi Asakura—who dreams of studying design at art school—has his plans shaken by explosive graffiti on a museum wall. The artist is Eren Yamagishi, a left-handed girl who buried her talent after a past incident. Drawn together by art, Koichi pursues design as Eren returns to painting, but fear, ambition, and old scars threaten their paths.
+Koichi Asakura, seorang siswa sekolah menengah yang bercita-cita menjadi desainer, mendapati rencana masa depannya terganggu oleh sebuah kejadian tak terduga. Sebuah graffiti eksplosif muncul di dinding museum, yang menjadi pembuka bagi pertemuan Koichi dengan Eren Yamagishi, seorang gadis kidal yang memiliki bakat luar biasa dalam melukis.
 
-(Source: Crunchyroll)
+Eren, yang pernah mengubur bakatnya karena sebuah insiden di masa lalu, kembali mengambil kuas setelah pertemuan dengan Koichi. Keduanya saling terhubung oleh minat mereka dalam seni, dan Koichi mulai mengejar mimpinya untuk menjadi desainer. Namun, ketakutan, ambisi, dan luka lama mulai mengancam langkah mereka.
+
+Dengan latar belakang seni dan desain, kisah Koichi dan Eren berkembang menjadi sebuah perjalanan penuh tantangan dan emosi. Mereka harus menghadapi rintangan dan mengatasi ketakutan mereka untuk mencapai tujuan dan mewujudkan impian mereka.
