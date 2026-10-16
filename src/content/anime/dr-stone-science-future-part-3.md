@@ -8,14 +8,13 @@ kitsuId: "50187"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: spring
 year: 2026
 episodes: 13
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2026-04-02"
@@ -41,8 +40,8 @@ trailer: "Ox8hatPxyiQ"
 draft: false
 ---
 
-After reconciling with Dr. Xeno, Senkuu Ishigami is close to realizing his long-held dream: the space mission to the Moon is finally underway. While Dr. Xeno begins the development of their rocket's engine, Senkuu's team continues navigating through continents and seas in search of essential resources and people to assemble the necessary infrastructure for the mission as well as revive the entire human population.
+Senkuu Ishigami akhirnya berhasil memulai misi ke bulan setelah memperbaiki hubungannya dengan Dr. Xeno. Misi ini merupakan impian lamanya yang akhirnya menjadi kenyataan. Sementara Dr. Xeno mengembangkan mesin roket, tim Senkuu terus menjelajahi bumi untuk mencari sumber daya penting dan mengumpulkan orang-orang yang dibutuhkan untuk membangun infrastruktur yang diperlukan untuk misi ini.
 
-Meanwhile, the enigmatic Whyman continues to cast its shadow over Earth from the Moon. But with the combined might of humanity finally coming together, it is only a matter of time before Senkuu and the others confront Whyman and get the answers that have eluded humanity for centuries.
+Dalam perjalanan mereka, tim Senkuu juga berusaha untuk menghidupkan kembali populasi manusia. Mereka bekerja sama untuk mencapai tujuan ini, dan dengan kekuatan gabungan manusia yang mulai terbentuk, mereka siap untuk menghadapi tantangan berikutnya.
 
-(Source: MAL Rewrite)
+Namun, ada satu kekuatan misterius yang terus mengawasi bumi dari bulan, menimbulkan pertanyaan tentang apa yang sebenarnya terjadi. Senkuu dan timnya harus segera menemukan jawabannya dan mengungkap kebenaran yang telah tersembunyi selama berabad-abad.
