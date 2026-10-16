@@ -3,36 +3,426 @@
     "number": 1,
     "title": "That`s a mysterious meeting, is it not?",
     "aired": "2004-10-03",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/hFocOR2LFk"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/bqw32ey0t04s"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/BVVR3B4B#_QPNgoeHJMWYV6ZDUzKDDbpw7t4j6cfwT-sa0ZxtydA"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=dnVCdlgvenptZzNkY1hwN0VWLzNqM2N5R05NNTk5NWRlWUFDQS9jV0twZnNCUENzT2tDYW94L1BQTlJsbUExeQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/1sjhIeX38T"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/xf7t1g286wmc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/MVcUHahQ#e6kdmQF4zhSiy_pWRkL1YuOCyh8X_BIRBxjKTMpb0Dk"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=dnVCdlgvenptZzNkY1hwN0VWLzNqM2N5R05NNTk5NWRlWUFDQS9jV0twZVhBRVpSdEFtV1FMTDV3dVpTc0dSRg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/0yphzNE1Kg"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/z97t5oj161bu"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/VVND1KLb#oxIHviZcvhUV0Sw6pjkayWFYX2iAOOnkMVbKCPz-gcQ"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "The charm is 'lyrical'?",
     "aired": "2004-10-10",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/woFCF5i8OV"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/xclx6au1pa4c"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/L9wH1QQB#dn5es2eD4Db5tN-ZA4giTxitQ-4peCGTruB-rji9fZE"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=cmo0QWd4UFdsOTczVVhCd2xtUVJiQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=czJvbmRZa2lPYWh3NmRORWFnbWNWMHp4MGlpRDJQWk96dHhpNlZHcEdEcGFpOHpLZVE5VkJMQnN4djFLZnE0eg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/cqkyitMYFy"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/sbj3iiu66geh"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/n4YXCYRJ#eRNPIgXsq2B3b1G2UAMkmJP0FEuzG2dyT5YM_ZRTncY"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=cmo0QWd4UFdsOTczVVhCd2xtUVJiQT09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/GIPoYLNuHw"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/uff553snbomc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/XxhhwD5L#_osSZO0uPkZKZ3InqNoIbXA9_nkhC3s44c3zXElmth4"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "The Town's in a Lot of Danger?",
     "aired": "2004-10-17",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/IYJrqlJ2Hn"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/nkv8uo20d6xu"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Q7USHKja#j_dqtSc03KsLoA3XwgCX28EF4ftcXc0c6uptm9il14c"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=S3lNVWtwa0JtRThtZ3l5S2p3ZDZ1QT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=N1NoeU4zcjkrcWVwM0FSSlpNOElrQTJLN2UxSDZOV28xTi9uMU5NN29JRGlHM0pWc21GREVTajV4bW9QenEreW5pYjJtTm1wa0R1RFgzNU84TTNHTmc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/H5gyVn4SRT"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/l9d2yl2j9ty9"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/UvdmiDiD#TpeTwYr9lDCEGa6ANvdKLENRHELbTbsozOxvlBMES5w"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=S3lNVWtwa0JtRThtZ3l5S2p3ZDZ1QT09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/24AVqL6QIH"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/nqfri14fwhv5"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/drcHza5a#ND4zcXXC6uQEVQrQOlTTB6N1lBTBo78N-NN3Aj62Vfo"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "A Rival!? Another Magical Girl!",
     "aired": "2004-10-24",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/R9SwP3bJSa"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/hqkmq1e35bhw"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/cZlD0STa#-19KR8B3BDXp8ZnCpQtJxewvnublZ1g22h0r7lSpyrs"
+          },
+          {
+            "name": "ondesu2hd",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=OVMzN25nUlhQRFMvZThLMHQreUoxL0xvSmE5LzBlK0pmT29ZVFN6dnlMND0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MUMxZ05EaFJyWUc3RnVFVGZUckF4WGZwUGlIVnRsQTJnSVFGUVJnaEU5Tm1mNy9oci83azQvRGJmTmVDVnVuRHpPTmlZL0tjNHk1aXR0WThwRUF2c2tHTlNPQVJGUTNDQXJJUzlQVFpkR1E9"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/tIPlRHyx0M"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/zxuiv5qef12a"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/tNFSjKbA#qY7wsk1kO07lXzAhnFQbtfREhfJhOxsN35ZItxT7TQ8"
+          },
+          {
+            "name": "ondesu2",
+            "url": "https://desustream.net/dstream/ondesu2/v5/index.php?id=OVMzN25nUlhQRFMvZThLMHQreUoxMmp4VWxFWk5MemJkUVhtOVRjMHFEOD0="
+          },
+          {
+            "name": "blogs",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dxHoH0YMWko06USRmCBeIA6b7FUZcr5V_AWYTceWU_KtfGtVazr2O2KNestMmTuPn0DMh1pTiJ35ktLcBZPbVflIC0Flf26yVi9d2DkkLu6r1Qrv2rrIzOpRxNBZVqTQcJNwlyW"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/jYv5zWbNGo"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/p0febhx5fn84"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/0MFw0arK#tLNCG6buO3eKw4Nmu0RNrLv1Lc0ogVDl-Y8Lz0q_KBE"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "This is a Town of Hot Water, and the Ocean's Roar Hot Springs!",
     "aired": "2004-10-31",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/sbW7YPfAzj"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/gor3tyt69d7m"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/G8I0hLAb#Uw2aYXP5MAwSxPorvv7IpsKQnsnocRxVQnkf8Kk5rcU"
+          },
+          {
+            "name": "ondesu2hd",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=UnVZeEVxRy8zZ2lWbWFWOEF2akxYZjd5QWh4Qm1zcEtic0VNaHpndVdsST0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=OHBMQkt2aFBvZnRzQ1RBdjhjcDVHaDdqNU5GKzlaK09UdlFpRHdQWVF6SHpNRU1hUmJobjNVbzJZeXdneTFQb1pBQ3NjZ3V2VmhuYUd1WXNiZHgreUE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/dCauINw9e0"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/q92gbkrkckne"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/r0oCHI5b#EGFsAEq3prEpdswFOKNkD-Oc8qrWWsK7lDf2TjKQsBo"
+          },
+          {
+            "name": "ondesu2",
+            "url": "https://desustream.net/dstream/ondesu2/v5/index.php?id=UnVZeEVxRy8zZ2lWbWFWOEF2akxYYW5SRWY1WFZ0SDZwVnZxVlJsbVZkOD0="
+          },
+          {
+            "name": "blogs",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dxjbyYPrOd-px58OvxedWasATSIuJr3dCh94GNXG5ofaEP-42CN_ukGz-dT7Ioba49F9Lp4Me7oju_z3lHpiAUqSYhqHhGoriDRXyt1jX-5gAkgILvlVt4-63R5u8ThtTGSdlMI"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/5fR5LJMsb3"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/s5r4hn56568x"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/n9ZTXYgI#18JE_LKFZOYYkvrebD1ZdWemxjONmGfjFFiQ6npgTQk"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Feelings That Can't Be Understood",
     "aired": "2004-11-07",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/4CvBrsglLA"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ru6nx9qid10z"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/BqdgmQDK#nNqOer_ES1_4jy5xUGzY_5BUb6ryv8cFXMkRxPJaPZs"
+          },
+          {
+            "name": "ondesu2hd",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=QTJMamlDUmtVTkdRQVEzWnpJVys1eVdlRCs4eFVaWCtSeTRJT2lzditvZz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=STMwSEx3MGR3QkFCVTNaVjdobUIvd3VJcEVMRnJ2dzZYNmp0VHl5azFMUWNoLzh3WndxNzFLU09JNExIY3VjT1ZNMzQxb0pZK0cwcmswQ0dhbzRxenc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/ptXm1aXvWJ"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/30a41ng3juq1"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/dml1lQpL#sPNJ7VEaOWquB8DNCNMvijKVUC0-heCRJLGK09ro95Y"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/PviI8KzRCM"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/5es479h01pem"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/B28liKTS#FlKypfRph1FDGVox945tgDJ6GQtz517Nx2lL1saQ68U"
+          }
+        ]
+      }
+    ]
   }
 ]
