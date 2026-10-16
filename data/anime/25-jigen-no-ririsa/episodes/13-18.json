@@ -3,36 +3,102 @@
     "number": 13,
     "title": "Can We Be Friends?",
     "aired": "2024-09-27",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYbVNmcm93RkdZUXBWdTdpSmw3L3hJQT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 14,
     "title": "Together With You",
     "aired": "2024-10-04",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYbVNmcm93RkdZUXBWdTdpSmw3L3hJQT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 15,
     "title": "I'll Keep Evolving",
     "aired": "2024-10-11",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYbVNmcm93RkdZUXBWdTdpSmw3L3hJQT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 16,
     "title": "Your Way, My Way",
     "aired": "2024-10-18",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYbVNmcm93RkdZUXBWdTdpSmw3L3hJQT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 17,
     "title": "Comrades in (Cosplay) Arms",
     "aired": "2024-10-25",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYbVNmcm93RkdZUXBWdTdpSmw3L3hJQT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 18,
     "title": "Destiny",
     "aired": "2024-11-01",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYbVNmcm93RkdZUXBWdTdpSmw3L3hJQT0="
+          }
+        ]
+      }
+    ]
   }
 ]
