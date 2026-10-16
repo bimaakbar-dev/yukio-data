@@ -3,36 +3,102 @@
     "number": 19,
     "title": "Time for Summer Comiket",
     "aired": "2024-11-08",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYbVNmcm93RkdZUXBWdTdpSmw3L3hJQT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 20,
     "title": "The World We Create with Our Friends",
     "aired": "2024-11-15",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYbVNmcm93RkdZUXBWdTdpSmw3L3hJQT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 21,
     "title": "The Protagonist's Story",
     "aired": "2024-11-22",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYbVNmcm93RkdZUXBWdTdpSmw3L3hJQT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 22,
     "title": "This Wonderful World",
     "aired": "2024-11-29",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYbVNmcm93RkdZUXBWdTdpSmw3L3hJQT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 23,
     "title": "Manga Club on the Beach",
     "aired": "2024-12-06",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYbVNmcm93RkdZUXBWdTdpSmw3L3hJQT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 24,
     "title": "2.5-Dimensional Ririsa",
     "aired": "2024-12-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYbVNmcm93RkdZUXBWdTdpSmw3L3hJQT0="
+          }
+        ]
+      }
+    ]
   }
 ]
