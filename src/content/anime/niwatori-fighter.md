@@ -8,13 +8,13 @@ kitsuId: "49071"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: winter
 year: 2026
 episodes: 12
 duration: 23
+rating: PG-13
 
 aired:
   from: "2026-03-14"
@@ -22,6 +22,7 @@ aired:
 
 stats:
   score: 6.6
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -39,7 +40,8 @@ trailer: "5hRrvJ08ZSs"
 draft: false
 ---
 
-Humanity is on the verge of collapse after the demonic Kaiju descend without warning, laying waste to cities and crushing all in their path. Resistance fails. Hope fades. Things look bad…until a lone rooster steps forward. Keiji, the neighborhood cock of the walk is more than just an ordinary rooster—he’s humanity’s greatest defender! His opponents may be ten stories tall, but 
-with razor-sharp spurs and a battle cry that splits the sky, this unlikely hero carries the fate of the world on his wings. When defenses fall and hope fades, one bird will rise.
+Di tengah kehancuran akibat serangan Kaiju yang mengerikan, umat manusia berada di ambang kehancuran. Kota-kota hancur, dan semua upaya perlawanan tampaknya gagal. Namun, di saat-saat tergelap, seekor ayam jago bernama Keiji muncul sebagai simbol harapan. Ia bukanlah ayam jago biasa, melainkan pembela kemanusiaan yang paling kuat.
 
-(Source: Crunchyroll, VIZ Media, edited)
+Dengan cakar tajam dan teriakan perang yang menggetarkan langit, Keiji siap menghadapi musuh-musuh raksasa yang mengancam umat manusia. Meskipun lawan-lawannya memiliki ukuran yang jauh lebih besar, Keiji tidak gentar. Ia membawa harapan baru bagi manusia yang telah kehilangan semangat.
+
+Saat pertahanan terakhir manusia mulai runtuh, dan harapan tampaknya sirna, Keiji bersiap untuk mengangkat sayapnya dan melawan. Ia adalah satu-satunya yang dapat mengubah nasib umat manusia. Dengan keberanian dan kekuatan yang luar biasa, Keiji akan memimpin perlawanan melawan kekuatan jahat yang mengancam eksistensi manusia.
