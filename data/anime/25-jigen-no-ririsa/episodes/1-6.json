@@ -3,36 +3,102 @@
     "number": 1,
     "title": "New Student from Another Dimension",
     "aired": "2024-07-05",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYclB6R245cElxYmxWaVhxeUYzRTIxUT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Cosplay Group Potential?",
     "aired": "2024-07-12",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYdXdsNzgreklaQzl6c29LcVRQNURUMD0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Lili x Miri",
     "aired": "2024-07-19",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYblRJVXJvUnZ5ek9LSWEvbStqTmVnWT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Time For Our First Event!",
     "aired": "2024-07-26",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYclE0U0NHL05pM3IwTWlaWnd1Z2FIcz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "First Event Is Over!!",
     "aired": "2024-08-02",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYdFNEaXZrdXFrTlVQUENaRjF3Z2Fzcz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Tips From a Master!?",
     "aired": "2024-08-09",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYalFmNnBTYWFMRW9UVlA4ZXhzaDAwND0="
+          }
+        ]
+      }
+    ]
   }
 ]
