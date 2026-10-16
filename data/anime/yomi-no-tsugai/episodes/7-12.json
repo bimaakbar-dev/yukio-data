@@ -3,36 +3,406 @@
     "number": 7,
     "title": "Asa and Break",
     "aired": "2026-05-16",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/w5YWbVpvWL"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/apv16xdfnrzk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ZipjkLzS#LsspsVZUpWFrfK36kyT1ba_ejF84I3desyd6sP_3Jhc"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=T3FWZTNlb3ZWWXVjYTdDQkNSNXBqZz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/HiAsKSBkne"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/59juuq7ik1fr"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/93phHbaA#b7PVO7e7UdWs-skmkXGc5L9sIOFlDc28ZWwpp9TkQBQ"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=T3FWZTNlb3ZWWXVjYTdDQkNSNXBqZz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/pP4U0V4IEm"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/jol87dc7jfyu"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/h2YCRQrY#De49KqMmbD-ShPzb7KeL39YxvfJBcNx_mOQSXiW4fQg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Suspicion and Conviction",
     "aired": "2026-05-23",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/2iBCM11q2u"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/6to8caq92mdp"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6f5ShZDA#Hrak_jZpNM_yMWqTzO2M6xVQXJMQ6nf21iKV62pRURc"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=dnQ3bHI3MnJkekhhSGRIV0l1MVhDZz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/aOfMT377rN"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/58f3o4z610b7"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/PHICUZTJ#NhTXmrvWAmRTy-41U6hODZw5Entq0QQROWgyApj6JGA"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=dnQ3bHI3MnJkekhhSGRIV0l1MVhDZz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/nZFVEGfq5R"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/expmeygz1u9d"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/aWZxQQJI#JHi-VLlbsu9I2TUsHAMbWpx6Y_2HnFHdjoU4PNb7Lm0"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Embrace and Whisper",
     "aired": "2026-05-30",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/gz3LSLcppK"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/m6vgwze2r2ot"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/32IRSDoT#K7s96z4dL-unq70fhod7Q3adiaTAVSGT5D2VNFrMDyE"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=ZExJZmlPRHlkWFo5Z0dXUkU3SWVTdz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/rLSoDFiqVz"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/pmchzke5v8e0"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/K24AFbia#CC0LtLXDwI951ZQgrxmF9RvujcQCheGXOysE6d0QeW8"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=ZExJZmlPRHlkWFo5Z0dXUkU3SWVTdz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/zIQC9LI6AN"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/1woxjlsumd6i"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ujoUGJxJ#VGOFx3XWo2YqywA-VGX1UGzr12_miKTdTsa5ELQPi2U"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Long-Arm and Long-Leg",
     "aired": "2026-06-06",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/0qLXxNgOW5"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/jutuvaiot8k7"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/b25wEaAA#gRU44OACeiy9LRkDiNT74_LBrvLoB_gPHyc0dn8pOTc"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/xpGn8mQGV9"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/5z7c858ale6n"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ejYHWYQR#PcWJSz_lkKUWrDTU8MY2KImZFQ9UA-bGSu-1-WciCx8"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=MTZEc0F1bUg1VjdZM2toc0hlVDVIUT09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/VkcSNjkD3I"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/dju5nntwlw5x"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/euQCRYbA#WmVr3AB-QWTaK8MsMbXrDPVxSemZviBgGk7kyzTPLOY"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Big Brother and Little Brother",
     "aired": "2026-06-13",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/Kik9ytjLkl"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/4u4czlto83ep"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/43MmGawC#drjIWKlMqMhDy7PCHO2nRSQ74pQOT_Q7SNmEcu4PAIg"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=Ukt0UnBQRElxOFp0YTdwa0ZSYlUrdz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/GoCI74MBce"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/qbg1ihjlsaz7"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/F7kU2SZY#NthGUY0CP5mgjhrq0RVnXUe8ygYnOzK11vuLSPvINfE"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=Ukt0UnBQRElxOFp0YTdwa0ZSYlUrdz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/HQsT61iVCE"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/1kbk1m5l0sm4"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Q70h0YiY#nEEJhNT4sNotNkKCmBba_qkQc5tv-8fe4Gk1U7KfwBw"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Retainer and Shaman",
     "aired": "2026-06-20",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/dufiSmSGxr"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/00e44t99r0d4"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/OSxxkSJR#DReGAVJKPWbdXav90H3ogOLUAn2cbaLx0mBUinQIWmI"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=UTZxT3VBRnd4MDBaQkpBRW13a2N6QT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MGZRQmV2U0Qzdmd6eWNEMFpDaTFJMkZxS2ZpZjc0TXZXREVkcUJwelZ5RGJ0eDVWV0Q0aTduZFBFVUhnb1U0VA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/sKhLYjYjCJ"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ajj1h5xiu6vc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/DXYSiZCK#p4DEIYoM_dpKwMHNaLQTH18KOp6paqJVR1hJmR-2DRs"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=UTZxT3VBRnd4MDBaQkpBRW13a2N6QT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MGZRQmV2U0Qzdmd6eWNEMFpDaTFJMkZxS2ZpZjc0TXZXREVkcUJwelZ5QVNDdEtzb3cyaUlHUVhPVWN6OGpEcQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/9GdeGCX23N"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/q9phdxog7wlt"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6CI3wCpD#p5mWsg9IjtjXC69BTAca6Ox9ySfPJiBK1OzWfYRTgTw"
+          }
+        ]
+      }
+    ]
   }
 ]
