@@ -33,6 +33,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-b
 trailer: "Nm21TTXUkf4"
 
 draft: false
+addedAt: "2026-10-16"
+updatedAt: "2026-10-16"
 ---
 
 Sequel to Tokyo Revengers: Tenjiku-hen.
