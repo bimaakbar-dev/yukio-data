@@ -8,14 +8,13 @@ kitsuId: "43078"
 
 type: TV
 status: finished
-rating: R
 source: manga
 
 season: fall
 year: 2022
 episodes: 13
 duration: 24
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2022-10-11"
@@ -40,25 +39,8 @@ trailer: "fzR82oXbjnY"
 draft: false
 ---
 
-Was it all just a coincidence, or was it inevitable?
+Ichigo Kurosaki, seorang pemuda yang memiliki kekuatan Soul Reaper, kembali terjun ke medan pertempuran untuk membantu mereka yang membutuhkan. Di kota kelahirannya, Karakura, muncul Soul Reaper baru dan musuh yang mengancam kehidupan warga. Sementara itu, di Soul Society, terjadi peningkatan jumlah Hollow yang dihancurkan di dunia nyata, serta laporan tentang warga Rukon District yang menghilang.
 
-Ichigo Kurosaki gained the powers of a Soul Reaper through a chance encounter. As a Substitute
-Soul Reaper, Ichigo became caught in the turmoil of the Soul Society, a place where deceased
-souls gather. But with help from his friends, Ichigo overcame every challenge to become even
-stronger.
+Saat Ichigo menghadapi tantangan baru, Soul Society juga mendapat ancaman dari kelompok Wandenreich yang dipimpin oleh Yhwach, ayah dari semua Quincy. Mereka menyatakan perang melawan Soul Reaper dengan ancaman bahwa Soul Society akan dihancurkan dalam waktu lima hari. Ini menandai awal dari pertempuran terakhir Ichigo Kurosaki.
 
-When new Soul Reapers and a new enemy appear in his hometown of Karakura, Ichigo jumps
-back into the battlefield with his Zanpakuto to help those in need. Meanwhile, the Soul Society
-is observing a sudden surge in the number of Hollows being destroyed in the World of the Living.
-They also receive separate reports of residents in the Rukon District having gone missing. Finally,
-the Seireitei, home of the Soul Reapers, comes under attack by a group calling themselves the
-Wandenreich.
-
-Led by Yhwach, the father of all Quincies, the Wandenreich declare war against the Soul Reapers
-with the following message: "Five days from now, the Soul Society will be annihilated by the
-Wandenreich."
-
-The history and truth kept hidden by the Soul Reapers for a thousand long years is finally brought
-to light.
-
-All things must come to an end as Ichigo Kurosaki's final battle begins!
+Sejarah dan kebenaran yang selama ini tersembunyi oleh Soul Reaper selama seribu tahun akan terkuak. Ichigo harus menghadapi tantangan terbesar dalam hidupnya, dan semua harus berakhir. Pertempuran terakhir Ichigo Kurosaki telah dimulai, dan nasib Soul Society bergantung pada kekuatan dan kemampuan Ichigo serta teman-temannya.
