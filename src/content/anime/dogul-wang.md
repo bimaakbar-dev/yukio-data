@@ -13,6 +13,7 @@ source: manga
 season: summer
 episodes: 12
 duration: 23
+rating: PG-13
 
 aired:
   from: "2026-07-09"
@@ -20,6 +21,7 @@ aired:
 
 stats:
   score: 6.8
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -30,11 +32,14 @@ studios:
   - studio-eek
 
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184356-SlFIstXUXJYP.png"
+# banner: # edit manual
 trailer: "6f702O_nnq8"
 
 draft: false
 ---
 
-Chaos ensues overnight when mysterious tombs suddenly surface, filled with divine relics granting overwhelming power, triggering a global power struggle to claim them for dominion. Among the havoc, a raider, Jooheon Suh, is betrayed and left for dead until a second chance brings him back years before the relics. Fueled by fury and future knowledge, he sets out to raid each tomb before they arise.
+Jooheon Suh, seorang petualang yang tangguh, hidup dalam dunia yang penuh gejolak. Ia dikhianati dan ditinggalkan sekarat, namun kemudian diberi kesempatan kedua untuk hidup kembali di masa lalu. 
 
-(Source: Crunchyroll)
+Dengan pengetahuan tentang masa depan yang telah ia alami, Jooheon memutuskan untuk mengambil tindakan. Ia bertekad untuk menguasai makam-makam misterius yang mengandung relikui ilahi sebelum mereka muncul ke permukaan dan memicu pertarungan global untuk menguasainya.
+
+Dengan dendam dan semangat yang membara, Jooheon memulai petualangannya untuk menguasai makam-makam tersebut dan mengubah nasibnya. Apakah ia berhasil menguasai relikui ilahi dan mencapai tujuannya?
