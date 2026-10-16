@@ -3,36 +3,354 @@
     "number": 19,
     "title": "Time for Summer Comiket",
     "aired": "2024-11-08",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/p0pys49j77ig"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/yL4SyCAD#oVDHzLjVsSjFor8sAeOC1S-V9S5EvV-LsraqfnKZMtc"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=M1ZZR2x3ODR4QWlhTXlOcFpPQ00zd1E2b245Q2dXcjVpOHJpbFNJS043dz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZThid1dVTmQwQUVzaTlNRndDV3ZxaEE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/st3ztzrlnppl"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/eP40RLqJ#q68-veof6W7u0HD05nZ5wrSJwRMriG-xlHx7MYFKk00"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/index.php?id=M1ZZR2x3ODR4QWlhTXlOcFpPQ00zd1E2b245Q2dXcjVpOHJpbFNJS043dz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZUgzZy9iUmp3T3UzOFQzbmo5cndNV0E9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/iCB0DLzS#_ajtWOKfnI9G8La0T4Vuvkf208lhksA1bBK6cYFpKh8"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 20,
     "title": "The World We Create with Our Friends",
     "aired": "2024-11-15",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/rrfdtly41dau"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/jepBWIbZ#4rM_rL23jey6nk0EJa4j_QaLkRNweHl58PJ01AIfWuI"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=VVJzRWdzR0dsYi9ucHZwc1YxZnZILzJNd1hZcGVxVjg3RE14WWp3WGZqWT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZUdPM211Z0p1VjVHcXp1SE51bGdaSmc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/p6mqaeyaav5o"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/regm2IpC#nBGI8TU4zv9NswR_OdxVBb0WyOOHBc6C2oOisgilBZo"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/index.php?id=VVJzRWdzR0dsYi9ucHZwc1YxZnZILzJNd1hZcGVxVjg3RE14WWp3WGZqWT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZXdTNFlxQUovV3IvSzF4SXNidDBqSnc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/yXQlDaIQ#Ibu7lgrL3ybyOCweX40dOMuVM0MM-fICVNC8r_Klnjs"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 21,
     "title": "The Protagonist's Story",
     "aired": "2024-11-22",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/t0ph8hbf5aaw"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/XCxABTBB#p50nqByJ8JZuHLfzWrmBw7qw8o-DUb-v33pT3kUeWUE"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=R0NUZlRNZ245SUNMQ3luN01XTmkwQ212SnhqVFh5TlkxZndlYmEwOVhqdz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZU5Id0RWMFdRSlRFMVZUY3lCTHE5Rnc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/7zwyt3enpb05"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/jTAgVTrK#oVyHl_ajRimBN-fAeBqZCqubr5e0UYr8_pFbHvweAN0"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/index.php?id=R0NUZlRNZ245SUNMQ3luN01XTmkwQ212SnhqVFh5TlkxZndlYmEwOVhqdz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZUJxRG4yRE5oMGNKcE5oQ3QxbUw1eEE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/KO4mDBgD#MoIvNZ1mFVA-3YEzFYsyoXB6pPANL6CNca9pmJQoHZU"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 22,
     "title": "This Wonderful World",
     "aired": "2024-11-29",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/pyy1d7nyripr"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/uTZCHBDL#jzj32-9POm9SNmn44pIPaIUGUn9AMGdKIiW_S31J4gY"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=Vm9XaTRCQjZIUEh5NDJlRlNnMExDVkVndWxlQzA1ZUpTcmpNODJPYnBzMD0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZWJJbWFmNHd5UU83UjhhdktGaFVMeHc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/9vexe0z561kb"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/uCInXZ5Y#7kUKqhG4aQepnMAee2j8-dbDoSCDWNmdQtVWGRCUZvc"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/index.php?id=Vm9XaTRCQjZIUEh5NDJlRlNnMExDVkVndWxlQzA1ZUpTcmpNODJPYnBzMD0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZS9qK0VnM2hqUHlXT2lMZVhhcDhuOXc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/2GIDlbiI#Fdm9hDSOAqdOexgWvDqLNIwxZt50AMti4Ox_PfKfjmc"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 23,
     "title": "Manga Club on the Beach",
     "aired": "2024-12-06",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/inxpzy69l1ai"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/nOBFSRyb#kXhiNfp7piaogxcRyK9Jx9J4XPq_yDp_8iH427ekPnc"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=SW9zNzNUdFJtUXJMbHpOd1lvNDROYzdDdGxQWDQxbURxb0d1eTUvVjRHYz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZUZMUEJVWG55dlNLR2pnSDNiUytvc3c9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/6iagjnbl74zc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/7Txy3RyS#sWqVa2EwrBGF12FPFBWpC-g5uMdI34kuyYi2QImce7Q"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/index.php?id=SW9zNzNUdFJtUXJMbHpOd1lvNDROYzdDdGxQWDQxbURxb0d1eTUvVjRHYz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZURPb25HdmJabllGSGl2K1B4c3UwQ2c9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/CPZGmB6C#JRAuQ9Mgr6Bem3NlFgQrgsfXpWSrxqCV3TlrL2prors"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 24,
     "title": "2.5-Dimensional Ririsa",
     "aired": "2024-12-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/e96xncyx8cyg"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/PeRWybiB#3US3SKb-Io6dLOPPVeF-tOgPHZxy9hVuMV6yg2D9sMw"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=QWMwbDJDOUZ4MUtYQW1qUVZFWEVLZ2NRNkhNaEd3M092ekN4akczWjd5az0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZVNTU0V3Q3VmMXRCTjVMdlI3TS8vZ0E9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/snni58ldfwat"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Xbp2XJJD#bnJlV1giU75FQ4SjlHI-UTt-qePUXnCfaDhsGhPwASQ"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/index.php?id=QWMwbDJDOUZ4MUtYQW1qUVZFWEVLZ2NRNkhNaEd3M092ekN4akczWjd5az0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZXNPN3JpdWFoeDRoclAyTG14NHhCNGc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/rSgR1Yba#wejAQ98t99GS75Teg35CrXs77Uiccz5tFGWMCOJqBMk"
+          }
+        ]
+      }
+    ]
   }
 ]
