@@ -8,13 +8,13 @@ kitsuId: "48293"
 
 type: TV
 status: finished
-rating: PG-13
 source: light_novel
 
 season: spring
 year: 2026
 episodes: 24
 duration: 24
+# rating: # edit manual
 
 aired:
   from: "2026-04-04"
@@ -22,6 +22,7 @@ aired:
 
 stats:
   score: 7.7
+  # scoredBy: # edit manual
 
 genres:
   - drama
@@ -38,6 +39,8 @@ trailer: "rtPF6rjrdSU"
 draft: false
 ---
 
-Following a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to “Rozemyne” and beginning her new life as the adopted daughter of Ehrenfest’s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple’s book room as a reward. If she could get her hands on those, she’d be able to read all sorts of precious books! Her name may have changed, but Rozemyne’s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!
+Myne telah memutuskan untuk meninggalkan keluarga dan teman-temannya di kota bawah setelah pertemuan yang tidak berjalan lancar dengan seorang bangsawan. Ia kemudian berganti nama menjadi "Rozemyne" dan memulai kehidupan barunya sebagai putri angkat adipati Ehrenfest. Namun, kehidupan sebagai bangsawan tinggi di masyarakat bangsawan ternyata sangat berat, dengan pelatihan etika dan sihir yang ketat serta tugas-tugas sebagai Uskup Agung dan ketua.
 
-(Source: J-Novel Club)
+Rozemyne harus menghadapi semua tantangan ini dengan usia yang masih sangat muda, hanya tujuh tahun. Namun, ia tetap memiliki semangat yang sama untuk membaca dan mengeksplorasi dunia buku. Ketika Imam Besar menawarkan kunci ruang buku kuil sebagai hadiah, Rozemyne menjadi sangat bersemangat untuk memulai petualangan barunya. Ia siap menghadapi dunia baru yang penuh dengan buku-buku berharga dan menantang.
+
+Dengan latar belakang industri percetakan yang terus berkembang, kisah Rozemyne sebagai pecinta buku semakin meluas dan menarik. Bagian ketiga dari kisah biblio-fantasi ini siap dimulai, membawa penonton ke dalam dunia yang lebih luas dan menarik.
