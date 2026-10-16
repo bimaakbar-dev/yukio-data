@@ -3,36 +3,102 @@
     "number": 7,
     "title": "We Need an Advisor!",
     "aired": "2024-08-16",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYalFXenJDQUU3MmhteENvbUQ1VDRSbz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Do You Love Cosplay?",
     "aired": "2024-08-23",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYa2kyL3VQV3A5aFNqaGoyWGlJNkFoZz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "You're Not Liliel!",
     "aired": "2024-08-30",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYcW5KSHRpVmhSQU83SzZiMXlOSWdoUT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Nagomi vs Mayura!!",
     "aired": "2024-09-06",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYalJWMGR2TW5vdXZ6bUlUZGlxVDV3TT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "My Enchanted Armor",
     "aired": "2024-09-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYcXlxWThNUW1nZUx0aHBNTk9GalpuOD0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Five Rising Stars",
     "aired": "2024-09-20",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYcTJLcTR4L2JoZ2dxd3ErQjNZeFl6MD0="
+          }
+        ]
+      }
+    ]
   }
 ]
