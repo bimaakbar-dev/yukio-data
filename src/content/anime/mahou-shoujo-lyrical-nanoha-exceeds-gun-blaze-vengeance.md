@@ -14,6 +14,7 @@ season: summer
 year: 2026
 episodes: 12
 duration: 24
+rating: PG-13
 
 aired:
   from: "2026-07-05"
@@ -21,6 +22,7 @@ aired:
 
 stats:
   score: 6.4
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -39,12 +41,8 @@ trailer: "4IcEbMCW-FU"
 draft: false
 ---
 
-Thirty years ago, the world was nearly destroyed by the sudden appearance of unknown "invasive alien species."
+Di pulau terpencil di negara kepulauan Mizuho, Jauh Timur, hiduplah seorang pemburu pemusnah spesies invasif muda bernama Shina Hisase. Ia hanya ingin hidup tenang bersama adik perempuannya, Setsuna, yang merupakan satu-satunya anggota keluarga yang masih hidup. 
 
-Humans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.
+Dunia mereka masih berada dalam ancaman besar karena kehadiran spesies invasif alien yang tiba-tiba muncul tiga puluh tahun yang lalu dan hampir menghancurkan bumi. Manusia terus berjuang untuk memperebutkan ruang hidup dengan spesies invasif ini, dan keselamatan umat manusia saat ini masih terancam. 
 
-In this world, the United Nations Hazardous Species Investigation Agency, "EXCEEDS," has begun operations to ward off crises and disasters caused by invasive species.
-
-The story begins on the island nation of "Mizuho" in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?
-
-Note: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.
+Dalam situasi genting ini, lembaga PBB yang bernama EXCEEDS telah meluncurkan operasi untuk mencegah krisis dan bencana yang disebabkan oleh spesies invasif. Shina yang hidup di pulau terpencil ini akan menghadapi sebuah insiden yang akan mengubah hidupnya.
