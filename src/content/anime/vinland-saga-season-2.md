@@ -14,6 +14,7 @@ season: winter
 year: 2023
 episodes: 24
 duration: 26
+rating: R
 
 aired:
   from: "2023-01-10"
@@ -21,6 +22,7 @@ aired:
 
 stats:
   score: 8.8
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -37,8 +39,8 @@ trailer: "6pX93dXfH9s"
 draft: false
 ---
 
-After his father's death and the destruction of his village at the hands of English raiders, Einar wishes for a peaceful life with his family on their newly rebuilt farms. However, fate has other plans: his village is invaded once again. Einar watches helplessly as the marauding Danes burn his lands and slaughter his family. The invaders capture Einar and take him back to Denmark as a slave.
+Einar, seorang pemuda yang kehilangan ayahnya dan desanya akibat serangan penjarah Inggris, berharap dapat memulai hidup baru yang damai bersama keluarganya di pertanian yang baru dibangun kembali. Namun, nasib memiliki rencana lain bagi Einar. Desanya kembali diserang, dan dia dipaksa menyaksikan tanahnya dibakar dan keluarganya dibantai. Einar sendiri ditangkap dan dibawa ke Denmark sebagai budak.
 
-Einar clings to his mother's final words to survive. He is purchased by Ketil, a kind slave owner and landlord who promises that Einar can regain his freedom in return for working in the fields. Soon, Einar encounters his new partner in farm cultivation—Thorfinn, a dejected and melancholic slave. As Einar and Thorfinn work together toward their freedom, they are haunted by both sins of the past and the ploys of the present. Yet they carry on, grasping for a glimmer of hope, redemption, and peace in a world that is nothing but unjust and unforgiving.
+Di Denmark, Einar bertemu dengan Ketil, seorang tuan tanah yang baik dan berjanji akan membebaskannya jika dia bekerja di ladang. Einar juga bertemu dengan Thorfinn, seorang budak yang putus asa dan murung, yang menjadi mitranya dalam bercocok tanam. Keduanya bekerja sama untuk mencapai kebebasan, tetapi mereka harus menghadapi bayangan masa lalu dan tipu daya di masa kini.
 
-(Source: MAL Rewrite)
+Dalam perjuangan mereka untuk meraih kebebasan, Einar dan Thorfinn terus berjuang untuk menemukan harapan, penebusan, dan perdamaian di dunia yang tidak adil dan kejam. Mereka berdua terus melangkah, mencari cahaya di ujung terowongan, dan berharap dapat menemukan jalan keluar dari kesulitan yang melanda hidup mereka.
