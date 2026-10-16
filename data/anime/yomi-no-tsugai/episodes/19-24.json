@@ -3,36 +3,422 @@
     "number": 19,
     "title": "Sword and Bow",
     "aired": "2026-08-15",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/0uaJnGEFro"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/dfdw3trtvaec"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ffByHZCD#0aeue1mdjFOvn5bcKxL-kqhloHWXeBtnWRssDK4Q2UY"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=MFZzK2RnTlZObGFXdEdDM0pTQUZOZz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=YnU0Nm9kUE05R0F1aVNnRG80YVB2dWN6eE1XTFhrVjNDTVNhMjFHQlBpS3JvNWNtaFkwdnhWeVpyQi9QZEVKRVdaZ1FnaGVOZTJFeCtFbHRJS3RkekNXT2FDR3ZoOW1NSUpSRmU5bksvOXM9"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/cDOLefvptS"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/0lyggl9rnwp0"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bD4QiAYT#gwhPZBHsJTMksqHr_9lcZx0obmjy2l7M9y47y-r3qXA"
+          },
+          {
+            "name": "fast",
+            "url": "https://store-eu-par-6.gofile.io/download/direct/ce9cec46-cde5-4fd4-bed7-039e00314719/Otakudesu.io_YMNT--19_480p.mp4"
+          },
+          {
+            "name": "fast",
+            "url": "https://desustream.net/dstream/fast/index2.php?id=https://store-eu-par-6.gofile.io/download/direct/ce9cec46-cde5-4fd4-bed7-039e00314719/Otakudesu.io_YMNT--19_480p.mp4"
+          },
+          {
+            "name": "blogs",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dyXAhJFkhE2AsCKQu9aDpZa8siApEyN1QDFTHucELkg6szdKV3JOJZGswlSbmphVe18AXyF0ytcWra-e1IgQUKmU2ImbhX2xdEacz6qkVh7evrosMm2yqa3AidXnhwrLbkj6WI"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/jCK39xsH69"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/rkt9l4t8gzy8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/naowmIwa#ny_nrNNEdfCAl4OvvWepN47Q_Gu6FP0t6KUUAlx4inY"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 20,
     "title": "The Hunted and the Hunter",
     "aired": "2026-08-22",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/5ssGHU2qkB"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/xlny5pzdk8od"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/UEgwnKaY#hFa5YBnuJV09NbGfQTcyF1R74M5ZcDKOpd11Ep4CG5o"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=dklEYlI0YU5Xb3Z2K1BjeXRaYzd6UT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NmtZRllkTHBHUDhSR0J6UVp1cmxEaDhZay8xV24zRzVER2dmRWM0ZUEwVEdQWWQxMGFIRWJhRVZCN3M1L3VsVTFVOXFCRGgwQ0lzRDMrTnBUR2xlVHc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/c9t0aSD9b5"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/6hzy7l0o1th5"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ZZRDSCYA#6c-s5X-7z4kksTaRW1geE3Ybl2_1fgySc4Zgjyy9Uc4"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0bGp0MGZYUnNwRDVzYmpkWThRdTkyWkJrUFBZZFBCYVZrNzFXQ3dmRjc1cA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/EZ7xlie2US"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/a7613m1rqk9f"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/kZ4wEABT#BwfuWNRd0IE2J9qwQTngwPIdYmWMzizjxbsPYX7Z5YM"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 21,
     "title": "Zashiki-Warashi and Higashi Village",
     "aired": "2026-08-29",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/3AgPYd5yJp"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/m6a7jmxfsn1v"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/p34R1SpJ#FWNVqujgpyBNt3EDWh6PwkY2IKWwi0WGeWM004SM4pc"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MmtaYUdTR3p6UjV5NktXRmFYb01kb3RvdE5Od1J3UUxDUDhHb3FGQ3hiM3BHUlFMN3BhSmFmcU1STENUZUxoVUtBeDdVSTZRMzVKTnBNNXdzeWhYZXc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/fsLoOY1YXa"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/uomu1fl0ihfp"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/QiwwmDIZ#1Rcs0kV6KcEHlxPsXaySJYtAgWRVerrzrcYPgA_2fKU"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0Z2hEUWErUlZwdS83dG82NFdqc2EvRE9ZVDVkT2JROUFlNmxSWWNFNisxZw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/JJ8bHQbjSB"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/w8c9428egi07"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/QiQxAB5b#Cwi8zNE7FgRGC8Na4LXuZf2IgDL7Y3AOVdn1VUy_l6w"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 22,
     "title": "The Kagemori Brothers and the Kuroya Siblings",
     "aired": "2026-09-05",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/AUceiC0e6N"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/04hoxttce3g7"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/LxYiHRKY#0ne3Y2C7hoNEuQKLa-PWGayAxTOL4KEgHAjTv3QbxI0"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=R2RUWGhOeWhRLzNPakpBOCtvMDM3dz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=bmRpRnBwSGVlZWFTdDN0WUxNa1lTUjEvaWE3djlTSExsS0hGMkF2d2pRWkdaUFNkODZ2ZXNYaHNQWkZpTEl2bFA5SGU0aUE5cERqOXZxQzBIOTFOZWc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/Y5Ih79eMZQ"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/yomjrzfapxfz"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/7gJAwQLL#lmhaOlt7Q7biX8Qx0pt4kvDmhuxiA8gLyNRNzcXvNEA"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0cnAvQjlleW0vOVJlVDNmQjVxU2hEQ2s5UmxkUGhMSXRmZGJnM0tLemdKRA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/9FgKhR1PVG"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/jz94uvo7rq30"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/WxIF0Q7C#mKInNJw26jNWaiInMmvMs6BuIAUrYssp0wyVggmbWhE"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 23,
     "title": "Emotion and Reason",
     "aired": "2026-09-12",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/J6uthT9oXN"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/od35q5wo8te8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/jCxClTAB#CpQpeya9weFLMNAlfD0yu8FP5ycgEjm3SEvvVMbuSk0"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=a3N5SnJLQjE4c2lpc1ZwcjQ5MTVpZ001aGhTMWpDeGFjczVZa2Ntd1FMYWZ6ckxZTDVGeUJsQ3NlUzJqa3VULzdhVjFVVWtVSnBueWZtQ3hJQ3NVdVE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/m3IumNCdzK"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/kmukmrxepzah"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/3GgFWSIR#tjmqWYoX0Rk8cg03_K4wJtyrzxYDeNgZjMIkpZquni0"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0a0xFd1FpY1RPVWpvR0V2blhJb1NhNGxodkFQaXY2elhBQk1Jb0toTUN0cw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/4jvZJOvpOC"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/y508gmslqeaa"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/HfhVnYRR#P4OYmLeOd_uWWKlYog9_kv3j0osQqczKH6-bm6KzUXk"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 24,
     "title": "Higashi Village and Nishino Village",
     "aired": "2026-09-19",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/M1JLnbECdC"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/81xzh4l02d80"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/XD5A1SQA#nKQ3ALM_qjqfl_zs82I8-CbOKinEgwls_dJevHqpfjA"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=T1BlYWVmVXRFTXkzNzlGK2VlNmY5TU84QWJtTHVyUmtGcmpvTWlqNWYwVmwvaDd6ZHJTdndneVlraVR1M0p1MU1ZeSsxVlNOWWJ6V3BDZHZjSHBINnc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/8L2T0oTwmE"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/x8ilckxpjj05"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/qXRGxJbC#vlKG8VNDAb3uf6WFKzJS9pyDH5BAYZpEpzVI4VDtTLM"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0akkwU2dMNEhTY3dGYUZjWksrTVBTYlNvVHVsVEllRUQ3SnM5ZlZBbS9rZw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/AA2m3o1Lx5"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/jrmhgnnc5nuu"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ieABUIwK#5HHKkAJ9zA9mWM38DfEY9pIKLilsGYMrqS9-ryfRuA4"
+          }
+        ]
+      }
+    ]
   }
 ]
