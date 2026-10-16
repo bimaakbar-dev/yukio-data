@@ -1,0 +1,140 @@
+[
+  {
+    "number": 1,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=VWQ2MEtxajNGazBjT2VlNG95aExvaUhMTkZoWDU5VjAxUVFpQllCWjIvRT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-zvp080qp11m6.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=VWQ2MEtxajNGazBjT2VlNG95aExvcWFQaUpKVWM3dk4rN1hSS2k2UmF6ST0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-32omp2rzoggy.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=VWQ2MEtxajNGazBjT2VlNG95aExvaFAxYm93VjBWOUplcUJZQjZlS2gxQT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-cmn9f3wmwqw2.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=VWQ2MEtxajNGazBjT2VlNG95aExvbDF2Slh3UGcrNU4yVU91ODlaRStqWT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-ikt5an9vul87.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=VWQ2MEtxajNGazBjT2VlNG95aExvdXJET0NVeWhDQzhlVmVPRi9kWXJoTT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-e67u7l92iquv.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=VWQ2MEtxajNGazBjT2VlNG95aExvc2ViYTZyYmFyOFRZaTFSS1d4Tk1ibz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-18c0bmx1wx0l.html"
+          }
+        ]
+      }
+    ]
+  }
+]
