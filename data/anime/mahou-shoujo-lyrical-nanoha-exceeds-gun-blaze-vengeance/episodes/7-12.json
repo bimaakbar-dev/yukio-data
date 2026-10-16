@@ -3,36 +3,406 @@
     "number": 7,
     "title": "The Third Mage!?",
     "aired": "2004-11-14",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/9pGPAs60d9"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/j8pqqysz8945"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Au03FaaL#jMA0irc31OAlsMhyHF-bvrZnH_Y-0_vg7AhENFd6bT4"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NzBCMG5BajM2dkxyTUdkeFhIMXNMZkxNUEZQaWMxaUh2czlXN0liNmNVNUg5KzVCUEJnVTY3eDdUTkZxVEFBUHJ1Snd5WW1nUFJreU96RXBUU3NZVHc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/NYk5usoUqj"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/yw9iqwq0inwd"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/xzVl2Sra#EGG3MPlNDMJ4gmmJiAtNSiUH2is1DMcQb3mvfehPL3M"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/tML0U4gcSK"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/6sut0y5icvh0"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/46kV3ZpD#Jwci68ZmI7utZxYAtwFhs58TpNE069zf74wTooThuUY"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "There's A Really Big Crisis?",
     "aired": "2004-11-21",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/Cj3OFAo5nf"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/5awqt4gflnn4"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/5c5nRCia#LzGgX-vO9lt4zNcg2JihZEorXKBnigDiGPjT-m9--rM"
+          },
+          {
+            "name": "ondesu2hd",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=OWoyOUZsVDJQRXVxd1BIbFlaek5Vd3JIV1Urc0hVRkZxV0U0YlZmQmhjST0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QXhTSys3ckJDUTZNWkd0MS80UUczL1ZiVmtBMy9jVEFDeTZmMnV3RGNOb3RKTE53RCtCdGlpNWZId1BFTHZIK20xWTh0TUpMV0lmaTJSV1BlU1Uxb2FONlRmbkh6TE9kcGIyQjFwYmwxZFE9"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/TLcGUUlIui"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/0tf8ddp5vae0"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/MUwXwKAS#0j3mtYkjvHpJ04AKmmdN6HL05D9Q79aU2UtD2uOsh4k"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0dWU0Zksya1pTVVhwOTkrbnNjSzhvZWhQZ0FTSFRISGhFK0w5L2FLVXZDUg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/5Bly8rttT7"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/8xezxkd8gkxb"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/IYhBhIaZ#_KyEqu6fP34ZWh-W0zsFBaY8LZ8XJpGy9_rnjqWSUzk"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "The Decisive Battle Above the Ocean!",
     "aired": "2004-11-28",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/wC7OgzYgy7"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/4u609w7u4hfm"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/UBUAGJyK#CzMHLaTF6Ltt3nxxmr3B6CpHDuGPwpS4145QMN5hRq8"
+          },
+          {
+            "name": "ondesu2hd",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=a2s0QWtBY3RzQkZiVEN2QkJyczByVFYwNHBFVnp0QTlwbFdEUGhlODVTVT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=TmFZcG92djJZZUYrKzA1Ymo3V2I1Qjg5N05NQnFPVXZqN1FZb1ZYS2hzcU1iNjFOU0trOHV2L2prOE9KRjR2V2NLMmlQeHhCN2ZkWGhlbmJ2cjhHNVE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/lYnM65F9Ck"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/iyao4r0s1qfm"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/tJFQGCIQ#Ne-JuW62bV_uIsAd1besQl1XuPCRFwlfMQmZzaAD8m8"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0dDM3YitxWG9DTXVBbkpQbGs3TWE2Tk96VmhvSjJsOWt1VC9YSCt5MmxpRQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/0cSUhIvCRy"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/yijqiitemk6f"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/RRkAESob#7lBfe7N8LXVF7cy_oFNDOiAuR28-2hmWBXSgG5G6Kig"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Everybody's Seperate Heart-felt Vows",
     "aired": "2004-12-05",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/8UMFyhim27"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/mtvnofx5i2mr"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/tQF2yKzI#zhYnQPDsH_f7CJtRDi06p84iwUFot9uBrJHmBqtVCno"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=UURqOURQclV4NTBKalpEb3htZ2doVnNzLzF2VHlJam9BTDVHYTdycC83NjllbzB4STJaUUJBelloV01nR0szaVZ5YzcvWFJXYUxkR2FCY1pUM1BsSEE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/5uAZCnMOBF"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/0s5nyqgxuoao"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/cIsHiY4J#MMLHl_k6f-ZGNR7JsUMsmAt1A3ZX48_igRh-fPxs9Ek"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0dVNDY04zajVDZEJhU1NlTHBpcGZwU0lyYk8rZVBxbDF3V2xOdktRa2E5aA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/38JkSpHvSa"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/zxzv0f364hcy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/VUtg3KaB#7cNSkHtAqFQQr187VngadjCu7hOnpJ09x-qBdHhTG_Y"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Memories That Lie Beyond Time",
     "aired": "2004-12-12",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/Iltc8gSs0q"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/x51awmhkwcyx"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/7DAmgSQY#DZ1iVNg_S1XGsPcnBaU4AH_SiWkkGkGcB1Knr7o3wEo"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=VktHYVQ1dnBmUTVhNEppWGNxYTIyS2ZObXRUUEwyQVlvUTVESWQ4dm93TE5WNWswbUdEVDEvWU04c3J6aUdyb2tMQXdxOEg3SFlIMUNkM242N2o4ZlE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/RlJkYJkous"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/defgsfpj2g8k"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/XDYwnRoR#GOr5jdVHIYOqjvqLKB8n7BzQnNeHa321xyozyyCuCXY"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0b1hua0g4VmF2YmRiN2JwRDg3QTljTVNCelhwbStDNTVHd015YmVSUThVQQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/afLuf1cbup"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/pj10uzc8lem6"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/GDB22BDQ#uaa2WlAh6ZljDE8Ti11Z98Rh94Y7wGuWRO6DCdEff4g"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "The Time of the Sealing of Our Fates",
     "aired": "2004-12-19",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/MKAcHEwB20"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/okrz4l87b2sr"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/E7ZAUBAA#UOHs1d64RdJZ2jH-YLB0AXA_Dt9LTxJ4yDFFpp7APBY"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=Y1JiTUplRE1aam9CTm9FMXc4MnhMbmg3dUVWZDh2T0VCTlF5MkxNS2k2cHMyUVRCeENVem9TYTZBTjB6UW1zVUVCSXdtM205MFJrbG9LK1RrNHIzQXc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/paTgPv5LRY"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/jstrvdi3y2f3"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Nvw13LiQ#dhXEoWfD0mJoJ4AzXIcLx2I098_8pQ2hNG--G-zOnro"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0b09WNHlJNjBIektzR004R0hmNmRHeGtLYzVyRDNhc3VIb1hONExNSzBSUQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/sLFqZ6LuSV"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/qvd7fdsxxe12"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/hn4AHQib#7pNWt00STzaEeM7L-CqHdM1Gb0xL1fiOEpt76l7WT7k"
+          }
+        ]
+      }
+    ]
   }
 ]
