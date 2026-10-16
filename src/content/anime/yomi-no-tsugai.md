@@ -8,14 +8,13 @@ kitsuId: "50023"
 
 type: TV
 status: finished
-rating: R
 source: manga
 
 season: spring
 year: 2026
 episodes: 24
 duration: 24
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2026-04-04"
@@ -42,6 +41,8 @@ trailer: "XCyj9KKKjUI"
 draft: false
 ---
 
-In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?
+Di sebuah desa terpencil di pegunungan, Yuru hidup dengan damai dan dekat dengan alam. Ia tinggal bersama adik kembar yang sangat dicintainya, Asa, yang merupakan satu-satunya keluarga yang masih ia miliki. Kehidupan Yuru terlihat sangat tenang dan damai, namun ada beberapa hal yang membuatnya penasaran.
 
-(Source: Square Enix)
+Asa, adik kembar Yuru, melakukan sebuah "tugas" misterius untuk desa mereka, namun ia harus melakukannya dari dalam kurungan. Hal ini membuat Yuru bertanya-tanya, mengapa adik kembar yang sangat ia cintai harus dipenjara? Apa yang sebenarnya terjadi di desa mereka yang terlihat begitu damai ini?
+
+Desa Yuru memang terlihat sangat indah dan tenang, dengan dua patung penjaga yang menjaga dari kejauhan. Namun, ada beberapa hal yang belum terungkap, dan Yuru mulai menyadari bahwa ada beberapa rahasia yang tersembunyi di balik kehidupan damai mereka.
