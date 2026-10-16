@@ -1,0 +1,73 @@
+[
+  {
+    "number": 1,
+    "title": "Episode 1",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://odvidhide.com/embed/y9hrghari320"
+          }
+        ]
+      }
+    ],
+    "downloads": {
+      "1080p": {
+        "size": "272MB",
+        "urls": [
+          "https://pixeldrain.com/u/pPzGTnBv",
+          "https://mega.nz/file/66gmRAQb#6RtpM5CJq6mqVdPrlxa0CwG8_5WL8xDsD-qazm6pUdY"
+        ]
+      },
+      "720p": {
+        "size": "155MB",
+        "urls": [
+          "https://pixeldrain.com/u/fSme1yEd",
+          "https://mega.nz/file/WnxHSCzC#ayaG6G7sERvwSIge70ea4P880d-GqtU1dnzguVv5o_U"
+        ]
+      },
+      "480p": {
+        "size": "97MB",
+        "urls": [
+          "https://pixeldrain.com/u/o4GNkXu3",
+          "https://mega.nz/file/auQkSQJI#PhPb-v8trGHyiHfmeYzewLILprWZUzkRlIsN0q8hGaM"
+        ]
+      },
+      "360p": {
+        "size": "49MB",
+        "urls": [
+          "https://pixeldrain.com/u/3YK8Z9mN",
+          "https://mega.nz/file/CzRWwRaY#MjofiaKntz6HmlaQkp6VBqHspBXPVze3g3z4qB-TH-M"
+        ]
+      }
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2",
+    "streams": {
+      "720p": [
+        "https://www.blogger.com/video.g?token=AD6v5dxy5nFaUQ0APTUi-Zis2kAoAEEpp5XVR_wyDzyKZwPi19efggxpwZFDANPYpmuvRQt8EnjopPdH30Q0my6DtTElLEg9GFyis2VHkEHntetjZwILAntqoMHOJfIPalHzfUMzahRx&#038;origin=sameguru2.blogspot.com",
+        "https://play.xtwap.top/cepat2.php?url=O7%252Fmvd7zDy3opfkuC8VQajrD4iyDxqOIszvhhfvjQNV85mqmL5bxhyy9WpAPxnXW%252B75vWirLfj%252FxV7DvHnFC%252FmtJflsFoLXYMs1jR7GsbWjC9vqwiGBlXnmT%252BvPn2hzPmkhJ86H4y%252BHFi6sVo6EpbIIg9zVX3w898irAqVXignACGg3P2ZTSeIdJHUtoR1NwxLn%252BYvI%253D"
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Episode 3"
+  },
+  {
+    "number": 4,
+    "title": "Episode 4"
+  },
+  {
+    "number": 5,
+    "title": "Episode 5"
+  },
+  {
+    "number": 6,
+    "title": "Episode 6"
+  }
+]
