@@ -3,36 +3,354 @@
     "number": 1,
     "title": "New Student from Another Dimension",
     "aired": "2024-07-05",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/uumw9k7iajvk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vPgU2C6Z#ezsR2nG7QwLayh4gJZx2OkRIg9AnZt80yaZjOoGt1iQ"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=VldEREx2K0lEeHdETFVuTGpvNWhkUT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZUF6U0Y2Z1AzMTErNnhpMEZzNzhnTUE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/cwm63izg16x3"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/iWJwwC7R#y8tgHWoaDbhJxdetgnjjhSDZH6OmGUSZ_Tjk058MHIM"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/index.php?id=VldEREx2K0lEeHdETFVuTGpvNWhkUT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZTdBOFVOVFpRSHk4L1dyOVB0aG9GbUE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/HWADDQhZ#jrmkA_giu0OorkzAvvlVtcMLKjE14HJzhor5gr_Eq08"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Cosplay Group Potential?",
     "aired": "2024-07-12",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/m9ics66y8wg0"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/rPQi2AhQ#7W1uOru86t_1FSkt_SJuRG5DhAo36r_ocGML0C8HtZg"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=R2lUZmVOZzhtMnd4Sk1xV0dTdmY4Zz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZWJqRzR6bXM2T1F3VDFzU0hoRHRvcVE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/nwl0ok2fb5d1"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/fa5ShBZI#os1iEjR6yhyhMNuofAFKErxvYlEcJzSf8NMwiKBZW64"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/index.php?id=R2lUZmVOZzhtMnd4Sk1xV0dTdmY4Zz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZS9rSEhQdUo1cERYQ0dtVEh5VW9qa3c9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/2agiTDqa#lcRmA6L_aSFLbBC1y_HiJWecaVC_lVn9ezvwhGZ2PCs"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Lili x Miri",
     "aired": "2024-07-19",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/73h3yq0bvfvr"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/eCIBgBzZ#BwXJvNXE4u_93Vx4v2Rqb3J4nrTOI1UR6kjV7jPM5IA"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=UHhMUU9qMmVjQi9udUhqYXZsSmhOdz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZWY3cHB5VG5oNllvOGpWMXRPM2VYUFE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/88raluxupenk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/2ChRyRDZ#JvfP__PnKMuAOuiLmVNpzakA-6qWzTW15EPwQHs1FRs"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/index.php?id=UHhMUU9qMmVjQi9udUhqYXZsSmhOdz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZW1WT3ZvL2lSVVFaNlEwb0dtd2dNTHc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/7ORCWBzJ#GduEx-NGPjiOER3vScCdcjRVKr4QgKz-TPdcmpdTcfY"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Time For Our First Event!",
     "aired": "2024-07-26",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/91604ltitzu9"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/jWgBlSba#xmSj9lIbGxc99s7wVArZELYQFgR45_yZMucqK4UKeIs"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=Y0RvQ3EvUnUvc0JEa0dYWEhFYTh3dz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZW8xU3k3c1A1NlhWWElrakZhVDEvbUE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/q746cpj7zstk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/XX5AzRCK#dcjwlcVbfAL6Bmh6tOlbpHs2-U1U4x5ibq9O_nxc9DM"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/index.php?id=Y0RvQ3EvUnUvc0JEa0dYWEhFYTh3dz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZTZZNktGVzNlcFVmQzVpWmV3MDBrMkE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bG52BBYT#bhx9IwR7eBcGJif-bEcC2G2m-QmXzf8FiH3ONOnKLlY"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "First Event Is Over!!",
     "aired": "2024-08-02",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/hlaq0zw2fmii"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/KbgmzRQC#_XC0PokhPGb6ew-8kow3uytxbYd_zzgsW3Hx7lVeX_g"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=d2R4U0NuL0ZjL1RnK3h0RHVRVVpGQT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZS8wcXgvUjJYU2hKeXpQYVpQOTRSVmc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/wq7ls0uf5s4b"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/rOxS2a4b#H8byXVmOHpGrTS8Kv8eDZtbByzEJbZqgc0iRcinHNoc"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/index.php?id=d2R4U0NuL0ZjL1RnK3h0RHVRVVpGQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZThFQXVUZ2FnUnp5MmtuV2x2K3pCMXc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/yCBSxDCY#XrWr7LWl8RhC7kirSakgBrRM2AwLtB_6yzVtgl7jRd8"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Tips From a Master!?",
     "aired": "2024-08-09",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/86nw5o716ysz"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/DbJkwYjZ#hmhjnsYWDWheLcYILPl-gVYfGQshFdrjG4IBb939chg"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=V1Z3cHdtQlpCVyt0b2Y4QlhyM1cwQT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZWs0YjZVMVcxSmZJRDRCUjdjMjBhZmc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/6rsjqfb7qjmv"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/yH5zDBwK#zTo3wYdbO_ET9pDfu9Q6_rBGWLHaplkhZbjTN5dpi8U"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/otakuwatch3/new/index.php?id=V1Z3cHdtQlpCVyt0b2Y4QlhyM1cwQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=UXdURVNnak1POHA3UWxObC9jU1MydU15WVFnQlAva3J6eXp4Nm1uS2Q0WHdpOXFpckFrOWR1ODY1NWhsdkhmZXlxMFAxdUp6Sk5nazVleEtPWEFtK2c9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bHwC1LLR#1Mf_yl1ccA11WXc_7IV3EdkNJ0_sJ5D9Z1uM36KlR90"
+          }
+        ]
+      }
+    ]
   }
 ]
