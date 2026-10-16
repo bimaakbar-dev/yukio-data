@@ -14,7 +14,7 @@ season: fall
 year: 2026
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2026-10-02"
@@ -36,18 +36,10 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195516-B5M0cPa
 trailer: "YvNvvUeCztE"
 
 draft: false
-addedAt: "2026-10-10"
-updatedAt: "2026-10-12"
 ---
 
-In the aftermath of the Shi Clan’s rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district.
+Maomao kini kembali menjalani hidupnya sebagai seorang apoteker di distrik hiburan setelah pemberontakan Klan Shi berhasil diredakan. Namun, kehidupan damainya tidak bertahan lama. Suatu hari, Maomao menemukan sesuatu yang aneh terkait dengan sarapan di Rumah Verdigris, dan ia pun memutuskan untuk menyelidiki lebih lanjut.
 
-One day, triggered by a breakfast served at the Verdigris House, Maomao senses an anomaly and begins investigating its true nature.
+Sementara itu, Jinshi yang baru saja mengungkapkan identitas aslinya sebagai saudara kaisar, harus menghadapi tanggung jawab berat yang menyertainya. Ia juga masih terpaku pada pesan terakhir dari Loulan, yang memperingatkannya tentang bencana besar yang akan menimpa negara. Berita tentang seorang pendeta misterius yang menipu orang banyak juga mulai menyebar, sehingga mengancam keamanan negara Li.
 
-Meanwhile, Jinshi, who has revealed his true identity as the Imperial brother and begun to face his heavy responsibilities, is deeply troubled by the final message left by Loulan: a warning of an impending "disaster that will strike the nation."
-
-To make matters worse, rumors of a mysterious shrine maiden who deceives the people begin to spread, casting a dark shadow over the country of Li once again.
-
-From the depths of the inner court to the city streets, and across foreign borders—the world grows wider, and the stakes even higher for Maomao and Jinshi.
-
-(Source: Crunchyroll News)
+Maomao dan Jinshi harus menghadapi tantangan baru yang lebih besar dan kompleks, tidak hanya di dalam istana atau di jalan-jalan kota, tetapi juga melintasi perbatasan negara. Mereka harus berjuang untuk mengungkap kebenaran dan menyelamatkan negara dari bencana yang mengancam.
