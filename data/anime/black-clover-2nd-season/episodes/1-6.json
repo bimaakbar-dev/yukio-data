@@ -1,0 +1,60 @@
+[
+  {
+    "number": 1,
+    "title": "The Battle Begins",
+    "aired": "2026-10-03",
+    "duration": 23,
+    "streams": {
+      "720p": [
+        "https://www.blogger.com/video.g?token=AD6v5dzT-2Th6xkejyettsgufJHF14h9ZjEpjp_1Dmw49yjyDAa4dMeaSVBCNbFLFxKPqv-LH99SAZmugWUeVbCDYZLZzeFtwmZ0O1IIocyceLC-SG9m5lG1rraQozNIX2OZZDZMz0Vp",
+        "https://www.blogger.com/video.g?token=AD6v5dzT-2Th6xkejyettsgufJHF14h9ZjEpjp_1Dmw49yjyDAa4dMeaSVBCNbFLFxKPqv-LH99SAZmugWUeVbCDYZLZzeFtwmZ0O1IIocyceLC-SG9m5lG1rraQozNIX2OZZDZMz0Vp"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2",
+    "duration": 23,
+    "streams": {
+      "720p": [
+        "https://www.blogger.com/video.g?token=AD6v5dwDwRFlROCa2nli_eiHAPo_1-6qMUg0nLk0jYSbbW6h8XM9950kMxYC1PqLQXukbx8ZFBQTTyRKokdkH4oilkS4H2FYelo2nwEpUywypD1XE1qP91STHzDynzbIMEM3LAw7f1ls",
+        "https://play.xtwap.top/btube3.php?url=pj4JmpLnJktJYHoGSEksTQDTB4Re%2Bg%3D%3D"
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Episode 3",
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwVC_4jMvYp9W9zgqFLNvMK0urWPL74652K2Pj5IQAcRLsh1q01U-9vri-lgZpo8Rd3ZVdRk0kfciCj6evW1QoVvrpNYK7DFHJkNaoApfdcYJo0uoRFVql-10sHhpTspw2gWISs"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwVC_4jMvYp9W9zgqFLNvMK0urWPL74652K2Pj5IQAcRLsh1q01U-9vri-lgZpo8Rd3ZVdRk0kfciCj6evW1QoVvrpNYK7DFHJkNaoApfdcYJo0uoRFVql-10sHhpTspw2gWISs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Episode 4",
+    "duration": 23
+  },
+  {
+    "number": 5,
+    "title": "Episode 5",
+    "duration": 23
+  },
+  {
+    "number": 6,
+    "title": "Episode 6",
+    "duration": 23
+  }
+]
