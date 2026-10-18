@@ -21,12 +21,21 @@
   {
     "number": 2,
     "title": "Episode 2",
-    "streams": {
-      "Unknown": [
-        "https://www.blogger.com/video.g?token=AD6v5dyN7tYXzDQaC6IqhCSWGlXEIKaYzYENTETKA_REEqSrfyUZI681Vnt7prYGhjr7QatHGaNC2GRKzYiF7GglnEZbEQ_mUvE3xh6XoIQ6QtkXyIUJtOiSkyU5E_HAFkBniwAzMJ8",
-        "https://play.xtwap.top/cepat2.php?url=V2a4dVEJiYT7Hmc8gsOwjF9UqaaP2LaqE4yqssevi%252FQaZ77ki7fU8y%252FeqDRHdcJxeWhINVGlF1VYf5Z%252FAvxMuWWN0gUg%252BY1hLj2f%252FWNERDpEFw0czW71euuPfxoE0M%252Ff9yTgPX64eKiwKKTDjLRl00%252BDRNXGw6q%252B%252BRjENq4ITwlecI4N9N86Bl%252FVbSB3S%252FqhQp4MWnw%253D"
-      ]
-    }
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dyN7tYXzDQaC6IqhCSWGlXEIKaYzYENTETKA_REEqSrfyUZI681Vnt7prYGhjr7QatHGaNC2GRKzYiF7GglnEZbEQ_mUvE3xh6XoIQ6QtkXyIUJtOiSkyU5E_HAFkBniwAzMJ8"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://play.xtwap.top/cepat2.php?url=V2a4dVEJiYT7Hmc8gsOwjF9UqaaP2LaqE4yqssevi%252FQaZ77ki7fU8y%252FeqDRHdcJxeWhINVGlF1VYf5Z%252FAvxMuWWN0gUg%252BY1hLj2f%252FWNERDpEFw0czW71euuPfxoE0M%252Ff9yTgPX64eKiwKKTDjLRl00%252BDRNXGw6q%252B%252BRjENq4ITwlecI4N9N86Bl%252FVbSB3S%252FqhQp4MWnw%253D"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
