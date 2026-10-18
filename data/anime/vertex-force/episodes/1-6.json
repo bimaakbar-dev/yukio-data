@@ -2,17 +2,50 @@
   {
     "number": 1,
     "title": "Episode 1",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/VIAinSIC#055lBHNH7AyOjfzO1GSYjz-XZXssItL_epqmnL2ZC0s"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Episode 2",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/rnowjTJI#tgFPm0KHrwDq1YKzN6JVQo09fw1BjdGpaq1_Xp5dbQ0"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Episode 3",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/PjIWCaqA#DZdBMLs4E8-ngNT-g6ZATIVJgU8gmcMfPJSfukz4mM0"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
