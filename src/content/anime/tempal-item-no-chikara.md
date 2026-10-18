@@ -36,7 +36,7 @@ trailer: "e1Km0FqUZl0"
 
 draft: false
 addedAt: "2026-10-12"
-updatedAt: "2026-10-12"
+updatedAt: "2026-10-18"
 ---
 
 Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….
