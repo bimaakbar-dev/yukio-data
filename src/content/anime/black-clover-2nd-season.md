@@ -13,7 +13,7 @@ source: manga
 season: fall
 year: 2026
 duration: 24
-# rating: # edit manual
+rating: PG
 
 aired:
   from: "2026-10-03"
@@ -33,14 +33,16 @@ studios:
   - studio-pierrot
 
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg"
-# banner: # edit manual
+banner: "https://media.kitsu.app/anime/50024/cover_image/large-62990aafd712a8c60e5f39444d5724ce.jpeg"
 trailer: "4MYo8FfiXMA"
 
 draft: false
 addedAt: "2026-10-11"
-updatedAt: "2026-10-11"
+updatedAt: "2026-10-18"
 ---
 
-As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.
+Asta dan Magic Knights melancarkan serangan nekat ke Kerajaan Spade untuk menyelamatkan kapten skuad mereka dari cengkeraman Dark Triad. Misi ini membawa mereka ke dalam pertempuran brutal melawan musuh yang belum pernah mereka hadapi sebelumnya.
 
-(Source: Crunchyroll)
+Dengan kekuatan yang tak seimbang, Asta harus menemukan cara untuk melindungi teman-temannya dan memenuhi janjinya kepada Yuno. Pertarungan sengit ini akan menguji batas kemampuan dan keberanian Asta.
+
+Asta harus bangkit dan mengatasi tantangan yang mustahil untuk menyelamatkan mereka yang dicintainya dan membuktikan dirinya sebagai seorang Magic Knight sejati.
