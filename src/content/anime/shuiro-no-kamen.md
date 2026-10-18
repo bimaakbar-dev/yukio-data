@@ -28,6 +28,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-f
 trailer: "iX4N-Z5Hbxw"
 
 draft: false
+addedAt: "2026-10-18"
+updatedAt: "2026-10-18"
 ---
 
 "The Mask” gives power to anyone who wears it.
