@@ -13,7 +13,7 @@ source: original
 season: fall
 year: 2026
 duration: 24
-rating: PG-13
+# rating: # edit manual
 
 aired:
   from: "2026-10-03"
@@ -37,8 +37,8 @@ trailer: "JqjXaJysS5w"
 draft: false
 ---
 
-Akira hidup bersama kakak perempuannya, Haruka, dan ibunya yang mengelola sebuah kafe. Mereka menjalani kehidupan yang tenang dan damai. Namun, di balik kesan damai itu, keluarga mereka menyimpan sebuah rahasia. Haruka telah mewarisi kekuatan khusus dari ayahnya yang disebut "Engine", dan dia menyembunyikannya dari orang lain.
+Akira tinggal bersama kakak perempuannya, Haruka, dan ibunya yang menjalankan sebuah kafe. Mereka menjalani hidup dengan tenang, namun ada satu rahasia yang disembunyikan dari orang lain. Haruka memiliki kekuatan khusus yang diwariskan dari ayahnya, yang disebut "Engine". Sementara itu, Akira merasa inferior karena tidak mewarisi kekuatan ayahnya.
 
-Akira sendiri belum mewarisi kekuatan ayahnya, sehingga dia merasa kurang percaya diri. Kehidupan mereka yang tenang mulai terganggu dengan munculnya peristiwa aneh di seluruh dunia. Peristiwa ini membawa perubahan besar dalam kehidupan Akira dan keluarganya.
+Kehidupan mereka yang damai mulai terganggu dengan munculnya peristiwa aneh di seluruh dunia. Akira yang merasa tidak memiliki kekuatan apa-apa harus menghadapi kenyataan bahwa ada sesuatu yang tidak beres di sekitarnya. Ia harus mencari cara untuk mengatasi perasaan inferioritasnya dan menghadapi tantangan yang akan datang.
 
-Dengan latar belakang yang penuh misteri, Akira harus menghadapi kenyataan bahwa kehidupan mereka tidak lagi seperti biasanya. Ia harus menemukan jalan untuk mengatasi perasaan inferioritasnya dan menghadapi peristiwa aneh yang terjadi di sekitarnya.
+Dengan latar belakang kehidupan yang penuh misteri, Akira harus menyadari bahwa ada lebih dari yang terlihat di permukaan. Ia harus menghadapi kenyataan bahwa kekuatan "Engine" yang dimiliki Haruka mungkin hanya permulaan dari sesuatu yang lebih besar.
