@@ -33,6 +33,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-m
 trailer: "kXqx3rFSkxc"
 
 draft: false
+addedAt: "2026-10-18"
+updatedAt: "2026-10-18"
 ---
 
 If there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?
