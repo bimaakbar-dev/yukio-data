@@ -37,6 +37,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208025-s7hcRQO
 trailer: "-YCols5lYow"
 
 draft: false
+addedAt: "2026-10-18"
+updatedAt: "2026-10-18"
 ---
 
 Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.
