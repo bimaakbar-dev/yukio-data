@@ -38,7 +38,7 @@ trailer: "hJ6Y8PAOUk8"
 
 draft: false
 addedAt: "2026-10-12"
-updatedAt: "2026-10-12"
+updatedAt: "2026-10-18"
 ---
 
 The second season of Ao no Hako.
