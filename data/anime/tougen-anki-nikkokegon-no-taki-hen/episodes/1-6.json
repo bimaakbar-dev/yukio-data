@@ -1,0 +1,76 @@
+[
+  {
+    "number": 1,
+    "title": "Episode 1",
+    "duration": 24,
+    "streams": {
+      "1080p": [
+        "https://pixeldrain.com/u/LvuXE3nT"
+      ],
+      "720p": [
+        "https://doply.net/e/3k9fwg064vjf",
+        "https://pixeldrain.com/d/eKQnAzMY",
+        "https://vikingfile.com/f/Nm8ELJODNb",
+        "https://miiiixdrop.net/e/jd9rp33ka03zel",
+        "https://player.abyssplayer.com/Y2lxWkeWb",
+        "https://mp4upload.com/embed-88ri68jrlagf.html"
+      ],
+      "480p": [
+        "https://doply.net/e/nok02vide8sc",
+        "https://pixeldrain.com/d/hzpHs1Jk",
+        "https://vikingfile.com/f/qz9w1c8HfX",
+        "https://miiiixdrop.net/e/8l4m3773i049n",
+        "https://mp4upload.com/embed-chn0tz4fwt7q.html"
+      ],
+      "360p": [
+        "https://doply.net/e/lmlq0u40emac",
+        "https://pixeldrain.com/d/DaVWohzT",
+        "https://vikingfile.com/f/U9GwFLjQkq",
+        "https://miiiixdrop.net/e/03v7prrpi13nmm",
+        "https://player.abyssplayer.com/Gs7g4tZEh",
+        "https://mp4upload.com/embed-ke00ux0hxpbt.html"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2",
+    "duration": 24,
+    "streams": {
+      "360p": [
+        "https://odvidhide.com/embed/3onl5y4c8l3s"
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Episode 3",
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://odvidhide.com/embed/s63pt9g76fpw"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Episode 4",
+    "duration": 24
+  },
+  {
+    "number": 5,
+    "title": "Episode 5",
+    "duration": 24
+  },
+  {
+    "number": 6,
+    "title": "Episode 6",
+    "duration": 24
+  }
+]
