@@ -1,0 +1,77 @@
+[
+  {
+    "number": 1,
+    "title": "Episode 1",
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/ggbj73uyvbhm",
+        "https://mega.nz/embed/fvw20AgK#sdjGiSDwEhUYZzMF_gjZXXYphmN2HM1gYyId7eQIOBQ",
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=b1RWV0phQzh3enFMaER6L3RTbHJCQT09",
+        "https://desustream.net/dstream/arcg/?id=dVBYUFdLeXRwNXI5SWMvVGJoN3l2YWRqSHE2YjZibFFDRE8wU0xjVTBCa09uNkd0anRDTEl1TVRqK3VkSk8vT0psUWdTK1NPTk53ZloxK2hxKzYyaVE9PQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/8m4trowjcr2r",
+        "https://mega.nz/embed/67oznRgT#ceeWZO4-JmNtd5CzvSa146uWrDUZVc4_kZGMa4sduJ0",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0bXVxbDh5dS9Rd1JhQXRmb3JMYzR2QTZSQWJndCtzQXBtV2FiRit4SFlWKw=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/bhvnkqj1nqhy",
+        "https://mega.nz/embed/6jwhSbbR#Lvwb9KKa9bgZGrJsc_FdIqkjxmomWKOyu_lGBUpHvAM"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2",
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/wic8lv37apye",
+        "https://mega.nz/embed/y2oSXT5I#oFaO9N5FnbfmfcmkwNel_nZGoSxinQkrP1zhoNeDsCg",
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=UUxSTEVCUlhDS3Q0TUkreDl6K0VaUT09",
+        "https://desustream.net/dstream/arcg/?id=WlVxSzlGYXJQRFVKdnNCSGtZeTNudmsyVmFjbWtnZjNzcXNjY2pYaXYvQjFLTzFFNzRaMDA5Rkk4RUZXMFE1Wg=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/m520b1gtm4xw",
+        "https://mega.nz/embed/inQiVIYR#eu1kTBUigb8KQm4HsQNJUOMslPSXThL_3qJWfg482IY",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0Z0YzM2FQdDltUjRtdlNDN3N5bjQyTzBtV3c1akxOVlJwY2NmVWE3QytsMQ=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/wl7fs21r280g",
+        "https://mega.nz/embed/q7A2QKhI#aghwuCWZmu-IyFXgd5LfEXwF3CY9-tBUK7DW3ChNG_I"
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Episode 3",
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=bjU0dUV0Mm9RdmFITTA0Z3hKWTFYQUdLRGUzRXdyZEdBV1d3a1Mvb1ZQQ1JtRE5TeWY0bWd4K3VHbVdMd3J2ejRwUjBsMlhHTHJ2aEhKWkNCRnZSSFE9PQ=="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Episode 4",
+    "duration": 24
+  },
+  {
+    "number": 5,
+    "title": "Episode 5",
+    "duration": 24
+  },
+  {
+    "number": 6,
+    "title": "Episode 6",
+    "duration": 24
+  }
+]
