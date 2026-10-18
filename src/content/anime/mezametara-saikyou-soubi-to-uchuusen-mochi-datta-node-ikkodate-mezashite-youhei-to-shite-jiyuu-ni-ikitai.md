@@ -37,7 +37,7 @@ trailer: "Z9ofT53sz2U"
 
 draft: false
 addedAt: "2026-10-12"
-updatedAt: "2026-10-14"
+updatedAt: "2026-10-18"
 ---
 
 Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!
