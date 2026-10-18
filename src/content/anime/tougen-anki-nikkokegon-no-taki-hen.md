@@ -36,7 +36,7 @@ trailer: "upBWYExYoYc"
 
 draft: false
 addedAt: "2026-10-10"
-updatedAt: "2026-10-10"
+updatedAt: "2026-10-18"
 ---
 
 After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their "the total eradication of the Momotaro."
