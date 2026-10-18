@@ -28,7 +28,18 @@
   {
     "number": 3,
     "title": "Episode 3",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/LeQXSaTD#8RoivluI_u8ye1vt-POpOtMfeM5erzUtpuNou6h7jlc"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
