@@ -1,0 +1,81 @@
+[
+  {
+    "number": 1,
+    "title": "Episode 1",
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/h2722p3sj3f6",
+        "https://mega.nz/embed/dEoBAaJD#kTm9egGBITiAdIu1nsIVgEOQoiMBCnvBRj_09_8UPg0",
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=V1FLY2RLaE8xUnZnOUZTTW5LQ3hWUT09",
+        "https://desustream.net/dstream/arcg/?id=eWlDeTBtUXo0c2thUytYdXFKT2ZVTlRmczFLTml6NkJIR1duc0dUaWNDVmMxNWJ4b3NSd1BmbEd0ZnkxS3YwaGhOWmZpTDBBVnIxakh0K0JwaHhhUEE9PQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/y9fcum6z8uug",
+        "https://mega.nz/embed/0RxllSoI#7TxGl17EJmstrUeEEPBmh96dBJcoaTwhIG8Z-d7Przc",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0amFOdERKUkUxQTQ1NlBneVFYVWZtK25meHVSUVAxQUtYa1hPOHowbVVqYQ=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/b0goeeyhrbv5",
+        "https://mega.nz/embed/1YxmQBpB#MxlWxKBGjSMR5hC0C2HIcrT-QDBMdW4K6tRxQ392Km4"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2",
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/j02ss7cpaqyk",
+        "https://mega.nz/embed/wZZxzR5A#As3ixqtoIxHTbSqi7lWwngq53h-NJgBIe8ctKQadVw0",
+        "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=ZmE4a2VKSnR5U3RsQTI1VktmZzA3c0d0RzhYUUgyK3UvNUJYcGZYYzNNMD0=",
+        "https://desustream.net/dstream/arcg/?id=emk3bTJPeS95STZDRDBoWjM3cU1uT0pMTmMzcmt5bWpTQ3NWSURMVnJIVEtIUSs1cUdONVZuaWxtdHZrWXdtZVhla2hhYStIRUMxN2t3N1p0OXZud2c9PQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/z56kodao1cry",
+        "https://mega.nz/embed/wdZ0XYiK#qSVkef04ZBIiuISQBFDNAioXCrf1d6lE0W_MG7exrUk",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0bEVQSVJjRmtYdVRTVFRCRDgzMDkvSXlVbmJYOStqTlFZZjlzMDU3TTByNg=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/epq71c002je9",
+        "https://mega.nz/embed/sJIXCZzL#PVmO5MGxdJTwUkGDlefBfXQa141r83o1sNmpSdMIFb8"
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Episode 3",
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwS7TXcA__6MROI_pUBgLobe0XPraeMsiaBmdMRXKow1kwlrgxhly2RPv6sWwGfSG61Mrm8IUvevg9aVlbaIo4wXaaLlmtGF5IlqT-sXvJ37lnSOXsN68cGcp6Y40tVqgOCh24"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwS7TXcA__6MROI_pUBgLobe0XPraeMsiaBmdMRXKow1kwlrgxhly2RPv6sWwGfSG61Mrm8IUvevg9aVlbaIo4wXaaLlmtGF5IlqT-sXvJ37lnSOXsN68cGcp6Y40tVqgOCh24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Episode 4",
+    "duration": 24
+  },
+  {
+    "number": 5,
+    "title": "Episode 5",
+    "duration": 24
+  },
+  {
+    "number": 6,
+    "title": "Episode 6",
+    "duration": 24
+  }
+]
