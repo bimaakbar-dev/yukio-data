@@ -3,6 +3,17 @@
     "number": 25,
     "title": "Kamizaki Risa Arc: Truth",
     "aired": "2010-12-23",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=TXVOREJBMXVrVUJXY1RqZWNWcTJaMXlGTWFPMUplWWdZV3VrMTRDVXpoND0="
+          }
+        ]
+      }
+    ]
   }
 ]
