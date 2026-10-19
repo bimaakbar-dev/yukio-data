@@ -35,6 +35,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209562-dvyIvOO
 trailer: "JqjXaJysS5w"
 
 draft: false
+addedAt: "2026-10-19"
+updatedAt: "2026-10-19"
 ---
 
 Akira tinggal bersama kakak perempuannya, Haruka, dan ibunya yang menjalankan sebuah kafe. Mereka menjalani hidup dengan tenang, namun ada satu rahasia yang disembunyikan dari orang lain. Haruka memiliki kekuatan khusus yang diwariskan dari ayahnya, yang disebut "Engine". Sementara itu, Akira merasa inferior karena tidak mewarisi kekuatan ayahnya.
