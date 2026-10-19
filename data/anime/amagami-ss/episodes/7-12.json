@@ -3,36 +3,102 @@
     "number": 7,
     "title": "Tanamachi Kaoru Arc, Chapter 3: Betrayal",
     "aired": "2010-08-12",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=VHNPQktQWCtmUHBSTStTNm1CMmFwWVFreGMrOWs2TDI0eHcyTU9za0ZyVT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Tanamachi Kaoru Arc, Final Chapter: Progress",
     "aired": "2010-08-19",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=UXhncGYyQnhIZG42Y0FOUHNCaDl0TXFZVFF3T09hak1BZ3RCYi9ZRUVoYz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Nakata Sae Arc, Chapter 1: Junior",
     "aired": "2010-08-26",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=YWw3UHNPL1pVWjZMZ2dYb25KdXF0TTZWcUZxSndiTVBHbG5DMVpLenNjTT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Nakata Sae Arc, Chapter 2: Training",
     "aired": "2010-09-02",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=SFRYQUE1QTdsWklQSWRoT3gvbk9NRCtVWkpCNXVnL2RmbWFkZldDZ204RT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Nakata Sae Arc, Chapter 3: Change",
     "aired": "2010-09-09",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=SFRYQUE1QTdsWklQSWRoT3gvbk9NSlV2aTZoQjFtYThmUEF2bk5xSWpxUT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Nakata Sae Arc, Final Chapter: Lovers",
     "aired": "2010-09-16",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=SFRYQUE1QTdsWklQSWRoT3gvbk9NR281WHhZNHpMZzlScFNWcEZ3dlNrMD0="
+          }
+        ]
+      }
+    ]
   }
 ]
