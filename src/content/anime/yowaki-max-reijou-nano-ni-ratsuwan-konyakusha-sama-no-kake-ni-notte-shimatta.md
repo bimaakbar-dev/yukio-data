@@ -14,6 +14,7 @@ season: fall
 year: 2026
 episodes: 12
 duration: 24
+rating: PG-13
 
 aired:
   from: "2026-10-04"
@@ -35,13 +36,11 @@ trailer: "e41RGxVwJRs"
 
 draft: false
 addedAt: "2026-10-12"
-updatedAt: "2026-10-12"
+updatedAt: "2026-10-19"
 ---
 
-I was reborn as a villainous daughter in a reverse harem otome game. 
+Pia Rockwell, seorang gadis berusia 10 tahun, mengalami demam tinggi yang membuatnya mengingat kehidupan masa lalunya sebagai seorang mahasiswa di Jepang. Namun, berbeda dengan kebanyakan orang yang terlahir kembali, Pia tidak ingin menjadi villain atau mengikuti jalur yang sudah ditentukan. Ia memiliki impian yang unik, yaitu menjadi seorang ahli paleontologi dan menghabiskan hidupnya untuk menggali fosil, membangun museum, dan menjadi kurator.
 
-After being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum and then become a curator.
+Dengan pengetahuan yang diperoleh dari kehidupan masa lalunya, Pia berusaha untuk menghindari nasib buruk yang sudah ditentukan baginya. Ia tidak ingin menjadi villain dan mengalami patah hati. Oleh karena itu, Pia memutuskan untuk meminta pembatalan pertunangan dengan Rufus, putra Perdana Menteri, sebelum graduation ball. Namun, apakah Rufus akan membiarkannya pergi begitu saja?
 
-So in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.
-
-But will her cunning fiancé let her go that easily?
+Pia harus berhati-hati dan menggunakan kecerdasannya untuk menghindari nasib buruk yang sudah menantinya. Ia harus menghadapi tantangan dan rintangan yang akan datang, serta mengambil keputusan yang tepat untuk mencapai impian dan tujuannya. Apakah Pia akan berhasil menghindari nasib buruk dan mencapai kebahagiaan yang ia impikan?
