@@ -3,36 +3,102 @@
     "number": 19,
     "title": "Sakurai Rihoko Arc, Chapter 3: Succession",
     "aired": "2010-11-11",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=SFRYQUE1QTdsWklQSWRoT3gvbk9NRW9qS24zU1RHcVVEZmtCV1JiM0Y5OD0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 20,
     "title": "Sakurai Rihoko Arc, Final Chapter: Farewell",
     "aired": "2010-11-18",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=TXVOREJBMXVrVUJXY1RqZWNWcTJad202aitRdmJQTUdLRWU0YjhpS24vND0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 21,
     "title": "Ayatsuji Tsukasa Arc, Chapter 1: Discovery",
     "aired": "2010-11-25",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=TXVOREJBMXVrVUJXY1RqZWNWcTJaL1p3dTJkWlRtNWhsZkZtdWZBam1ybz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 22,
     "title": "Ayatsuji Tsukasa Arc, Chapter 2: Reverse Side",
     "aired": "2010-12-02",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=TXVOREJBMXVrVUJXY1RqZWNWcTJaMzNRajc5cks0KzVDRXFGdkp1TmFmQT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 23,
     "title": "Ayatsuji Tsukasa Arc, Chapter 3: Pride",
     "aired": "2010-12-09",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=TXVOREJBMXVrVUJXY1RqZWNWcTJaeGlrcVBnZ0pZeGZ5d1JNYjZVeExsQT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 24,
     "title": "Ayatsuji Tsukasa Arc, Final Chapter: Promise",
     "aired": "2010-12-16",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=TXVOREJBMXVrVUJXY1RqZWNWcTJaeHZDMUF2SkJLaW1HMW5VZzIybnhhaz0="
+          }
+        ]
+      }
+    ]
   }
 ]
