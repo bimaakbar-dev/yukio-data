@@ -37,6 +37,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191656-JQILdzh
 trailer: "VTRVLnzhl90"
 
 draft: false
+addedAt: "2026-10-19"
+updatedAt: "2026-10-19"
 ---
 
 Di Akademi Fujinasu, sebuah sekolah swasta bergengsi di pinggiran kota, Ume Mizunoe, seorang siswa kelas satu SMA, menonjol dalam kelas bahasa Jepang dan telah memenangkan beberapa penghargaan sastra. Namun, nilai buruknya di bidang sains membuatnya berisiko tidak bisa naik kelas. Untuk menghindari mengulang tahun ajaran, Ume memutuskan bergabung dengan dewan siswa untuk meningkatkan prestasi akademisnya.
