@@ -33,7 +33,7 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx516-ofBm
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/516-kgoFaO4d13bt.jpg"
 
 addedAt: "2026-10-10T08:24:07.362Z"
-updatedAt: "2026-10-13"
+updatedAt: "2026-10-19"
 
 draft: false
 ---
