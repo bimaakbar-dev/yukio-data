@@ -34,7 +34,18 @@
   {
     "number": 3,
     "title": "Episode 3",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=V1NDdzc5NmJ1bXA3REJxWkVVMG5IRW9qVDhYV096ZTc0ckVDaWVmVW50az0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
