@@ -3,36 +3,102 @@
     "number": 1,
     "title": "Morishima Haruka Arc, Chapter 1: Longing",
     "aired": "2010-07-02",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=SFRYQUE1QTdsWklQSWRoT3gvbk9NSHhGTkNzMSthaXc2VU9CWWlNeUZFcz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Morishima Haruka Arc, Chapter 2: Getting Closer",
     "aired": "2010-07-09",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=TXVOREJBMXVrVUJXY1RqZWNWcTJaOU1TQ1BUTDMzb1cxK0xMN3B5NFZDbz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Morishima Haruka Arc, Chapter 3: Jealousy",
     "aired": "2010-07-15",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=WTNLMTJyOGJscmxEckxQZTRqUzZjOEYwV1lMMzIxSm5iUWY5YjkxVTQ5Yz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Morishima Haruka Arc, Final Chapter: Love",
     "aired": "2010-07-22",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=OXp0cUZRWUc1bVBDL3krbG5mV2taQjMzMTE4a0RyTi9xdUFSLzVjeDJ4RT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Tanamachi Kaoru Arc, Chapter 1: Bad Company",
     "aired": "2010-07-29",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=ME1nK3V4MlYvSkNjd1cxN25MN09vRlVON3JnSXBnZS82ZHdGaG9pZXZ1QT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Tanamachi Kaoru Arc, Chapter 2: Hesitation",
     "aired": "2010-08-05",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuwatch",
+            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=bElMZnJwQ3UzczE5RU9rRmtXa1hyNTNXOXM3L0dLdGN0VEZHV1htL0F0MD0="
+          }
+        ]
+      }
+    ]
   }
 ]
