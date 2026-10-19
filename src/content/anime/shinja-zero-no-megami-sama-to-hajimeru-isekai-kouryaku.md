@@ -35,6 +35,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-E
 trailer: "qlMB8vSpLzc"
 
 draft: false
+addedAt: "2026-10-19"
+updatedAt: "2026-10-19"
 ---
 
 Makoto Takatsuki, seorang pemain RPG, tiba-tiba dibawa ke dunia lain. Namun, kemampuan dan statistiknya ternyata sangat rendah, membuatnya merasa tidak berdaya. 
