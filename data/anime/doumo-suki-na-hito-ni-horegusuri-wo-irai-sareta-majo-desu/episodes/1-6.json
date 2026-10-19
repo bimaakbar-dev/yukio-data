@@ -1,0 +1,46 @@
+[
+  {
+    "number": 1,
+    "title": "Episode 1",
+    "streams": {
+      "360p": [
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=emtEVmhLR2gybDNSeEZjS0RRNCs5dz09"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzwH-QmHQiTE6TAlNBmHkIYCNvU1oel2zlr8kgO-IyOhlCfvR3P-JPBTERnOJ8T_iY5YFZgm3gWUtB7q_7wFBTGIRdJOHOzOoHyxJp2AjbckkDcl6mBUNCSAYZ17DL7cLacswAm"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://play.xtwap.top/cepat2.php?url=u2wyOhAOJDSAVhRtm0MKdkIsfRGcldKtDLwxDyvEzKVxDom%252B0DtpyasVAzyvzy1Ckd4uzkW18U2QYMSZcpN7NHM0M9Gkta41TtsydGdfXj%252FKRZatkAhqDCYKu3%252BtymOHW2f3gfLZLFHY%252B844p%252BL8AOvI89VIlOXSUa%252BZX5vzpSsAi6w7%252BfDw9F3M%252FnmPWBVHDzEH09I%253D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Episode 3"
+  },
+  {
+    "number": 4,
+    "title": "Episode 4"
+  },
+  {
+    "number": 5,
+    "title": "Episode 5"
+  },
+  {
+    "number": 6,
+    "title": "Episode 6"
+  }
+]
