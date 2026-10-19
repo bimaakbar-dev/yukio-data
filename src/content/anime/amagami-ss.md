@@ -39,4 +39,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8676-xPUw6MBP5
 draft: false
 ---
 
-Two years ago, Junichi Tachibana had his heart broken by a girl who stood him up on a date on Christmas Eve. Now a second-year student in high school, Junichi is wary of love because of his past and dislikes celebrating Christmas. However this Christmas, his encounter with one of six girls from his school: Haruka Morishima, Kaoru Tanamachi, Sae Nakata, Ai Nanasaki, Rihoko Sakurai, or Tsukasa Ayatsuji will finally open up his heart to love again.
+Junichi Tachibana, seorang siswa SMA kelas dua, masih terluka oleh kenangan pahit di masa lalu. Dua tahun yang lalu, ia pernah ditinggalkan oleh seorang gadis di malam Natal, membuatnya trauma dan enggan merayakan hari spesial tersebut. Kini, Junichi menjadi lebih berhati-hati dalam mencintai orang lain.
+
+Namun, di Natal ini, Junichi akan mengalami pertemuan yang tak terduga dengan salah satu dari enam gadis cantik di sekolahnya, yaitu Haruka Morishima, Kaoru Tanamachi, Sae Nakata, Ai Nanasaki, Rihoko Sakurai, atau Tsukasa Ayatsuji. Pertemuan ini akan membuka pintu hati Junichi yang telah lama tertutup.
+
+Mungkinkah pertemuan ini akan membawa perubahan besar dalam hidup Junichi? Apakah ia akan menemukan cinta yang sebenarnya dan melupakan kenangan pahit di masa lalu?
