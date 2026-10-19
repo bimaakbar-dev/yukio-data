@@ -34,6 +34,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191656-JQILdzh
 trailer: "VTRVLnzhl90"
 
 draft: false
+addedAt: "2026-10-19"
+updatedAt: "2026-10-19"
 ---
 
 This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.
