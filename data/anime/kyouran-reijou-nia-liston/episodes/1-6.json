@@ -1,0 +1,59 @@
+[
+  {
+    "number": 1,
+    "title": "Episode 1",
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/uuflfz79rpjl",
+        "https://mega.nz/embed/dQwWQAhS#YDwNepRNfR4kll7uAKYlJ8y0JlLjB_7fTKY8Z9JJvb4",
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=dldUeHYvWGFCUDhlWXcxWXZFN25UZz09",
+        "https://desustream.net/dstream/arcg/?id=eklPaWZwd0pPYU5LZjdycHVsTTdGTE5JeGNmZWZKK29STFZmYkk2MVh2VnVHNnU5SFNWTitid21vN1AzcmdUTQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/0gq7mz9r5lms",
+        "https://mega.nz/embed/FFhUDJCY#WZFPNuus2CrdrHgXZwBHXzEbGWa-nik8n2o0Y9mhkd0",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0cm5JbExSSzV2UmJ1NnpYa1Q0L0dhYmJFZXpBeFRvYWR5S0p1NnJxQUpKaQ=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/sjsi4hwt0me7",
+        "https://mega.nz/embed/RIRwzJoK#PHNQpStzgzAAvzvjqlyZnSPfZNy_QJ8tkefntt4JijY"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2",
+    "streams": {
+      "360p": [
+        "https://desustream.net/dstream/arcg/?id=N3JWNmlkZi9QUlNRWEhzUDlEWGZBQ3dXZUp3OTFjRDNHakdkOUxLM2k1eXpMRjhWRlZMMTlWYlJJZDJZdXljeW8zNXJNUk1BL2tZd2xIU25kQ3JPZlE9PQ=="
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Episode 3",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=QUVkRUh5ZjFXUVJsNUwwNTZJT1YxbHl2MTRDZmlSeW9PaGYyUC9xSTNNa1ZrQzViak05YTlMZS9ISDFtRWYrNnZId0NhT05tQlBqZm5GdDgzUVhBS2swTXY2S1l0b0JWM0dtREF0aVljRjQ9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Episode 4"
+  },
+  {
+    "number": 5,
+    "title": "Episode 5"
+  },
+  {
+    "number": 6,
+    "title": "Episode 6"
+  }
+]
