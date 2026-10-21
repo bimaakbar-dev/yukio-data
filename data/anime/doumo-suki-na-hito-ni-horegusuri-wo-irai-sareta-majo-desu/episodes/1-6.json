@@ -11,25 +11,33 @@
   {
     "number": 2,
     "title": "Episode 2",
+    "streams": {
+      "480p": [
+        "https://www.blogger.com/video.g?token=AD6v5dzwH-QmHQiTE6TAlNBmHkIYCNvU1oel2zlr8kgO-IyOhlCfvR3P-JPBTERnOJ8T_iY5YFZgm3gWUtB7q_7wFBTGIRdJOHOzOoHyxJp2AjbckkDcl6mBUNCSAYZ17DL7cLacswAm"
+      ],
+      "720p": [
+        "https://play.xtwap.top/cepat2.php?url=u2wyOhAOJDSAVhRtm0MKdkIsfRGcldKtDLwxDyvEzKVxDom%252B0DtpyasVAzyvzy1Ckd4uzkW18U2QYMSZcpN7NHM0M9Gkta41TtsydGdfXj%252FKRZatkAhqDCYKu3%252BtymOHW2f3gfLZLFHY%252B844p%252BL8AOvI89VIlOXSUa%252BZX5vzpSsAi6w7%252BfDw9F3M%252FnmPWBVHDzEH09I%253D"
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Episode 3",
     "streams": [
       {
         "quality": "720p",
         "servers": [
           {
             "name": "HD-1",
-            "url": "https://www.blogger.com/video.g?token=AD6v5dzwH-QmHQiTE6TAlNBmHkIYCNvU1oel2zlr8kgO-IyOhlCfvR3P-JPBTERnOJ8T_iY5YFZgm3gWUtB7q_7wFBTGIRdJOHOzOoHyxJp2AjbckkDcl6mBUNCSAYZ17DL7cLacswAm"
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzuBA36ehjLl7yz5nC4rGQJiT_YmNBLFQDqTiD9FREVOYane9pxqDH02VFh9ZeiNWHJ60IqU81nHSbhLxbfe_R4C9UeoESSDgB-4Z8XfBKZfIeekejGJkZFXJ79x63KHoXIfKM"
           },
           {
             "name": "HD-2",
-            "url": "https://play.xtwap.top/cepat2.php?url=u2wyOhAOJDSAVhRtm0MKdkIsfRGcldKtDLwxDyvEzKVxDom%252B0DtpyasVAzyvzy1Ckd4uzkW18U2QYMSZcpN7NHM0M9Gkta41TtsydGdfXj%252FKRZatkAhqDCYKu3%252BtymOHW2f3gfLZLFHY%252B844p%252BL8AOvI89VIlOXSUa%252BZX5vzpSsAi6w7%252BfDw9F3M%252FnmPWBVHDzEH09I%253D"
+            "url": "https://player.abyssplayer.com/f6He_uc31"
           }
         ]
       }
     ]
-  },
-  {
-    "number": 3,
-    "title": "Episode 3"
   },
   {
     "number": 4,
