@@ -16,5 +16,23 @@
         ]
       }
     ]
+  },
+  {
+    "number": 3,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://play.xtwap.top/cepat2.php?url=6eNT3%252B91J9VRM7AJYCpwWzdpH3v1aOrlthKLDpeOirBbPDrU4xYdroz0wnKycilKune%252BgcH9aEl1d2BLrGh88liAPHD8flpxPqTb0255VLdt7a66hNLhj92hySBegdj2DXUzGQ4OXhsTbZi8ZEw3LQEi37EES1aoEdmJhiuWDebEn5jQ5zR2NiSPkeJwgFELKNStR18%253D"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://play.xtwap.top/cepat2.php?url=6eNT3%252B91J9VRM7AJYCpwWzdpH3v1aOrlthKLDpeOirBbPDrU4xYdroz0wnKycilKune%252BgcH9aEl1d2BLrGh88liAPHD8flpxPqTb0255VLdt7a66hNLhj92hySBegdj2DXUzGQ4OXhsTbZi8ZEw3LQEi37EES1aoEdmJhiuWDebEn5jQ5zR2NiSPkeJwgFELKNStR18%253D"
+          }
+        ]
+      }
+    ]
   }
 ]
