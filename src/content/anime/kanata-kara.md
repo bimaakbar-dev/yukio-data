@@ -36,6 +36,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209463-Y
 trailer: "dLRKywRu3iM"
 
 draft: false
+addedAt: "2026-10-21"
+updatedAt: "2026-10-21"
 ---
 
 Noriko sedang dalam perjalanan pulang sekolah ketika tiba-tiba dia terlempar ke dalam dunia fantasi yang aneh dan luar biasa. Kehidupannya menjadi semakin rumit ketika dia diselamatkan oleh seorang pemuda tampan bernama Izark. Meskipun Izark tampak berani dan pemberani, dia menyembunyikan kejahatan tergelap di dalam dirinya.
