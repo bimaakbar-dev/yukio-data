@@ -14,12 +14,15 @@ season: fall
 year: 2026
 episodes: 12
 duration: 24
+rating: PG
 
 aired:
   from: "2026-10-05"
+  # to: # edit manual
 
 stats:
-  score: 6.9
+  score: 7.1
+  # scoredBy: # edit manual
 
 genres:
   - fantasy
@@ -34,11 +37,11 @@ trailer: "hGRtocAh3iw"
 
 draft: false
 addedAt: "2026-10-12"
-updatedAt: "2026-10-19"
+updatedAt: "2026-10-21"
 ---
 
-“Make me a love potion.”
+Di sebuah danau yang indah, hiduplah seorang penyihir baik yang dikenal sebagai Penyihir Danau. Ia memiliki rahasia yang tidak diketahui banyak orang, yaitu perasaan cinta yang tersembunyi pada seorang pria tampan bernama Sir Harij. Penyihir ini memiliki keahlian khusus dalam membuat ramuan cinta, namun ironisnya, ia sendiri tidak bisa mengungkapkan perasaannya.
 
-And with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?
+Suatu hari, Sir Harij meminta bantuan Penyihir Danau untuk membuat ramuan cinta. Meskipun ini membuat hatinya terluka, Penyihir Danau tidak bisa menolak permintaannya. Ia berharap dapat menghabiskan waktu bersama Sir Harij dan mengenalnya lebih dekat. Ketika Sir Harij menawarkan untuk membantu mengumpulkan bahan-bahan, Penyihir Danau merasa gembira dan bersemangat.
 
-(Source: Yen Press)
+Namun, apa yang terjadi ketika Sir Harij tiba-tiba muncul di pintu rumah Penyihir Danau dengan membawa roti dan selai apel? Apakah ini pertanda bahwa Sir Harij memiliki perasaan yang sama, atau hanya sebuah kebetulan belaka? Penyihir Danau harus menavigasi perasaannya yang kompleks dan menghadapi kemungkinan bahwa cintanya mungkin tidak akan terbalas.
