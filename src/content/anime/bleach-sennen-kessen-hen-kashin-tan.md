@@ -13,8 +13,8 @@ source: manga
 season: summer
 year: 2026
 episodes: 10
-# duration: # edit manual
-# rating: # edit manual
+duration: 24
+rating: R
 
 aired:
   from: "2026-07-25"
@@ -37,12 +37,12 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185874-IdGyh1E
 trailer: "IJONbpfIlUg"
 
 draft: false
+addedAt: "2026-10-21"
+updatedAt: "2026-10-21"
 ---
 
-Destruction looms at the end of the Thousand-Year Blood War between the Soul Reapers and Quincies… as the death of the Soul King mirrors the collapse of the Three Worlds, distortions and omens of destruction start to appear in all realms. 
+Ichigo kini berdiri di ambang perang besar antara Soul Reapers dan Quincies yang telah berlangsung selama seribu tahun. Kematian Raja Jiwa mulai memicu kerusakan pada tiga dunia, menyebabkan distorsi dan pertanda kehancuran muncul di mana-mana.
 
-Fierce battles erupt throughout the Wahr Welt between the Thirteen Court Guard Squads and the Royal Guard. Ichigo learns about Uryuu's true intentions and renews his determination to protect the world together, as friends who trust each other. Yhwach has surpassed even his own ability, The Almighty...
+Di tengah kekacauan ini, Ichigo menemukan kebenaran tentang niat Uryuu yang sebenarnya. Hal ini memperkuat tekadnya untuk melindungi dunia bersama teman-temannya yang saling percaya. Sementara itu, Yhwach telah mencapai tingkat kekuatan yang luar biasa, bahkan melebihi kemampuan The Almighty-nya.
 
-The fierce battle for the survival of the Three Worlds approaches its end. Beyond the chaos of calamity, what lies in wait—despair or hope?
-
-(Source: VIZ Media, edited)
+Pertarungan sengit antara pasukan Soul Reapers dan Quincies semakin memanas, mempertaruhkan kelangsungan hidup tiga dunia. Ichigo dan teman-temannya harus menghadapi ujian terberat mereka, di mana mereka harus memilih antara putus asa dan harapan di tengah kehancuran yang mengancam.
