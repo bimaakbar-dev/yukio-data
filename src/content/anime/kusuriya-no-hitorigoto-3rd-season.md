@@ -36,6 +36,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195516-B5M0cPa
 trailer: "YvNvvUeCztE"
 
 draft: false
+addedAt: "2026-10-21"
+updatedAt: "2026-10-21"
 ---
 
 Maomao kini kembali menjalani hidupnya sebagai seorang apoteker di distrik hiburan setelah pemberontakan Klan Shi berhasil diredakan. Namun, kehidupan damainya tidak bertahan lama. Suatu hari, Maomao menemukan sesuatu yang aneh terkait dengan sarapan di Rumah Verdigris, dan ia pun memutuskan untuk menyelidiki lebih lanjut.
