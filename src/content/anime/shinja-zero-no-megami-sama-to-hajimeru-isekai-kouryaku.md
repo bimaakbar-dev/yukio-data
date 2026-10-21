@@ -36,7 +36,7 @@ trailer: "qlMB8vSpLzc"
 
 draft: false
 addedAt: "2026-10-19"
-updatedAt: "2026-10-19"
+updatedAt: "2026-10-21"
 ---
 
 Makoto Takatsuki, seorang pemain RPG, tiba-tiba dibawa ke dunia lain. Namun, kemampuan dan statistiknya ternyata sangat rendah, membuatnya merasa tidak berdaya. 
