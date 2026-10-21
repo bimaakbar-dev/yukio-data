@@ -36,7 +36,7 @@ trailer: "ynr8tFWrK4c"
 
 draft: false
 addedAt: "2026-10-12"
-updatedAt: "2026-10-12"
+updatedAt: "2026-10-21"
 ---
 
 Office worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!
