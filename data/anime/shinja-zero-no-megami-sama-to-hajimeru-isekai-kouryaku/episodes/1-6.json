@@ -1,17 +1,40 @@
 [
   {
     "number": 1,
+    "title": "Episode 1",
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/bwftggdaptjm",
+        "https://mega.nz/embed/WyI3RapY#oE9p2SUc3-ZLI8zJTLa9RiDP9dL3FT__tfLtNi98VrM",
+        "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/ondesu/new/hd/index.php?id=c3NBQndMRjFjZm1kclJTdXdPUVU0dz09",
+        "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=U0xJdE5lVDVkQUFwOWhhcW9SUHd3ZjJXcVhzK3plT2JhbzlOZzA5UVhEMkJiS0Vjck8zWHFyUWVhRGlpdXlBK2tDWnRVOUlGTXVsNG9OZzJRcTFpWmc9PQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/q3fji9v1r8kp",
+        "https://mega.nz/embed/T7w2zLKC#CE4A3a1k5Vvpv8ejGYCiu1HuTmjxMm1dwJ9zlXagR-s"
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/bewh6sp2i4pq",
+        "https://mega.nz/embed/7rg3lZib#-33qcSXIulnSPl8mLqny56OND0AXKfFvOY3RrV3V298"
+      ],
+      "Unknown": [
+        "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0a3hvT2xQQjZZRU91dUh1MDY2OHpkVGh1bVc4KzRsb0lOM0lPRUx0eXcxOA=="
+      ]
+    }
+  },
+  {
+    "number": 2,
     "streams": [
       {
         "quality": "720p",
         "servers": [
           {
             "name": "HD-1",
-            "url": "https://www.blogger.com/video.g?token=AD6v5dyMs0lS_TgTCk9MuPJMM9faKvyoNNIzZXGZKtmSXDLevYgVUDI2FPvM9gZ-UOI5i9Ztu1_yKPCdZq_RbkAT2e-FluZidZRW-mIJ45q8qFo21yCAWNaqM-CMOHwQQOvxsRT99KE"
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzxJqpTXsJCLgQPKyv0V5StLKdU1W7TnYeVxJC3yGF1EKiU2UJERSCWJEO5r2K8nmi4e4FhAFHMQxoxcmBZQouihnZOBPVBxf6c5v8CsaTe-igvVptY4lTspCj7LmdoAz_mnF8"
           },
           {
             "name": "HD-2",
-            "url": "https://play.xtwap.top/cepat2.php?url=E5G2%252Bu9XzDhquUiqCvGLesDN7o9oACOrrlVYXNoKat7iO%252FWTWWSwkhmRRm3%252F2ckRaWR7hojlsGOZrEQ%252FX2hq%252FEC%252B%252B8GP3Y%252F0En8rHH%252B8Pxp6Q1fW8QizKhv0KCEmBmmBlyjjnoDH8quRasfMjUvnXOdfAZ78ia9qbHJgJunXsIgVBctIuHEZIxGBmfy%252BmjjmxW%252B%252BO%252BM%253D"
+            "url": "https://play.xtwap.top/cepat2.php?url=AVnaLMTN0K7Ld6UW2k3T9rTNWFmEC7LVMFedv%252FjtXCEeKDnhCrf7Vhm4fsr1cNDxVx3g7ceGvwvNfGkltZe2BSAu9sKH9xADo%252FDQEHjAT6R6sDqbALOGTSgOrpiGGYEEZy5Pli%252B4cxZz3xrOihZztDRZ8%252F%252Bc0%252BxTlqzMLS9fVGWURfvUu%252FHM99hcDBjHG43CXw%252BeZBw%253D"
           }
         ]
       }
