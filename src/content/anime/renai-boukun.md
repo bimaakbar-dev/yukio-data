@@ -40,6 +40,8 @@ trailer: "ixAK3zJpbwE"
 draft: false
 ---
 
-A Kiss Note is a powerful notebook that makes anyone who has their name written together will instantly fall in love if they kiss each other regardless of any circumstances. This magical and very familiar item belongs to an angel named Guri whose job as cupid is to create couples. However, she accidentally writes down Aino Seiji, a regular high school student, and unless he kisses someone, Guri will die. She convinces Seiji to go kiss his crush, Hiyama Akane, the school's popular girl who turns out has even stronger feelings for him, bordering on obsessive and psychotic. Eventually Akane and Seiji come together but not before Guri decides that she likes Seiji as well. What seems awesome to most guys becomes hell for Seiji who just wants a normal relationship with girls.
+Aino Seiji adalah siswa SMA biasa yang hidupnya berubah drastis ketika dia terlibat dalam sebuah kejadian aneh dengan seorang malaikat bernama Guri. Guri memiliki sebuah buku ajaib yang disebut Kiss Note, yang dapat membuat dua orang jatuh cinta jika mereka berbagi ciuman setelah nama mereka ditulis bersama di dalamnya.
 
-(Source: IMDB)
+Guri, yang bertugas sebagai kupida untuk menciptakan pasangan, secara tidak sengaja menulis nama Seiji di dalam Kiss Note. Untuk menyelamatkan nyawanya, Guri meminta Seiji untuk mencium seseorang. Seiji memutuskan untuk mendekati Hiyama Akane, gadis paling populer di sekolah yang ternyata memiliki perasaan kuat padanya. Namun, perasaan Akane tidak biasa dan cenderung obsessif.
+
+Seiji kini terjebak dalam situasi yang tidak biasa dan rumit. Apa yang seharusnya menjadi mimpi bagi banyak pria, kini berubah menjadi neraka baginya. Seiji hanya ingin memiliki hubungan yang normal dengan gadis-gadis, tetapi kehadiran Guri dan Kiss Note membuat semuanya menjadi lebih kompleks.
