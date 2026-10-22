@@ -8,7 +8,6 @@ kitsuId: "46999"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: summer
@@ -42,6 +41,8 @@ trailer: "-DoEoK4denA"
 draft: false
 ---
 
-"I know! I'll become a monk!" Akagami Akemitsu has spent his days and nights absorbed in studying and part-time work in an effort to distance himself from his family, which is notorious as a household of philanderers. One day, he falls in love at first sight with a girl named Aoba Yuzuki, and suddenly he's constantly drowning in worldly desires. Hoping to fight back against his genes and live a more stoic life, he enters a temple... only to find out that it's a convent filled with gorgeous girls! So begins a new rom-com about the temple life of three adorable triplets and two beautiful freeloaders!
+Akagami Akemitsu telah menghabiskan hari-harinya dengan sibuk belajar dan bekerja paruh waktu, berusaha untuk menjauhkan diri dari keluarganya yang terkenal sebagai keluarga yang suka berselingkuh. Ia ingin meninggalkan reputasi keluarganya dan memulai hidup yang lebih sederhana.
 
-(Source: Crunchyroll)
+Namun, semuanya berubah ketika Akemitsu jatuh cinta dengan seorang gadis cantik bernama Aoba Yuzuki. Ia kemudian memutuskan untuk bergabung dengan kuil untuk menjauhkan diri dari keinginan duniawi dan hidup lebih sederhana. 
+
+Di kuil, Akemitsu menemukan bahwa kuil tersebut dihuni oleh para biarawati cantik, termasuk tiga bersaudari kembar yang menggemaskan dan dua penghuni lain yang cantik. Ini menjadi awal dari kisah komedi romantis tentang kehidupan di kuil yang penuh dengan kejutan dan keseruan.
