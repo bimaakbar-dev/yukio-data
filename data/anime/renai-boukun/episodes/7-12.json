@@ -3,36 +3,234 @@
     "number": 7,
     "title": "Omatsuri jaai x Doushite Kou Nattaa!!",
     "aired": "2017-05-19",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8GMYgWaedg6Az"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Rjvkd8x8pwMxG"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=QVVjTVRIU1UwYzJMaFhVamVHOFlKK29CQXYrSzIvdmh1c1JqQVN3VVpSRT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/GKeyNPZaNxrj8"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Sayonara x Rival Desho!!",
     "aired": "2017-05-26",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/MB5ywaYMK7KYM"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/DvWy3jAaWMdGy"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=QVVjTVRIU1UwYzJMaFhVamVHOFlKOEFjMysvQWhIV1J0eklmak1sb2dQcz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/52BnvY26em847"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Zenzen... Nanimo... x Chotto, Douka Shiteimashita...",
     "aired": "2017-06-02",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/nYxXexe7LyywR"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/YnzX3n533kMRx"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=QVVjTVRIU1UwYzJMaFhVamVHOFlKOXJ6SS9tQXUrWGdrdHI3ZWV2anRIUT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/YnzXjwyWwgxB2"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Otomari ni Kichaimashita x Watashi Datte... Seichou Surunda yo",
     "aired": "2017-06-09",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Pr2yNBXwNd7BL"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/6PRjgG2YjkGKq"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=QVVjTVRIU1UwYzJMaFhVamVHOFlKMkQzeEFOek1jeEI0alBuZTlSQm0xYz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/aqQXVNPMgNVW6"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Doko Ittanda Aitsu x Ima made Taihen Osewa ni Narimashita",
     "aired": "2017-06-16",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/BjwKANdpX4Ygk"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/gRxXAVp3K7rvZ"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=QVVjTVRIU1UwYzJMaFhVamVHOFlKeU53SXlnZUZscWdaL2gwRHJjS0k2cz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/MB5yjLzxMLzna"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Sou da, Shinimashou! x Watashi Yatto Wakarimashita",
     "aired": "2017-06-23",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/6PRjQvyWXxe22"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/BjwKgPnPPwmgv"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=QVVjTVRIU1UwYzJMaFhVamVHOFlKME81R2tHT205TzRaU0NCQXJSSHRCZz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/7aADvj5PAyXAQ"
+          }
+        ]
+      }
+    ]
   }
 ]
