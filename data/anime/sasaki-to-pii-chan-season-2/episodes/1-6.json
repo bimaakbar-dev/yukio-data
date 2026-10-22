@@ -1,0 +1,48 @@
+[
+  {
+    "number": 1,
+    "title": "Episode 1",
+    "streams": {
+      "720p": [
+        "https://www.blogger.com/video.g?token=AD6v5dwL6dGjk78cOvU9yfvVEC5wKzcelS23Yc6WdbS0Ckt1x-cyRRcyFAgQ_0um7N9MvCrMlrb7Ea7QdjlfHBdevW7eDSGazn_63EDDBiQuf7IK62HPsF8iJZHhcRmacm0gCUzFB3HF",
+        "https://play.xtwap.top/cepat2.php?url=sskxMLZtlMngfsrbH198lrrB3IdLkiNxGoUEEeQOs7a4fg4%252BZMFOWh9Zr2mXroT%252B090%252F8KJt%252BHxWGvMPxWv%252FRk%252FarQarxYZhvUiYMtIjdRrACg2T%252BtU7cwLlUzziXS9tX0ZH26oGkHLKckk0eEFvvO%252FmuCDh169bQMTVVlv1xi%252FCOqOJwq3ASfjPL3g%252Fl0QQkKGVgno%253D"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2",
+    "streams": {
+      "360p": [
+        "https://odvidhide.com/embed/wyd87zfnauyr"
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Episode 3",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=ZDFSV0d2T1pvRTlxUGVnT2pPUkpRMHZIU0RwSnkrT3hlbnFxY0cwbUV0QT0="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Episode 4"
+  },
+  {
+    "number": 5,
+    "title": "Episode 5"
+  },
+  {
+    "number": 6,
+    "title": "Episode 6"
+  }
+]
