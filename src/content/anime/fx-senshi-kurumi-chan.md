@@ -14,12 +14,15 @@ season: fall
 year: 2026
 episodes: 12
 duration: 24
+rating: PG-13
 
 aired:
   from: "2026-10-01"
+  # to: # edit manual
 
 stats:
-  score: 6.9
+  score: 6.8
+  # scoredBy: # edit manual
 
 genres:
   - drama
@@ -34,9 +37,11 @@ trailer: "7rxIZ3z0S4s"
 
 draft: false
 addedAt: "2026-10-15"
-updatedAt: "2026-10-16"
+updatedAt: "2026-10-22"
 ---
 
-University student Kurumi Fukuga has finally fulfilled her long-held desire of starting foreign exchange (FX) trading, motivated by recouping the 20 million yen her late mother lost in trading. "I'll easily make it back," she thought, but the world she enters can become heaven or hell in an instant. Unrealized losses, loss-cutting, unstoppable fluctuations… but she still wants to buy, sell and make money! With fellow FX addicts Mochiko, Mebuki and Yasuko along for the ride, the market heats up! Joy, despair, joy, despair — this is an endearing, yet slightly risky money game. Can Kurumi and her friends survive this turbulent world?
+Kurumi Fukuga, seorang mahasiswi, akhirnya mewujudkan impian lamanya untuk memulai trading valuta asing (FX) dengan tujuan untuk mengembalikan kerugian 20 juta yen yang dialami oleh ibunya yang telah meninggal. Ia percaya bahwa dengan FX, ia dapat dengan mudah menghasilkan uang dan membalikkan keadaan.
 
-(Source: Crunchyroll)
+Namun, Kurumi segera menyadari bahwa dunia FX penuh dengan ketidakpastian dan fluktuasi yang tidak terduga. Ia bergabung dengan teman-temannya, Mochiko, Mebuki, dan Yasuko, yang juga memiliki ketertarikan dengan FX. Bersama, mereka menghadapi naik turunnya pasar dan mengalami perasaan bahagia dan putus asa yang bergantian.
+
+Dengan semangat dan tekad yang kuat, Kurumi dan teman-temannya berusaha untuk bertahan di dunia FX yang penuh risiko ini. Mereka harus menghadapi tantangan dan membuat keputusan yang tepat untuk menghasilkan uang dan mencapai tujuan mereka. Apakah mereka dapat berhasil dan mengatasi kesulitan di dunia FX?
