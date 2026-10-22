@@ -8,7 +8,6 @@ kitsuId: "46458"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: spring
@@ -40,6 +39,8 @@ trailer: "SyoNRBW3g7g"
 draft: false
 ---
 
-After inheriting his late grandmother’s failing café, Hayato sees it as a bother and plans to sell it for a quick buck. Until he discovers five beautiful girls staying there! When they beg him to keep the café open, Hayato reluctantly gives in. Can he manage the seaside shop while learning to live with these unruly women?
+Hayato mewarisi sebuah kafe milik neneknya yang sudah tidak berjalan dengan baik. Ia melihat kafe tersebut sebagai beban dan berencana untuk menjualnya demi mendapatkan uang dengan cepat. Namun, ia kemudian menemukan bahwa ada lima gadis cantik yang tinggal di kafe tersebut.
 
-(Source: Crunchyroll)
+Gadis-gadis tersebut memohon kepada Hayato untuk tidak menutup kafe tersebut. Meskipun awalnya enggan, Hayato akhirnya setuju untuk mempertahankan kafe tersebut. Ia harus sekarang mengelola kafe di pinggir pantai sambil berusaha untuk hidup bersama dengan lima gadis yang tidak biasa ini.
+
+Dapatkah Hayato mengelola kafe tersebut dengan baik dan menemukan cara untuk hidup harmonis dengan para penghuni baru kafe tersebut?
