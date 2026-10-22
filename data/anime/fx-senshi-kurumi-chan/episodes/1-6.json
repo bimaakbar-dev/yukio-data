@@ -3,11 +3,17 @@
     "number": 1,
     "title": "Episode 1",
     "duration": 24,
-    "streams": {
-      "360p": [
-        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=MVBkWUtzRCtMUHRLalFMZ003Nm0wdz09"
-      ]
-    }
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dw7hUJdbonhGWdwZx2nMPG7Vy-G8SM33g3HtgiK0oqin3AvskofMoPyfH2Enesl-4KBeqGjMv4pPhiLHC5ZQ-J-TjlzmNiuaOF9moxuc4w4ERJ6X95SSYgqbG5jhbfMmQFyBLI8"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
