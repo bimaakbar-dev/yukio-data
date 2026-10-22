@@ -41,11 +41,15 @@
     "duration": 24,
     "streams": [
       {
-        "quality": "360p",
+        "quality": "720p",
         "servers": [
           {
-            "name": "lexanime",
-            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=ZDhZNDZQZDloSGkvME55dmhuU1BwZz09"
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzmStK36qKSzmq12DVpe6rSo2lAr0l4buHrgUTEvgnerU81TPx50vsumyxfeHKToC4YL8dKoED5ldaeG3qdqq3sRtGOYfO_I1Ew2Xw7OC5LYj_vPSHiz8Gh6vzr_4wpmA6CyGA"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzmStK36qKSzmq12DVpe6rSo2lAr0l4buHrgUTEvgnerU81TPx50vsumyxfeHKToC4YL8dKoED5ldaeG3qdqq3sRtGOYfO_I1Ew2Xw7OC5LYj_vPSHiz8Gh6vzr_4wpmA6CyGA"
           }
         ]
       }
