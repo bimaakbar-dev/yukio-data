@@ -19,11 +19,21 @@
     "number": 2,
     "title": "Episode 2",
     "duration": 24,
-    "streams": {
-      "360p": [
-        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=TFNYaW1FbG1BRnNIT1pDdGN1UUhEUT09"
-      ]
-    }
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzctf3gwc_8tfDts5PE6e-uRJD0xGG8Dd0xVoRmmih2cRyDYzipSEHLZwi_vq2wqk-xvB_zYsDdHPK1xLagEL0PmLPfeYuVVDPx2q6_bBeY2gbUTHblRhC7mjiiWk3DbAG6rQ"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://play.xtwap.top/cepat2.php?url=vDUslaNPa6ItdpRviClvrtqVVMoy%252FHQ83e4i1hLPKbZw7TdoWI6RiAXclf2rMPmyPjQ1llMZNaV4Bxd%252FTjNDW8IjbpVYQCEuFtxnnb7p%252Fqx0u8iT7XRETqw5dkA8cp8gKonnFxeeVvUfUwNkYmPj%252BeEsX5WDVphgIN1YKPJAEqM3xGFFH8m9eIWUKqRL%252BpQ9nM8CF0M%253D"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
