@@ -1,0 +1,53 @@
+[
+  {
+    "number": 1,
+    "title": "Episode 1",
+    "duration": 24,
+    "streams": {
+      "360p": [
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=MVBkWUtzRCtMUHRLalFMZ003Nm0wdz09"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2",
+    "duration": 24,
+    "streams": {
+      "360p": [
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=TFNYaW1FbG1BRnNIT1pDdGN1UUhEUT09"
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Episode 3",
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=ZDhZNDZQZDloSGkvME55dmhuU1BwZz09"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Episode 4",
+    "duration": 24
+  },
+  {
+    "number": 5,
+    "title": "Episode 5",
+    "duration": 24
+  },
+  {
+    "number": 6,
+    "title": "Episode 6",
+    "duration": 24
+  }
+]
