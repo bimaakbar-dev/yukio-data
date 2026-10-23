@@ -14,6 +14,7 @@ season: spring
 year: 2026
 episodes: 12
 duration: 24
+# rating: # edit manual
 
 aired:
   from: "2026-04-01"
@@ -21,6 +22,7 @@ aired:
 
 stats:
   score: 6.7
+  # scoredBy: # edit manual
 
 genres:
   - slice-of-life
@@ -36,8 +38,8 @@ trailer: "lPLmZANPhrM"
 draft: false
 ---
 
-What’s a maid to do when she finds herself suddenly stuck in Japan for a year? Eat, of course! Follow maid-in-training Suzume Tachibana as she tries all sorts of Japanese food, from sweets like taiyaki and melon bread to savory snacks like takoyaki and onigiri! Be warned, though-while Suzume sates her appetite through delicious treat after delicious treat, she might just end up whetting yours!
+Suzume Tachibana, seorang pelayan yang sedang dalam pelatihan, mendapati dirinya terjebak di Jepang selama setahun. Untuk menghabiskan waktu, dia memutuskan untuk mencoba berbagai jenis makanan Jepang yang lezat. Mulai dari makanan manis seperti taiyaki dan melon bread, hingga camilan gurih seperti takoyaki dan onigiri, Suzume tidak ragu untuk memuaskan selera makanannya.
 
-(Source: Crunchyroll)
+Suzume sangat menikmati setiap gigitan makanan Jepang yang dia coba. Dengan antusiasme dan rasa ingin tahu yang besar, dia menjelajahi berbagai jenis makanan yang ditawarkan oleh Jepang. Dari makanan ringan hingga makanan berat, Suzume tidak mau melewatkan kesempatan untuk mencoba semuanya.
 
-Note: Maid-san wa Taberu dake was streamed a week in advance on dAnimestore, ABEMA, and U-Next starting with episode 2. Episode 1 was streamed on April 1, 2026. Regular broadcasting began on April 5, 2026.
+Ikuti petualangan kuliner Suzume di Jepang, dan siap-siap untuk merasakan lapar karena melihatnya menikmati makanan yang lezat!
