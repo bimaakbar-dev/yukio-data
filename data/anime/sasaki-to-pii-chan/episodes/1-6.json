@@ -1,26 +1,290 @@
 [
   {
     "number": 1,
-    "title": "Episode 1"
+    "title": "Episode 1",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/z6lyt74b2g5z"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/1DNGRZBQ#ZWOmjkaeLW2yK9iTM7iIifVsh2fzpVtV8NEda7UAyGU"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=TjlkeVZjT3hZSUNpWDNJTEVlUlg1Zz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=dTdmWmtYVFBKZ2M5MUZsOUl3ZDhuQ1BwQ0Q1d2VxZTVjZE5KbTU1UzRDSC9oenl2ZUhxQnhINmViQlEzSXVNNEhqbkpLbVRLMkVsSFNURUJwcy9janc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/oxk7ve8n8nwi"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/NHdHXIxa#UIVSyib8t1P5z9QOEqht5W9Yum1EcFCL1SGwFENOeuI"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=TjlkeVZjT3hZSUNpWDNJTEVlUlg1Zz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=dTdmWmtYVFBKZ2M5MUZsOUl3ZDhuQ1BwQ0Q1d2VxZTVjZE5KbTU1UzRDSGtCQkFYeTZhWWpJdGdJcXpObm94dA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
-    "title": "Episode 2"
+    "title": "Episode 2",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/p9ccrjazgsap"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/AfVBBI4I#H26HxT7FJipd_bBjsopF9T5sJlKnFIEUKaFqLMyjo-8"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=M0FjRVZBei9JK1hDWWhTL1I0S3YwQT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=dTdmWmtYVFBKZ2M5MUZsOUl3ZDhuQ1BwQ0Q1d2VxZTVjZE5KbTU1UzRDSC9oenl2ZUhxQnhINmViQlEzSXVNNHJVWUVxNmc4RjRGQ2J3K3pGOTF5cEE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/hyb0tqnrcs68"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/RCU03S7S#2biUYZjpG5X8qGI4MuPttp1rkZiygve-nWGyYKFnxsQ"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=M0FjRVZBei9JK1hDWWhTL1I0S3YwQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=dTdmWmtYVFBKZ2M5MUZsOUl3ZDhuQ1BwQ0Q1d2VxZTVjZE5KbTU1UzRDSEtMOGljN1hWZ3JoYTVSbDZtSmp0WQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
-    "title": "Episode 3"
+    "title": "Episode 3",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/2hq1c4mp3dgd"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ZLlDmRIL#wTEDhRTtZ25Jb5B6cO-KI70FZZUiVQGZFItF1mEm1co"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=YklPbU4wNlhvdXRHbm1XNlN0ZW1qdz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=dTdmWmtYVFBKZ2M5MUZsOUl3ZDhuQ1BwQ0Q1d2VxZTVjZE5KbTU1UzRDSC9oenl2ZUhxQnhINmViQlEzSXVNNEVWUnc1YjZkdHVibEpQcTVyMU1pU1E9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/aawaq7bmjete"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/UHElVCzR#4g6p_rmQ9CYjYSO8W6Fibb0CDr9-GO5YDyVyCFkXb9A"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=YklPbU4wNlhvdXRHbm1XNlN0ZW1qdz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=dTdmWmtYVFBKZ2M5MUZsOUl3ZDhuQ1BwQ0Q1d2VxZTVjZE5KbTU1UzRDSDNHUUx0NWRJMGdHUnZKZFcvL0ptTQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
-    "title": "Episode 4"
+    "title": "Episode 4",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/fdlmn9n0yh06"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/EXtHEArT#AHLgZ1i2qXVlQrx7jGCQBSm6Ae4L89lLB2_GeDO6jf4"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=MkxXa0RsMUdrZlE4T1dWclJwMWp1QT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=dTdmWmtYVFBKZ2M5MUZsOUl3ZDhuQ1BwQ0Q1d2VxZTVjZE5KbTU1UzRDSC9oenl2ZUhxQnhINmViQlEzSXVNNEdLRUlGREd3TTBLd2NIRFRwZ1JHWFE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/edz1zy9kje3c"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/4LkDlSKK#8_ENDLmuI7ivbVYFRobAsE0LggCIaUf2T3CRrk6DpSU"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=MkxXa0RsMUdrZlE4T1dWclJwMWp1QT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=dTdmWmtYVFBKZ2M5MUZsOUl3ZDhuQ1BwQ0Q1d2VxZTVjZE5KbTU1UzRDRnp4eStOME5HUFBtZ2Y2Wm92UVdjSg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
-    "title": "Episode 5"
+    "title": "Episode 5",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/18winjkk5bm6"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/cbNw2SwT#EDH-KJer0_DxoPft3hwfEghGqluB1deidYwLwr_gcbc"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=S21VUlE3L0g4aW9ROTNUL09lc0RIZz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=dTdmWmtYVFBKZ2M5MUZsOUl3ZDhuQ1BwQ0Q1d2VxZTVjZE5KbTU1UzRDSC9oenl2ZUhxQnhINmViQlEzSXVNNE1lQ2NXRDJwTjBLbEZwcFpwRW1QakE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/s2nzgcno89qy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/4X8lSChT#YhecFo6GXzaizMQraEA1WSNNOUKQ7TTS-gOhiJw2GOs"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=S21VUlE3L0g4aW9ROTNUL09lc0RIZz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=dTdmWmtYVFBKZ2M5MUZsOUl3ZDhuQ1BwQ0Q1d2VxZTVjZE5KbTU1UzRDSHpiN1BWci8zaHJyNkZZMlZQYzlCQw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
-    "title": "Episode 6"
+    "title": "Episode 6",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/y23l3i8lp0w5"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/db10zBJA#CQKU0QpLVbVuFPeOY17U1UayYnn6eiK1tgpLI49YKsA"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=ZllJc1pMemlsb25Tb0I5N3lQbjRhUT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=dTdmWmtYVFBKZ2M5MUZsOUl3ZDhuQ1BwQ0Q1d2VxZTVjZE5KbTU1UzRDSC9oenl2ZUhxQnhINmViQlEzSXVNNHp2V21yL25SSFMxaFFMVUlRam11aHc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/j7zs5fvr0kvk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/9Kk3BJQI#FOqQT-LXtNingPNV03Cryb2PJRjKFe8rbQmm9lqaAq8"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=ZllJc1pMemlsb25Tb0I5N3lQbjRhUT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=dTdmWmtYVFBKZ2M5MUZsOUl3ZDhuQ1BwQ0Q1d2VxZTVjZE5KbTU1UzRDRVlNZ0VNRnhkaUhhTktnM3gweVFIYQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
