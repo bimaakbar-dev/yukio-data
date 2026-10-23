@@ -8,13 +8,13 @@ kitsuId: "41966"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: winter
 year: 2019
 episodes: 12
 duration: 24
+# rating: # edit manual
 
 aired:
   from: "2019-01-11"
@@ -22,6 +22,7 @@ aired:
 
 stats:
   score: 7.6
+  # scoredBy: # edit manual
 
 genres:
   - comedy
@@ -36,12 +37,11 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103572-c
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103572-qRtBguYOOR2j.jpg"
 trailer: "pCwfEB6PbFk"
 
-addedAt: "2026-10-10T07:05:10.755Z"
-updatedAt: "2026-10-10T07:05:10.755Z"
-
 draft: false
 ---
 
-Uesugi Fuutarou, a high school second-year from a poor family, receives a highly appealing offer to work part-time as a tutor... but his students turn out to be girls from his own class! What's more, they're quintuplets... and all five are beautiful, but happen to be problem students who have borderline grades and hate studying! Looks like his first assignment will be to win all the sisters' trust?! Every day is a wild party in this rom-com centering around the quintuplet sisters of the Nakano household!
+Uesugi Fuutarou, seorang siswa SMA kelas dua dari keluarga yang kurang mampu, mendapatkan tawaran kerja paruh waktu yang sangat menggiurkan sebagai tutor. Namun, dia tidak menyangka bahwa murid-muridnya adalah gadis-gadis dari kelasnya sendiri. Mereka adalah lima bersaudari kembar yang cantik, tapi sayangnya, mereka memiliki prestasi akademik yang buruk dan tidak suka belajar.
 
-(Source: Crunchyroll)
+Fuutarou harus menghadapi tantangan besar untuk memenangkan kepercayaan kelima bersaudari tersebut. Setiap hari, dia harus berhadapan dengan situasi yang tidak terduga dan penuh kejutan bersama keluarga Nakano. Dengan kepribadian yang unik dan berbeda-beda, kelima bersaudari tersebut membuat Fuutarou harus berpikir keras untuk mencari cara memotivasi mereka belajar.
+
+Dalam komedi romantis ini, Fuutarou harus mengarungi hari-hari yang penuh kejutan dan kegembiraan bersama lima bersaudari Nakano. Apakah dia bisa berhasil memenangkan kepercayaan mereka dan membantu mereka meningkatkan prestasi akademik?
