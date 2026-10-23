@@ -39,8 +39,8 @@ trailer: "_rb5fEQscrc"
 draft: false
 ---
 
-Sasaki is a middle-aged office worker living in Japan. Feeling drained by the vapid corporate world, he heads to the pet shop in search of a new companion. There he finds an adorable bird named Peeps and takes him home. But Sasaki quickly learns that Peeps isn’t your average bird…he’s a powerful mage from another world! Together, they embark on a magical adventure filled with swords and sorcery.
+Sasaki, seorang pekerja kantoran paruh baya di Jepang, merasa lelah dengan rutinitas dunia korporat yang membosankan. Ia memutuskan untuk mengunjungi toko hewan peliharaan untuk mencari teman baru. Di sana, ia menemukan seekor burung yang menggemaskan bernama Pii-chan dan memutuskan untuk membawanya pulang.
 
-(Source: Crunchyroll)
+Namun, Sasaki segera menyadari bahwa Pii-chan bukanlah burung biasa. Ia memiliki kekuatan magis yang luar biasa dan berasal dari dunia lain. Kehadiran Pii-chan membawa Sasaki ke dalam petualangan ajaib yang penuh dengan pedang dan sihir. Bersama, mereka akan menghadapi berbagai tantangan dan petualangan yang menarik.
 
-Note: The first episode aired with a runtime of ~48 minutes.
+Dengan latar belakang dunia modern dan sentuhan magis, kisah Sasaki dan Pii-chan akan membawa penonton ke dalam dunia yang penuh keajaiban dan petualangan. Dengan kombinasi antara komedi dan aksi, anime ini menjanjikan pengalaman menarik bagi penonton.
