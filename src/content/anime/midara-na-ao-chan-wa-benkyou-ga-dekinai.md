@@ -1,45 +1,46 @@
 ---
 title: Midara na Ao-chan wa Benkyou ga Dekinai
 titleEnglish: "Ao-chan Can't Study!"
-titleNative: みだらな青ちゃんは勉強ができない
+titleNative: 淫らな青ちゃんは勉強ができない
 
-malId: 38778
+# malId: # edit manual
 kitsuId: "42024"
 
 type: TV
 status: finished
-rating: PG-13
-source: manga
+# source: # edit manual
 
 season: spring
 year: 2019
 episodes: 12
-duration: 13
-# rating: # edit manual
+duration: 12
+rating: PG
 
 aired:
   from: "2019-04-06"
   to: "2019-06-22"
 
 stats:
-  score: 6.4
+  score: 6.7
   # scoredBy: # edit manual
 
 genres:
   - comedy
   - ecchi
   - romance
+  - shounen
 
-studios:
-  - silver-link
+studios: []
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105989-Jooq6bqkeeiP.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/105989-t9vIfvSf8TkI.jpg"
-trailer: "IFJnE3XgeCs"
+image: "https://media.kitsu.app/anime/poster_images/42024/large.jpg"
+banner: "https://media.kitsu.app/anime/42024/cover_image/large-3c76198f7825d727645baf03ce28a5ca.jpeg"
+trailer: "https://youtu.be/IFJnE3XgeCs"
 
 draft: false
 ---
 
-Most high school girls would be proud that their father is a famous writer, but Ao Horie’s father is an EROTIC writer, a purveyor of pornographic prose. He’s authored hundreds of dirty books and it has definitely warped his twisted sensibilities. Since Ao thinks that anyone who learns about her father is going to assume that Ao is at least somewhat like her pornographic papa, Ao’s solution is to just not talk to other people, especially boys. All she wants to do is study and get good grades so she can go to a school far away from her family. And that’s why Takumi Kijima is driving her crazy! He keeps trying to talk to her, distracting her, and causing her to think about the kind of things she’d rather not think about…
+Ao masih ingat saat di taman kanak-kanak, dia dengan bangga menceritakan kepada teman-temannya tentang asal-usul namanya yang unik. Ayahnya, seorang penulis novel erotis bestseller, memberinya nama "Ao" yang memiliki makna ganda. Kejadian itu masih membayangi Ao sepuluh tahun kemudian, ketika dia fokus untuk belajar dan masuk ke universitas elite. Tujuannya adalah untuk meraih kemandirian dan lepas dari bayang-bayang ayahnya.
 
-(Source: Sentai Filmworks)
+Ao memiliki target yang jelas dan tidak ingin membuang waktu untuk hal-hal yang tidak penting, termasuk urusan cinta. Namun, rencananya mulai goyah ketika teman sekelasnya, Kijima, mengungkapkan perasaannya kepadanya. Ao mencoba untuk menghindarinya, tapi Kijima tidak mau menyerah. Ao mulai merasa bingung dan tidak bisa mengontrol pikirannya yang mulai tidak murni.
+
+Kehadiran Kijima membuat Ao menyadari bahwa pengaruh ayahnya mungkin lebih besar dari yang dia bayangkan. Ao harus berjuang untuk membedakan antara keinginannya sendiri dan pengaruh ayahnya, sambil juga menghadapi perasaannya yang tumbuh terhadap Kijima. Apakah Ao bisa mencapai tujuannya dan menemukan jati dirinya, atau apakah dia akan terjebak dalam konflik batin yang semakin kompleks?
