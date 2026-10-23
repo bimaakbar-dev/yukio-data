@@ -14,12 +14,15 @@ season: fall
 year: 2026
 episodes: 12
 duration: 24
+rating: PG
 
 aired:
   from: "2026-10-07"
+  # to: # edit manual
 
 stats:
-  score: 6.8
+  score: 6.9
+  # scoredBy: # edit manual
 
 genres:
   - comedy
@@ -34,8 +37,10 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176314-nj2hmqb
 trailer: "gY0hpk9E7p8"
 
 draft: false
-addedAt: "2026-10-10"
-updatedAt: "2026-10-22"
 ---
 
-The second season of Sasaki to Pii-chan.
+Musim kedua dari kisah Sasaki dan Pii-chan telah tiba. Kali ini, mereka akan membawa kita dalam petualangan baru yang penuh dengan kejutan dan keseruan. 
+
+Sasaki, seorang pria yang memiliki hubungan unik dengan Pii-chan, akan terus mengeksplorasi dinamika mereka yang menarik. Dengan Pii-chan di sampingnya, Sasaki akan menghadapi berbagai situasi yang akan menguji hubungan mereka dan membuat kita penasaran tentang apa yang akan terjadi selanjutnya.
+
+Dalam musim kedua ini, kita dapat mengharapkan lebih banyak aksi, komedi, dan momen-momen emosional yang akan membuat kita terpaku pada layar. Apa yang akan terjadi pada Sasaki dan Pii-chan? Mari kita simak petualangan mereka yang seru dan penuh kejutan ini.
