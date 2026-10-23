@@ -2,20 +2,16 @@
 title: Dark Summoner to Dekiteiru
 titleEnglish: "I'm Dating a Dark Summoner"
 titleNative: ダークサモナーとデキている
-
 malId: 63509
 kitsuId: "50990"
-
 type: TV
 status: airing
 rating: R+
 source: manga
-
 season: fall
 year: 2026
 episodes: 12
 duration: 12
-
 aired:
   from: "2026-10-05"
 
@@ -38,9 +34,11 @@ trailer: "-YCols5lYow"
 
 draft: false
 addedAt: "2026-10-18"
-updatedAt: "2026-10-18"
+updatedAt: "2026-10-23"
 ---
 
-Amona’s a dark summoner with demonic powers. Roni’s a devout priest who’s way too uptight. By all rights, they should hate each other. Instead, they end up fast-tracking their enemies-to-lovers arc with a one-night stand that somehow insists on becoming a recurring event. Now they must hide their situationship from the rest of the party while denying their growing attraction to one another, all while dealing with an imp who’s far too invested in their love life.
+Amona, seorang penyihir kegelapan dengan kekuatan iblis, dan Roni, seorang pendeta yang sangat taat, seharusnya menjadi musuh bebuyutan. Namun, mereka malah terlibat dalam sebuah hubungan yang tidak terduga setelah satu malam yang tidak direncanakan. Kini, mereka harus menyembunyikan hubungan rahasia mereka dari rekan-rekan mereka sambil berusaha menyangkal perasaan yang tumbuh di antara keduanya.
 
-(Source: HIDIVE)
+Sementara itu, mereka juga harus menghadapi gangguan dari seekor imp yang terlalu peduli dengan kehidupan cinta mereka. Dengan kekuatan iblis Amona dan keyakinan Roni yang kuat, mereka harus menavigasi perasaan mereka yang kompleks dan berusaha menyimpan hubungan mereka dari pandangan umum.
+
+Dalam dunia yang penuh dengan kekuatan supernatural dan keyakinan yang kuat, Amona dan Roni harus menghadapi tantangan untuk memahami perasaan mereka sendiri dan menemukan cara untuk membuat hubungan mereka berhasil, tanpa mengorbankan nilai-nilai dan keyakinan mereka.
