@@ -71,7 +71,18 @@
   {
     "number": 17,
     "title": "Episode 17",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=bkVMUWxnVDBvUnhydWJLb21TWmFUcVEvbGpuMW9KbEFRSk9FaUxqckgxS3ZxS1NNQldlNVNSeHZMdjVDR3lFOS94WW94L05Yc0pJYzZxRkhGenY4dlE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 18,
