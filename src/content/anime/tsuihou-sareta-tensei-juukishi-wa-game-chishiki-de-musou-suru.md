@@ -38,7 +38,7 @@ trailer: "uC13b3_8riU"
 
 draft: false
 addedAt: "2026-10-16"
-updatedAt: "2026-10-16"
+updatedAt: "2026-10-24"
 ---
 
 Born into a prestigious family of master swordsmen, Elymas Edvaughn’s future shatters when he awakens the so-called “defective” Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the “weakest” class.
