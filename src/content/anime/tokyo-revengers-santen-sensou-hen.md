@@ -38,6 +38,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-b
 trailer: "Nm21TTXUkf4"
 
 draft: false
+addedAt: "2026-10-23"
+updatedAt: "2026-10-24"
 ---
 
 Di Tokyo, kisah Takemichi Hanagaki terus berlanjut. Setelah melewati berbagai cobaan dan rintangan, ia kini harus menghadapi tantangan baru. Dalam sekuel ini, Tokyo Revengers: Santen Sensou-hen, Takemichi akan menghadapi konflik yang lebih kompleks dan berat.
