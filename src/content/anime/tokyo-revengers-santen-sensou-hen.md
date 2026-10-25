@@ -39,7 +39,7 @@ trailer: "Nm21TTXUkf4"
 
 draft: false
 addedAt: "2026-10-23"
-updatedAt: "2026-10-24"
+updatedAt: "2026-10-25"
 ---
 
 Di Tokyo, kisah Takemichi Hanagaki terus berlanjut. Setelah melewati berbagai cobaan dan rintangan, ia kini harus menghadapi tantangan baru. Dalam sekuel ini, Tokyo Revengers: Santen Sensou-hen, Takemichi akan menghadapi konflik yang lebih kompleks dan berat.
