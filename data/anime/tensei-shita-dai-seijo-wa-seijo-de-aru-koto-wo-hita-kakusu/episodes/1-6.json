@@ -78,7 +78,18 @@
   {
     "number": 5,
     "title": "Episode 5",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/VF01RIwB#58STIO2wNfkN6gu52TOnENWA8m0dVpDyKMA-IsvJtac"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
