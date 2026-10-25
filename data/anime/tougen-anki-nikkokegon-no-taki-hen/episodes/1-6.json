@@ -61,7 +61,18 @@
   {
     "number": 4,
     "title": "Episode 4",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://odvidhide.com/embed/e62q0hbvphgx"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
