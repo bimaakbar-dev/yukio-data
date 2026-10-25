@@ -46,7 +46,18 @@
   },
   {
     "number": 4,
-    "title": "Episode 4"
+    "title": "Episode 4",
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/S2QGnTiD#j66abCWFS_VqafAhqkl_jFS20GgFAPXhf_qdJueQI_s"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
