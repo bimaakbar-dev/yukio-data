@@ -32,21 +32,26 @@
   {
     "number": 3,
     "title": "Episode 3",
+    "streams": {
+      "360p": [
+        "https://desustream.net/dstream/arcg/?id=bkViN1hibkdLeXpjWmtWNXFOVDViMzVjbldZUHV6RCttSWhNSThabko5Mmg3KzVkT05LY0wzNjkyejBQY3JZMnF3bEJ5Yy9qNVBQNisyNG5vM3VOdXRMd1p3ZFRiZEgxU0grNGFtK0NjN0lVQy9vc2xhVmluejdDZ0tFWEtONlg="
+      ]
+    }
+  },
+  {
+    "number": 4,
+    "title": "Episode 4",
     "streams": [
       {
         "quality": "360p",
         "servers": [
           {
             "name": "animesub",
-            "url": "https://desustream.net/dstream/arcg/?id=bkViN1hibkdLeXpjWmtWNXFOVDViMzVjbldZUHV6RCttSWhNSThabko5Mmg3KzVkT05LY0wzNjkyejBQY3JZMnF3bEJ5Yy9qNVBQNisyNG5vM3VOdXRMd1p3ZFRiZEgxU0grNGFtK0NjN0lVQy9vc2xhVmluejdDZ0tFWEtONlg="
+            "url": "https://desustream.net/dstream/arcg/?id=Y1pEYThjZkc4OVJpbnlEbzU4TTR1OVNmYUo4YmpRYmowVVNobUdMd05SY3VrdjlPTFFudVRWYXJmdHpQdUFuWmxiV2ZHemNRODR6Zk43Z0ZBTkF3QmV6Y1A4VDk4ckVTck5jdHBhVXYvamc9"
           }
         ]
       }
     ]
-  },
-  {
-    "number": 4,
-    "title": "Episode 4"
   },
   {
     "number": 5,
