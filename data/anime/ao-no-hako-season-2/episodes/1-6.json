@@ -50,7 +50,18 @@
   {
     "number": 4,
     "title": "Episode 4",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=d0tlK0g5b2xnQWgyYlVLbkZJYVdnR3RCL3F1RVJ4L3hRVXRpT2trcXdScTdlRnZkRi9Rc3lySkRSZWRjU1JhbFJMU1RKMUNzRE9UY082b0pVRE4xY0E9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
