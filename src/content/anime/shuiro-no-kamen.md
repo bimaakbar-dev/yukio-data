@@ -29,7 +29,7 @@ trailer: "iX4N-Z5Hbxw"
 
 draft: false
 addedAt: "2026-10-18"
-updatedAt: "2026-10-18"
+updatedAt: "2026-10-26"
 ---
 
 "The Mask” gives power to anyone who wears it.
