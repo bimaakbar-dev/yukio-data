@@ -65,7 +65,18 @@
   },
   {
     "number": 5,
-    "title": "Episode 5"
+    "title": "Episode 5",
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/kdEFDJga#nMPtijCP1tNistoW4OSvi0QUgH6HbbOwWhB45qQtrps"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
