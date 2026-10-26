@@ -34,7 +34,7 @@ trailer: "-YCols5lYow"
 
 draft: false
 addedAt: "2026-10-18"
-updatedAt: "2026-10-23"
+updatedAt: "2026-10-26"
 ---
 
 Amona, seorang penyihir kegelapan dengan kekuatan iblis, dan Roni, seorang pendeta yang sangat taat, seharusnya menjadi musuh bebuyutan. Namun, mereka malah terlibat dalam sebuah hubungan yang tidak terduga setelah satu malam yang tidak direncanakan. Kini, mereka harus menyembunyikan hubungan rahasia mereka dari rekan-rekan mereka sambil berusaha menyangkal perasaan yang tumbuh di antara keduanya.
