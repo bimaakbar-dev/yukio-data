@@ -14,12 +14,15 @@ season: summer
 year: 2026
 episodes: 12
 duration: 24
+rating: PG-13
 
 aired:
   from: "2026-09-27"
+  # to: # edit manual
 
 stats:
-  score: 7.5
+  score: 7.6
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -36,10 +39,14 @@ trailer: "e1Km0FqUZl0"
 
 draft: false
 addedAt: "2026-10-12"
-updatedAt: "2026-10-18"
+updatedAt: "2026-10-26"
 ---
 
-Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….
+Sin Yeong-U, atau yang lebih dikenal sebagai Grid, adalah seorang pria yang kurang beruntung dalam kehidupan sehari-harinya. Ia juga merupakan pemain dengan level yang relatif rendah dalam permainan VR yang sangat populer, "Satisfy". Namun, kehidupan Grid mulai berubah ketika ia menemukan sebuah item yang sangat kuat.
+
+Item ini memberinya gelar kelas legendaris yang langka, "Pagma's Successor", yang membuatnya menjadi seorang pandai besi yang terampil. Dengan kemampuan barunya, Grid dapat menciptakan senjata unik dan mengenakan peralatan terkuat dalam game. Ia bertekad untuk menggunakan kemampuan barunya ini untuk mencapai ketenaran dan kekayaan.
+
+Namun, ketika Grid mulai menggunakan kemampuan barunya, ia menyadari bahwa keberadaannya sebagai seorang legenda dalam game "Satisfy" membawa konsekuensi yang tidak terduga. Ia harus menghadapi tantangan dan tekanan yang datang bersama dengan status barunya, dan Grid harus memutuskan apakah ia siap untuk menghadapi semua ini.
 
 (Source: Tapas, edited)
 
