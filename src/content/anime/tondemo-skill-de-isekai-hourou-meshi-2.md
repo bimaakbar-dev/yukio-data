@@ -4,7 +4,7 @@ titleEnglish: Campfire Cooking in Another World with my Absurd Skill Season 2
 titleNative: とんでもスキルで異世界放浪メシ2
 
 malId: 57025
-kitsuId: "48190"
+kitsuId: "46676"
 
 type: TV
 status: finished
@@ -14,14 +14,14 @@ season: fall
 year: 2025
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2025-10-08"
   to: "2025-12-24"
 
 stats:
-  score: 7.6
+  score: 7.7
   # scoredBy: # edit manual
 
 genres:
@@ -39,6 +39,8 @@ trailer: "mJ1M8RyVFp4"
 draft: false
 ---
 
-When a magical realm looks to summon heroes, they’re sorely disappointed to end up with a mediocre salaryman. Mukoda Tsuyoshi may not be a hero, but this conjuring error has given him a delicious power—Online Grocery. And something about this modern food brings with it unbelievable effects. This easy access paired with his cooking skills will have patrons from across the land coming back for more!
+Mukoda Tsuyoshi, seorang salaryman biasa-biasa, secara tidak terduga dipanggil ke sebuah dunia magis. Meskipun dia bukanlah seorang pahlawan, kesalahan pemanggilan ini memberinya kekuatan unik - yaitu kemampuan untuk berbelanja online.
 
-(Source: Crunchyroll)
+Dengan kekuatan ini, Tsuyoshi dapat memasak berbagai hidangan modern yang lezat dan menghasilkan efek luar biasa. Kombinasi antara akses mudah ke bahan-bahan dan keterampilan memasaknya membuatnya menjadi daya tarik bagi banyak orang di dunia magis ini.
+
+Tsuyoshi sekarang memiliki kesempatan untuk mengeksplorasi dunia baru ini dan berbagi kelezatan hidangannya dengan orang-orang di sekitarnya. Apa yang akan terjadi selanjutnya pada petualangan Tsuyoshi di dunia magis ini?
