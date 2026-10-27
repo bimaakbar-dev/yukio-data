@@ -1,13 +1,49 @@
 [
   {
+    "number": 1,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/e5dwj780a9om",
+        "https://mega.nz/embed/0AZxSDqL#E0K5sfREN63RIxlu8ySUH3hovT7UX18a9pzSgXSjDEU",
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=ZklyRHRYalNHdWdqM3lZMU1YdFZSQT09",
+        "https://desustream.net/dstream/arcg/?id=TmJJbnNRbzZLb1N3TE91aXptaDdyR3UzYk9Zc2dNTjBrNlpOZ25EZFUzNjhpM3FNNUNHc3hxNnp4c3dVdmhqYg=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/8q1wj2l38o5c",
+        "https://mega.nz/embed/NE4VjLSa#WBVIdNQmceD3iUYFjcvG1ImzTCKXIf4DBft_3DVFK9w",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0c3F4SnJvcnlsT3cvTzZJRzc0eUlzT1dKZjJmVE1xcTYvZCsxb2UwWUJaRg=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/4pa96zir6d7r",
+        "https://mega.nz/embed/BJIxHAJR#-ixqageBcYo-S1b02O16-UX7ytw9vRld-1VuPeINfOk"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "streams": {
+      "360p": [
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=amxSbzRGbzc1eURxaWZjU2dCSWZZdz09"
+      ]
+    }
+  },
+  {
     "number": 3,
+    "streams": {
+      "360p": [
+        "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=MTNPME9nV3hzMGVZSUFmQmRTRW5PVUFCazBaa1V2QXI5WVp6SnlzV0VnQT0="
+      ]
+    }
+  },
+  {
+    "number": 4,
     "streams": [
       {
         "quality": "360p",
         "servers": [
           {
             "name": "lexanime",
-            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=MTNPME9nV3hzMGVZSUFmQmRTRW5PVUFCazBaa1V2QXI5WVp6SnlzV0VnQT0="
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=VlNLVEMvdm1LYmJCaVJDdDQvOWZlQT09"
           }
         ]
       }
