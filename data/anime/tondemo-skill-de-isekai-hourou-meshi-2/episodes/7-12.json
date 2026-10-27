@@ -3,36 +3,438 @@
     "number": 7,
     "title": "The Wolf Dances With Monsters",
     "aired": "2023-02-21",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/R64iGLHtwS"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/s7zevckz23zb"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/N82W59Jy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bxhjzZrR#HlPvPkpJRrkv_Zx_fJv41i0jLVaR91Gdhoh4--Pe6Y0"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=T20wRXo2dEZieUNweHhEK0VGRVA4SG9jYVoydzVTRFVwMlJha2FUYzdHOD0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/JDrYmhTnIu"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/wtks5yo2u833"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/o9mRVQAn"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bwxhEaZb#3od5KznNHcH0TZLJiVK2AsAIn5x_XwG3CaB55Q8_OaY"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=T20wRXo2dEZieUNweHhEK0VGRVA4SG9jYVoydzVTRFVwMlJha2FUYzdHOD0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/jmLSjenLiH"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ezenx0jv5tds"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/k88jz2eA"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/e0BABZLB#qgdsUNS9oEDx3W9yyn3SpwsV9yYjj4n0xSTDpzlOshM"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "All of the Boss Monsters Are Tasty",
     "aired": "2023-02-28",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/4Ref7oi3d5"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/TFezQHvM"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/0so66h2832ou"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/qI9F0CyB#ezv-gYSvcIvH-I5zfdJ7er0BG-yTb1RaJHX091VrZik"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=T20wRXo2dEZieUNweHhEK0VGRVA4RFVka011cGhvdUdvSEZVY25QK28wTT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/xfRMgY3mDr"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/vEnFUvAZ"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/rwt1298lvnag"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/GM1iQTgL#rULTu4ICY4gx6_7PhWC1ubt8RiVrKyATdQXJ0XcuiVA"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=T20wRXo2dEZieUNweHhEK0VGRVA4RFVka011cGhvdUdvSEZVY25QK28wTT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/NQFYdfZvtg"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/xd3YVWPx"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ia7agw05dwdx"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/mMsERRbS#1CDU4mV6hW4O9jECZMxCm8RENDrOacuFrzgCUpjB3wg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Hunting Quests Are All About Meat and Money",
     "aired": "2023-03-07",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/UnITYMoRGh"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/vyol0whtecnt"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/npBM9yLD"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/j15RxIZD#jAAfMqTBVS_wfPFJaw-ypyeVx5Xz1SinIw8nGV97ZcM"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=QTEwZjhxTTkzYy9SN3hQeUdFdnNZVytnNmdhK3owZ08zRkE0UDhVaTZBST0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/tviM6RZSxm"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/7anahhswlows"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/YrzmbA9i"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/qkYnWJDS#L6G6znuA0CJGcXo4iGqT0n-BavDTx03ySHMD8qhFtw8"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=QTEwZjhxTTkzYy9SN3hQeUdFdnNZVytnNmdhK3owZ08zRkE0UDhVaTZBST0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/D3phY4vlpY"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/4x9uta3fd1ur"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/PwFAZLWo"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/mtolXS6C#Aln_PgK4D6j-zCNHdk1w7NTkztkFOnLDUKryopQhYVw"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "My Two Familiars Are Too Overpowered",
     "aired": "2023-03-14",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/wEhjSk3cJN"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/si5fpelbap0n"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/LhgA1Kqa#YvCQaQlfxNofKWIMfunC1-z7xuleahzlCBXV13UYZwU"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=QTEwZjhxTTkzYy9SN3hQeUdFdnNZWGNFYjEwUUN2SVRtNGlTL1hBSHcrVT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/MKhlvW1azh"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/n8dyhp4vqagu"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/u8QhnCSI#khg5mmXeY5OjHmj9MW66rhQkKyERyabSP50Y-DOVP8o"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=QTEwZjhxTTkzYy9SN3hQeUdFdnNZWGNFYjEwUUN2SVRtNGlTL1hBSHcrVT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/YT2fa57e82"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/m2cylviref1v"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/zoZQ2SqC#f2hD_wOOCwQCW6E5aSTzweXTiYX8lH4o-4Zgdu5wiSg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Doing Business for the Missus",
     "aired": "2023-03-21",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/Zjwqcb0fsU"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/kkfc4blae67s"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/XMkBTQYR#EFRRaOaYdWzwb6EdEXrOqdCgamefUpEWi_QOK_814dU"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=QTEwZjhxTTkzYy9SN3hQeUdFdnNZWGQrdjM4N1lxZU80YWJQTWdWUTl3ND0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/2pm5ZHb9c8"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/c5i6pwit99yr"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/TI0CiQrC#erMY90BgVdL6Byy1Rh31hitckJJ4-NMoVX-_vBcf60I"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=QTEwZjhxTTkzYy9SN3hQeUdFdnNZWGQrdjM4N1lxZU80YWJQTWdWUTl3ND0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/fbzs6fmrZc"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/wq5pqxfbxbr8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vQ1nUQ6D#PEH9GhjJ4_ygUBkYLcFJwy2w9jEQDa6f48RHA7vF6w0"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Adventures Are as Countless as Varieties of Food",
     "aired": "2023-03-28",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/zi6kEd8xL5"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/bi7o13d68xt4"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/2YEGzZaK#FOv4HaLfcqcZtPRS3xvSYdU5BBnllvlzZpViVhj7OM8"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=QTEwZjhxTTkzYy9SN3hQeUdFdnNZVDdVVGRmUWM5dGZ3S0VmeEdWb2c4ST0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/h6ZRdSBN3s"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/g54c9q0bnw6l"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ad0SVAIT#uIX__msfpOg-vcO6J2Yp2sPMTRxVjhHmWilTi5uxnTg"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=QTEwZjhxTTkzYy9SN3hQeUdFdnNZVDdVVGRmUWM5dGZ3S0VmeEdWb2c4ST0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/WZF8FuQFkA"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/gijlz72y1szv"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bVdRAQga#YzGzbFxoFOLK2oQrwPfcXj0G_LZkIDfX-yO5tqQcdpo"
+          }
+        ]
+      }
+    ]
   }
 ]
