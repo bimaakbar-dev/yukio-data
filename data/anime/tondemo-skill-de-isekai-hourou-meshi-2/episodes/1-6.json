@@ -3,36 +3,458 @@
     "number": 1,
     "title": "The Family Circumstances of the Unreliable Witch",
     "aired": "2023-01-10",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/rSasqsFcgT"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/h8cfo7bsij6o"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/1QYp6sVy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/RnA3gaJC#gvkpGDLOM4SoAj1SubgHH8-mWrBSoWRLOA-0HJur_mc"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=TTR1MVYzQnlUNlFUaFJTTGU3SXczWWlLYXhvWk9ZODFkZDNLdU40M3FwRT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/KiIcfByXmx"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/a63awb0nqu5k"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/Z9UxsHXK"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/1jJmgbRT#iriPEcQ3xPMKXa-DBzMKVZP4lp3t7hvJZukG-MPrgHQ"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=TTR1MVYzQnlUNlFUaFJTTGU3SXczWWlLYXhvWk9ZODFkZDNLdU40M3FwRT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/q8GRmRXc5e"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/pkt4sx01kv82"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/JNeimkMZ"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/1iwBjDoL#rDtuIjCiS5PcQWAOuJE4pxFeTOVwo-5jphZ8hIAc6ao"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "The Salient Familiar Is a Living Legend",
     "aired": "2023-01-17",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/ctaeSoOl2P"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/riqeg8inw7b5"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/sovhPnvx"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/r8AhgLIJ#oKyljaaNW8U_-tP7XVfUWC9kv_GTfpMQFNsvzHYZVUE"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=TTR1MVYzQnlUNlFUaFJTTGU3SXczVVhHeThhSWtlcCtRRkVMYmY2RS9QUT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/iad99zhxi9h6"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/6EuCpV4v"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/7kJ3HBIT#wnrij27CefJTcEn7hDHO5Xv4gx5Tu9i0ztvRmuYsSSg"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=TTR1MVYzQnlUNlFUaFJTTGU3SXczVVhHeThhSWtlcCtRRkVMYmY2RS9QUT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/Vla6bssU5j"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/au82yj540cy8"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/e1tApFTZ"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/G9QDCY7A#lGTw1Q4x1PFnHQ38Bj_kYuORNroGLbve1chWzJLp6uw"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "My Super Power Is All About Cooking",
     "aired": "2023-01-24",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/L0DVZbFhQm"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/t49s14g0zu16"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/8pGPRGzL"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/DEcixZ4J#0AIiN5weI-2__1BIkkLHM2U8AUwbJRx1numC4Qkq7Xs"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=TTR1MVYzQnlUNlFUaFJTTGU3SXczZFBJTHFzRmd3VUFQamR2cUNNR2diVT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/LTDpKqACCc"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ij6stkho9evj"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/xLv8DAhE"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bFsxxBiR#h0Tt5mKO1SAKU3BDtTDq7HyQvkS19gEefIZgLJjFPGY"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=TTR1MVYzQnlUNlFUaFJTTGU3SXczZFBJTHFzRmd3VUFQamR2cUNNR2diVT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/mmFWLKyg4s"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/vyalwbb1b8q1"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/ufQXRCNX"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/fVUzhAhZ#DcofOUqa7LaRfUOimJvXefDXMmM9bq81XOdv848Bcro"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Cannot Start the Journey Without a Map",
     "aired": "2023-01-31",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/CfFMsMO4dX"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/04obl3e8aqhj"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/xvBK8uM3"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Hl5wgLqB#0EAtJIW2Dx-Fowe-I4DMCdZBsDs1RtT-WhiKe3yYMcI"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=TTR1MVYzQnlUNlFUaFJTTGU3SXczVzlPVmVLR2NHdEdta3h2Mm41MnhSbz0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/Od4tdiWUx4"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/3ua2xlw4cw5u"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/Za5dxT2P"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/C4QCkTQS#9syF7EcxKxZOtUcQRRibIRg6OozwhjN295wMFT7L7BQ"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=TTR1MVYzQnlUNlFUaFJTTGU3SXczVzlPVmVLR2NHdEdta3h2Mm41MnhSbz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/uY0sBTaZwT"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/6x2hiw9q22b9"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/392tny9r"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/e84zkCZS#iqJIFJXymcTiuY9xC4GCJuwNsf1QidC7Bzue0CRMQFI"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "The Goddess of Wind Has a Sweet Tooth",
     "aired": "2023-02-07",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/RNHjFQtxVd"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/bp342s6nytrn"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/EayR1Z7q"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vNsFWYba#tsstsGS9b-RtSvaoAWGj2afUsTkEZ16--HN-N_bbU-g"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=T20wRXo2dEZieUNweHhEK0VGRVA4QkhTSXduaCs0cEZJZnp1aVFMajRtOD0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/CrNpfKXvuK"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/kretws53ip6o"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/AVHLYh9z"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/eUlhiYAZ#NgBGblXEoEIVr07n_CeyQpdPZPGulQ-1rVi6oaizGpM"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=T20wRXo2dEZieUNweHhEK0VGRVA4QkhTSXduaCs0cEZJZnp1aVFMajRtOD0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/6FsDCbfq7j"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/txtvac8eqhyz"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/PbbWSYnf"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ORtTTDjA#s8pXhSYxJSbCqVYo7wXlf6tHxmB7Kod14SmGb4jiOkY"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Growth Happens Out of Nowhere",
     "aired": "2023-02-14",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/cwnATwqaAl"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/uc1z5vmm39td"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/O0Yg0SzZ#CIAvuyCBLF08-eDaFJZqJiu_vzFeYhbcZFtIFCDxJkc"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=T20wRXo2dEZieUNweHhEK0VGRVA4QnhTaGFPbzVsZkZZODc0ZTdxRElxWT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/8Bq0OskbSq"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/vwuei7wntdoz"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/GhYQBZDK#sdFyyH7sO3lKQRoWhilLL2EObjlsJrvFl1irvBffD6w"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=T20wRXo2dEZieUNweHhEK0VGRVA4QnhTaGFPbzVsZkZZODc0ZTdxRElxWT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/cA5MJi5oau"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/mt4oxy4yh5hf"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/KogxhZbS#3cWs7o5GGUYiQZC5b5WTVjNejtJiCqMYOnjwnpA7i6k"
+          }
+        ]
+      }
+    ]
   }
 ]
