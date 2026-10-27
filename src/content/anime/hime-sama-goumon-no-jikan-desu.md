@@ -4,7 +4,7 @@ titleEnglish: "'Tis Time for \"Torture,\" Princess"
 titleNative: 姫様“拷問”の時間です
 
 malId: 55774
-kitsuId: "48667"
+kitsuId: "47656"
 
 type: TV
 status: finished
@@ -14,6 +14,7 @@ season: winter
 year: 2024
 episodes: 12
 duration: 24
+rating: PG-13
 
 aired:
   from: "2024-01-09"
@@ -21,6 +22,7 @@ aired:
 
 stats:
   score: 7.1
+  # scoredBy: # edit manual
 
 genres:
   - comedy
@@ -37,6 +39,8 @@ trailer: "0yQFJhl0zyk"
 draft: false
 ---
 
-As the war between the Imperial Army and Hellhorde rages on, the Princess, despite being armed with her mythical sword Excalibur, is captured and imprisoned. What kind of torture does she face at the hands of the chief demon interrogator? Fluffy fresh-baked toast! Hot, steaming ramen! Oh, the humanity! Can the Princess withstand these tormenting treats and keep her kingdom’s secrets safe?
+Di tengah peperangan sengit antara Tentara Kekaisaran dan pasukan Hellhorde, Sang Putri tertangkap dan dipenjara. Meskipun dia memiliki pedang legendaris Excalibur, dia tidak dapat meloloskan diri dari cengkeraman musuh.
 
-(Source: Crunchyroll)
+Sang Putri harus menghadapi penyiksaan yang tidak biasa dari tangan penyidik utama iblis. Dia dihadapkan pada godaan makanan yang lezat, seperti roti panggang yang baru saja keluar dari oven dan ramen yang masih panas. Apakah dia bisa menahan godaan ini dan menjaga rahasia kerajaannya tetap aman?
+
+Pertanyaan itu masih menggantung, karena Sang Putri harus menggunakan semua kekuatan dan ketabahannya untuk menghadapi penyiksaan yang tidak terduga ini. Apakah dia akan berhasil menjaga kerajaannya atau jatuh ke tangan musuh?
