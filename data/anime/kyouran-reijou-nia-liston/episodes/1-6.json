@@ -32,6 +32,15 @@
   {
     "number": 3,
     "title": "Episode 3",
+    "streams": {
+      "360p": [
+        "https://desustream.net/dstream/arcg/?id=QUVkRUh5ZjFXUVJsNUwwNTZJT1YxbHl2MTRDZmlSeW9PaGYyUC9xSTNNa1ZrQzViak05YTlMZS9ISDFtRWYrNnZId0NhT05tQlBqZm5GdDgzUVhBS2swTXY2S1l0b0JWM0dtREF0aVljRjQ9"
+      ]
+    }
+  },
+  {
+    "number": 4,
+    "title": "Episode 4",
     "streams": [
       {
         "quality": "360p",
@@ -43,10 +52,6 @@
         ]
       }
     ]
-  },
-  {
-    "number": 4,
-    "title": "Episode 4"
   },
   {
     "number": 5,
