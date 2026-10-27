@@ -8,14 +8,13 @@ kitsuId: "46676"
 
 type: TV
 status: finished
-rating: PG-13
 source: light_novel
 
 season: winter
 year: 2023
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2023-01-10"
@@ -40,6 +39,8 @@ trailer: "uLezuU0GL6Q"
 draft: false
 ---
 
-Mukouda Tsuyoshi, an ordinary salaryman, is suddenly transported to another world one day. The unique skill he gains upon arrival in this world is the seemingly useless "Online Grocery." Mukouda is discouraged at first, but the modern foods he's able to bring to his new world using this skill prove to have some unbelievable effects!
+Mukouda Tsuyoshi, seorang karyawan kantoran biasa, tiba-tiba dibawa ke dunia lain. Ia merasa kecewa karena skill unik yang ia dapatkan di dunia baru ini tampaknya tidak berguna, yaitu "Belanja Online". 
 
-(Source: Crunchyroll)
+Namun, ia kemudian menemukan bahwa makanan modern yang bisa ia bawa ke dunia baru menggunakan skill ini memiliki efek yang luar biasa. 
+
+Mukouda harus beradaptasi dengan kehidupan barunya di dunia lain dan menemukan cara untuk menggunakan skillnya dengan baik.
