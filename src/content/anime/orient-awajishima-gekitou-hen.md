@@ -8,13 +8,13 @@ kitsuId: "44205"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: summer
 year: 2022
 episodes: 12
 duration: 24
+rating: PG-13
 
 aired:
   from: "2022-07-12"
@@ -22,6 +22,7 @@ aired:
 
 stats:
   score: 6.9
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -39,10 +40,8 @@ trailer: "zaN0UDfGo_E"
 draft: false
 ---
 
-The ferocious battle of Awaji Island begins now!
+Di negeri Hinomoto, kekuatan oni telah mengambil alih kendali, meninggalkan manusia di bayang-bayang. Musashi dan Kanemaki Kojiro, dua pemuda pemberani, memutuskan untuk meninggalkan kampung halaman mereka dengan tekad untuk membentuk kelompok Bushi terkuat sepanjang masa. Mereka bertemu dengan Hattori Tsugumi dalam perjalanan, dan bersama-sama, mereka mendirikan Kanemaki Bushi.
 
- 
+Dalam perjalanan mereka, Musashi dan teman-temannya akhirnya tiba di Harima, di mana mereka bergabung dengan kelompok Uesugui Bushi yang dipimpin oleh Uesugi Tatsuomi. Mereka semua memiliki satu tujuan: mengalahkan Kishin raksasa yang mengancam untuk menghancurkan Pulau Awaji, yakni Yamata no Orochi, si Naga Meriam. Dengan bergabungnya beberapa Bushi muda lainnya, seperti Takeda Naotora dan Shimazu Akihiro, serta putri cantik Saruwatari Michiru, pertempuran sengit pun dimulai.
 
-With the appearance of the all-powerful Kishin, the land of Hinomoto is now dominated by oni, instead of humans. Musashi and Kanemaki Kojiro set out from their hometown swearing the form the strongest Bushi band of all time, and after encountering Hattori Tsugumi on their trip, the three of them found the Kanemaki Bushi. After obtaining the only weapons that can slay oni, Kitetsu Blades, they have taken the first big step towards their dream. In Harima, Musashi's group will encounter the massive band of Uesugui Bushi, and their leader Uesugi Tatsuomi. They have gathered to slay the giant Kishin that threatens to consume the Awaji island: Yamata no Orochi, the Artillery Wyrm. Joining them are Takeda Naotora and the Takeda Bushi, along with several Bushi the same age as Musashi like Shimazu Akihiro and Amako Katsumi. There's also the slightly sheltered, shy princess, Saruwatari Michiru. As different agendas swirl and interact, Musashi and his friends join the Kishin hunt. Yamata no Orochi is an unstoppable demon god that's never been scratched before. And so, the fiercest battle of all begins...
-
-(Source: Crunchyroll)
+Pertarungan melawan Yamata no Orochi, yang belum pernah terkalahkan sebelumnya, akan menjadi ujian terberat bagi Musashi dan kawan-kawan. Dengan kekuatan dan strategi yang mereka miliki, apakah mereka bisa mengalahkan musuh yang sangat kuat ini? Pertempuran yang paling sengit dan menegangkan telah dimulai, dan nasib Pulau Awaji bergantung pada hasilnya.
