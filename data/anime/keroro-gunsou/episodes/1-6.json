@@ -54,7 +54,18 @@
     "number": 4,
     "title": "Blood! Violence! Death! Kill!",
     "aired": "2004-04-24",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=aDlVUlJzY1NQMldoZlFyRS9IUWNGazYxaVFxYXRMcUQwdUVtUzh6ZGpZYz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
