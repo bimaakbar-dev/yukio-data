@@ -3,6 +3,17 @@
     "number": 13,
     "title": "Boss Fight ~The Final Light~",
     "aired": "2019-04-01",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/mobpsy-2-13"
+          }
+        ]
+      }
+    ]
   }
 ]
