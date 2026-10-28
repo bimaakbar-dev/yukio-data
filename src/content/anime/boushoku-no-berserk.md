@@ -14,7 +14,7 @@ season: fall
 year: 2023
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2023-10-02"
@@ -41,6 +41,8 @@ trailer: "iurSQgqT6Ug"
 draft: false
 ---
 
-Fate Graphite was born into a world where magical skills shape your destiny. His skill is Gluttony, a seemingly useless curse of unending hunger that has left him shunned and looked down upon. Until one day, after he takes the life of a thief, his true power awakens: he can devour the skill of anyone he kills to feed his appetite. Will he learn to control this gruesome ability for the better?
+Di dunia tempat kemampuan magis menentukan nasib, Fate Graphite lahir dengan kemampuan yang unik namun dianggap tidak berguna. Ia memiliki kemampuan Gluttony, sebuah kutukan yang membuatnya selalu merasa lapar tanpa henti. Karena itu, ia sering dihindari dan dipandang sebelah mata oleh orang lain.
 
-(Source: Crunchyroll)
+Namun, kehidupan Fate berubah secara drastis ketika ia membunuh seorang pencuri. Ia menemukan bahwa kemampuan Gluttony-nya sebenarnya memiliki kekuatan yang luar biasa. Ia dapat memakan kemampuan siapa saja yang ia bunuh untuk memuaskan rasa laparnya. Dengan kemampuan baru ini, Fate harus belajar untuk mengendalikannya dan menentukan apakah ia akan menggunakan kekuatan ini untuk kebaikan atau kejahatan.
+
+Dengan latar belakang yang gelap dan kemampuan yang menakutkan, perjalanan Fate sebagai pembunuh dengan kemampuan unik telah dimulai. Ia harus menghadapi tantangan dan konsekuensi dari tindakannya, serta menemukan tujuan hidupnya di dunia yang dipenuhi dengan kemampuan magis yang luar biasa.
