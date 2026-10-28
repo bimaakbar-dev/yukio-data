@@ -3,36 +3,300 @@
     "number": 1,
     "title": "Indomitable Resolve",
     "aired": "2025-04-04",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/8yquvmwj0ocy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/9YwQxbgB#yIvHeyfE7Q4akjFhwhTfLWc7R1Fsy1yRBgq2jcKgIuM"
+          },
+          {
+            "name": "otakuwatch4hd",
+            "url": "https://desustream.net/dstream/otakuwatch4/new/hd/index.php?id=OFhQVFJadnBhWTc4SFlpcDg2ZXlOaXp5U0FzZENiMjNhZngvNFJQMi94bz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=L1Q2VVhTRWJjR2RiNVB0QUdweGpqRUtQK0toL1JrU1lmNDZSdE5qOUtEWnNGMWNwNmorK3VsNytXa1BEZHVNRVh3V1VvU3loZVRSN1hGamgvbG9Xc1E9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/wd4xxqhy7cfj"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/cdYBWYbY#I7Vyp8dWrZSCh6ju61YWbPs0a0AmTd4vV9P9mlnHnr0"
+          },
+          {
+            "name": "otakuwatch4",
+            "url": "https://desustream.net/dstream/otakuwatch4/new/index.php?id=OFhQVFJadnBhWTc4SFlpcDg2ZXlOaXp5U0FzZENiMjNhZngvNFJQMi94bz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=L1Q2VVhTRWJjR2RiNVB0QUdweGpqRUtQK0toL1JrU1lmNDZSdE5qOUtEWnNGMWNwNmorK3VsNytXa1BEZHVNRWJJQ0I0b05FL2tFdWpYb29ENUFDNmc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Prisoner",
     "aired": "2025-04-11",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/bccfokuhz1hc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/wcIVHBpR#znfwhTg3-v5moqMPQC5ecUfWsy0JjpO05QIXSULm8oA"
+          },
+          {
+            "name": "otakuwatch4hd",
+            "url": "https://desustream.net/dstream/otakuwatch4/new/hd/index.php?id=dXFpU2tzV0JFOVZVcHVTRXJHVUNOQkV3U3FQbE0xOFE1MzdFOUNsK3FIYz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=L1Q2VVhTRWJjR2RiNVB0QUdweGpqRUtQK0toL1JrU1lmNDZSdE5qOUtEWnNGMWNwNmorK3VsNytXa1BEZHVNRVI1ZGJzSm9KMkFoQ0R6K0lWZ2djdnc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/fxou9ohnww46"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/oYJixSbJ#E21mFT0eQUkMG0znG5Wun8t3UnS4FqRACWN8eD5LLOA"
+          },
+          {
+            "name": "otakuwatch4",
+            "url": "https://desustream.net/dstream/otakuwatch4/new/index.php?id=dXFpU2tzV0JFOVZVcHVTRXJHVUNOQkV3U3FQbE0xOFE1MzdFOUNsK3FIYz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=L1Q2VVhTRWJjR2RiNVB0QUdweGpqRUtQK0toL1JrU1lmNDZSdE5qOUtEWnNGMWNwNmorK3VsNytXa1BEZHVNRWxGUEovRXkvK3pPckhhVHlZNFJNTnc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Incarnation of Flame",
     "aired": "2025-04-18",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/1rui39cfiebk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/xVAAXBpJ#g_FxRuy5AQjw_wxQmmlrQFt1H1W1g7kNhCZq0t_ie2M"
+          },
+          {
+            "name": "otakuwatch4hd",
+            "url": "https://desustream.net/dstream/otakuwatch4/new/hd/index.php?id=eUg5cFZYQmdyT3B0a1JhZ0xVaW9kQmN4MHovSjAreFR1MUhmTHNpTGhiTT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=L1Q2VVhTRWJjR2RiNVB0QUdweGpqRUtQK0toL1JrU1lmNDZSdE5qOUtEWnNGMWNwNmorK3VsNytXa1BEZHVNRTEzdHhoaDd0WlB1d25jOUNPYUhUU2c9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/l2jgqyb8sm2u"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/YRoWhAqK#M698qpJQhN9oML5RJgEHrkg0sioCSyZ9Ww8F-iImy5Y"
+          },
+          {
+            "name": "otakuwatch4",
+            "url": "https://desustream.net/dstream/otakuwatch4/new/index.php?id=eUg5cFZYQmdyT3B0a1JhZ0xVaW9kQmN4MHovSjAreFR1MUhmTHNpTGhiTT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=L1Q2VVhTRWJjR2RiNVB0QUdweGpqRUtQK0toL1JrU1lmNDZSdE5qOUtEWnNGMWNwNmorK3VsNytXa1BEZHVNRVZEQnpVMmNiQ1hvYkY1TXdWVVpFYnc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Golden Secret",
     "aired": "2025-04-25",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/bd66c4w09qzx"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/5dIxiBKL#uHpChrsbW7sPSlXCoOyeqMhF0s3xEqW2fxIJ9lasx5o"
+          },
+          {
+            "name": "otakuwatch4hd",
+            "url": "https://desustream.net/dstream/otakuwatch4/new/hd/index.php?id=NU93MW9WU1d1QkJTbFVma09wQUNQcUxIaTRCSnUvM2dEU00vK09mTFRsbz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=L1Q2VVhTRWJjR2RiNVB0QUdweGpqRUtQK0toL1JrU1lmNDZSdE5qOUtEWnNGMWNwNmorK3VsNytXa1BEZHVNRWhOdnRIR0lqS01KVm56L0FKV0RjeXc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/z9rh9f9fkla8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/RcRhmYAY#UzO3Lmmi1xq_RbEiBkkwoseaCvVrF_zYekyZjRoy2Yc"
+          },
+          {
+            "name": "otakuwatch4",
+            "url": "https://desustream.net/dstream/otakuwatch4/new/index.php?id=NU93MW9WU1d1QkJTbFVma09wQUNQcUxIaTRCSnUvM2dEU00vK09mTFRsbz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=L1Q2VVhTRWJjR2RiNVB0QUdweGpqRUtQK0toL1JrU1lmNDZSdE5qOUtEWnNGMWNwNmorK3VsNytXa1BEZHVNRUlFT1NKRE13WkdUUDBWOE83MGJwOGc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Chance Meeting with an Arch-Enemy",
     "aired": "2025-05-02",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/369l46h54lgl"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/8MxFRIhS#z8Y2cN71TC33FKnqj7w44VO5j9aWTTr29YlsfQq3vJ4"
+          },
+          {
+            "name": "otakuwatch4hd",
+            "url": "https://desustream.net/dstream/otakuwatch4/new/hd/index.php?id=KytoTHd3Y1hpS293U2ZWam9HdytjaU5iTytib3AyZVZIQ0VudjloblhJbz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=L1Q2VVhTRWJjR2RiNVB0QUdweGpqRUtQK0toL1JrU1lmNDZSdE5qOUtEWnNGMWNwNmorK3VsNytXa1BEZHVNRS9wcVI3cFpSMDMwL3dOOGVTb21CSHc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/0fp5llp9o23l"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/9ERwRABa#7bf38ToaYksa0Tgn9PWHkOEYQBDgT-aVsh6I6z0519Q"
+          },
+          {
+            "name": "otakuwatch4",
+            "url": "https://desustream.net/dstream/otakuwatch4/new/index.php?id=KytoTHd3Y1hpS293U2ZWam9HdytjaU5iTytib3AyZVZIQ0VudjloblhJbz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=L1Q2VVhTRWJjR2RiNVB0QUdweGpqRUtQK0toL1JrU1lmNDZSdE5qOUtEWnNGMWNwNmorK3VsNytXa1BEZHVNRUIvQXhmc09nTDRxWkZ4eXZsWmE2cmc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Beyond Prayer's End",
     "aired": "2025-05-09",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/q161uteemyeq"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/IIpEVBpY#WuFIAh04jvHZPArcXiSVoqm-or8Is0g_3pNIYJjdaTU"
+          },
+          {
+            "name": "otakuwatch4hd",
+            "url": "https://desustream.net/dstream/otakuwatch4/new/hd/index.php?id=YmpHb3ZuNllFNEFoYVZsMktOQ3NhUDlRdFNjOEN5Ui9FM3YyV3RMeHFNND0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=L1Q2VVhTRWJjR2RiNVB0QUdweGpqRUtQK0toL1JrU1lmNDZSdE5qOUtEWnNGMWNwNmorK3VsNytXa1BEZHVNRTBHcG5VWTdOcnpyN2l0S3o3V2pselE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/1p2tolnbdenh"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/IEgnASqK#k8bMfizG8eHGwB9LIkHgTwAXF2-THn60ZFUmnmWxX6Y"
+          },
+          {
+            "name": "otakuwatch4",
+            "url": "https://desustream.net/dstream/otakuwatch4/new/index.php?id=YmpHb3ZuNllFNEFoYVZsMktOQ3NhUDlRdFNjOEN5Ui9FM3YyV3RMeHFNND0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=L1Q2VVhTRWJjR2RiNVB0QUdweGpqRUtQK0toL1JrU1lmNDZSdE5qOUtEWnNGMWNwNmorK3VsNytXa1BEZHVNRSthTkdRVlB6aVVvSVljcTZQMVJvZVE9PQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
