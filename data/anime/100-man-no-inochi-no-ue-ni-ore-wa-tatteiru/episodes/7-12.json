@@ -2,31 +2,193 @@
   {
     "number": 7,
     "title": "Episode 7",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-q7p92qxzuwmf.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=145n71MuR8gX"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/40I1hCKK#365m1ixKGQwBP7Q0g3qmB8MzWoQ8Y7d5cFEdJoE7KaA"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=bFVSLzdZQVZidm9kZjh1MnBTUkdLVTVtV2F0R0tsc3hnNUltbWlvYTRGZz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=aGJIZ3V1aFZBSmVWQjBXVFdBWjNSY3ljRlZZcUc1ZFVYbkJNVXRFVGM1Wkc4YWtZT3diazF5WFVCT0lDdFh1Sg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Episode 8",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-u5cyk6l94gtg.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=h4lEw68SVXnG"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/BgYhnKYA#ZvYFX_kWCyldRGP3nURkqlJtFxO04rhXKuq5eBkn2EI"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=bFVSLzdZQVZidm9kZjh1MnBTUkdLZHAycktrRUl3WWVYZ2F6WWJCY0JpOD0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=YTJVZWptTXovaUpMVlgva2EvQzMwUWhMM0tHQnArUmdqWEp6bWRLWWtUWXB6MWNVenVwM1ZUUmVWd3Vnb1k5Zw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Episode 9",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-80psf87v18hk.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=3bYDReH51881"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/59RhgSia#Bt6KlkX87CIVqLBD7Dr8T3Hv01e4MBJruCh8iwafnok"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=bFVSLzdZQVZidm9kZjh1MnBTUkdLZnlERTFXUFIweWVZbUpiZEhaeHZvTT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=eU03ZnhEUk03YWVFUk4xVW4rV1I1cmhqRlZ2ZkNwNlJ2VVlQS3E5WjhmUVphUjJrRDhFZUpnNlFlNVY4aEtmSw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Episode 10",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-lmra0dinffdl.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=oar4QBDU5bUX"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Z9IRHALI#L3aJHgQW6W5CrgnVZ2fjDiiE4XF70Jl4zGIR6erOl3E"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=bFVSLzdZQVZidm9kZjh1MnBTUkdLZW8xc3U1ci83TTFReFVTRWIrVFRjdz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=WWoyVXNtbmM0K3FIUDlKQlNQMVZOTnhNeEhpaVRzNjJIWXduVWlCN0tpeFloUHRUMXNwTEVXS3NWZ0pmdkdIRg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Episode 11",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-nknqiafmcpg6.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=SgcUl2p1WJ54"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/l5RFzQpb#Me9gb6tHhQPSWcGHFDXWcK66VfkqDZFD4KjY7mLIVCo"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=bFVSLzdZQVZidm9kZjh1MnBTUkdLVENKbHF0V3A5UmNPVDQ0V08rMi9sST0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=aW9ybCtiWmQwdzFLOVlhRldENmlrQ3JhejFZMmZGSUJkbEp2Wi96d0M4UkcxUWZVQ2hoSXFLWEYrOUM3dDFONw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Episode 12",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-l1yeqcnv04a9.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=A28nkXVjpLck"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/c8RjRKzT#0WSBeREty3pZRQknPcS74-ZDvwE3-5GvGph9XdOKqrw"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=bFVSLzdZQVZidm9kZjh1MnBTUkdLYjlqQWVDRGp0SFMxZnZzeWtTQzB1az0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=S1V3TkhaK0M1WnJ0bHRiS0EydlNKZXRLZ0E4MDBGZ3AxZ0JPK210VTVveExlT3JiNkMwekM0UDMxaGhOTllsQQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
