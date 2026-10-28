@@ -40,8 +40,8 @@ trailer: "buUtE2MkOfY"
 draft: false
 ---
 
-Dragons reign terror over the earth, sea and sky. If sworn dragon hunters like Ragna are to have any hope of dealing death to these seemingly invincible, fire-breathing beasts, they must find a way to level the odds. Ragna teams up with a mysterious man named Crimson who has likewise sworn to stand against the dragons menacing the world. But although Crimson’s motivations may be mysterious, his goal and Ragna’s perfectly align, and together they’ll fight to vanquish the dragons once and for all.
+Di dunia yang dilanda teror naga, seorang pemburu naga bernama Ragna berjuang untuk menghadapi musuh yang hampir tak terkalahkan. Naga-naga ini telah menguasai darat, laut, dan langit, menyebabkan kehidupan manusia menjadi sangat berbahaya.
 
-(Source: Sentai Filmworks)
+Ragna kemudian bergabung dengan seorang pria misterius bernama Crimson, yang juga memiliki tujuan untuk melawan naga-naga yang mengancam dunia. Meskipun motifasi Crimson tidak jelas, tujuannya sama dengan Ragna, yaitu mengalahkan naga-naga tersebut.
 
-Note: The first episode aired with a runtime of ~47 minutes.
+Bersama, Ragna dan Crimson akan berjuang untuk mengubah nasib dunia dan mengalahkan naga-naga yang telah lama menjadi ancaman bagi umat manusia. Dengan kekuatan dan kemampuan mereka, mereka akan berusaha untuk mencapai tujuan mereka dan membawa kedamaian kembali ke dunia.
