@@ -41,7 +41,22 @@
   },
   {
     "number": 4,
-    "title": "Episode 4"
+    "title": "Episode 4",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dy7tbl0oTkzotfssUySqUok2c5gQaLUAJO_AzPuFjfLb_rVCeys__cK_Gm_Q0SJJHvEJCk2rJQL0CJzXi3mUd7TB-9_BvF77HzqLiopHPBgK87W2sKuAU0aKe2fYjbUIMV9WvM"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://play.xtwap.top/btube3.php?url=b2fZnuGTU1I4%2BzaXgP%2FNztVUC0sp6g%3D%3D"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
