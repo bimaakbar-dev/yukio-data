@@ -4,7 +4,7 @@ titleEnglish: Chained Soldier Season 2
 titleNative: 魔都精兵のスレイブ2
 
 malId: 58505
-kitsuId: "48639"
+kitsuId: "45512"
 
 type: TV
 status: finished
@@ -14,7 +14,7 @@ season: winter
 year: 2026
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: R+
 
 aired:
   from: "2026-01-08"
