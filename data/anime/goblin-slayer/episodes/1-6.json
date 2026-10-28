@@ -3,36 +3,221 @@
     "number": 1,
     "title": "The Fate of Particular Adventurers",
     "aired": "2018-10-07",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/GK3MWeRZ5Nm3G"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=alR1cHpCR2VPSURyd09WaVlSM1JDWkVxM3A5NWFlTWZjVFpuc3dXOUJIND0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/PrBQezmdqGeAa"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Goblin Slayer",
     "aired": "2018-10-14",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/mdmvXpBxvwQm4"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/GKmRGqg7DG2Pr"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=alR1cHpCR2VPSURyd09WaVlSM1JDUVpDbmF5T1o2SnhhNTNoYW96VjJVVT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/eRGD878Yq67jW"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Unexpected Visitors",
     "aired": "2018-10-21",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/e84WzxgzVBAK2"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=alR1cHpCR2VPSURyd09WaVlSM1JDY3EyckJvVW52ZTJ2Q1hwWGgvMmRMMD0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/vDKNQ46dwnjZr"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "The Strong",
     "aired": "2018-10-28",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Wq6Wqe4mrKnGY"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8B68jk2XzkWM"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=alR1cHpCR2VPSURyd09WaVlSM1JDZHFYZVZFUDFmRUIvZnBaU0JSV3p6WT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/d8ea87L3P3AWk"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Adventures and Daily Life",
     "aired": "2018-11-04",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/6a5ZDzzvKADrB"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/vD8AkNdxeaPR3"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=alR1cHpCR2VPSURyd09WaVlSM1JDUzhrY041ajZpd1p3QjdxN1kxY25Yaz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/pWVA4dAyvn7vm"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Goblin Slayer in the Water Town",
     "aired": "2018-11-11",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/d8mmP8B2Lpgnp"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/jXeekjDxYdx62"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=alR1cHpCR2VPSURyd09WaVlSM1JDVDVvbGRzNnphczB5TU9lSEJsREt3MD0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/4aAA52NQypDLW"
+          }
+        ]
+      }
+    ]
   }
 ]
