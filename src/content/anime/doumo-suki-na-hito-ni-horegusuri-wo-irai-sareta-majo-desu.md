@@ -37,7 +37,7 @@ trailer: "hGRtocAh3iw"
 
 draft: false
 addedAt: "2026-10-12"
-updatedAt: "2026-10-21"
+updatedAt: "2026-10-28"
 ---
 
 Di sebuah danau yang indah, hiduplah seorang penyihir baik yang dikenal sebagai Penyihir Danau. Ia memiliki rahasia yang tidak diketahui banyak orang, yaitu perasaan cinta yang tersembunyi pada seorang pria tampan bernama Sir Harij. Penyihir ini memiliki keahlian khusus dalam membuat ramuan cinta, namun ironisnya, ia sendiri tidak bisa mengungkapkan perasaannya.
