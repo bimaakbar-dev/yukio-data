@@ -14,7 +14,7 @@ season: fall
 year: 2024
 episodes: 25
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2024-10-13"
@@ -41,6 +41,8 @@ trailer: "OIi6fBHx72U"
 draft: false
 ---
 
-Rakuro Hizutome only cares about one thing: beating crappy VR games. He devotes his entire life to these buggy games and could clear them all in his sleep. One day, he decides to challenge himself and play a popular god-tier game called Shangri-La Frontier. But he quickly learns just how difficult it is. Will his expert skills be enough to uncover its hidden secrets?
+Rakuro Hizutome adalah seorang pemain game VR yang sangat berpengalaman, terutama dalam mengalahkan game-game yang bermasalah. Ia memiliki kemampuan luar biasa untuk menyelesaikan game-game tersebut dengan mudah, bahkan bisa melakukannya dengan mata tertutup. Namun, suatu hari ia memutuskan untuk mengambil tantangan baru dengan memainkan game populer bernama Shangri-La Frontier yang terkenal sangat sulit.
 
-(Source: Crunchyroll)
+Saat memulai petualangan di Shangri-La Frontier, Rakuro segera menyadari bahwa game ini jauh lebih menantang daripada yang ia bayangkan. Ia harus menggunakan seluruh kemampuan dan pengalamannya untuk maju dalam game ini. Pertanyaannya, apakah keahlian Rakuro cukup untuk membantunya mengungkap rahasia-rahasia tersembunyi di dalam game ini?
+
+Dengan latar belakang sebagai seorang pemain game VR yang handal, Rakuro siap menghadapi tantangan baru di Shangri-La Frontier. Ia akan menguji batas kemampuan dan strateginya untuk mencapai tujuan. Apakah ia akan berhasil, ataukah game ini terlalu sulit untuk dikalahkan?
