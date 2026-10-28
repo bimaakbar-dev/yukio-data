@@ -14,7 +14,7 @@ season: summer
 year: 2023
 episodes: 13
 duration: 24
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2023-07-08"
@@ -39,10 +39,8 @@ trailer: "53_QT4NSB48"
 draft: false
 ---
 
-After a brutal surprise attack by the forces of Quincy King Yhwach, the resident Reapers of the Soul Society lick their wounds and mourn their losses. Many of the surviving Soul Reaper captains train to battle without their Bankai, the ultimate technique wielded by the fiercest warriors.
+Ichigo Kurosaki masih berjuang untuk melawan kekuatan Quincy King Yhwach yang sangat kuat. Setelah serangan brutal dari Yhwach, Soul Society yang dipimpin oleh para Reapers masih berduka dan mengobati luka-luka mereka. Banyak kapten Soul Reaper yang selamat berlatih untuk bertarung tanpa menggunakan Bankai, teknik ultimate yang dimiliki oleh prajurit terkuat.
 
-In the previous assault, Ichigo Kurosaki narrowly managed to help fend off Yhwach's fearsome wrath. However, to ultimately defeat his godly adversary and save his allies, Ichigo must now undergo severe training that will push him beyond his physical, emotional, and mental limits.
+Ichigo sendiri harus menjalani latihan yang sangat berat untuk meningkatkan kekuatannya dan mengalahkan Yhwach. Ia harus mendorong dirinya sampai batas fisik, emosi, dan mental untuk bisa menghadapi lawan yang sangat kuat. Sementara itu, Yhwach terus melancarkan serangan kepada Soul Society yang masih lemah, dengan tujuan untuk menghancurkan musuh-musuhnya sekali dan untuk semua.
 
-Though Yhwach already holds the upper hand in this ongoing blood feud, he also successfully recruits Uryuu Ishida, Ichigo's close friend and rival, to be his successor. Yhwach strikes out once again at the weakened Soul Society, intent on finally obliterating his long-standing enemies. As Ichigo struggles to attain new power, the Soul Reaper captains fight for survival and borrowed time.
-
-(Source: MAL Rewrite)
+Dalam pertarungan ini, para kapten Soul Reaper berjuang untuk bertahan hidup dan membeli waktu, sementara Ichigo berusaha untuk mencapai kekuatan baru yang dibutuhkan untuk menghadapi Yhwach. Pertarungan sengit antara Ichigo dan Yhwach semakin memanas, dan hasilnya masih belum tentu.
