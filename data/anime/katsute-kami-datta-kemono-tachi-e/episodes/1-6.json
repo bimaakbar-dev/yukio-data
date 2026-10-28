@@ -3,36 +3,354 @@
     "number": 1,
     "title": "To the Abandoned Sacred Beasts",
     "aired": "2019-07-01",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=kDk150QK2rFf"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!CwUyxaBD!Rjd7K9aG25gOXAmQ28kj5iHrjNbSRE6fgIB0fSDbRQU"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=cFBiVGwvUlFIS21DdjhERGthVVZ0VExSZzZPY2FJNEVhcWpRU3dvR1lqU1Fyb1pTekV0cEYrOUgxb3F5cm9jZQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!CtV2FAwD!Ut3fHTbp2Tcd3TUlPAS73uqCwi7jYLZwAECTW3syxnA"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ek1hTndmTmRZZ0hhVGs4M2VXUzdiZUNNajdPZ0hvb3AyQ0lhOVIrNDk4RT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=VUxRV0pwNXlVdWc4VGgxWk9zaFdxbklIeEJJT05NTmtMUVp3dE1vNmNQOG15TllGVmF2WnRWQkR6anJHYWdRTA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-546twjfrxnin.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!78MChSCR!sESOeDwSlRlEy4eFUgMG3mCLavfANBMSWSxIm-ubywg"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Nmd0cDlkTU1PUWk1amdvRVZFODVPOSt6MFRiYlVSMXRKRFhMWnJZVGREWnB0ZjlRWVRDVWF5MEpSallsV3hScg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "The Dragon's Daughter",
     "aired": "2019-07-08",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=8812Vu7DI6Dd"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ysUkRawT!M7iBJ61t9MlqxWX8rmXb35Cj7hJROgXpM6Q2X38b868"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TVFOaHNNMjhQeTI4cCtSM3RnTWdBMGJpcURqZWxMNEp6c1dYSFQ2K1hiN3llN25sbzhNOCtpOXFjOXhYamdEZg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!T1EQyIoD!atBz5c64oSdGz4RLbW4-bHc3h1-9eFTBH3n_We22_go"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ek1hTndmTmRZZ0hhVGs4M2VXUzdiYW9sdXlEMVBPVTB6eHVmK2ZXL2x2VT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bXBWVElkdmxPcmkzNTZTanpTSndkUjdnSU1CSVNJRWtHbVh1d1VJdDl3dTFWYWJQSzFLM0dRL2NkWVZWamx0Kw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-9ezfgygkhb4n.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!f9FiwQiQ!tl00WiulhiLoDar1HU7W_S_jPyQiy-HgkzPC45pEjy8"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=QmpZS3NVWm9yNFBSRkxmeTV1WE5JMVRoaG04bkVaUDcrMFNSN1Z0MVFKbXJVbmRxU2NWU203ZEs3cytBQnlvdA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "The Minotaur's Fortress",
     "aired": "2019-07-15",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=0ps88eB606pl"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!mgUgiIaC!5BTBX2D7zwWGQ2_K6fdY5aZ69phj6Af0QLY2ZsGtGFw"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dkpEanhDdkJ4RWpibm1zMXd0T3Uzc1J1Yy91QnkxN0xEM2JKM1JFcHVqeDVxRmc0QURBWDFreTZtWTFJUzZORQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!b8FSzYSZ!DGcfLBjcLrP-nGgCnwfHwaLmc0QuuviSXoAtxWxDCyk"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ek1hTndmTmRZZ0hhVGs4M2VXUzdiWEJnaFFBd3hFOEM5WUVsc1F2QkhLbz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=eFJRcEkzSXdqK051cjQ1c1FORnZGUng3VEdVd0JzUkRHNC9IRVBONms2K2laT2FyNjZ4M1hEclpUZVBrMVR0Zg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-mhqc6t5mfbwg.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!e1MSRASZ!MBB-PYX0B4RMuMRydO4cv57M-vXMqmtNOvymmXgziPs"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=M2V4cjBFblkzby9WT1Q1V2hNb2I0dStFeXcrSTJxaFFEYm9pSi9obFVIOEpJZmFPUE1CTkhCMkdmTnN5VXpWWQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "March of the Behemoth",
     "aired": "2019-07-22",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=Ck0d5XFlYgq6"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ToEQkKwA!HtTmmyX493HsTtcHqJ_tx0e9El7Z3eeWwQEOw7FHXoI"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=ZU05alFPYVZwYTNVRHhqMXBCUERYdDlsMGVzWmtrME5NNDFZTFAwSXZaQnoyR2xBdUFDSklDL3RJUHEweDltZQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!2xV0nSzJ!t0yYQM8FzSRsBhQe_JiYTHlJgN9eu1L024fxqm9gloE"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ek1hTndmTmRZZ0hhVGs4M2VXUzdiZmcxK3JPNEdIMzZUQU01MzhLZlV2az0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dHF3aDBRdUZGV2RmN0taM0U3TVlIZGdLeUxzd2pWdnM0UStCakkrQ2lwZkJ4TWpQSDhoT0FWVDR0U2dPbUhKUA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-a6mcmh73w0s2.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!bwdWXIBT!_-PW6eCvhDYCsm5wL-KzUU6tHHPODVFDpxAyLQx-cEA"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=akNrYmYzSCtyTU80elBncGIrSEI0aHBnTU0rME1HV0taSnlWalk2aXhDeHVRVW1xV1dlcVZ1Q3Frbk0ydUZ4WQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Gargoyle's Judgment",
     "aired": "2019-07-29",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=4CvIe3B1IM52"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!D5VESCTY!hXFILm4P-rqq3Vb-a_HyRP82lHxOgWO6KQeCz2nSV-s"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=WVRrUjBQZHZuRXNiV2IxUUlNS0hTSVNnZUExaFk2NTkwTnhRQVlkVUdFSHhnSzNlRjBFSXV5TXlKZ2N4ZW5CcQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!j9cUiIiD!oVNiW-XdgjRP7yINndkdkkmSPhNQwgqof463UuSoSbc"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ek1hTndmTmRZZ0hhVGs4M2VXUzdiUjBIZlZ2L1JEOWNlSDUxY3ZXVUxqST0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=T2NWSVNZM0lETERUNThTNmV1VTgrWWZoNmdiRXB6dWxYM3BMM3NBTUVVWGJzR3BwUDJWTVVxczZJOHJYSnZuNg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-stg8mn347uis.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!fsEU2YjT!5Bn17vsZUwPzN1nGM0eaEgZoa-8KrV4rJZ8sjXS-wMc"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bWowMUZEQk81NGR3cGpIalhlR0tkZUtwcThqR2c1MzVRRVM2U1pGMjlkQUZuaFRxd2RURWlzeHFONGMzVmJucg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "The King of the Beasts",
     "aired": "2019-08-05",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=KD14OkokqxHX"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!z4ckzaqb!ruWDZSAnPgEZCRoaKCyeGJSUnS-chckmzNLa5Iav2zY"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=YXFQQlpWK3d0VjFucEtrY3RLZXlKbkJDc0JNR3VDa1BBMk1TK1ZIL0sxV25PalB4bTNia0F6ZG5UTUxURTNlbA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!71dkSKBD!dCi1mAQdEbSwzbQSYoF8oSBE1rmmd1-Xd0SeSaLtjEE"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ek1hTndmTmRZZ0hhVGs4M2VXUzdiWHdZcjFTcE9lNWNoRHdHZWw1bnJDZz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=RkVCSWdMMGJkdWpDWDF0WVpHWUo1WUNkdDRCME13Rno2ZTJDTnU3Q1JFbS9KVUJ5UDhLQmZybnFYVUJVdC96Yg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-h4sb5x9irqd4.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!W4NA1KCT!-0USxpkdhx5vmzBmxkfuGfmSE7YzjjK01WMDoggXaNE"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=S1RQNjA4bUlna2JqaDZRa1ZkS2dVT0dlRzVNT1d5U0ZkaThhQUcydmpPVUR2b3hxbWdkVnh2cDhYa3ZhZkdvRQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
