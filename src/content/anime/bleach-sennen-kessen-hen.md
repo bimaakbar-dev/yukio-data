@@ -39,8 +39,8 @@ trailer: "fzR82oXbjnY"
 draft: false
 ---
 
-Ichigo Kurosaki, seorang pemuda yang memiliki kekuatan Soul Reaper, kembali terjun ke medan pertempuran untuk membantu mereka yang membutuhkan. Di kota kelahirannya, Karakura, muncul Soul Reaper baru dan musuh yang mengancam kehidupan warga. Sementara itu, di Soul Society, terjadi peningkatan jumlah Hollow yang dihancurkan di dunia nyata, serta laporan tentang warga Rukon District yang menghilang.
+Ichigo Kurosaki, seorang pemuda yang mendapatkan kekuatan Soul Reaper secara kebetulan, kembali harus menghadapi tantangan baru. Sebagai Substitute Soul Reaper, dia telah terlibat dalam berbagai konflik di Soul Society, tempat berkumpulnya arwah yang telah meninggal. Dengan bantuan dari teman-temannya, Ichigo berhasil mengatasi setiap rintangan dan menjadi semakin kuat.
 
-Saat Ichigo menghadapi tantangan baru, Soul Society juga mendapat ancaman dari kelompok Wandenreich yang dipimpin oleh Yhwach, ayah dari semua Quincy. Mereka menyatakan perang melawan Soul Reaper dengan ancaman bahwa Soul Society akan dihancurkan dalam waktu lima hari. Ini menandai awal dari pertempuran terakhir Ichigo Kurosaki.
+Saat ini, Ichigo harus menghadapi ancaman baru di kota asalnya, Karakura. Sebuah kelompok misterius bernama Wandenreich, yang dipimpin oleh Yhwach, ayah dari semua Quincy, telah menyatakan perang terhadap Soul Reaper. Mereka mengumumkan bahwa Soul Society akan dihancurkan dalam waktu lima hari. Ini merupakan awal dari pertempuran terakhir Ichigo, yang akan membuka tabir rahasia yang telah disembunyikan oleh Soul Reaper selama seribu tahun.
 
-Sejarah dan kebenaran yang selama ini tersembunyi oleh Soul Reaper selama seribu tahun akan terkuak. Ichigo harus menghadapi tantangan terbesar dalam hidupnya, dan semua harus berakhir. Pertempuran terakhir Ichigo Kurosaki telah dimulai, dan nasib Soul Society bergantung pada kekuatan dan kemampuan Ichigo serta teman-temannya.
+Pertempuran epik ini akan menentukan nasib Soul Society dan dunia manusia. Ichigo harus menggunakan semua kekuatan dan kemampuannya untuk melindungi teman-teman dan orang-orang yang dicintainya. Apakah Ichigo dapat mengatasi tantangan ini dan menyelamatkan Soul Society? Pertempuran terakhir telah dimulai, dan semua harus berakhir.
