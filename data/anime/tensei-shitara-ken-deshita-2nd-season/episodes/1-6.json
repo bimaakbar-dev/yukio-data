@@ -1,0 +1,63 @@
+[
+  {
+    "number": 1,
+    "title": "Episode 1",
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/6u6ud2tleptg",
+        "https://mega.nz/embed/inQ1jDJY#oIkMJ6PTzB9Oj-A76YMrZ7zx9OB2KOsMCHeYirGcmmA",
+        "https://desustream.net/dstream/arcg/?id=c2xCNmF5Tmt6a28wdVRFZG9aUFdJRHZHOTVBR0NrQko3RlhLQ1dkL0xVbUpqYm9nZDJUcjlLZGJlTkwwTk83UA=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/1pyoppm2h1sg",
+        "https://mega.nz/embed/X2pgyY4Z#Wmq9CzDjvb8qJbmHsgiLh_IAfepzLrzOUOBTYzUeN1w",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0am9NM3pXMlc1MHgyWGdOM0ZvLzVqbzY2L2dYTDNvcHZVT09YWkZGUGZjMg=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/slb0rrwrfbtu",
+        "https://mega.nz/embed/KvB3UbgY#j03oobnSftBnxGDXU7owiWJ6_9k4klh46TzUEdgkBCE"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2",
+    "streams": {
+      "360p": [
+        "https://odvidhide.com/embed/wf9d8cvr4i3q"
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Episode 3",
+    "streams": {
+      "360p": [
+        "https://odvidhide.com/embed/pa178vhzfxw9"
+      ]
+    }
+  },
+  {
+    "number": 4,
+    "title": "Episode 4",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://odvidhide.com/embed/400bskw5cyfp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Episode 5"
+  },
+  {
+    "number": 6,
+    "title": "Episode 6"
+  }
+]
