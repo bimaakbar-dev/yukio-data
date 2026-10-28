@@ -3,36 +3,398 @@
     "number": 1,
     "title": "Unaware",
     "aired": "2026-01-31",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/BNN03j4DGx"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/wsbliksj9dyp"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/rR8BQLqQ#HvLzgWo0wO1k_51CS7oMI1wG7xsT3gioXTY8SdfyGIY"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=UU9zakJwZVBPYUkva2htdUdHRVJDa2N6R3NRd05EbTNlNWVJSE0zeGFnWT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/0pem1IcSAO"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/rzou7vjb4l6l"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/CZ8CUBpB#xXbA44qXta2IfhA2Bsc2e9t2ZkzQnL86O-yKtowyIXk"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=UU9zakJwZVBPYUkva2htdUdHRVJDa2N6R3NRd05EbTNlNWVJSE0zeGFnWT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/ani54ufXhI"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/xpujrjmxsq0n"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/qM820RqL#8_K7XVyEVbPSQ2BleAAzdCPwRFQdsPPUly6CaqqCTTE"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "With the Sun at His Back",
     "aired": "2026-01-16",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/hBjESCOufm"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/w8olwruu1abt"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vwQg1SiL#2TfQ1x1QN8k6VoQRNoIFT80O4amh1uItylYUgwcCyu4"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/c2Tfcc478P"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/jsk2q8hxycyj"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ekwg3TQR#FJOdee1m1p_VqMtJeewd0l3b1qlltDZtiSPb-UzPqDg"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=UU9zakJwZVBPYUkva2htdUdHRVJDaU53Y2NDa3dsYWFpZ2l0K0RUcEhFdz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/85gsqepJHy"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/yqaflgod5wsd"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/zhJiWSKb#jjW0h2YEbwM_med0mZS4ljItYVLKN8EYLaIQANi2fJc"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Birth",
     "aired": "2026-01-23",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/IQjlKuZWSO"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/xoyvketsfthe"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ypxjiDoL#GaQsN97gFp-JNuHLRizlYX6H4Da8eutVOf3OQVrc_OY"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=UU9zakJwZVBPYUkva2htdUdHRVJDbGtUU2Rwcjc2enBRTTVIQVBGVlk4cz0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/7bDp8zCMwm"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/mjtstwolgqoy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/SkojiJjT#0GtAa10al8oBqfBpDGS2gvyHuAjtts39EpgNNA1ZD0U"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=UU9zakJwZVBPYUkva2htdUdHRVJDbGtUU2Rwcjc2enBRTTVIQVBGVlk4cz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/mYho0Iswiv"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/8xq320jabk8j"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vhgCjAxY#RZrSyyvUwSAyJdD_QfJfMe-HrzMv-j6c4MDjWYuf8Kk"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Savior",
     "aired": "2026-01-30",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/j3ucm6I09L"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/w2jq0f9nagvy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/yt5WxY7L#--VszuuI-pEfPT3ReUsNmxXwvvTNbHv1FAVi6a0peEo"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=UU9zakJwZVBPYUkva2htdUdHRVJDa0NDVHRsTWJxRnYwcXNEQXRONVMrcz0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/kkZ1oBnQaU"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/xgokcp68gf3g"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vxIyQZDZ#1mferFuIswXZ_G8uvhCgzhBntXzjufRsk45obMoztEI"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=UU9zakJwZVBPYUkva2htdUdHRVJDZ0NRd281NFpOK3YxZit3UjMzcW9kOD0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/UOU04i5Tmw"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/unu9qn4tfhti"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/uoZVTDDD#ssVGuyiJLKUlUfFF7BVPWFu3xYtr2p0gyLXk4ecduD4"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "At the Center of the World",
     "aired": "2026-02-06",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/PzZPwiQyzD"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/88vbdgm99k5y"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/r9BAQZyB#37fhr5bynz8RDG_sY9YyBwl5R3ODCt8GLZgHlySp5NE"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=RUhBSHU5bUZDcUJ2OU0rOXozKzFzNlVhdUFxOXZmUjhSM1N1VXdMbnFSST0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/SLF0gUJ1w2"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/09usnd8bl0en"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/qsZ2mI4a#OJopAR1oa0zm3qv_U3Z-IsK-SVNjv3c3jm5uUtx4HQA"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=RUhBSHU5bUZDcUJ2OU0rOXozKzFzNlVhdUFxOXZmUjhSM1N1VXdMbnFSST0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/EGxLRnCvVN"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ilep0g2iojxy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/OshHmC6D#i9I9iPykxbYVzYEVHxg-jYKpe7xtGPHBDEIoCHRHh2o"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Incantation of Destruction",
     "aired": "2026-02-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/GIEBfM5NDt"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/q3d457xkdaed"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/s7pFnILY#0I7L5j7MdkhCipumraFWIY3nxkOW5DQR64qI83o7VoE"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=RUhBSHU5bUZDcUJ2OU0rOXozKzFzMzMzOWJkYU15YkdZVDZLZldkR2NNdz0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/y2AJGdaoVc"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/95k3yy1tzo2k"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/By4ShRgK#1DCKj6KD4t5E2Ql1skHTAUiWKCNsPyahfYrZ_fbPSDc"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=RUhBSHU5bUZDcUJ2OU0rOXozKzFzMzMzOWJkYU15YkdZVDZLZldkR2NNdz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/nbL91VjXkF"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/w9dhe63jycwy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/gnxhkBrJ#_UgsVRIhLt6ehNWBwDtq33uiGpX3iRqznDmLOS-wZVY"
+          }
+        ]
+      }
+    ]
   }
 ]
