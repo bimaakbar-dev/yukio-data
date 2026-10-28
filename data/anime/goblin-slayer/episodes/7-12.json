@@ -3,36 +3,234 @@
     "number": 7,
     "title": "Onward Unto Death",
     "aired": "2018-11-18",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/GGDZ54QrVmpgR"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/PAMgR8QrXvqnK"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=alR1cHpCR2VPSURyd09WaVlSM1JDWnVxTERIYXUwMGdWSjZmU0dSbU5kUT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/7p2BKRz3G2Z5Y"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Whispers and Prayers and Chants",
     "aired": "2018-11-25",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/PArnQMN5x7GnN"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/AnwqvzXgXrdpX"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=alR1cHpCR2VPSURyd09WaVlSM1JDUlNBMGVMYkpyZW1BMVduV0ZYOXBmND0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/5a2P6wVnPyZq7"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "There and Back Again",
     "aired": "2018-12-02",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/r6G4AqVRgmZx2"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/gnRB3GmdwG6WQ"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=alR1cHpCR2VPSURyd09WaVlSM1JDUjYvbHRyZFB4S2xRN21QZEljazZqZz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/vDpg6dg38ngdN"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Dozing",
     "aired": "2018-12-09",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/AnnmDnj76jg78"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/DD34pMABxN3R"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=alR1cHpCR2VPSURyd09WaVlSM1JDYXlLdVN2eTRraDYzMUdkVGg4L3grUT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8ppm4G6LV3Pgz"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "A Gathering of Adventurers",
     "aired": "2018-12-23",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8p8xB7XpNQ4NA"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Y8qmyWxDvYZ3w"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=alR1cHpCR2VPSURyd09WaVlSM1JDVkcxM2h3UDZYR0MyZUVrWVo5YzdmRT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/PA4RwLeDkYB47"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "The Fate of an Adventurer",
     "aired": "2018-12-30",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/VBKp2AawBdYkQ"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/ByVPaeY7mQ5Ay"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=alR1cHpCR2VPSURyd09WaVlSM1JDYko1WUxnWTJLVmR6M3gwNkI1eDZjTT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/VBKp2rDrGnVXm"
+          }
+        ]
+      }
+    ]
   }
 ]
