@@ -3,6 +3,42 @@
     "number": 13,
     "title": "BLACK",
     "aired": "2023-09-30",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/qesxj6ud3ic6"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/mY52xJDa#fHoagErlEVoLsHR2x0HxngRv8VCtArMhvXKi400wl3s"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=MkR2Nkl1cytNbnRCTnhFSEVIdWtCbU1hV0I0dXRTVng0bWlVMUo5eFc5eUI3LzhhWldxeDlpUEF0THpEcW41NW85NE1iSGJnYUpQWkdXckE3bFJqTXc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/532253955ry2"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bJpS1TJC#BUHoGmPePM5ZpNVltZaODYdwO4uyv6LaVktbNDHY0zM"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MkR2Nkl1cytNbnRCTnhFSEVIdWtCbU1hV0I0dXRTVng0bWlVMUo5eFc5eUI3LzhhWldxeDlpUEF0THpEcW41NTROUUFEeFFBd2lzVWN0bU5ZVDdWT2c9PQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
