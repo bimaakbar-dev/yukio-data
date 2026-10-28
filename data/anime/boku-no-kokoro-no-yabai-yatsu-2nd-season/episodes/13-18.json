@@ -2,6 +2,50 @@
   {
     "number": 13,
     "title": "Episode 13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/hswyqflob6tx"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Kv5kjKhS#H7mtJmDoR6XVxl78OHjBATq2LmsMiwKDA_-FHB9eXck"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=NzNxMjYwU2tBVWQ1MkxOeFlRWjFNSWVSalVLUWFianA2bjdybmlkT25hWT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=NHVyWHNFSzJiS04yVjFERm1lUXA5ZWtCVmg3V2pWSEJQQ24zNCs3enRnb3kwQlN1UEh6Nmpsb0twMzU4RGRBWGhuM0JvamZSaWZvclQraGFJelpvS3c9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/wmxq6ogmrok0"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6jB11KLJ#XFXJ1RlXwHF_yNTWSh3y0nXH-6qNl29s-yRgyzy-HWw"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=NzNxMjYwU2tBVWQ1MkxOeFlRWjFNSWVSalVLUWFianA2bjdybmlkT25hWT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NHVyWHNFSzJiS04yVjFERm1lUXA5ZWtCVmg3V2pWSEJQQ24zNCs3enRncGhXVUtXS05ZSTRpdk0rYlg0ekRPRjFJN0V1eXRpMmNKZi9jdlVJd08zeGc9PQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
