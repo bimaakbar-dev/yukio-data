@@ -14,7 +14,7 @@ season: spring
 year: 2025
 episodes: 12
 duration: 23
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2025-04-13"
@@ -40,8 +40,8 @@ trailer: "LBOJnYuMBgM"
 draft: false
 ---
 
-Sentouin D telah berhasil menyusup ke dalam Ranger Force dengan menyamar sebagai Hibiki Sakurama. Ia kini semakin dekat untuk mengalahkan Dragon Keepers, musuh bebuyutannya. Dalam strategi untuk mencapai tujuannya, Sentouin D menemukan bahwa ia telah ditugaskan ke Skuadron Hijau, yang bertanggung jawab untuk mencari dan menghancurkan monster bos yang hilang.
+Sentouin D telah berhasil menyusup ke dalam Ranger Force dengan menyamar sebagai Hibiki Sakurama. Ia kini semakin dekat untuk mengalahkan Dragon Keepers, musuh bebuyutannya. Dalam upaya untuk mencapai posisi ideal di dalam kekuatan Ranger, Sentouin D menemukan bahwa ia ditugaskan ke Skuadron Hijau, yang bertanggung jawab untuk mencari dan menghancurkan monster-monster bos yang hilang.
 
-Bersama dengan rekan barunya, Angel Usukubo, senior Kanon Hisui, dan informan misterius Chidori, Sentouin D harus menghadapi tantangan pertamanya. Mereka ditugaskan untuk menyelidiki kegiatan mencurigakan di sebuah sekolah yang telah ditinggalkan dan sering dikunjungi oleh para preman. Namun, mereka tidak menyadari bahwa ada bahaya yang mengintai di balik setiap sudut.
+Bersama dengan rekan barunya, Angel Usukubo, serta senior mereka, Kanon Hisui, dan seorang informan misterius bernama Chidori, Sentouin D harus menghadapi tantangan pertamanya. Mereka ditugaskan untuk menyelidiki kegiatan mencurigakan di sebuah sekolah yang ditinggalkan dan sering dikunjungi oleh para preman. Namun, mereka tidak menyadari bahwa ada bahaya besar yang mengancam di balik penyelidikan ini.
 
-Dengan kemampuan dan kecerdasannya, Sentouin D harus menemukan cara untuk melawan musuh dan mencapai tujuannya, yaitu menciptakan dunia yang ideal tanpa monster bos dan Dragon Keepers. Apakah ia berhasil mengatasi tantangan ini dan tetap pada jalur untuk mencapai tujuannya?
+Dengan tujuan akhir untuk menciptakan dunia ideal yang bebas dari monster-monster bos dan Dragon Keepers, Sentouin D harus menggunakan kemampuan dan kecerdasannya untuk mengatasi tantangan ini. Ia harus bekerja sama dengan rekan-rekannya dan mengandalkan kekuatan mereka untuk mencapai kesuksesan. Apakah Sentouin D dapat mencapai tujuannya dan mengubah dunia menjadi lebih baik?
