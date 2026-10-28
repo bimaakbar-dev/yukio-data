@@ -3,36 +3,410 @@
     "number": 19,
     "title": "Watchmen Series",
     "aired": "2025-11-16",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/ZSOEZ7lwSw"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/1fn9bs51tug4"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/SlZiiAqC#gkWq2BV0y4k7pUBJ7mWihJ8eO5nsIVsCh0Kato99vL8"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/BGBN5z7RSH"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/jcgiid1ps6cs"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/PgJQ0BSR#feYBsm5TnbLPcL6ewgCThHFYknr2qNSHY8EaVNXRxao"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=N1A1R1k0WnF3OUhYa0hIMU54WElWM3k4U24yMldyRUZmR3dWQmVETHYzWT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/GaRV49vTuJ"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ixl6fb7xtixs"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6lQkjBAI#yC2IVSmPjGnZVEVgyXGpk7nENFXb8XXfWuH7w8gg1Gk"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 20,
     "title": "Ensign",
     "aired": "2025-11-23",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/Vwa0zxFFgU"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/kzb82mgkqfug"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/4dNJDYGy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/PEVFXKyK#vRwNuI_vABv_ZiGcSwgu3z2lGF16jFbkrpo_xqbFBbw"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/c8niLNXGtI"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/6rqjhhfgor48"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/nMY1PNfM"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/qM9kDC4B#DsQotFRebToQnJyHfoemhOloHOw_PN6BAw1JDHwNCDc"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=OVF3cmJUMkVrcUVBanBaZEl4bEJ0TnJBV2FoVVBiRTkxUjZLVUhUK3EyST0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/OzJf86Jx6Z"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/3nde8hbm7uzd"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/rgXsmg2C"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/mU8QVYJY#v_Wqm7U1rF9U2gB3gtsVqjR4qbdizGGnZJMiwW-EjEk"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 21,
     "title": "Time Attack",
     "aired": "2025-11-30",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/O6tAk437cl"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/pvt8nfhjlp59"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/sZVFdEma"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/KsBAQQQQ#tn3BrG9LH4tjBrI6Cjuh_c9thITJW0p8YMRS2R3PdDc"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/hEsgici3DP"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/plmydq71vs4p"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/8oMKrfSG"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/2x5gDb6C#4uLEOrQrwGMiKBbAkIoJ5wrSf82WxWHeYkhJpn4pFVM"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=OVF3cmJUMkVrcUVBanBaZEl4bEJ0RERFc2F4c0IySklhSHpIL1A3TXpPRT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/IW2O4wG3sp"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/9do9snpt4pmy"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/4spXUiTS"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/G1ZWRRBY#He_Y3FCSx1ffrdAfbtoBvcuMpIPC5gCVr9o3qy5965I"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 22,
     "title": "The Power of Protection",
     "aired": "2025-12-07",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/yT7eic1pPK"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/u4io0oxttjhl"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/qkAmWLBL#XWpTq-hb5MssOZmkiC8LCmVz96JS1FWnafko67Ptjpo"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/1jK1BIfe7J"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/8rd3d23b587v"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6kZn1QJT#6yd5hton6_QpEQ2Zq0iHaCYk5xJ-D0481P_YWZNMCG0"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=MTZHNUp4RjNSQ0puZWpoRUovRDRQVGtycmRKNFVHWTRQZlFIVWgvK1oxcz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/6WiV9QJJEL"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/njugfr6wecow"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6lIxXDZJ#-BxCFZqilzy3XS3cLN_998VkBfZ8aO245JziyiiJvqQ"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 23,
     "title": "The Man Who Will Be Stronger",
     "aired": "2025-12-14",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/t4NG51P3xA"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ckoxt9myysha"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/T0Jh1CoR#Nbjrf-0Lre4YF8pKlERgpe6hEztyDFWghyzWHV7MwfQ"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=NDJvWVJxK0Z6ZGtCcVk4ZjlYanNrSVFmcHhWcnIzWmhNUVR1MjVXdFU1RT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/VfiEFOXj7w"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/qaa8u1vncf6y"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/m1ZnEQjA#ajZT7kXfWL8DCRsrPhbaPqjdDRkA8Oeo2piUU9yDIzU"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=NDJvWVJxK0Z6ZGtCcVk4ZjlYanNrSVFmcHhWcnIzWmhNUVR1MjVXdFU1RT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/UHLqILICxA"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/p7nf0zw4c1qy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/apgWVJYB#7Ha77Qf3yqpl1a15Ujs6IqM0Vz_ywhZwiFT4XmWhWkc"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 24,
     "title": "Field Trip",
     "aired": "2025-12-21",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/mfZ9N0eqzX"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/kw3u7fgymt58"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/tJtRiTDL#DtPiZBeJT0RpHbPTCg3dm0Ok8H--ZXZ-AXXaHHFLipQ"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=SWVzNmtSbUlsVkZKdVJYSVJIM2NOVEJtTWNsa1VJYjdxSW45SFFmNmFOUT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/AblZ2nUm6D"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/uaei4i12u1b4"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/oY1BxZLD#7hlQuN82nZEvtWdab45dxJSFRwpUDZ0_8Ju4rVII8xI"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=SWVzNmtSbUlsVkZKdVJYSVJIM2NOVEJtTWNsa1VJYjdxSW45SFFmNmFOUT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/rxMHbs6Chk"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/e85zcyiih4eo"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/YUFVSYZS#kqoG8Ng1jBfHmc1ui-StkZyJ0wMG3lwHeOkbmGTa0Gw"
+          }
+        ]
+      }
+    ]
   }
 ]
