@@ -14,7 +14,7 @@ season: winter
 year: 2024
 episodes: 13
 duration: 23
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2024-01-07"
@@ -39,8 +39,8 @@ trailer: "MIi8I2dgzo0"
 draft: false
 ---
 
-After an eventful winter break, Kyoutarou Ichikawa and Anna Yamada reunite with a stronger bond. They continue to grow in their own ways, with Yamada taking on more challenging photoshoots and Ichikawa maturing both physically and emotionally as he tackles his affections for Yamada. However, spending time together outside of school allows for their relationship to deepen, and it becomes increasingly difficult to deny their budding romantic feelings.
+Setelah liburan musim dingin yang penuh kejutan, Kyoutarou Ichikawa dan Anna Yamada kembali bersatu dengan ikatan yang lebih kuat. Mereka terus tumbuh dan berkembang dalam cara mereka masing-masing, dengan Yamada menghadapi tantangan baru dalam fotografi dan Ichikawa matang secara fisik dan emosional saat menghadapi perasaannya terhadap Yamada.
 
-Grappling with these unexpected and new emotions, Ichikawa and Yamada realize that, with the passage of time, their relationship is bound to change—and they must ultimately decide whether they wish to remain close friends or finally become a couple.
+Saat mereka menghabiskan waktu bersama di luar sekolah, hubungan mereka semakin dalam dan kompleks. Perasaan romantis yang mulai tumbuh membuat mereka harus menghadapi kenyataan bahwa hubungan mereka akan berubah seiring waktu. Mereka harus memutuskan apakah mereka ingin tetap berteman dekat atau mengambil langkah lebih jauh dalam hubungan mereka.
 
-(Source: MAL Rewrite)
+Dengan perasaan baru yang muncul, Ichikawa dan Yamada harus menavigasi perubahan dalam hubungan mereka dan memutuskan apa yang mereka inginkan untuk masa depan. Apakah mereka akan tetap bersama sebagai teman atau memulai petualangan baru sebagai pasangan?
