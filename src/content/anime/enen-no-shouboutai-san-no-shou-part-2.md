@@ -8,14 +8,13 @@ kitsuId: "49016"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: winter
 year: 2026
 episodes: 13
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2026-01-10"
@@ -41,8 +40,8 @@ trailer: "-oo17kCYzIA"
 draft: false
 ---
 
-As chaos spreads, Shinra and Company 8 fight to stop a final, world-ending blaze.
+Shinra dan timnya dari Company 8 terus berjuang melawan api yang menghancurkan dunia. Kehancuran dan kekacauan semakin meluas, membawa mereka ke dalam pertarungan sengit untuk menyelamatkan dunia dari api yang dapat mengakhiri segalanya.
 
- 
+Dalam upaya terakhir untuk menghentikan bencana, Shinra dan rekan-rekannya harus menghadapi tantangan terbesar mereka. Mereka berjuang untuk mengontrol api dan mencegah kehancuran total.
 
-(Source: Crunchyroll News)
+Dengan semangat dan keberanian, Shinra dan Company 8 berdiri di garis depan pertempuran melawan api yang mengancam dunia. Mereka tidak akan menyerah sampai api itu padam dan dunia aman sekali lagi.
