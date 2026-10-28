@@ -8,14 +8,13 @@ kitsuId: "43367"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: fall
 year: 2020
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2020-10-02"
@@ -40,6 +39,8 @@ trailer: "U26Up23GGDk"
 draft: false
 ---
 
-Aloof and logical middle school third-year Yuusuke Yotsuya is transported to a game-like alternate world. He becomes a third player and takes on a dangerous quest with his classmates Iu Shindo and Kusue Hakozaki, who were transported there earlier. The cold Yuusuke eschews emotionalism and examines all elements with detachment, sometimes even toying with the lives of his companions. Can he protect his party from attacking monsters, difficult incidents, and powerful scheming enemies and win the game?
+Yuusuke Yotsuya, seorang siswa SMP yang berpikiran logis dan menjaga jarak, tiba-tiba dibawa ke dunia alternatif yang mirip dengan permainan. Di sana, ia bergabung dengan rekan-rekannya, Iu Shindo dan Kusue Hakozaki, yang telah tiba lebih dulu. Mereka harus bekerja sama untuk menghadapi berbagai tantangan yang mengancam nyawa mereka.
 
-(Source: Crunchyroll)
+Dengan sifatnya yang dingin dan analitis, Yuusuke seringkali memandang situasi dengan cara yang unik dan terkadang bermain dengan nyawa rekan-rekannya. Namun, ia harus menggunakan kemampuan analitisnya untuk melindungi mereka dari serangan monster, kejadian berbahaya, dan musuh kuat yang memiliki rencana licik.
+
+Dapatkah Yuusuke dan rekan-rekannya berhasil melewati semua tantangan dan memenangkan "permainan" ini? Apakah mereka dapat bekerja sama dan saling percaya untuk mencapai tujuan mereka?
