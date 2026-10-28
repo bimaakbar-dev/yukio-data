@@ -8,13 +8,13 @@ kitsuId: "49004"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: spring
 year: 2025
 episodes: 12
 duration: 23
+# rating: # edit manual
 
 aired:
   from: "2025-04-13"
@@ -22,6 +22,7 @@ aired:
 
 stats:
   score: 6.9
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -39,8 +40,8 @@ trailer: "LBOJnYuMBgM"
 draft: false
 ---
 
-After Sentouin D successfully infiltrated the Ranger Force in the disguise of Hibiki Sakurama, he is closer than ever to defeating the heroic Dragon Keepers. While strategizing his ideal placement in the Force, he discovers that he is assigned to the Green Squadron, whose main duty is to search and eradicate long-lost boss monsters.
+Sentouin D telah berhasil menyusup ke dalam Ranger Force dengan menyamar sebagai Hibiki Sakurama. Ia kini semakin dekat untuk mengalahkan Dragon Keepers, musuh bebuyutannya. Dalam strategi untuk mencapai tujuannya, Sentouin D menemukan bahwa ia telah ditugaskan ke Skuadron Hijau, yang bertanggung jawab untuk mencari dan menghancurkan monster bos yang hilang.
 
-Joined by another new member, Angel Usukubo; their senior, Kanon Hisui; and a mysterious informant, Chidori, Sentouin D is first tasked with identifying suspicious activity in an abandoned school frequented by delinquents. During their investigation, they fall into a trap, and the group soon realizes that a boss monster is behind it all. Sentouin D must now find a way to escape alongside the others if he wants to continue pursuing his ultimate goal—achieving his ideal world free from boss monsters and the Dragon Keepers.
+Bersama dengan rekan barunya, Angel Usukubo, senior Kanon Hisui, dan informan misterius Chidori, Sentouin D harus menghadapi tantangan pertamanya. Mereka ditugaskan untuk menyelidiki kegiatan mencurigakan di sebuah sekolah yang telah ditinggalkan dan sering dikunjungi oleh para preman. Namun, mereka tidak menyadari bahwa ada bahaya yang mengintai di balik setiap sudut.
 
-(Source: MAL Rewrite)
+Dengan kemampuan dan kecerdasannya, Sentouin D harus menemukan cara untuk melawan musuh dan mencapai tujuannya, yaitu menciptakan dunia yang ideal tanpa monster bos dan Dragon Keepers. Apakah ia berhasil mengatasi tantangan ini dan tetap pada jalur untuk mencapai tujuannya?
