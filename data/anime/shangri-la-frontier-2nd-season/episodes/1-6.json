@@ -2,31 +2,401 @@
   {
     "number": 1,
     "title": "Episode 1",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/zduamuh4hx4h"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/voxV665d"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/UBokgBAb#cKsfI1MV4FiZZVTE2JU5n5-UOktJ6inpBfY-0NT9ess"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/i00l3qnbrdlj"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/CuBN5pjY"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/MMg2gAoR#3QPhhdavfaofHPFffy-GbHPDEnQgBlou_HapEDshyOI"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=UU52VE5JeW42T01lbE9iS3g1YlJFUT09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/bwy2skr6igl2"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/PJkxbKbY"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/8dxVRQxZ#JsEjxIEwjXa5kc-BWTM8rZ-4SCV3-VeV6-6utoacR4Q"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Episode 2",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/zj8kpmmh4njd"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/cahmYpwL"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/A9RUyQRS#D9w7qUbtr629COWAPqhZTmLtFv78SbGU82KjR0IKxNQ"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=a0lUN054Z3VrbkpLazNQQXUxeDFjUkNHa1hWSHY5QnhCMzdQL04rb0Y1VT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/9rzebs6kzfbp"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/wKmf5fdr"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/09hHCLgD#8kc5aG9vuATHXDEhbnpgN-hnp-CpAzxDQxxOd9XnNQU"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=K2ZHbytleGl5TnZjbTE1WE9saHZHdz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/x9lnwtpnc9j5"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/tvVLiWB1"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/k9J0VDYK#2zO2I05Q2ky4hdjqK3IAwz_M3y3TmLKa-DQS-iiFtM4"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Episode 3",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/52j02v2qresi"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/9dXpcXmm"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/0ZZBkDTZ#sNw-EzRakuM6sWfEgX2N7jGz7dDBf0U2TQXKaOx2kMY"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=UytJS1A1dmJsWjIrVWxFcjBXaFo5QT09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/meg5oajbzm9b"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/h8nCNFce"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/wcwmlZ7Y#M-yrZkHZFJPl_bGk-wFEFf61E8EExWNm-njADDC1r7I"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=UytJS1A1dmJsWjIrVWxFcjBXaFo5QT09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/khlunkux6c18"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/89BVELCL"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ARgxDQoS#sNIQtVvg9V5k6pKfWev4kk4bMlgDaEf5jVJqe5JBRO8"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Episode 4",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/f2bsyrwm28ea"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/A6mhXa7H"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6dlGTLyA#1tVu8siwOa7_ZUpXIQIboJO-_fr5W_oU7bhLGfN_Tyc"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/8is9gy7pn0r0"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/ATgwhQBn"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/aANlwBoa#1nsjdxX5OoU3iYVAO8Wb-H2KsU6X-4i3EKKuIhv5rYQ"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=UXVhaGtHYW0wRHlGOFhVblpXZ0d6QT09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/9llw23qvzrma"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/QvpwUoTv"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/KEETHRiS#YExrli59T_QMQ3bKr-gMFE9Qrq2KHszeBkPGPOOEA5s"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Episode 5",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/9VwahMfM"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/15fvf3w6ke0h"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/R7NSUIyZ#H1_4yvCw1DneFSbDpuuZbZ2zYfI4WheXz34SDcbCS3U"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=ZzFVL05RUmNxbDV1SFlYdEQ4a1lRTlhvblNtS0thNTdSRWYyS3pjaURYOHVsbTVaS2cySnc3WE9HVzdPTFhnWkFmeXpGdmdoNXRUM2lVelRYUjZJdGc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/nTynZNvt6B"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/UE2bwSeT"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/mth9uuuc7ezu"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/FvtAma7Z#BlSlfnAVJvClNgAAfK8GdkZEJgDWMKEREoNA5HT6RGM"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/o1qWxjgG"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/itl88rd2qlqj"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/96tWUDKS#heYI7v_zKSP2NKEErSLivRlxzPt52OTpRWNQcGkohWg"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=ZzFVL05RUmNxbDV1SFlYdEQ4a1lRTlhvblNtS0thNTdSRWYyS3pjaURYOHVsbTVaS2cySnc3WE9HVzdPTFhnWnVzeS85TVhKbG52WXVIQW5NNXdESVE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Episode 6",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/99n3xjjsiu12"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/riDVffqP"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6FF0GBJI#_GNIFnFswiMLMFen76Wz8sPm-_jQ9LVkhkXlZ1gqvng"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QXhGV2Z2RnlDc3lZK2xZcFVvejN2ZWtQU0hEWTk0OSt5RHY1LysvT2NUcTl6YmUyYlNyNjFSdHlIdW1iVzd5Tw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/s0crp30vopud"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/2MEtEFGy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/HNkRSACJ#AI_7nD-YejYdfWrNQ_sPJjolB5p2Z6ypNLt4P3yTPmA"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=eS9hWXFncmZUR2JuYTdLNXdVci9qUT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QXhGV2Z2RnlDc3lZK2xZcFVvejN2ZWtQU0hEWTk0OSt5RHY1LysvT2NUcGFmU2xmT0dlUmhJaDVQd3VVMWlXUA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/7ki57jsa62ws"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/pMSefzSK"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/3EVFVRzA#HIDuU77oqlEgjN9Bq36GB3l7RzXdnCRH7ITJIF61OhU"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QXhGV2Z2RnlDc3lZK2xZcFVvejN2ZWtQU0hEWTk0OSt5RHY1LysvT2NUcmU3WXp6cVVjYVNoZnVyOVdqT3prKw=="
+          }
+        ]
+      }
+    ]
   }
 ]
