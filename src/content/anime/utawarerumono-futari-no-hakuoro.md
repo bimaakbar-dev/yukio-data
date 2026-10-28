@@ -14,6 +14,7 @@ season: summer
 year: 2022
 episodes: 28
 duration: 24
+rating: PG-13
 
 aired:
   from: "2022-07-03"
@@ -21,6 +22,7 @@ aired:
 
 stats:
   score: 7.3
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -32,11 +34,14 @@ studios:
   - white-fox
 
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112640-odUuRLTwodH5.jpg"
+banner: "https://media.kitsu.app/anime/42641/cover_image/large-12c89cfddc715aba7e6f809ec6dcfd8f.jpeg"
 trailer: "JxeG79nKXNU"
 
 draft: false
 ---
 
-Chaos has taken hold of the land as a conniving general has unlawfully seized the throne of the mighty Yamato Empire. The only ones that stand in his way are a couple of familiar faces who must rally different kingdoms together and fight against the powerful Imperial army.
+Di tengah kekacauan yang melanda negeri, sebuah kerajaan besar bernama Yamato Empire dilanda konflik. Seorang jenderal licik telah merebut takhta secara ilegal, menyebabkan kekuasaan bergeser ke tangan yang salah. 
 
-(Source: Atlus)
+Saat kekuatan kekaisaran semakin kuat, beberapa tokoh yang sudah dikenal harus berdiri di garis depan untuk melawan. Mereka berusaha untuk menyatukan kerajaan-kerajaan yang terpisah dan membangun kekuatan untuk melawan tentara kekaisaran yang kuat. 
+
+Dengan latar belakang penuh gejolak ini, pertarungan antara kekuatan yang adil dan kekuatan yang korup siap dimulai. Apakah upaya para pahlawan ini akan berhasil mengembalikan ketertiban di Yamato Empire, atau apakah kekuasaan jenderal licik itu akan terus membayangi negeri?
