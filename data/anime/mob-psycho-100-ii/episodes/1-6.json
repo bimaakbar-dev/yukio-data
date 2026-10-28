@@ -3,36 +3,102 @@
     "number": 1,
     "title": "Ripped Apart ~Someone Is Watching~",
     "aired": "2019-01-07",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/mobpsy-2-1"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Urban Legends ~Encountering Rumors~",
     "aired": "2019-01-14",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/mobpsy-2-2"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "One Danger After Another ~Degeneration~",
     "aired": "2019-01-21",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/mobpsy-2-3"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Inside ~Evil Spirit~",
     "aired": "2019-01-28",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/mobpsy-2-4"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Discord ~Choices~",
     "aired": "2019-02-04",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/mobpsy-2-5"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Poor, Lonely, Whitey",
     "aired": "2019-02-11",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/mobpsy-2-6"
+          }
+        ]
+      }
+    ]
   }
 ]
