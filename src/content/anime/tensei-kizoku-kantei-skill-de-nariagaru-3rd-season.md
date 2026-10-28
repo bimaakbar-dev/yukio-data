@@ -36,7 +36,7 @@ trailer: "8_Lxr7vO9l0"
 
 draft: false
 addedAt: "2026-10-12"
-updatedAt: "2026-10-19"
+updatedAt: "2026-10-28"
 ---
 
 Di dunia yang penuh dengan kemewahan dan kekuasaan, seorang bangsawan yang terlahir kembali harus menggunakan kemampuan uniknya untuk memanjat tangga sosial. Dengan latar belakang yang kompleks dan tujuan yang tidak pasti, ia harus berhati-hati dalam setiap langkahnya untuk mencapai puncak kejayaan.
