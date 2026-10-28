@@ -8,14 +8,13 @@ kitsuId: "43883"
 
 type: TV
 status: finished
-rating: R
 source: manga
 
 season: summer
 year: 2021
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2021-07-10"
@@ -34,16 +33,14 @@ studios:
   - maho-film
 
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127366-nQRRRvVbPIDt.jpg"
-# banner: # edit manual
+banner: "https://media.kitsu.app/anime/cover_images/43883/large.jpg"
 trailer: "CW7Js8eB_aA"
 
 draft: false
 ---
 
-Once again, the Game Master's world of quests unexpectedly pulls in Yuusuke Yotsuya and the rest of this old team. Accompanied by the newest addition, Keita Torii, the team reunites with Kahabell, still unaware of their actions' impact on this world.
+Yuusuke Yotsuya dan tim lamanya kembali terjebak dalam dunia quest yang dibuat oleh Game Master. Kali ini, mereka ditemani oleh anggota baru, Keita Torii, dan bertemu kembali dengan Kahabell. Mereka masih belum menyadari dampak tindakan mereka pada dunia ini.
 
-After bidding Kahabell farewell, the team sets out on their newly appointed quest—an offering of a Jiffon Buffalo at Vaikdamnia on Jiffon Island. However, as their journey to the island commences, the team shortly finds that the quest is not as simple as it initially seemed.
+Mereka kemudian menerima quest baru, yaitu menawarkan seekor Jiffon Buffalo di Vaikdamnia yang terletak di Jiffon Island. Namun, saat mereka memulai perjalanan ke pulau itu, mereka menyadari bahwa quest ini tidak semudah yang mereka bayangkan. Terdapat sesuatu yang mengancam pulau itu, dan tim harus membuat keputusan yang tepat untuk menyelesaikan quest mereka.
 
-In fact, the island is terrorized by orcs that have made a deal with its inhabitants: instead of devouring the islanders, the orcs will be granted buffalo. With the growing shortage of buffalo, the annual Vaikdamnia festival cannot proceed. But, given the importance of the team's quest, they are left with the obvious choice—rid the island of the orcs and save the islanders.
-
-(Source: MAL Rewrite)
+Dengan tantangan yang akan mereka hadapi, tim harus bekerja sama untuk mencapai tujuan mereka. Apakah mereka akan berhasil menyelesaikan quest dan menyelamatkan pulau itu?
