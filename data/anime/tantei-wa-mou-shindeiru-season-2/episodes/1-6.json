@@ -1,0 +1,54 @@
+[
+  {
+    "number": 1,
+    "title": "Episode 1",
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://www.blogger.com/video.g?token=AD6v5dxcZx8hNCxqTOSsXHvxMHli56eLLL0nmsrPJx1Eeihu9X2WXt_jGKOOJNJL0hznMlHUUTnC9l4Bvz3twKXzyg2y4xzwjdHSkhsZ9XizD1d2dzeaGPYa3bcq4H6RggZ960N-Xxw",
+        "https://play.xtwap.top/cepat2.php?url=%252FrXrqGo5GVdPvNOySCKoPyVgkEBYsiIHTanZ8hiw8EZ%252Be5I8nZ%252FxBy8AVDxPtEQWsu1K1hwR4UPah2L%252FNkp6sRiAAOe47xpnCHk%252BzN0OoeMW4881mVnm3St%252Bfj95mkyhdcN0gRKl0KyoqfJnhJDeA1Z6wXbhGeHmHM7TvYQXzvQgDSXMh2s0H4aEQke6zNM9rCAGRyU%253D"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2",
+    "duration": 24,
+    "streams": {
+      "360p": [
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=azkvWUxweWoxNWZycTc3ZFF0ZkRZeHovdlpWWXZuUWF6SFVYTzFJUXhyVT0="
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Episode 3",
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=L2NHZ2g5YUZvTlBxbXpQYmJlbDhHVWRwaGFYMnExREZxZnB4NDJvMlpubz0="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Episode 4",
+    "duration": 24
+  },
+  {
+    "number": 5,
+    "title": "Episode 5",
+    "duration": 24
+  },
+  {
+    "number": 6,
+    "title": "Episode 6",
+    "duration": 24
+  }
+]
