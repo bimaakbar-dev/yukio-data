@@ -8,14 +8,13 @@ kitsuId: "46000"
 
 type: TV
 status: finished
-rating: R
 source: manga
 
 season: fall
 year: 2023
 episodes: 24
 duration: 24
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2023-10-01"
