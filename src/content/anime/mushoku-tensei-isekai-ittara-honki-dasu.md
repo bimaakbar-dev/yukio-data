@@ -14,14 +14,14 @@ season: winter
 year: 2021
 episodes: 11
 duration: 24
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2021-01-11"
   to: "2021-03-22"
 
 stats:
-  score: 8.2
+  score: 8.1
   # scoredBy: # edit manual
 
 genres:
@@ -40,8 +40,8 @@ trailer: "JoS7Z8MCD6E"
 draft: false
 ---
 
-When a 34-year-old underachiever gets run over by a bus, his story doesn’t end there. Reincarnated in a new world as an infant, Rudeus will seize every opportunity to live the life he’s always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he’s always dreamed of, he’s embarking on an epic adventure—with all of his past experience intact!
+Rudeus, seorang pria berusia 34 tahun yang merasa tidak berhasil dalam hidupnya, mengalami kecelakaan yang membuatnya terbunuh. Namun, kisah hidupnya tidak berakhir di sana. Ia bereinkarnasi di dunia baru sebagai seorang bayi dan memutuskan untuk memanfaatkan kesempatan kedua ini dengan baik.
 
-(Source: Funimation, edited)
+Dengan kemampuan magis yang baru ditemukannya dan keberanian untuk mewujudkan impian-impian yang selama ini tertunda, Rudeus memulai petualangan epik yang penuh dengan tantangan dan kesempatan. Ia tidak sendirian, karena ia juga bertemu dengan teman-teman baru yang akan mendukungnya dalam perjalanannya.
 
-Note: The anime pre-screened its 1st and 2nd episode starting on the 27th of December on the Nico Nico Live Broadcasting and D Anime Store services
+Dengan pengalaman hidup sebelumnya yang masih melekat, Rudeus siap menghadapi apa pun yang akan terjadi di dunia barunya. Ia berencana untuk mengambil setiap kesempatan yang ada dan membuat hidupnya menjadi lebih baik dari sebelumnya. Petualangan Rudeus yang menarik dan penuh dengan kejutan telah dimulai, dan kita akan menyaksikan bagaimana ia akan mengarungi hidup barunya.
