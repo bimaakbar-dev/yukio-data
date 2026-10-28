@@ -45,26 +45,32 @@
     "number": 16,
     "title": "Episode 16",
     "duration": 24,
+    "streams": {
+      "720p": [
+        "https://play.xtwap.top/cepat2.php?url=KQ2RnfiQbRx8alYtdECGtQMqBFalQPjbm0OO9ghLJWc%252BZ384Q7AGvIpcuj6ejB3L2l5E6lWalvOPcQR6Nw71g01GlEAP%252F6k9bKPnlLfQrD1zAZavJFZMKG0dphUcdWbyt4QRIkoHFxRbnGOLUmlxSWC6%252BdcodWqHHEKFwjqZuPKzHOzxwL%252Bx7cwKz4B7SNKeM3HE8fU%253D",
+        "https://play.xtwap.top/cepat2.php?url=KQ2RnfiQbRx8alYtdECGtQMqBFalQPjbm0OO9ghLJWc%252BZ384Q7AGvIpcuj6ejB3L2l5E6lWalvOPcQR6Nw71g01GlEAP%252F6k9bKPnlLfQrD1zAZavJFZMKG0dphUcdWbyt4QRIkoHFxRbnGOLUmlxSWC6%252BdcodWqHHEKFwjqZuPKzHOzxwL%252Bx7cwKz4B7SNKeM3HE8fU%253D"
+      ]
+    }
+  },
+  {
+    "number": 17,
+    "title": "Episode 17",
+    "duration": 24,
     "streams": [
       {
         "quality": "720p",
         "servers": [
           {
             "name": "HD-1",
-            "url": "https://play.xtwap.top/cepat2.php?url=KQ2RnfiQbRx8alYtdECGtQMqBFalQPjbm0OO9ghLJWc%252BZ384Q7AGvIpcuj6ejB3L2l5E6lWalvOPcQR6Nw71g01GlEAP%252F6k9bKPnlLfQrD1zAZavJFZMKG0dphUcdWbyt4QRIkoHFxRbnGOLUmlxSWC6%252BdcodWqHHEKFwjqZuPKzHOzxwL%252Bx7cwKz4B7SNKeM3HE8fU%253D"
+            "url": "https://vkspeed.com/embed-d3aclco567ov.html"
           },
           {
             "name": "HD-2",
-            "url": "https://play.xtwap.top/cepat2.php?url=KQ2RnfiQbRx8alYtdECGtQMqBFalQPjbm0OO9ghLJWc%252BZ384Q7AGvIpcuj6ejB3L2l5E6lWalvOPcQR6Nw71g01GlEAP%252F6k9bKPnlLfQrD1zAZavJFZMKG0dphUcdWbyt4QRIkoHFxRbnGOLUmlxSWC6%252BdcodWqHHEKFwjqZuPKzHOzxwL%252Bx7cwKz4B7SNKeM3HE8fU%253D"
+            "url": "https://vkspeed.com/embed-d3aclco567ov.html"
           }
         ]
       }
     ]
-  },
-  {
-    "number": 17,
-    "title": "Episode 17",
-    "duration": 24
   },
   {
     "number": 18,
