@@ -14,7 +14,7 @@ season: spring
 year: 2025
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2025-04-05"
@@ -40,6 +40,8 @@ trailer: "nz-VCl7yUAw"
 draft: false
 ---
 
-Shinra and the team are about to uncover the world’s greatest secret. But just as the other Special Fire Force Companies unite to face the looming disaster, Obi is captured by the Tokyo Imperial Army, and Company 8 is branded as traitors. Hunted by the Empire, they must fight alone to rescue Obi and stop the Evangelist—all while a new assassin and the corrupt Captain Burns block their path.
+Shinra dan timnya berada di ambang menemukan rahasia besar dunia. Namun, saat perusahaan pemadam kebakaran khusus lainnya bersatu untuk menghadapi bencana yang akan datang, Obi ditangkap oleh Tentara Kekaisaran Tokyo. Akibatnya, Perusahaan 8 dituduh sebagai pengkhianat dan harus melawan sendirian.
 
-(Source: Crunchyroll)
+Mereka kini menjadi buronan kekaisaran dan harus berjuang untuk menyelamatkan Obi serta menghentikan Evangelist. Namun, mereka juga harus menghadapi tantangan baru, termasuk seorang pembunuh bayaran dan Kapten Burns yang korup, yang berusaha menghalangi langkah mereka.
+
+Dalam situasi yang semakin genting, Shinra dan timnya harus menggunakan kekuatan dan kemampuan mereka untuk mengatasi rintangan dan mencapai tujuan mereka. Mereka harus berjuang dengan gigih untuk membuktikan kesetiaan mereka dan menyelamatkan dunia dari bencana yang mengancam.
