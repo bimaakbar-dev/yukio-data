@@ -40,7 +40,7 @@ trailer: "qpFcQ1Bek08"
 
 draft: false
 addedAt: "2026-10-21"
-updatedAt: "2026-10-21"
+updatedAt: "2026-10-28"
 ---
 
 Yuri, seorang remaja Jepang modern, tiba-tiba ditarik ke dalam genangan air misterius dan terbangun di Kekaisaran Het pada abad ke-14 SM. Ia menemukan dirinya terlibat dalam perebutan takhta yang berbahaya dan bergabung dengan Pangeran Kail untuk melawan pembunuh dan menghadapi konspirasi istana.
