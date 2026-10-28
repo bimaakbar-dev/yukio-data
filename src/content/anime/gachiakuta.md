@@ -8,14 +8,13 @@ kitsuId: "48946"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: summer
 year: 2025
 episodes: 24
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2025-07-06"
@@ -40,6 +39,8 @@ trailer: "VpMwWDgZqtI"
 draft: false
 ---
 
-A boy lives in a floating town, where the poor scrape by and the rich live a sumptuous life, simply casting their garbage off the side, into the abyss. When he’s falsely accused of murder, though, his wrongful conviction leads to an unimaginable punishment—exile off the edge, with the rest of the trash. Down on the surface, the cast-off waste of humanity has bred vicious monsters, and to travel the path to vengeance against those who cast him into Hell, a boy will have to become a warrior…
+Di sebuah kota terapung, kesenjangan sosial sangat mencolok. Orang miskin hidup sengsara, sementara orang kaya menikmati kehidupan mewah tanpa peduli dengan dampaknya terhadap lingkungan. Mereka seenaknya membuang sampah ke jurang di bawah, tanpa memikirkan akibatnya.
 
-(Source: Kodansha USA)
+Seorang anak laki-laki yang tinggal di kota ini harus menghadapi kenyataan pahit ketika dia dituduh melakukan pembunuhan. Meskipun dia tidak bersalah, dia dihukum dengan cara yang kejam: dibuang ke jurang bersama sampah lainnya. Di bawah, dia harus menghadapi monster buas yang lahir dari sampah yang dibuang oleh manusia.
+
+Dengan tekad untuk membalas dendam kepada mereka yang telah menghukumnya secara tidak adil, anak laki-laki ini harus bertransformasi menjadi seorang prajurit yang tangguh untuk menghadapi bahaya yang mengancam di setiap sudut. Perjalanan ini akan membawanya ke dalam petualangan yang penuh bahaya dan kekerasan, tetapi juga akan membuka pintu untuk membalas dendam dan menemukan kebenaran.
