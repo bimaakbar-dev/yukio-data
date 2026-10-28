@@ -3,36 +3,354 @@
     "number": 7,
     "title": "The Trigger of Memories",
     "aired": "2019-08-12",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=3fSUA42675Ao"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!mtFyxAYC!jkxhadXBBeMlcshJSi0MlVEQMgsE9OjDj0URpCFaSXc"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=aUxudmVSR0V1dE9CT2wyeCt6cFRmYnNPQm9KZDhVUjVLZXRQcHFwSnUxblpZTDB6N0Y4ekRYdEl3aFV3L2JEaA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!Lscg1Q7Z!d-PWhXpEaok0WHPhkIoHQb38zFz7g1HR3V-hU3IRUG0"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ek1hTndmTmRZZ0hhVGs4M2VXUzdiUk8xVlZ2TWRpMTdNQ09McXkzRTVnWT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TWdmMXFITThnQ1RvMGloZy9YeVVuWmUrS21nWTZHSHhXWWFnSGM2cG5wMG5CMXpMNzlqRnhvbTE3eG9pWHIvbQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-mlmzwc70cy06.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!n9ciRICB!Eb2JvCHGyv1tqsn3dkrdnC1baI6rjzN0JE64zQN97Qw"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MmNmNkNrMXFiNEhpL0orY29jTkhMUnlZOWMrNFdjb2tsS1ZvZVdUS0lBa1ZpdGNNL1N2Q0IwdWhkRUJydmYxRw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Songstress of Sleep",
     "aired": "2019-08-19",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=0fojCj000K4K"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!G8EikIaA!bVRlQGRXMVxPE7xypKAaZH60_EezqA-dEpH5IBnnBl0"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TEI2RFRlcUxaOWJja3ZKamp1QkI2U0Z0aHhtVnM1VnRnY0xrSkY3cU5MQmF0dDdJZy9GanF6ak5iU0tabFZsbA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!HwUUGAyQ!hfNlYsBBnqDpQ036C_pZC1u8vU2G9u7uXD41vyZMqo4"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ek1hTndmTmRZZ0hhVGs4M2VXUzdiVkR2RVR1RTloSkFUQmsrTk1IdnprST0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TnVXQXB6Mi9EU3Z4ZUhBdjQxY0lWeGphRmdGWHVLSVRtNDdPUU9LdVFSRVRyUjhVTlJyUUxIdndiWjJabmNMbA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-7kljiciig4y8.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!zsd03AKT!ayZzj3Y-vGYNV-pXmICRIxXOhuDfmkQc1vCEqpVv9g4"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=OU5nTnNpU2R2ZXQ3V0ZNVXYzd0diOGQxVWFtTFRxeklJRnd6T25KMCthZk8xZU1XTTRFejJJeXE3cVhXeTl3UQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "The Hound of Hell's Gate",
     "aired": "2019-08-26",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=0745XmPs8Uge"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!2gNGlC5L!gUykna_VMdv9dQNAqrSfcJQfm2CAWRxpGi0QHWmW6lA"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=cE9pWWp6bUlHVHNRdlBaMXRoa3lsbE9TVmF1UElGNWZrRWlxT2NYMG9IS3ZIcnoxYWJ0RTFLZkRQSzYrTGVZWQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!nxdAUCzY!aDNrdfw5bYZU2FcnITmAJ-OuozTjbQKehasdrIn6WG8"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ek1hTndmTmRZZ0hhVGs4M2VXUzdiUnh4U0w5djBLVGNIRXZpS3E1c09hZz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dUJVTllWS25sbkI2Rmx6aWZTSW4yMlkvcloyZTU0Q2tqVysyUGg2U0lxZjlvdjRZNm1vUDVhZm5ja3hPVVlxOA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-3ntq2yoq7071.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!KkFk3IqA!8Rz-6zpZWNHw5L4A8cT0vcseRUBivsgYiTjk5taqpXk"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=OWVxek93RGw0emVITkl5M0dleDFudVpGK0ZVcFROZ1RyblJZbWdmcW90T0FReUo0SlRjVkxrajJVWW1ERkQ2TA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Two Oaths",
     "aired": "2019-09-02",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=7XI25ve77GxB"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!SoMy3K6K!iL-Axf3fqO7ZXnxP_Qe4B1WDCSbE6jcB_8ARFtlpA6Y"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=emZaWDV0R1pUbHRZOFdvN2NRTCtlL2ZxOExIOGF3WU1kekk5ckJGemFNSWN4YWMzVlRqVFFhL20xdzVMZ3lTRw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!y5VSEYwR!w4hzXJLuG2AgZAPNh9HMM1hSuvPVK9Hr9lEiMEsfMU4"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ek1hTndmTmRZZ0hhVGs4M2VXUzdiVnJmaXFnbE9zenVVK0xsVFJydGRtND0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Qk5NeHR0anc1eEpzaVA1ZFFCL0d4dm02SVVnRWIxdUJQVUd0dVZGVXkxZlFLd3BEVW1PdVg3REpiVHlHUURIcw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-cme46b48u0o9.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!XkUkSSKa!XlwXMtfHRGQLpQaJmQYTZ0wi7VMrs8ZwUUGkQfWDbfs"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Sk1VQjFKVGMwUDl2cGR6R3YvRGhuVENZZHlTYXkrbEFWbUFxS2hhb3c5aGtLUFhrQ1Z2dkZ2MG9vOG1wT2luQg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "The Start of Troubles Ahead",
     "aired": "2019-09-09",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=82yYQgPYemLi"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!7pc0iYYT!V5smMylYK23_wVwY2dNV7euKWqvTiDCsdPSqnokhh8Y"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=UjlpUGJ4YVUwZWV2bnB5ZkpHZnd5Q0VaS25CUGVpaFh0aCtjYzZybTdSK1Ira3d2TTlSZGFaNjlCb1ZPMU40Mg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!T5EgiSSY!kWJaoMHJ1ykHGA5aMe1RrTrk9wtcfdNB8GJnJrN4G0o"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ek1hTndmTmRZZ0hhVGs4M2VXUzdiWVlBY1lhY05JaVM3d0tpK0NEWUJOUT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=eHg3KzNsc1BRdjE2VzFTNmJPZlg3RGhUUnYyOUdGb2EyYTNidVlsQmt1MHkvZ0NLcWJrVCsyS0x2QjltWDh1dg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-yyeq1ixmrtu6.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!HtdiHI6S!tJNvS054oVIE_QruovCslvRJwZSJyZnQXNmuJIIe3N0"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=UVJBYmxvVVZEYUNKOUU1SDB0V3NzYlhaR2IxSi9kcHlwQjRxWjhqZ3FDTkxtR1FQZUtUMjhnUnMvOG5jVVZnbA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Those Who Seek",
     "aired": "2019-09-16",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=7k3SH11Msx3S"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!P8VESayY!o1YeSFPferi7TeWWQhuBww2Hlt2yEQnhh2ZxC57GaRQ"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=L3Q4NzAxNFhJVjluOUxMUTgxRUhsNHRtQktnZFBBVnRGQml2Wmp3MWZwOVZGZnkvZ3psY2UwUEhSSjQ2bUpmag=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!DgVATQDR!mq6TzR9y_vA_H5aNhpp_VnAvsssfKIjpUQZeiNIP-9c"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ek1hTndmTmRZZ0hhVGs4M2VXUzdiZGY4SGNKVDhrcHFGQ0RxTUdzcUxBZz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=L1lVWDR1Ty9XSm9mTE93RSsyQzRvbXZxQUQvU1UyOVRuZWJncGVWSTJIakhhUjd5N1d2V2pvVXd3V1l3eVE1OQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-zywp32zpocit.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!G0FCDSAJ!iA3eI6PyzcgdrC_hv-oq0oKYbqOKoQPPRUXVwftxIKY"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TDA4WTV0aXZBcXhtM2F2Zm85cjVYQU1SR2NkVVRzcnc3MVhlcVFwK0JGYU1KT3M2V3dRSWoxMjB1NHAwRGc5ag=="
+          }
+        ]
+      }
+    ]
   }
 ]
