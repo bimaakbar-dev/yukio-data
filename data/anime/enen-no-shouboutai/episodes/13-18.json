@@ -3,36 +3,354 @@
     "number": 13,
     "title": "The Trap Is Set",
     "aired": "2019-10-19",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=E54q5785rEJd"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!gYJgyQID!DxB2WwhMSa_5Hswhf0UFDTa5EOHL4OEGuvJsx1pDX14"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=aXZrY3J6akRzV3FCWnIyeWlBMnpISjg2Q21sT0ZWV2xXSTB5cWNKUUtTRnBUc1pwYVBxZlpnVU5yTUR0UGVVVQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!pJBGhSAa!YUxQ5Qm8SqnjqG-mDDeVaiWA2tSeljdrrkRN0PWO9ZY"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=QjZlR1VYcFA4Y00zNGtYSENyNmFhdz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dWxZZmJtWTliTkRTcE4zWFhnM0NPbkw1VUYxN3VsdUZpRVlBajIveEhmd1J2L0ZpWmhSSnYvRE5yOEwxNXNmYw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-wkk2zthisn55.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!5EBAjSZa!tmxBwgpk-fEi4Sqj3pWrVagUrJmWWryq4xzxbKGy6KE"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=c0xlMHF4WG9JRm8zWjI1bnFHN1VWY1VnWUVKV29LS0hWd3BLUnY3TnBZU3RvSHAzN0lhbHBsd2JBcmV1ZUIvRw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 14,
     "title": "For Whom the Flames Burn",
     "aired": "2019-10-26",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=N5AK54ikh0f6"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!tIIQ3SZB!-rjzPnAP-HbYBDa9wPcnpkzdTE_4qCCvun4Lz5DbQKA"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=b1phNldZR0hYa2VBTTR5bjNkQmx5bE9idHdyNjV6UUo1c0h2K2NiNmhlbjVOeHZzS3pOSlRadk92alp3czNlLw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!QZB2RIjK!DDKz0gc3CgCJY2Hny-cxW2U4hy19uVlcOYuQTNvhjI8"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=K3lFQ1B4NXRzZTFZd3JZbzVSd29XQT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=QjFFSU5JMGhaU0dtNG5UZHBBQUhQT0JsVVhNSm8xcE9xZmhMeHNqNGhOMFIyaUJ2U1JYUGUrZnZQaDJPVTN0ZA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-2o5pg4l0f243.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!lJY2kKYY!zFgpMaEzy0dSq0oNvN1OliBgwpe8eDX6L46hrlB6-tw"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dW9ocGVRSkNJSlpMU3BzckpXNzY2WFJNS3ZjenhKdHZJaVBUM0FwRkdRS3dKYkQya295d3ZDSmE3Sk9xRjV1VQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 15,
     "title": "The Blacksmith's Dream",
     "aired": "2019-11-02",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=ED60NPOl7LiT"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!wIAgXA6J!aJ1rSJCLHF07Dfqb4lyADtBjNOb5djXXItR05F7x09U"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=YS9mcnNLc2loamk0c3ZGNHBicjNJNGNZaE02K2FwcEpPY016aHpwOHgwVVA5U09UUGtBVEpzMWpzRTE1UjQ1cw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!kER20QBB!Z5wk3k5nGpxBwuw5it8dmDZbIvFST20qf0-t3ctmTek"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=SnlySkhsRnJKdjFuaHJCZ0k0b2dLZz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Q2VKY2VWUUlSQURPTHJsd2ZndW5KbW9Qck9NZzlFb2Q0WjRNVHYvZDJBWDRYUjQyYXJIWm9xQURsWXVmSkdXWQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-5l648915qkw3.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!UJYCxSBa!pEWysVvIpTY3Seh0uzr8l3zcl1fffbHNN9AMrF9EoZc"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=WFhrVWdyU1JGNlJLMUpKMG9qMkp2K0ZBaDBLZ3k1clZmWHY5MDluMTFwRDhMWWVKQTRHQTRDSFd3NWxvTUFzaw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 16,
     "title": "We Are Family",
     "aired": "2019-11-09",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=VvvR35hAp161"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!9MBQTCKL!D4O8eZhitfF1_q-OTQ3PqBNAr-1Lg6eXw7Hj2fCcjqc"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=SXNUYTBxUjM3Qi9XMmk4clB4dlRJeWpZUzBSNmltT0RHazltR2w2U1FUUVhiV1B2SWtOVTU2dEN6UjRmL2V1RQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ZVZ2CYAY!QeZmYE-s-iWqxv-V4pRILhZq22CjrfHnqTUt7Xo-wOc"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=YmVDOW5JRHY5T2liZzhCQ3hDYjBidz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bk8xL0FyN0hnWnpUa3ZZdW43Mk53UGlBemx4UTc5TDBqVWxKVjdNZ0h0Nmt5M0Q1dkRqeEUwOEJpbXRiUVI1Wg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-4h68y812s55z.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ocAgBaLY!N6gdEKv1YnK5pYATQLveW6Ot7cKQuiaXicBtHB0YLAE"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=UWdvblRzY1VPVFFNVlV5dkwxQ0FlTHB1amRIdzlrRFBubjBJRlN2TjVJVXNXRVFYajZWUDkrZUtVQjZSaGZVVQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 17,
     "title": "Black and White and Gray",
     "aired": "2019-11-16",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=Kf65VsXOci3v"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!AIJg1YLA!hlUMQx-4u5w4Z0kBrt5mTdPAWwzUp31runUp65IcfOw"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Q2luWXFvQ09QTitSZE94QmNtWDZFZzB5MkZNZ3o4T0JGTHhoSVZKYXUzSFlNYjBwL3QxMzNLNWZmNHY2UHlkaw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!AQQCwK4T!n0TV5iyW4Xsqeyp3AjUDEFsZ9Nlu0PYGr-_i9v_R02s"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=VjZaMnBNd3JpbTE0WDBUV1cyd3RUQT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MXFWTkN3a24xUkkvOUFscStHS1BnN0JuY0V0Z0dhMTd5bFBrajdiQ0hYY0NTaldHOWhManF6bFVmUCtOTitNLw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-pundlkgoxcr0.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!FARWEKZR!AdT3kiLiBKIeucYa6uWvZn1ZXF09Q8xF0LBJG4wMwWg"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=SXhMTXRLbVM1NXVkWXM2Z1o3alhYbHgvL016Zm9tcEx5VTZsMlhzR0FDbDYyWEVURGJTSFJwREFoc2lqZnVaaw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 18,
     "title": "The Secrets of Pyrokinesis",
     "aired": "2019-11-23",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=eRX7pi83l6rv"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!FMAgRaJa!2Dv8f1ZwrK87j3LBAVlZnakPIOJQl5AOhFmc4kH18YU"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=alNXNk9YVmtBK25XckovNWpOODlJVGZZYVFWTWVTRG4zaHgvNWxJZlFqNXE5cUFiVE9pWmdhelZXelJ1aCtkQQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!cNRmwaDL!SjdZNVYNrnAyenRnpWNbHDQ-9UVJGAOMXZw7xLoC2ac"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=YjlrQllyZmdWY0k5UnpmMGVkUXVTdz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TmZKOHQxb2JXTndzWEI2UWdhdGx3Rkhob0JyY1ZsOVhwOElUaU4vWGpQeFBZaFZpNkh6aXRwSXZrRk84U3J5ZA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-q78z2a7ws7rn.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!lIYWmCyD!KWJwjuQlvryIkgytkr5oCbcNMw5z7zJgPPZe2vUpGm4"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=aVJieVJkYWJZaXljekVXTU5kNk1WRWU4NC9vM2R3ZVFqNU8zV2Z5bW9kdHRpWWJBbUkxSjd0SE14RXdVc3FDRQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
