@@ -3,6 +3,67 @@
     "number": 13,
     "title": "Hero's Tale",
     "aired": "2026-04-03",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/UlbhdJp6fQ"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/4g34342kb54h"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/nxJQSYrB#_SyEwq7MT-nXFZnoM8iGf41lIZldRpDdd2CyXNx64hQ"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=czBXVU5lNnNEZlRZSTVtd1NraGlqYW5yUUp0Zm9TNmlQbHI3NEdLdE1HUT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/kATZMamr5n"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/phv8jwfphl4y"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/iwhkABTb#SQIifg1TYPzFrSwLCmG2BN3XjTwh77Rgx0iuMUeL5N0"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=aU1vRHEwOUx6RURuaTZ3T0o1UG9aaWkwcTd0VEJVS3FEeDNrTG1mOVhOUT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/q0hgX7MOCH"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/s6lvs0vjuyza"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/3ggjCRgC#qStL10KXEE1hG60VgSbMxyqo4bJ5cTdPhKHhU_m1vTE"
+          }
+        ]
+      }
+    ]
   }
 ]
