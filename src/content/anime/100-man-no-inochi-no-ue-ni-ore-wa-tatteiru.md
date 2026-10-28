@@ -39,8 +39,8 @@ trailer: "U26Up23GGDk"
 draft: false
 ---
 
-Yuusuke Yotsuya, seorang siswa SMP yang berpikiran logis dan menjaga jarak, tiba-tiba dibawa ke dunia alternatif yang mirip dengan permainan. Di sana, ia bergabung dengan rekan-rekannya, Iu Shindo dan Kusue Hakozaki, yang telah tiba lebih dulu. Mereka harus bekerja sama untuk menghadapi berbagai tantangan yang mengancam nyawa mereka.
+Yuusuke Yotsuya, seorang siswa SMP yang berpikiran logis dan tidak banyak bicara, tiba-tiba dibawa ke dunia paralel yang menyerupai sebuah permainan. Di sana, ia bergabung dengan dua teman sekelasnya, Iu Shindo dan Kusue Hakozaki, yang telah terlempar ke dunia tersebut sebelumnya. Mereka harus bekerja sama untuk menghadapi berbagai tantangan dan bahaya yang mengancam.
 
-Dengan sifatnya yang dingin dan analitis, Yuusuke seringkali memandang situasi dengan cara yang unik dan terkadang bermain dengan nyawa rekan-rekannya. Namun, ia harus menggunakan kemampuan analitisnya untuk melindungi mereka dari serangan monster, kejadian berbahaya, dan musuh kuat yang memiliki rencana licik.
+Dengan sikapnya yang dingin dan analitis, Yuusuke sering kali memandang situasi dengan jarak yang cukup jauh, bahkan terkadang bermain dengan nyawa teman-temannya. Namun, ia harus menggunakan kemampuan dan kecerdasannya untuk melindungi mereka dari serangan monster dan musuh kuat lainnya.
 
-Dapatkah Yuusuke dan rekan-rekannya berhasil melewati semua tantangan dan memenangkan "permainan" ini? Apakah mereka dapat bekerja sama dan saling percaya untuk mencapai tujuan mereka?
+Apakah Yuusuke dapat melindungi teman-temannya dan memenangkan "permainan" ini, atau apakah ia akan terjebak dalam bahaya yang mengancam mereka semua?
