@@ -4,17 +4,17 @@ titleEnglish: Even a Replica Can Fall in Love
 titleNative: レプリカだって、恋をする
 
 malId: 61013
-kitsuId: "49592"
+# kitsuId: # edit manual
 
 type: TV
 status: finished
-rating: PG-13
 source: light_novel
 
 season: spring
 year: 2026
 episodes: 13
 duration: 24
+rating: PG-13
 
 aired:
   from: "2026-04-07"
@@ -22,6 +22,7 @@ aired:
 
 stats:
   score: 6.9
+  # scoredBy: # edit manual
 
 genres:
   - drama
@@ -38,6 +39,8 @@ trailer: "WsT7OO91jXo"
 draft: false
 ---
 
-When she doesn’t feel well, when there’s a test, when she doesn’t want to go to school... I take her place. I’m her replica. I’m not meant for anything else. But that changed when I fell in love. I wear my hair up so the boy I fell for knows it’s me. We skip school and promise to meet again tomorrow, and every day after. I’m her replica. Everything about me is borrowed and empty, but my heart is mine.
+Aku adalah replica dari seseorang, menggantikan posisinya di berbagai situasi. Ketika dia tidak enak badan, ada ujian, atau tidak ingin pergi ke sekolah, aku yang mengambil alih. Aku tidak memiliki tujuan lain selain menjadi penggantinya. Namun, semuanya berubah ketika aku jatuh cinta.
 
-(Source: Crunchyroll)
+Aku mulai menemukan identitas diri sendiri, meskipun segala aspek hidupku masih terasa dipinjam dan kosong. Aku mencoba mengekspresikan diri dengan cara tertentu, seperti mengikat rambutku, agar orang yang aku cintai dapat membedakanku dari orang aslinya. 
+
+Aku dan dia mulai menghabiskan waktu bersama, berjanji untuk bertemu kembali setiap hari. Meskipun sebagai replica, aku menyadari bahwa hatiku adalah milikku sendiri, dan itu membawa perubahan besar dalam hidupku.
