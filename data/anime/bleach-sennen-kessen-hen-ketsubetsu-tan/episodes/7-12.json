@@ -3,36 +3,252 @@
     "number": 7,
     "title": "I AM THE EDGE",
     "aired": "2023-08-19",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/xrc290vdfgs5"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/XZpDxBLI#l5Qd5bB-Y0H4Cg-oGBmjpUzIgLGNrjTGgfdAYFPrU-g"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=MkR2Nkl1cytNbnRCTnhFSEVIdWtCbU1hV0I0dXRTVng0bWlVMUo5eFc5eUI3LzhhWldxeDlpUEF0THpEcW41NStyV2NhUmN0VWgrRm5hRzdSRUtsTnc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/0bw17csix5mb"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/WRQ2zLJR#cPm_0N_SbEqQYq_7H5aLgoklrZAjpdwuC9akN3VZZq0"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MkR2Nkl1cytNbnRCTnhFSEVIdWtCbU1hV0I0dXRTVng0bWlVMUo5eFc5eUI3LzhhWldxeDlpUEF0THpEcW41NVFSTy9BMkJZY1AxMGZUR2UwN2JIclE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "The Headless Star",
     "aired": "2023-08-26",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/obg84l59zzgr"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/2QQUBApY#6UXbpew2mJwlo-eu4WX2fCuA7YV2qzn1iJ-qhqiqn0s"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=MkR2Nkl1cytNbnRCTnhFSEVIdWtCbU1hV0I0dXRTVng0bWlVMUo5eFc5eUI3LzhhWldxeDlpUEF0THpEcW41NXIrZWFJUlZRRkx3S3o4VGowOGJ6V2c9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/jhb7yz59wubc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/XF40WQZT#c63R1yoWHru_PG4hHsm9briMd2eEvHLQ3AZB3iTWtxI"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MkR2Nkl1cytNbnRCTnhFSEVIdWtCbU1hV0I0dXRTVng0bWlVMUo5eFc5eUI3LzhhWldxeDlpUEF0THpEcW41NStLY1FIdldQZWNyUFV5UXFyRG95bWc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Marching Out the ZOMBIES",
     "aired": "2023-09-09",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/xcq74k6c7dy1"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vcZTjJzI#f7UkBcxXKWeK6dHoSbdvgZVetjGkyx9ozAhr6k3KTW0"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=MkR2Nkl1cytNbnRCTnhFSEVIdWtCbU1hV0I0dXRTVng0bWlVMUo5eFc5eUI3LzhhWldxeDlpUEF0THpEcW41NTJVVnJLb2ZPREZYMzlTdlUxcHpJb0E9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/7qs1e575a6bc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/SZ4TRDxS#liJ19UzrKf4eZTLg3IL0HzmkOAzcKPs7lRBV2KCuJfU"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MkR2Nkl1cytNbnRCTnhFSEVIdWtCbU1hV0I0dXRTVng0bWlVMUo5eFc5eUI3LzhhWldxeDlpUEF0THpEcW41NXhPVEU5V2pwQjRDMHFDOXlTVTRRcnc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Marching Out the ZOMBIES 2",
     "aired": "2023-09-16",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/g4wajdmum8zk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/DRw2FADT#3_V5b3Qf72i9Qd0Gu3xBG_o9arebw1U1WOe8AIMwVTc"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=MkR2Nkl1cytNbnRCTnhFSEVIdWtCbU1hV0I0dXRTVng0bWlVMUo5eFc5eUI3LzhhWldxeDlpUEF0THpEcW41NVRtNTNBL3gwR1RWZW9yR0p3TUNDUmc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/rj9vk1rw55y3"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6Z4EwAoB#xcEGAjDE7J-dz1qkklhLA6fBg7PuCw41llL18rQQoEY"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MkR2Nkl1cytNbnRCTnhFSEVIdWtCbU1hV0I0dXRTVng0bWlVMUo5eFc5eUI3LzhhWldxeDlpUEF0THpEcW41NVYwK0EvbUtCMXNyUFBNLzZqaGRuU3c9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Too Early To Win, Too Late To Know",
     "aired": "2023-09-23",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/r1qlkattipz7"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/nAYyFBiD#Z2izANJUv29DP_qxDK_hx42AIYlYyH2j55ksnZsTO7Q"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=MkR2Nkl1cytNbnRCTnhFSEVIdWtCbU1hV0I0dXRTVng0bWlVMUo5eFc5eUI3LzhhWldxeDlpUEF0THpEcW41NXRmYVIwOG5oV25jSm9saGZURkxJT2c9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/i1x671sairus"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/aMRSnZAT#dA5ZEc1F4yFtB-ZcGBYqxh0b3tIlPZBLBQqHaVrsCwM"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MkR2Nkl1cytNbnRCTnhFSEVIdWtCbU1hV0I0dXRTVng0bWlVMUo5eFc5eUI3LzhhWldxeDlpUEF0THpEcW41NVVFWXROQzQ0THV1VVNGaEluNmVZSEE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "THE MASTER",
     "aired": "2023-09-30",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/utoryh38y30v"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/fFhEHKCa#ocFkiqHYeX9GoU6ukZna-4hkC08MpvIA3ITnADhOr4Q"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=MkR2Nkl1cytNbnRCTnhFSEVIdWtCbU1hV0I0dXRTVng0bWlVMUo5eFc5eUI3LzhhWldxeDlpUEF0THpEcW41NThOSC9LTG5iQWt0N1lkSTl0NFI0TFE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/zfvdqe7pqkpc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/OFIyWRjA#8XtfahDAWPQPDL86eDk1igopQx7bGUnxZAB1RN0IwQc"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MkR2Nkl1cytNbnRCTnhFSEVIdWtCbU1hV0I0dXRTVng0bWlVMUo5eFc5eUI3LzhhWldxeDlpUEF0THpEcW41NVhQZUtQbXlSRFFRZ25qMm9FZVFKZXc9PQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
