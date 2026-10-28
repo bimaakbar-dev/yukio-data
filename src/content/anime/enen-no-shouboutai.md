@@ -8,14 +8,13 @@ kitsuId: "42068"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: summer
 year: 2019
 episodes: 24
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2019-07-06"
@@ -41,6 +40,8 @@ trailer: "Dpae4acLLeA"
 draft: false
 ---
 
-Year 198 of the Solar Era in Tokyo, special fire brigades are fighting against a phenomenon called spontaneous human combustion where human beings are turned into living infernos called "Infernals.” While the Infernals are first-generation cases of spontaneous human combustion, later generations possess the ability to manipulate flames while retaining human form. Shinra Kusakabe, a youth who gained the nickname Devil’s Footprints for his ability to ignite his feet at will, joins the Special Fire Force Company 8 which composes of other flames users as they work to extinguish any Infernals they encounter. As a faction that is creating Infernals appears, Shinra begins to uncover the truth behind a mysterious fire that caused the death of his family twelve years ago.
+Di Tokyo, tahun 198 Era Matahari, kebakaran manusia spontan menjadi fenomena yang sangat meresahkan. Orang-orang yang mengalami kejadian ini berubah menjadi makhluk api hidup yang dikenal sebagai "Infernals". Shinra Kusakabe, seorang pemuda dengan kemampuan unik untuk menyalakan kaki-kakinya dengan kehendak, bergabung dengan Kompi 8 Pasukan Pemadam Kebakaran Khusus. 
 
- (Source: Official Website)
+Di kompi ini, Shinra bertemu dengan orang-orang lain yang memiliki kemampuan untuk memanipulasi api. Mereka bekerja sama untuk memadamkan api dan menghadapi Infernals yang mereka temui. Namun, semakin dalam Shinra terlibat dalam pekerjaannya, dia mulai menyadari bahwa ada sesuatu yang lebih besar dan lebih kompleks di balik kejadian-kejadian ini.
+
+Shinra sendiri memiliki alasan pribadi untuk mengetahui kebenaran di balik fenomena ini, karena dia masih menyimpan luka dari kejadian mengerikan di masa lalunya. Dengan bergabungnya Shinra dalam Pasukan Pemadam Kebakaran Khusus, dia berharap dapat menemukan jawaban atas pertanyaan-pertanyaannya dan memahami apa yang sebenarnya terjadi.
