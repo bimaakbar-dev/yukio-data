@@ -2,36 +2,470 @@
   {
     "number": 1,
     "title": "The Sphere",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/smbuwiivj0dg"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/Qqn55FLs"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/5NwjXYRR#cv83ByEW9KUIdBF430_9JHZN2myRStXBsQ6tFtKD2SU"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=MEExWkNTaEpCd3ZyZEJuK0ZvSWw2Zz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=T0l4eVFvSlcvNFJTZ3dsZUZ5d0gyODdLbFh0R05BUURDYy8zOGkvL0JQcjh4aEN6QkdxM3NDTFlFOXRhZXQweA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/52phafgog5aa"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/iijzbDDF"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/QcgjxCLL#yb5OADA-7fICU4q0zLdMNIgGtq43utSMTxzztwk3L-o"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=MEExWkNTaEpCd3ZyZEJuK0ZvSWw2Zz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=T0l4eVFvSlcvNFJTZ3dsZUZ5d0gyODdLbFh0R05BUURDYy8zOGkvL0JQb2VKR0JXREcwU2JvVzZnSGNCMzV5cg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/cx5zqp9cdbr0"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/W66myTkq"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/dQhXQbzJ#NpBwcYgXtH-Q0TWvWG9XzQgxBvoWvcOaAVFoLF4BM6k"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=T0l4eVFvSlcvNFJTZ3dsZUZ5d0gyODdLbFh0R05BUURDYy8zOGkvL0JQcWFBQlF3eHk3MlNNTEZpeFZ5d1dxSA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "The Inhabited",
     "aired": "2025-07-13",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/nwkfl02synou"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/UGi9XSVV"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/PA82CBAZ#I1SHnwj5jsz4df9yIj8vtZ11GPCgKAtl2L7Y60VKcDM"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=dUJZQVh3MVdMa3FQcHZvaDV5T1BYa0lzY0NySTdZbitJa0pHM0lQa01EOVErZE1UY0pKSk5lOXFjNDlvUnYxWQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/o8re5xuc5gp6"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/iJJro18h"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/nEVWXZIT#TsJ_QiJXFfqt2JSFmM4qcHQ91-oF6bhIKdTZrqL-odI"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=bDJkZHhtUXNMT0swbUtrUUpYclVIQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=dUJZQVh3MVdMa3FQcHZvaDV5T1BYa0lzY0NySTdZbitJa0pHM0lQa01EK0R5dHRhSGNiQmkrMGhINTZsUXdIMg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/0x3m5j0zjsw4"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/DB5XSy3v"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bAkjCTxI#ABdc1RKUhBhWrrDH6OKwxF86A0rLVu-3c1OA2CTFEmc"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=dUJZQVh3MVdMa3FQcHZvaDV5T1BYa0lzY0NySTdZbitJa0pHM0lQa01EKzJaSWdIS1JrVWhlWEl2ZFJqbVNCYw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "The Ground",
     "aired": "2025-07-27",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/thpudvzjui9m"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/w8E9gF4i"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6ogg3CpI#gyX4qve5egTfyprz7QJms-jZ8QdsBLxACuVJUuB5AG0"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=OVBMYi9uU2F0c1hnbGRqL050cm5vUT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=RndtdTJmVHc4NXpRdGR1WHVNSGlRcWJLbHNKWGJEZGVLVzNEb05kQllPNVJUcUJvT05Ia0owZ3JFQjFUK0xlVA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/syeu2gv5v2av"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/Z7ciix7N"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/69YVnKgR#FAVMobhltYg45CbjjcKDzPKGQ2JJD2sGvLVckCZlSNE"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=OVBMYi9uU2F0c1hnbGRqL050cm5vUT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=RndtdTJmVHc4NXpRdGR1WHVNSGlRcWJLbHNKWGJEZGVLVzNEb05kQllPNVR3QW4vUGV5TjVUMmdsTW9jaVZIRg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/us9s8ntgq0ys"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/KvYukALJ"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/28QBBbwT#FhYNL0JfHXJp_JXv2x4SJ9VK0B-rzJ_ZDvZt3aB5btM"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=RndtdTJmVHc4NXpRdGR1WHVNSGlRcWJLbHNKWGJEZGVLVzNEb05kQllPNkxHTjVxTjNWVUZCbS9HVHhJS3YzNw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Cleaner HQ",
     "aired": "2025-08-03",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/z4HEeLye"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/4sqgg9xeichr"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/hUIXEKSQ#1uKbRHK-phMasyn-WYO-oMAJMohmH6C5mTzi_SolnrU"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=ay9tblVIdDd5SGVBQVpUNVo1M2F6UT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=UGxwT0pwMnh2b2RjZkpWanRmM1MrOVpaMHZaRGFpeDY5WFBxemM5MTM1VDh2N2NmdWdMc05RaWJkWkp4M0FHQQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/0ucvwnseqyuu"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/XZdRpBKk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/wEA0zbgA#r7GsjTUKUt4LAMw8I2Bm8Ra8fedpd4NRSm8wqEgDkns"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=WStEajJSVUJPcUorSTRlL1hlY1VxQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=UGxwT0pwMnh2b2RjZkpWanRmM1MrOVpaMHZaRGFpeDY5WFBxemM5MTM1U0pVMUhTT29qbG1HYWZxRUhIbVoxNw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/zenzrc2g31qq"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/cp6ThXwc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/NVIQQZoT#8Y0Jet7I88o0hbynbEb91xWlCO_7_QaWes1FUzpFsyE"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=UGxwT0pwMnh2b2RjZkpWanRmM1MrOVpaMHZaRGFpeDY5WFBxemM5MTM1VDVEeXdBNStOdFZadHUyK2s1a0hZOA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Raiders",
     "aired": "2025-08-10",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/903c9tbvcpew"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/2bxyaKBb"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/XeIhXQIJ#LHwxEnPYwsejNpt51BRSnv5fXC9vDxFjhjQnpnZEukg"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=WStEajJSVUJPcUorSTRlL1hlY1VxQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=Z1E3ZEt2Q0p6Qmd2K2dvNyswa2g5NXZ6Y1Myalc3NjRpM2JXaStvZ2pwQmwzdjc0MFFpOS91enRUN043REMyNg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/fyqpu3itzn2c"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/rzwhBDDn"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/3exVHLST#sMlESzrPd0wys9RpWtpe2nbMxo9UP_25eNTk3VfAXHk"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=eDd3NDdnd1JVNi9iTk5EY2FPYWRYNE9yM1U2Z1pESmpZZ2J4cS9pUVRHVT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=Z1E3ZEt2Q0p6Qmd2K2dvNyswa2g5NXZ6Y1Myalc3NjRpM2JXaStvZ2pwQkdwcHJHcnkrMk9YblRHanl0OVdUaw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ijk8axna2m51"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/bGkVRwUY"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/rX4ymRjR#EGLOBvv-cH-GO9fq7z7QSo_nwhMFZYec6j3Ga0lqqEM"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=Z1E3ZEt2Q0p6Qmd2K2dvNyswa2g5NXZ6Y1Myalc3NjRpM2JXaStvZ2pwRDRDMEFpa0hWNFdxWStoeTRmb3RkVA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "One Good Strike!!",
     "aired": "2025-08-17",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/xl1ix5z1290l"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/RiTiV991"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Tton1a4L#TUzgT_oiRZg8WZs11Zs6-na4MKkq2OMenFunsvNc5qQ"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=ejJhSVVvSzBVRUUxYksrSUN0N1ZXQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=M2trYkU2MmxEUHhkNmhRQmNnakZVeDFneW5MTW5hSnhUYnU3dStidXNtN1RiTHJtSEw1MDFmRGhSVjE4RSt0aA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/seh7s8wb242o"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/uxhZccJM"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/z0ZFgbJT#pBlES0t_0MnScJ77hl-NWpkgX84Og8r2qF-XzSHXacE"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=ejJhSVVvSzBVRUUxYksrSUN0N1ZXQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=M2trYkU2MmxEUHhkNmhRQmNnakZVeDFneW5MTW5hSnhUYnU3dStidXNtNk05Ti9OL0pkZWg2YkpnbGc4OStLMQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/q16666v3zli6"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/zoRshRgq"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/isRxxACB#fUeC_SX8gd9hrKnlrmAkhjzK3a2iEsRQeNOgtAa_0Qs"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=M2trYkU2MmxEUHhkNmhRQmNnakZVeDFneW5MTW5hSnhUYnU3dStidXNtNG1haE52bWZWZThXV0NvR01UeGV3Qw=="
+          }
+        ]
+      }
+    ]
   }
 ]
