@@ -36,7 +36,7 @@ trailer: "8AnNxEp733c"
 
 draft: false
 addedAt: "2026-10-10"
-updatedAt: "2026-10-15"
+updatedAt: "2026-10-28"
 ---
 
 After thwarting a hijacking with beautiful, silver-haired detective Siesta, Kimihiko leads a life of globe-trotting and crime-solving—until Siesta dies. A year later, a new case will open old wounds as it threads murder, conspiracy, and his dead partner!
