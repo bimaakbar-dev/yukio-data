@@ -2,6 +2,63 @@
   {
     "number": 25,
     "title": "Episode 25",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/vlrnwit557dw"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/MZ1L3j8B"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=UUdSaWRCd3hDT1g4amtCWUFGVjFNcU1nQWkvd2htNldqTzFscDZHR1BJND0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/esto44p6bg43"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/Sfmmv6wu"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ZxYEQCBT#ZxklGWmdFnC4PZBH81fvLrD5HfKrkIvEaxYS7VadP-Q"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=UUdSaWRCd3hDT1g4amtCWUFGVjFNcU1nQWkvd2htNldqTzFscDZHR1BJND0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/iy5w7ya90gfv"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/5i1UNnCk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/o4BCRZ7B#iBbe9ToTOyo-6B5Ohyg0d1fb0I9mUJe4PDSbWpd9-uA"
+          }
+        ]
+      }
+    ]
   }
 ]
