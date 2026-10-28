@@ -3,36 +3,450 @@
     "number": 13,
     "title": "An Empty Gaze",
     "aired": "2025-10-05",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/QkHcDiwPUe"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/gng2roksjnoi"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/h2HKGpmM"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Ei4hRRiZ#j1dSX9B8Qadg91QSCBZIVREDDqoBWa0k75JXm7AOy14"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=K2RSY0xaaTdiYzVjQys3WlZad1BSbTFrRXpNblJEbTA0MTdBRlFQZkY5az0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/CgU2aNZ6uF"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/k3isxdrt2tz1"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/SFtEYgpn"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/0uIURaBR#0_6tX6QzQIjtR-suYrkAs5Rr1fi-V8BCznQswzxtCm4"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=K2RSY0xaaTdiYzVjQys3WlZad1BSbTFrRXpNblJEbTA0MTdBRlFQZkY5az0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/Lc9EuFn2Tc"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/hr2af7xmr1sl"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/pNt9yign"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/IvB1xaxb#in9ttfD7ERlBVYkRxLsBwRRXxIqiE6pPLr9nBSFMEwE"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 14,
     "title": "Storm Before the Storm",
     "aired": "2025-10-12",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/P6QqVYmHGc"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/4hyhqyr4ewm0"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/YuuGhxxR"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ewogwAwI#cBCx1Ooh-NIeMQGy8EcJIzimRPyQXqzgmYKj1ma0NZo"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/LEt5Jrz6mm"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/s6gcybrxwqs2"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/6AWwFBZH"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/KswyHKCL#LEshtiwvRuPZ7XEgaAZqgZPFvW0jxV-Q1wK446pYAqI"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=TGs2UWxGTnJSTlkyT0hUVlpzOFovUmRaQTQxY3JwWk5PR0xWMTFtbCtWUT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/RG8drF1UHi"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/i80xvujgulsj"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/RZaksaYN"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/akpymCLA#SFSkIdgZeB5_w7ID2rFHR2EiTe7eX2gziS52WN7YR7A"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 15,
     "title": "Clash!",
     "aired": "2025-10-19",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/txgH8rUrra"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/uhx2cthkm2gv"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/54cZ4hXW"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/XdNTCSzK#aMreB3Eq8tqBdh0QPazK90-H3cIXqR-h0ef5lvE-kN8"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/zUmsYQwX5M"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/nprhvdqfbanu"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/ZYfwgYes"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/rRNSTTiL#MTFycuYObhXgRKE0GWE4rAG5GGiUM7E73wIenDwJ-QY"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=NnVOOVF3aDlXdmtYY09CQVlGN3kxOStjUE9SMlBJQ2ZoVWJqTGJrTlQ5Yz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/ja3aehnBjw"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/2tsdm7o7znxx"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/FBQujfEq"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/aY0EiIKT#ULhpoH9vREclAYNVLuvOH4ZKCrgP2cT8Ms2Wg0VT5D8"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 16,
     "title": "Gifted and Not",
     "aired": "2025-10-26",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/mJIsO9KpxU"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/viwp38y9tce4"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/Xy66Zx6C"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/3g5DUSwY#VxG7uNCJl_4ic-WrVHHulFqgRyLrtvDkir2drM0eJvg"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=K0k0UUNpSWRqTWMvc1hsWEtUYkVBOFMyREZZL1lzam1HOTBwTzdMOUhRaz0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/HVA4JkqW9K"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ff722rwi59b9"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/JWdQDr2U"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/e0wXHAyA#E1suq_MMKnmugzmFhcR8h0O_NL2VQD1bbsR7JNo5lwk"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=K0k0UUNpSWRqTWMvc1hsWEtUYkVBOFMyREZZL1lzam1HOTBwTzdMOUhRaz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/12sdCKbvLG"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/17a4dk73gqor"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/yAWPVt7J"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/7tJW1SjR#MtRMyH07xltoA7i6Z2e0GLgyIe-7oXrqrnOLAbCSo1Y"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 17,
     "title": "Memories of a Mediocrity",
     "aired": "2025-11-02",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/igFcT0eIBr"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/0cznki7i1rwj"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/JNjPYB5V"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bEVXWbLR#NPq4SEmTuP8BdV5h5K-MtoQtDhWWlroALQNdVfGHiec"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=TE1EZzRpTTY0d28xZWx3M0x0U1phQVY1V2wzTU9acFczTk1SZmpudkRhST0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/28lwUXlkaz"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/6kyhwxjms8x0"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/xqeshi5o"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/SE9RSBIZ#9e8ULxkAQzxdU-7v-0BuZmA-8EIqPRTWnYnXBD7G68U"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=TE1EZzRpTTY0d28xZWx3M0x0U1phQVY1V2wzTU9acFczTk1SZmpudkRhST0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/Nb1E1ZGCAe"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/eg5ad5gtr7yn"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/AySDTQJD"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vFMxSCwA#qmieRCuNsMXwjpojqAl2oJE_KkbG0UOhrHW4HED4WmI"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 18,
     "title": "Oh Zap, Totes Legit",
     "aired": "2025-11-09",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/UeV4aIA8cw"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/zwlhjmr46ak3"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/LoAE1IJb#Y2axyOJfHhgAGhhFVCVaGxMx6sVlgw13h3j__uRPBGE"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/bMMKBYRjef"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/y5fr13m7r37i"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Ol5HgbLY#rjfWLjEWn_gh_U5cZkXI_4EOsV7kYApLHtqjTdRHzAg"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=d2ZCWWlEQkF5cTFjbld6aUFlVjBiUHhISEtUL1Nrci9IVUNFeDF6bWZpYz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/PWUeZKyvTQ"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/c78jh78uhbqd"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/28hBhALB#fXM92lhoQr87VRE_f8oG31kq5DXJWjU_3Y_VjBNIXj0"
+          }
+        ]
+      }
+    ]
   }
 ]
