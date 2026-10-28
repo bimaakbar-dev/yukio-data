@@ -8,7 +8,6 @@ kitsuId: "42268"
 
 type: TV
 status: finished
-rating: R
 source: manga
 
 season: summer
@@ -42,6 +41,8 @@ trailer: "tLW3eGfaG6I"
 draft: false
 ---
 
-During a protacted civil war that pitted the North against the South, the outnumbered Northerners used dark magic to create monstrous super-soldiers called Incarnates. Now that the war has ended, those Sacred Beasts must learn to make their way in a peaceful society, or face death at the hands of a Beast Hunter. Nancy Schaal Bancroft, the daughter of an Incarnate, turns to hunting the hunter herself. But once she catches up with her quarry, she discovers hard truths about the lives of these Sacred Beasts.
+Di tengah peperangan saudara yang berkepanjangan antara Utara dan Selatan, pihak Utara yang kalah jumlah menggunakan sihir gelap untuk menciptakan prajurit super yang disebut Incarnates. Kini, setelah perang berakhir, para Incarnates harus belajar beradaptasi dengan masyarakat yang damai atau menghadapi kematian di tangan seorang Pemburu Hewan. 
 
-(Source: Kodansha USA)
+Nancy Schaal Bancroft, putri dari seorang Incarnates, memutuskan untuk mengambil tindakan dan memburu sang pemburu. Ia bertekad untuk menghadapi mereka yang ingin menghancurkan para Incarnates. 
+
+Namun, ketika Nancy akhirnya menemukan targetnya, ia menemukan kebenaran yang keras tentang kehidupan para Incarnates.
