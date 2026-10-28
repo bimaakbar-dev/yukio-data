@@ -37,6 +37,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159042-X0mqyaU
 trailer: "kbtRqqa2GyA"
 
 draft: false
+addedAt: "2026-10-28"
+updatedAt: "2026-10-28"
 ---
 
 Musim kedua dari serial anime Tensei Shitara Ken Deshita telah hadir, membawa kita kembali ke dalam petualangan yang menarik. Serial ini mengisahkan tentang seorang tokoh utama yang telah bereinkarnasi ke dalam dunia baru dengan kemampuan unik sebagai seorang pedang.
