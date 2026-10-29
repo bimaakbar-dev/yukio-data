@@ -3,30 +3,210 @@
     "number": 7,
     "title": "Transformation",
     "aired": "2022-01-16",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=ewQe316xw5i8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/9wsjHICC#DPFgckya35tSYG5H1yFg90ZGHmQTKGyIZDLb9AoKGvA"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=MktSWEJpR3lvRUEzdS9XYUkzQjR1OTZMTnBaYSs5cytKc1p4aVRqM2NOdz0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-5o3b6lry4vp5.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Qp0DkYxK#6YDLKtywo8U91lVQcoPqMEklGpn9UXwUATTwxATaeFI"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=MktSWEJpR3lvRUEzdS9XYUkzQjR1OTZMTnBaYSs5cytKc1p4aVRqM2NOdz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Gathering",
     "aired": "2022-01-23",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=H3HODUuJb202"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/F9t1QaiY#ncZGQNQ0_GGWed08E9Xo2iiBhonuWPQmjUCiUEjoEP8"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=QnZrODZZdUxrV3dSRGh3K0JkUDMwVExML0xiSzBvRVFhUmxwc3I5ZWF3ND0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-hjviq33d3p1o.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/w11jzIKQ#NeqNeAE5H8QCfZ-VwA9wa_8fyRaR6yu-dMs6MBEXpAI"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=QnZrODZZdUxrV3dSRGh3K0JkUDMwVExML0xiSzBvRVFhUmxwc3I5ZWF3ND0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Defeating an Upper Rank Demon",
     "aired": "2022-01-30",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=k7cp0HehjMSL"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/cp9HQYIQ#Q6iolCfe1hnFXXNUKAwFDrxA6t67woXqw2rrtYmgegE"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=SWdvZ1NsVURtRDN4NE51TWFLeWRYMGJEM2VVV3g5NURlTUFvRXZneG5oTT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-y0w7ox350gsm.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/5w9D1QCL#E3cWZSnjPGh-2T1e_xlqqSRO-JRR06RxyHaEd_H0-pA"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=SWdvZ1NsVURtRDN4NE51TWFLeWRYMGJEM2VVV3g5NURlTUFvRXZneG5oTT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Never Give Up",
     "aired": "2022-02-06",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=023iI443eNC1"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/tgsTDSZS#l64F1ZYTpAGK1bzeMO3xb8ZU0Mt0juAoKnt5NYDOYy8"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=elRoVHVxd1o0WmxnOWVWaTV4YkVBcFJ6NTIwc09Rays1MXhSZGtnUHVqaz0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-sck4w6xe1u4i.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Foln0IKI#5D06xgZbA3EFcw1Bje4u8VSUcoNDEzQIhRwMUPJLAbQ"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=elRoVHVxd1o0WmxnOWVWaTV4YkVBcFJ6NTIwc09Rays1MXhSZGtnUHVqaz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "No Matter How Many Lives",
     "aired": "2022-02-13",
-    "duration": 32
+    "duration": 32,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=Ra0fdcc3b73u"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/c90F0AiQ#Wsn62gNCu138tfcAmuXbRVp2huFOP07cVQ69x9Icevs"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=elRoVHVxd1o0WmxnOWVWaTV4YkVBZ2pBTlk2dDVOREZvMWtFcDY4UlRZcz0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-nduq9kut7255.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/g1tBUQaY#S75XyIZqmTe5SH2j_34svAzIAnE316ZWzT6-SEdpiFA"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=elRoVHVxd1o0WmxnOWVWaTV4YkVBZ2pBTlk2dDVOREZvMWtFcDY4UlRZcz0="
+          }
+        ]
+      }
+    ]
   }
 ]
