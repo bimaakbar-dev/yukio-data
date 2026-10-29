@@ -14,7 +14,7 @@ season: fall
 year: 2019
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2019-10-11"
@@ -39,4 +39,8 @@ trailer: "MCBjBrM1AOE"
 draft: false
 ---
 
-After the war, there are many "Extends" in the city, people whose bodies were modified to make them into dangerous weapons. Inui Juuzou is one of them, and he has no memories of his life and body before his head was transformed into a gun. Strangely enough, his head-gun is designed so that only someone behind him can pull the trigger. Juuzou makes a living by taking on cases involving Extends in the city, and he is assisted by Mary, an intelligent young woman that he has taken under his protection.
+Di kota yang masih pulih dari dampak perang, banyak orang yang telah mengalami modifikasi tubuh untuk dijadikan senjata mematikan, mereka dikenal sebagai "Extends". Inui Juuzou adalah salah satu dari mereka, namun ia tidak memiliki ingatan tentang hidup dan tubuhnya sebelum kepalanya diubah menjadi senjata.
+
+Juuzou hidup dari kasus ke kasus yang melibatkan Extends di kota, dengan bantuan dari Mary, seorang wanita muda yang cerdas dan telah ia lindungi. Kehidupan Juuzou dipenuhi dengan misteri, terutama karena desain senjata di kepalanya yang hanya bisa diaktifkan oleh seseorang dari belakangnya.
+
+Dengan latar belakang yang kompleks dan kemampuan unik, Juuzou terus menjalani hidupnya sebagai seorang yang terlibat dalam kasus-kasus yang melibatkan Extends, sambil mencari jawaban tentang masa lalunya yang hilang.
