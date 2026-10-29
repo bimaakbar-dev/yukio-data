@@ -51,7 +51,18 @@
   {
     "number": 4,
     "title": "Episode 4",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=R0Z6UHlUa1Vqa0pmSzFTZFhjNlpLUT09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
