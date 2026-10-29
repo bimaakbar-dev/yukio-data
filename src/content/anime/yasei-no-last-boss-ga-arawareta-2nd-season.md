@@ -33,6 +33,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-j
 trailer: "LyDMSUR6_Q8"
 
 draft: false
+addedAt: "2026-10-29"
+updatedAt: "2026-10-29"
 ---
 
 The second season of Yasei no Last Boss ga Arawareta!
