@@ -3,36 +3,102 @@
     "number": 1,
     "title": "Let You Down",
     "aired": "2022-09-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "Unknown",
+        "servers": [
+          {
+            "name": "unknown",
+            "url": "http://www.w3.org/2000/svg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Like A Boy",
     "aired": "2022-09-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "Unknown",
+        "servers": [
+          {
+            "name": "unknown",
+            "url": "http://www.w3.org/2000/svg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Smooth Criminal",
     "aired": "2022-09-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "Unknown",
+        "servers": [
+          {
+            "name": "unknown",
+            "url": "http://www.w3.org/2000/svg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Lucky You",
     "aired": "2022-09-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "Unknown",
+        "servers": [
+          {
+            "name": "unknown",
+            "url": "http://www.w3.org/2000/svg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "All Eyez On Me",
     "aired": "2022-09-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "Unknown",
+        "servers": [
+          {
+            "name": "unknown",
+            "url": "http://www.w3.org/2000/svg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Girl on Fire",
     "aired": "2022-09-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "Unknown",
+        "servers": [
+          {
+            "name": "unknown",
+            "url": "http://www.w3.org/2000/svg"
+          }
+        ]
+      }
+    ]
   }
 ]
