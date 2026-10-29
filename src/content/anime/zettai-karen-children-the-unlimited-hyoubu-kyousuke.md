@@ -14,6 +14,7 @@ season: winter
 year: 2013
 episodes: 12
 duration: 23
+rating: R
 
 aired:
   from: "2013-01-08"
@@ -21,6 +22,7 @@ aired:
 
 stats:
   score: 7.2
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -36,6 +38,8 @@ trailer: "pQjWdEUi-98"
 draft: false
 ---
 
-You don’t have to be psychic to know that Hyoubu Kyousuke is trouble waiting to happen, but having psychic powers of your own may be your only chance if you want to stand against him.  One of the most powerful espers on the planet, Hyoubu's incredible range of abilities extends as far as controlling his own aging process, and the potential strength of all his talents combined is so terrifying that he wears a device that limits their use except in cases of extreme emergency.  The time is coming, however, when Hyoubu will need to unleash everything he has.  Because sometimes it takes a villain to do what heroes can’t, and as the leader of the secret organization PANDRA, Hyoubu's dedicated his life to fighting those who would entrap, enslave, or kill anyone with psychic powers.  Now PANDRA itself is in danger and, to combat that deadly threat, the gloves and limiter are coming off!
+Hyoubu Kyousuke adalah salah satu esper paling kuat di planet ini, dengan kemampuan luar biasa yang memungkinkan dia mengontrol proses penuaan tubuhnya sendiri. Namun, kekuatan yang dimilikinya begitu dahsyat sehingga dia harus mengenakan perangkat yang membatasi penggunaan kemampuan tersebut, kecuali dalam situasi darurat.
 
-(Source: Sentai Filmworks)
+Sebagai pemimpin organisasi rahasia PANDRA, Hyoubu telah mengabdikan hidupnya untuk melawan mereka yang ingin menangkap, memperbudak, atau membunuh orang-orang dengan kemampuan psikis. Dengan kemampuan yang luar biasa, Hyoubu menjadi ancaman bagi mereka yang ingin menindas orang-orang dengan kekuatan psikis.
+
+Saat PANDRA sendiri berada dalam bahaya, Hyoubu harus melepaskan semua kekuatannya untuk melawan ancaman tersebut. Apakah dia akan berhasil melindungi organisasi dan orang-orang yang dia cintai?
