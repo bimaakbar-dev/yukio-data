@@ -3,6 +3,50 @@
     "number": 13,
     "title": "Wish",
     "aired": "2024-10-06",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/9p03arvjk4tk"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=SjMJ6c1QST3V"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/nr5DBKKS#vX4pgp4WrUvatX0SLUokVXeihtEAytgSmK_Q5oOmde8"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=Y01NWTFwZ3NYdGxRZmJZZmJkT3pHcE9VMmR2V0ZwcitwbmFRbStzNlJVZz0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/bpm16spp8aco"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=Gy74uMKh352P"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/uyQzXAyT#4nRcVnIvi2ZgUZXIDyTo0ZxAeKEEv_LvE95gHdeSg3o"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=Y01NWTFwZ3NYdGxRZmJZZmJkT3pHcE9VMmR2V0ZwcitwbmFRbStzNlJVZz0="
+          }
+        ]
+      }
+    ]
   }
 ]
