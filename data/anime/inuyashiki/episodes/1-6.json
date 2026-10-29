@@ -3,36 +3,234 @@
     "number": 1,
     "title": "Inuyashiki Ichirou",
     "aired": "2017-10-13",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/GKMQVkZmYK3LL"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/DvBQm3WwWwwQW"
+          },
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=ZlhoeWFrM0RnY25jZnZQNDQ2RGlrTVRPejBPWlVNanBNRFd5Q2NTcXlGWT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/dkaDw7Wg4VLqx"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Shishigami Hiro",
     "aired": "2017-10-20",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/526gLqgRXLdw7"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/WdWxBDQjALjag"
+          },
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=YUUrMW5icEZrSzNKNjVwZFBZQTNENFlQbzRYOXVOZWhYYUZhMUNoVThxaz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Njmz3D6dN7aRX"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Andou Naoyuki",
     "aired": "2017-10-27",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8GjBmrKp4ZXYQ"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/aqdKwa6GZV7yB"
+          },
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=TzRkTUtZWGlpYUhhVWE3MHdQTjh0empiQ3FLVVUzZnE3Z2dKOE9nNlFDST0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/GKMQVNABnz7D4"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Samejima",
     "aired": "2017-11-03",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/XGVzRpp8Zmydp"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/KvPQjRMZNxyRN"
+          },
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=a0hXdU55ZmxqWTBjb0ZFRGV3RkwyUE9jSkxRdG5TcTFUdTFHZysyb1h3Yz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/vpyA3aL77qRD4"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Shishigami Yuuko",
     "aired": "2017-11-10",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/rGmMnkLWZxqg4"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/AwvymRrjeVRZn"
+          },
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=ZERoSFFVUWFGQjE4c2pIQjFEUUZtV0o5WnF5dHEwWDRyM0RZVS9hbnF6az0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/42VBKdyBABpdV"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "2ch no Hitotachi",
     "aired": "2017-11-17",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/6PeZmZYydL7Lk"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Rjyz26ZLej7aa"
+          },
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=c3h3VTVpeWxDbVF3VEtVU3c5NngxWWcvMGFwTVBjS2dqdXUxOXpsWTB2Yz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/GKMQVkxdP85qj"
+          }
+        ]
+      }
+    ]
   }
 ]
