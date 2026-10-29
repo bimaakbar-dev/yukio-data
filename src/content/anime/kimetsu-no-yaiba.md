@@ -14,7 +14,7 @@ season: spring
 year: 2019
 episodes: 26
 duration: 24
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2019-04-06"
@@ -41,6 +41,8 @@ trailer: "6vMuWuWlW4I"
 draft: false
 ---
 
-It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.
+Di Jepang pada masa Taisho, Tanjiro, seorang anak laki-laki yang baik hati, hidup dari menjual arang. Namun, kehidupan damainya berubah drastis ketika keluarganya dibantai oleh iblis. Satu-satunya yang selamat adalah adik perempuannya, Nezuko, yang sayangnya telah berubah menjadi iblis sendiri.
 
-(Source: Crunchyroll)
+Dalam kesedihan dan keputusasaan, Tanjiro bertekad untuk menjadi seorang pemburu iblis. Ia berharap dapat menemukan cara untuk mengubah adiknya kembali menjadi manusia dan membalas dendam atas kematian keluarganya. Dengan tekad yang kuat, Tanjiro memulai perjalanan untuk menghadapi kegelapan dan menemukan harapan di tengah kesulitan.
+
+Perjalanan Tanjiro sebagai pemburu iblis penuh dengan tantangan dan bahaya. Ia harus menghadapi iblis-iblis yang ganas dan kuat, serta mengatasi kesulitan yang datang dari dalam dirinya sendiri. Apakah Tanjiro dapat mencapai tujuannya dan menyelamatkan adiknya, atau apakah ia akan terjebak dalam kegelapan yang mengancamnya?
