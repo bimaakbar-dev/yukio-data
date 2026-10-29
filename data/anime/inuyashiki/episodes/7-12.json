@@ -3,30 +3,195 @@
     "number": 7,
     "title": "Watanabe Shion",
     "aired": "2017-11-24",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/p8ZA6ADmknYwz"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/WdWxBYPXGz7mx"
+          },
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=bnBvSnI4SXN6SzgyNkVOSUlPWGI4NHl0WU9vWnpMUUIrNStVS1JvcTVzVT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/mdqwN6Rpp8RWw"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Inuyashiki Mari",
     "aired": "2017-12-01",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/V4Nz8eaVZ3gev"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/DvBQmPg3dmKGv"
+          },
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=WDFzL1pnV1pWZDV0bGg0OHJyT3VISEZrNlI1S2xTNVU4ZUZUT3JxR05MND0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/wZgqKNgMgemqP"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Shinjuku no Hitotachi",
     "aired": "2017-12-08",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/dkaDwBK3raXK8"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/zaNA2XrqGynAm"
+          },
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=U2Rnb1NkS2VVUzlDWDRWSFJzZ0NCeTJQSEtPMVU0c2VSbFAxMk11VW14MD0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/526gLgy8BGQnV"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Tokyo no Hitotachi",
     "aired": "2017-12-15",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Njmz374ky4pK8"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/gR85wdaKBapXQ"
+          },
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=ZlhoeWFrM0RnY25jZnZQNDQ2RGlrR2d2YXlRNVdTZkNoQXlXYXg0a3p6bz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/2ANBmmxYwgwwR"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Chikyuu no Hitotachi",
     "aired": "2017-12-22",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/jjA2wKmnK7g64"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Njmz3zgVBzNGe"
+          },
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=ZlhoeWFrM0RnY25jZnZQNDQ2RGlrTDF6bVM5WnhoS0g5TkRWTzdERWtBcz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/V4Nz8wrWWBN37"
+          }
+        ]
+      }
+    ]
   }
 ]
