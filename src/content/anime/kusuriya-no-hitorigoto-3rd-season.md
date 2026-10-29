@@ -37,7 +37,7 @@ trailer: "YvNvvUeCztE"
 
 draft: false
 addedAt: "2026-10-21"
-updatedAt: "2026-10-21"
+updatedAt: "2026-10-29"
 ---
 
 Maomao kini kembali menjalani hidupnya sebagai seorang apoteker di distrik hiburan setelah pemberontakan Klan Shi berhasil diredakan. Namun, kehidupan damainya tidak bertahan lama. Suatu hari, Maomao menemukan sesuatu yang aneh terkait dengan sarapan di Rumah Verdigris, dan ia pun memutuskan untuk menyelidiki lebih lanjut.
