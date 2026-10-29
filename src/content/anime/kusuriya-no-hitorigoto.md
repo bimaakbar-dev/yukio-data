@@ -14,6 +14,7 @@ season: fall
 year: 2023
 episodes: 24
 duration: 23
+rating: PG-13
 
 aired:
   from: "2023-10-22"
@@ -21,6 +22,7 @@ aired:
 
 stats:
   score: 8.8
+  # scoredBy: # edit manual
 
 genres:
   - drama
@@ -34,12 +36,11 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-Q
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/161645-oqzTZYIvviWI.jpg"
 trailer: "oyHqh8ue4zw"
 
-addedAt: "2026-10-10T06:56:07.676Z"
-updatedAt: "2026-10-10T06:56:07.676Z"
-
 draft: false
 ---
 
-Maomao lived a peaceful life with her apothecary father. Until one day, she’s sold as a lowly servant to the emperor’s palace. But she wasn’t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she’s making a name for herself solving medical mysteries!
+Maomao hidup dengan tenang bersama ayahnya yang merupakan seorang apoteker. Namun, kehidupannya berubah drastis ketika dia dijual sebagai pelayan di istana kaisar. Meskipun harus hidup di lingkungan kerajaan, Maomao tidak memiliki naluri untuk patuh dan taat pada aturan istana.
 
-(Source: Crunchyroll)
+Ketika para penerus tahta jatuh sakit, Maomao memutuskan untuk mengambil tindakan dan mencari obat untuk menyelamatkan mereka. Tindakannya yang berani ini menarik perhatian Jinshi, seorang pejabat istana yang tampan dan berpengaruh. Jinshi kemudian mempromosikan Maomao dan membantunya memulai karirnya sebagai seorang ahli pengobatan istana.
+
+Dengan kemampuan dan pengetahuannya, Maomao mulai membuat namanya sendiri di istana dengan memecahkan misteri-misteri medis yang kompleks. Dia menunjukkan bahwa dia tidak hanya seorang pelayan biasa, melainkan seorang ahli pengobatan yang tangguh dan berdedikasi.
