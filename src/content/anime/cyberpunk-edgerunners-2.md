@@ -4,25 +4,24 @@ titleEnglish: "Cyberpunk: Edgerunners 2"
 titleNative: "サイバーパンク: エッジランナーズ2"
 
 malId: 61990
-kitsuId: "50016"
+kitsuId: "43248"
 
 type: ONA
-status: upcoming
-rating: R
+status: finished
 source: game
 
 season: fall
 year: 2026
 episodes: 10
-# duration: # edit manual
-# rating: # edit manual
+duration: 28
+rating: R
 
 aired:
   from: "2026-10-20"
-  # to: # edit manual
+  to: "2026-10-20"
 
-# stats:
-  # score: # edit manual
+stats:
+  score: 8.4
   # scoredBy: # edit manual
 
 genres:
@@ -33,15 +32,15 @@ genres:
 studios:
   - trigger
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195539-jaarfaxv6K0Z.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195539-2obqrBzqrOSR.jpg"
-trailer: "iiuRyNg3giw"
+image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195539-4LdfmKIHzuxr.png"
+banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195539-lO5SUdp4SOrq.jpg"
+trailer: "AtJMSUpG9GQ"
 
 draft: false
 ---
 
-Cyberpunk: Edgerunners 2 pulls you back into Night City, where lives become entangled to the extreme. Weak, a washed-up cyberpunk legend, is now forced to live without chrome as he searches for a sense of purpose in a world that’s passed him by. Meanwhile, the deadly nomad D sets out on a path to revenge that brings him close to corpo secrets never meant to be found. Across this ten-episode standalone series, uncover a story of family, obsession, legacy — and how your lens reflects the stories of the people around you..
+Di kota malam Night City, kehidupan menjadi semakin kompleks dan terjalin erat. Weak, seorang legenda cyberpunk yang telah kehilangan pamornya, kini harus berjuang untuk menemukan tujuan hidup tanpa bantuan teknologi canggih. Sementara itu, seorang nomad mematikan bernama D memulai perjalanan balas dendam yang membawanya semakin dekat dengan rahasia-rahasia korporasi yang seharusnya tidak pernah terungkap.
 
-When the world is blinded by spectacle, what extremes do you have to go to make your story matter?
+Seiring berjalannya waktu, kisah keluarga, obsesi, dan warisan menjadi semakin terkait erat. Pertanyaan pun muncul, bagaimana cara membuat cerita seseorang menjadi penting di dunia yang dipenuhi dengan tontonan spektakuler? Apa yang harus dilakukan untuk membuat suara seseorang terdengar di tengah kebisingan kota?
 
-(Source: Cyberpunk: Edgerunners 2 Official Site, Official Twitter)
+Dalam seri ini, kita akan menyaksikan kisah-kisah yang kompleks dan menarik, yang membawa kita lebih dalam ke dalam dunia Night City. Dengan latar belakang kota yang penuh dengan kekerasan dan ketidakpastian, kita akan menyaksikan bagaimana karakter-karakter ini berjuang untuk bertahan hidup dan menemukan makna di dalam kehidupan mereka.
