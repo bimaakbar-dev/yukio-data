@@ -3,36 +3,300 @@
     "number": 7,
     "title": "Sun",
     "aired": "2024-08-14",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/0eqx8rht0nhl"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=ROrE1Dyck482"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/XiYjgDwA#esEJ8Nv9OLjJBbbE8cxd1Stuay-0_jga6ZtloXR5W1g"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=QUo4Tzl5S2g4NVdiOVhMMTFGajM3SVB2MHlnWGE2Y3I0RE00c1JtUXdQUT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/dbi5zahyrj0q"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=TqLukPKD4m2G"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/j6QxWR5Z#Tbq2cfUjCF0nbVzjqIMPvorgg38huHY3QLx3FyiqvWw"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=QUo4Tzl5S2g4NVdiOVhMMTFGajM3SVB2MHlnWGE2Y3I0RE00c1JtUXdQUT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Trigger",
     "aired": "2024-08-21",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/j9k2hp5zwepm"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=I6tb0GG8gb83"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6ypSQQaJ#tLtoqga3kkdPQ4VJZmNWFSbCeQrmd6UvJIuELAIkAFM"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=bHQ1VFZGQVdISklTZnhGVmQ5RFpyUUV3RDZTemV0NWlCZHh4Y1pJVHplVT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/bhfy52pze9qz"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=ereqHQXbuobc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/L7RBiJJA#aucb9WKnRyf9DJuRsVmU1PNyouRP5jreX3Hxp9GMszI"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=bHQ1VFZGQVdISklTZnhGVmQ5RFpyUUV3RDZTemV0NWlCZHh4Y1pJVHplVT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Dream",
     "aired": "2024-08-28",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/b2op6hlakh47"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=pW2KADR5r31b"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/7zQUXKAT#NTscX8XALEaKSCQBmxKAoxv3JoloIOf8u9bRpivnZa0"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=WXdkSGw4d0NwcmVQZDdQaEJHaFJ2N0tvcW55STFhU2FXNDdWR3lCRGlCQT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/lqtppkfxiour"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=esiI0Ij7LH6c"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Wjhl3T7L#5C4rVBly4vg8BVpYSDON_y7_XyYsOSS7BXk3w42aUM0"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=WXdkSGw4d0NwcmVQZDdQaEJHaFJ2N0tvcW55STFhU2FXNDdWR3lCRGlCQT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Liberation",
     "aired": "2024-09-11",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/lb3i1ufjv6w6"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=WqQGUBWv5op2"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/mjZwzSbb#KEODG5Idz8S8UIf64wpcllywxWaq2oizPtJNv6J-kTI"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=Y01NWTFwZ3NYdGxRZmJZZmJkT3pHazZ0YVhIOTIxbzRWSGhOak9wRGw2WT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/klucewnohctl"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=6vOh1FDqWv2p"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/OiBjWJIB#duemafZ3MRHs3fqw5VuVIAb0uz4WuHHMhTUqT1ui59M"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=Y01NWTFwZ3NYdGxRZmJZZmJkT3pHazZ0YVhIOTIxbzRWSGhOak9wRGw2WT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Freedom",
     "aired": "2024-09-18",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/x49z4jmgbzc2"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=r1MchpnfWUB0"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/XqYkQIBb#u-zp-uKHVGnm6gN0gYGFWvxKZv_kP46ZasnYSkjzTYw"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=Y01NWTFwZ3NYdGxRZmJZZmJkT3pHc1piYVZDZnFxNlY0VlMyYzB3WHcyOD0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/i8wdcp2dto8d"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=JW7tp88J84nU"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/uuIzgLrL#ltLoSa7SqZaX_hh0cabyeDvt0j05mo3owCZ2qnz-vn4"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=Y01NWTFwZ3NYdGxRZmJZZmJkT3pHc1piYVZDZnFxNlY0VlMyYzB3WHcyOD0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Reunion",
     "aired": "2024-09-25",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/9xk1ip1hjli7"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=n1yf8X215F5X"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/aiAQ2IKJ#bbg1oSkVLoLaqezn1owX_pxWD65fgHd7-thQIfXY2bA"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=Y01NWTFwZ3NYdGxRZmJZZmJkT3pHakFjaGt3ZzY5eFdCd1JrVmMrUUg5MD0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/xgtwjuk4o12t"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=7trX4JYrHd48"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Gmh20Z7D#q0uq9CukBlOx3_-1T10xsCbeswcT907OoBSiDmJ6IAA"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=Y01NWTFwZ3NYdGxRZmJZZmJkT3pHakFjaGt3ZzY5eFdCd1JrVmMrUUg5MD0="
+          }
+        ]
+      }
+    ]
   }
 ]
