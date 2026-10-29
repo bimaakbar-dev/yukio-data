@@ -14,14 +14,14 @@ season: fall
 year: 2022
 episodes: 11
 duration: 24
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2021-12-05"
   to: "2022-02-13"
 
 stats:
-  score: 8.6
+  score: 8.5
   # scoredBy: # edit manual
 
 genres:
@@ -40,12 +40,8 @@ trailer: "XoJCOAU_72U"
 draft: false
 ---
 
-After visiting the Rengoku residence, Tanjirou and his comrades volunteer for a mission within the Entertainment District, a place where desires are sold and demons dwell. They journey alongside the flashy Sound Hashira, Tengen Uzui, in search of a monstrous foe terrorizing the town. Sworn to slay creatures of the night, the hunt continues.
+Setelah mengunjungi rumah Rengoku, Tanjirou dan kawan-kawannya memutuskan untuk bergabung dalam sebuah misi di Distrik Hiburan, tempat di mana keinginan dijual dan iblis berkeliaran. Mereka berpetualang bersama Tengen Uzui, Hashira Suara yang flamboyan, untuk mencari musuh mengerikan yang telah mengancam kota.
 
-(Source: Funimation)
+Dengan tekad untuk mengalahkan makhluk-makhluk malam, perburuan mereka terus berlanjut. Tanjirou dan kawan-kawannya harus siap menghadapi tantangan berat di Distrik Hiburan, di mana keinginan dan hasrat manusia dapat berubah menjadi kekuatan yang berbahaya.
 
-Note:
-
-- The first episode aired with a runtime of ~47 minutes.
-
-- The last episode aired with a runtime of ~33 minutes.
+Dalam perjalanan ini, Tanjirou dan kawan-kawannya akan menghadapi berbagai kesulitan dan bahaya, tetapi mereka tetap bersumpah untuk melindungi manusia dari kejahatan makhluk malam. Apakah mereka berhasil mengalahkan musuh yang mereka cari?
