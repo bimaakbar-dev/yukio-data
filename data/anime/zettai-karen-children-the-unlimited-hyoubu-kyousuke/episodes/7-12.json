@@ -3,36 +3,348 @@
     "number": 7,
     "title": "Chounou Butai Zenpen: Generation Zero Part I",
     "aired": "2013-02-19",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-znb0u0mqm3yg.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=4BM3Vh8a5602"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/OtxV1IbK#4MksS79U5RXpIwUXXvpRD83uetGl7fah2_UZxBZZj8I"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=QzcrZ0hrT0VVWVJQMkp1OTl0WWFQOEJVUFNQZkVRc2FBNVNrMEpUY0MvYz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=WFVOVzBWdFVKay9VMGJMbkJpdHhkZDFOWC96ZXlhK2tYT2REYmlrU2ZuZmtUTVdvRkNrR25PenRQRWpvdzVIMw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-giunpprizmay.html"
+          },
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-8qh3dmub9l1c.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Dl41XQKB#_MQrcqDH-nMOx2Rim8jW6TUCc_tmI3U4I6ZtKiEN5-8"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=dXpYTEo0am9IaGpYbXZaSUlYSDcrVFhZN3BGVUNqY2tGWmhibmpFOHR4QT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=N2JkQUVraXFOLzhyRG82WGUyZ2pkeGdyU2JpRHJoQTFyNDQvVHhLalE4T3NMaUErU0c2VjY0TzBCRTlNalhNaA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Chounou Butai Kouhen: Generation Zero Part II",
     "aired": "2013-02-26",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-sp4jgfc0jg7z.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=Dh502Eq644XD"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/rlpFlYbY#k05ssAEKMr5fpfzH1ug8g8LAGZlQdhdrM-neqbiWyB8"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=QzcrZ0hrT0VVWVJQMkp1OTl0WWFQeldjWTl0WFpEeXo2bXNkYnUzNy9laz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dHVrM0NpQkVQc2F0RjhCanhoNlFITk5ubThobVk2NlNJRnRydDBISG9nRVFDa0VRU1ovNWJORGxCZlFoR2dkWA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-vdpiua7boa6w.html"
+          },
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-4vkmz6crrn1o.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6whBFYzT#KhRR1AoRv1gPcsasAtLoHfCFvizQQt4rDFLByUGqGo0"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=dXpYTEo0am9IaGpYbXZaSUlYSDcrWlMwbm16V05GWnZOUXlFZ3lHd0dPRT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=OGFTR1p6LzI4SnNvaWUwcGNmRWN0Qm8wOGNSY1UwVGp1REd0R2hjUnhmMkpBdDFuU2hnblNFNWR3Q3FFTUNwLw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Catastrophe: Pandora's Box Opens",
     "aired": "2013-03-05",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-er5k5o7o8kfd.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=414wOk1PxTTc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/i8o3lIQZ#Txd2VLuVgAPGYODfL8jgyiz-ieLiTgXZsGRb14E5mtg"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=QzcrZ0hrT0VVWVJQMkp1OTl0WWFQOTNsS2NCQzl0MkhXelByZlpWWG01ST0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=SVN3aG1FVDRqK3d4NFZmbVVyS3JkQy91Y1FTSkZidHZ0cDkyU1A4M2hQck90V0REL1haQ0tvRHVqYmVFN2N6eg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-7iw0rjprxi1y.html"
+          },
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-pmhxq11ltc7l.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/XtwnFaJB#bMsl7gDZIpQVppb-hPJ-yvC5RqOX0kh_WfvE8jYLodQ"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=dXpYTEo0am9IaGpYbXZaSUlYSDcrVi9MbENURVk1NWp6ck9GT3ZVZUUwaz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bzlKaTFzc3ZTQnBFcmdEaGJld3FZc3BTb0gzSHNFRjdpd2FIM21iM0R1RW9LanJEdFZCa2ZHR1lBamJ2Y2ppbw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Tooi Rakuen: Original Sin",
     "aired": "2013-03-12",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-kob5kg1e8z7q.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=1Su8Sp1il73k"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/7ggDQI4b#lIu5ng47xbzVpfRTvfpkE1FuVKIoJXH1lYuIgdj8-kY"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=QzcrZ0hrT0VVWVJQMkp1OTl0WWFQOU9DbnlsZDJ1M09sbzJ3YmU3bTV3TT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=QVN5eWpzWUd2ZVljOVpsaXkwWXo1WUlFNVptNi9yRTZvZVpUamkwYlhLdzdPaXhqUjdUd2JMK09vaTVLZlNhaQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-zvhz8jz7a85g.html"
+          },
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-wu3qdie46uby.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/G05VTIJD#UF8mmOz8v_5jo7zg3EK3ln4i2YNOW5hgi45AGDg2whY"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=dXpYTEo0am9IaGpYbXZaSUlYSDcrYmtqRlNkTnNBV0ZmcDlKV3pUdVFDdz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Ry9YK0ZLRnhaRlplZ1cvK0s0aVp0dUJIR0x5SFM2K1dhK1piNFBZQjhhaGJUV2JNTkloVE9JQkVERmpjaUJzcQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Arashi no Naka no Futari: Outlaws",
     "aired": "2013-03-19",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-fqxfplyi7dln.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=1P5uEe0sq7d6"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Ll5jVKLA#poCvq_3_XYkiLWzwVGRnW3HnqkCN6BENTLoFPqMzPq8"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=QzcrZ0hrT0VVWVJQMkp1OTl0WWFQd3dOWFpNMzU3ejQrWXYvVkJiR0FnTT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=elVJc09MZXN4V3dGbEJiZFJqOUdkUWhMRlcrNTk2YzNJR000b3VEc3psUmx6WVBUYlRPTDNnRXJPNGkwMFNieA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-nihmzdjd4fgc.html"
+          },
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-oljeohnlu0pt.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/2wwnxIpY#pC_kS4q9wvgsWBtUsLd48cMiJ6tV2VAPI-RJ7ghBiRU"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=dXpYTEo0am9IaGpYbXZaSUlYSDcrY3UwWXFtZFBkQS9naHluZWpabEEzUT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=RlNGN3EzOVU4QjMrV09ONjN4TzJiSnJtR1hpTy96eitkOXptUW5xUXE0Wk5ZSjR1aU80MkExa2lxZHhDT2NBdw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Mirai e: Last Resolution",
     "aired": "2013-03-26",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-hssk6qu5s106.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=Hoxqw6ro8f17"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Kl4lSQ5C#XUVDRXReMAEsa-jPkJAaWwBftWRqi48h9e9RT0yo4Mo"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=QzcrZ0hrT0VVWVJQMkp1OTl0WWFQM0VpSk9aeGp6cVVKZ0ZHQi9RVFZ3RT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MXUxRFhwNUJ1alFZQ08xOVVtaTNleTQvdFQ5U2NCcmlja3BIb1N4VEVEUVllZGhTcGlkRlR2QzVpbXloSGRrWg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-xft8hv35oyg9.html"
+          },
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-61bo7di9po7o.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vsplkQoS#iKu6oj3o3skf8TygP_xvk5X6meSGvVJkALyg5p5ufqQ"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=dXpYTEo0am9IaGpYbXZaSUlYSDcrUkFIWW5rcFp4Nm5wSnFZMHQ4RFRybz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=QWJaVk5PdHkyTFc1RmxkQWZKdm9MNE92cm04MnJNN0VITkJ6MFJkOVdxYUxCUEZ2WThYekJCTnB4REhmZFBCaQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
