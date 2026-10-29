@@ -8,13 +8,13 @@ kitsuId: "13994"
 
 type: TV
 status: finished
-rating: PG-13
 source: light_novel
 
 season: fall
 year: 2018
 episodes: 12
 duration: 24
+rating: PG-13
 
 aired:
   from: "2018-10-07"
@@ -22,6 +22,7 @@ aired:
 
 stats:
   score: 4.9
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -39,6 +40,8 @@ trailer: "urU8KadLj10"
 draft: false
 ---
 
-The novel series' story takes place in 15th-century France, during the Hundred Years' War with England. Montmorency, the son of a noble, immerses himself in the study of magic and alchemy at a school for knights. However, after France's defeat at Agincourt, the school is disbanded and Montmorency is forced to flee. While on the run he meets a miraculous village girl named Jeanne.
+Di abad ke-15, Perancis dilanda perang seratus tahun melawan Inggris. Montmorency, putra bangsawan, mempelajari sihir dan alkimi di sekolah khusus kesatria. Ia berharap dapat menggunakan ilmunya untuk membantu negaranya.
 
-(Source: Anime News Network)
+Namun, setelah kekalahan Perancis dalam Pertempuran Agincourt, sekolah tempat Montmorency belajar harus dibubarkan. Ia pun terpaksa melarikan diri untuk menyelamatkan diri. Dalam pelariannya, Montmorency bertemu dengan seorang gadis desa luar biasa bernama Jeanne.
+
+Pertemuan Montmorency dengan Jeanne membuka peluang baru bagi mereka berdua. Mereka harus menghadapi tantangan dan bahaya yang mengancam negara mereka. Apakah mereka dapat bekerja sama dan menggunakan kemampuan mereka untuk mengubah nasib Perancis?
