@@ -3,36 +3,252 @@
     "number": 1,
     "title": "Flame Hashira Kyojuro Rengoku",
     "aired": "2021-10-10",
-    "duration": 26
+    "duration": 26,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=1jggb2fqoM36"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/C5dESbiK#BUvWvNRJHoLk40kOdRkwweqCY4m7EUVKUd0pDWbb80k"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=TlZJSFdyNVF4alVPajVsNFVzSEo0K251eUUwbHYxeVhOVllOWkppYVdzVT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-9zvkybafj839.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/v8Vy1LTZ#JU7KlmjyxZ8U90fXaGZkX6_o516DS7YzaT-w7NMj958"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=TlZJSFdyNVF4alVPajVsNFVzSEo0K251eUUwbHYxeVhOVllOWkppYVdzVT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Deep Sleep",
     "aired": "2021-10-17",
-    "duration": 26
+    "duration": 26,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=1hvTR658lf0A"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/jkVG3LTT#Vd1Fj3-1Xt3iJ-tn2ceQ61oetl-XvzZnW6BRCgrRbUg"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=TlZJSFdyNVF4alVPajVsNFVzSEo0MlV5RUVYNlZqTkU0Z0NRYThDdUxvND0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-mryem6jow453.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/b5cQFBaI#rKXYJ-FRTbo4Y3snVNcbVUcpWHqNfIVAkLbaxpRZ8WQ"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=TlZJSFdyNVF4alVPajVsNFVzSEo0MlV5RUVYNlZqTkU0Z0NRYThDdUxvND0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Should Have Been",
     "aired": "2021-10-24",
-    "duration": 26
+    "duration": 26,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=Dfsef486f84v"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ipMQFZBR#zM8UVsdgI6IGJXZC5yIWYuHC_oI9X5urXbqSnflC6sc"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=TlZJSFdyNVF4alVPajVsNFVzSEo0OEg1VXBQT1djVklSSlFQdlZLMGhyST0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-qw7h1g94utkn.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/S1EwgJwT#95Z-6b3LnD17SMwTqs7PzUU0BDb0fxvc9zr7JDYOhto"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=TlZJSFdyNVF4alVPajVsNFVzSEo0OEg1VXBQT1djVklSSlFQdlZLMGhyST0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Insult",
     "aired": "2021-11-07",
-    "duration": 26
+    "duration": 26,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=DIwGVNd7QllI"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/moUCxLCI#lBW4OzYMRqYVWk20xuL16EpVMkLJAXmPh6-ADu89mAk"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=TlZJSFdyNVF4alVPajVsNFVzSEo0ek5hUVJqZk9oR3d5Mkpjei9BVmVnVT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-7n2v3myjxbwc.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/y4cGwJpZ#_6_6YZ0Oa5BLyK83HCWA2QbSlEMHF-p1N9KBqVQYsiw"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=TlZJSFdyNVF4alVPajVsNFVzSEo0ek5hUVJqZk9oR3d5Mkpjei9BVmVnVT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Move Forward",
     "aired": "2021-11-14",
-    "duration": 26
+    "duration": 26,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=ix3Mc2b54W18"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/2tUmGZDa#Nb2JpIbGNI3OvsZtkmMhJGix9G_sVey-B6_6FSeycq4"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=TlZJSFdyNVF4alVPajVsNFVzSEo0OUtDeFFJazlqNm9wTURDRTJLY0pKWT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-430inbek7da4.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/uwNwGLbD#Ceqlv6PHMv7nSSi4KYg-ruaraIAn9KixTChIdAYkbG8"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=TlZJSFdyNVF4alVPajVsNFVzSEo0OUtDeFFJazlqNm9wTURDRTJLY0pKWT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Akaza",
     "aired": "2021-11-21",
-    "duration": 26
+    "duration": 26,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=R303U5w36Fmy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/68VAzZCZ#E8GYRDzynRt5SmFRUTYlbA204c6RZcoSHK2-XX44Hgo"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=TlZJSFdyNVF4alVPajVsNFVzSEo0LzhXTUhhVUZWVWptcmpVN3E2U1NrTT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-8kld7ieb8sxr.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/W9EQTBYI#-PKeS423w7OPE7y_dfVODq7ltmyZoE8V98ZLkW-kPNg"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=TlZJSFdyNVF4alVPajVsNFVzSEo0LzhXTUhhVUZWVWptcmpVN3E2U1NrTT0="
+          }
+        ]
+      }
+    ]
   }
 ]
