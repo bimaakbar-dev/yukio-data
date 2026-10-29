@@ -3,36 +3,234 @@
     "number": 7,
     "title": "\"Bastet-joshin\" no Mariah Sono 2",
     "aired": "2015-02-21",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!nQ0gnSSa!TqxG0g0viCZXormPUBtukBfrgiN3OCzfHIbcZGa8ahs"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!6qY3VYoB!AsvwMoVLY597ezanJmIG5zkxP2V_hPWUDTl-HdtQJXY"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLaWtZLzVkZDZRM0NxOFcyV1U0VGY1ND0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!imIRQAab!6erCFcmWM5pHja-3s1vDgGe0HfUp-ErVyt2B2waCYn4"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "\"Set-shin\" no Alessi Sono 1",
     "aired": "2015-02-28",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!jEkAQCAB!aV541hMWxmXXPoO6FoRIgjutC63q9835GpECDp3yiUo"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!LuQxmYpL!U68mCR5W3BBVEI8TYvq08XJeUiCXCRpMH4l_QK5ieDE"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLa0t5YmNkMU1vNnlLdWVOYUlVVFFWWT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!jzJHyCgb!sUuE-XHGgmrk7cc6J63wS7pj_8lYLxs9S6-Doydn_Yo"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "\"Set-shin\" no Alessi Sono 2",
     "aired": "2015-03-07",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!DR0ExIgb!7SSz4dC2zjQN6mB0R7Gz7T1-leh33TlAoO_IyOc1RwU"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!77JnnCib!lViHgiN9sl9mTlPQBjrt5rma8WYzsTr_aVIavbQIgOQ"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLdUFBaVRFcXR4bHNGeDJRbmhJN2dtZz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!XmJnQaKL!kSekYjG_fnFFb5WZRORQI3QrA8qDo0qzTYNzbhTP8QE"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "D'Arby the Gambler Sono 1",
     "aired": "2015-03-14",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!3Z9kTQwY!CbjIJAeBPfIzXuuh9FKzrPuP0utW0J5PG80MNqHKYMw"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!njI33aib!2O9ja5hXHDhQ0YoovGEo6K885itATWD88-PL_cChsHI"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLcXRXZVZPbnl5eXZHRUh0aVBzR3hlYz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!uyRjmKoD!3P__kUaIZXvTOVUTVEUDEVH3NatMQI7apSFJ10vtnJI"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "D'Arby the Gambler Sono 2",
     "aired": "2015-03-21",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!CdlkBCjR!XlTaTGLU9kBZ7U9Folhiyuyjw2X3NXCH5SNhiFwLm4M"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!qyZjjCjS!-Ij_Liwy74al8z-_gaQ21t8OvDA8Dpkr3x4hYijSN_o"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLdXhGNTA2UG9JejEvbXRwL0Nha0pkRT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!rnIFxaYJ!vKoy317oQnf3yrTqXgieZiiQuZyv7d5MCOy8gyBIAlc"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Hol Horse to Boingo Sono 1",
     "aired": "2015-03-28",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!DRsggIgC!5nhXnheog9bGVHqKQjmEmSCG7YtQT8v1jq4cgeZJ7z8"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!m7J3Ha7A!v6haUDYclfxiNxtcwcmKEWhbWTqlEyzNM5e-FTF2MGM"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLb3FnTFd2RFVEeXZlN1RnT0VuWnNSST0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!a7BTiQTZ!nMlWpnw6t70LyS_xgH69MdisrmKIKEWzBfdxr7guWmM"
+          }
+        ]
+      }
+    ]
   }
 ]
