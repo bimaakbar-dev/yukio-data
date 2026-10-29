@@ -3,36 +3,300 @@
     "number": 1,
     "title": "Tokyo Blade",
     "aired": "2024-07-03",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/unx9ahyh9hzr"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=Pl41ho72VudS"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/uqolSIgQ#P-3lLsXdm8eXEviU04kUT5Ro0PEWWHtMx3sKBYAz7fo"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=Y01NWTFwZ3NYdGxRZmJZZmJkT3pHdjlUcjd2SVk0SnBpMXBxSTUzNndiaz0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/sxbh0s644gsj"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=U14b4j1u26kQ"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/23RAySLC#rGY9RGdd2MclJU1MqrIWG-5yzwGesQB-dDZY4wcblaM"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=Y01NWTFwZ3NYdGxRZmJZZmJkT3pHdjlUcjd2SVk0SnBpMXBxSTUzNndiaz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Game of Telephone",
     "aired": "2024-07-10",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/xg9pn5dmxkt7"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=y86hB480qOvg"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/e25XRZ6a#izHFfYo4_IdJMdp6jFM6pBh0sKtjHkuofBRs-AgzLak"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=QkZPb0JpR3MyMXNRcFRuM2doT2RmRzBXZERINzNtRXU3akJ5dVBiS3FYcz0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/outu84fc4v8h"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=An3tutPJ38R3"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/KuIH2bJC#NLd51P9-Yb8jiAg_4oSDulmUZYNkK60cldof3DMZzBo"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=QkZPb0JpR3MyMXNRcFRuM2doT2RmRzBXZERINzNtRXU3akJ5dVBiS3FYcz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Rewriting",
     "aired": "2024-07-17",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/uuwhwsok7za9"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=o887jT0g5QS5"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/jrwmmQiZ#VaZC3ANaDvHzv60trDZqYIozldlFBDDDE_6iUM72L9I"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=Mm5rZlpoVWltSWxSN081bC9IRTlEeUQzODR6aU9DdU0xWHZLdGh5cHhBMD0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/qq5s5sbq2q78"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=VHSnuqy7UA5l"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/2rQxzSTS#zibh5TioaQcwA7c3G6XPjbrOpCL1vuaDNgrB-bDsGw4"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=Mm5rZlpoVWltSWxSN081bC9IRTlEeUQzODR6aU9DdU0xWHZLdGh5cHhBMD0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Emotional Acting",
     "aired": "2024-07-24",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/aetoap8qhz6l"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=Ob17ualeW5R3"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/3uI3xbRT#Wg5ETXgIcluwJA8HMfRfYFpoSEdC93jJlngwXOg-tII"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=cEFyT3NRM0dsQ0k4WEc4Y015TWlJV3Z4RjRWNUJ4aEhTS0NYcnlWVkxlUT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ocywx7uxqvc9"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=nJ6824Jyl65v"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/37IBzZDY#L5c7hXo8s9jIInBPbbOhp9FF7hoU0riDCFtseqkW7fk"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=cEFyT3NRM0dsQ0k4WEc4Y015TWlJV3Z4RjRWNUJ4aEhTS0NYcnlWVkxlUT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "The Curtain Rises",
     "aired": "2024-07-31",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/hp5d349ori1b"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=0uWiA0H5K1M0"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6nQ30SJb#9i159w__Cz7cU0TGUQ6jNV5VYkngoro_fS2_qRZuVbw"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=YWFwM0kzNWtHeG1PcGdVWndES01PNVJKY1RpUldxdmVWVnVTSGpoQSt6VT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/2xtq4stblo0g"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=3jWNAE8pgoq4"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/3yhyxDKK#lNWns4ul92fTNbqk1HohoUrAo8u9p8yr3wWTJVBra0Y"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=YWFwM0kzNWtHeG1PcGdVWndES01PNVJKY1RpUldxdmVWVnVTSGpoQSt6VT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Growth",
     "aired": "2024-08-07",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/dpm1dfigwvj1"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=XF5lmEhPR88C"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/aqgzDCJa#ZAVfisqPo8JcgnE-ayHcgpvaGKLKtdu6BXnWpUyXMHg"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=NlNwM3NlTDVvWEVhVU1OUTR5SkxGcjJDUGpvZkx6cFFlajN0U2FuZW8rWT0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/mr3cwjhsyfcj"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=cAOE0YTuutBn"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/urp0jZwb#L2jKFuCJrNl3gvLioshR04buQxkSOGXAX4ydPeAozjU"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=NlNwM3NlTDVvWEVhVU1OUTR5SkxGcjJDUGpvZkx6cFFlajN0U2FuZW8rWT0="
+          }
+        ]
+      }
+    ]
   }
 ]
