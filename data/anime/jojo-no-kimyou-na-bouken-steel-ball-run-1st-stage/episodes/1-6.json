@@ -3,36 +3,346 @@
     "number": 1,
     "title": "STEEL BALL RUN",
     "aired": "2026-03-19",
-    "duration": 47
+    "duration": 47,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/XN87HDjy2V"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/h0kfdv0sllrv"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/JMEU1YzQ#F9mlP1HHeJ4qHILZPOrQui4Yxwvn1-mw_iljnad79Ps"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/coDUdbDs7w"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ph829s9ectll"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/lA1TgSSa#tUZ9l96BRu4Q2a9ughHXQo3Rw3gAJI2sTeKne0KXYz4"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/bDCQ2n7slC"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/2omxwducn1jf"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ZBVVVKhS#BLmAu-CQnW2-nflHPXoBZeRryy01YW81RTVjfCWbQBE"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "The Sheriff's Request to Mountain Tim",
     "aired": "2026-09-25",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/WzcSTvYEIg"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/zxves8yzjrwf"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/LrxzHJhb#h_I5J8vmMqIiU0Jn1UKX7O0ghBD91UBYPVg7Tu7UGTs"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MzA3dXZTblMxWWppcFpzR3VnVlZMREtHVE12dlJqWVZ2bW9POFRHd2FjSWFEalRjaXpnZGczM1FJVXZsVHc1ZlNpbzFxOTVYU012dm81QVpyd21ieFE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/CX0fv36OeA"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ctkfnjxtmjxm"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/DuYAGTrB#ZyD13_AsbHz5VNr8K71lKl7Fj8otu056KAb2OcwRFVA"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0dldCcXFONlBBRWEwOHg2UTJ4cld6OGdiMkk1Ky93QjRhVHI1RmtZWkZqUQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/dxlYhXFc1B"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/tf3zo1npkq2i"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vqYmQaJa#n7c4HEUkBTNF4A4Pf2L-_eX8EBzFXqPsM0DzLD5mPJY"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "The Desert-Born Outlaws",
     "aired": "2026-10-02",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/9xidxzcy1tta"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/y7gB3IiY#-xTwnpzM3sxYf1KfQNJ2PVT2JXfJ0o--SeTlKgSUDoE"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=eHJ0aUNjYjd3WEc3K3ZMcmJ4cDRKdnd3QWpVQlNqWUF1SUpHSXYwUDdpcnBQdnI3bnJ6cG5iLzMrNVIrTTMxc3pYaHJ4bk5nTnFLWHZmRWJ0NUh5SkE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/mtfs3jlukbjm"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/3m4VWR7Z#RPKysgHMz7aQZh1LhefvA0W1ytStHo12RqYLlkifd9U"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0bmtYZmlSL3hrVzd0N3VUL05DOWFIclQ2YmoyZkFWa1V5RURKaWFCc0hTaQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/6vgrtgvskhgi"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/f7gmDCqB#mhW3uUJpZZFWQCZX1UXaP9linIqYbD4ixpv-i1kxQpQ"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "The Devil's Palm",
     "aired": "2026-10-09",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/uegbnw8b1vrj"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/O2Qz2ayQ#6Wjo8IqiPlSOiczWFmwd36CcDvBdKcy8SpYqLnu4fv0"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=TVI3RmJud1lMODBtaDl2RkZYcFg2U0JOQnkrWHdWV01pM1AyZGtYKzZXSlRqS3NNbWFiREVFMkRxSmlMUWFLdWk5enhkUGIrSE5jby9TcFl2RUxKM1E9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/aqzg4gkb6qpx"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Cj5zCbQZ#oprewtxiCoP_8XIbqBZhRcLEANy1Re0WJttEU4Qwy5I"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0ckpkTThRU0tvM2laNktleXJtZFFlLytoa3ljWHZsM2hndlIwaE9JMysxcw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/84eunvwkol1f"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/K2phHQIb#sFSL56p8lR6KBiOcdRL-z1_gfchcu4x2PaywlR9RzAA"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "The Terrorist from a Faraway Country",
     "aired": "2026-10-16",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/1wts6uqvtl7f"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bfhRSD6S#HdMfk5ffEZg9f9Je5MOeu6K1oS_kdJkoxvOLW3Ghpbg"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=N3VVK1hpNWNPWFpDVW1yTGVTaUN3dGpnZlczQys2bEh6YzFCdUd2SHhDYTQvdXowUGU4Wm9LWnRDWUpXTVBnQ0p0NW82MWhaNXI0NmR4ck94N1hJekE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/72uh6g8qpjoi"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/uTYBhZSZ#vDiAfV64OonwPmKpsVAvKG6M_N2ZoQFb0gsuQRzzKNg"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0dXIrRkU4bnZDV1ZIdXhLRzY5ZHV6aktpMHMrK0tlR2pra1gwV3ovUENGSw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/7revbvo55cvf"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/jDBgyKKR#qVVqpw2-6ebOM8iPjIVvzoLPdGO-YBWtqk4rtHtaWwc"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Gyro Zeppeli’s Destiny",
     "aired": "2026-10-23",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/rn1pqwf1ck07"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/EYpWmQ4S#r6QIrB4vea7yPWQHsv4X0G11oIoxYOBknhzbTm22b2w"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QURibjl2SWxlbE1Zb2dkd3MvSjMzUHpPVklKRHUzUUdrR045a0Zvbjc0Q2FjSDV6UkhneFlCN3UrTjJqOWVvQkovTjJwZkxGN2xsTi9QMHFuTFp6OHc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/kw792xsgl5tr"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/gNxjSLAT#sNE7orBVWo4N4VwHb5edTSZuVO_u060e-ayDnkaDq70"
+          },
+          {
+            "name": "odcdn",
+            "url": "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0cVZRZHFRdEZ1UmFxZWRTN1pzelZjUFVqaGdENitySHRUQ1NpdGVzZ05HTA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/0g02391dfsf2"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/pJRS2CSb#n1cPw2-0KQ2NkPTHhzfszRekTjg8_2V2XtrXkMFVNfU"
+          }
+        ]
+      }
+    ]
   }
 ]
