@@ -8,14 +8,13 @@ kitsuId: "49124"
 
 type: TV
 status: finished
-rating: PG-13
 source: light_novel
 
 season: winter
 year: 2025
 episodes: 13
 duration: 23
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2025-01-09"
