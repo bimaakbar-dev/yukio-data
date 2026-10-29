@@ -3,36 +3,396 @@
     "number": 13,
     "title": "Serving in the Outer Court",
     "aired": "2024-01-06",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/1m40z87ak7ji"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/iH11e1dp"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/FOBosfGEcc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/5fsREBwQ#A9hqMiPZONr_NjIfGhNZDmkmseTTBlunsTevazEuxVk"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=bmUzOElaMDNhVlFYVXRnN3JWYkhjZz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZU9hclQya0hvM09wbVJmc3FiRDVVR0E9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/w5npt8wb6sez"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/rDJYw3tL"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/1HBf2gcyZR"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/tLVzRJoZ#7cJ7VQuqF4bMy0I9picNHbKvduCes9kw0s5cfUS4048"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=bmUzOElaMDNhVlFYVXRnN3JWYkhjZz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZXBzbHVBUnJuKzNFTW5BbUl5cnZ6M1E9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 14,
     "title": "The New Pure Consort",
     "aired": "2024-01-13",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/c4wpad68xuan"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/fEGagYKB"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/AC8983gvYk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/1G0FhDCK#Cs55Jk_cZ2jFdQbvkORHdl13W3rAjsQyYhAy8MxfaHc"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=UFhGUE5HRWg1clcrU0lOOXVXYzBsUT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZW56WjQ4NnZXRGlOYld0OEMxSi9lNGc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/rlfprkci3lml"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/ai9noKYc"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/3RT7g41fA8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/QfdGjSTR#i7B1WpKtUJgDIKK4JE4FYeB8RbdnKHYsD1WFu5ep1n8"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=UFhGUE5HRWg1clcrU0lOOXVXYzBsUT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZWRlZXhBdjMrVTZ1R3c2QUY0Ymd3NGc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 15,
     "title": "Raw Fish",
     "aired": "2024-01-20",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/o3ejobxf8mfb"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/UWE34hsW"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/gyTT4SEBRj"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ZTdQ3R6J#1THts_Qwst4Q6bfBBJxoKQhhkflV8gny7r58NAUBYpQ"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=LzZKZ3VHRGVtY3R4UE42UU03R3lhdz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZVV2RTJFb3FHV24wM0NYMVd5RmxocVE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/dgne5lll64hh"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/gNos2toy"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/Arhpuml31W"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/QfsHna7A#PdrM6Q6ki-XQhsLnTrKwGm5x0qGIrzpGMMPz14y-AcI"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=LzZKZ3VHRGVtY3R4UE42UU03R3lhdz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZTJYRUxUSDQ1dmduNVcvaG9ta2g3aUE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 16,
     "title": "Lead",
     "aired": "2024-01-27",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/q1ri9ouwf2w0"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/FMosnixf"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/Swm18ven66"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/sXt02ILT#HojN_dsw0WGxExynDLVna-ILF8iPcn61ZD5-j5E7lYM"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=Ull6b3drL2hLNjZhdTlLdXpHaGtEQT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZXN2SjMwdWF0b2R1QnJ2SURMWEFLUVE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/kfprwdmyzhyb"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/QDGeoQN8"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/bATjPibZwV"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/gGEiQDwJ#PLmLPklxthXAxUj1qRR9X_GyN6Z5KviXmTPm05JdpIg"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=Ull6b3drL2hLNjZhdTlLdXpHaGtEQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZXdhNnFIek42NWVza2FBVEpkVjVOSXc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 17,
     "title": "A Jaunt Around Town",
     "aired": "2024-02-03",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/69zvbbdoiwv7"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/ux1GrJPU"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/sqIwyuaYmA"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/sP9HjDaB#knODuMYEkg_eaBnf1WabDcCly7z0qzPMhrOJj5bbc9Q"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=b2ovQi8yZ3lZdCtMZUJnd2ZydEhMQT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZWdTQmpNTU4reDM5TmtMT2ZQZmVTOEE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ew9zx0jvgv88"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/jqgvzCAr"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/xLnnPAnKeX"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/0XV1iJqJ#Uf9gRSNDYiH7Lo4zEXqPwH6S3RnSOsu7ZwMSW8j9UqY"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=b2ovQi8yZ3lZdCtMZUJnd2ZydEhMQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZVdYbzVoUHhHd2V3Uld4RElEYUNoOXc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 18,
     "title": "Lakan",
     "aired": "2024-02-10",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/5ocppbv1x6vy"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/gf1JHAWQ"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/0efXxCpfaA"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/FK1lACQI#NrNYVePgaBdpq6Ng4DoK5V3VX95Dy3JBjq3qqhbCkH0"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=SHdNV1FPUVRIRjk1ZzdUMjdFTCtzdz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZXcxYXJ0WEQ1VzlCVmJOcjhrMzNiSXc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/338qjmf03poy"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/avvoXbdK"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/lf7T6aAJQT"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/gC9F0LxI#5xn8DmupgfGW92I0hDRRmC6QWdJWegfOMJ-dZdLtj10"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=SHdNV1FPUVRIRjk1ZzdUMjdFTCtzdz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZW10OUJTdEVJVVdjbWkvbTNBSzJXUlE9PQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
