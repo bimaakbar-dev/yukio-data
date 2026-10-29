@@ -8,14 +8,13 @@ kitsuId: "44393"
 
 type: TV
 status: finished
-rating: R+
 source: light_novel
 
 season: fall
 year: 2021
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: R+
 
 aired:
   from: "2021-10-06"
@@ -44,8 +43,8 @@ trailer: "M-ievQUYHA4"
 draft: false
 ---
 
-The world's number one assassin has been reincarnated as the eldest son of a family of aristocrat assassins. In exchange for being reincarnated in another world, a goddess has imposed upon him one condition. "Kill the Hero who is prophesied to destroy the world." 
+Pembunuh nomor satu di dunia telah bereinkarnasi sebagai putra sulung dari keluarga bangsawan pembunuh. Dalam kehidupan barunya, ia diberi tugas oleh seorang dewi untuk membunuh Pahlawan yang diprediksi akan menghancurkan dunia. 
 
-This was to be the mission in his new life. The synergistic effect of the vast knowledge and experience he gained that made all manner of assassinations possible in the modern world, and the secret techniques and magic of the fantasy world's most powerful family of assassins turn him into the greatest assassin of all time.
+Dengan pengetahuan dan pengalaman luas yang diperoleh dari kehidupan sebelumnya, ia memiliki kemampuan untuk melakukan berbagai macam pembunuhan. Keluarga barunya juga memiliki teknik rahasia dan sihir yang sangat kuat, sehingga membuatnya menjadi pembunuh terhebat sepanjang masa.
 
-(Source: Crunchyroll)
+Dalam perjalanan barunya, ia harus menggunakan kemampuan dan pengetahuannya untuk menyelesaikan misi yang diberikan oleh dewi. Apakah ia akan berhasil membunuh Pahlawan dan menyelamatkan dunia, ataukah ia akan menghadapi tantangan yang tidak terduga?
