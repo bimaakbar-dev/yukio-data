@@ -3,36 +3,348 @@
     "number": 1,
     "title": "Choujou Datsugoku: Schooler of Deadlock",
     "aired": "2013-01-08",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-zqcel9vwp6d7.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=W0slDKQ3iG5I"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/rx5hyIRR#azMaXAs1HakIIXtsibqrP07vPT49Orav1n5heTuLF0s"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=QzcrZ0hrT0VVWVJQMkp1OTl0WWFQOGNSNjFYZU1TN2JsQ3ZUSjBOelkyND0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=NzZNVmpJUFBONFAzUXBnUVdLdEwvbnc2bzRCcVltSmJzSlYrVXhERS9leVM0Q2dtT0N3b3dCUVJRaldBQmZvVQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-3qgqr36hqzgb.html"
+          },
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-lr4o8bzeghpf.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/b5pFEQ5Z#gY0RVphfClb9FLqngZTPYggoCrpz28DHGXzSR2C2iRU"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=dXpYTEo0am9IaGpYbXZaSUlYSDcrWEl6dzFRQUNKRE5rUU5jY1A0UkdMaz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=UlRVZEI2cXhaUXU0QWhJNU9IUUJuUlpFRnR6ZlRxVkZyRG5Qc3JJQTdqQ1BOVGVXem9iUkxWMWw5V1NQajdpcw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Ansatsu no Melody: Ghost of WW2",
     "aired": "2013-01-15",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-60epac1y2tag.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=nf6310o6K2By"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/L15FWK5C#FsPS6fZ8eAp6GoPrrDudBeRF6N-CBW58wXtfEQHt5Is"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=QzcrZ0hrT0VVWVJQMkp1OTl0WWFQeHNyVFlIQWhHWTg4MTRDemdlU2NSTT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=VExYWVhIVGdsNVFheVBSZHNNM1VKT1I5VDFqS01FWUJMckkydXplU3I5WDU0SU00alc3S29KTG8zMEx4V1gvZw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-1mw2orkw05jf.html"
+          },
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-t8w6hlz19owo.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/D9px1K5A#-zWjGSM5AvTStSiVoA34TVvsgPy_yigLjKaWfODh-Xk"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=dXpYTEo0am9IaGpYbXZaSUlYSDcrWmxDUWVjYW1LY1JtWFFwcGt1RUY2MD0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=czBvTHRzTlM3M1hEOEVwdkVPQVNDNjFmUnlld3lwaE5qTkNrb0tmckJ0TUtQSGQ5TS9KQm11a25RaHd4TEN3UA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Seiso to Odaku: Queen not a Princess",
     "aired": "2013-01-22",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-iahhyndncn5t.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=41NpjolUm0bK"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/OpojACSD#VWL76mGAfkevvm1vinxHglU49ZYpsWJgKlQplTFaF70"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=QzcrZ0hrT0VVWVJQMkp1OTl0WWFQNE9oNG5GM1I1WlUrNVQyblZEbm1MOD0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bmcwQU9DWlNLTHMxanlqak9kMkJJZkR3NWNYSFpkQWo0WmpOMGtUUEo5WGVDOEZpRk41NHE4dFBKWFlhc093Kw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-nj2nk6twsuzx.html"
+          },
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-0fdz0pbgv5q4.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/rthRHIIQ#AVm7_QUB7MN4vpZFcNOMJ4Wot6VNmQb9gRsIGEnKt-c"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=dXpYTEo0am9IaGpYbXZaSUlYSDcrZkFUM0g3K3dxc0JBcC9sdWVPdEU2VT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=UzMrWWF4OFRiTktZcHNiMTFpTjJ6d05vcVF4K0NMVkVIb2tGNmsyTmI2SmxHcWt6bWtlbDZFbU1ibXlrYXduag=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Zettai Ryouiki: Children Territory",
     "aired": "2013-01-29",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-ybez1aeuh5in.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=1UAV3PaH7E43"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/z9wjBAiS#EcU6D-M54bav5fqfHMiMW4gTdmj5f72lF3rRIxiajVA"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=QzcrZ0hrT0VVWVJQMkp1OTl0WWFQMU1sN2FsOWFWR0k1VkltVnd4VTVTTT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=NmZMTkxzVzl4TVJDUDRrOVdkbmwwUTFvNUJxVHVEQi9XYm4rbXhud2Q5YjFvb2w2RnQ4dUhPbCtwclhxcGsydQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-pa5s8m38b6ke.html"
+          },
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-d36m3zezezkf.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/3451UQIT#QmTa3QX--bal5j0yXstfxNMFA4oAZ3S4ZmgnHjG9jlw"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=dXpYTEo0am9IaGpYbXZaSUlYSDcrWXFoOTZvQkdHS1JzbEYvVjMyTnpkbz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=L3RiTHh0RWtVWTNPU0hPRDhxYWdJVlh6Nmtsb1ptaVgxM3pMUzJ2U04xSDFseDBaK0x6YlpOOU9DdzhlL3VNVQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Strangers: Portrait of the Family",
     "aired": "2013-02-05",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-n9sfi9yh1kfi.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=3EyOoo7U2OpC"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Xp5jmKYK#WH3RwPqdAsuXh_tww2ifaRtH_lw9rVXYjgKALGOSsek"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=QzcrZ0hrT0VVWVJQMkp1OTl0WWFQMlducHd6MmZQaXZxa2ZFOFRMVENETT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=QnhBK1ljTlZQeXQzY0tWZXZrOHNWZ2NCMEIxbDJ1NmZSWXpGK3BxKzNLdUdjVUxuNDNOOFNOQVowVnA4VmRUZw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-bpvobyq2y0la.html"
+          },
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-8298f86l9tue.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/LkwX0SgY#qfu8k3GEGBWnTd-i45eI1BFLht-FsjVcPQr6q3zEFFM"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=dXpYTEo0am9IaGpYbXZaSUlYSDcrVUVCcTR5em1acVd3djVUaWlZZ3AwST0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=M2FpTUVXZS9HRExmMXNqRzB4Z0lZbG1Eb2dNSGZGc0hNV2hSU0M4WlNtRUQ3QVoyZlMvTWt1OFhhNjk4dXRORQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Yami, Hashiru: As True as a Lie",
     "aired": "2013-02-12",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-5rccsgukjpuk.html"
+          },
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=jrjh2Jm3NS80"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/foxXUAhI#2agtu7HWzTxjqzFoe3yIV_UiNyZCNlXKd6Gy61OD94o"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=QzcrZ0hrT0VVWVJQMkp1OTl0WWFQeFIvSXNxMkNmWFhEcCs0eGk0SThWaz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=blJsSDBuMDQxWWJHL1VYYzAxd3c4MjhmU3Q4UE9yNlVWbXlxVVFTa2lVMElUczcxLzdMU3NzeEpmTTJOOUVGcg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "hadestream",
+            "url": "https://files.im/embed-mv2cxo6y224d.html"
+          },
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-swzzebfv8lww.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/S4xRgATa#zKsS00xCpuFENdor0IDYnTbZJoDmyucdYBKLaR5AEpQ"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=dXpYTEo0am9IaGpYbXZaSUlYSDcrYWpmSU8rVjRrUHRjSkVRK1R3c3pvRT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=aUFjQlhWeWQvY09vRnU4OThvc25jNmIyZkx4VXQzVUJZelY0WXBOZFFPODI3M1pSQU5adWR4eXJLZ2c4YTE2YQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
