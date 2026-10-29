@@ -1,20 +1,20 @@
 ---
 title: "K: RETURN OF KINGS"
+titleEnglish: "K: Return of Kings"
 titleNative: K RETURN OF KINGS
 
 malId: 27991
-kitsuId: "9964"
+kitsuId: "7125"
 
 type: TV
 status: finished
-rating: PG-13
 source: original
 
 season: fall
 year: 2015
 episodes: 13
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2015-10-03"
@@ -38,8 +38,8 @@ trailer: "lXKYCOShfAI"
 draft: false
 ---
 
-In modern Japan, where history has strangely overlapped with reality. There, seven "Kings" with great superpowers existed. Along with their clansman to whom they shared their own power with, the kings each formed clans. Order bound by blue, red flames that cause chaos, irregularities that shine in white, and reforms branched off into green. The Kings, each with their own abilities, now...
+Di Jepang modern, sejarah dan kenyataan telah bertabrakan secara aneh. Di sana, tujuh "Raja" dengan kekuatan super luar biasa telah muncul. Mereka membentuk klannya masing-masing dengan anggota yang memiliki kekuatan yang sama. Setiap klannya memiliki ciri khas tersendiri, mulai dari ikatan biru, api merah yang menyebabkan kekacauan, hingga cahaya putih yang bersinar dan perubahan yang bercabang menjadi hijau.
 
-With "jungle" once again jumping back into action, the fates of the various Kings are brought together.
+Ketujuh Raja ini memiliki kekuatan unik yang membedakan mereka satu sama lain. Mereka sekarang berkumpul kembali, dan nasib mereka saling terkait. Dengan kekuatan mereka yang luar biasa, mereka siap menghadapi tantangan baru.
 
-(Source: Anime News Network, spoilers edited out)
+Dalam dunia yang penuh dengan kekuatan super dan intrik, ketujuh Raja ini harus menavigasi kompleksitas kekuasaan dan loyalitas. Mereka harus menghadapi konsekuensi dari tindakan mereka dan memutuskan bagaimana mereka akan menggunakan kekuatan mereka untuk membentuk masa depan.
