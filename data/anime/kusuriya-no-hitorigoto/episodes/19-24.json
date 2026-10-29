@@ -3,36 +3,396 @@
     "number": 19,
     "title": "Chance or Something More",
     "aired": "2024-02-17",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/e8qis8e2z6kk"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/Xiu8Tgvg"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/Qu75vemXJc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/VXM10JaZ#kYrvN1e9tvWoyvOmySSs-GWDjCmJ9_5kj4UnEkg-ugc"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=VW04emlHNjVwSXJIdmVuWkg5Rklqdz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZThUeWZZRCszdFB1Q0VoRTFhaEdXd1E9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/212yfephakqq"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/aKfXsFhM"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/rqOUjlhk4c"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/QG8ETCiD#ZTkH2J58HvOVO4LV1cMZTkF_y6p2Eh11iBtdlttncA0"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=VW04emlHNjVwSXJIdmVuWkg5Rklqdz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZWtjUmt1dDdnVkZpYjVsbGtpZ1BWNXc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 20,
     "title": "Thornapple",
     "aired": "2024-02-24",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/r9on2v2a7icq"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/u1RTjWb2"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/4qo94t2Wqp"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/hHFkkRIL#jbPBNcFsqt7770I0nW0-ZHpEW-X6hcIyeBQ6ifa5wkM"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=YTFYNTNWRnBKUjBSTE1lVFZCWjNUQT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZTVtd2kzTktPR3VHeEk2eVRGSVkwcFE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/wrg9dvukaxwm"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/VKcm4zH7"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/yWfkWrHvrz"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Qa9lmQDJ#wVSylF3TjgumLBLv6Mm598QnfXJTLdEJ-SSU3EhKsUc"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=YTFYNTNWRnBKUjBSTE1lVFZCWjNUQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZTRmMHZVZnJWdVJibWhZZzYzaW9YaFE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 21,
     "title": "How to Buy Out A Contract",
     "aired": "2024-03-02",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/i1s1b140calt"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/TBxpeBPE"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/mudwV5GNvR"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Bbkk1RIa#FJzepFLgjMwXUtdHZYeVUxbvRcS18CKexZwJArsiOPU"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=Q0d0UUt3SXdzeUltcHJJa3V6eVdRUT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZVNuejB2c0MrbDhNSFVWWVgweFo0Q2c9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/o1pv8f9p19gh"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/N1Aojb5L"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/VriUMrNk7u"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/5bVxwQYI#WOOzw1iDdoWtsv41cW10IwdyEwAyd2u5OX7v0a4__KM"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=Q0d0UUt3SXdzeUltcHJJa3V6eVdRUT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZURmdEpuZDJFUEVkR1Ayckg2MjVuUlE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 22,
     "title": "Blue Roses",
     "aired": "2024-03-09",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/6hu8125bfrrb"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/cJ81qZSv"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/WFkiEfFiaF"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/xSMAhKRL#9ABCre0Zvu8Ql4BTHeHikPqloAUjGKZXp4h6mynBDp0"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=VGFRN3FhMTlEYkVpTmVHUGNjeHFPQT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZU1GbWYrbVBwb1JEb213KzRSRGI3cVE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/in5vext2af4m"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/pHZQhLM6"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/5jccgO9Uc2"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/NXFy3IZA#Q4wFYOoghjefIfPyYBrc-1TCEzJkF649R6uL43gRAWM"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=VGFRN3FhMTlEYkVpTmVHUGNjeHFPQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZWdwKy8rQmcxbFZESkhFdDFqQVhSRVE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 23,
     "title": "Balsam and Woodsorrel",
     "aired": "2024-03-16",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/gtw01e2oico6"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/YaowDLVa"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/k0QFXeJHlw"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/YacwXaDK#USUMbqs0abbH3bNiHmBCTk0zg-GaYLvbeECXf6lmoYk"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=TnlEaEFCRUFuVUw2VE1KWXZjYmRGQT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZUQ1eUNZSkp3bi9KOC9XV21BZVpKMlE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/r1qp1wblqlhg"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/4KHUoDYm"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/H69an8iZ1I"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/QedCUKCA#XA-k4VLZgRuYGN_Nj__EKjz8aLH5DCMPbGnlw-Bwa3Y"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=TnlEaEFCRUFuVUw2VE1KWXZjYmRGQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZW4rVDd2SVduQlo3Z0NXdWluME1WZ1E9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 24,
     "title": "Jinshi and Maomao",
     "aired": "2024-03-23",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/h3uont8bvud3"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/yiCrzRke"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/6JQWHayc0m"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/gf8XFQJK#WrUyJP8D8u6CQXX-2rdFYtqL0WYa5W9ZUf1VYwDFvqc"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=WjZqODNHZVRmTnNWNmJLUDVmbkdHUT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZUNOeFNQTXNVcHZzNkhUcGU0MkdsbUE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/rlokx6fsar86"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/TC4xSDqs"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/d6bwRiKuAA"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/9KMTDa5b#0hyvgxA5qkRsPb9m1qxyP2EQzI8D-bFf47dmqdhNXdE"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=WjZqODNHZVRmTnNWNmJLUDVmbkdHUT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZW9nYXNPaTlsREhQNkwyQW9ZWnl4Tmc9PQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
