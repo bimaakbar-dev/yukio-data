@@ -34,7 +34,7 @@ trailer: "P927_ZvgUUg"
 
 draft: false
 addedAt: "2026-10-13"
-updatedAt: "2026-10-13"
+updatedAt: "2026-10-29"
 ---
 
 The manga centers on high school student Ito Hazui. During her spring break at the end of her first year of high school, Ito's mother remarries, and Ito moves to live with her new family, becoming Ito Narita. Upon arriving at her new house, Ito is shocked to learn she now has four younger step-brothers. Ito tries her hardest to get along with all of the new members of her family, but the eldest brother Gen is a bit cold to her. However, under his aloof facade, he occasionally shows his kindness.
