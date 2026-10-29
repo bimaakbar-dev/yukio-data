@@ -3,36 +3,354 @@
     "number": 7,
     "title": "Key",
     "aired": "2012-11-16",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=u7Vc6Ot0G8j6"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!yhU03CTa!tKd_PZdxSlWaZrMYIiNjuzuHkRHFl7YRKhZo8wwAc3U"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=WmFJZE44eWl4TzA0MkJ2YWMydGRmd2x5R3diN3lMaWhTOXZ5UWdBcXJHTnhwekF1cll4Um94V2RpN0tDMmVxZw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!q00RRI4S!Nb5iFd8CIF6Jm61Tu11lY1rS5S06BnagmlYRKUw8e9w"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=eG5IVFpMYnc3QTg2U0lIWURLenFGZz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=ZytJK1Q2K2txNWxtb2VHelpSWmNJNWtEVkNRVjRyWThzRm5vb2hnYW04T1VvbWMyYWhiRExTZ2Q1Rk9pQkdmdg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-w0pvael7qw71.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!3gsV0CaC!ygwThk5YmkEl1FFUEkNrFyre9P3K558pd8CvaHGLlE8"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=R1hsTVJxYVJNbDFVcjc4QjVEZXdFcHJZK2tGSGZ3UlBBb3RzblVlV1dsaWpXcU5hcVdaeGU1allRbktoYnRSaw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Kindling",
     "aired": "2012-11-23",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=qQy5G8JO3N1m"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!6hUCnIiT!zPAPnbJqaYwBMW-Sa2FYX_RNC5goocMAU7PhfBZ1WEM"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dWZ5Tm40UUtjZlY3MzVtbGxGaUZqcFJTcDBGOGpEcGsyYy9wcGdicS9Id3Byd0VPTXFJUFZoajJTZGN5YytVOA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!zk9XCKxL!Jfaej1_l0TQAH9mGZ1HyRoFUjYCDSrqULBv7J7UOpOE"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=bnNMT2ZPMysxRWFUdVRkQUI3eFpWUT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dUhxYlJDd25wM2JoWlRZcnIzejlwYVQ0bUhQYzljQUdCSWt3TFppU1JCZkt4eUFHS09XSjN0VjYzcUd1bnoyeA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-v5zidrbs0beu.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!Kx8TXSYJ!cS_xoN9_TDJMaocxD7FsYvOcVGpgZHjpgP7vi6dWheU"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=OEg3cGxtQWxhSTVuY09vOU1MWlVPVkpRT1ZGbmRObDArMiswMTlNVXZTLzhCTjlMMG5TZzRsTHNXcUxvSEFuRw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Knell",
     "aired": "2012-11-30",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=Wo3enyLPrxds"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!jxM2iILb!ooQXqxQLbmpqfTG155FfyEeXK8EqeqAog1hSGyO3fBs"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=NmpTZVpjZDRaUTR2YktvTEhiZmJxb3Nna254aVAzaXZvRUgraDdvKzJIdTBhYXNUOGZCTFFCYkhPaUwra3NlVg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!r0tVgYZL!gG5Kys1G7PIaQP3HajUO_90XwgighvVT7yT4CzQE-OE"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=VWJFbFUxMEI0dkxTTUV4dXkwMWJIUT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=emg5M2VuZHB0dXo5Z20zdG5jSW9yUkcrN1NSdUpLbEV3b2FkT2d2ZTlxMmtGR0UySXF4ZzlJQmFZd1I3bFVFcQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-pekkcmjq88wj.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!GxtVXCrY!L2JP1zWKgrucmgD0YwQOpuDVOqRZ_hffhD2z4aCR8Ao"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=c2RYTENwUjc1U0xDWWpZMkd2NWQ3M2tBZEFnSzR6YnpNMjk4YnhJZEVWSUllMVNtNzM1ZVUxckxIQ05zQlhqUA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Kaleidoscope",
     "aired": "2012-12-07",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=FB3bJ86K7pE2"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ahdk1IJT!TZ4ZAm9sooBdXFAUctAQ_-_tnq0sc4o6WcZN7UvKZjo"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dFNrZExzVlRQbkYrTUVremFHZStOWVZ1bjBqNjM2RUZJU1ByUFRJeTVGeEllbGxnNmt2MmxEU1BNZnRUOVp0NQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ms9zWKhS!uolIFfx02L1HLoks4bq2wKFTVKKUIYZJAYGZy0gQtds"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=aVJYUGc2WHlvOGNkdXYxRUg0RVBjZz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=VHBCYTdPY3Jqckk3TWY2TmFxU3Uyd29EdlpxVmpocy9vOGlZWHR3ekwwRDNZZCs3UHhPSzNweU5YYmxKQzVwMA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-edowy93oqq4m.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!PhtxVQAR!K6NH_x6ItwiYmSJtoLXR7Gp8flKEUne-H3WeF3XPCUc"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=eEhVeWNSWUNRQ3JMK3Z2VTZFcUszaUhFaGpOYkdrNWs3WThWZ29iNXN1VFVsbFZGaEtPU1QxSEs5NSs5cFFkRQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Killer",
     "aired": "2012-12-14",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=Xp33S0XE0506"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!mkUgGIrZ!znKTgL_UXgOQJwXNFjqEFA0cEJrzqFJLjPNdJz9b4Fs"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=YW0zV2tGVkx4RFJJL0FtNkJZS2EyUnRSWjhCSC9HRUMzb0ZaM1hvZmF0TFVLaUEzTlRRV1UxYUhGMnZNdUMxUA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!O58DgQzY!VgR407KppLZDL6Eunm5yTXhH2WOO-jT9urwK9S2bFVo"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ZWVuTnJHVVNxWEtXVWV3VURkbTV2QT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=RzREYmplK0dzL3BCYkszaE9LTWx2QmhZVHlFczBkcWlwUzhiZ3d5ZFVtd2Z5ZkswRmZ1elRINUpqMlh4dk1qNQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-op539fq9kxlg.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!SsshBKIK!XTug2Bl9IC96FPNz5T8TTGilavw5t7XbTdD-JelfSBg"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=QjNTd2taaWwxNVZSeFpaenVianFsNDRZcWRhWXA4VW1WWTJZY2txNlJ1TnE0U2dORGJMUUY4d2ZQZjVEanZkVw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Adolf K. Weismann",
     "aired": "2012-12-21",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=mkphywy30pDN"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!v5VwnCRC!f_mO3zaKGvRzEJFZxanOT_7jxU2YYPKdxqnSvzeWp4Q"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=VWF2ZHVCTGxud1lHbXQ2Y0VNdy9GNkUwN0RONks3M0NLdHlIb09WSjFGMis5QldDL0tvZ0xWVW5jcFEzL3hqZQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!WlsXBYiS!Btln0oDTcP-CcGJ-tKQYvj5TmTF7oXXsBN5A9Vdzi10"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=RmRjVlliczh5clh0N1JqR2VoVTRlZz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=UE9ab2tPcDZDYWd0b2xMR2xVSURLcmNhbFh5OG1SVVduVlJHYnlUMEd3NmlPa1pHOWdKeXFIMmNyTnp3REU0UQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-n6nda7czzjqi.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!rstjSAJL!8QsUlOQwJBTUt6HENBDSwAvGh-dwvq9HzEgjQcsneSY"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TlNGSGE5ak1ZWUwyblVEa2JnM3pDbW1tZzBsRHVGMkt4NDNjUS9sMmJra3hVK2liS2NwK0o1VFJsQUJzRTNNZQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
