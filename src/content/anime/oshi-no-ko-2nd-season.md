@@ -8,14 +8,13 @@ kitsuId: "47659"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: summer
 year: 2024
 episodes: 13
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2024-07-03"
@@ -41,6 +40,8 @@ trailer: "QMuajQlx64c"
 draft: false
 ---
 
-Aqua’s desire for revenge takes center stage as he navigates the dark underbelly of the entertainment world alongside his twin sister, Ruby. While Ruby follows in their slain mother’s footsteps to become an idol, Aqua joins a famous theater troupe in hopes of uncovering clues to the identity of his father — the man who arranged their mother’s untimely death, and the man who once starred in the same troupe Aqua hopes to infiltrate.
+Aqua dan Ruby, dua bersaudara kembar, tengah menavigasi dunia hiburan yang penuh intrik. Ruby mengikuti jejak ibunya yang telah meninggal dengan menjadi seorang idola, sementara Aqua bergabung dengan sebuah grup teater terkenal. 
 
-(Source: HIDIVE)
+Dalam perjalanannya, Aqua berharap dapat mengungkap kebenaran tentang masa lalu keluarganya, terutama tentang ayahnya yang belum diketahui identitasnya. Aqua memiliki dorongan kuat untuk memahami apa yang terjadi di masa lalu, terutama karena kematian ibunya yang tragis.
+
+Dengan latar belakang yang kompleks dan penuh misteri, Aqua dan Ruby harus menghadapi berbagai tantangan dalam dunia hiburan yang keras. Mereka berdua berusaha untuk mencapai tujuan masing-masing, sambil menghadapi realita yang tidak selalu mudah untuk dihadapi.
