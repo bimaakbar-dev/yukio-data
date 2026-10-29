@@ -3,36 +3,234 @@
     "number": 19,
     "title": "Akuu no Shouki Vanilla Ice Sono 2",
     "aired": "2015-05-16",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!SzoGnIQI!f6trgSxzGRkPwtigG54HihWJW1e55ATPLUX2rCmI3iw"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!235yyaKC!jMxqMtIaR-7EbvbEbknOvIthdYMYDpAE8bhC_NHVZLg"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLcEduTDFqMXZVMjlCMzMyR2liNkVXcz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!2i5SwSjB!3sWsmgvhYsdMQjklV7t1d1Yo_Uz6bq7M58ZnIYeFsPw"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 20,
     "title": "Akuu no Shouki Vanilla Ice Sono 3",
     "aired": "2015-05-23",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!Gj42wYDQ!jXgC6qst1EvToNIA8RhXLm1AozVliHCH2khMaqOAnyg"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!DixEjAjI!OvNtrm_5qOrYfqRrk0-d6orXRI_rPncQw6ddBRqLXm8"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLcjhmTTRaZzNBaFZkUzJ1Q05hU2FTQT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!H7gSXAgL!7UcjaDqlvjelkvsRXByKnt3LOJX3t2E7SsMUqcNX4KU"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 21,
     "title": "Dio no Sekai Sono 1",
     "aired": "2015-05-30",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!iuoEQIrb!5Cv5W_ol-3NSM3cny4zMQFFjUUeGuh5qziApkLYIAJ8"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!63oEUajD!_aTTtrneCxSNnoMU-3ofkATFHVW0usHr2HdPeMKkDEg"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLa0V6Z2M4OEVVZmYvZFh0Wm53bFl6VT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!zvggDChA!TDtY3LszlnHZAX8qZ-QAVtdtA1hXMo-OcWSgzfOQcak"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 22,
     "title": "Dio no Sekai Sono 2",
     "aired": "2015-06-06",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!WrgCES5L!7G4q_E8Li0ijNqG7dyqvD0Y6x6rplGI0lJ5qbtDpj-o"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!Dq5y3KTI!t4xWBoQFoYvn-kbJ9Ax7oZU-oc6LnodCSkE4qepHdwM"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLZ3RjYUlBaXRnYnZyTS9VNHU1N1dTdz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!fyhSEKKB!X0C73ZBBeRR3ape7GOtat2l20DKEJpMoPqXdJ5WBLZg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 23,
     "title": "Dio no Sekai Sono 3",
     "aired": "2015-06-13",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!OuoGWSAa!jN8kI8KP0m5hxU_9OIu4IZPDlJ0w44DSyd8zmu5rTlE"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!O3pUXQia!zAl3f2Dfr6NnA2UJFHnw3HzrHBcaK53sBwWVaAck7PE"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLcVJuWW9xV3FJQkhrWHpVNUQwNDVoRT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!yuhWUKYR!7pogd6eeRXFTzcUs_JHcaaT_44tZHUhBHHpty4vu9fk"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 24,
     "title": "Harukanaru Tabiji Saraba Tomo Yo",
     "aired": "2015-06-20",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!XnxQSYKa!I44nrV0O9dHmr6W1yJV1nwt6HC3t4q1h75bshAeTiGI"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ejg0FS5b!bFW_KkKHsGfBFqR-J26a2jzSXmhsLQ7AXwKE0WuEJfI"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLdnVZVVdFS1lBSEtiVFZ4QVNnTWNWST0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!zngAkAbS!y39KHsLu2htf5oyZp8-6YieTXIknY9l_BSR0FMkxBCE"
+          }
+        ]
+      }
+    ]
   }
 ]
