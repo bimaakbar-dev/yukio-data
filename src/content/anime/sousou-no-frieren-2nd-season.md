@@ -14,7 +14,7 @@ season: winter
 year: 2026
 episodes: 10
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2026-01-16"
@@ -39,8 +39,8 @@ trailer: "RH-FcW94z00"
 draft: false
 ---
 
-Following the First-Class Mage Exam, the trio—elven mage Frieren, warrior Stark, and first-class mage Fern—gains access to the dangerous Northern Plateau. As the party presses onward toward Aureole, formidable adversaries force Stark to confront his insecurities, solidifying his resolve and his role as the party's frontliner. Meanwhile, Fern continues to cherish the gifts she has been blessed with throughout her life, each a reminder of those she holds dear.
+Setelah melewati Ujian Penyihir Kelas Utama, Frieren, seorang penyihir elf, bersama dengan rekan-rekannya, Stark sang prajurit dan Fern sang penyihir kelas utama, akhirnya mendapatkan akses ke dataran tinggi utara yang penuh bahaya. Mereka melanjutkan perjalanan menuju Aureole, tetapi dihadapkan pada tantangan yang memaksa Stark untuk menghadapi ketakutannya dan memperkuat tekadnya sebagai pelindung di garis depan.
 
-Frieren—still honoring her vow to understand humanity—revisits memories of her journey with the Hero's party and her fleeting encounter with a legendary figure. As she reflects on the passage of time, the elven mage quietly questions whether she has truly changed, yet in the small, almost subtle choices that she makes, there are signs that she might have become more human than she realizes.
+Sementara itu, Fern terus menyimpan kenangan indah dari orang-orang yang ia cintai, yang menjadi sumber kekuatan baginya. Di sisi lain, Frieren masih berusaha memahami manusia, sesuai dengan janjinya. Ia sering mengenang kembali perjalanannya bersama pahlawan dan pertemuannya dengan seorang legenda. Dalam perjalanannya, Frieren mulai mempertanyakan apakah ia telah berubah, tetapi tindakannya yang kecil dan halus menunjukkan bahwa ia mungkin telah menjadi lebih manusiawi dari yang ia sadari.
 
-(Source: MAL Rewrite)
+Dalam perjalanan ini, ketiga sahabat tersebut akan menghadapi berbagai tantangan yang akan menguji kekuatan dan persahabatan mereka. Mereka harus bekerja sama dan saling mendukung untuk mencapai tujuan mereka dan mengatasi rintangan yang ada di depan mereka.
