@@ -3,33 +3,303 @@
     "number": 7,
     "title": "Overheat",
     "aired": "2019-11-22",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=eix1f8hce3Hy"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=NWtFNDNJaDlwMjltUDhYbkdLUXhIZz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=RjJDWnV2V3dFTzRpQ2NjZjJHMmNRYnJqQitNSmlFRGRLS3U3Rm1zWGZ0RDFLelFUam1PY3ZueWdpaWtDV0ZqZQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=eWlHUzZJTTV3d1RBck9WcWYwWDcxUT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=cVQzdStGU0JWd3JUVDdPRndRMEhFaXZIcmpReU14bTl1bFlrRjIxYXpwU1VRS0VyNWZwTm84akk0WFc2RUZaeg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-cjchlyqogod5.html"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=UEdCb3BYUjl4RFlQaFZRejhvZDBQa1hkM29GcFR0VTQ1aFVzVTRPRW9CaUNOejBDUmE2V1pVNWVzZDh4VllNcw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Will",
     "aired": "2019-11-29",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=7v6q5rvS3A38"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=QktMbjNqYlRpeXhFOFVIc3NieVBGQT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=elVtemVmQVN4aG5UMEI2ZndWbUtoOUZzZGNlVVZhNS9xYkhvUHhEOFExRUZHZW5CclRHcUl4NTNCMmtNMkIrYg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=SGd1cFVldHFZb0hXQjNHZlR1UXJKUT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MmQ5b0JGcll5dnlLdGJvSGVGODV4azBnOWJqT2J6c3VSbks2UHJna2Y2MDRLQ3c2KzE4NWdUZVBEZG0zODNldQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-egrpwvjgr2sv.html"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=VmxhNFU4cGxzY2ZNMzIyL3ROUUhrcGZyS25kVDdQNFMvU0pWZ2lRZ3NiVXg5czloNEU4RTdGVkg3YWFiWFJCVQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Episode 9",
     "aired": "2019-12-06",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=EHPkokI5yW0H"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=R1BvS1ZpVEZWa1orTFlsek94TG9WUT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MWk3VGd3MjlsOURrZUxPZkRKeVdEMFkyRHQvbU9JSWw5TlFIcVIrdjNjb2dIU1ZrR1BhRjE0VnIyVHZwWTNtdA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=UkpnYTdTUlZ6QVI5SWNvMW1OWDFUQT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=a2tkNTVyR1BJUmVqUHFxNXRjdzc4Y0NpbGZxQ1dJOER2Tk9XaEpDRDBWUTVzQld3bzRnK1V3QTRYaGhuZFFHMQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-1gtbb0y3xshp.html"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bTRjR0ZqUjF1VzBKRjQ5UmpRYy9TSjFpWFlsejE0K0ZUN2hua3RBSjE4aWpwdmJXSjZCZ2MxUU9jTnNmcC9GeQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Episode 10",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=2K6Qakj2B70V"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=RVU5ZmhPRTd1UjB4LzJzS0dGZ29WZz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=RXc0aHFld0Q3U1I1YnJ1Vm9uSCtHRjNXRmdYOUM4ZXU3UW4vQlBVNmRrWWs0Zm95MC9lcGpJRjJkem1lbmVWQw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=c1RDd1N6ZUZNWk1BVm4zRjBELzJsUT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=K1pTMHJ3b0I3eVVmSEQ4QnVZanIzUS9PR2dSSzUxdEg0ZjEwNlQyL3ZvaWk0V0FzbGZybU5EM2Y5Y3FVS3kvZA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-5a75e3lp7hpn.html"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bFQwL1pHWWhDUXJ6MjZtVUc5NkVnRGlqL0hMOGczbmVqN3p3K0J0NWpIZHloSG5NdWJIeXV0RVJtSCtNblFPTg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Episode 11",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=IdV8iys6upvg"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=Z1U2NGd3N2VrWENLakpmTG9MSDJVZz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=QVBNNzY0Snl0WktkQkliN0lQUHdienp4NjlXRXBVbk00ZDRWckMveW1jYWNEMlc3bXArUERyaTBMaXlyNm5VRw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=NWQ3T1ZJdEpGb3pJeEM3ckRTaDJsUT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=aG4rWjFZNFppamNUWFlodkg0WWdEbCtMOW00OVJWbWV2WmFKRVZNWThyZzlzaFBQWU03RC9KZjRYcUZMYncyTw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-bwmg1efcuv7m.html"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MTJKVU5kNHcxSi8yeklRLzRTTzhQUDluQkVJa0ZVSE1uZGU1dmZQV3V6aDRaRlpsNHR6VHduUmFSZ0ZvTzVqTA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Episode 12",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=L2ha5c7pcAlV"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=M0JURDBhZXV3S0lYeS9IUWZ5Z3JFZz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=RjU4U2hNa1BGM3VZTlhOK25wZCt1N1Y0TUJta1ZRdVpkbUJrQ2RCV0ZSVVUzTWc5dTc4cU5wZEJzRXZCbURHaw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=Rm5mRDlxTlhpZUJTTWl3VnNweG93Zz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TGtYaDlBNHhBWnRjaXIrSmJrajdkMUxZNHdIS2xaUEJJRkpVbG8vbk92cTUzZWlhdlBEOFpsMEt1R1FnaFg0ZQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-v3wl7wbpskcf.html"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TW92dStFZzJCbjA1VzBwcDgxRXBTUDhpSHd4M2kxZlYyMXZxZFhvNjVVWmZoTDVMdVkwaGpjQkdJUjEwZW8wTg=="
+          }
+        ]
+      }
+    ]
   }
 ]
