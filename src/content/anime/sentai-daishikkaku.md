@@ -14,6 +14,7 @@ season: spring
 year: 2024
 episodes: 12
 duration: 24
+rating: PG-13
 
 aired:
   from: "2024-04-07"
@@ -21,6 +22,7 @@ aired:
 
 stats:
   score: 7.2
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -38,10 +40,8 @@ trailer: "CUiUxP1p7hI"
 draft: false
 ---
 
-When the Monster Army invaded Earth thirteen years ago, the Divine Dragon Rangers rose up to stop them! With the war raging on, these great heroes are mankind’s last hope!
+Dunia sedang dalam bahaya ketika pasukan monster menyerang Bumi tiga belas tahun yang lalu. Namun, muncul pahlawan yang disebut Divine Dragon Rangers untuk menghentikan invasi tersebut. Mereka dianggap sebagai harapan terakhir umat manusia dalam melawan kejahatan.
 
-...or are they?
+Namun, ada kebenaran yang tidak diketahui banyak orang. Pasukan monster sebenarnya sudah dikalahkan dalam waktu satu tahun, dan sekarang mereka dipaksa untuk menciptakan monster baru setiap minggu. Monster-monster ini kemudian dihancurkan oleh Divine Dragon Rangers di depan penggemar mereka yang sangat antusias. 
 
-In truth, the invaders were subjugated within a year, forced to continue to crank out a monster a week for the Rangers to crush in front of their adoring fans! But one monster has had enough. Something has to change! He’ll rebel against the might of the Dragon Rangers and destroy them all...from the inside!
-
-(Source: Kodansha USA)
+Tapi, salah satu monster mulai merasa bahwa sudah waktunya untuk melakukan perubahan. Ia memutuskan untuk melawan Divine Dragon Rangers dari dalam dan menghancurkan mereka semua. Pertarungan antara monster pemberontak dan Divine Dragon Rangers pun dimulai.
