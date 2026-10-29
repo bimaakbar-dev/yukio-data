@@ -3,36 +3,234 @@
     "number": 1,
     "title": "Oath",
     "aired": "2018-10-07",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/qGX2dkKvNXdk5"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/eRGMWe24QaAg8"
+          },
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=QlZUNmJTUDRmdUxXVmNjOVI1U09GSjVQZE9LK01wbGx5bFVoNUZOQkprOD0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/XGryLaxPDBrvZ"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "The Girl Called Jeanne",
     "aired": "2018-10-14",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/rGNVaMdMqQDMz"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/x3GYaQwxDpXK3"
+          },
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=QlZUNmJTUDRmdUxXVmNjOVI1U09GS0wrUnBZb3FmWEUvanY3V1RnR1Braz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/NjeZDPG346qwk"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "To the Scheming Palace",
     "aired": "2018-10-21",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/5aKD3PY6QgMBv"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/XBex2k2xe5BxB"
+          },
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=QlZUNmJTUDRmdUxXVmNjOVI1U09GSTR5aVhYdGgzSm5VeFEwbnRTY1Nndz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/yRdPqY38wzqWA"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Who Was the Promise For",
     "aired": "2018-10-28",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/pWdr442Wrdk3Y"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/ZQZVyyVpKRZnN"
+          },
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=QlZUNmJTUDRmdUxXVmNjOVI1U09GSDFpRkVQSFgzZXo4emg0RktaTG9oWT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/DKeLPPx2vNRvz"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Proof of Purity",
     "aired": "2018-11-04",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/5awn68LVx2rNp"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/L5qyZ2qy6ZX53"
+          },
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=QlZUNmJTUDRmdUxXVmNjOVI1U09GSVJBRnNRL0VFWjVTZk8rLzNtK0V4cz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/4a3eVLLYzWmqW"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Ashes to Ashes",
     "aired": "2018-11-11",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/mX3W8dM4ayX5a"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/4aAQG2kLagKA5"
+          },
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=QlZUNmJTUDRmdUxXVmNjOVI1U09GSkg4bnVYa3FjRzk1VVU2bHhwb3ZKUT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/xKq5838ZykrwV"
+          }
+        ]
+      }
+    ]
   }
 ]
