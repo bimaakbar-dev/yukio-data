@@ -3,36 +3,234 @@
     "number": 13,
     "title": "Hol Horse to Boingo Sono 2",
     "aired": "2015-04-04",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!z34ECCZR!D3P8y-kKI1LCa4Vam88MygXKxtzhCa80uxIBs2iWV3s"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!nqw22CaY!YBEmrhkLhODY3jcdErxHfYz5GhX0ztHftFkdjRTrOaQ"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLaEQrNzJ2N0tYeHFTR0xPK0V3ek4rYz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!PmwWGATK!zm6Edfb1jNbPWI37P_JtjGqwYfbjWMGQhhaTiYRsaZI"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 14,
     "title": "Jigoku no Monban Pet Shop Sono 1",
     "aired": "2015-04-11",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ezxQRSSJ!R7aklYHCr45qA8uicmb3OpHJciwWPh9EN3vweSO9Fu8"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!OugklYzD!UQOxuRE-IZp261y0T4mE-uYG6j5KuhcV8-OWo51Rvrk"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLbFRybEFQeVpSU3JsZWRlOTk2N3ZpVT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!rqpyEIDZ!YMgwCzL72x1qsbHtvq5b5528ZsVDdKAyevInWpibRnQ"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 15,
     "title": "Jigoku no Monban Pet Shop Sono 2",
     "aired": "2015-04-18",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!P3xQzYKR!5F45njxH1vPBdoMh8u7UvvPGiK_8bKREKaTysbTkDjs"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!WywimYKY!X0BqE25lsfGaLoawNAly58JOd-eJWMamEvVm6ZPuiw4"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLbXVUSmw5eHBQZWVCNlhGZFNxMXI5ST0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!jmpSFACJ!RXfWl71wZahpIFgfNTNNYQORFag3bWq7qkx6lgiYP3k"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 16,
     "title": "D'Arby the Player Sono 1",
     "aired": "2015-04-25",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!quoiHAqJ!-vOyBoQfO_oUe4h8hLQuMbyLCH0f7Np8QupwZfEcbZo"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!Ou5g2aZI!wL6Thk0wf4H5Zy1D00Etf2BO2vcmTcXV0hrgfrlI2zc"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLbVB6RHRFTU5rMkQ2ZmdtOG4vZ1gvRT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!mn4wlIjY!VSuLxbU_KFuvNJRpnAq8slf2bKEQ-pWwYVz36l8DEKI"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 17,
     "title": "D'Arby the Player Sono 2",
     "aired": "2015-05-02",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!G3oCBCJS!rUvEZV71YUTUtT68uBYBE11j7wZcwwJgcHICmX7vpfg"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!Ln4GhCiC!nAQj2iB7oGTGsQ7Gr000W4mN8rqWzBMM_9T-xsAqSz8"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLdWtCcEkrc3BQd3BGRUxZRDlvamdBTT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!euhEiaBK!O1n_1ueeQHIiMQBFHqrzcgS3prhvURQ0I8xnDzu8wqk"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 18,
     "title": "Akuu no Shouki Vanilla Ice Sono 1",
     "aired": "2015-05-09",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!u6hi1CbJ!Y6Km_twQNmRxMR0z0dWtX4JsuQ8ra_7NS8FlSFKaRwU"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!i2wQGYBQ!1e6M5QqRDiEJOn025lb2ILKZ0nkRWhKsd9jAR3e7z7k"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=K1hRWFdrc3dmWGFKOHpsTTIveDRLdlhaTkxKdkpiTTlqR1hWZ3c4MzJ2az0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!Hi5UCCgZ!7VxOtHh7l68Y9CjPpybqS2BPqlj9Ilx_z3_JSW75Q6M"
+          }
+        ]
+      }
+    ]
   }
 ]
