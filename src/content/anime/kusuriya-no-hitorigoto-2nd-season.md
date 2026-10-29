@@ -14,7 +14,7 @@ season: winter
 year: 2025
 episodes: 24
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2025-01-10"
@@ -39,8 +39,8 @@ trailer: "3BYutu3Pf_0"
 draft: false
 ---
 
-Using her wit and vast knowledge of medicines and poisons alike, Maomao played a pivotal role in solving a series of mysteries and conspiracies that plagued the imperial court. Having recently come to terms with the secrets of her parents, she returns to fulfill her normal duties on behalf of the emperor's highest-ranking consorts. Maomao also works alongside the eunuch Jinshi to better the consorts' many ladies-in-waiting, including helping them learn to read.
+Maomao, seorang ahli obat-obatan yang cerdas, telah memainkan peran penting dalam memecahkan berbagai misteri dan konspirasi di istana kekaisaran. Setelah menemukan jawaban atas rahasia keluarganya, Maomao kembali ke tugasnya sebagai pengawal kesehatan para selir kekaisaran. Ia bekerja sama dengan Jinshi, seorang eunuch, untuk meningkatkan kesejahteraan para dayang istana, termasuk mengajari mereka membaca.
 
-However, with the arrival of a merchant caravan comes a new wave of intrigue. A pattern of strange coincidences involving the visitors and their wares unsettles Maomao, driving her to investigate the puzzling circumstances behind the convoy. As dangers from both outside and within threaten the balance between the imperial concubines, Maomao continues to utilize her cunning and medical expertise to keep the women safe from harm.
+Namun, kedatangan kafilah pedagang membawa gelombang intrik baru. Maomao merasakan adanya pola kejadian aneh yang melibatkan para pengunjung dan barang-barang mereka, sehingga ia memutuskan untuk menyelidiki kejanggalan tersebut. Dengan kemampuan dan pengetahuannya tentang obat-obatan, Maomao berusaha menjaga keselamatan para selir kekaisaran dari berbagai bahaya.
 
-(Source: MAL Rewrite)
+Dalam menghadapi ancaman dari luar dan dalam, Maomao harus menggunakan kecerdasan dan keahliannya untuk memecahkan misteri dan menjaga keseimbangan di antara para selir kekaisaran. Ia harus tetap waspada dan siap menghadapi tantangan baru yang mengancam keselamatan para wanita di istana.
