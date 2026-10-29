@@ -41,6 +41,8 @@ trailer: "T0MqIIIC5yQ"
 draft: false
 ---
 
-Kenichi Hamada is just a regular, middle-aged man working as an illustrator in Japan. One day, he is transported to another world and wakes to find himself in the middle of a dangerous forest filled with ravenous monsters. He quickly discovers a massive online shopping site that can deliver him exactly what he needs. Join Kenichi on his search for relaxation in a new world!
+Kenichi Hamada, seorang pria paruh baya yang bekerja sebagai ilustrator di Jepang, hidupnya berubah secara drastis ketika ia tiba-tiba dibawa ke dunia lain. Ia terbangun di tengah hutan yang penuh dengan monster buas, sebuah situasi yang jauh dari kehidupan nyamannya sebelumnya.
 
-(Source: Crunchyroll)
+Dalam upaya untuk bertahan hidup dan mencari ketenangan di dunia baru ini, Kenichi menemukan sebuah situs belanja online yang luar biasa. Situs ini dapat mengantarkan apa pun yang ia butuhkan, memberinya harapan untuk menghadapi tantangan di dunia yang tidak familiar baginya.
+
+Dengan bantuan situs belanja online ini, Kenichi memulai petualangannya untuk mencari relaksasi dan kehidupan yang tenang di dunia baru. Bagaimana ia akan menghadapi berbagai rintangan dan menemukan kebahagiaan di tempat yang asing ini?
