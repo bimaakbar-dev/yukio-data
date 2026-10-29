@@ -3,36 +3,354 @@
     "number": 1,
     "title": "Cruelty",
     "aired": "2019-04-06",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=vy04t30w7S2e"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!Bg5xRCiC!PXw7JBKfyNcIZc4s6bQpI3fOCbabFxDQb-8MyxI0gU8"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=eS9aKzJjS3pvSU5vdkJzaE5NcG9IQVduT0d4UjQ0SWNJb2MzdVdXdmhPeDRHUktEbUxjWUR6SkhuckpveWxkTA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!V9RWBCbC!ownjJbe6NgTiVAPE5EKXrshWj9necjMkMB_liMyAwVs"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ZGpTU29kYWFOd1psVjlCcUJBYnhMdz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bEd4TFlRaUF0dUhFcmI5ZjVTWUtWL05zYU1od1gxQ05jdm9wQndVVjBnU0ppc2dlWEQwN3VFbjVyTExNUkJ0Tw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-p23gikyo7ugb.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!N4RE2CKD!IcDM8iITvzTBRWZYbwZ2VOewSXccHj0vzgxFNLRAWnU"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=emhSZGZUUzVnWG5IeWJaMWNuQ2FJejFTbVlqTmM3OUZzc0hQK2Z0QTliSGt3OGk3eGF3Y3JxZnFXUy95QkRZNQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Trainer Sakonji Urokodaki",
     "aired": "2019-04-13",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=P0H8aIEal5w8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!Y4oz3YKR!sV9lGnEXmliBk4DHerW5nkw9wAmS5XHe67yFpuJtBjc"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=SDM2SEpSb0Z6TXhORFcvb2UwcUgvbHY5ZllVWGZzUGpRUjBadkhpT0pjY21uNDdsZ3MraUZaMG4wWDlCSS9hUA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ZtYWXQgY!PckN8x_U0MUbboCFsstUairofbkNwDb-3kimnqW8en0"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=MXdtek1iQUxwL21iVnRQWENVSWpsUT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Ly80Tk1yb1ZTV1ZNa2JIdEhJdnlCc3JsVWVLbmVJTmwvd3Y1N2ExQk9yQUM5blIzR1hlT0NHQ25VVnRLWkswQw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-q7rr8v5m72a7.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!t0RG3CSB!TTveSWHOPhzUdFWWEdOARODBP133lvZFAoMiZBvKnYw"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bUw2NjB6VmhKVkN3aDljTWkyc3YyeXo5RHB6WjlrVnNBaVZSTFhNWU1qTk9FWUkyaTNLUnJDR2EyWDJOaTVsSw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Sabito and Makomo",
     "aired": "2019-04-20",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=wA1dLlI2LNal"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ww4xiQ7J!Mem5TZsD00pBIsBofHZxKJfhuAbLjriBRS1cpnmMmDo"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=RlRCOTl1U2h5MjVYdGI0WUp2MzBPWENmb29XUGxnVUdENTFNSG9VMVZhSTlPZVlyUFhzekVTK0NkekU5MmhOZw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!95JwRAzA!VvvZpofn4qOKg906zpa8kNmx2jmTWcxDFYYy1QMnBzA"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=eGkzRkhuUWxPK29aOFcwTk1iMTBKUT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=c3dpdHRIdHdjL2E5TG9DNFo2YmJJNThUOUoyQlVnUlNENVhwWmprTkJvZkxyLzZpRXVsMzVCZEQvL21Zc0k1ZQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-2lyke4xjn6s4.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ssQUXSRJ!fxwVs__92hPagWlxjw8J5KaHJX-TGKLckR_chA86tcY"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=OFpERUxyNllIWEJaOXAvWHFkbmxpTWtPbXF4OHRLNHVoVVBwM25MVmRqQ3RxakdUS2t2WWpFYmg5RlY1endLbA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Final Selection",
     "aired": "2019-04-27",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=Ah1E340LhFNh"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!MowBkKSC!0Wo9WANAfpGKD0GcFL_dnc2K-2k9RidAQuhuGusRxm0"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=L0kwcVVTT2ZqTkdYYVFOR1RjNnZSd0N5OEprcFRUZGpiSWd3dXpDTG1GOHJrc0RWQXhOam5CdTFoQ0RWVVNkSA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ooAE1aoQ!UQ1GyvugA_8y8vvXOIKFIanDFdiM_QVv_bpzo79o5Kw"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=b2lLaFdOUlJDVWg2a3JpUENubjh6Zz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Q3JZZXBCaGlyNXlaVXNNMXJBMlRqNitZa3hlU2dIdzd3SlZtcUdJRGw1Nnp5cU4vdEh3VXRqN3BqRmM2WnBtag=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-e3mc4ryqy1oq.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ckIGyQbZ!KkMiuvypQcoiKnXpv3gqaZl24Dr_XmKH5wKtQH7m_H8"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=VDVvMVJFcmdkeHRzbTFUMGpQa2w5d1dSOU0yMXoxTzNOZUptSldBVzRqWkNaSTRKNDR0YTFoRnhyUjhOa2ZBMw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "My Own Steel",
     "aired": "2019-05-04",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=5lh7w64alDrf"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!Yo5xxSxL!hSG3ehyalSwMos29DS37YEbIeuyIeGV_7p_9pcAGNfU"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MmgwSC9WR1ZXUER6UXlreGtLc1hLRFBoVVVlNi9aZG9qZFN1bElhZ3pFYkUycUlORlVrU0ZETjhLYjRSdUlnUQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!IxQyDK5Z!gM3xKlf7wSYwGec1EZgrfPHctD9BWBP02v6M8Ci9xmI"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=eDFIWDBENzFkakpIYmRUbVFId2I2QT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=STh0U1FKcU1CVXE1b2gxdDgxb0NKRWFVWjJUVi9yQjhkcjE4elo3d00xQUZ1ZkgwZHVUS1JsWThEOFRtMGRNZg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-2juhf4yrgmi5.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ssYSxYRB!1MnMyhSX-oIIsz3_rfoSyGiGOjLwYgODNFdRgPdtWjA"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=YVRscUVxbDFzUzhwaCtmYzlxZXgwSlM1ekZRaWdENmxkTXBYQUo1dGo5ZWRTVlpBNXlLR1ROMmpXeW95c2lvag=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Swordsman Accompanying a Demon",
     "aired": "2019-05-11",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=K368Ecs8gCEW"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!koo1AKob!1agA0THAm1C2ZCPR9aS_JDhjE0rbdYgS38ZUucWnpYo"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=RU5ENFN3a0ZwOHdKaUNTUlFRd0wxb0lDTG13c3BHUnJnUXQwRFhIcjA1cUd5WjBnTlRreGNSZlRkRitkdGw4eA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!1lQwVABK!xBhZU23cwc6ruA4liODiVIvf1tR5EoMtfzRWRjkO7Lc"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=YWpkNXRWR1lxaHVNTnB3RjNDWGxrdz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TUNxbzVvdHNRUG51aTZkdjdNV0FIdVJ3TjVqTlVQdlRzTWN6VFBHZWc5U3VwdkFXdm1GTitySkhnSmRSaUc5Yg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-1ryidv9sis3w.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!UtBWAQhY!O8HaU3FdZ9Z2sYkdilcKMxNEM7iNV9pXrHV6RKOhuh0"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=cmQ2NzNnajBEWVNvMEh5RVVadTFST005eEJlVzFrVGJ1Qk8xYlRvdklkWUE4elZZMWM4NG91RWpFMk01a2phKw=="
+          }
+        ]
+      }
+    ]
   }
 ]
