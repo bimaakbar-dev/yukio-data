@@ -4,7 +4,7 @@ titleEnglish: "JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt"
 titleNative: ジョジョの奇妙な冒険 スターダストクルセイダース エジプト編
 
 malId: 26055
-kitsuId: "8063"
+kitsuId: "8739"
 
 type: TV
 status: finished
@@ -14,13 +14,15 @@ season: winter
 year: 2015
 episodes: 24
 duration: 24
+rating: R
 
 aired:
   from: "2015-01-11"
   to: "2015-06-20"
 
 stats:
-  score: 8.2
+  score: 8.3
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -34,9 +36,6 @@ studios:
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20799-S1eyqBDlx51E.jpg"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20799-Fc9I1XG4TWtJ.jpg"
 trailer: "kaSio11XVhM"
-
-addedAt: "2026-10-10T07:30:18.089Z"
-updatedAt: "2026-10-10T07:30:18.089Z"
 
 draft: false
 ---
