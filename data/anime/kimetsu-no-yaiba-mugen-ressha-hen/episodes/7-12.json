@@ -3,6 +3,42 @@
     "number": 7,
     "title": "Set Your Heart Ablaze",
     "aired": "2021-11-28",
-    "duration": 26
+    "duration": 26,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=4pTy84noxgHl"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/HldCDDwI#ePAYcwwnUWNYvwKFGTtyjM4ai6mTsLx7QTw4_3geHog"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=TlZJSFdyNVF4alVPajVsNFVzSEo0NHdrQUxla053ODYzNngvaFQva0owST0="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-q6ug5tobshgw.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/m0dwTTxB#LJsd3QBVKdd5-3rad6wqnlDDvV4Nzkwx82weNPONvLU"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=TlZJSFdyNVF4alVPajVsNFVzSEo0NHdrQUxla053ODYzNngvaFQva0owST0="
+          }
+        ]
+      }
+    ]
   }
 ]
