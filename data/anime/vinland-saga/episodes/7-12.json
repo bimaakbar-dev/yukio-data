@@ -3,36 +3,354 @@
     "number": 7,
     "title": "Normanni",
     "aired": "2019-08-19",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=2U2SXoh3YDM2"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!FZ5XAK7C!G0EgBcdVzbobCGL215iVypk7bySRRzkfdKGoc_0CoD0"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=NkNiS0FBNVJicFdzMldoTHl4TDkvcTcvZnZVbzNNbzE2bTNSUEN6K29tL1FLMmRIWDQ0QTJCeXUwWXlzYUpwWA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!1NplVYRB!PXIQVUow1tb4tBf7ymMVChwli0_Tl8oakShLM0AKx-U"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=T3FiRTNmUkZ6eWRYZFhtNlJkaWRLWFJPako0TzY1M2QvMy8wamUwbmprMD0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=alg4UnNEK3l0dmo1ZGJNYjFON0NseTFFZ2sxazV2dWc1aFVITSthTzFVelZoZ09jd2JEeDBNRmtmTmRnVHVMdg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-pfnbaudlh4ti.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!MRwXQKKB!i20y0daDduLAL_pCi_0F3Umd3_8KDOuPaC9JkC1Ob_4"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=cmxRUzQ1Z3lzWHd6M2czMHdnMUVCZGV5eHlGWGZKUkNLNk1ZVHlMcWREbUVyYXJTYkF5SWRsQzBHdGtYWDY4Vg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Beyond the Edge of the Sea",
     "aired": "2019-08-26",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=B8g3vwlJ47OJ"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!wBoxVIba!4H5yZWwnv4Hq4JZRhHgcdDoZBo50GmxOQcE4M03VEgU"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=ZDQ2QVM1L3F0UVNGTEpGcDY4QmVkTkV4ckFvcUU5RzVuRmU5aVlFaTBzd0tFZ1NkSkR0UEJ3aGIzb0NOa2V4MA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!0FwxySha!ga2RkV41_7NNWyYLYXyvRfKBKklpBa8MS9omMEEa1D8"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=dGplc2xlblpyMlJ4T29UUzRDb2gxZjEwdHRnZ1VVVWh3UWZhbEtrYTRlMD0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TDJ5SmZSQkcyZWZkUzh3ejBNZW9aQnZscURNNzBUM2kzSEtFUkR2ZFExS01PVzJmdDVGdnJsUW13WG5mUHBmMQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-ag2aled1blzl.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ZIh1QIwY!fQqfPaeMee28oOKJSj8thEdEo1GToQMlja2FrsvqzL0"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=U3k5R2dvZkw0U3F0dS9JdnpBeElYMUlET0dpMmR5SDVreUFkc09mWi9kOE92d2JHWS82S0xOWStGeUwzNDlSOA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "The Battle of London Bridge",
     "aired": "2019-09-02",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=F8886UCIF4vw"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!Rd4j2CSL!IZ8hrZqJKeHORkISt1tb5jNTtbxLdsonW7DoKWK6spI"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=ZDNzbTY0eGxkQjJVakNaMk5oVnpINzRBeHNobTBzUXJPd01EN2pNRkd4REtLWDdHODJPbjVTMnY1Z3Z2aXFIZA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!BA43lahQ!axyZ3jW0GMXwP442oNg0ZRqAgv-LUuvYZzayJpuwNKY"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=V20yZ00zSHNTY1J5elFqb0lud1VlTExkc1VSYkczMndYT1NubTVjRnlLZz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=VUw5Mlg4MDJQNldKM2oxVm9aeTVBSGE4Nmd3dHQwMlVSbzYxcjhEYWlYMTNhOGFxMys2dDUzRmxna1NkNzZvdg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-g6tlbusggoth.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!FU43QAhT!sQRp5FZAdualUklfHCN-7hAKHzV9b0osVcnWD3DpvIw"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=eXg3cDI2b2Y0bFFNOWZPNVhUUzQ1bEtXNnZ2Qm52dXV6citlbDQ4bzdtSVFWanY4SytuaW9CSzEzOGpaK2VUYw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Ragnarok",
     "aired": "2019-09-16",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=50JQ05KbiX37"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!AZxhBALB!lQ3R2oXxETYmUbPnuzV5yGmGhh3dd-HdIqW-8SOwyLs"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=aVdubWI4aW1aaTkyTXF3TVNMbmFzZ0QxcHRYV2UvQmFLRU5CYmFpMzhuZC92Z2lqTkNoZFVadzFWdWpNMVdXNg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!hFoRzIiB!4kC78PFW4T55gdBftrUOTmqecoirINX8H4ei3FQAbE8"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=UjRNQzlQM0tnc3hMK2xubTJVSkJaOTZUcXo3Y2h0YWoxSjNWS2lQdlZ5WT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=UE1lZTZIcW84MmdKVnJxZGxtTlFMQnFZTVlEck95ZUZLakZDRk9reU5UelZhenY3M1B3cXR2bmJiZVhwZS9TaQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-gvk5a23xqm91.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!oUwVAIyK!jmPTqiujXe5aDvck-Vxfe1EQG5De3tk1Na4dlu1k7Hk"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=NEtVVzdvemVsRHRNRnJUVGNOZnBJNkpPaW1OQkxMYlYyNWxQZmtBVHR6eUN3NmZHd0FzTnRkb3drMXRrQ1JOWg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "A Gamble",
     "aired": "2019-09-23",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=t7613H6EjnGL"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!cFpRxQqL!_H9fgDqfyZYj4WTVQcetwb6iVaC5ona1lJw8kOC0O9A"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=WjB5Z3ZDUEg3dmZPNFd4bFFJejFsWXJkT0tjMGF6U2ZTeWIwVEJHUmczUUFscHRUMHpFWngydXE4dVRFdlBnZA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!4dhVAIrR!-SKo1QPID1GzDGLzgeLd1Cd5NqEqCLPrkuANKgJElGc"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=UjRNQzlQM0tnc3hMK2xubTJVSkJaeWRoSDZpcUs0TU5IWXRzb0MxbElaMD0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=aTh2OHJvN0ZwRjV6STdIa2RLOVlLQ3VZN0ovZkZCTzdXQjUrV0tjVTJzOTJkbmh4Y3J1RVZhVTc3RmFRclpSZA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-4swyqgu4t9lj.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!8cplySaY!t2-Bipky8X_ljZ8rxtWb5mHkeYuLGi9kFT_TVsx2Qk0"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dU5XMXZxT2N0U0p3b3RmbWtpWnFEL2pqNjRReDdHNkw2V2NEVDRpbHdiSVA5TnZ0cXdBNExQdTZaajZhK0xsRA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "The Land on the Far Bank",
     "aired": "2019-09-30",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=OTUx8i7t1RCy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!hF43EApb!wrrKFvSXCUjnO18I7bSpiM6o_E0xBcWUM5gSXSHftcQ"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Q1lDRFJDOHdmMmZZYnlHdE9IaUlhWnV2UVM2NGY3UUJhMlhJMzNmcTNUcVR6aDJ0WW9xRTIxbDBSNVpCK2wxUA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!wAplwSbJ!sU1gXb42n0wV13ZabtLDh5O4hlWsAEpkFyPL2ruzQac"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=UjRNQzlQM0tnc3hMK2xubTJVSkJaMnhiZzZNNi9mSDJ3SUtxV0VkV2xwTT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Y1RJNGY4b3JxUkxEMGp4MEhkZGpVdmowWjljc0Rpb01HM2swZC9CU3BYMldZcXNGdm1zOUFsUnBNYjZENUdFdw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-v00knvukhi0b.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!IQhhxYAZ!lDQjqwUyZfWF9rs8RNciGU5nTidk95dw7IE11RK__ek"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=T3JWWWpsaEhwbldJb0RLUEtPNmF4QnIyTGp2ZlZIaHkvNDlxcXlNblk0M0tXUzR1Q2NQYnNlZHdKNWgwNFNnTw=="
+          }
+        ]
+      }
+    ]
   }
 ]
