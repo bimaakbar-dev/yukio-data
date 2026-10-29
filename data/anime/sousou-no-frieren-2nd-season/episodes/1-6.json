@@ -3,36 +3,406 @@
     "number": 1,
     "title": "Shall We Go, Then?",
     "aired": "2026-01-16",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/nD4bxrhr2w"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/0y8j77dfs5fr"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/j9AzTa7C#FqP67t2ZDCDDJPRQmi9XpRsyKkKWuicmAvqqj0agVTc"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=UUd6Mlc0TXlobnR2QjdobHhvQk5ldz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/KTcjC7Bqiv"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ofll9277svoy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/6wQ1VJCK#cjalftVNLrTFopXt9Vw0wKxN7GWC34Ifzab1m089e4o"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=UUd6Mlc0TXlobnR2QjdobHhvQk5ldz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=MG8xS3UrcXFINnlnTytEejJkdnMxYWhMek4vcXVSLzl3ZG51eURKR2xlRExXNU5GZWYwMjZydzdwVmZJMlQxTGpJdlErV1djV1FwR1ZVbE1zZWdGZ0E9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/6ztllw4DON"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/xsd8agmb7fq8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/7gxzhDqT#htg1-BBNAuGG7zQB1DrfoKDYgc9CuE31W3aLmCLkT7Y"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "The Hero of the South",
     "aired": "2026-01-23",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/wtKGwo5T2B"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/gyhmtfp6qwuk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/zpZHjR5A#cbKN4wec70U-P5khZdubKrjWYu6FY9vYKdNryvO8fHM"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=SFF4aWlDRHAyZXF1a1QwNDY1bWJWdz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/N2erxrIGdK"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ugfv0exc4ahe"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/mgITiJia#D0TgxQdwQcd09ZRZRUu8f6ktRpGgjrKEmz1JmSIEVHs"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=SFF4aWlDRHAyZXF1a1QwNDY1bWJWdz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/1K7DkKV02d"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/gciwauczi1pw"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/3gJG3bxJ#sKeLYnJfI35IRizVyPuECk6Cu36_u_REGQ_NlKQ3Og8"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Somewhere She'd Like",
     "aired": "2026-01-30",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/LiAMhqNF6X"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/24uw5yd37bb4"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/P8ZimLKb#jnG7vgncl1Db6B5cSCVlpjJzJ5BpaCHIijInRhdUR0U"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=OGN6aHZRaFc4UTFkUU1PZHMvVkltZz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/fdt7C9Liz3"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/50k3i2f17zvy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/TtxnGKIB#UloL5NDsRYYAquzB--wExegxYHqyJm_NfV391cRf5pE"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=OGN6aHZRaFc4UTFkUU1PZHMvVkltZz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/IbYeE8qKi4"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/zvtia2mbg5f1"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/m5ZCxbaI#fftt8useGaN_PPKzqkwGXZhI9hOOHguMQvMcVK4KYHI"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Other People's Homes",
     "aired": "2026-02-06",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/tcLOxxg9kA"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/2wcb6mt1yg2p"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/3hA2XSrA#wOPlQ-VvA6mLgU3C7-f0Yy6X2DqKdrJLzYLUdBNbgVE"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=alFYS3NyM1oyVnBWc01BOGdHaE9uZz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/BSAcbsZxfe"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/mmjdl5u5vrcw"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/LohnwK4Q#v5WxavzdiTvxInVbxM9bxZKmy0LObrahh2piYE2kW7Y"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=alFYS3NyM1oyVnBWc01BOGdHaE9uZz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/4fYR3wqUVR"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/opra7c7n069g"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/CtYAnJiC#7U_sup0SoQ_8WUAu3kn4_kJz6pCwxJTdGZNP9tAef3U"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Logistics in the Northern Plateau",
     "aired": "2026-02-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/HiHgploqxZ"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/oxjm1xr9nho6"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/B2JySI6Z#vHHSAxSqfCvgRMIy3fNYdudHVRsINmxeDm1nfjGflEQ"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=b2JMUHUyYTJkNGsxc0pwSTNsbDhBZz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/oxFsljpid8"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/9ys0tahzcm4p"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/QjgWwKYC#XSyn6Www50taK74Nf2iEkBztWdO6Ms85d4Vap1Xz8b8"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=b2JMUHUyYTJkNGsxc0pwSTNsbDhBZz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/xWxoxr8Nnd"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/d4mi1qg20s5r"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/E3IXVJAD#AnEsKq4fbygr44nChIxebMgF8X_0jwfTJi-pKgp7G_M"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "A Demon-Slaying Request",
     "aired": "2026-02-27",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/JPFGKpvT7K"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/wb1mbky39yek"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/X6hhHJ7D#x9paR9PlG1lIVko30KIsFJJmO7VJOy0fNWun3ZBqCLs"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=Z3gyRWErUVVTVkZuem92OEFKVThSZz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/KclZZaxiLq"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/k2p48pjis9bk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/76wFWQzR#g6kAhCxr1vLZan0dZ9yfNJpFnQOwcC5M1j9AvyoCb10"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=Z3gyRWErUVVTVkZuem92OEFKVThSZz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/iGZAAHVVd3"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/vekqq8l8wimy"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/zuwXhbwT#wlzF4G9FiFrdHVtAAnyBb2vQ8eikeHZNDeAI7D5FAv4"
+          }
+        ]
+      }
+    ]
   }
 ]
