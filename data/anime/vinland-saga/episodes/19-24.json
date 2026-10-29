@@ -3,36 +3,354 @@
     "number": 19,
     "title": "United Front",
     "aired": "2019-11-25",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=s3sdY8Px33JJ"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!MZ5l0azK!YpS5s2Y1G9KTjyA3YPHiyeX8-qXdYXsS6iq3vGsbH9Y"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=RWtTRG5aTHMzWEVVbXFhV0FXWHR2bDg3TldsdDJTbmY2bER2d1BTMzNuanFCbVl5bVdWL0dycm9iSzBFTFl6Tw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!xc5nVKYY!_SR3UseLI3kERm1-kpokY8NTXKea-batZvU0CuY4-Us"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=UjRNQzlQM0tnc3hMK2xubTJVSkJaMUtxaWJQaDBJekhMSGFkcGxhRis2MD0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=aE52dU9JeDhtdTRvdVpWSjdxK1RVdm1LL29pQ1pYd0E0S1lFaGpJb1gyWk95QzBvalRuTVo3eDZNWGZzZnBmWg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-tadsyw154l4q.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!VUwVnKgZ!t244jOiPnBXss10ExEAioPHX4SM_T7a2SuDRiPrVRro"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Slc2NjFqOEs5R29ucnE4RFV5cE41eFlTQytsVzF6VnNnQk5EcHJ5SERFY0VML0dNem42cXB2RFRneWU4czFRcA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 20,
     "title": "Crown",
     "aired": "2019-12-02",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=G5TeQr5wfip0"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!hM5VDabI!Tn0-6V-Zh4X2S5LgovAJQDnFbCpc84E5OCvAR79nVzE"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=UDRaYmRReUF5QjVCMXpzSS80OHVqdnozWlkxU2E2UnRLRDVtbGRZWlphTTJTdWwxVGIxU2pVSzYyZStoMVJlSg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!8NoBhKKZ!38XOAVIrFC9xOJVvzd9tO4KSU3Pyms7yLrWjSVa1SV0"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=bFZwTCtuQ3NUYSthTWhLcnpqR2hLZy9wNVpqV0U3Rzk3NFV5YUJqL1Y1TT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=QnhKUEhiN1BxSU1YZnBKK2V1ZU1zcDBFOHJTeXRnVGtFOXh6K1g4czJTQjNRcFQ4bzZZeUFKTndURlhzZTYrKw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-5p5cd55o863a.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!8Q51kabB!u_mmHdL5lftmDBmhCvJwN9aPBH3jKFsUAVKktkQHGpo"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=c1U1cEVCWTQ3WDFEdmZ1QzRoaVAvOHc4QVNpbys2eUNoV2RlT0R2eGJFby90Z1laaGVodFN2VzBEK0Q4alp4Sg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 21,
     "title": "Reunion",
     "aired": "2019-12-09",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=7nnpUxXPYNP5"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!oZ41hQyY!aDQ_ALRgeDXVC6rqZ5Mao41CwSp482GfVMB8mRHdpew"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=ZldoY1JVUmJIeXBUR09MSUh1cXlIL0tSaG91T1BjRnZUQ2hnQlFGanI0Zzc3VTE3bUdkN0NHd2Nrajh2UWZWZg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ZIwzUSSS!Vb1HIF3CGw9a5BkamwC38n71PSVF4zW_4y1I5silIOY"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=bFZwTCtuQ3NUYSthTWhLcnpqR2hLdVBiL20xTUt5WFFqMmpDelViVTdGWT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=SjJyci8yVjhUa2RMT2YvUlVTMW1YTUhrQ3RhQzkrZWFXa2VrNlFndEdCcDcwcEE2UDBDSTlUaUtaeDBnQWJXNw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-7qi5wnl3h6ir.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!5FonSQxD!b_g3T7LzHmG3VTL88Fa8VkYYuGWrwyZZEeYsdPr8CbE"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dVo5V1ZSYk9SOWdBK3p2MzZQdDlocWNwRDZhdFJIZjJ0dnorQWN6R2lPNjlmNnkyQWliTXkybGNFcE90UisyMQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 22,
     "title": "Lone Wolf",
     "aired": "2019-12-16",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=06LXbPka5Wm0"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!tU4BDazZ!xqozb_Q-2B7qOcDs2Z71sqVT2kbI99EEO7320KV2tvg"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Y0g1KzlIazdQVkROSjRqcmFYbWxKSll6U09kK1d4QldTMnJmK2dlemd3SW1Wdmc3cW1oTTdrZlJRM2NBczNWMg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!sEwhTACa!agittir8ZdcDrp30cTHNpaNpyYpzl2IOvoUFK-DqvWQ"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=bFZwTCtuQ3NUYSthTWhLcnpqR2hLa1ZtWC9OVzZ3dE9kZGI3YmdWZVc2WT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=VVEzTllZcWMwUUNWT2VDdXk3bmpodEhFT0pCS1IyODZROXdTTWZZQTRrcGYzWXlNQmFJTmdRczJrSCtocjVpMg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-ov5dl778seyu.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!QBpnFYha!TJqcv80dpzJKr_SNL_O1wjimd2lU36AIFE1SFVtKdRs"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=eHhDMUw3eUFzS1h2U2tkbEozWDZ4djRSbnViTFFDNUZaK05NeDREZkdlVTlIajhXOHUzRmMrY29mNzNVdU1OSQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 23,
     "title": "Miscalculation",
     "aired": "2019-12-23",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=TIDM2yK0778Q"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!BYhRDapQ!7Fl_6oMQGT-WYuRWcnA5S0wqpKK9z_9nWqpTSFT9JjM"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=REdDcDNBOVhJSTdOMnZMckhCeWpyZ2lQRXFrNUx0bS9QOEpCUUpFUkFKU0Z5bGR6L0lCSHBMK0ZucG15akthaA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!AF4VWQzD!NxpeZLYyMphVGRRJqxp0DrYOQ_rf0pwErifes9Hdnr8"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=bFZwTCtuQ3NUYSthTWhLcnpqR2hLbC9WRDFreGtOTFlXNnoxbTZCSHFiOD0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MzIrVlBsNmNLWnFOWnhYaVVJdldRdHFhQnVPUnFFRjFJdmhrd1B6RHpGWHI0QUszQ2VHVTUyMVNGcXk1TWR4eg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-glujratvzguj.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!QBwTTSjI!N-jWWrwNGGgcwzF_xvxG0t4Tdb_xOeNPIK7ijD790sU"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dGhoaFRBaStLMDdsT1hPU212QkJ0ak5tSndTSUNSQ0FRM2lmZTBtUVdJek5jbC82ckhEaHBlazNuNkhpcm16UQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 24,
     "title": "End of the Prologue",
     "aired": "2019-12-30",
-    "duration": 25
+    "duration": 25,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=8C0o1h8606T8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!8ExxCQjQ!iSLwxsr0ZjlpZ8_f4todM3hTJCoKLpK-qQWOR_lCGME"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=cXZSRGF4bk1acG9iMmR3N3A4eE1qNTRiQlNMZlBOVDRHUVNsNHNvT0NMUzNqSG9peFM4ajhoZFRQMk14TE1zVg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!dMhhSY7K!ULSpktIHuvZfYWt5QVi7lVrD6rMPt9jw-D_3Uxm_ktc"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=bFZwTCtuQ3NUYSthTWhLcnpqR2hLb2JzTTNLRUNKMkRLbzR0d3VxcTNwMD0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dzN4dGgzVnBVZXVCeDBxdGRLQ3RWN0t2TkQxQmdIM1NCbHpCUDgwTjZFekZHVEdLRGJmRG1HUlBidzlyVDh0Sg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-gbbtpqxyxb1y.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!1Y4XlI4K!mn13C4c8qttQYtRQmQ4L9b3L35xUndaemdylVRQcnko"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=QlVuT2FGK2Z0eGQ5MUlnQWhVaXp4ZVZiTi8zdnRRaEZTYTEzWXlOdVgvTnp1QWdBNi9tOGM5V1ZyditmSERraA=="
+          }
+        ]
+      }
+    ]
   }
 ]
