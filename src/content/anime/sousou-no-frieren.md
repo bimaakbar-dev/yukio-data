@@ -8,13 +8,13 @@ kitsuId: "46474"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: summer
 year: 2023
 episodes: 28
 duration: 24
+rating: PG-13
 
 aired:
   from: "2023-09-29"
@@ -22,6 +22,7 @@ aired:
 
 stats:
   score: 9.1
+  # scoredBy: # edit manual
 
 genres:
   - adventure
@@ -38,6 +39,8 @@ trailer: "tR8YH0G67Rk"
 draft: false
 ---
 
-The adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her? Decades after their victory, the funeral of one her friends confronts Frieren with her own near immortality. Frieren sets out to fulfill the last wishes of her comrades and finds herself beginning a new adventure…
+Frieren, seorang penyihir elf, telah mengalami petualangan epik bersama teman-temannya. Mereka berhasil mengalahkan Raja Iblis dan membawa kedamaian ke negeri. Namun, sebagai seorang elf, Frieren memiliki umur yang sangat panjang, sehingga dia akan terus hidup bahkan setelah teman-temannya meninggal.
 
-(Source: Crunchyroll)
+Ketika Frieren menghadiri upacara pemakaman salah satu temannya, dia terpaksa menghadapi kenyataan bahwa dia hampir abadi. Ini membuatnya mempertanyakan makna hidup dan bagaimana dia bisa memahami kehidupan orang-orang di sekitarnya. Frieren kemudian memutuskan untuk memulai sebuah perjalanan baru untuk memenuhi keinginan terakhir teman-temannya.
+
+Dengan demikian, Frieren memulai sebuah petualangan baru yang akan membawanya menjelajahi makna hidup dan bagaimana dia bisa menemukan tujuan dalam kehidupannya yang panjang. Apa yang akan dia temukan dalam perjalanannya ini? Bagaimana dia akan memahami kehidupan orang-orang di sekitarnya?
