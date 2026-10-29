@@ -42,8 +42,8 @@ trailer: "4nTLr6Uf9Ug"
 draft: false
 ---
 
-First season of the Monogatari Series, part 4/6. Contains the arc Koyomi Vamp from the Kizumonogatari light novel.
+Koyomi, seorang siswa sekolah menengah, telah terlibat dalam dunia supernatural setelah bertemu dengan Kiss-Shot Acerola-Orion Heart-Under-Blade, seorang vampir yang kehilangan anggota tubuhnya. Dengan bantuan Meme Oshino, seorang spesialis penampakan, Koyomi berhasil mengalahkan tiga pemburu vampir kuat dan mengambil kembali semua anggota tubuh Kiss-Shot.
 
-With help from Meme Oshino, the apparition specialist, Koyomi defeats the three powerful vampire hunters: Dramaturgy, Episode and Guillotinecutter. Koyomi takes back all the limbs of Kiss-Shot Acerola-Orion Heart-Under-Blade in order to become a human again. But, when he returns to Kiss-Shot, she reveals to him the cold truth of what it means to be a vampire—a creature of the night. Unable to take back what he has done, Koyomi feels nothing but regret and can only deny his dreadful fate. While Koyomi is struggling to face reality, his “friend” Tsubasa Hanekawa comes to him with a certain plan…
+Namun, ketika Koyomi kembali kepada Kiss-Shot, dia dihadapkan pada kenyataan pahit tentang apa itu menjadi vampir. Koyomi merasa menyesal dan tidak dapat menerima nasibnya yang telah ditentukan. Sementara itu, Tsubasa Hanekawa, seorang teman Koyomi, datang kepadanya dengan sebuah rencana yang mungkin dapat membantunya menghadapi kenyataan tersebut.
 
-(Source: Aniplex)
+Koyomi harus menghadapi realitas yang tidak diinginkan dan mencari jalan untuk mengatasi masalahnya. Apakah dia dapat menemukan jalan keluar dari situasi ini, ataukah dia akan terjebak dalam dunia supernatural yang penuh bahaya?
