@@ -4,7 +4,7 @@ titleEnglish: "JoJo's Bizarre Adventure: Stardust Crusaders"
 titleNative: ジョジョの奇妙な冒険 スターダストクルセイダース
 
 malId: 20899
-kitsuId: "8063"
+kitsuId: "8739"
 
 type: TV
 status: finished
@@ -14,6 +14,7 @@ season: spring
 year: 2014
 episodes: 24
 duration: 24
+rating: R
 
 aired:
   from: "2014-04-05"
@@ -21,6 +22,7 @@ aired:
 
 stats:
   score: 7.9
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -32,10 +34,13 @@ studios:
 
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20474-xuqem5GBlBtb.jpg"
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20474-peBLuUVAzNC3.jpg"
+trailer: "pVXhs_rxB9E"
 
 draft: false
 ---
 
-In a Japanese jail sits 17-year-old Jotaro Kujo: punk, fighter, delinquent...and possessed by a force beyond his control! Around the world, evil spirits are awakening: "Stands," monstrous invisible creatures which give their bearers incredible powers. To save his mother's life, Jotaro must tame his dark forces and travel around the world to Cairo, Egypt, where a hundred-year-old vampire thirsts for the blood of his family. But the road is long, and an army of evil Stand Users waits to kill JoJo and his friends...
+Jotaro Kujo, seorang remaja berusia 17 tahun, duduk di penjara Jepang. Ia dikenal sebagai seorang punk, petarung, dan berkelakuan buruk. Namun, ada sesuatu yang aneh tentangnya - ia dirasuki oleh kekuatan yang tidak bisa ia kendalikan. Kekuatan ini ternyata merupakan bagian dari fenomena global yang melibatkan makhluk-makhluk mengerikan yang tidak terlihat, yang dikenal sebagai "Stands", yang memberikan kekuatan luar biasa kepada para penggunanya.
 
-(Source: VIZ Media)
+Jotaro harus belajar mengendalikan kekuatan dalam dirinya untuk menyelamatkan nyawa ibunya. Ia memulai perjalanan panjang dan berbahaya ke Kairo, Mesir, untuk menghadapi sebuah ancaman yang telah ada selama seratus tahun. Di sepanjang jalan, ia akan menemui banyak musuh yang menggunakan kekuatan Stand untuk melawannya.
+
+Dengan tantangan yang banyak dan jalan yang panjang, Jotaro harus siap menghadapi apa pun yang akan datang. Ia tidak sendiri, karena ia akan ditemani oleh teman-temannya dalam perjalanan ini. Bersama-sama, mereka akan menghadapi berbagai bahaya dan melawan para pengguna Stand jahat yang berusaha menghentikan mereka.
