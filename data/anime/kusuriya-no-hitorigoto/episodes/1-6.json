@@ -3,36 +3,396 @@
     "number": 1,
     "title": "Maomao",
     "aired": "2023-10-21",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/wuoe1rssz6uq"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/LcB5buNh"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/Au6jRuL5ZW"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/VWlhhYQK#gKzoHvoOM8widCz3SUj_u_g9Ggr0Xc31smq0Yma5lig"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=YWkzcnkxTHE1RnQrcXlDNGduSCtZdz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZWtIcXdoMnNuaEdoTXkwSlpNSnd1UEE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/plzecinbmgtu"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/3RY62m7W"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/jYB2furwnl"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/oGEAmShb#jdtT-kPEFktp-DYYwqEgwgg_3J2ygehEnldipOdQRgU"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=YWkzcnkxTHE1RnQrcXlDNGduSCtZdz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZU1KNHlJU3daU1NCNUFPblBTL0ZxVnc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Chilly Apothecary",
     "aired": "2023-10-21",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/lc9w3ae0dxae"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/bUNFRkHw"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/6w2NqUgUZZ"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/gK0jnSob#5TGH9tc4QAxSXKwMlD4XCVefKAfiLrNgN_aADN9Gkw0"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=Uk5vQ2QyY0loazY5YUZyZ2gyd2x5Zz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZXBFbTMzQ0pvbUFVQjRwTVhBR1dSMUE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/hepedss8s816"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/r9uvppqu"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/A3RRwT8oys"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ZW0BBBCR#yF12PJbP3XBfcu1g0rRWREGL39F7ldfznUzSMheniEg"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=Uk5vQ2QyY0loazY5YUZyZ2gyd2x5Zz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZTJSay93aGV5RlRqVkFQNEJHbGxWdFE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "The Unsettling Matter of the Spirit",
     "aired": "2023-10-21",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/2qmubw3zdllq"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/4rAeBnv6"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/cEbBP1hjD8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/gK0jnSob#5TGH9tc4QAxSXKwMlD4XCVefKAfiLrNgN_aADN9Gkw0"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=elZwWVVlOCtBeUVCcDI1MXZJUWhoUT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZXdyREtyaVI2WUVaM0xHQjhaaGNkL2c9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/fayrf3xpwzc0"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/X7sSratf"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/9RWHKPtSuk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/dHdgxBCQ#3fNeVFb0y8Dnr9RnAnNV_vayRQPQP0wyDxgvStVAsWM"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=elZwWVVlOCtBeUVCcDI1MXZJUWhoUT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZUs4YkQxZDZhTW1pa2tHVUxTTG94N2c9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "The Threat",
     "aired": "2023-10-28",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/gutj4j8f4nco"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/BzoBZTd2"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/8mHtC9wgRm"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/EHNwgQqK#135PYOFay-kLl3rmXRCU9E0_dJ3t1j4YWLbgcWjYLMk"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=R1l2RUkwcVRLODQrQUpPS05IL3FnZz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZVZoRFRQWXViRVl3V2hnWU9JZmp6a1E9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/eptcjs2kkse5"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/rg7f94AY"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/5dhUIyWPoP"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/JLlD1B4C#WqF5ulFsFP9qI9kiAmdyR5ZXk8SeSks3Jgv8EIxYL5o"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=R1l2RUkwcVRLODQrQUpPS05IL3FnZz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZVIzbnVuOG0rRGZzVlJwMjRPanh3cVE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Covert Operations",
     "aired": "2023-11-04",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/czqu92ep0myy"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/YAKW2Mgd"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/XT65mITASI"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ZelWnSwK#lMJULl5LM0LK5-m15FreTdee2krmdWGxw_rtDvoNZyI"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=YWNwbXBvTW1QNU1Fb0E1dW5YVHZ0Zz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZVhsUGtESzNOb1pEOWdFcUxRaHF5cHc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ivof9m0v3hk7"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/XrpHstP5"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/jitR2MkES9"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/9L11gCpY#-ciglJOn2EoFevfY7iidBsbi9P7NjpwUg6YgPIxiThM"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=YWNwbXBvTW1QNU1Fb0E1dW5YVHZ0Zz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZVg2SUJ3SXJBV0QvVS9pU05QUGVaRnc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "The Garden Party",
     "aired": "2023-11-11",
-    "duration": 22
+    "duration": 22,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/gd0o3zb1lucy"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/EapfttQL"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/PnFNOLCJjQ"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/kO1GhZRZ#-oOEKvBaAlgk1_ddrmP4rnoKx85s5Xg0aajZl3LVKkM"
+          },
+          {
+            "name": "desudesuhd3",
+            "url": "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=RnovME9aL1hUZkNNc0ZUNGRuNmU3UT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZVNWdzk0VW8xeTdFNW4xK24vdkhmcUE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/3dhxaoi87hio"
+          },
+          {
+            "name": "pdrain",
+            "url": "https://pixeldrain.com/api/file/Jsh4cg2q"
+          },
+          {
+            "name": "kraken",
+            "url": "https://krakenfiles.com/embed-video/kITOPPh4RL"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/BakyyZrY#H5Fov3KGVvBzqeOZooexChWTv6_rDpTKf1e6Gn5iEHw"
+          },
+          {
+            "name": "desudesu3",
+            "url": "https://desustream.net/dstream/desudesu3/new/index.php?id=RnovME9aL1hUZkNNc0ZUNGRuNmU3UT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=QldOMGFTbm95NXZxRE9IT1g1clVoRU55akVYK0Nwa29uQWY4ZGFYei9OR0YzajVlNy85ZlJFSTVFZ0NRSU9FZUJXQ2hGVGwxUFdNVm5jU3R4ak8wMVE9PQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
