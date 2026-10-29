@@ -4,7 +4,7 @@ titleEnglish: OSHI NO KO
 titleNative: 【推しの子】
 
 malId: 52034
-kitsuId: "46170"
+# kitsuId: # edit manual
 
 type: TV
 status: finished
@@ -14,6 +14,7 @@ season: spring
 year: 2023
 episodes: 11
 duration: 24
+rating: PG-13
 
 aired:
   from: "2023-04-12"
@@ -21,6 +22,7 @@ aired:
 
 stats:
   score: 8.4
+  # scoredBy: # edit manual
 
 genres:
   - drama
@@ -35,14 +37,11 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-W
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/150672-ISwoA0eS722H.jpg"
 trailer: "gKWEUJ4r5do"
 
-addedAt: "2026-10-10T06:55:09.516Z"
-updatedAt: "2026-10-10T06:55:09.516Z"
-
 draft: false
 ---
 
-When a pregnant young starlet appears in Gorou Amemiya’s countryside medical clinic, the doctor takes it upon himself to safely (and secretly) deliver Ai Hoshino’s child so she can make a scandal-free return to the stage. But no good deed goes unpunished, and on the eve of her delivery, he finds himself slain at the hands of Ai’s deluded stalker — and subsequently reborn as Ai’s child, Aquamarine Hoshino! The glitz and glamor of showbiz hide the dark underbelly of the entertainment industry, threatening to dull the shine of his favorite star. Can he help his new mother rise to the top of the charts? And what will he do when unthinkable disaster strikes? 
+Di sebuah klinik medis pedesaan, dokter Gorou Amemiya bertemu dengan seorang bintang muda yang sedang hamil. Ia memutuskan untuk membantunya melahirkan secara rahasia agar karirnya tidak tercoreng oleh skandal. Namun, kebaikan hatinya tidak dibalas dengan baik. Malang tidak dapat ditolak, dan Gorou harus menghadapi kenyataan pahit yang mengubah hidupnya selamanya.
 
-(Source: HIDIVE)
+Setelah mengalami peristiwa yang tidak terduga, Gorou terlahir kembali sebagai Aquamarine Hoshino, anak dari bintang muda tersebut. Ia kini harus menjalani hidup baru di dunia hiburan yang penuh dengan kilau dan glamour, tetapi juga memiliki sisi gelap yang mengancam. Dengan pengalaman dan pengetahuan yang dimilikinya, Aquamarine berusaha membantu ibunya meraih kesuksesan di dunia musik.
 
-Note: Episode 1【推しの子】Mother and Children was pre-screened in advance in Japanese theaters on March 17, 2023. The regular TV broadcast began on April 12, 2023. The first episode has an extended runtime of ~82 minutes.
+Dengan latar belakang dunia hiburan yang kompleks, kisah Aquamarine Hoshino membuka tabir tentang perjuangan dan tantangan yang dihadapi oleh mereka yang berkecimpung di dalamnya. Bagaimana Aquamarine akan membantu ibunya mencapai puncak kesuksesan, dan bagaimana ia akan menghadapi cobaan yang akan datang?
