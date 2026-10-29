@@ -4,17 +4,17 @@ titleEnglish: "86 EIGHTY-SIX"
 titleNative: "86－エイティシックス－"
 
 malId: 41457
-kitsuId: "45545"
+kitsuId: "43066"
 
 type: TV
 status: finished
-rating: R
 source: light_novel
 
 season: spring
 year: 2021
 episodes: 11
 duration: 24
+rating: R
 
 aired:
   from: "2021-04-11"
@@ -22,6 +22,7 @@ aired:
 
 stats:
   score: 8.3
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -36,14 +37,11 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116589-K
 banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116589-SqwYWzaZCdD5.jpg"
 trailer: "VSdS29SDvn4"
 
-addedAt: "2026-10-10T07:04:07.906Z"
-updatedAt: "2026-10-10T07:04:07.906Z"
-
 draft: false
 ---
 
-Called “Juggernaut,” these are the unmanned combat drones developed by the Republic of San Magnolia in answer to the attacks by the autonomous unmanned drones of the neighboring Empire of Giad, the “Legion”. But they’re only unmanned in name. In reality, they are piloted by the Eighty-sixers—those considered to be less than human and treated as mere tools.
+Di Republik San Magnolia, perang melawan Kekaisaran Giad berkecamuk. Kekaisaran Giad mengirimkan drone tempur otonom yang dikenal sebagai "Legion" untuk menghancurkan musuhnya. Sebagai tanggapan, Republik San Magnolia mengembangkan drone tempur yang mereka sebut "Juggernaut". Namun, ada kebenaran yang tersembunyi di balik nama "Juggernaut" yang unmanned itu.
 
-Determined to achieve his own mysterious ends, Shin, the captain of Spearhead Squadron, which is comprised of Eighty-sixers, continues to fight a hopeless war on a battlefield where only death awaits him.
+Shin, kapten Skuadron Spearhead, memimpin pasukannya yang terdiri dari para "Eighty-sixer" - mereka yang dianggap tidak lebih dari alat perang. Mereka dipaksa untuk bertarung di garis depan perang yang tidak ada harapannya, di mana kematian selalu mengintai. Dengan tekad yang kuat, Shin terus bertarung, namun tujuan sebenarnya dari aksi-aksinya masih menjadi misteri.
 
-(Source: Crunchyroll)
+Di tengah peperangan yang berkecamuk, Shin dan pasukannya terus melawan, meskipun nasib mereka sudah ditentukan. Mereka terjebak dalam pertempuran yang tidak ada akhirnya, dan kematian selalu menjadi ancaman yang menghantui mereka. Apa yang akan terjadi pada Shin dan pasukannya?
