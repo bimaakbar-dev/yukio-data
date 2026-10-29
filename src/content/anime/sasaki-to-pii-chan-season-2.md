@@ -37,6 +37,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176314-nj2hmqb
 trailer: "gY0hpk9E7p8"
 
 draft: false
+addedAt: "2026-10-29"
+updatedAt: "2026-10-29"
 ---
 
 Musim kedua dari kisah Sasaki dan Pii-chan telah tiba. Kali ini, mereka akan membawa kita dalam petualangan baru yang penuh dengan kejutan dan keseruan. 
