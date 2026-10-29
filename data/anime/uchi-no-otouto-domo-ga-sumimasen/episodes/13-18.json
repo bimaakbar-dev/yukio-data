@@ -50,7 +50,18 @@
   {
     "number": 16,
     "title": "Episode 16",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=RlpaM0lSMXQ3dTBTbDZsbnZJR2EzWDNKZ3BsV3JBTkVuSnlnemZwTm43UT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 17,
