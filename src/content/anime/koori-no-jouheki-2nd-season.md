@@ -33,6 +33,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-N
 trailer: "VvzeL7UMCE8"
 
 draft: false
+addedAt: "2026-10-29"
+updatedAt: "2026-10-29"
 ---
 
 Koyuki, the isolated girl; Miki, the former school idol; Minato, the guy with no concept of personal space; and Youta, the gentle basketball player. Clumsy, frustrating, yet deeply endearing — this coming-of-age ensemble drama of crisscrossing hearts marches on.
