@@ -4,7 +4,7 @@ titleEnglish: "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train"
 titleNative: 鬼滅の刃 無限列車編
 
 malId: 40456
-kitsuId: "42586"
+kitsuId: "45249"
 
 type: Movie
 status: finished
@@ -14,7 +14,7 @@ season: fall
 year: 2020
 episodes: 1
 duration: 117
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2020-10-16"
@@ -42,4 +42,8 @@ trailer: "23riEOmDOgM"
 draft: false
 ---
 
-This Demon Slayer movie sees Tanjiro Kamado and friends from the Demon Slayer corps board the Infinity Train on a new mission to investigate a mysterious series of disappearances, perpetrated by a demon who has been tormenting people and killing the demon slayers who oppose it.
+Tanjiro Kamado dan kawan-kawan dari korps Demon Slayer memulai misi baru dengan menaiki Kereta Infinity. Mereka bertujuan untuk menyelidiki serangkaian kejadian misterius yang menyebabkan banyak orang menghilang.
+
+Di balik kejadian ini, ada sebuah kekuatan jahat yang dipercaya sebagai biang keladinya. Kekuatan ini tidak hanya menyerang manusia, tetapi juga membunuh para pemburu setan yang berani melawannya. Dengan keberanian dan kemampuan mereka, Tanjiro dan kawan-kawan harus menghadapi tantangan ini dan mengungkap kebenaran di balik kejadian misterius ini.
+
+Dalam perjalanan mereka di atas Kereta Infinity, mereka akan menghadapi berbagai bahaya dan tantangan yang harus diatasi. Apakah mereka berhasil menyelesaikan misi ini dan menghentikan kekuatan jahat tersebut?
