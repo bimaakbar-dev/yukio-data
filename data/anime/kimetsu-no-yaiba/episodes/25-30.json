@@ -3,12 +3,118 @@
     "number": 25,
     "title": "Tsuguko, Kanao Tsuyuri",
     "aired": "2019-09-21",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=QK3a0uKhSo5p"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!htoBVA5I!VlopYKJMrs_R2nLEliNzOe8D3q_Uk8nihS6CkeqEbRE"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=cHFjRUZYK1dSdHNNcnZLcWhCU2o4THVITGlPZ3Joc1ZRY21IVUN0UzlrTC9JTXNHVUVpYXVSZjU3S1EvcFZHaA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!QwBETYTZ!WoAoqunBrrW_uM-0zCMiHUDLkgi7yFHD7A3jscevyXA"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ZE1TQTBDUVRhOFBCQ2hIMVMwUDdKUT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bHBuZnVJdXV4dkpuOUorNGlDa3JXUkpmVHgraVcxWVpRcFlsSVQvVEhucDV5TzlGZFRlVjlMUmFnNWROWlhMdg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-0ztn5khqdjhn.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!kpBGmYwB!-AbDPr9xO-OdbPKlnQbuYXSuiJSzupmXTWmrlY_KYZY"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=RmZuWExjSWQ2VHNleEd6eWRNZUdlN3M3WXNVdnVOdUdrQkRrZm1IY1c1RkJjdXJhSEpYcUVVbFpTelZIdmFUOQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 26,
     "title": "New Mission",
     "aired": "2019-09-28",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=yrjlo5ajDXHO"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!t9hHXCSJ!oueMYu4hzQMqJ5rxc7YXNsTN8FyuzP9JDPc_PXEEwC4"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dHd6YzNUUU1OZHdGallSOVUxR0VwT0hCdmJnRkZtMC9CLzNIMmpHSXFjZWIyTzhBYnd5c21hN1FjaDZya2xkTg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!N5JSjQBQ!AggSUlJidGoTEnNYHJpdUM3OViTu8eUbi-PRYldmnw8"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=RWg1d2xaR1drTjVRMGFOL2hOTHU5dz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=R0VKU1lFVmcrNFQ2TStDc1doRDk1b0ZWWWRBOWlkWVhPRERxQ21nUENDdFRoRVArTVgrZmZmdGUxbUZjVk5SLw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-1z4i3hfi96gm.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!V9IGwIAY!bjfbz7lghuZsL7zhInjgqgBeBVp8RjCYhC5Ip7DXRi0"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=UFQ3WjRjUVRPSEFDeStsUDFCNitsb3ZYZW9jNjdaR2ZLU0pjUWt1V1BLQmRNNUwvWGNqTEhJWnBCMURPR1NPcg=="
+          }
+        ]
+      }
+    ]
   }
 ]
