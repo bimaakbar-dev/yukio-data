@@ -2,6 +2,17 @@
   {
     "number": 1,
     "title": "Episode 1",
-    "duration": 83
+    "duration": 83,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filelions",
+            "url": "https://odvidhide.com/embed/8md5v2niqu5y"
+          }
+        ]
+      }
+    ]
   }
 ]
