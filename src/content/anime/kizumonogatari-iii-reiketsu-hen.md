@@ -8,14 +8,13 @@ kitsuId: "11407"
 
 type: Movie
 status: finished
-rating: R
 source: light_novel
 
 season: winter
 year: 2017
 episodes: 1
 duration: 82
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2017-01-06"
