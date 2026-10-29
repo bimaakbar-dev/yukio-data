@@ -14,7 +14,7 @@ season: fall
 year: 2017
 episodes: 11
 duration: 23
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2017-10-13"
@@ -40,6 +40,8 @@ trailer: "BEQe5xvsv8w"
 draft: false
 ---
 
-Ichiro Inuyashiki is down on his luck. While only 58 years old, his geriatric looks often have him written off as a pathetic old man by the world around him and he's constantly ignored and disrespected by his family despite all that he's done to support them. On top of everything else, his doctor has revealed that he has cancer and it appears that he has little time left in this world. But just when it seems things couldn't get any worse, a blinding light in the night sky strikes the earth where Ichiro stands. He later wakes up to find himself unscathed, but he soon starts to notice that there's something…different about himself.
+Ichiro Inuyashiki, seorang pria berusia 58 tahun, merasa hidupnya tidak berjalan dengan baik. Penampilannya yang sudah terlihat tua membuat orang lain menganggapnya sebagai pria lemah dan tidak berarti. Keluarganya pun sering mengabaikannya dan tidak menghargai semua yang telah dia lakukan untuk mereka. Keadaan semakin buruk ketika doktornya mengabarkan bahwa dia menderita kanker dan waktu hidupnya tidak lama lagi.
 
-(Source: Crunchyroll)
+Suatu malam, ketika Ichiro sedang berdiri di luar, sebuah cahaya terang mengenai bumi dan mengubah segalanya. Ketika dia sadar, dia merasa tidak terluka, tapi ada sesuatu yang berbeda dalam dirinya. Ichiro mulai menyadari bahwa tubuhnya telah mengalami perubahan yang aneh dan menarik.
+
+Ichiro harus menghadapi kenyataan baru ini dan mencari tahu apa yang sebenarnya terjadi padanya. Dengan latar belakang hidup yang suram dan penuh kesulitan, Ichiro harus menemukan cara untuk menghadapi masa depan yang tidak pasti dan mengejutkan.
