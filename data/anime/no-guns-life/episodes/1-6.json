@@ -3,36 +3,306 @@
     "number": 1,
     "title": "Renegade Extended",
     "aired": "2019-10-11",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=j8c5q2155448"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=ZDZHa3Vadk5wUG5pZUJ6aXMzdXV3UT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=alRvNlJLSjhsRk5FcjJXcmxmTEhPRlpDektSNVkrWmJ5MmlLM2k3eXA4Rit5a1BaVkNndG91MXFscUpzM2tlcA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=YnpCNWhmczY2RElES2NUdTdhVjBXQT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=NzlCMkUxUFl6S1dFR3FHbWhyTFk0Y0JSTHJuYVg4dDJJTlZOb2N5d0hSV1c1dVR1a1lEK0t0bTZrZWoveklJdw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-t4tm379yh43e.html"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TzdwdTcvLy9PRm5VTDB4WTA4blc5c003RGw1aTNhY2J6Y2p6WjVpVm5CanA5bDJsVzI0Ri9vZkRVNEV4eHBTag=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Extended Remote-Control Device",
     "aired": "2019-10-18",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=iv4R7PRNNsi0"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=bGl5L05qbW5tb0Qwakg0QkxFS2NRdz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=d3VMb2QzN1I1dE9xUlVtR21TRC9oZkd3c1NScnp3eWtyaWxjcEZIRHZtZ3hKUTFjdGZtdEMvSmxiV0dqckNuMw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=YWZka3M3OURDZGxyWmE2bTlQcy9rdz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=eEpBbHVFZ3RqNnYwYjJ2eUVNVkVXSk01UW1XbVFQWGVyTm1BZW1tdU5YQWZWWFFPV1FuL3JPK09zVW9MMzE3eg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-y2zxund2axwv.html"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=ditVZ2pNME5UOEFJVmEvNmtXb1V6Q2NQUnlkVHZwY0RTSk1ZcmFnODhndWRmd2pUakFtYTNGYjYySEh2cFdRNw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Puppet",
     "aired": "2019-10-25",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=8iRwwf16BOM2"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=YWVSOHlNeStaOHVoVUNDT2JsMFk3Zz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=cStMZndFRU9YTVlpNXlPaXRhQnY4ZkNKYVprenlENGhtaWFvYmoxMHNBSWNnRDhORTl0OFN5TXpYdlhFT2Rleg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=ZXBPSi8wWis0bGtnV0l5MWQrTmF5dz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=R2pjQ29GWkJ4NFhNOFFuQTcxZVdTSnBDeWZ5OVNmT1B5a3NvY0d6ZWh1VXlYUTBqNDJPVkdidXB0VFNnY2JZQg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-scutel6mf5rm.html"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=QStUYkJRV1BnUGQ2eC9XN3dEUktOTXNFeFl2VnJwSGFJb2hBVy9QQTFVeEdDbGdMU0tJc3BtVnZiREVGRUhkSg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Trigger",
     "aired": "2019-11-01",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=nv55t8p388EC"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=NExaajhvakU4RHhUK2sxMzlIRUtWdz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=aHM5cWlXN2VWYWhqVS83aitmM0ZiRjFTZ1RZRnJIOTJua2Q3bEJJaWI5NllKd2trYkNYTVJtNjI2NWp5cTBHWg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=WXBZb2RyNUtLc3pRS1Rob1J1VVordz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TWRSNzZVZm1vL0x5NWNDeUo4NFRFdzF5VTJyWi9TaDRwM2NxMnJ6YXVCSHRQZlRHMUpudUEvRytHUXFVZ25xWQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-hp9n9ml5nun1.html"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dWNnMGo5Wk9aSHY1czZrUmxEZlZna3RDN0NQWitmMXpnRk1rQVFWREVlSmF3TkEzRVJ6ZC9BT2l1Q3VRZnk5eA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "EMS",
     "aired": "2019-11-08",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=q6ux8Vus5HCP"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=QTNUVVI3WXpmQWFGb2Q1aUV0emMzdz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=QjNMNTZRV3IxeTgyZ0lrcXNwZitTUGgyRzdxVlRrY0w1eEE0N0pXV1NKR1hLV01rbUlsMzBmQ3pvMXNsNnYrUg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=VWNabTBjMm9jL2k2Z2t2ZWhVRDVSdz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=aW85R08xcXFlYmJxbDBrWDNvNXRyUVVlY2p2K09LS29HT0piMHYxeE91VGZTakN0aHFRQTZjYU82SzZKRy9TUw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-h83d36yty5nd.html"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dEI3R3RpdElLMmx0NzY0cnMxYUhhUlY4NGZLalRiSTBJblRGVXgyclVLUmpYNTBhNUFzS3hvTmlxc1R5MGpYZA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Hero",
     "aired": "2019-11-15",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=gX6akf0VO0Ta"
+          },
+          {
+            "name": "otakustream",
+            "url": "https://desustream.net/dstream/otakustream/new/index.php?id=U2owYjBrR1BKTENsUnh4RTc5OHppQT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=a1JVMDJOdC91ZSsxTGtMV0pwRE12czd0UlA4aGRLWk5YcFNNWFFhUHRQZGFkR2VOTkVTMEFjVmZVVFowL09kag=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=WXlyOGJzS09KUCtLbGQ1NU1CKzcvZz09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TW9ONEZCTk9xVWFLTUg3cGNRMUtPR1Y0ZENUc29JUE9VYXBnRFFUbSswN2lER0xpbWJoa2MyZTFUbGh6TGFtUw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-sj92iqptryms.html"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bzZVQWYwcTNLQ1BHcmJhdXF3UGxaNUJ6YzQyYmM4R2YxbFZVY2FjQmMydFRCZDBWQnpmMzZpaVgvcFFoYUIvYg=="
+          }
+        ]
+      }
+    ]
   }
 ]
