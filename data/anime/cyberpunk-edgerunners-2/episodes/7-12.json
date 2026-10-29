@@ -3,24 +3,68 @@
     "number": 7,
     "title": "Stronger",
     "aired": "2022-09-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "Unknown",
+        "servers": [
+          {
+            "name": "unknown",
+            "url": "http://www.w3.org/2000/svg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Stay",
     "aired": "2022-09-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "Unknown",
+        "servers": [
+          {
+            "name": "unknown",
+            "url": "http://www.w3.org/2000/svg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Humanity",
     "aired": "2022-09-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "Unknown",
+        "servers": [
+          {
+            "name": "unknown",
+            "url": "http://www.w3.org/2000/svg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "My Moon My Man",
     "aired": "2022-09-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "Unknown",
+        "servers": [
+          {
+            "name": "unknown",
+            "url": "http://www.w3.org/2000/svg"
+          }
+        ]
+      }
+    ]
   }
 ]
