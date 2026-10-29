@@ -3,6 +3,59 @@
     "number": 13,
     "title": "King",
     "aired": "2012-12-28",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=hBQCnxllsPRL"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!CodWgKZD!bTRadDJz5YoBcVljTAtUmO3W-goKs_HFcBTxN9bia20"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=S3UyNmVUZ1Z6WE5nRWhNb1h1UU9OK1NCRHc0NmtzUWF6eC8xTlBMMTIrWkpmTjNzZWk0d21HYjU2RnE2WnBzZQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!D48lGCrZ!d3YtGvAB4xlNujXEgdKPK7Q4jfR18DuFw39kncVKhUE"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=Z3JRRmNFVHJnd0hGdnZhN1VPQi9QUT09"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TlFBR0JBK2xJbFZUeTI3ajZOQU9pNnlsdm4wZHI5R3E0WHo0Q2RXWUZMazBMc0JqVFFKbGxQbW51ZTdaZW0rSg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-h3mq1yuyy3ku.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!bkknhIob!JFnnIMrzzJiUeOdL_PzQQH9nlFeHURmvdrRrwdeXNi8"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=VjlWMXlOcmJwbjdaMTJTRDFkbkFOc3Y5ZWU5NSs2Q24zMFE1T0VxcnEwN1lYS0pOSnRGMHExQXIyM1A5RkZWZg=="
+          }
+        ]
+      }
+    ]
   }
 ]
