@@ -3,36 +3,238 @@
     "number": 7,
     "title": "Rain and Memory in Brittany",
     "aired": "2018-11-18",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/PAMvv3ZYNGQ2v"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Kpq55eArXveaM"
+          },
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=QlZUNmJTUDRmdUxXVmNjOVI1U09GTWpZL0x1ZTBhQm50UVE5NTN2ZmVSTT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/GGDjjNBLyPeWD"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Return of the Female Saint",
     "aired": "2018-11-25",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/ByjPjMNrZzn67"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/M2BQBPaKL8pdj"
+          },
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=QlZUNmJTUDRmdUxXVmNjOVI1U09GRytDSzVtUFN3T296ZjVFMmRFaDhsTT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/AnwPwGgzQkRQp"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Dance Music of White and Black",
     "aired": "2018-12-09",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Byy3PPL5wknAQ"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8ppq33k5Bp8Zz"
+          },
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=QlZUNmJTUDRmdUxXVmNjOVI1U09GUGdrMjltMGhIU1JQQWsrY3NyY1FmST0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/d88RYpanDnkRg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Beast of the Apocalypse",
     "aired": "2018-12-16",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "acefile",
+            "url": "https://acefile.co/player/5444606"
+          },
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/VBKLp5earpwgQ"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8pZ736GR4Y85L"
+          },
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=QlZUNmJTUDRmdUxXVmNjOVI1U09GUFYrdkhkWVhSNUVKR3JoM21hM1FIaz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/2Gd76YReXLVD2"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Utopia, Then...",
     "aired": "2018-12-23",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/PA4v3AYrWdQwD"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/2GwRyG2BzQ7RX"
+          },
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=QlZUNmJTUDRmdUxXVmNjOVI1U09GRUxYK3JaZTlFS01uTzNCUGpWaklyYz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/5a5zvaRd7QALx"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "In This Wonderful World",
     "aired": "2018-12-30",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/L5KLrGy5QzYqM"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/RKxLVqBPzzVWn"
+          },
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=QlZUNmJTUDRmdUxXVmNjOVI1U09GQldVRGY2ZDh6aDdjc3RDN1VuQ1UrTT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/2Gd73D2GLQYAw"
+          }
+        ]
+      }
+    ]
   }
 ]
