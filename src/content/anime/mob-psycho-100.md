@@ -14,7 +14,7 @@ season: summer
 year: 2016
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2016-07-12"
@@ -42,6 +42,8 @@ trailer: "mV39saBlBLI"
 draft: false
 ---
 
-The story revolves around "Mob," a boy who will explode if his emotional capacity reaches 100%. This boy with psychic powers earned his nickname "Mob" because he does not stand out among other people. He keeps his psychic powers bottled up so he can live normally, but if his emotional level reaches 100, something will overwhelm his entire body.
+Mob adalah seorang bocah laki-laki yang memiliki kekuatan psikis luar biasa. Namun, ia memiliki kelemahan unik - jika emosinya mencapai batas 100%, tubuhnya akan meledak. Karena itu, Mob selalu berusaha untuk menahan emosinya dan hidup secara normal di antara orang lain.
 
-(Source: Anime News Network)
+Mob mendapatkan julukan "Mob" karena sifatnya yang tidak mencolok dan bisa menyatu dengan lingkungan sekitar. Ia memiliki kemampuan psikis yang luar biasa, tetapi ia lebih memilih untuk menyembunyikannya agar bisa hidup seperti anak lainnya. Namun, tekanan emosi yang terus meningkat membuat Mob harus berhati-hati agar tidak kehilangan kontrol.
+
+Dengan kekuatan psikis yang besar dan emosi yang terus bergolak, Mob harus belajar untuk mengendalikan dirinya dan menghadapi tantangan yang datang menghampirinya. Apakah Mob bisa menjalani hidupnya dengan normal dan mengontrol kekuatan psikisnya, atau apakah emosinya akan mengalahkannya?
