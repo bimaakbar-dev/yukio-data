@@ -14,7 +14,7 @@ season: fall
 year: 2022
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2022-10-06"
@@ -42,6 +42,8 @@ trailer: "Ah7lTT-NKMw"
 draft: false
 ---
 
-The appearance of a divine tree and new religion turns Mob and Reigen's city upside down!
+Mob dan Reigen hidup di kota yang damai, namun kehidupan mereka segera berubah drastis. Munculnya pohon suci dan agama baru membuat kota mereka berantakan. Peristiwa ini membawa dampak besar pada kehidupan sehari-hari Mob dan Reigen.
 
-(Source: Crunchyroll)
+Kehadiran pohon suci dan agama baru ini menyebabkan kota menjadi kacau. Mob dan Reigen harus beradaptasi dengan situasi baru ini dan menghadapi tantangan yang datang bersamanya. Mereka harus menemukan cara untuk mengatasi perubahan besar ini dan melindungi kota mereka.
+
+Dengan kekuatan psikisnya, Mob siap menghadapi apa pun yang terjadi. Bersama Reigen, dia akan menghadapi tantangan baru ini dan mencoba memulihkan ketertiban di kota mereka. Apa yang akan terjadi selanjutnya di kota Mob dan Reigen?
