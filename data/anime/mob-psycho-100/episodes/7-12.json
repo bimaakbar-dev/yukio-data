@@ -3,36 +3,354 @@
     "number": 7,
     "title": "Kouyou: Soushitsu wo Teniireta",
     "aired": "2016-08-23",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=cwkD3O3EbIav"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!qsMlEISZ!ZsFL01dh5M06j2UFdroNvCkAPkJ-WFy-vQ61mdT-TEE"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=SHlNQ0hJSEZtVnVTNy85K2FWaFRiSHFyenpwcTRnUlJacFV1ZFdtWkh4d2pUdGQ1MyszUnIyTzh1b2FjblRkSg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!3oEhwS5I!70fMb0kdY5GLivmHkyU4iPeG0foFn6vYCsM6ELtez_8"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=WWIwYTN6S2x2ekgzbGtGM1pmVnBjSjFSbXBqNzVnYmtUSVNiQUFvRVNJUT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=cFMyK3hhVmo0ZFRpTDROb3NIZ2NrU0l4RE9WM254QVNUOTB2L3pOK0ZlOWNUblppWXpHclh3MG1oblVmb05zLw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-u8sgyxyrzzts.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!blkmzYqD!D3Vs13aIvJjUsqHI3JkmtwGYFlbEFHiXEvrmbpkyom4"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bzZ4dzg5UStNbnlab3lWVlV4S1JMd3d5cU0yNCtpcTVzOGd1T2ZYU3NZdzFFSjhlbnh0S3JkWERHMFNBNXJMNA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Ani Peko: Hakai Ishi",
     "aired": "2016-08-30",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=CRSYSR43O11k"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!fpMHmCKS!baUoUJEMAx7UeLTIZhgO_7Tf9G7_Nvn3qGvRYOV1elk"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MVY0KzBZMlYzQTF3Nkp3WWZaNUllN2NjKzBLeHhFQlFOQWJ5dEhFNFA1NDFiMmJZTWdOV2g1YUIvN0phL2ZrNQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!SkEHHCKQ!T6yP-Jzh82AcPbXPEc4_wtA2dylQKJi3ywTJnwQd99g"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=MnNHU1loL1FldVJFRG9obDBmTERJMzlIcCsva1BJUmpRZDhWcFFjSUJ5WT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TFZYVXZoNWdPakFGdUFwQXNYU0xZNE1GZ2xWT2o0RGR5SE14YnR5ZDhHN01nL0drb2Ezekk2YittSnJ3OGNCbg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-e8pewb8yab8i.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!q1tGha7I!NjmNu3harQR7Gd33D2PMpY-b6EE70vfrDV2bZ3_Oz5U"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MjVSMkNiRjBqOFRFWVBzRElxZFRTWEVidThkN0dpMGEyb25Nd3BwalJadGw1dm5BcUxybTRLSHl3TUpzdUpzcA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "\"Tsume\" Dai-7 Shibu",
     "aired": "2016-09-06",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=xnkKHWJ0Gtro"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!mtch2IDA!TYvIfs49ststeOCDVchkgREYh0hT_0RC6w8NrK-AX1Q"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=djdNWUFMMFU4VTFuT3Uvb2NubEloaHYvQ29FQTl2Nmt2V282Ui9XVVgzK1J3SXVtaXlYNzRidDg1alQvdWVydQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!6hEzHKID!Wf839rBqxsL3dnpokRVr-ztuky7e13cuLvtiLAGa6J8"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=NmRFUUFiVUl6Z3lXQzlHMjR6WndYVkpvK3RpK2RjTE1nNmlTL0FENGJtQT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MUNoUFlMMSsxQXpGRSsyakxxQUNtbVpXYlMzQnBMKzQ5dVY0ZG5SaWlobWxSdzltVGVtOHFXS2RoOXdyUjFqZQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-i8xjbxog3pre.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!W0tEwIgS!ZBMRlFj72NETvKxDgzo6c5rmWQOxj6g9JgGdBshXssc"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=WDU5cDE1dUY5MENxSytUZmxoSVlISXFaaW8razVxeHJzRzBORC9lN0pNYVdnb2hEb3h6ZnorZVUrSndWeGE3dg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Kyoaku no Aura: Kuromaku",
     "aired": "2016-09-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=VS4I7YQ72gV8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!X8EF0SxQ!ETHhKo9hyxF49egVr6gCpz4XZQl13-FGYYRmKNQLsa0"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=NVV5MTVVVkRxZG1YdHhqSE1CMlV4SGlQVzhSWnpCR2E1ajFBTG9CNmlScFp4QXdtaGh6THlOaERkN3dSY1pNcQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!2wcVWA6J!Qa70GlWkVbuqYo_G8MedA0XWqaBI6GxsUHRX92--v84"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=TkwvUno0RFBYZWQ3Nk5VNzRxU2tqVllvaWxJazJPUzlrd1o5UURQOENtaz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Vko5L3dJTHUya3JsSTE0VE5aZms4cVhTaDRmZ0Z6c1hkdUhJVFVManQ4alNmMGtKc1U4YWhuejlBYkJ2RUgzMg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-0dtnpmj2xgtw.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!KssW1IzS!ok6oaelSihoElJUbXF-jNW4Yd-l-Ourr7BeotnUGAjQ"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=SVc2NTRSbkZwKzFFenh2NkpuSFBrT25vZy9wVnJaTGwyenExcWNmOU1PTEZITXYrUVRmbm1mQThKalhGMlcrUg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Shishou: Leader",
     "aired": "2016-09-20",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=S48624M4y6J6"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!WwEhyaQZ!D_FuOm8hyp6JyNeFKDNEzP3tv9PAUr79W8HT5-5PT44"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dG1SOHZxWmNLdk1UZFFTcGV1K2ZBMTdRZXB6NnFmUzR4YVBvbjRKb3k3aDViK2E3YXU1MlBBM3ViMGNML1hLaw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!jhE1mCTL!aBRHOYZb5KJyAs08Xm0chU7QbLE26vBpYL7LeuBlwPo"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=TkwvUno0RFBYZWQ3Nk5VNzRxU2tqV2k5R3Y5UEJqb3RxdktmMS9IbXlTTT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=VE9oNFBHNXZTRFppQUdFVlhrOEo0a1dwSEtqdDhNWTdBVDVWY1YzbjZwckwxUTZUK2RYaURqZFZVN1FTQ2x3cg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-sa8w1ayoo44i.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!Gxt22CxZ!wyUJ8al8C8n2sRdOMiCcu8FFGS89LmzG6ocAXc5mWvE"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MGRUeWlTTTRQYTVRZnZXekFZSkFNUlJzc2VDbVNwb0cwVFlZdDJiOTQ2MHBDMUJpWXZiZTd6RXI0MC9oN1lHRg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Mob to Reigen: Kyodai Tsuchinoko Genru no Maki",
     "aired": "2016-09-27",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=73daXKufe52R"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!TwEDEIAa!-7pC5d-fWkQbxc-Ptu7Yyw7M_nhgC-EQ8d7bEMnGayg"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Znl3bzVXTkVEclpSZldLSXNNMGRFOHpDRjV4blhxbkxoQW9yUWswVW4vV2RZTm1SaGdZS1BMU3FiclErQlFsUA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!71VBHCBA!REoWD7obsQdePpCtF60lSTHSGYeO-gtSA0wRrq6bSK8"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=TkwvUno0RFBYZWQ3Nk5VNzRxU2tqYUZ0REM4TVBJYWxpYXVIMkJ5R1A0UT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=cm84N1E3S2FMajVSNlg4anIrWkhOMkFGODI3cncvUk9SN2N1V0ptcUJyUmY1cmxlQTR6T3RKb3c0czg5alFnag=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-0pqpebvpdgnq.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!O4sGFKzY!dY1HAWrBNYb7ob7dahI0jWgpdPtmuTMOAw69-JWVMV8"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=c3pCc3hQSmFhamxhRkZXaVdtQzRGYVljQnhsSEVTUE1uUkpsanJBdGZ0bjBiRDJpWHRYVDJ4bkhuaEJBVnZKTw=="
+          }
+        ]
+      }
+    ]
   }
 ]
