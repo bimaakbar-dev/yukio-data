@@ -36,7 +36,7 @@ trailer: "e41RGxVwJRs"
 
 draft: false
 addedAt: "2026-10-12"
-updatedAt: "2026-10-19"
+updatedAt: "2026-10-30"
 ---
 
 Pia Rockwell, seorang gadis berusia 10 tahun, mengalami demam tinggi yang membuatnya mengingat kehidupan masa lalunya sebagai seorang mahasiswa di Jepang. Namun, berbeda dengan kebanyakan orang yang terlahir kembali, Pia tidak ingin menjadi villain atau mengikuti jalur yang sudah ditentukan. Ia memiliki impian yang unik, yaitu menjadi seorang ahli paleontologi dan menghabiskan hidupnya untuk menggali fosil, membangun museum, dan menjadi kurator.
