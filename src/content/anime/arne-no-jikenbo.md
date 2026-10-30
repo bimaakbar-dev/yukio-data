@@ -8,20 +8,21 @@ kitsuId: "49323"
 
 type: TV
 status: finished
-rating: PG-13
 source: game
 
 season: winter
 year: 2026
 episodes: 12
 duration: 23
+rating: PG-13
 
 aired:
   from: "2026-01-07"
   to: "2026-03-25"
 
 stats:
-  score: 5.9
+  score: 6.0
+  # scoredBy: # edit manual
 
 genres:
   - mystery
@@ -36,10 +37,8 @@ trailer: "6zVNs7xRtg4"
 draft: false
 ---
 
-Arne Neuntöte is a vampire detective who manipulates supernatural powers. Lynn Reinweiß is a nobleman’s daughter who loves vampires. Their worlds should never have crossed, but they join hands to solve a bloody mystery.
+Di kota misterius Lügenberg, tempat non-manusia hidup, seorang detektif vampir bernama Arne Neuntöte menggunakan kekuatan supernatural untuk memecahkan kasus. Ia dikenal sebagai yang terburuk di kota, namun memiliki kemampuan luar biasa.
 
-In the darkest of nights, Lynn finds herself in desperate need of help. Then she wanders into the mysterious city of "Lügenberg", where non-humans live. Lynn's world changes drastically when she encounters "Arne", a vampire who is called "the worst" in the city. And tonight, a new "murder case" has occurred. What is the truth behind the bizarre incidents that take place in a world where humanity and the bizarre intersect?
+Suatu malam, Lynn Reinweiß, seorang putri bangsawan yang memiliki ketertarikan dengan vampir, memasuki kota ini dan bertemu dengan Arne. Pertemuan ini membawa mereka pada kasus pembunuhan yang baru saja terjadi. Mereka harus bekerja sama untuk mengungkap kebenaran di balik serangkaian kejadian aneh yang terjadi di kota ini.
 
-"Come on, human. You may dance merrily under the crimson moon.”
-
-(Source: The Case Book of Arne Steam page)
+Dalam dunia di mana manusia dan hal-hal aneh saling bertemu, Arne dan Lynn harus berhati-hati dan menggunakan kemampuan mereka untuk memecahkan misteri yang terjadi di bawah cahaya bulan merah.
