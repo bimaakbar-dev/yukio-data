@@ -14,7 +14,7 @@ season: summer
 year: 2024
 episodes: 12
 duration: 25
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2024-07-05"
@@ -39,6 +39,8 @@ trailer: "6pKAfl3jBRA"
 draft: false
 ---
 
-The Kingdom of Clays faces a dire crisis: an assassination attempt has just been made on its own Princess Lynneburg, and its neighboring countries eye the aftermath like starving vultures, plotting the Kingdom’s downfall. The ensuing conflict will shape the face of the continent for centuries to come...but Noor doesn’t have a clue about any of that! Having freshly arrived at the royal capital after over a decade of rigorous, isolated training at his mountain home, he’s dead set on achieving his childhood dream of becoming an adventurer, even if the only skills he possesses are useless ones. Sure, he can [Parry] thousands of swords in the span of a single breath, but everybody knows you need more than that if you want to be an adventurer! Our hero’s road to making his dream come true will be long(?) and arduous(?)—but if there’s one thing Noor’s not afraid of, it’s some good ol’ fashioned hard work!
+Noor, seorang pemuda yang baru saja tiba di ibu kota kerajaan, memiliki impian untuk menjadi seorang petualang. Setelah lebih dari satu dekade melakukan pelatihan yang ketat dan terisolasi di rumahnya di gunung, ia akhirnya siap untuk mewujudkan mimpinya. Namun, kemampuan yang dimilikinya mungkin tidak seperti yang dibayangkan - ia dapat menangkis ribuan serangan pedang dalam waktu yang sangat singkat.
 
-(Source: J-Novel Club)
+Kerajaan Clays, tempat Noor berada, sedang menghadapi krisis yang sangat serius. Upaya pembunuhan baru saja dilakukan terhadap Putri Lynneburg, dan negara-negara tetangga mulai mengincar kesempatan untuk mengambil keuntungan dari situasi ini. Konflik yang akan terjadi dapat membentuk wajah benua selama berabad-abad mendatang. Meskipun demikian, Noor tidak menyadari hal ini dan lebih fokus pada tujuannya untuk menjadi seorang petualang.
+
+Perjalanan Noor untuk mewujudkan impiannya akan panjang dan penuh tantangan. Namun, ia tidak takut untuk bekerja keras dan siap menghadapi apa pun yang akan datang. Dengan kemampuan uniknya dan semangat yang tidak pernah padam, Noor akan berusaha untuk mencapai tujuannya dan menjadi petualang sejati.
