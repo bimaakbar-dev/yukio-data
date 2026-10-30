@@ -14,7 +14,7 @@ season: winter
 year: 2023
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2023-01-03"
@@ -39,8 +39,8 @@ trailer: "vH32l69yp80"
 draft: false
 ---
 
-Nick used to be a member of a veteran adventurer party, helping his undisciplined friends with the accounts whenever he could. But what was his reward? Getting accused of embezzlement and kicked out by the leader he respected. Before long, he finds a few other jaded adventurers and kindred spirits, and together, they form their own unstoppable party! 
+Nick, seorang mantan anggota tim petualang veteran, memiliki pengalaman pahit. Meskipun dia selalu membantu teman-temannya dengan urusan keuangan, dia malah dituduh melakukan penipuan dan diusir dari tim oleh pemimpin yang dia hormati. 
 
-(Source: Yen Press)
+Setelah mengalami kekecewaan tersebut, Nick bertemu dengan beberapa petualang lain yang memiliki latar belakang serupa. Mereka semua merasa kecewa dengan cara mereka diperlakukan di tim sebelumnya. 
 
-Note: Each episode streamed one week early on ABEMA.
+Bersama-sama, mereka memutuskan untuk membentuk tim petualang baru yang kuat dan tak terkalahkan. Dengan semangat dan tekad yang baru, mereka siap menghadapi tantangan dan petualangan baru di dunia.
