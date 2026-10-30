@@ -3,36 +3,300 @@
     "number": 7,
     "title": "Transmission 1 ~Winter Break~",
     "aired": "2022-11-16",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=v6238Y541oX4"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/PmAXBa7B#wR6wL5hLwmrWt4jl08BdmCakVSABZwa_L5X70wEA94k"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=L2pBRWtMTXlHKzQyTit6aVlRTGZOdGFNc1dkQlcxQ1dpMWZQQW9WZ2JKWT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=VkpRN2ExV29IYWM1RzBIMW0vSDdOa3FtdFhqd1hDbERvaEViSlV2NEpuSnpQZG15VzhIK1ZxYnB5Yy9Md1F6VA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-n8oh4sdd6lhr.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/GyYFGBgQ#d2VB3AO7EGjYfCekfzQGfcVns-Eglx-f9YMapRi9a8w"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=L2pBRWtMTXlHKzQyTit6aVlRTGZOdGFNc1dkQlcxQ1dpMWZQQW9WZ2JKWT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=VkpRN2ExV29IYWM1RzBIMW0vSDdOa3FtdFhqd1hDbERvaEViSlV2NEpuSkdMc3RSV1BCQWR5UmlVSVFpMGVURQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Transmission 2 ~Encountering the Unknown~",
     "aired": "2022-11-23",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=oDBhYTCL2V3H"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/q2Bg3JgZ#9al3MJBGjDHI3MPnB-zaf4UToRNCy4CJeGgwygl6ogs"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=L2pBRWtMTXlHKzQyTit6aVlRTGZObFVYbXFYdDA3YzMzUlBBek53ME9wRT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=VkpRN2ExV29IYWM1RzBIMW0vSDdOa3FtdFhqd1hDbERvaEViSlV2NEpuSlBTQmpWYUE1bG5qMXRyckFlREEweA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-mhzz2vit9n10.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bupnRCbQ#HTvByR9f43xMCV18rV-AwdGbcn_9NCDNgXXWYaF-zv0"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=L2pBRWtMTXlHKzQyTit6aVlRTGZObFVYbXFYdDA3YzMzUlBBek53ME9wRT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=VkpRN2ExV29IYWM1RzBIMW0vSDdOa3FtdFhqd1hDbERvaEViSlV2NEpuSUFXNDFzM2szL2FXOEZ5S1QyUHRWZw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Mob 1 ~Moving~",
     "aired": "2022-11-30",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=3K0y26AU05uq"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/jnggkZ5B#FFpXtSUNDICltJS3gv_6Lyrs-aD396dmZPD81amrmtA"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=L2pBRWtMTXlHKzQyTit6aVlRTGZOanpNNzVWSUg4VkhFWHhiWmVyRzB3Zz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=VkpRN2ExV29IYWM1RzBIMW0vSDdOa3FtdFhqd1hDbERvaEViSlV2NEpuS1FxQ3Rka3pBaVdyVG1FaDBQa0VmOQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-3pukkrng3l4c.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/XnxwXTwC#MXNCnYaVzAcl_zrUBxPjgzrs_0iGJ_NvRgHovqu2r5M"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=L2pBRWtMTXlHKzQyTit6aVlRTGZOanpNNzVWSUg4VkhFWHhiWmVyRzB3Zz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=VkpRN2ExV29IYWM1RzBIMW0vSDdOa3FtdFhqd1hDbERvaEViSlV2NEpuS2FhQnlIQ25XdnlnR3lPK1ByaTdsUg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Mob 2 ~Rival~",
     "aired": "2022-12-07",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=lsucUG42EV4R"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/jnYykbAQ#9q2HAYvkro7FLnLBgSHBGxLdslxp30CQrVeL3NnoXdE"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=L2pBRWtMTXlHKzQyTit6aVlRTGZObUxuZXVEcGUxTEdEVmRwamM0YjNWbz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=VkpRN2ExV29IYWM1RzBIMW0vSDdOa3FtdFhqd1hDbERvaEViSlV2NEpuSlhqb1FJdEozdncvVjliMmpBK0NXMA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-p3mpa2jmo4no.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/CnpCxb5K#_4c-64MHe_VZm2MSFssVHLgGR34eMlRf7qjXnRUKhUA"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=L2pBRWtMTXlHKzQyTit6aVlRTGZObUxuZXVEcGUxTEdEVmRwamM0YjNWbz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=VkpRN2ExV29IYWM1RzBIMW0vSDdOa3FtdFhqd1hDbERvaEViSlV2NEpuSyt5eERnZzA2RW56bG5HcDNrVUt5RQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Mob 3 ~Trauma~",
     "aired": "2022-12-14",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=1OCillGXnG28"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/a6Z13QAa#pW5mCPUu0LaBVwGk3DyAmQ-Z1_lIMljCl4hWR2LmhUo"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=L2pBRWtMTXlHKzQyTit6aVlRTGZOdUkxM0t1N3pUR3Aydmlwc2VhTUpvTT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=VkpRN2ExV29IYWM1RzBIMW0vSDdOa3FtdFhqd1hDbERvaEViSlV2NEpuSzlqaFRaci9STnNndWRNWkRzS3JiWQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-jqkpdqw6sfik.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/buZgkQKQ#yn0w44AvKpmlBHp1QRNCO3uErSpgTXMCM2ZFKbOhONQ"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=L2pBRWtMTXlHKzQyTit6aVlRTGZOdUkxM0t1N3pUR3Aydmlwc2VhTUpvTT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=VkpRN2ExV29IYWM1RzBIMW0vSDdOa3FtdFhqd1hDbERvaEViSlV2NEpuS0FpUWdIeWtyeDJhU0xLemViT0dEMQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Confession ~The Future~",
     "aired": "2022-12-21",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=3S5oM20R3274"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Dy4m1aCL#YuYa8KqyNzVHQQCCFlhN2k7gzMRK3neFpU2j_QsNTvc"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=L2pBRWtMTXlHKzQyTit6aVlRTGZObWFFMGFjL0lqbllSNk5aNE9hOWZaST0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=VkpRN2ExV29IYWM1RzBIMW0vSDdOa3FtdFhqd1hDbERvaEViSlV2NEpuSkxFT1MxZjd3NVM2R3RvdDNPOXQ0eg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-2x9tt5zt126l.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bywTzZpC#XybOyanKyLCyjxDT13HIm5nXF7ZkIYXbQIrOFf6xrpw"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=L2pBRWtMTXlHKzQyTit6aVlRTGZObWFFMGFjL0lqbllSNk5aNE9hOWZaST0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=VkpRN2ExV29IYWM1RzBIMW0vSDdOa3FtdFhqd1hDbERvaEViSlV2NEpuSjZHVDZ1SlNjTmRGdStDUG5kWW1xVQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
