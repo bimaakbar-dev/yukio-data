@@ -3,36 +3,102 @@
     "number": 7,
     "title": "Mayoigoto, Sadamegoto",
     "aired": "2014-02-16",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=ZlgzTEFxUjkvNWRUaTJUOFFuZXEyV0lVMzZ6cjlDN2dUUXFIeE92WHdqVT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Issen wo Koete",
     "aired": "2014-02-23",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=WDRkT2pRVi9LaXV4bFV1aDdrdnVHa3lKMlBMR3k5dVRIYTFuTDVHL1cvST0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Namae",
     "aired": "2014-03-02",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=R0phek1aWnRyQjR6K0V6alFVVE9JSkJVZlFwSTZ6NXAvOEo0b1Y2K3JTND0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Imu Beki Mono",
     "aired": "2014-03-09",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=QStmWVVscDByeHlLc1hZWkVKRzJpRVdIRkNkWUdEUVZxRzdLY085NFlMRT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Suterareta Kami",
     "aired": "2014-03-16",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=QStmWVVscDByeHlLc1hZWkVKRzJpUFBaN0NQa3FycEhXOTU0RkNuSGFraz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Hitohira no Kioku",
     "aired": "2014-03-23",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=QStmWVVscDByeHlLc1hZWkVKRzJpRExOWkZvOFViUHZhMDdpa2FISnIwTT0="
+          }
+        ]
+      }
+    ]
   }
 ]
