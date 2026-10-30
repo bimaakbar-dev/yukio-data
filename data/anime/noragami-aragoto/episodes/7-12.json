@@ -3,36 +3,102 @@
     "number": 7,
     "title": "Kamisama no Matsuri Kata",
     "aired": "2015-11-14",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=amo2R3FwRXRXNFdRcTNUWEhuc0VNb05pUUlsQWVZUXRGWTF2Z2tLVmJvZz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Magatsukami",
     "aired": "2015-11-21",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=amo2R3FwRXRXNFdRcTNUWEhuc0VNaEJPdkV4cDVwZmRucTV2c3VaRVM2RT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Ito no Kireru Oto",
     "aired": "2015-11-28",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=amo2R3FwRXRXNFdRcTNUWEhuc0VNZzNERGdiTXNsZUdKVFVvOUN2cC9kVT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Kaku Arishi Nozomi",
     "aired": "2015-12-05",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=amo2R3FwRXRXNFdRcTNUWEhuc0VNazNIekdHYjdRZzFGSG1Oek5qcW9IWT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Kousen Kaeri",
     "aired": "2015-12-12",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=amo2R3FwRXRXNFdRcTNUWEhuc0VNa2taRDI0c0dGc2tJY21hK2kremlDWT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Kimi no Yobu Koe",
     "aired": "2015-12-19",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=amo2R3FwRXRXNFdRcTNUWEhuc0VNckREVGNITTA1RjRnQ3RRWnRmUHdqbz0="
+          }
+        ]
+      }
+    ]
   }
 ]
