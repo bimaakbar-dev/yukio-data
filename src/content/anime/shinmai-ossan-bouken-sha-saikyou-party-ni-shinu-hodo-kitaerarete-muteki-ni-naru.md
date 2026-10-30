@@ -40,8 +40,8 @@ trailer: "5USVeNWB_rk"
 draft: false
 ---
 
-"Why should it matter how old you are if you want to start something new?"
+Di dunia petualangan, usia seringkali dianggap sebagai hambatan untuk memulai sesuatu yang baru. Namun, tidak bagi Rick Gladiator, seorang pria paruh baya yang bekerja di sebuah guild. Ia memiliki keinginan kuat untuk menjadi seorang petualang, meskipun usianya tidak lagi muda.
 
-The strongest guy around, who also happens to be middle-aged, strives to be an adventurer! Everyone seems to think you should pursue your dreams while you're still young, but there's one man who just can't give up. In a world where most people who become adventurers do so in their teens, a guild employee in his thirties, Rick Gladiator, seeks to become an adventurer instead. After receiving unimaginably brutal training from the legendary party renowned as the strongest on the continent, Orichalcum Fist, he ends up with combat abilities worthy of S-rank status despite starting out as an F-rank rookie! 
+Rick memutuskan untuk mengikuti jejak para petualang muda yang telah memulai petualangan mereka sejak remaja. Ia bergabung dengan sebuah party legendaris yang terkenal sebagai yang terkuat di kontinen, Orichalcum Fist. Dengan latihan yang sangat keras, Rick berhasil mengembangkan kemampuan tempurnya dan menjadi seorang petualang yang tangguh.
 
-(Source: Crunchyroll)
+Dengan kemampuan barunya, Rick siap menghadapi tantangan sebagai seorang petualang. Apakah usianya yang sudah tidak muda akan menjadi hambatan baginya, ataukah ia akan membuktikan bahwa usia bukanlah penghalang untuk meraih kesuksesan sebagai seorang petualang?
