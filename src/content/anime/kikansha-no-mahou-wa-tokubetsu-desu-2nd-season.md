@@ -36,6 +36,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172192-jibcmb7
 trailer: "YBWOrQCB9r0"
 
 draft: false
+addedAt: "2026-10-30"
+updatedAt: "2026-10-30"
 ---
 
 Di sebuah dunia yang dikuasai oleh kekuatan Shadow Worlds, umat manusia hampir punah. Enam pahlawan berani melakukan pertarungan berbahaya untuk menyelamatkan planet mereka dari kehancuran, tetapi mereka gagal. Namun, ada harapan ketika Desir, salah satu penyihir terakhir, tiba-tiba dikirim kembali ke masa lalu 13 tahun.
