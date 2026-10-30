@@ -31,7 +31,18 @@
   },
   {
     "number": 3,
-    "title": "Episode 3"
+    "title": "Episode 3",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=UHNRdzlaWUUvU0E5RWloQlFwRHgzM0tmYmEvTVNvVWhFYnJVT3hGdmNCQT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
