@@ -3,36 +3,102 @@
     "number": 1,
     "title": "Imina, Nigirite",
     "aired": "2015-10-03",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=amo2R3FwRXRXNFdRcTNUWEhuc0VNcXJCS2VjNmZoa0lVdFpkL01QNUthST0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Kanojo no Omoide",
     "aired": "2015-10-10",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=amo2R3FwRXRXNFdRcTNUWEhuc0VNaW5tTTNzRU9rdjQvUTIvV0YwY2ZBND0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Itsuwari no Kizuna",
     "aired": "2015-10-17",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=amo2R3FwRXRXNFdRcTNUWEhuc0VNb3JpcWNpL1dkdkx3NDdpMWlOcFU4TT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Negai",
     "aired": "2015-10-24",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=amo2R3FwRXRXNFdRcTNUWEhuc0VNaC9lamd4MG4zQlBUNG1KUzJGTzZFdz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Kamuhosaki, Hosakiki",
     "aired": "2015-10-31",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=amo2R3FwRXRXNFdRcTNUWEhuc0VNdGREVHBqQXllYVFGVVFXTDhaNGljaz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Nasubeki Koto",
     "aired": "2015-11-07",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=amo2R3FwRXRXNFdRcTNUWEhuc0VNa0RHbVhZanZJR1lHcDJpbm9ZbmgzTT0="
+          }
+        ]
+      }
+    ]
   }
 ]
