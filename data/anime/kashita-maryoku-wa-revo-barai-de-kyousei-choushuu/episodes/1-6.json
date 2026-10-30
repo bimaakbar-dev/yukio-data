@@ -66,7 +66,22 @@
   {
     "number": 4,
     "title": "Episode 4",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzjq7SQucEWkaDHBzXY7jURsF3LuoZaaaQ9D9jPmtUTccllIVBXZJbg9VWhuUJBIldZhyGY6b_74-3EChc-IJpoB6jYYlgscko_PxLoaptOkw_QrIPvaQsCt5V-oL0vhNetTWY"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://play.xtwap.top/cepat2.php?url=BQoD0Y7lNs8Aqqgb6qOk%252BLbZOm0F5q7TZPzIIkI7O%252FiM%252BPR5Vn%252FIyXoZ3Z%252BCxrHUOpXrXjx%252BaRrdPMTkK%252FNr9mOlRQQlmiG10ICl7pK1lHTQiRqSncURzTO22ZgN8IVG7MKR1%252Fwzsbo90Sx3JQ0gkomn9zGgoG1qYAdv27dt0wxi6bbl6Qm%252B19OtfLnuATlUhlRybUs%253D"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
