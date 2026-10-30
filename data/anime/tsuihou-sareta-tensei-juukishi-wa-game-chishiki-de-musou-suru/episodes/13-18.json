@@ -87,6 +87,68 @@
   {
     "number": 18,
     "title": "Episode 18",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/q6QBHKAI#vreAMID1_PgF6HPxeBY0Tb5-2dZ0LeGH7LstVjhJCRM"
+          }
+        ]
+      },
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/7DWylBo7Na"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/o0aedv5bnjbv"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/LmpzwZRS#964QPMskLYI85nVH7BKAm80jcuTlCWRV6lV9_ppapMw"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/5Thx3kSYEg"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/nhjqlnib4arf"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/a6QAhLyD#UsmyL6lbP5UmgPHBojx1TI0r3FnSLm49iN3iX63Gh9g"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/i2rxrmrKdw"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/nvstfnej3ksu"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ajogCBCC#jZywUluNCCabhZcrrA_l6REwoxIL0qtSmoh73KeaBrs"
+          }
+        ]
+      }
+    ]
   }
 ]
