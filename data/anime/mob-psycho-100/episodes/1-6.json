@@ -3,36 +3,354 @@
     "number": 1,
     "title": "Jishou Reinouryokusha Reigen Arataka: to Mob",
     "aired": "2016-07-12",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=eXIoL80142MO"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!y4Fx2QiZ!23lSJWk8J1aRrh_FZCFcu_xVEjN0rwCM81YGtXdLC7U"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=SlhsVUVpNHMvZWQyQnozU1lpNCtxdzJNK0xQZ0d1MnMyeThaeis5MVNtMUZLWmdTbGpQV3RSaFpHd3NFQnpTbg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!u8FV0arY!UNnR8QzFNRDVmNAd05xCzD2-7g9eCV8F98FIMbcTNXk"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=TkwvUno0RFBYZWQ3Nk5VNzRxU2tqVTJSQ0Vvb3ZKWXBITFlqa0lEWFdhbz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=ZitmN2M0dk81QWpGNzM3cXRNQkc3cEErTU5RZFViUnREdVlzckxBWWQyZVlzWEdsMXRRVDY1SWxIT1RoNjF2RA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-ilhjjprkqhkj.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!yk1CnATT!DwHzLNfuv8AIfazBze0srFygrNgIyOd9Vjj8dEJcLeE"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=ZW5jczlKRzkzWm1FS0NuNDNHVDhjcUlrUU5qdUNJWWFjeGlGM2xVVStKOEs4ejZ4ZVJOOFV6d1pLbVA1cnFVSQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Aoi Haru no Gimon: Noukan Denpa-bu Toujou",
     "aired": "2016-07-19",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=MybvJrKHvv5T"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!2oVX0Y5a!ktQzb1fpRJI2QqiG1rHQk0ig8v1rkRKEudad2PZVFjI"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=aUExR2RmVGhseStyV2hVUjVwcldvL2o2dWRUV2E0VDB2dDRibFFGWEtPS3c2NllnbUJWbjZwUS90eFZtNWw4Vw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!P8N1DAgK!LaZi4brVFTpBgmJr4tok1ajuecC9ktRsO32EdCJdIrM"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=U3g1TDlLZHk3Ymd5aEc3cXJsYm5LZDQ0VXlHZkwrNVErak4rM0N3VUJFMD0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=a3dwajJMampiNkhGVHJVb2hRQkpSbHU4clpsa0s1WEhGUlR6cjdTNE9UdnFRazkyVGJ3UERzSnpRdjBmMU1ESw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-39v23a0t3e4x.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!Sk8GnKhI!LRutUn4Izhuv6-6KMhsjXwlJj4lzd5Gfp5OQyCRhc1o"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=NFlDdU44ejhCdEhYdy9PWm0yQWpDVEppb2RIM1VrMFl4dU1jZzU3ZUNzRlJJSFpDeTdHNWxHV2UzVjJEaFRqMA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Tsudoi e no Sasoi: Kantan ni Iu to Motetai",
     "aired": "2016-07-26",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=OY07552Ei0B3"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!LxMnTSiJ!M3HYoA0_jjXz3L2-ZLkxtgKYA76fKxhz-8Ozi4xvhu4"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Y2RuMnBYVzEyV1ZCc0hiUE1ycE9CZnZlTXVPRkM3NU1MYVlWVlhLcElDeWRBYnljUzVIaVpHUnpnTVJ2amJSMA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!XoNVWCIY!BPlxntqhIiETVaUk1EretD6kYv1h3uM3HDexgNyP25A"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=enVOOWtTQ1phM0tQZEZEaW54cXBJTUhsQ1Fya1lQMTAxcml6RnoySG5hWT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dnY3dmRDNmF5SDZCdEs0eGtmT0haQkExL2pLaStkMmh6d0Q1UTNPZEhPazgxTHZXM1pOSmh6WkgrMzRkeHkrWQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-hfg6tjisqkce.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!S9sg0SiD!RWHb4FUFSMBsTNGhIpE3llhnshbfQydIZipF1kwB3KM"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MjNDUG5laktESFNxSnFiSCtZNjRnMHZrMnlMaWhxY0s1bTQrMlB2ZUFmTE43OEpYZU8yVDJZZ2F1U1BHV1gyUg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Baka Only Event: Dourui",
     "aired": "2016-08-02",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=06p1S4O5Vup1"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!2hEDVSpT!gE_uMDBXHAAXGpL47fpJ_BOmjsJUF-T-Xs-7gpy1G-M"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=a0dhWUNNTjhkNWNvUzBMRzg4RTdwZWlabzljaXNjS1JUMFRDNVpxdy9DTjh6aVBIbnYrT1FQU3dob2tWckQ1Nw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!KlNRVQLI!U1gP7Ysl_DvKEMtBiQoaB-mycnuRa6EQFIIXWWMRG8Q"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=cXVmWDNQRFpRWGZNOHhLYUR2amFmWWF5TkVWcXdRTkVHQW5nakpYYW5WND0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MmxuRnZENlJPVG9EUDlKZS9Ca1RrL0NBdjZmSnlzYm15MnN4OU5UNi82ZVBqSmR1Q21QM05kSWEyT0F0eWtSeQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-ow1aqmi2jck7.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!L5tgwCCR!kahQYE41BOflae5FlC1D_6dO3gfsWTRoji2b5En_gZ4"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=L0lqVDlYd2NWajNKMzhNZUFKeVIvaE9WVkkyYXBTU0xzajNVZ29TaElLM3dCQmJGUWQxZnlWSkpLWmpzMTNkSA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Ochimusha: Chounouryoku to Boku",
     "aired": "2016-08-09",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=13a55QI6n7X8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!65cHjQbZ!lpU2qmEPUWTBWicLbUkWs35bnRE1ZmvWQNhhmpIu1oY"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Ry9JeUJSZDE5OUhSTGZ3M1o2UU9jQTJjc2VzQS9vZDlveDBRZHNrSUY4ZG1nKzZSb01KNmtVb3VVMElKZjFZTw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!vsMnHajT!jaLQElZqvk1P5QDxGOCCZG15rqP4g4CEh7v6PSP8R_U"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=cjVFTXpPU0FFa1RleTVPdFNGY1lmUG10bm90ajArRHBxOXJKU2ZKSXErWT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=djJlK2docjlNOEVWV3lxVVk0NklrMWNnaFVkZkpFcnVQZTZFSkJIWFJIZGVqOXA3U00yU2E5S0tSczAzQUt6eQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-uebpe1pgm1fs.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!7l8gDaTT!Dtw_kUDNwB3wblkjD4h7JPzoKvXNV-wvp15kAwCGpJc"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MUdiSDVNVHJIakdDTFF3VDd3Q0hjZmtxWTc5cVRRRW1qNEFPOHRUcXZHaHlZbTNNVTdPZXlxR1ZndVA0cHFtTg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Fuchouwa: Naru Tame ni",
     "aired": "2016-08-16",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=73oj2l52cr12"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!6odVWAKb!aCdEOultHdrUtvbCLWNGdVEOIlWt1aJN_n41iAvNuiI"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=SVZHYWFnM09tOUYzNGZjQlRvUndnMko5TlZNcFBpSlRWWVpoQm9vY2VhQ1htLzNpZVJ2ZjUvREpVNmpOa2xrdg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!TlchjSiB!5u6P65iMlqmbCz_YzXy1o1mJINc0G2KcBz8zjWtljDg"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=MkZlb1hOVU1QWVFGM1ArcUI1L0d0STZtcGRjSitmYU53ZFA4VlJLbDA4QT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Ylc2RDlGdERSMEZTaFkyZS9LUldBQU1pTTlrZTJHd2N4cE1BaDNONHJDUmMyVmp4TXg2b01veTJyWlJXNVQvbA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-5cd5jtjrfxcs.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!SxlGxQiI!Ge2FMocSX7kt2t8Z-hlVAFs9zpzoFguoPQC5mLh-ES8"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=NHJ3TVhWZm5xQ3IyNlhyemVxVDE1eVJ6RVo1TTd0LytVbUtDT0lEeThVOWJxTDY0aU5Xb1o4Y2xlSzlRWWZWeQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
