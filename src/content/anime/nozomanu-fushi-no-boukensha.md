@@ -8,14 +8,13 @@ kitsuId: "46059"
 
 type: ONA
 status: finished
-rating: PG-13
 source: light_novel
 
 season: winter
 year: 2024
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2024-01-05"
@@ -40,8 +39,8 @@ trailer: "zzbm_d03KqM"
 draft: false
 ---
 
-Rentt Faina has hunted monsters for the last 10 years. Sadly, he’s not great at his job, stuck hunting slimes and goblins for a few coins each day. His luck turns when he finds an undiscovered path. At the path’s end, he meets his demise in the maw of a legendary dragon. But, he wakes up as an undead bag of bones! He sets out to achieve Existential Evolution and rejoin the land of the living.
+Rentt Faina, seorang pemburu monster, telah menghabiskan sepuluh tahun terakhir untuk melawan makhluk-makhluk berbahaya. Namun, sayangnya, dia tidak terlalu berhasil dalam pekerjaannya dan hanya bisa membunuh slime dan goblin untuk mendapatkan beberapa koin setiap hari.
 
-(Source: Crunchyroll)
+Suatu hari, kehidupan Rentt berubah ketika dia menemukan sebuah jalur tersembunyi yang belum pernah dia lihat sebelumnya. Dia memutuskan untuk mengikuti jalur tersebut, yang membawanya ke sebuah petualangan yang tidak terduga. Namun, apa yang menantinya di ujung jalur tersebut akan mengubah hidupnya selamanya.
 
-Note: Each episode streamed 3 days early on some streaming sites. The original TV broadcast started on January 8th, 2024.
+Dengan keberanian dan tekad yang kuat, Rentt bertekad untuk mencapai evolusi eksistensial dan kembali ke dunia orang hidup. Apakah dia akan berhasil mencapai tujuannya, atau apakah dia akan terjebak dalam kehidupan baru yang tidak terduga?
