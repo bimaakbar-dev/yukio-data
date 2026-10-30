@@ -3,36 +3,102 @@
     "number": 1,
     "title": "Ieneko to Noragami to Shippo",
     "aired": "2014-01-05",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=QStmWVVscDByeHlLc1hZWkVKRzJpTlV3T3ZZVHhwcHUrRUpFNzBhSHNMYz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Yuki no Youna",
     "aired": "2014-01-12",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=Y0dEdjkwT3lKeGVMa2c0bDh0UHoweG9jZ1JJTWhPTzVJblh3Z0lJQUJLdz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Manekareta Yakusai",
     "aired": "2014-01-19",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=bnMzUzgrNnNUV25mUWF4VHpWTkdxUFNXZ1ZoenJCenY2UTF4VXJHLzZQUT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Shiawase no Arika",
     "aired": "2014-01-26",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=clY4c3VFa0E0SGtVYU9MUVZwQUF0Q0NYMi9mSVowalpGdVhZQlJFcXZVST0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Kyoukaisen",
     "aired": "2014-02-02",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=QkdKUWx0eWhsN2VhanNpRGhiTVFoMFdobzRoNEk1VWdXaWgwM1Q5U01Ebz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Kowai Hito",
     "aired": "2014-02-09",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=UHpEaXNNZUx0OXBlREhnRnY3QkZjSnlWWGhkN0dSSUZWUTA4MXcrVzl1VT0="
+          }
+        ]
+      }
+    ]
   }
 ]
