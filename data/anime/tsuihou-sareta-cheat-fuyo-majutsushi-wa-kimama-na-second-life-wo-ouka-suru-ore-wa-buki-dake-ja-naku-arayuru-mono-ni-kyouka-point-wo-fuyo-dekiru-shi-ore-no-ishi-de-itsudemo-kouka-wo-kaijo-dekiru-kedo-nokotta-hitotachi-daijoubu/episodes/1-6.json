@@ -17,37 +17,17 @@
   {
     "number": 2,
     "title": "Episode 2",
-    "streams": {
-      "1080p": [
-        "https://mega.nz/embed/5MYAAagb#n0iOZWU54KWqG4Y43R-0zZX2b6r6AswcbgYa3jfkHvM"
-      ],
-      "720p": [
-        "https://odvidhide.com/embed/bqrnx46lwvqy",
-        "https://odvidhide.com/embed/m85j2dge3i58",
-        "https://mega.nz/embed/ccARDDYJ#14jEwmLH89V8q5Wj8H2OHwUDyM0DaH6NOxadj8XmFl0",
-        "https://mega.nz/embed/tc52DJqC#pPDWztf45Uy1G2OO6f0G3fPd30i_7qkSMTK8VKdB8_w",
-        "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/ondesu/new/hd/index.php?id=Q0gwd1hKYUU5WjBVMllJc3dJNDZaQT09",
-        "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=NEhLN1VJV2dteStzcXNwVXdYVHJwL2dwbHpTSW5jenNPd3BneGhabitCNmxlMTVIT1J2WEEvTklWM2lkbi8yd1liVjI1b3YzK1Rkeno0THl4RWxrNXc9PQ==",
-        "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/arcg/?id=aGxGUkc3eFpGLy9PVnRmaU9rRTRENWcvdmtxTzJUYVh6TjdrRERUbVQzUG01NTBURnFleHhZK2Y1NVhsT1crMVBpOVN3NDc0ajUyeUhFN1V0S0k1R2c9PQ=="
-      ],
-      "480p": [
-        "https://odvidhide.com/embed/391l3ggnja7g",
-        "https://odvidhide.com/embed/aill6718coft",
-        "https://mega.nz/embed/AEI3mC7S#1v4BH4VCtH1wJKXMEDSCQ_O4h0qmRm6uJjIUnn3H_dU",
-        "https://mega.nz/embed/1B5AXBxL#3yy2PAnz3C6ZdRaWdb_ACyft5eUBlTyRtwnkx9-wCss",
-        "https://www.blogger.com/video.g?token=AD6v5dyl8zrv6mlVXNvt-FjnDG4AW_RXlAb3i_lxqFS8OhtNHG1Udtvbn9YWK85ZUl3YuEetiMSXXAxT2G1ZPeXKIHv4CWRr0bJRCqEgiGbvXnipXMON8F7IaYADV5AZw98xrUaSpZI&origin=odongoing2deredesu.blogspot.com"
-      ],
-      "360p": [
-        "https://odvidhide.com/embed/dfoj0nzt8g9g",
-        "https://odvidhide.com/embed/7zoxta8xerdb",
-        "https://mega.nz/embed/gRhVTKCZ#f2c7UJ_PhahBuEK2CGPmKA0IaSG9GUj7DArSpW0leMc",
-        "https://mega.nz/embed/4BRg2LjZ#evofeecPRquPnamzgaqQ5pjCNYlUyKK-XN2SdSSjmKw"
-      ],
-      "Unknown": [
-        "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0azlOdm9kcktPR1VYZnZEZExzWTVKZm0xc1lNUjd3eFpnWThDK3p4Q3dKWA==",
-        "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0bEw2V01EaEVKMTRRTGpVeDNiNUxzeXJJbjh3dkt0R3dUbXdyaGZGcStxZw=="
-      ]
-    }
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=T29va21YanhFRWlmTW9nVE1OeHVOUzdjYWc0V1hsZStpeUtUOEpWclRocz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
