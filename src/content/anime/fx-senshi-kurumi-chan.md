@@ -37,7 +37,7 @@ trailer: "7rxIZ3z0S4s"
 
 draft: false
 addedAt: "2026-10-15"
-updatedAt: "2026-10-28"
+updatedAt: "2026-10-30"
 ---
 
 Kurumi Fukuga, seorang mahasiswi, akhirnya mewujudkan impian lamanya untuk memulai trading valuta asing (FX) dengan tujuan untuk mengembalikan kerugian 20 juta yen yang dialami oleh ibunya yang telah meninggal. Ia percaya bahwa dengan FX, ia dapat dengan mudah menghasilkan uang dan membalikkan keadaan.
