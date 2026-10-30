@@ -14,7 +14,7 @@ season: winter
 year: 2014
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2014-01-05"
@@ -40,8 +40,8 @@ trailer: "IQnnwUXd_0U"
 draft: false
 ---
 
-Minor god Yato is down on his luck. Fed up with his slacker lifestyle, his partner abruptly quits. He has no money, no worshippers, and no shrine to call home. But just when things are starting to seem hopeless, a bus accident forces him to cross paths with Hiyori Iki, a sweet and perky high school girl. After the accident, Hiyori's soul has a bad habit of slipping out of her body, and after enlisting Yato's help to get her back to normal, she begins to fall into the world of spirits and gods.
+Yato, dewa kecil yang kurang beruntung, hidup dalam kesulitan. Ia kehabisan uang, tidak memiliki pengikut, dan tidak punya kuil untuk disebut sebagai rumah. Setelah mitranya memutuskan hubungan, Yato merasa hidupnya semakin tidak menentu.
 
-But Hiyori's not the only one who's keeping tabs on Yato. A god from Yato's past is back, and he's not interested in a friendly reunion.
+Namun, saat ia berpapasan dengan Hiyori Iki, seorang siswi sekolah menengah yang ceria dan periang, kehidupannya mulai berubah. Hiyori mengalami kecelakaan bus yang membuat jiwanya sering keluar dari tubuhnya. Yato membantu Hiyori untuk kembali normal, dan secara perlahan, Hiyori mulai terlibat dalam dunia roh dan dewa-dewa.
 
-(Source: Funimation)
+Yato sendiri memiliki masa lalu yang kompleks, dan seseorang dari masa lalunya kembali hadir, membawa konflik yang tidak terduga.
