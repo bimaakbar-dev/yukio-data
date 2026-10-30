@@ -3,6 +3,17 @@
     "number": 13,
     "title": "Fuku no Kami no Kotozute",
     "aired": "2015-12-26",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desudesu2",
+            "url": "https://desustream.net/dstream/desudesu2/new/index.php?id=amo2R3FwRXRXNFdRcTNUWEhuc0VNbjJSc0x3VXVqRlgvWkU5ejNWb0NHND0="
+          }
+        ]
+      }
+    ]
   }
 ]
