@@ -14,7 +14,7 @@ season: summer
 year: 2024
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2024-07-02"
