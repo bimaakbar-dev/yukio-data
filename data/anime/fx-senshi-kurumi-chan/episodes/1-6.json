@@ -78,7 +78,22 @@
   {
     "number": 5,
     "title": "Episode 5",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dw239s3PrjcehBgoaSvM-c0LcVw0EoinL6ehvQfFNSTWYGxKp5jdMw0nLyV_uRF0Tmr4cMAX-wezgFpxtsgbgWKYkOjS5VvbaL6k3T2A9T9JSxwgyzjAIMZ0yOejV0IRhRGXir-"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://play.xtwap.top/btube3.php?url=iudOQdeCyKxBJptZwALkiGEhcOtAug%3D%3D"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
