@@ -36,6 +36,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W
 trailer: "YBWOrQCB9r0"
 
 draft: false
+addedAt: "2026-10-30"
+updatedAt: "2026-10-30"
 ---
 
 In a land dominated by the formidable Shadow Worlds, most of humanity has been destroyed. To rescue their planet from impending doom, six brave heroes fight a perilous battle…and fail. But there’s a glimpse of hope when Desir, one of the last mages, is suddenly sent back in time 13 years! Now armed with knowledge of the grim future, can he alter the course of history and save the world?
