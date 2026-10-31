@@ -8,18 +8,21 @@ kitsuId: "51005"
 
 type: TV
 status: airing
-rating: PG-13
 source: light_novel
 
 season: fall
 year: 2026
+episodes: 13
 duration: 24
+rating: PG-13
 
 aired:
   from: "2026-10-04"
+  # to: # edit manual
 
 stats:
-  score: 6.8
+  score: 6.9
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -33,11 +36,10 @@ studios:
   - studio-a-cat
 
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg"
+# banner: # edit manual
 trailer: "Z9ofT53sz2U"
 
 draft: false
-addedAt: "2026-10-12"
-updatedAt: "2026-10-18"
 ---
 
 Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!
