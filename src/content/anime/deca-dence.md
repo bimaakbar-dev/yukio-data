@@ -8,14 +8,13 @@ kitsuId: "42433"
 
 type: TV
 status: finished
-rating: PG-13
 source: original
 
 season: summer
 year: 2020
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2020-07-08"
@@ -40,10 +39,8 @@ trailer: "wqCfnp_fGwo"
 draft: false
 ---
 
-Many years have passed since humanity was driven to the brink of extinction by the sudden emergence of the unknown life forms Gadoll. Those humans that survived now dwell in a 3000 meter-high mobile fortress Deca-dence built to protect themselves from the Gadoll threat.
+Di dunia yang hampir punah, umat manusia terpaksa hidup di dalam benteng mobile raksasa Deca-dence setinggi 3000 meter untuk melindungi diri dari ancaman makhluk misterius Gadoll. Di dalam benteng ini, manusia terbagi menjadi dua kelas: Gears, para pejuang yang bertarung melawan Gadoll setiap hari, dan Tankers, mereka yang tidak memiliki kemampuan untuk bertarung.
 
-Denizens of Deca-dence fall into two categories: Gears, warriors who fight the Gadoll daily, and Tankers, those without the skills to fight. One day, Natsume, a Tanker girl who dreams of becoming a Gear meets surly Kaburagi, an armor repairman of Deca-dence.
+Natsume, seorang gadis Tanker, memiliki impian untuk menjadi seorang Gear. Ia tidak pernah menyerah dan selalu berusaha mewujudkan mimpinya. Suatu hari, ia bertemu dengan Kaburagi, seorang tukang reparasi armor yang memiliki pandangan yang berbeda dengan Natsume. Kaburagi adalah seorang realis yang telah kehilangan harapan, membuatnya berbeda dengan Natsume yang selalu optimis.
 
-This chance meeting between the seemingly two opposites, the girl with a positive attitude who never gives up on her dreams and the realist who has given up on his, will eventually shake the future course of this world.
-
-(Source: Funimation)
+Pertemuan antara Natsume dan Kaburagi ini akan membawa perubahan besar dalam dunia mereka. Dengan latar belakang dan tujuan yang berbeda, mereka akan saling memengaruhi dan membentuk masa depan yang tidak terduga. Apa yang akan terjadi ketika dua orang dengan pandangan yang berbeda ini bersatu?
