@@ -2,6 +2,59 @@
   {
     "number": 25,
     "title": "Episode 25",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=RBJQ0nX5Si4x"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/S00ilCrB#NsEQ90ELM9KkW-0GSTZVqWaiUA6R4CZOrTcS6Z8GTF0"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TEd5TFVIbnc5M0xKbStsM2xNQU1qVEc2MjNqTkVGWnp5MXpDeHVqTWxDM3ZSS2lXbGtDWlVIdDhqMk9lOUN4Ug=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/T1syGagS#ddhjt7DOeusYEssPmfPsWaHHisRA45jwdS0azyK1asA"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=Y01wd3RWMW05T2h3TThIM2dROS9PdHozbFpKSVVUY0V6ZnZ3OFZFeWpKYz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=OWZkTjZLVTJYdVppZDFiRFpwNHdxV3hJd1VJN0NTWkVpZlFSdUJzRUFncHFhNlQ3ekFjR0ZqQS9uTVJGRnVBeA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-g2v6xefbaujf.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bxkE3QhD#HwAImy_78IgXaNmy_jyXVALA6M7492LNsqN_hDBaxT8"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bnFPT0ZFY1hlaWdwVkZIcWJTQWpRL0dUWFlUVFQ5TXpKUTl0UzVMMWZHMS9BUkxNUGN4ZDFQMFRNemxjVllhLw=="
+          }
+        ]
+      }
+    ]
   }
 ]
