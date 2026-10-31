@@ -3,36 +3,386 @@
     "number": 7,
     "title": "The Hurt Locker",
     "aired": "2026-02-21",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/67mYoo8bK0"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/x0r8e7yodev0"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Dl5zlI6Q#ccYga6podsr_gbwIZIRjHzpG0NR9CJ4Lw76UpL_v1aw"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=anR5Nitvc2FEUFdVOWt4MUtvcTJiUT09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/Q5ud7eTz69"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/tlrhsclfmgon"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vxAXWTIQ#6Gv-lvhT3w05LWq5GeYeo7bcZ41omsPEuhJADkHvcYU"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=anR5Nitvc2FEUFdVOWt4MUtvcTJiUT09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/kqWvtYDEhU"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/1djr6ud6hwmh"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/b55wgb4Z#B4CEKCaFXLeyS2VJ7PmoaUtEJt3pNBMm2u8rxC9VK2c"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Good Bye, My Friend",
     "aired": "2026-02-28",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/I1w4uZOF9M"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/of2za2doy8kz"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/DqImxI6b#yh3HhnyQQ4cOhGUW7TVzr6OJR22OiklmZT-Sf9nGfiI"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/HbcxtD2SSK"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/xndcefw6g9hv"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/37ZEzKwK#9chBqrydUzz-3yrMieb8uiIfaX1tBNlSi1go7tPPqIQ"
+          },
+          {
+            "name": "ondesu3",
+            "url": "https://desustream.net/dstream/ondesu3/v5/index.php?id=VnRPcFdWVzlnWVVTWEVJRGl2WVV2QT09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/2mJuZ1AidZ"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ri6j5lj4u6ds"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/m7oSVSZY#_1RB52Zb7R0EhQeYaWmddYVrQ5kQeDVfJ3-DwQMeOSs"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Reunion",
     "aired": "2026-03-07",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/CanGZbxBhp"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/4v2u97ay57zz"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/1U8lkCgS#plXQpG2_5Z9qdpCeQX1JIDeGb2qrO2wRKUluSucA568"
+          },
+          {
+            "name": "ondesuhd",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=K0FwVkFvNWtQaU9TZ0JoMG53TUEvUT09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/KSp3HGxldO"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/8x6pg6wuvn2b"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/lQ0HmQzI#7d1AbPVoceVs1zDlssEgY3pIrFPevI4XLN6372rbsBU"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=K0FwVkFvNWtQaU9TZ0JoMG53TUEvUT09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/SNY1tdoRES"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/55u8u7gnrd23"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/1Z8VlQoY#RuYH6p7LVK5t9zHty-txgf-Ywu0OCsflNrX5vm4XVkk"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Martyr",
     "aired": "2026-03-14",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/AAJIFmwBXn"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/uhvr417y5cl8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/pngzADgR#9mZrB0zfHKM_bnxqLNZHE4YT2EO31PoVfKG9wF5o8Is"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/A87e0joBd7"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/v36206eqzwgh"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/dngyySwT#KQE-VzLeWCqV0y8-m1WsCNDeN_SQoPsmb_dRkv-4kzk"
+          },
+          {
+            "name": "updesu",
+            "url": "https://desustream.net/dstream/updesu/v5/index.php?id=NUl2SU51c25wamVSbTVuKzkrb0ZpUT09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/xRYA5HbPl5"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ug11nd7vsjho"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/M6I0VSJI#pqK5q0Ls4JQgLsDll2gyvw2ZTgMOi05nc0ElojVaVAU"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "I Miss You",
     "aired": "2026-03-21",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/ymx8Bqadmv"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/4jfeecri2jmp"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/CHJ0mRiL#AmnlQDdwItTI4jU9sN0-De_9aWqPi9BuqcjZc_xjF9Y"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/SJ7bKFsRVR"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/5y648jwwvlfg"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/iSxiwLIZ#j5t3F2BAK73uP2M2-qMKx_4RINHU3C5rsqGqchuJfic"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=SHUrTlhOMHhMQ09pVFNUdytEVlBxUT09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/8TKdQfS2er"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/jtmtgjosw901"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/PexQxBia#-tpGquTxLBj-FA8WfDRufk8J-C2DKi53sSIN-7-_AlM"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Quo Vadis",
     "aired": "2026-03-28",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/1TBoaicLDx"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/dq4njdf0vqtq"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ijRF1CiB#aimGJoRE2zMoR1ZF-v8aOc2j7L6UM6M8M7QnIZwXD3E"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/20o5RxXvB4"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/g5ep9ez69jmq"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/zvpThQYS#wAPFMUC4LbVWjdlYtWNiIsiOlbWrvoJHmQmhHE7xPgc"
+          },
+          {
+            "name": "ondesu",
+            "url": "https://desustream.net/dstream/ondesu/v5/index.php?id=bU5tdDVjL0Eza3RjdGlKa2ZqRGYydz09"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/LTQkqSngx2"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/8ul65k4pwtxl"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/DqJlwBCY#33ld-0UMe6qkky1ZS-fePw_a0oq0ft-7A5LR59mVMoE"
+          }
+        ]
+      }
+    ]
   }
 ]
