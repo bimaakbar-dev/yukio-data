@@ -14,7 +14,7 @@ season: summer
 year: 2019
 episodes: 12
 duration: 28
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2019-07-03"
@@ -39,8 +39,8 @@ trailer: "wD9o_8UjOvg"
 draft: false
 ---
 
-Itʼs the first day of Planet Camp, and Aries Spring couldnʼt be more excited! She, along with eight other strangers, leave for Planet McPa for a weeklong excursion. Soon after they arrive, however, a mysterious orb appears and transports them into the depths of space, where they find an empty floating spaceship…
+Aries Spring sangat bersemangat menyambut hari pertama Planet Camp. Bersama delapan orang asing lainnya, ia berangkat menuju Planet McPa untuk sebuah petualangan seminggu. Namun, tak lama setelah tiba, sebuah peristiwa misterius terjadi dan mengubah segalanya.
 
-(Source: VIZ Media)
+Mereka menemukan diri mereka di tengah-tengah ruang angkasa, jauh dari tujuan awal mereka. Sebuah pesawat luar angkasa kosong terapung di depan mereka, membawa pertanyaan tentang apa yang sebenarnya terjadi. Aries dan teman-teman barunya harus beradaptasi dengan situasi yang tidak terduga ini dan mencari cara untuk bertahan hidup.
 
-Note: The first and last episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.
+Dengan latar belakang yang penuh misteri, petualangan Aries Spring dan kawan-kawan dimulai. Mereka akan menghadapi tantangan yang tidak terbayangkan sebelumnya dan harus bekerja sama untuk mencapai tujuan mereka. Apa yang akan mereka temukan di ruang angkasa yang luas ini?
