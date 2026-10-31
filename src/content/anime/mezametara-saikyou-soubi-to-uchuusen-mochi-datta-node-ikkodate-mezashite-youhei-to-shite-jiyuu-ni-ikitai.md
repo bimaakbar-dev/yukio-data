@@ -42,6 +42,8 @@ trailer: "Z9ofT53sz2U"
 draft: false
 ---
 
-Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!
+Takahiro Sato hanyalah seorang pekerja kantoran biasa dengan hobi bermain game. Namun, kehidupannya berubah secara dramatis ketika dia terbangun di atas sebuah pesawat luar angkasa yang sangat familiar, mirip dengan yang ada di game tembak-tembakan favoritnya.
 
-(Source: Seven Seas Entertainment)
+Dengan pesawat yang sudah dilengkapi dengan berbagai fitur canggih dan awak kapal yang terdiri dari wanita cantik, Takahiro memiliki kesempatan untuk menjalani kehidupan yang selama ini hanya dia impikan. Dia berencana untuk membuat yang terbaik dari keberuntungannya ini dan menciptakan kehidupan yang penuh petualangan dan kebebasan.
+
+Dengan latar belakang alam semesta yang luas dan penuh misteri, Takahiro siap untuk memulai petualangan yang tak terbayangkan dan mengejar kehidupan yang dia inginkan. Apa yang akan dia temui di luar sana, dan bagaimana dia akan menggunakan kesempatan ini untuk meraih kebebasan dan kebahagiaan?
