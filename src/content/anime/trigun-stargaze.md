@@ -14,6 +14,7 @@ season: winter
 year: 2026
 episodes: 12
 duration: 24
+rating: PG-13
 
 aired:
   from: "2026-01-10"
@@ -21,6 +22,7 @@ aired:
 
 stats:
   score: 6.7
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -38,10 +40,8 @@ trailer: "JBYLkW--zmI"
 draft: false
 ---
 
-It’s been two and a half years since the Lost JuLai tragedy, which laid waste to an entire city and engulfed the whole planet in chaos. Meryl, now a senior journalist, continues her search for Vash with her new younger sidekick, Milly, and runs into Wolfwood along the way. As plant robberies begin taking place once again, they sense Millions Knives’s organization conspiring behind the scenes.
+Dua setengah tahun telah berlalu sejak tragedi Lost JuLai yang menghancurkan sebuah kota dan menyebabkan kekacauan di seluruh planet. Meryl, yang kini telah menjadi jurnalis senior, terus mencari Vash dengan bantuan asistennya yang baru, Milly. Dalam perjalanan mereka, mereka bertemu dengan Wolfwood dan menyadari bahwa organisasi Millions Knives mungkin terlibat dalam serangkaian pencurian tanaman yang baru-baru ini terjadi.
 
-Meanwhile, Vash has taken the new name Eriks and is living in hiding in a backwater town when he gets an abrupt visit from Jessica, a young girl with an SOS from the third ship they call home. He thus decides to put an end to a long-standing feud in order to protect those dear to him.
+Sementara itu, Vash yang telah mengubah namanya menjadi Eriks hidup dalam pelarian di sebuah kota terpencil. Namun, kedamaian itu tidak bertahan lama karena seorang gadis muda bernama Jessica tiba-tiba mengunjunginya dengan pesan darurat dari kapal mereka. Vash kemudian memutuskan untuk mengakhiri konflik lama untuk melindungi orang-orang yang dicintainya.
 
-Just as the pieces of the story begin falling back together again, the planet receives a message from the far reaches of outer space: “We are a fleet of colony ships from Earth... Those who wish may accompany us to a new frontier.” The entire population rejoices at this news. However, as if to mock their celebration, the one-winged angel returns to wreak havoc and despair. Fates collide to forge a final conclusion for the panicked planet.
-
-(Source: Crunchyroll)
+Planet tersebut kemudian menerima pesan dari jarak jauh yang mengubah segalanya: sebuah armada kapal koloni dari Bumi menawarkan kesempatan untuk memulai baru. Namun, kegembiraan tersebut segera berubah menjadi kekacauan ketika seorang tokoh misterius kembali untuk menyebabkan kehancuran. Nasib semua orang mulai terjalin untuk mencapai kesimpulan yang menentukan bagi planet yang tengah dilanda kepanikan.
