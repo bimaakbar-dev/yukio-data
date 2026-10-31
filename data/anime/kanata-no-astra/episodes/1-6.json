@@ -3,36 +3,350 @@
     "number": 1,
     "title": "Planet Camp",
     "aired": "2019-07-03",
-    "duration": 48
+    "duration": 48,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=817w68VI22O8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!r1NGUQBb!JquQcZOlj7F8iE-oVs5FiCWtudhXTVCxEVvl0PZ7d9k"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Q0ZMOU53bHVlS2ExOGhlN3MyMmh4OU1SQUxpM0NEeUdBOHhlaUY5ekZYcTlJRW1mN3dDYUR4ZmhGMThKRzJSRQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!uwcyRADb!xJ5Liw9gVgAJ4y7saEpO1GT2QIPtq87WNWExyYvAJqI"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Wm9rNXBMbXpaYnRsdlE3OWxGNjZKTWExbWxyS2ZFNXR0THZkTkN4UHRSdWo4WGl3UnFySkpxa2VJNXkvMmJKSw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-mqrmu4e9670b.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!jwFGWawJ!iYXUvEUd0RPqtqrxMYoK20hWk7QAxueuo4EuClf0Hvc"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=M1doczdyVkVUejNYb3BMNzRudG5jNmJva2ROVVpmekhqZEZHOVkwTG1yWHpnM3JnTmxhVDR4N0gvODBOY3hxTg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Wilderness",
     "aired": "2019-07-10",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=4i3H6H4js8Rm"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!zsFAyKAB!_8AXRIWQ2S5XVyUCp0vO0vzwe4qVbKD3er6-huTLz88"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=WUpucVpBNWFOb0ZOdkY1UnlsVDVQZkVpcmFFY2dyZWNYNzZRNlIya3YrQlltYTBTalkrWFd1SlhzREhiaUFNOQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!ald2nKTS!wcHMHA3YdXvM-QTJo4h8pdBxXgLJ7LM8YefGpsVwfEQ"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=Ris2RmNFS29IMU9WaWdLaW9oeG9zd05aTUJWbFNFRWc2em53L1MvaUZLWT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=aW9DZTZFNDlMdkZPaDlDSWsvSW9XM3dEYjMyQkp1K09KbWRBbXhaSVQxRHJGdVhxVG41Y3Zpd2MyNnprc2V2Tw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-wfquyd27kpoe.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!KoEG1QiA!H9cUV3rtGb9BQUWrHedeBVjJiQ4CuTl5Z2VaKCvuYC0"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=d2tpRmU1c0hiVFdMcmpORTFqTitGUXNSSmt1QjdIbEI4WDRyS2MvWGEzR3VTODJGeVg1ditNQjVPeDZJcjlGNA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Meteor",
     "aired": "2019-07-17",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=VxKO2b13nLGS"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!jlMEmQyQ!pdBnxcoL7w9zUkpYil2X-1NEXFiRdIkOVOnhmxVxPAs"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=YTlwdUFpL0lRUHpRdXJpbmoxd3QxSk8zbjBXRnJ3T3huTy8rRVN6aWpMcWtXeDlWb3dTUWkrZDkvSXhDaGNrRQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!G0MgzQyA!OtRLftNAhipGhpBP6JdTbJcySSm8eOf_k_53jAdxVRw"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=Ris2RmNFS29IMU9WaWdLaW9oeG9zeWFnSkpjN1BwQjFmSWxMNVBITGg4cz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=VFVmcitkWDFwUHJzUjhTV1FjdHZsdnZDOGpxRXpodWJ0OTV4eHZIV3VqVGlwS1V3VnRnUDJUTzMyNElyOWw3cQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-x2n6e8isqlew.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!i5Ni1CTI!1GOGALJDMS4oYklFOYF9xBxeNqI07p7QvYHZH-YHu_4"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=WXZSRnZWeDdrM2xOMUNRZEY4Q0xWd0l1MlRUTmFPOG9VaWdpM3ZmdGxJOXgrUkFSemZRVHo0RjM0UXkwTVpHRg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Star of Hope",
     "aired": "2019-07-24",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=u8QPUk77qe48"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!rhMGDISa!q3r1fW-3Tdfyl2UACF3Dk2YzvzOWzbu-RZEYYOMlb9w"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MXJUaEtjNVpWYXNON05Tek01Y21DZU9MVDdvVC9DWU92d2c1N3hEcVgrMjVZbllXYWR4NTl2ZDFpM3VBQ2NCOA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!r9cWkajb!UncoBlB5EJlYnMirygLapiku223CYtaeySJimI_zJG4"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=Ris2RmNFS29IMU9WaWdLaW9oeG9zK3NVczV4M3E3NzkwQWtGY2VNNjIwbz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=K1FiZG02b1RsK2RnUWdMRFoyY1dRekwxV29CWjIyS0ZZRWJLU29od2t2TEhsc2t1amdMUlMyajdsNThRUFRjQQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-fq8nk5jbcygt.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!zpMEFYbb!GOA_3lE7j5vt_1ih5_PFFDkHXTMA3qd4bRu5YE6v42M"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=VHhaT2lMSmlOYUxxdWxVaUxLc3FwaG1Tb2JGQ1N2RHRaQTd1N1ZYOGVvaGVBVHVDc0g1VjQyRE80MFdWVndWQQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Paradise",
     "aired": "2019-07-31",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=7aQ2kL3SPuH1"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!z4dGxS4Z!ipoGJMWQU1y8lOiAu3n0iJsGAn6-Ppe7KnCmTUsaigg"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=KzNNeHpSYVpHUWs4SmFsdG14c3ZHSXczYUNnZElIcGxuaGcyNE8zRUZUalJuck5PNUtwWnVsSVEzcmxHYng3dg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!GwcATCJK!JpWlytXMMr7J1fXCjjupdrNL7o6f0wMkx9ofFBQc1ps"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=Ris2RmNFS29IMU9WaWdLaW9oeG9zM285Z1FxU3piS210UldaZ0hPa1J3bz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bVYxNHhQcmlFd3YwYUkzcEszZ0FLd2VqZTh2dTVXemJkQTJXTkduUWJoUzdKUGpzaTErcEdSZ3NHR2E4S2Joeg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-6hh2c31frxpt.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!OlE2jKLD!QJCZ3G-QcI7VD4LQh5Amrw2eamOCcc_2EyIcqhVH6eY"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=VDdIbE0zMm01L3J1SC9ieHZkZmpGWk9wZHVrM0RVSkxMemFrUWFkUGY5WmFYdzV5VFJNSFhhMG9ybWhZSjZsVA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Secret",
     "aired": "2019-08-07",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=4551H1OwNOW7"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!f4cCVITI!18bsBzRFqcgwQwXcL2XyYfAupDHbWAleXiQs0vSGii8"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=RU8xNVpMb0NNV0RKaUdxSUR5Z3ZZbkFKTmZLYjVCUDh3Zmp1dmcwY0dYOXYrcnZRQWlrV2ZkN2JvUjFUV251aw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!igVAnKQQ!vA0uomZHLSt8qwdptRMSvqWPnAHwlMmjz3yqSdvPQzg"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=Ris2RmNFS29IMU9WaWdLaW9oeG9zOWxqZnZyVlI3azkrdDFoQkNQUXFSTT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bnZXYXY1MU9jbU4vamtNa2c5V2w1TVJ6bkxub0pPdjhUM1RvblN1NXpWam94ZGJBbFkxN1hmNFNEbS9NRnNldQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-ld8goy03gbtk.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/#!upcyFCgA!1GncgApa6irb1fSYlW3NjjdJmnbDpdAdxzoZQp2-qyA"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=TFRiMkI0Z0lTV2FIbWF6aWtIQ09ycTBlVGRxd3cwS3hYV21FU2V0RmhHUnpESzdKNHlJOWJyQytHcVdERDR0eQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
