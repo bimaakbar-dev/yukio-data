@@ -3,36 +3,354 @@
     "number": 1,
     "title": "Quest 1: I've Been Waiting for this Day",
     "aired": "2019-10-07",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=6IdDE42NW2nf"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/W88GACxI#1UNhIT0lcluZJ8wWidemzEZJu_LIoo50MIy7ue9GEeg"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=N1VjY0hZbVJkMGE2Mjk1dFJXTHIvV3phSzYzbncwTGZmTkFVUGk5c21YTWJvS3V3ZUI1R2NOeHVEQ1B1SFJQNg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/n9lCiQrb#pyqiV-4z0JWs8iGWyiaX3FvgdhMvLUQ7SOvHpQNk-2c"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=Y01wd3RWMW05T2h3TThIM2dROS9PbGlOaVBKNEJOaHEvcFhTR3RHOGNxTT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bUphbjZ3b2NMRCttSE9qc2t2dXVidkVuRTlwbjJLT1ZhaVNVWnRkMHBQU1cva21ZSHF4cEV6UFpONkthNTBQSw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-xd1kk6xlvx5x.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/O10knASJ#YlmJBt3vxP8-QeNMqZsbBVdQzZmsrYrtMMqga0qb5-o"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=RjVPMFpFTk1acjVWWHhqbm5qNXhram5IOGNnWG00MllqZDVXRFVrYXpGK2RJdUdSYXRCdS90SXhtaGNjajdOUQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Quest 2: Eerie Naverius",
     "aired": "2019-10-14",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=aFCY4pCy18oo"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/TplCSKxL#BzEIiM2ZbTpygiEEe8rG1OxV6z8sXmafg3AzII44PTg"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=ajVMKzNOU3JHYm1YMWNtOWNiV0hXb3JVNER5QVhtcHBwdzdZdHM0OHhiQ2Z2NDNoeDBtSGhmRlVlMUllSmRteg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/bl90CAob#AInfC5ikVVIzm1_IGST-OWB4IyO9KS2rZ8iZm0wXa7Y"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=Y01wd3RWMW05T2h3TThIM2dROS9PZ29zWkFBd3J6TmdCTmJUQTYxOEpyND0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=anV5S0k4anFuNmRGdWxiWEhVUitGNmIyUEpsZEkzZ095SER1TDZVY2NUZVlUcE1DUjEzSklwUWQ3eHV0UFV1Tw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-4bofbdhdo1wp.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/PlkSGI7C#Ylkyk_o2sdZnznzjsm7RjifNWUhUBtRq7M1koVOnxRc"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=eHNrL0gxOFlSb3dMck1SL0t4U0ZlTlJRSllubEJ0cE9BZ2FmaytGU0NCL0lVSzhYM0ZSSk8wWllIZHdxUFg1RA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Quest 3: Perfect ARKS",
     "aired": "2019-10-21",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=QQWY30CxCNu0"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Kp0GiA6B#Zx_5ikHM38IHVkgHHsnNkrYX9wS95ioWNjNaTjFG76o"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=cTNZc1Z3dlU2K3BiSEJucmVpT1JPV25OU2gzSTJaN0FhYWhaV01keGJvZm52cG56d2FvNEMxcm43OHlYa29wVw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/HosmRK6L#l8Ca4LfV_N23z8vkc-IebZ7LIfaT-A5XfzvGqF7NZuY"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=Y01wd3RWMW05T2h3TThIM2dROS9PbzQ0azZyL3IreXBvbHZlSUY3c0prcz0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=T3dyUEFBMGVPT2FraVZOKzFwM2pZN1dQKzBvck9EdnNhc1JEU2NRa1JGeis2V2NNWFZvQkthZzhiR3ozQktrdg=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-jdlwicp3oktu.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/D5tQUQhQ#dCaoJwVDzpOcPPqW3-xXipvaF5D2opzVvtzwNGLmbps"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=Z2RZN2I1RjFCME5ZSEdFUUl3UjVrTTV3KzlCdU5OZGw5ZUhEYVFtbHJTangrT29XY29NN2loTUJWZUw2SGlIZA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Quest 4: The Starting Weapon",
     "aired": "2019-10-28",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=j5hk75aqYJlJ"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/m1tA1IJB#ghuRukyVm9slOFYiTvEbgPz1qlq88jvWngQRD_AaDHs"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=MVBIbFlEVDRVSU1LZDMzVDV4UFpIUm8rU1k0S2J5L0lrSU12d0I2REYxNjB5VnRvdUd2enJqdnZvRXpMTUZNYQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/n9lQHSCD#5Z5lriBX5dkFBhQTjsVhIDJgPlFMFBKZBNEcRISOoaA"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=Y01wd3RWMW05T2h3TThIM2dROS9Pc3FIcVEwLzhqVWNJbEN3dElwVzRTOD0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=bjBiaXVMblhIOVdDWExrL3d3L2ZVenNCOVMzenJFUzRObTJldmJSV1dUMkIvdjFLSTlPMG56ZDJpenFoYUJaYQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-iz3kr1lf3owd.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/e81E0IYb#n_618MBTrwuVanOVHn6iGcncrGU11vlI0VhpOWkKLAc"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=V2FkR0xNSGQ0cHpUM3BiYVpUdUYvcHM4aURlVnl1VGdyMkJxK1dCeC9qU1MwYWFsVmp5TnpJZUY4TWl6SXB4bQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Quest 5: Falspawn Full Assault",
     "aired": "2019-11-04",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=m2ph62S8blpO"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/T8kQxSaZ#CJdxfHSqXjYvzKTAkjbB0d8JPxNVaOitD3w3EUSKFMg"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=OFFNYnd0VmhvdWkwQTFMdWk3ZjJtczIyanF4RnByam4yTTlHUnBLQnFnUnF2dzRxWEtpajRhYTZkaStmbFdvVA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/P5lW3C5D#TkAWzTGUGZ-O8J1kaSwN30goFCw6v1jvaBpHu9EA-aw"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=Y01wd3RWMW05T2h3TThIM2dROS9Pc2pQNkFUemdDWU4zQktqV2w3b25LRT0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=ZElDMnBmdnNaNFJXMmJXN0tHcjF6dnNla09VUFBSY3R5dVZFTlBBakJQdm9iZnhpanNEMUJRSUpPbFBSeGtJZw=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-9z3h8l0vwfvm.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/CklUCICT#pBStjQecu4a59lZKZH8fOOiihik2Xpr5StbLK7PLKv4"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=dVkwK0t5L3o4bkhDZ3BLd2pGOFZlMEttNU1yY2pnckx4VGxiYzhmR3dKcytQemhKM0dnVHVkVGphZWFEb3RPbg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Quest 6: The Beginning of the End",
     "aired": "2019-11-11",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=3N7e467G24jY"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/W51SHQbK#NJGqQ0jeZQhSdbQ1Jfgm-Y-R6VuNxjVNKxWBB8Rzt_E"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=ZStxTnlKcDlVMzc4TVdlcDdnQWNMb1BrNEhlajJBVmh3RG44aituMDJGV2huRGM4UjBweTNGY2tCOVdrZzhGYg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/210SxAhD#9iJWRDFfTyb-jLE8QXuXdqy9edWrtLSdoenPuCHlhfk"
+          },
+          {
+            "name": "otakuplay",
+            "url": "https://desustream.net/dstream/otakuplay/new/index.php?id=Y01wd3RWMW05T2h3TThIM2dROS9PbFlVOUIzemZmTHlReEhKY3JId1p6OD0="
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=SmNBcU03RHNEV0E0TEJXZTZadGNMTjM4eUhwcFRuT0g5aTJub1dGZy8rR2ZSUmlKYjNBK2crcXRBSXBWQ0UzNA=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-jqcqh5dz1hzy.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/jktAkIJa#IbloWRIkTWUhQTH_n894W7Q7eubTvkgRfCdnjbHX6Os"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=ODVvQnlRaFp2R3hWTG1GazVaZWd5RFJJOWN3RStlWGZYY0ZVTVAvWnNJUk1HcUVWU3k4UXF3VEZ0RHRxamtoOA=="
+          }
+        ]
+      }
+    ]
   }
 ]
