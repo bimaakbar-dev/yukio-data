@@ -8,14 +8,13 @@ kitsuId: "42043"
 
 type: TV
 status: finished
-rating: PG-13
 source: light_novel
 
 season: winter
 year: 2020
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2020-01-08"
@@ -42,6 +41,8 @@ trailer: "2ji-cLcT-UI"
 draft: false
 ---
 
-The story centers on Kaede Honjou, who is invited by her friend Risa Shiramine to play a virtual reality MMO game with her. While Kaede doesn't dislike games, what she really, truly dislikes is being in pain. She creates a character named Maple, and decides to put all her points in VIT to minimize pain. As a result, she moves slowly, can't use magic, and even a rabbit can get the best of her. However, as it turns out, she acquires a skill known as "Absolute Defense" as a result of her pumping points into VIT, as well as a "Counter Skill" that works against special moves. Now, with her ability to nullify all damage, she goes on adventures.
+Kaede Honjou, seorang gadis yang tidak suka merasakan sakit, diajak oleh temannya Risa Shiramine untuk bermain game MMO virtual reality. Meskipun Kaede tidak membenci game, ia memiliki keinginan kuat untuk menghindari rasa sakit. Ia memutuskan untuk membuat karakter yang dapat meminimalkan rasa sakit tersebut.
 
-(Source: Anime News Network, edited)
+Dalam game, Kaede menciptakan karakter bernama Maple dan mengalokasikan semua poinnya pada VIT untuk mengurangi rasa sakit. Namun, hal ini menyebabkan Maple memiliki kecepatan gerak yang lambat dan tidak dapat menggunakan sihir. Bahkan, seekor kelinci pun dapat mengunggulinya. Namun, ada sesuatu yang tidak terduga terjadi pada Maple.
+
+Dengan kemampuan unik yang diperoleh, Maple siap untuk menjelajahi dunia game dan menghadapi berbagai tantangan. Ia memiliki kemampuan untuk menullkan semua kerusakan yang diterimanya, membuatnya hampir tak terkalahkan. Apa yang akan terjadi pada Maple dalam petualangannya ini?
