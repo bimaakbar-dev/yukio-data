@@ -14,7 +14,7 @@ season: winter
 year: 2018
 episodes: 24
 duration: 24
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2018-01-06"
@@ -39,6 +39,8 @@ trailer: "S-HBLiUdH1k"
 draft: false
 ---
 
-The series takes place on a continent ruled by chaos. The chaos breeds disaster, but the Lords of the continent have the power of "Crest" (Holy Seal) that can calm the chaos and protect the people. However, before anyone realizes it, the rulers cast aside their creed of purifying the chaos, and instead start to fight each other for each others' Crests and to gain dominion over one another. Siluca, an isolated mage who scorns the Lords for abandoning their creed, and a wandering knight named Theo, who is on a journey to train to one day liberate his hometown, which is under tyrannical rule, make an everlasting oath to each other as master and servant and work together to reform this continent dominated by wars and chaos.
+Di sebuah benua yang dilanda kekacauan, kekuasaan "Crest" atau Meterai Suci menjadi kunci untuk meredakan bencana dan melindungi rakyat. Namun, para penguasa benua ini telah melupakan tujuan awal mereka untuk menyucikan kekacauan dan malah saling berebut kekuasaan dan Crest satu sama lain.
 
-(Source: Anime News Network)
+Dalam kekacauan ini, seorang penyihir yang terisolasi bernama Siluca merasa kecewa dengan para penguasa yang telah mengkhianati prinsip mereka. Ia kemudian bertemu dengan seorang kesatria bernama Theo yang sedang dalam perjalanan untuk melatih diri dan membebaskan kampung halamannya dari kekuasaan tiran.
+
+Bersama, Siluca dan Theo membuat janji abadi sebagai tuan dan pelayan, dan bekerja sama untuk mereformasi benua yang dilanda perang dan kekacauan. Mereka berdua memiliki visi untuk mengembalikan ketertiban dan kedamaian di benua yang telah lama dilanda konflik.
