@@ -14,7 +14,7 @@ season: spring
 year: 2024
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2024-04-08"
@@ -39,6 +39,8 @@ trailer: "MUn_fypkCfU"
 draft: false
 ---
 
-The Magical Kingdom of Klyrode summons hundreds of heroes from other worlds every year to fight in their war against the Dark One and his army of powerful demons. Banaza is one of those heroes, summoned from the Royal Capital Paluma, but something’s not right—Banaza is only an average merchant. He has no magic, no fighting ability, and his stats are abysmal. Worse, a mishap leaves him unable to return home! Rejected as a hero and stranded in another world, abandoned to the far reaches of the kingdom by a cruel king who just wants him gone, Banaza’s fate looks pretty bleak. But what will happen once the failed hero candidate finds himself with super cheat powers once he hits level two?
+Di Kerajaan Sihir Klyrode, ratusan pahlawan dari dunia lain dipanggil setiap tahun untuk berperang melawan Kekuatan Kegelapan dan pasukan iblis kuatnya. Banaza, seorang pedagang biasa dari Ibukota Kerajaan Paluma, secara tidak terduga dipanggil sebagai salah satu pahlawan tersebut. Namun, ia tidak memiliki kemampuan sihir, keahlian bertarung, atau statistik yang mengesankan.
 
-(Source: J-Novel Club)
+Ketika Banaza tiba di kerajaan, ia segera menyadari bahwa sesuatu tidak beres. Ia tidak memiliki kualitas yang dibutuhkan untuk menjadi seorang pahlawan dan akhirnya ditolak. Untuk memperburuk keadaan, ia mengalami kecelakaan yang membuatnya tidak bisa kembali ke rumah. Raja yang kejam memutuskan untuk membuangnya ke pinggiran kerajaan, meninggalkannya dengan nasib yang suram.
+
+Namun, apa yang akan terjadi ketika Banaza menemukan bahwa ia memiliki kemampuan luar biasa yang akan mengubah hidupnya? Ia akan menemukan cara untuk bertahan dan membalikkan nasibnya, ataukah ia akan tetap terjebak dalam situasi yang tidak menguntungkan?
