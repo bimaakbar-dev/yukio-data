@@ -8,14 +8,13 @@ kitsuId: "48058"
 
 type: ONA
 status: finished
-rating: PG-13
 source: light_novel
 
 season: summer
 year: 2025
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2025-09-24"
@@ -41,8 +40,8 @@ trailer: "0pwdLZbLOjU"
 draft: false
 ---
 
-In a world where one’s class determines everything, Arel, the son of a Sword Princess and an Archmage, was expected to inherit greatness. But when he discovers he’s classless, everything changes. Now he’s determined to prove that hard work and dedication are enough to not just succeed, but to excel as an adventurer!
+Di dunia ini, kelas seseorang menentukan segalanya. Arel, putra dari seorang Putri Pedang dan seorang Penyihir Agung, diharapkan mewarisi kehebatan. Namun, ketika dia menemukan bahwa dirinya tidak memiliki kelas, segalanya berubah.
 
-(Source: HIDIVE)
+Arel yang merasa tidak memiliki kelebihan khusus, memutuskan untuk membuktikan bahwa kerja keras dan dedikasi dapat membawanya sukses sebagai seorang petualang. Dengan tekad yang kuat, dia berusaha untuk membuktikan bahwa tidak ada yang mustahil jika dilakukan dengan sungguh-sungguh.
 
-Note: Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga was streamed a week in advance of the TV broadcast on dAnimestore, ABEMA and HIDIVE beginning September 24, 2025. Regular broadcasting began on October 1, 2025.
+Dengan latar belakang keluarga yang hebat, Arel harus menemukan jalan sendiri untuk mencapai kesuksesan. Apakah dia bisa membuktikan bahwa kerja keras dan dedikasi lebih penting daripada kelas atau bakat alami?
