@@ -4,17 +4,17 @@ titleEnglish: Planet With
 titleNative: プラネット・ウィズ
 
 malId: 37578
-kitsuId: "4659"
+kitsuId: "41093"
 
 type: TV
 status: finished
-rating: PG-13
 source: original
 
 season: summer
 year: 2018
 episodes: 12
 duration: 24
+rating: PG-13
 
 aired:
   from: "2018-07-08"
@@ -22,6 +22,7 @@ aired:
 
 stats:
   score: 6.9
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -38,6 +39,8 @@ trailer: "Dh-j_kBv-B4"
 draft: false
 ---
 
-Souya Kuroi has dreams of people with superpowers fighting a massive dragon in the sky, but his real life is almost as weird. He's had amnesia for about two weeks and been taken in by a maid and an anthropomorphic cat. When a UFO in the shape of a stuffed bear approaches Sorimasaka City and other metros around the world, he's startled to see seven rainbow-sparkling heroes zoom out to confront it – just like in his dream. Even weirder, the maid wants him to leave his shelter to confront these heroes and take the source of their power.
+Souya Kuroi hidup dengan kehidupan yang tidak biasa. Ia menderita amnesia dan telah tinggal bersama seorang pembantu rumah tangga dan seekor kucing berwujud manusia selama dua minggu. Namun, kehidupan Souya semakin kompleks ketika sebuah UFO berbentuk boneka beruang mendekati kota Sorimasaka dan beberapa kota besar lainnya di seluruh dunia.
 
-(Source: Anime News Network)
+Souya terkejut ketika melihat tujuh pahlawan dengan kekuatan super muncul untuk menghadapi UFO tersebut. Kejadian ini membuatnya teringat akan mimpinya tentang orang-orang dengan kekuatan super yang bertarung melawan seekor naga raksasa di langit. Peristiwa ini membuat Souya semakin penasaran tentang kehidupan dan identitasnya yang sebenarnya.
+
+Pembantu rumah tangga yang merawat Souya kemudian memintanya untuk meninggalkan tempat persembunyiannya dan menghadapi para pahlawan tersebut. Souya harus mengambil keputusan yang akan mempengaruhi hidupnya dan menentukan apa yang sebenarnya terjadi pada dirinya.
