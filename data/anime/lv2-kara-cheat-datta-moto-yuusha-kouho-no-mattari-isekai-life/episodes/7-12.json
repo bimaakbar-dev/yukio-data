@@ -3,36 +3,300 @@
     "number": 7,
     "title": "Toward Their Respective Futures",
     "aired": "2024-05-20",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/o75143y2wzi8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/lpwzRYAT#m6soa0cpaxKymrPdcG8kjLFzondCFhEIakFn9RofttI"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=UW5qSE84SVJoR01SU0JIU24yUVlWUT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0UEw1RGd0djRsa2JzYVlaUGkrbWtDbg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ydh9s2ld2py2"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/095nGYZZ#chMz8m30x3G8pGNxtDa0nXeseO_CKFOE7jbXFQ6-Toc"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/index.php?id=UW5qSE84SVJoR01SU0JIU24yUVlWUT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0UEg0bzhrbVh0TEJnd0t3MmcrMzN6MA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Unseen Wall",
     "aired": "2024-05-27",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/kq4x25321j4t"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/p8IQhTpD#MDMG3YdljstXPqbLXVObv2IDyq-rczwybMzrrg5hd1c"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=TmtEbzljZVdNRTM2OVA5Q3UzcFFXQT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0TjIrWUc2RVFEb0wxRkNTUWlXL05LdQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/k17ghjvj8av7"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/UhYgwajI#gNR_Txg5_N9sIdVqFOunsI8sXeKYr_QiDg8p1KPL5cg"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/index.php?id=TmtEbzljZVdNRTM2OVA5Q3UzcFFXQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0TU1BajB2NG5XSGRLV25ORmtvanpRbA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Wolf and Adventurer",
     "aired": "2024-06-03",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/dg0ftxf0gawa"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/d5himCSS#hK-_fKDieW9TY5WVb6hKGHMJzzxatjt9V9qBe6LXNGs"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=ZDNNMjBpdUJ4cEM4djU1d1NVVlE1UT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0TTFYQjhWblVmRXk5TS92bG1ITzJvcQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/e3pmxlxktaz1"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/w4wmkDBS#V0TJxkLHgjcMhq1MOBrXvPs_SE6wk9SoXkzCs-bEj_0"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/index.php?id=ZDNNMjBpdUJ4cEM4djU1d1NVVlE1UT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0Tk9nZUlINGE5ckJLR3QrTmE4c0laSw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "A New Housemate",
     "aired": "2024-06-10",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/vga3b1kn9g07"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/UhIj0SwL#HsCY1WIoI1ynSSdoHyhuU4qIIz7HZ6fKDkZ6b5mM8S8"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=ZnZzc0N4cUVBRmF1NTVKNkZmVWZ1VUxrUHZqZDlQb1hKN3h5ZThlMDNaYz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0UC90UllyY3A3REd2aG5hZmN3aUV0SQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/vu4egd0fzmn1"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/o9h2lJRT#0FMj_BO16ZNjcsdqzfMrZ9MskZiJRTo5e1KRV6BfPU0"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/index.php?id=ZnZzc0N4cUVBRmF1NTVKNkZmVWZ1VUxrUHZqZDlQb1hKN3h5ZThlMDNaYz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0TzhKMDljdjBIVHlyMXYyRG9wTzNJOA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "A Steamy Hot Spring Trip, Part 1",
     "aired": "2024-06-17",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/txk9o9crognh"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/1pQxWSDJ#cR3vhEnMN6KZZsae3m1nlParqQWBmHTkrkwHqGUO5qQ"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=U0pLR0NkM2p1MzNOUkg2QVJtNXp3NEhmR2Z3Z0cvN01VNkNyUVhuajhqQT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0TjJLNzdManJka2NtNVhmOHJ3cUhJbw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/l26frpmrwkn5"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/txghTK4I#Ra_kqq0nZOaLre2_I8lFkjYyUsstiGoTbuR7mLcmSqE"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/index.php?id=U0pLR0NkM2p1MzNOUkg2QVJtNXp3NEhmR2Z3Z0cvN01VNkNyUVhuajhqQT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0UDRmZWw1VExCSTFBOUlWdkNKTHk2dA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "A Steamy Hot Spring Trip, Part 2",
     "aired": "2024-06-24",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/drodzv41kyl4"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/49YX2RTR#EDjbufU6ZFYp1k-7dLOHahNFV-Zrxo43LnGKjy7Igag"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=WnRLK3RSU0VtY2k2OXBLbFlGT01QQWFMaUlvQngybmZjKzduZEZqdTIyND0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0UHRYNC9BZWhPS2M2RkdRNWFWWFEzdA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/5xp7m9v9iz53"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/8l5UVBSC#eQCUoqJXJXo-Zh7aaoyMbjjRi6KuqxJfggPDzMMFRrM"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/index.php?id=WnRLK3RSU0VtY2k2OXBLbFlGT01QQWFMaUlvQngybmZjKzduZEZqdTIyND0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0TXZUVjFlTzdNeVBleS9SMUh4dThnUw=="
+          }
+        ]
+      }
+    ]
   }
 ]
