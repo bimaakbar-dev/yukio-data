@@ -8,14 +8,13 @@ kitsuId: "42951"
 
 type: TV
 status: finished
-rating: R
 source: manga
 
 season: summer
 year: 2022
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2022-07-06"
@@ -43,6 +42,8 @@ trailer: "lsDt6xQQxYY"
 draft: false
 ---
 
-Directly after the events of Made in Abyss: Fukaki Tamashii no Reimei, the third installment of Made in Abyss covers the adventures of Reg, Riko, and Nanachi in the Sixth Layer, The Capital of the Unreturned.
+Reg, Riko, dan Nanachi melanjutkan petualangan mereka ke lapisan keenam, yang dikenal sebagai Ibu Kota Orang-Orang yang Tidak Kembali. Mereka akan menghadapi tantangan baru dan menemukan hal-hal yang belum pernah mereka bayangkan sebelumnya.
 
-Note: The last episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.
+Dalam lapisan ini, mereka akan menyelami lebih dalam ke dalam misteri yang mengelilingi Abyss. Petualangan mereka akan membawa mereka ke tempat-tempat yang belum pernah mereka kunjungi sebelumnya, dan mereka harus siap menghadapi apa pun yang akan mereka temui.
+
+Dengan semangat petualangan yang tak terhentikan, Reg, Riko, dan Nanachi akan terus maju, mengeksplorasi kedalaman Abyss dan menemukan rahasia yang tersembunyi di dalamnya.
