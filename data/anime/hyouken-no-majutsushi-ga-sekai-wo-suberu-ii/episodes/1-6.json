@@ -16,7 +16,18 @@
   },
   {
     "number": 2,
-    "title": "Episode 2"
+    "title": "Episode 2",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=QUhhdXQ2NVI2b3JrcmFnUGpyMmNycXJDMmpPV1JmS3ovUGsreThTVnMrRT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
