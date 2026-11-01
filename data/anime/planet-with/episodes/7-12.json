@@ -3,36 +3,234 @@
     "number": 7,
     "title": "Sirius",
     "aired": "2018-08-19",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/AwpPYYKrkRG6k"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/dk5YRw7pMvLPn"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=OXB3VjNqU2JzUkovSWZLVTlaZmtQaDFWb0NiRXBGeHQzTE9EKzdyOWZLYz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/qGX4kBm83w5aG"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Power Is What Dwells Within Your Own Self",
     "aired": "2018-08-26",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/ZMmy3VZjr62pz"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/3MZeBmK4p56qL"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=OXB3VjNqU2JzUkovSWZLVTlaZmtQcnpmZ2VscjF6WmlrVHJCZDl6dWtuUT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/nYQ4mZygZ2jzG"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Messenger of Awakening",
     "aired": "2018-09-02",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/vpYkmWr67ay3z"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/DvzPd2M7ey7M7"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=OXB3VjNqU2JzUkovSWZLVTlaZmtQb1FVTloycTVJWFQwTVNFejVXQTlRaz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/GKmPaynyn22pj"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Karellen and Rashaverak",
     "aired": "2018-09-09",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8GX3qLep8nNPv"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/ZMmy3pQyXVpYz"
+          },
+          {
+            "name": "desudrive",
+            "url": "https://desustream.net/dstream/desudrive/player.php?id=cTgzK2J2QzZNVmVHcjNzdUw4S2p3dEM5MFlmZnlKRXVMb0xZdjY2WnB3bGdva0NXNEpzZmRaOVF4OCtqd2JWUQ=="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/yva4mrpWPBzVD"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Azrabarakura",
     "aired": "2018-09-16",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/BjBP3888eN3Rw"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/52QjAVmLPLdBN"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=OXB3VjNqU2JzUkovSWZLVTlaZmtQajJ0VzFPeWZBdjJRaU9EVDY3Z0JzWT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/7axYzwgrnWqVr"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Behold, The Universe is Filled With Blessings",
     "aired": "2018-09-23",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/eRG3A5A8a8d8G"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/42mnRRrgpvYjN"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=OXB3VjNqU2JzUkovSWZLVTlaZmtQcGh3NkdmV2dRYlZIM01PNDNLMmJwRT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/GKmPaV3Zy5Zmm"
+          }
+        ]
+      }
+    ]
   }
 ]
