@@ -3,36 +3,234 @@
     "number": 13,
     "title": "To the Homeland",
     "aired": "2018-04-07",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8GP3yvpQWx6aX"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/zaLX3ea5m56Ag"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnYUpZUmxHaDlnNTNJVUZBK1JiZUhIZz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/ZMPyxMqrYvRmq"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 14,
     "title": "The Liberator of Sistina",
     "aired": "2018-04-14",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/x3LQ5aY7e7xNA"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/V4MpxKYMRzPL5"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnWDU4QmNpZzhMNVdGVW1kRTV3UnRpdz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/vpLk5D5xm3mve"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 15,
     "title": "Return",
     "aired": "2018-04-21",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/aqynMaz575VRR"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/vpLk55aQ42WYx"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnY3dLUWJXQ04xOWdzbklnbTVYKzMvYz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/ZMPyxQLZXamP4"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 16,
     "title": "Outpost",
     "aired": "2018-04-28",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/AwNP3g5k7wRyP"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/kDL477mZgeXxB"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnWkdCNGpEcnRaS2NvQmUzbDdESWo2Zz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8GP3ypXL8pGkg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 17,
     "title": "Two Heroes",
     "aired": "2018-05-05",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/BjWPNAV4BW2Ke"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/ZMPyxvRDyeDDn"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnZHpIMDNkYUYxbDlhSEwvQjh2R0U4QT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/aqynMzr5v3Grx"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 18,
     "title": "Leader",
     "aired": "2018-05-12",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/eRL3Zk2pyrWKk"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/MBGQMdZXXKwyX"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnYnorSW96cGNPSFhoM3lVSUtYeWM5WT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Rj8pPx5VQ2WDr"
+          }
+        ]
+      }
+    ]
   }
 ]
