@@ -3,36 +3,234 @@
     "number": 1,
     "title": "Contract",
     "aired": "2018-01-06",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/3MAedK8k5NGxY"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/eRL3WV28XmVxy"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnWnpwUTVHWE5xbHYvSXhyWHdEb2NaVT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/gRLd6pvpzQGWr"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Ambition",
     "aired": "2018-01-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/42MnY7pkKaGMR"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/V4MpKAv8MwGKZ"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnU3ZJTk55WlRoVEN4bXM1QXZpd2ZEOD0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/PrvpeYYWzrDzy"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Battle Flag",
     "aired": "2018-01-20",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/GKjPWmMGVKv8Y"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8GP3ZXBDrKApn"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnY2JLWXF1ckd6YjU5MHlkVEJsTFNlMD0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/PrvpkKaxLqVm7"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Decision",
     "aired": "2018-01-27",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/aqynMxnz4QjAp"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/wZL4W5xgKvPa5"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnVWNnbFZPRGUvZ05JZlhQdklRUlVuVT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/PrvpkKgZgA4Bd"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Forest of Eternal Darkness",
     "aired": "2018-02-03",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/kDL473RaNLXWM"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/2AR6Yjn6VQ7ZA"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnUThpYnJsZXZEeWwwYWxUbUZscFkxND0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/3MAeYGM5D3Gy2"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "March",
     "aired": "2018-02-10",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/mdL4WXDkaG2G7"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/ZMPyxByyQ664G"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnWUNScDRYY0tZS1lRaFpTM0ROQjREbz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/7arYMyZBQ2V45"
+          }
+        ]
+      }
+    ]
   }
 ]
