@@ -3,36 +3,234 @@
     "number": 7,
     "title": "The White Prince",
     "aired": "2018-02-17",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/p8L4edpAr6eZY"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/AwNP3k3q2jNWB"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnUmU2dXQ0d1IzTzJ1endQM3EvM09QQT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/52zjMw6eKnL23"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "The Congress Dances",
     "aired": "2018-02-24",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/7arYMM74nmAgV"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/aqynMW3rVZyKr"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnVGpnYlFYdnV4eG40UVhSL2t1QlJGQT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/vpLk5Zn32YrzK"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "The Black Princess",
     "aired": "2018-03-03",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/3MAeYkBAGrLLe"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/eRL3ZRPYwPepN"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnUVBzelU5MVp2aGRSZXJ4aUZLUUtkbz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/52zjM3VyDaGvD"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Blade of Betrayal",
     "aired": "2018-03-10",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/GKjPnrNNjPmz5"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/6PqDzPqRqBMx3"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnZUMwNzBPdXVlY0dCYVczbzR5Sm9wOD0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/p8L4e3PjxM6X5"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "The Fall of Castle Unicorn",
     "aired": "2018-03-17",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/eRL3ZmvNBANnR"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/jjLaYXr8kyx8x"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnVUlLVm1qdGRiQzB3UlJXcVp2aDYrST0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/jjLaYjk4Bnk6j"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "A Treaty Formed",
     "aired": "2018-03-31",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8GP3y575j6e44"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/p8L4e5AyQpaZ2"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnYTlIOHlOTXRuUEdKOWNVNHUwT3ZXUT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/3MAeYMm6wzyZk"
+          }
+        ]
+      }
+    ]
   }
 ]
