@@ -8,14 +8,13 @@ kitsuId: "13273"
 
 type: TV
 status: finished
-rating: R
 source: manga
 
 season: summer
 year: 2017
 episodes: 13
 duration: 25
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2017-07-07"
@@ -43,8 +42,8 @@ trailer: "AQbaZeby2zA"
 draft: false
 ---
 
-The "Abyss" is the last unexplored place in the world. Strange and wonderful creatures roam within, and it is full of precious relics that present humans can't recreate. Those that dare to explore the depths are known as "Cave Raiders." An orphan girl named Riko lives on the rim. Her dream is to become a Cave Raider like her mother and solve the mysteries of the cave system. One day, Riko starts exploring the caves and discovers a robot who resembles a human boy.
+Di ujung dunia, terdapat sebuah tempat yang masih belum terjamah, dikenal sebagai "Abyss". Tempat ini dipenuhi dengan makhluk aneh dan menakjubkan, serta harta karun yang tak ternilai yang tidak dapat dibuat oleh manusia modern. Orang-orang yang berani menjelajahi kedalaman Abyss dikenal sebagai "Cave Raiders".
 
-(Source: Anime News Network, edited)
+Riko, seorang gadis yatim piatu, tinggal di tepi Abyss dan bermimpi menjadi seorang Cave Raiders seperti ibunya. Ia ingin mengungkap misteri yang tersembunyi di dalam sistem gua yang luas ini. Suatu hari, Riko memutuskan untuk memulai petualangannya dan menjelajahi gua-gua yang dalam.
 
-Note: The last episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.
+Dalam perjalanannya, Riko menemukan sebuah robot yang menyerupai seorang anak laki-laki. Penemuan ini membuka pintu bagi Riko untuk memulai petualangan yang lebih besar dan menantang, serta mengungkap rahasia yang tersembunyi di dalam Abyss.
