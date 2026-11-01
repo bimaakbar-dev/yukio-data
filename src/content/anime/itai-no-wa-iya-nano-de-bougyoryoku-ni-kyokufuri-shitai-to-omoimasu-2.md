@@ -4,18 +4,17 @@ titleEnglish: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Sea
 titleNative: 痛いのは嫌なので防御力に極振りしたいと思います。2
 
 malId: 41514
-kitsuId: "43086"
+kitsuId: "42043"
 
 type: TV
 status: finished
-rating: PG-13
 source: light_novel
 
 season: winter
 year: 2023
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2023-01-11"
@@ -42,8 +41,8 @@ trailer: "mgHnA7ZV8tM"
 draft: false
 ---
 
-The best offense is a great defense, and for VRMMO gamer Kaede Honjo, her defense is the best. Under her alias Maple, she and her guild journey through NewWorld Online gaining friends and foes through new battle-filled quests. All those skill points, new defensive techniques, and no pain—Maple can’t be stopped! 
+Kaede Honjo, seorang pemain VRMMO yang dikenal dengan alias Maple, telah membuktikan bahwa pertahanan yang kuat adalah kunci untuk sukses di dunia game NewWorld Online. Dengan kemampuan pertahanannya yang luar biasa, Maple dan guild-nya menjelajahi dunia game ini, menghadapi berbagai quest yang penuh aksi dan menegangkan.
 
-(Source: Crunchyroll)
+Dalam perjalanannya, Maple terus mengasah kemampuan dan teknik pertahanannya, membuatnya hampir tak terkalahkan. Dengan semua poin kemampuan yang dimilikinya, Maple dapat menghadapi berbagai tantangan dengan percaya diri. Apakah Maple dan guild-nya akan terus sukses dan menaklukkan dunia NewWorld Online?
 
-Note: Episode 1 was streamed in advance on December 17, 2022 on the KADOKAWA Anime YouTube Channel. The regular TV broadcast began on January 11, 2023.
+Maple dan guild-nya akan terus menghadapi berbagai musuh dan quest yang menantang, tetapi dengan kemampuan pertahanan yang kuat dan strategi yang cerdas, mereka siap untuk menghadapi apa pun yang datang. Apa yang akan terjadi selanjutnya dalam petualangan Maple di NewWorld Online?
