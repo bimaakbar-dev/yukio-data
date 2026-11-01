@@ -2,31 +2,295 @@
   {
     "number": 7,
     "title": "Episode 7",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=1ENQUK2NEgWi"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/HU4WAIhJ#abpP8KoxbBcsCouwvKdthBpUPLo88xedTHVqH2n6ae8"
+          },
+          {
+            "name": "desudesuhd",
+            "url": "https://desustream.net/dstream/desudesu/new/hd/index.php?id=c0FlREhzR1ZQczVWZmRqdDN5VUxTSGVmZlVsSFhuQTRHR0kvcFVhbC9HWT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=c2FsRTEyTXp0U0FlSFBCaVc0eEtGUHY0cURLcGs0WlRUdWUwdlN2b3RxV0YxbVhMbnltb21pbDlnZm5qUDliQkpXSHVmN1JIT2FEVWozMFpqU3RCc0E9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-wnkbqc9putpz.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/nRRQiKga#GoSuyGcPszNwi3O6GuR_pZweke5Tr7mtIftowBIEM84"
+          },
+          {
+            "name": "desudesu",
+            "url": "https://desustream.net/dstream/desudesu/new/index.php?id=c0FlREhzR1ZQczVWZmRqdDN5VUxTSGVmZlVsSFhuQTRHR0kvcFVhbC9HWT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=c2FsRTEyTXp0U0FlSFBCaVc0eEtGUHY0cURLcGs0WlRUdWUwdlN2b3RxV0YxbVhMbnltb21pbDlnZm5qUDliQjQrdUlmcXFza2RDNVV1R0FQeEZaUFE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Episode 8",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=2M7kt752070e"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/nEhB0TrB#1odiJvLCNZeX-FAaVb5qhfbbON4osNX72VVoZc1NOm4"
+          },
+          {
+            "name": "desudesuhd",
+            "url": "https://desustream.net/dstream/desudesu/new/hd/index.php?id=c0FlREhzR1ZQczVWZmRqdDN5VUxTTzNYQUtWVnZRQkdXTldWNWJvNndGWT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=c2FsRTEyTXp0U0FlSFBCaVc0eEtGUHY0cURLcGs0WlRUdWUwdlN2b3RxV0YxbVhMbnltb21pbDlnZm5qUDliQlBodzVReGhyWkVRQWd0UWFEMkE3VlE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-lw4da3jykb3b.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/iAQF3C7T#DjeVAIzV3Ea2CLE6DoFAO6GROmim--zLvCjk3XpQtmw"
+          },
+          {
+            "name": "desudesu",
+            "url": "https://desustream.net/dstream/desudesu/new/index.php?id=c0FlREhzR1ZQczVWZmRqdDN5VUxTTzNYQUtWVnZRQkdXTldWNWJvNndGWT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=c2FsRTEyTXp0U0FlSFBCaVc0eEtGUHY0cURLcGs0WlRUdWUwdlN2b3RxV0YxbVhMbnltb21pbDlnZm5qUDliQjZwbUJwR2tkdkVtc3BPUGVyR1BxUVE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Episode 9",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=U03O7f1djw57"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/uRBBkbBb#d8nVhzBasdPA9eOBwKsmjPs7sLs2FMRVlt7Jd6ZgtVc"
+          },
+          {
+            "name": "desudesuhd",
+            "url": "https://desustream.net/dstream/desudesu/new/hd/index.php?id=c0FlREhzR1ZQczVWZmRqdDN5VUxTSklNWVZZMFFZVVlXbm15QkJWc3ZwST0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=c2FsRTEyTXp0U0FlSFBCaVc0eEtGUHY0cURLcGs0WlRUdWUwdlN2b3RxV0YxbVhMbnltb21pbDlnZm5qUDliQm1jWkpUNDArTmZuejBIaFFtaDNEOUE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-pctnrk5zry2p.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/TIJGyaQI#cM2alZQ-FEYGlR7LXXVRMwD1uEcuCIAwD0PvV0wh5EU"
+          },
+          {
+            "name": "desudesu",
+            "url": "https://desustream.net/dstream/desudesu/new/index.php?id=c0FlREhzR1ZQczVWZmRqdDN5VUxTSklNWVZZMFFZVVlXbm15QkJWc3ZwST0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=c2FsRTEyTXp0U0FlSFBCaVc0eEtGUHY0cURLcGs0WlRUdWUwdlN2b3RxV0YxbVhMbnltb21pbDlnZm5qUDliQmFONEpTRDdKMDk0cTVQVVhRdklJTFE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Episode 10",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=4Q0F4jA86LEc"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/LQgkkQiK#sV8bZ7tE_lYwcIhZ-fZeR8ktOEaktmoedKs3o1JS6mE"
+          },
+          {
+            "name": "desudesuhd",
+            "url": "https://desustream.net/dstream/desudesu/new/hd/index.php?id=c0FlREhzR1ZQczVWZmRqdDN5VUxTUC82RndBNmdqRHFKQktsbHU4SGdIMD0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=c2FsRTEyTXp0U0FlSFBCaVc0eEtGUHY0cURLcGs0WlRUdWUwdlN2b3RxV0YxbVhMbnltb21pbDlnZm5qUDliQmt4QktjVDk4U2NMQUpTdmpzaFQ2R2c9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-elo5gryzehy6.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/WQACkRSJ#sHxYqNdujrLB-w9vtK0IfTzV6wcPNP9s-C3UA6Hs36E"
+          },
+          {
+            "name": "desudesu",
+            "url": "https://desustream.net/dstream/desudesu/new/index.php?id=c0FlREhzR1ZQczVWZmRqdDN5VUxTUC82RndBNmdqRHFKQktsbHU4SGdIMD0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=c2FsRTEyTXp0U0FlSFBCaVc0eEtGUHY0cURLcGs0WlRUdWUwdlN2b3RxV0YxbVhMbnltb21pbDlnZm5qUDliQlFYZVpQQXJNNkV2eXRBSmlsUys3bUE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Episode 11",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=iVD2o3igN2u3"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Xdx3WbKb#01WHrG-0XuqbjvlyahJu21a-1q7d1-mU8TbtD5qRxsQ"
+          },
+          {
+            "name": "desudesuhd",
+            "url": "https://desustream.net/dstream/desudesu/new/hd/index.php?id=c0FlREhzR1ZQczVWZmRqdDN5VUxTR1RVUFkxRE1JM0RGQVVIL0VKWkpCdz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=c2FsRTEyTXp0U0FlSFBCaVc0eEtGUHY0cURLcGs0WlRUdWUwdlN2b3RxV0YxbVhMbnltb21pbDlnZm5qUDliQjREMjVCMFpFdWFybmVMOG00anVwbUE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-weqzqlajx37e.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/yJAy2LjJ#ztvXD5P8F6K2zO6n7aYWx_1-a0IC-k4_PEdFOR9aq_I"
+          },
+          {
+            "name": "desudesu",
+            "url": "https://desustream.net/dstream/desudesu/new/index.php?id=c0FlREhzR1ZQczVWZmRqdDN5VUxTR1RVUFkxRE1JM0RGQVVIL0VKWkpCdz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=c2FsRTEyTXp0U0FlSFBCaVc0eEtGUHY0cURLcGs0WlRUdWUwdlN2b3RxV0YxbVhMbnltb21pbDlnZm5qUDliQlIvSmMwL2ZSRGJ2bWp0bEl5MHhseVE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Episode 12",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=WmgfAuVB6Lhx"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/iNIVUBKT#qlod7ECm9_PhqjMR2aJldL5UuVB_MZ26sALCsk2AGnk"
+          },
+          {
+            "name": "desudesuhd",
+            "url": "https://desustream.net/dstream/desudesu/new/hd/index.php?id=c0FlREhzR1ZQczVWZmRqdDN5VUxTTjQ2dVR1aFVPZHNSeTlId1c1bEdTaz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=c2FsRTEyTXp0U0FlSFBCaVc0eEtGUHY0cURLcGs0WlRUdWUwdlN2b3RxV0YxbVhMbnltb21pbDlnZm5qUDliQktmQy9EWE0zWDN6QUhDQVZUZ1R1VWc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-jnh77l7lg12u.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/2RBylZyS#Mpue4NICxVefN1Df5BnFPQDO2lQiXfVL8CFbOcVBwcE"
+          },
+          {
+            "name": "desudesu",
+            "url": "https://desustream.net/dstream/desudesu/new/index.php?id=c0FlREhzR1ZQczVWZmRqdDN5VUxTTjQ2dVR1aFVPZHNSeTlId1c1bEdTaz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=c2FsRTEyTXp0U0FlSFBCaVc0eEtGUHY0cURLcGs0WlRUdWUwdlN2b3RxV0YxbVhMbnltb21pbDlnZm5qUDliQlFWOXNsYlRMVHNsL0h6dGV1N1BmdkE9PQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
