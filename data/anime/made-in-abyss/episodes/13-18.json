@@ -3,6 +3,17 @@
     "number": 13,
     "title": "Idomu Mono-tachi",
     "aired": "2017-09-29",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "odesu",
+            "url": "https://desustream.net/dstream/odesu/new/?id=Z2lWaTNVcEN0UDF2VU4vZTFHTzdGZz09"
+          }
+        ]
+      }
+    ]
   }
 ]
