@@ -14,7 +14,7 @@ season: winter
 year: 2022
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2022-01-11"
@@ -40,6 +40,8 @@ trailer: "1k7o4ywm6Is"
 draft: false
 ---
 
-Japan’s post-apocalyptic wasteland replete with dust can only be saved by one thing—fungus. Bisco Akaboshi, a wanted criminal and skilled archer, searches for a legendary mushroom, known as Sabikui, said to devour any and all rust. Joining him on this epic saga to save the country is a giant crab and a young doctor. Can this unlikely trio find the fabled fungi and save the land?
+Di Jepang yang telah menjadi lautan pasir pasca-apokaliptik, harapan untuk menyelamatkan negeri ini terletak pada satu hal: jamur. Bisco Akaboshi, seorang penjahat buronan yang juga seorang pemanah terampil, memiliki misi untuk menemukan jamur legendaris yang dikenal sebagai Sabikui. Konon, jamur ini dapat melahap semua karat yang telah merusak tanah airnya.
 
-(Source: Funimation)
+Dalam perjalanannya, Bisco ditemani oleh dua rekan yang tidak terduga: seekor kepiting raksasa dan seorang dokter muda. Mereka bersama-sama memulai petualangan epik untuk menemukan jamur Sabikui dan menyelamatkan negeri dari kehancuran. Dengan latar belakang yang sudah porak poranda, mereka harus menghadapi tantangan yang berat untuk mencapai tujuan mereka.
+
+Apakah trio ini dapat menemukan jamur Sabikui dan menyelamatkan Jepang dari kehancuran? Mereka harus menghadapi berbagai rintangan dan bahaya untuk mencapai tujuan mereka.
