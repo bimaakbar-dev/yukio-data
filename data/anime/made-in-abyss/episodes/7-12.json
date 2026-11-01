@@ -3,36 +3,102 @@
     "number": 7,
     "title": "Fudou-kyou",
     "aired": "2017-08-18",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "odesu",
+            "url": "https://desustream.net/dstream/odesu/new/?id=ZktBNndXSENmdEg2OU5hM0gvQzhPdz09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Seizon Kunren",
     "aired": "2017-08-25",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "odesu",
+            "url": "https://desustream.net/dstream/odesu/new/?id=N0FnZ2gxek5CanhtT0t3dmdFYUV6Zz09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Daidansou",
     "aired": "2017-09-01",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "odesu",
+            "url": "https://desustream.net/dstream/odesu/new/?id=S0xJUExsWDBZZkFucU00aVNJMnJwUT09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Doku to Noroi",
     "aired": "2017-09-08",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "odesu",
+            "url": "https://desustream.net/dstream/odesu/new/?id=NVllY3g1WTU4Y0tCdWNodkdNK1RySzQ1cGd3QmFjWmZRNFlqVnhsT0NyVT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Nanachi",
     "aired": "2017-09-15",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "odesu",
+            "url": "https://desustream.net/dstream/odesu/new/?id=b0c2NWJsQ01xMkJnQklaOWQ3Vm9VUW1vTzFEN3ZKVWtQNDF6a1g3dmlJZz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Noroi no Shoutai",
     "aired": "2017-09-22",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "odesu",
+            "url": "https://desustream.net/dstream/odesu/new/?id=WENncU40Rm90cmpiSVlSL1I5WVV6UT09"
+          }
+        ]
+      }
+    ]
   }
 ]
