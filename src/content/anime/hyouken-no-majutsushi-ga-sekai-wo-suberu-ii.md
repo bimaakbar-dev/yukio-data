@@ -32,6 +32,8 @@ image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-s
 trailer: "oxkxyAcKv2g"
 
 draft: false
+addedAt: "2026-11-01"
+updatedAt: "2026-11-01"
 ---
 
 Once dismissed as the sole ordinary student at the elite Arnold Academy of Sorcery, Ray White—secretly, the Iceblade Sorcerer—has finally earned his place. With a new school year comes a new challenge: The Magicks War, a grand competition pitting teams from rival schools against each other. But an ominous shadow looms over Ray and his friends as the other grand sorcerers plot their next moves.
