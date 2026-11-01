@@ -8,13 +8,13 @@ kitsuId: "47077"
 
 type: TV
 status: finished
-rating: PG-13
 source: light_novel
 
 season: fall
 year: 2023
 episodes: 12
 duration: 24
+rating: PG-13
 
 aired:
   from: "2023-10-03"
@@ -22,6 +22,7 @@ aired:
 
 stats:
   score: 6.2
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -39,8 +40,8 @@ trailer: "KEARCsDS624"
 draft: false
 ---
 
-Tanaka Taichi is just an ordinary 38-year-old who enjoys video games. He starts a new virtual reality multiplayer game called One More Free Life Online, naming his character Earth. Unlike his fellow players, he decides to master the most menial of skills in the game. He cooks the finest meals, overbrews complicated potions, and hunts monsters with handmade weapons. His fantasy life begins!
+Tanaka Taichi, seorang pria berusia 38 tahun, memiliki hobi yang cukup unik - bermain video game. Ia memulai petualangan baru dalam game virtual reality multiplayer yang bernama One More Free Life Online. Dalam game ini, ia menciptakan karakter yang diberi nama Earth.
 
-(Source: Crunchyroll)
+Tidak seperti pemain lain, Taichi memiliki tujuan yang berbeda. Ia ingin menguasai keterampilan yang paling sepele dalam game, seperti memasak makanan yang lezat, membuat ramuan yang rumit, dan berburu monster dengan senjata buatan tangan. Dengan demikian, ia memulai kehidupan fantasi yang menarik dalam dunia virtual.
 
-Note: The first 2 episodes were exclusively shown as a world premiere during the Anime Messe Babelsberg 2023 in July as a part of a special Anime Panel.
+Dalam game ini, Taichi dapat mengeksplorasi kemampuan dan kreativitasnya tanpa batas. Ia dapat memasak, berburu, dan melakukan berbagai aktivitas lainnya dengan cara yang unik dan menarik. Apa yang akan terjadi selanjutnya dalam petualangan Taichi di dunia virtual?
