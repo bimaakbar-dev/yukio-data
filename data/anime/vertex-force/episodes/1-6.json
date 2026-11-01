@@ -66,7 +66,69 @@
   {
     "number": 5,
     "title": "Episode 5",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/u1phTIZR#hFceVRrgm44Z4H1sxzXoKDzOiHbPeJdYAM8ZANlvSls"
+          }
+        ]
+      },
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/tPcOk61jT3"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/i4fdqwk8m3qe"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/qhJGgQCZ#A2m7Q-FXQlMzRD3tQdATa1JCimXb-HnjNKkPcx67nNM"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/hxpTFClfiR"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/bhjkn0dxc0jw"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/nogXQAiQ#1eWWSkd-TQXHA3Ow7Ts8R3wQMjm6iEGSV-L51TFbtpg"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/ajjO25T1BS"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/b11ppg9lnj2s"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/LhpklAiS#gfJloNZyLQ12MSPHDcXnDUmbgVb8PyzW8SIBleyBvVY"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
