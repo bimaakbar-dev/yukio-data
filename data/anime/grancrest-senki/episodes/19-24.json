@@ -3,36 +3,234 @@
     "number": 19,
     "title": "The Awakening of a Noble",
     "aired": "2018-05-19",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/vpLk5kzPLpKj5"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/YnrMPRA4QNMgZ"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnUUEvNXU5cHh2SVFoZnVtR2RLbk1Jbz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/AwNP3WgRKN5xn"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 20,
     "title": "Pitched Battle of the Three Forces",
     "aired": "2018-05-26",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/52zjMjzMQGMzg"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Nj2PgBxADmYyG"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnZTUxd0RQdDdmd0FIbkJYUTdPWnpPND0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/XGqpwL726xqPR"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 21,
     "title": "Purge",
     "aired": "2018-06-02",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Nj2PgzxM3kvRw"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/7arYML2Ke84zd"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnY0ZRMWhUeWVYSUtYb1dBQVlqYUNUdz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/BjWPNNNZVGkkN"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 22,
     "title": "The Holy Grail",
     "aired": "2018-06-09",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/YnrMPy62jkyDq"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/kDL47ZmeP45Yv"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnWWpTV1p6OExwUmJicEJxdnZndlpTWT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/7arYMM6mBqKx5"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 23,
     "title": "Castle Walls",
     "aired": "2018-06-16",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/3MAeYReVVA87G"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Dv6PVNKVBPaxm"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnYUs4WDVvbzhZL0x2WGx0THJEbFdaRT0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8GP3yy4mkB5G6"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 24,
     "title": "Grancrest",
     "aired": "2018-06-23",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/YnrMPDrPBqkkB"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/6PqDzY6QAKq2B"
+          },
+          {
+            "name": "playdesu",
+            "url": "https://desustream.net/dstream/playdesu/new/index.php?id=Vmx4b0pvNnMzd29JbGtJMHpxRGNnWjg0eWZRUXRxK1pQbFF0QVBuKy9obz0="
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Nj2PgwBad3emL"
+          }
+        ]
+      }
+    ]
   }
 ]
