@@ -14,7 +14,7 @@ season: winter
 year: 2022
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2022-01-08"
@@ -42,6 +42,8 @@ trailer: "F56CrRxByqI"
 draft: false
 ---
 
-His strength limited by the magical crest with which he was born, Matthias, the world’s most powerful sage, decides reincarnation is necessary to become the strongest of all. Upon his rebirth as a young boy, Matthias is thrilled to discover he’s been born with the optimal crest for magical combat on his first try! Unfortunately, the world he’s been born into has abysmally poor standards when it comes to magic, and everyone thinks he’s still marked for failure! Now it’s up to Matthias to prove everyone wrong…world’s strongest sage-style!
+Matthias, seorang bijak yang sangat kuat, merasa bahwa kekuatannya terbatas oleh cap ajaib yang ada di tubuhnya. Ia memutuskan untuk melakukan reinkarnasi agar bisa menjadi yang terkuat di antara semua. Setelah terlahir kembali sebagai seorang anak laki-laki, Matthias sangat gembira menemukan bahwa cap ajaib yang ia miliki sangat ideal untuk pertarungan sihir.
 
-(Source: Crunchyroll)
+Namun, ia segera menyadari bahwa dunia baru tempat ia dilahirkan memiliki standar sihir yang sangat rendah. Banyak orang yang meragukan kemampuan Matthias dan menganggapnya sebagai orang yang gagal. Hal ini memicu Matthias untuk membuktikan kepada semua orang bahwa ia tidak gagal dan memiliki potensi yang luar biasa.
+
+Dengan latar belakang sebagai bijak terkuat, Matthias siap untuk membuktikan dirinya dan menunjukkan kepada dunia apa yang ia bisa lakukan. Ia akan menggunakan kemampuan dan pengetahuannya untuk mengatasi tantangan dan membuktikan bahwa ia adalah yang terkuat di antara semua.
