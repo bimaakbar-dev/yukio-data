@@ -65,7 +65,22 @@
   {
     "number": 5,
     "title": "Episode 5",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwFBzTVa_rpeZncxdW_zQV3FvxnBe-pOHtwf55WNIp2fgc8CA-6llLY--cMo-2RRCSOW3ZtPXtI8r7N825cp02bgVkG7Jp4CscPXBOeZ3jbOkZDLZEB6BP1oBpL8f9whAM8uXrm"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwFBzTVa_rpeZncxdW_zQV3FvxnBe-pOHtwf55WNIp2fgc8CA-6llLY--cMo-2RRCSOW3ZtPXtI8r7N825cp02bgVkG7Jp4CscPXBOeZ3jbOkZDLZEB6BP1oBpL8f9whAM8uXrm"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
