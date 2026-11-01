@@ -38,7 +38,7 @@ trailer: "4MYo8FfiXMA"
 
 draft: false
 addedAt: "2026-10-11"
-updatedAt: "2026-10-26"
+updatedAt: "2026-11-01"
 ---
 
 Asta dan Magic Knights melancarkan serangan nekat ke Kerajaan Spade untuk menyelamatkan kapten skuad mereka dari cengkeraman Dark Triad. Misi ini membawa mereka ke dalam pertempuran brutal melawan musuh yang belum pernah mereka hadapi sebelumnya.
