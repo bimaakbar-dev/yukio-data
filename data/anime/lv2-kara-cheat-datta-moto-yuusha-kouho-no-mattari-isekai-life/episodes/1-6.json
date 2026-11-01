@@ -3,36 +3,300 @@
     "number": 1,
     "title": "A Level 2 Hero Candidate",
     "aired": "2024-04-08",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ljey01xmo20d"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/NoAR1ByK#AGTcAP0WF0dkVelhlCVikldvSNZXnrsxnvBtjpy87q8"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=VDFwUzZodlhkOFc0RUNab2RCSUVKUT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0T296MlNnVGRZNkd3eTVPUDhBa0crdg=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ahs083rsvewn"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/UpggkDRT#7XJ_TgZi9ki_BQBUiiKqDk0Jp2wPDxgp12XwEiUrVzw"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/index.php?id=VDFwUzZodlhkOFc0RUNab2RCSUVKUT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0TU8rckZkelM5N0tCTkFwRHJMM2ZWOA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Fenrys the Lupine Warrior",
     "aired": "2024-04-15",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/8iqtwcdc9sj5"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/s4Q22QoY#RMV9brqBR3P6oMdYdlFiERFX30O4XlkFLzm1pTL6OTM"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=ZTF2SStRdHp6Mjg1N095aUJjcUU1UT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0T3BlcVZCTS9ySzAzU0xTSGQvWHhPdQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/i23vnx4md4mt"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/MwRUUZwb#-S-u21KsuCCyDqFM2j8F6-dOtQ0ZOsvK5iE7m6tbfN0"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/index.php?id=ZTF2SStRdHp6Mjg1N095aUJjcUU1UT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0TlNRRmlaWWtET2N6T1RyYVkvSHdJVg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "I've Begun My Life in Another World",
     "aired": "2024-04-22",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/4yafictc1x9t"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Z0RGmCIC#UGiTaX7qQHroUGM-n-6RQJ8XD0XV1nm0vnHF5pecZBY"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=MnRLaHFjZHB6dGhDdDZ0eVFvdS9nUT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0TTBZYWNHSFFNMk5pWS9vYTBDR1MvNQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/8xhtmhgfvqls"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/55wljRjb#J9bH5neZdjabFyKQFn6DV1FJQ6WIbx11UHRTzjh0i7w"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/index.php?id=MnRLaHFjZHB6dGhDdDZ0eVFvdS9nUT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0TmlITGI1OGtqWEd5ZkxjRTNhWGgvRg=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "An Unexpected Visitor",
     "aired": "2024-04-29",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/22tw3g6w0sjo"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/QkZGwZ7J#JZZ7UAMrk5yMxMv1MU17AnIIOUtGzUc-nizLsYjGl8k"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=MzFmM1pQSUF0VHhlalRhQ2VNSTlpUT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0TUdKeWUrVlpFNUVBYjJHRFNOSkRSWA=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/gw9ewg8t24st"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Q0h30YyB#A0-AkH4bGabhTi7Zz0W_Nb9NP2-j-ZiGI_0bXjs7knU"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/index.php?id=MzFmM1pQSUF0VHhlalRhQ2VNSTlpUT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0TUFGS01jTlFXbE9SMURKejNiL3Y4RA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Until My Life Ends",
     "aired": "2024-05-06",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/sk9nvfrosko6"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/x4pigKJD#tEMiH6vXsTH_oCfhqXnz3Hzpg4qnq9Wtxw5BjG26fQM"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=NWRIOFdTMlZmYXlCN1R4QUtWTDg2Zz09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0T0dJTzRzc3VpMmFtcmloYjExejVnZw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/7lllcj44au14"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/8phUWB4L#PLwk7lqgHJEg3UPCoRthLlB3xIRPrfk5GQkWqh3Tw7s"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/index.php?id=NWRIOFdTMlZmYXlCN1R4QUtWTDg2Zz09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0TTBqMERYWThIc3NMUmk4b0JtRm1WTw=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Hiya, Djinn of Light and Darkness",
     "aired": "2024-05-13",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/6a03qf8jbcbx"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/hxRBFSib#cJDlheqoO3p0KyuaLl6CWeaYMoCbPMHNwm1ZBxKPgxk"
+          },
+          {
+            "name": "otakuwatch3hd",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/hd/index.php?id=dkxXVUJCWFE4dk1PZm1jZUFSM2NBQT09"
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0UHQyL2NTYzhVVDV5ZEdROHo4eUNWKw=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/9bi050jpe397"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Zh5y0QYC#NeB3_4Ix9JbZ1qjEkPG0Y-CY1jpT8H0Gjs5dHbhKT2E"
+          },
+          {
+            "name": "otakuwatch3",
+            "url": "https://desustream.net/dstream/otakuwatch3/new/index.php?id=dkxXVUJCWFE4dk1PZm1jZUFSM2NBQT09"
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=NkJyQzVhNUxFYThyUkdCTWxMbHJJdWFNQmJNelNXS0doTzlvNkplU1c0TWg2N1RRT2lTeFZxZ0k5MmRQcFpBTw=="
+          }
+        ]
+      }
+    ]
   }
 ]
