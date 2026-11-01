@@ -3,36 +3,102 @@
     "number": 1,
     "title": "Ooana no Machi",
     "aired": "2017-07-07",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "odesu",
+            "url": "https://desustream.net/dstream/odesu/new/?id=MTQwbGdSQ1RKY2c4WWF6ZVZuWTE1UT09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Fukkatsusai",
     "aired": "2017-07-14",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "odesu",
+            "url": "https://desustream.net/dstream/odesu/new/?id=dCtrd2dTZ0Q2cFlGTnVEZ3NMVDBUZz09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Shuppatsu",
     "aired": "2017-07-21",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "odesu",
+            "url": "https://desustream.net/dstream/odesu/new/?id=MC9QcU0yUlRzTFUvNXRsQmNwOTZGUT09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Abyss no Fuchi",
     "aired": "2017-07-28",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "odesu",
+            "url": "https://desustream.net/dstream/odesu/new/?id=dTEwUC9zOC95ZzBxbVNWQ1RXZUtVQT09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Kasou Hou",
     "aired": "2017-08-04",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "odesu",
+            "url": "https://desustream.net/dstream/odesu/new/?id=amYvN2trMXVJVXBzK2gxd25LSjlrZz09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Seeker Camp",
     "aired": "2017-08-11",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "odesu",
+            "url": "https://desustream.net/dstream/odesu/new/?id=cTJiNEN4MDF0NlM4UTk0MWY1VmxKdz09"
+          }
+        ]
+      }
+    ]
   }
 ]
