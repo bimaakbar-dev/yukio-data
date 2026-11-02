@@ -8,14 +8,13 @@ kitsuId: "43268"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: summer
 year: 2021
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2021-07-09"
@@ -39,6 +38,8 @@ trailer: "Dz55QzZxJWg"
 draft: false
 ---
 
-Work sucks and Kinji was avoiding it beautifully by investing every penny. Good plan ’til he found himself in a new world…with DEBT! Now under the rule of an evil mining company, avoiding work is gonna be a tough grind. Does he have what it takes to pull off the ultimate workaround on this gig?
+Kinji memiliki rencana yang sangat baik untuk menghindari pekerjaan, yaitu dengan menginvestasikan setiap penny yang dimilikinya. Namun, rencana itu gagal total ketika dia tiba-tiba berada di dunia baru dengan beban utang yang sangat besar. Kini, dia harus berada di bawah kendali perusahaan pertambangan yang kejam.
 
-(Source: Funimation)
+Di dunia baru ini, Kinji harus berjuang untuk bertahan hidup dan menghindari pekerjaan yang tidak diinginkannya. Namun, perusahaan pertambangan tersebut tidak akan membiarkannya begitu saja. Mereka akan memastikan bahwa Kinji bekerja keras untuk membayar utangnya.
+
+Apakah Kinji memiliki kemampuan untuk menemukan cara untuk menghindari pekerjaan yang tidak diinginkannya di dunia baru ini? Apakah dia dapat menemukan jalan keluar dari situasi yang sangat sulit ini?
