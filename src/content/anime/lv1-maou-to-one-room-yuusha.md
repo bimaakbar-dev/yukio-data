@@ -14,6 +14,7 @@ season: summer
 year: 2023
 episodes: 12
 duration: 24
+rating: PG-13
 
 aired:
   from: "2023-07-03"
@@ -21,6 +22,7 @@ aired:
 
 stats:
   score: 6.9
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -40,6 +42,6 @@ trailer: "HuJuBPFkMe0"
 draft: false
 ---
 
-After his embarrassing defeat at the hands of a brave hero, the Demon Lord is back and ready for revenge… but after ten years apart, the hero, Max, isn’t the dashing do-gooder the Demon Lord remembers. In fact, Max has turned into a shut-in slob with no interest in an epic rematch. Can the Demon Lord whip his former nemesis back into shape, or will he be defeated by the hero-turned-couch-potato once again and join him in his lazy life?
+Demon Lord, sang penguasa kejahatan, kembali dengan dendam yang membara setelah kekalahan memalukannya di tangan seorang pahlawan berani. Namun, sepuluh tahun telah berlalu sejak pertarungan terakhir mereka, dan pahlawan itu, Max, ternyata telah berubah menjadi sosok yang tidak terduga.
 
-(Source: HIDIVE)
+Max, yang dulu dikenal sebagai seorang pahlawan gagah, kini telah menjadi seorang pemalas yang lebih suka menghabiskan waktu di dalam rumah. Demon Lord yang ingin membalas dendam harus menghadapi kenyataan bahwa lawannya tidak lagi memiliki semangat untuk bertarung. Apakah Demon Lord dapat mengembalikan Max ke jalur yang benar dan memicu pertarungan epik lainnya, ataukah ia akan terjebak dalam kehidupan malas-malasan bersama mantan pahlawan itu?
