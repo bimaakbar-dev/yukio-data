@@ -39,7 +39,7 @@ trailer: "e1Km0FqUZl0"
 
 draft: false
 addedAt: "2026-10-12"
-updatedAt: "2026-10-26"
+updatedAt: "2026-11-02"
 ---
 
 Sin Yeong-U, atau yang lebih dikenal sebagai Grid, adalah seorang pria yang kurang beruntung dalam kehidupan sehari-harinya. Ia juga merupakan pemain dengan level yang relatif rendah dalam permainan VR yang sangat populer, "Satisfy". Namun, kehidupan Grid mulai berubah ketika ia menemukan sebuah item yang sangat kuat.
