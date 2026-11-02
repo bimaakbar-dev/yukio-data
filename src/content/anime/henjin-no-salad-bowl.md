@@ -14,6 +14,7 @@ season: spring
 year: 2024
 episodes: 12
 duration: 24
+rating: PG-13
 
 aired:
   from: "2024-04-05"
@@ -21,6 +22,7 @@ aired:
 
 stats:
   score: 7.1
+  # scoredBy: # edit manual
 
 genres:
   - comedy
