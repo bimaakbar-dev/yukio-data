@@ -2,31 +2,247 @@
   {
     "number": 7,
     "title": "Episode 7",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=0e21PKp804g7"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/4R0SzKhJ#eK0WDKc8z8YbLySEZ-v9xqhYOtiLt25BnBfCF1NOtHM"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=TXV5WkRxQTJRSEJiU2JyR09NZVh3Zz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-0how7kk7s43g.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/VVkQxSCY#GEFOZDXKiXDrOPeMeXKzOYlPyxuGIDU6LejZPXEQY_w"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=TXV5WkRxQTJRSEJiU2JyR09NZVh3Zz09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Episode 8",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=qbflaJ268DN2"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/JZtkTQ7S#Yk5yWaAGB0IxwOUATt6o0VoZrGBWZ2iMQQtRVTV7Fsk"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=ajVOeW9rN0p4T2hGcXljajZNaDZsUT09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-judoe2dibpk3.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/RMt0XSwJ#ZSXui2w6t_WBL2cH4n24Dw6hm3rhHZm5vV-APHcmP3M"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=ajVOeW9rN0p4T2hGcXljajZNaDZsUT09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Episode 9",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=NcwuVuFf5hL3"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/xcsymQ6Z#rngeg0sK-9cQKLqHtZa66Q7QvomvzfCapwt94wNe8MU"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=MEM1N2VuRmsydWpiWkgzdkM4VWpIQT09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-9qeyvcfox729.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/xQ8ykKzB#b9EI5WMR08RCeUbhYpon_UjkYN0eEmYKobTLUkWz1Z0"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=MEM1N2VuRmsydWpiWkgzdkM4VWpIQT09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Episode 10",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=y3g016E8BQHY"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/BBlEXQCJ#uMkWizvHNzC7IIKZtnoWVkoelW_YbeuK8lnrjpwpvcY"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=YzZpbG9JVm9LMDdBQUF0Vy9NTVZIdz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-k22fh0lp0gcr.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/wc0ShIzQ#xwOb1i5CbnwAmK0LSW4Jr_hUe1A6FYe4XYwGJ30SzKM"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=YzZpbG9JVm9LMDdBQUF0Vy9NTVZIdz09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Episode 11",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=XM0U3N8dFN27"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Zd9kQQbC#Gc_wsiNpphX0vpAjWeqOLR7QjTOrUHgBTNB0uEVIed0"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=aG94OThxZUhqdTFLMnR5SkRxMkczUT09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-j8hvy1ltnkkb.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/VE1CRSTC#9NIMJ3xKeAPWOQWlAfBX5BlDlMHEfhmT5A2ssCUdVqA"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=aG94OThxZUhqdTFLMnR5SkRxMkczUT09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Episode 12",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "yourupload",
+            "url": "https://desudrive.com/stream/yuplod.php?id=rCyjclqLjr1e"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/IEkyXCSI#G2Sa82OOqy25-mc7-znkF-80QqCIcW10G2JwbfIb7uc"
+          },
+          {
+            "name": "moedesuhd",
+            "url": "https://desustream.net/dstream/moedesu/new/hd/index.php?id=V3dWTGpFNnhNekhtMnB4bEZYMjd0Zz09"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "mp4load",
+            "url": "https://www.mp4upload.com/embed-v5mix8b25n06.html"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/ME90AKoT#orBELMOAiiXhTSf-l05HYytXaa-V_b7YglJAeg6ikik"
+          },
+          {
+            "name": "moedesu",
+            "url": "https://desustream.net/dstream/moedesu/new/index.php?id=V3dWTGpFNnhNekhtMnB4bEZYMjd0Zz09"
+          }
+        ]
+      }
+    ]
   }
 ]
