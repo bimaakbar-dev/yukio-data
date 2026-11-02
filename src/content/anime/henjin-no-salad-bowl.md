@@ -40,12 +40,8 @@ trailer: "NWcAykaLqsc"
 draft: false
 ---
 
-Sousuke Kaburaya, an impoverished detective, met Sara, a princess from another world with magical powers.
+Sousuke Kaburaya, seorang detektif miskin, hidup sederhana di Jepang modern. Namun, kehidupannya berubah ketika ia bertemu dengan Sara, seorang putri dari dunia lain yang memiliki kekuatan magis. Sara memutuskan untuk tinggal bersama Sousuke dan dengan cepat beradaptasi dengan kehidupan di Jepang.
 
-Sara began living with Sousuke, and she quickly adjusted to life in modern Japan.
+Sara tidak sendirian, karena seorang kesatria wanita bernama Livia juga datang dari dunia yang sama dan mengalami nasib yang sama, yaitu tersesat dan tidak memiliki tempat tinggal. Namun, Livia menemukan kesenangan dalam hari-harinya di Jepang. Kehadiran kedua wanita ini membawa dampak positif pada Sousuke dan orang-orang aneh di sekitarnya.
 
-Meanwhile, Livia, a female knight who came from the same world as Sara, found herself lost and homeless, but surprisingly enjoyed her days here.
-
-These two people, who live a positive life despite their situation, began to have an impact on Sousuke and the other oddballs in the neighborhood, including a devilish lawyer, a divorce agent, and a cult leader. 
-
-(Source: Shogakukan, translated)
+Mereka semua, termasuk Sousuke, mulai terpengaruh oleh kehadiran Sara dan Livia, yang membawa energi positif ke dalam kehidupan mereka. Dengan kehadiran mereka, kehidupan Sousuke dan orang-orang di sekitarnya menjadi lebih menarik dan penuh warna.
