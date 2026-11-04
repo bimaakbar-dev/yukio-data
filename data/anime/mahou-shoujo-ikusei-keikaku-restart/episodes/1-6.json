@@ -52,5 +52,23 @@
         ]
       }
     ]
+  },
+  {
+    "number": 5,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://vkspeed.com/embed-uzlc4o2q5q2z.html"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://vkspeed.com/embed-uzlc4o2q5q2z.html"
+          }
+        ]
+      }
+    ]
   }
 ]
