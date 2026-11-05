@@ -54,7 +54,18 @@
   },
   {
     "number": 5,
-    "title": "Episode 5"
+    "title": "Episode 5",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://odvidhide.com/embed/sityhkvetbj5"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
