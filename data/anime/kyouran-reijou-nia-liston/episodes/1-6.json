@@ -55,7 +55,18 @@
   },
   {
     "number": 5,
-    "title": "Episode 5"
+    "title": "Episode 5",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=Nk0rNURONmhjNkxqNmFPcjZNbHU1S1lQUTFFUjlXK0UveHFoaW93YVdxMmxmckdvaVNna21Zdm42dlU3NEZxTHluamdYeEUzRGpuRUhHdUdOVzhFdkE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
