@@ -49,7 +49,22 @@
   },
   {
     "number": 4,
-    "title": "Episode 4"
+    "title": "Episode 4",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dyyd4LsPqF1G2T9nPzrQYEebgIUAuT1riYIcqlUcgafjgMIQOS4GA7w6yi7meTitU3fwDxyDmBSMF1AOv3-YIERsCb-ye1GgVZAhpYf_yuDmlngBDx93vlsuwQ3QBInxpseYzVF"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dyyd4LsPqF1G2T9nPzrQYEebgIUAuT1riYIcqlUcgafjgMIQOS4GA7w6yi7meTitU3fwDxyDmBSMF1AOv3-YIERsCb-ye1GgVZAhpYf_yuDmlngBDx93vlsuwQ3QBInxpseYzVF"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
