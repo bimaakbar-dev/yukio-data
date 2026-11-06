@@ -98,6 +98,21 @@
   {
     "number": 6,
     "title": "Episode 6",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzMjcuFhK5W8uf_3lia6_HfPiLkpdZdREVJVyWe1hUekClWKYvFROAyumuOcz4cnf_FEJErf5t3G4Zw1qZT4srpJ-LeYs7fO4f6FSurw5DshqP0Zgvnk8o-BmnL08Lrdux7yao"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzMjcuFhK5W8uf_3lia6_HfPiLkpdZdREVJVyWe1hUekClWKYvFROAyumuOcz4cnf_FEJErf5t3G4Zw1qZT4srpJ-LeYs7fO4f6FSurw5DshqP0Zgvnk8o-BmnL08Lrdux7yao"
+          }
+        ]
+      }
+    ]
   }
 ]
