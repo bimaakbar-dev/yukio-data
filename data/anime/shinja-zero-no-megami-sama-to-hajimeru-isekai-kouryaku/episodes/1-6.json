@@ -57,5 +57,23 @@
         ]
       }
     ]
+  },
+  {
+    "number": 4,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dxp-xjzSy4p69O0lqmnExTjYqp6qXzU0hN-u6QuwK9cgM2mbUxnpCUs1F3QR357TPunGfVPdibQ24h5Si7oPD1OotipsE6G02TZg7cExjDj5Wgqj-dU9a3PAz9jtjfRva5In1V4"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://play.xtwap.top/cepat2.php?url=Kx2J2oV37t9fJRMFdWvCHKVFXFFzsPBC%252BSfVDaYZ6HozsWyyaaldfjo2issJQXUOdFDRqS3hqHv3KWXRPd4pV79ZMpM6AzCFdMQmA8tlNBP5pt%252BkBwg5Yl06DYKvfkDp9SnGOI2uOKFV7XBLaxeM7o0xMfEYrJTsAoocWNGZzn0Wss2dj%252F6ceefJMdwsuE06QZ3RLl0%253D"
+          }
+        ]
+      }
+    ]
   }
 ]
