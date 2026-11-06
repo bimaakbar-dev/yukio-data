@@ -1,0 +1,94 @@
+[
+  {
+    "number": 19,
+    "title": "Episode 19",
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/W2gHFIzJ#PfkGD4F6YPZJ3nraFvXQ1wJuH095w0ns3rx83h5m-DQ"
+          }
+        ]
+      },
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/cVYbF8UPlf"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/id6n4g185nck"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/72BVVJTK#pmDXCivx2HZYxQYEc3Vzsjr7mSfF2avNfowT7t5DkNc"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/N4Q3ZrDJhA"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/qsmlwuqmih5r"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Ozw1kBIT#yVc2DqZaH5vdH_Byi_JsLDIp6b-UhdIaJS8anJa0zUU"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/HAfYCuBfdr"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/jpinc2f4zc07"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/H3JWWY5S#HEevDkqrYn0rx6dR1ZjY18AEFRwb-LjcXl4hbT6RiUk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "title": "Episode 20",
+    "duration": 23
+  },
+  {
+    "number": 21,
+    "title": "Episode 21",
+    "duration": 23
+  },
+  {
+    "number": 22,
+    "title": "Episode 22",
+    "duration": 23
+  },
+  {
+    "number": 23,
+    "title": "Episode 23",
+    "duration": 23
+  },
+  {
+    "number": 24,
+    "title": "Episode 24",
+    "duration": 23
+  }
+]
