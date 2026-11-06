@@ -32,7 +32,7 @@ trailer: "Ex9LrBK-7hk"
 
 draft: false
 addedAt: "2026-11-01"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-06"
 ---
 
 On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.
