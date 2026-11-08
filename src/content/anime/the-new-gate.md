@@ -14,7 +14,7 @@ season: spring
 year: 2024
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2024-04-14"
@@ -40,6 +40,8 @@ trailer: "zr2yisUUnc8"
 draft: false
 ---
 
-When an online game turns real, trapping its players in its virtual space, the strongest of them, Shin, rises up to put a stop to the madness. But just moments after defeating the game’s final boss, Origin, and freeing everyone, Shin is transported 500 years into the future of the in-game world. Armed with unrivaled strength, the young swordsman embarks on a legendary journey.
+Shin, pemain terkuat dalam sebuah permainan online, harus menghadapi kenyataan bahwa game tersebut telah menjadi kenyataan dan menjebak para pemainnya di dalam ruang virtual. Dengan kekuatan yang tak terkalahkan, Shin bertekad untuk menghentikan kekacauan ini dan membebaskan semua pemain yang terjebak.
 
-(Source: Crunchyroll)
+Namun, setelah berhasil mengalahkan bos terakhir dan membebaskan semua pemain, Shin dihadapkan pada situasi yang tidak terduga. Ia dibawa 500 tahun ke depan dalam dunia game tersebut, di mana ia harus menghadapi tantangan baru dan petualangan legendaris.
+
+Dengan kekuatan yang masih tak terkalahkan, Shin memulai perjalanan epiknya dalam dunia yang sama sekali baru dan penuh dengan misteri. Apa yang akan ia temui di sana, dan bagaimana ia akan menghadapi tantangan yang menantinya?
