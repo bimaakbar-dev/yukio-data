@@ -2,31 +2,295 @@
   {
     "number": 1,
     "title": "Episode 1",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/fsouk3trd2hw"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/b3YXwTAD#WMYjnNZiY5V4qpSOQU3ufzkCh1XIxd5NZPTqK7eQbEU"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=MFo0ZkYxSFVwR3dzREhIYXBidU4wLyt3RzV3N01STi91dnowUUFRNllaWT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=VklPLzBLaEZDRE55czIxcDgyenlnRllFeWMvY01RWjVacUJSZnozSEdPZzlJZE5UNURUYmhOMzVzU0tKandnZXQ0OTRCNU4rMEtwcTU3bmpWbWxpc0E9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/9hl23e838bns"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/L7wjCT7S#laYh4spnCosOR5sFPM-OJu5xPiQymNu89mmKBaCXt3c"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=MFo0ZkYxSFVwR3dzREhIYXBidU4wLyt3RzV3N01STi91dnowUUFRNllaWT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=VklPLzBLaEZDRE55czIxcDgyenlnRllFeWMvY01RWjVacUJSZnozSEdPaGxpWEZyQUl2Q21wTEx4SlhicElkQVgrQ1VJSjhFYkUvYlRWTTJLR0xLR0E9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Episode 2",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/dv4g16frwj3n"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/DzQEWZCB#Y6YZlCAhGpiM-KPg7GcEAC6KgF_6y1PYXwyDh4MHdXo"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=MFo0ZkYxSFVwR3dzREhIYXBidU4wOWhuV2hDZlVmYkVyWkxBN3NlcHdUZz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=VklPLzBLaEZDRE55czIxcDgyenlnRllFeWMvY01RWjVacUJSZnozSEdPZzlJZE5UNURUYmhOMzVzU0tKandnZUh2UzJOU0gvdno1TXFRMUxQSWlPRkE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/7if24fyvwwpb"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vuByARxL#4Einex6c-Lh9o2IAs3PF1Z4TIzBNL0k7s9Xk8nmQSXw"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=MFo0ZkYxSFVwR3dzREhIYXBidU4wOWhuV2hDZlVmYkVyWkxBN3NlcHdUZz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=VklPLzBLaEZDRE55czIxcDgyenlnRllFeWMvY01RWjVacUJSZnozSEdPaUJFOERrUzJDRGZEUzkvNncvTjY0QVF6NzJRa2pJOTRBdXRPQlJ6M3d4dkE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Episode 3",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/t38iy1d8tby4"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/WvRABSyJ#60QI-hCBmm6xqud__76AhbE9QJkZmqvcUtKtrafCZsA"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=MFo0ZkYxSFVwR3dzREhIYXBidU4weXdOejVMSXJsSnJIRmpXTGUyWXhrQT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=VklPLzBLaEZDRE55czIxcDgyenlnRllFeWMvY01RWjVacUJSZnozSEdPZzlJZE5UNURUYmhOMzVzU0tKandnZWRnbVdQYm1aM012OHZBTmgxUnp5MWc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ge6ijse6vf04"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/23gFwRSb#GfyTA_bsO6kAyIZmvExN2_t3rQvbNgTx9f5aaIGQ9T4"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=MFo0ZkYxSFVwR3dzREhIYXBidU4weXdOejVMSXJsSnJIRmpXTGUyWXhrQT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=VklPLzBLaEZDRE55czIxcDgyenlnRllFeWMvY01RWjVacUJSZnozSEdPaVhWNTRld0YrMWhRM0ZQbm0wbGJIZ01nWnV6Q3o5ellIM1NlLytkaTBhbUE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Episode 4",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ik3p34pwu11k"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vqQ2yLRA#vLUN4pLtY1VmydpoJL9iLm77rMLyh2aAxPx8pyIVgVI"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=MFo0ZkYxSFVwR3dzREhIYXBidU4wNSttcDZRNU9ZdnI4V2pqbW44eGdDTT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=VklPLzBLaEZDRE55czIxcDgyenlnRllFeWMvY01RWjVacUJSZnozSEdPZzlJZE5UNURUYmhOMzVzU0tKandnZWZYai91SVBuc3M0M1R6S1c4SWROWlE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/43in4dlgubp8"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/fiYSBAaJ#GwkV8Z6KpYK_1HCcZkDsMnNVLFsePq6Hn_fCTUKYPWw"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=MFo0ZkYxSFVwR3dzREhIYXBidU4wNSttcDZRNU9ZdnI4V2pqbW44eGdDTT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=VklPLzBLaEZDRE55czIxcDgyenlnRllFeWMvY01RWjVacUJSZnozSEdPZ0dxUWNjUk5pRXFFN2VVTHpab3A4N3BIU3BJWGRaazlmZUhXdW84TU1PeUE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Episode 5",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/czjy0z85gmxj"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/iqwiBBZK#p8FzIzR9YuEFb_hYU5bCwHj3onZ6edM48MkjeErUxPI"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=MFo0ZkYxSFVwR3dzREhIYXBidU4wN2hzZ1JNM0FacEM3UnVNc0p6dWNBZz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=VklPLzBLaEZDRE55czIxcDgyenlnRllFeWMvY01RWjVacUJSZnozSEdPZzlJZE5UNURUYmhOMzVzU0tKandnZWFZeUYwZVNhWk9yQ3FMR2IvcGpmdFE9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/aciahy3duglw"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/K6YAlAob#7UercQkon2esxxbm_9Cq8mcXgqIjcPQA2KCns-K-nWc"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=MFo0ZkYxSFVwR3dzREhIYXBidU4wN2hzZ1JNM0FacEM3UnVNc0p6dWNBZz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=VklPLzBLaEZDRE55czIxcDgyenlnRllFeWMvY01RWjVacUJSZnozSEdPaXFlRUtNMmNRQk0xTGI4MFRXYk82MkRIQU9rRzFQcEM0MHBTQXlSUDMwaGc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Episode 6",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/u14jnv5lgjtw"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/SngHCTCR#92bwAEtBhbAyVBqvl3lkO2xeJ9a9fCU7BjXuemV-e18"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=MFo0ZkYxSFVwR3dzREhIYXBidU4wd2xubmYrZ2piZnVjb2IyTTBXSXNXUT0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=VklPLzBLaEZDRE55czIxcDgyenlnRllFeWMvY01RWjVacUJSZnozSEdPZzlJZE5UNURUYmhOMzVzU0tKandnZStlWnVXVExSN1QwQjF5bEpMRER6Snc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/yp0fg3b9qebf"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/CvQ1DIhB#SOrPThKRRQ7dypq-vupVbBDikB_aS_OWLZcLR_SoG5A"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=MFo0ZkYxSFVwR3dzREhIYXBidU4wd2xubmYrZ2piZnVjb2IyTTBXSXNXUT0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=VklPLzBLaEZDRE55czIxcDgyenlnRllFeWMvY01RWjVacUJSZnozSEdPaFNQM1d1cStiNVpqMEFLNTdKbFprTWtLMWRSQkJGV3d2V0hNNitydzRMdEE9PQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
