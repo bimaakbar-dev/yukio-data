@@ -161,6 +161,72 @@
   },
   {
     "number": 6,
-    "title": "Episode 6"
+    "title": "Episode 6",
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/CtBkULJL#sQTqCm4G7q9SvN9YTr5lrH4qxrkFEpFlWSO1Sj7fPEs"
+          }
+        ]
+      },
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/OiRSjFc6yY"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/h759n9wnws9s"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/LtpGzJZA#tBGV0P_t4fd_sfv1Jo2tVqhGxXo6sdm3HogQh74yvvQ"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/vm1dDcstf6"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/g46njamwjef5"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/2pgwzBjD#45K5WfkcsWMuTk6hUPxnr3qmfvXfhussaivbhk1WPYQ"
+          },
+          {
+            "name": "blogs",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dxZxcwbzAKSEKSwNRNrQYXh3EqXFpMN1I_3xkcWXqVF_DDKQX7slg5ChuWUEaMmRzcbdiBclI76bKRxFIyaxrCZPKa63yKuNyk_iu1jmhJ8-pqR_3JZZu1EglY7ZPl48z_UWuM&origin=odongoing2deredesu.blogspot.com"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/O1tvWQsqrC"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/3lorw5chix6i"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/m8hUmBYa#ASn6TrPiikOvdaZdz8n6CvA5Q1ieW3qeUPz_v6Yu3-4"
+          }
+        ]
+      }
+    ]
   }
 ]
