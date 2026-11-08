@@ -68,7 +68,22 @@
   },
   {
     "number": 5,
-    "title": "Episode 5"
+    "title": "Episode 5",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dyppDhQTodJJLS3ui-D7XQYeItGSeKsQO-k4AdbE3b9Zd2B_EgshveSBI0eQlvL38WTCLKjQy3GWTls092H4PbcwdUjeITaUK2Za-VgDuhhW0qcNBTsxQdyQM7dfgsZXNlXBso"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://play.xtwap.top/cepat2.php?url=H14FDo%252FiG9qPdwm%252Bsf3lSIVbL4V1AblzQG2HTtAvtxLOxsZpCuLGzGiV%252Fq2l54eQKURo%252FsouwdKa0KZRjCTqSz55YHvWGIfAeTt5rvUGhqEjEzYw8Nkk57%252BaALsToJC8pAdJ%252F8uN7Y2xpifKQSgGc5Zeb%252BdiII31V%252BX6voOuP5trd%252Fql%252F%252F%252BLBdraHXpgwQtPc1tioM0%253D"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
