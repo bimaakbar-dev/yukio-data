@@ -14,7 +14,7 @@ season: fall
 year: 2025
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2025-10-07"
@@ -39,6 +39,8 @@ trailer: "y6JhkExwfrs"
 draft: false
 ---
 
-Akira Oda and his high school classmates are summoned to another world! While the other students are granted cheat abilities through the summoning, Akira merely gains the abilities of a mediocre “assassin.” However, his status soon surpasses “hero,” the strongest profession. After Akira becomes suspicious of the King behind the summoning, he is falsely framed for a crime and forced to flee.
+Akira Oda, seorang siswa SMA, tiba-tiba dipanggil ke dunia lain bersama teman-teman sekelasnya. Sementara teman-temannya dianugerahi kemampuan istimewa, Akira hanya mendapatkan kemampuan sebagai seorang pembunuh yang biasa-biasa saja. Namun, kemampuan ini ternyata menyimpan kekuatan yang luar biasa.
 
-(Source: Crunchyroll)
+Ketika Akira mulai menyelidiki lebih dalam tentang tujuan di balik pemanggilan mereka, ia menemukan beberapa hal yang mencurigakan. Ia mulai meragukan niat Raja yang memanggil mereka ke dunia ini. Namun, sebelum ia bisa mengungkap kebenaran, Akira dituduh melakukan kejahatan dan harus melarikan diri untuk menyelamatkan dirinya.
+
+Dengan kemampuan yang ia miliki, Akira harus berjuang untuk membuktikan kesucian dirinya dan mengungkap kebenaran di balik pemanggilan mereka ke dunia ini. Apakah ia bisa berhasil mengatasi tantangan ini dan menemukan jalan kembali ke rumah?
