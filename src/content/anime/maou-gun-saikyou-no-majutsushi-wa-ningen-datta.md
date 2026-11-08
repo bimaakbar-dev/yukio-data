@@ -8,14 +8,13 @@ kitsuId: "48440"
 
 type: TV
 status: finished
-rating: PG-13
 source: light_novel
 
 season: spring
 year: 2024
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2024-06-26"
@@ -35,12 +34,14 @@ studios:
   - studio-a-cat
 
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173584-nyZElmr8218W.jpg"
-# banner: # edit manual
+banner: "https://media.kitsu.app/anime/48440/cover_image/large-7a13fe2001bc5752f972cdd9430eeca5.jpeg"
 trailer: "aJS0wtA0p0Q"
 
 draft: false
 ---
 
-Ike is a powerful magician and the leader of the Immortal Brigade, part of the Seventh Corps of the Demon Lord’s Army. He single-handedly conquers fortresses and pushes back the armies of humanity. Neither Dairokuten, the Demon Lord, nor Ike’s loyal soldiers know his darkest secret—he is a human in hiding! But can he keep his secret safe and bring peaceful coexistence to demons and humans?
+Ike, seorang penyihir kuat, memimpin Brigade Abadi, bagian dari Korps Ketujuh Tentara Demon Lord. Ia sendirian dapat menaklukkan benteng-benteng dan memukul mundur pasukan manusia. Namun, di balik kekuatannya yang luar biasa, Ike menyembunyikan rahasia gelap yang tidak diketahui oleh Demon Lord Dairokuten maupun pasukannya yang setia.
 
-(Source: Crunchyroll)
+Rahasia ini membuat Ike harus berhati-hati agar tidak terbongkar. Sementara itu, ia terus berjuang di medan perang, membantu Demon Lord dalam pertempuran melawan manusia. Namun, di dalam hatinya, Ike memiliki tujuan yang lebih mulia: mencapai koeksistensi damai antara demon dan manusia.
+
+Dengan kekuatan dan kepemimpinannya, Ike berusaha mewujudkan mimpinya tersebut. Tapi, apakah ia dapat menjaga rahasia gelapnya tetap aman dan mencapai tujuannya? Pertanyaan ini masih menggantung, menantikan Ike untuk membuktikan kemampuan dan keberanianannya dalam menghadapi tantangan yang akan datang.
