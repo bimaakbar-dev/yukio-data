@@ -26,5 +26,19 @@
         ]
       }
     ]
+  },
+  {
+    "number": 6,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://odvidhide.com/embed/keehh5ud9q63"
+          }
+        ]
+      }
+    ]
   }
 ]
