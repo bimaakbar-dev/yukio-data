@@ -14,7 +14,7 @@ season: spring
 year: 2024
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2024-04-02"
@@ -39,8 +39,8 @@ trailer: "Eks6OyQNoEU"
 draft: false
 ---
 
-After meeting an untimely death, Tomokui Kanata is reincarnated as a lowly goblin, but he’s worked up a monstrous appetite. Thanks to his new ability that allows him to grow stronger the more he feeds, his feeble status quickly changes, and he rises to become the goblin leader. With a mix of his past memories, new body, and strong stomach, he’s taking a bite out of this new fantastical world! 
+Tomokui Kanata, seorang pria yang mengalami kematian yang tidak terduga, kini terlahir kembali sebagai seekor goblin yang lemah. Namun, ia memiliki keinginan yang luar biasa untuk tumbuh kuat. Dengan kemampuan barunya yang memungkinkan dia untuk menjadi lebih kuat setiap kali dia makan, statusnya yang lemah mulai berubah.
 
-(Source: Crunchyroll)
+Kanata sekarang memiliki kesempatan untuk menguasai dunia fantasi ini dengan kekuatan barunya. Ia menggunakan pengalaman dan kenangan dari kehidupan sebelumnya untuk memanfaatkan tubuh barunya dan mengeksplorasi kemampuan yang dimilikinya. Dengan perut yang kuat dan tekad yang kuat, dia siap untuk menghadapi tantangan di dunia barunya.
 
-The episodes were streamed several days ahead than the TV broadcast on U-NEXT, Anime Houdai, and Crunchyroll beginning on April 2nd, 2024 at 0:00 JST. The regular TV broadcast begins on April 5th, 2024.
+Dalam perjalanannya, Kanata akan mengalami banyak petualangan dan pertempuran yang akan membentuknya menjadi pemimpin yang tangguh. Dengan latar belakang yang unik dan kemampuan yang luar biasa, kisah Kanata sebagai goblin yang kuat dan berani akan segera terungkap.
