@@ -91,7 +91,73 @@
   },
   {
     "number": 5,
-    "title": "Episode 5"
+    "title": "Episode 5",
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/W9IkgJzC#Wxx60rXanhhcrw7Ymd6_oGLNrgGoa_XlmB_I6xHsqd0"
+          }
+        ]
+      },
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/LVTYuiqKBy"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/cs1lbm0s8fno"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/f9Qn3aBY#OaQ7T0-oaFhF36ITFGeab2UUe__SF0wNBuuhXPA7ryk"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/A2rKfefrbl"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/zi35vlmdmc2u"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/q5wD1IgQ#9XABs66Ix3sdbVhqCj2Ad7KIuzFcDzCYIGyEKplF3w4"
+          },
+          {
+            "name": "blogs",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwsK4xwCK5uAdC_eVEOay1b4BrBb41CgOT0U_GkjqCG9oCKVUIHUCgdtmFPKJRkR9AYMeRbqSB_GINw4PdLp44DSP5GDWVTvD6WmgoRXpSizNJsJ4C-9mX8VXyDV6w_oK1wha8&origin=odongoing2deredesu.blogspot.com"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/wekf6rIl6e"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/dakfq4zyuwqm"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/2hwnHAJD#wHS4Wid9Q6TlN_RmgxrEIw7TV1UlDg-VB_9JogXxfmM"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
