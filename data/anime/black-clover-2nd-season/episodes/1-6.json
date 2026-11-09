@@ -85,6 +85,21 @@
   {
     "number": 6,
     "title": "Episode 6",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dz4cFq8RQtOn9tDoqz-6KtyfzS8Fn5QA79xPjC0C3j8Vtzre_S_PQ2HU7LrO_c6nizUS3Yg13ixON8QK1r8TOZMgjKbqHzrjjM51Wky79j2mELWg34e4zAPEAKm3sKB_Kt1cUd2"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://play.xtwap.top/cepat2.php?url=xDTrwLhdmsVxIr7ow%252FXyrUbw30%252F0FVkCrZtkP8sGbIuHN1lsr3ZDoBjJBB%252FAN2hXbcIRfoNY21LRcJqMFtYqGMUEqR8yMqcYcsom9FMrrv2pAC%252FVFqVHEi6GNp8Tpv95ImtU86m35RB2aNnMPOV8TUcfZROzK%252F58iMULnpfhsO3HBvCjtfihCFvf01qb8EIlzDWkr6c%253D"
+          }
+        ]
+      }
+    ]
   }
 ]
