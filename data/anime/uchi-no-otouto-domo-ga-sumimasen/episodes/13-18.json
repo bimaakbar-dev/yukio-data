@@ -66,7 +66,18 @@
   {
     "number": 17,
     "title": "Episode 17",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=NGhLaTFFYkRGOHlWdDZLTTZUQzgvbDNKaFJEQ0ZEWXJTTkd0ckpKRE5nWT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 18,
