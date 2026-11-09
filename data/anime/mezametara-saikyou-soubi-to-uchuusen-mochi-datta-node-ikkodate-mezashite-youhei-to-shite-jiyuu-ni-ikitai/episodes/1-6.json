@@ -63,26 +63,17 @@
     "number": 4,
     "title": "Episode 4",
     "duration": 24,
-    "streams": {
-      "720p": [
-        "https://filedon.co/embed/p4B2dleMqd",
-        "https://odvidhide.com/embed/2tfvql6i3782",
-        "https://mega.nz/embed/kBd3zaRZ#FgC2YyE1l90MHrBLDOEmH0qRFaeqV_e2uXtVK3nYUw4",
-        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=clB6NmZkNHhyM0VTTVNISWlSN0JwQT09",
-        "https://desustream.net/dstream/arcg/?id=VFhHQ2dIUXNhUUY0QUJsNHFyUjI2WFpsVkdzVjRuMy9BcHQrSlNzS01wWlg4K0tzTjJISndnYTJ0WVROYTduNmdVMnJCUHNSTjhLNlZpd01mWi8veGc9PQ=="
-      ],
-      "480p": [
-        "https://filedon.co/embed/PjcTyLzux3",
-        "https://odvidhide.com/embed/z9gdm5qc54pl",
-        "https://mega.nz/embed/gV1CjboQ#woeTQtQNco1rkk3K43EVzAs--lyoHhg-YuGqdlAxfeo",
-        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0Z1lQMGMzRjI2VFNHNFFOUXh0NHFQb2d2QkpGa1htWjA0VTZUbWMvUVA2Tg=="
-      ],
-      "360p": [
-        "https://filedon.co/embed/wq9eadADYW",
-        "https://odvidhide.com/embed/th3kktmjkqxh",
-        "https://mega.nz/embed/gdFVTJiY#cytkMq4UXcm0B01JVNFY6DfcEfW9fMx9-HduJb6I_YU"
-      ]
-    }
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=clB6NmZkNHhyM0VTTVNISWlSN0JwQT09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
