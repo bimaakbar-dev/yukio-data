@@ -1,7 +1,51 @@
 [
   {
     "number": 13,
-    "title": "Episode 13"
+    "title": "Episode 13",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/hpy122q3kcpd"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/DnpWVBIZ#zlxWXKor4XXsHmNnESfdfd2c636WymHFPqjJurLd9yU"
+          },
+          {
+            "name": "otakuwatchhd2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/hd/index.php?id=c2ZRZC9MZk5XZDQzR3BqUFJjbTlLNmdLaWFZdU1RRUFIWHBuOHArSGkyZz0="
+          },
+          {
+            "name": "odstreamhd",
+            "url": "https://desustream.net/dstream/arcg/?id=dWVFaU9iZWNIazgvWjlzYWE2OHgxYm5BRUU1ZXNNNzFqS1MxNkgwdWtIV3lXZXVxLzh6YTIwOTk4aytjeU01dS9FN1FZK290Y2ZiY3duNTZDcTdHNmc9PQ=="
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/qiq9ds72izmk"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Om4AnSBB#uiaSw_C8vh-njCjUCqgsSH9o3WbM3BixdDPyzBNzStg"
+          },
+          {
+            "name": "otakuwatch2",
+            "url": "https://desustream.net/dstream/otakuwatch2/new/index.php?id=c2ZRZC9MZk5XZDQzR3BqUFJjbTlLNmdLaWFZdU1RRUFIWHBuOHArSGkyZz0="
+          },
+          {
+            "name": "odstream",
+            "url": "https://desustream.net/dstream/arcg/?id=dWVFaU9iZWNIazgvWjlzYWE2OHgxYm5BRUU1ZXNNNzFqS1MxNkgwdWtIVXNzWUd2MlJaT1MwZEE5YzBBdlNqSA=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 14,
