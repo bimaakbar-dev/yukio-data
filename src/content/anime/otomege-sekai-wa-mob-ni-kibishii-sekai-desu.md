@@ -14,7 +14,7 @@ season: spring
 year: 2022
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2022-04-03"
@@ -40,6 +40,8 @@ trailer: "8G9dunL-zPI"
 draft: false
 ---
 
-Office worker Leon is reincarnated into a particularly punishing dating sim video game, where women reign supreme and only beautiful men have a seat at the table. But Leon has a secret weapon: he remembers everything from his past life, which includes a complete playthrough of the very game in which he is now trapped. Watch Leon spark a revolution to change this new world in order to fulfill his ultimate desire…of living a quiet, easy life in the countryside!
+Leon, seorang pekerja kantoran, mendapati dirinya terlempar ke dalam sebuah game simulasi kencan yang penuh tantangan. Di dunia ini, wanita memegang kekuasaan dan hanya pria tampan yang bisa menikmati kehidupan yang nyaman. Namun, Leon memiliki kelebihan yang tidak dimiliki orang lain - ingatannya tentang kehidupan sebelumnya masih utuh, termasuk pengalaman bermain game ini hingga tamat.
 
-(Source: Seven Seas Entertainment)
+Dengan pengetahuan yang ia miliki, Leon memiliki peluang untuk mengubah nasibnya di dunia baru ini. Ia bisa menggunakan pengalaman dan pengetahuannya untuk mencapai tujuannya, yaitu hidup dengan tenang dan damai di pedesaan. Tapi, apakah ia bisa benar-benar mencapai kehidupan yang diinginkannya di dunia yang penuh dengan ketidakpastian ini?
+
+Leon siap menghadapi tantangan dan mengubah dunia ini agar bisa mencapai kehidupan yang ia impikan. Dengan keberanian dan pengetahuannya, ia akan memulai perjalanan untuk merebut kehidupan yang lebih baik dan mencapai tujuannya. Apakah ia berhasil atau tidak, hanya waktu yang akan menjawab.
