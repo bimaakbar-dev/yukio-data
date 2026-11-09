@@ -37,7 +37,7 @@ trailer: "YBWOrQCB9r0"
 
 draft: false
 addedAt: "2026-10-30"
-updatedAt: "2026-10-30"
+updatedAt: "2026-11-09"
 ---
 
 Di sebuah dunia yang dikuasai oleh kekuatan Shadow Worlds, umat manusia hampir punah. Enam pahlawan berani melakukan pertarungan berbahaya untuk menyelamatkan planet mereka dari kehancuran, tetapi mereka gagal. Namun, ada harapan ketika Desir, salah satu penyihir terakhir, tiba-tiba dikirim kembali ke masa lalu 13 tahun.
