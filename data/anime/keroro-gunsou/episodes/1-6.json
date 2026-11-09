@@ -71,7 +71,18 @@
     "number": 5,
     "title": "The Day The Gundam Cried!",
     "aired": "2004-05-01",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=OEIzOHJYS2JNbm5STEtnS3N0ZSt3Qml2UDFiMzJjYXp0OEVZY0VxYnVaZz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
