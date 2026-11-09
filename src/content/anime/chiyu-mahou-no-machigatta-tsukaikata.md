@@ -4,7 +4,7 @@ titleEnglish: The Wrong Way to Use Healing Magic
 titleNative: 治癒魔法の間違った使い方
 
 malId: 49613
-kitsuId: "44981"
+kitsuId: "49098"
 
 type: TV
 status: finished
@@ -14,7 +14,7 @@ season: winter
 year: 2024
 episodes: 13
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2024-01-06"
@@ -39,6 +39,8 @@ trailer: "UkPRnHQJrws"
 draft: false
 ---
 
-An ordinary walk home from school turns into an epic journey for Usato. After suddenly being dropped into another world with two fellow students, Usato learns he was summoned there by accident. But things turn around when he discovers a unique aptitude for healing magic! Now, he trains beyond human limitations, using his self-healing abilities to gain absurd strength and unrivaled stamina.
+Usato sedang dalam perjalanan pulang sekolah yang biasa-biasa saja, namun hari itu berubah menjadi petualangan epik yang tidak terduga. Ia tiba-tiba dibawa ke dunia lain bersama dua teman sekelasnya. 
 
-(Source: Crunchyroll)
+Saat menyadari bahwa ia terpanggil ke dunia tersebut secara tidak sengaja, Usato menemukan sebuah kemampuan unik di dalam dirinya - kemampuan sihir penyembuhan. Ini membuka pintu bagi petualangan baru yang penuh dengan kemungkinan.
+
+Dengan kemampuan penyembuhan yang dimilikinya, Usato memulai latihan yang melampaui batas kemampuan manusia biasa. Ia menggunakan kemampuan penyembuhan diri untuk memperoleh kekuatan luar biasa dan stamina tak terkalahkan, membuka jalan bagi petualangan yang akan mengubah hidupnya selamanya.
