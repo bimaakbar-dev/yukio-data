@@ -8,14 +8,13 @@ kitsuId: "43966"
 
 type: TV
 status: finished
-rating: PG-13
 source: light_novel
 
 season: spring
 year: 2021
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2021-04-14"
@@ -39,6 +38,8 @@ trailer: "gsTERSk_BZo"
 draft: false
 ---
 
-She smiles just for me. Her name is Kachi Shirokusa and she's even an award-winning high school girl writer! And she's beautiful! I know that she's totally out of reach for me, a normal high school kid named Maru Sueharu! But I think something's there... No, there's definitely something there! Or so I thought... but Kachi has a boyfriend?! Seeing me depressed, my friend ever since we were little who's cute, cheerful, and loves to look after others, Shida Kuroha... who also apparently had no problem telling me that she likes me for some reason just suggested, "Let's get revenge."
+Saya adalah Maru Sueharu, siswa SMA biasa yang hidupnya tak jauh dari kegiatan sehari-hari. Namun, ada satu hal yang membuat hidupku sedikit lebih menarik, yaitu kehadiran Kachi Shirokusa, seorang siswa SMA yang cantik dan berbakat. Ia adalah seorang penulis muda yang telah memenangkan beberapa penghargaan, dan saya merasa bahwa ia adalah sosok yang tak terjangkau bagi saya.
 
-(Source: Crunchyroll)
+Kachi memiliki senyum yang manis dan membuatku merasa spesial ketika ia tersenyum padaku. Saya merasa bahwa ada sesuatu yang spesial antara kami, namun saya ragu apakah perasaan itu benar-benar ada. Saya merasa bahwa Kachi adalah sosok yang ideal, dan saya tak memiliki keberanian untuk mendekatinya.
+
+Tapi, ketika saya merasa sedih dan kecewa, teman masa kecilku, Shida Kuroha, selalu ada di sana untuk mendengarkan dan memberikan dukungan. Ia adalah sosok yang ceria, perhatian, dan selalu siap membantu orang lain. Dan, ia memiliki rahasia yang membuatku terkejut...
