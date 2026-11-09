@@ -61,7 +61,18 @@
   },
   {
     "number": 5,
-    "title": "Episode 5"
+    "title": "Episode 5",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=azU4ZnZUNkZXV2hVWjM5MDc2S3UydlZpMUJucmQycDF6Qk9IQ0gweFdWND0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
