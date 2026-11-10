@@ -70,5 +70,23 @@
         ]
       }
     ]
+  },
+  {
+    "number": 6,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://upbolt.to/e/luakanco1lm3"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://upbolt.to/e/luakanco1lm3"
+          }
+        ]
+      }
+    ]
   }
 ]
