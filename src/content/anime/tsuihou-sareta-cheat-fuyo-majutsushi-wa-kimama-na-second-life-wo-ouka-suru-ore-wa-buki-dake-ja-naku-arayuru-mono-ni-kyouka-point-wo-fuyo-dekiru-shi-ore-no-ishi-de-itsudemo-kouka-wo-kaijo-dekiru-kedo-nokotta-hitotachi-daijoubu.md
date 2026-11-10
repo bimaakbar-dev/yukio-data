@@ -36,7 +36,7 @@ trailer: "BJXBr_aFF8s"
 
 draft: false
 addedAt: "2026-10-30"
-updatedAt: "2026-10-30"
+updatedAt: "2026-11-10"
 ---
 
 Rein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.
