@@ -3,12 +3,34 @@
     "number": 25,
     "title": "Wings",
     "aired": "2019-03-29",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXN2lDM1BKWE9OakxYRGZsMS9hczJVVT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 26,
     "title": "Son of God",
     "aired": "2019-04-05",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXeUwrNmtIY2l3RkhFWUVla0JLNEt4OD0="
+          }
+        ]
+      }
+    ]
   }
 ]
