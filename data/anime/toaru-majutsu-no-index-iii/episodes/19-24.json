@@ -3,36 +3,102 @@
     "number": 19,
     "title": "Misaka Worst",
     "aired": "2019-02-15",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXN211djBFZU9OellZTVczaUE5VXNRTT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 20,
     "title": "A Reason to Protect",
     "aired": "2019-02-22",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXeXpnb0pMNE5mUFYvaDhOZlFubllBZz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 21,
     "title": "The Star of B'Tselem",
     "aired": "2019-03-01",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXN2RqUC9sMWQ4eW50RUsyNmRoRnI3dz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 22,
     "title": "Angel Power (Gabriel)",
     "aired": "2019-03-08",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXMzB0eGpST0ZVSHlGVUFjSis0bUpBVT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 23,
     "title": "Fuse=KAZAKIRI",
     "aired": "2019-03-15",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXK3hYVGoxTm9ZVGRhWEgwNEQ1REtFYz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 24,
     "title": "List of Prohibited Books (Index)",
     "aired": "2019-03-22",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXeCtEaUdZS2NwWmNFOXA3cmtCb1ZVbz0="
+          }
+        ]
+      }
+    ]
   }
 ]
