@@ -3,36 +3,102 @@
     "number": 13,
     "title": "Curtana Original",
     "aired": "2018-12-28",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXMmppRFlMcVR2WEZlN1JNN1owd0xadz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 14,
     "title": "Heroes",
     "aired": "2019-01-11",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXelRkbUs1SWNGWmtnUnE2dS9zUzdxaz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 15,
     "title": "Spark Signal",
     "aired": "2019-01-18",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXeVR4S3hHRlUxTzU0UHVoUHlzVms3Zz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 16,
     "title": "The Governing Board",
     "aired": "2019-01-25",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXL2xxMWkzdVR2ZTdOSTVnQzZ5b3plRT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 17,
     "title": "DRAGON",
     "aired": "2019-02-01",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXK1plSWVnOGNrN3ZOYzBIc0pCRnB0WT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 18,
     "title": "The Alliance of Independent Nations",
     "aired": "2019-02-08",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXNHJMNmxZL09LQTVCL1BhREdpcUdSYz0="
+          }
+        ]
+      }
+    ]
   }
 ]
