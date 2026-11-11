@@ -8,14 +8,13 @@ kitsuId: "5541"
 
 type: TV
 status: finished
-rating: R
 source: light_novel
 
 season: fall
 year: 2010
 episodes: 24
 duration: 23
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2010-10-08"
@@ -40,6 +39,8 @@ trailer: "sI2ZsiKhLxk"
 draft: false
 ---
 
-Index is still a fugitive, and many powerful magical organizations and individuals want to take her to use the books in her memory, eliminating her in the process. War between those organizations is also starting to emerge. Index can only rely on her friend Touma, who has always protected her, along with Misaka and other friends from the Academy.
+Index masih menjadi buronan, dan banyak organisasi serta individu kuat yang ingin menguasainya untuk memanfaatkan pengetahuan yang tersimpan dalam memorinya. Mereka tidak ragu untuk menghilangkannya jika itu diperlukan. Konflik antar organisasi mulai memanas, dan Index harus berhati-hati untuk bertahan hidup.
 
-(Source: Anime News Network)
+Dalam situasi yang semakin genting ini, Index hanya bisa mengandalkan bantuan dari teman-temannya. Touma, yang selalu melindunginya, menjadi salah satu orang yang paling dia percayai. Bersama dengan Misaka dan teman-teman lain dari Akademi, Index berusaha untuk menghadapi ancaman yang mengelilinginya.
+
+Dengan kekuatan dan kemampuan unik yang dimiliki oleh masing-masing karakter, mereka akan berjuang untuk melindungi Index dan menghadapi konflik yang semakin kompleks. Pertarungan antar organisasi sihir akan memanas, dan Index harus berhati-hati untuk tidak terjebak dalam konflik tersebut.
