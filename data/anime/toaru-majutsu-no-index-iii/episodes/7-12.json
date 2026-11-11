@@ -3,36 +3,102 @@
     "number": 7,
     "title": "The Third Level",
     "aired": "2018-11-16",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXMFpJdFJrZm5Rd0lvVGVsSFhNYkc1bz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Saint Breakout",
     "aired": "2018-11-23",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXK1UzcnU5RUY5WGZyL1YrZm4wNmhMTT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Holy Mother Veneration",
     "aired": "2018-11-30",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXeGFLaDV1NmxkYngrUWNVOE1LdUlRRT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Sky Bus 365",
     "aired": "2018-12-07",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXNVhuNWtBMCtpRW5ISUNhcDVxMXMzdz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "British Labyrinth",
     "aired": "2018-12-14",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXLytoYkFkbXZ0eEtub1V5M0pLWExIYz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Mercenary",
     "aired": "2018-12-21",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXNW5uRThKb3ByL1BtU0tXTDFNQitLVT0="
+          }
+        ]
+      }
+    ]
   }
 ]
