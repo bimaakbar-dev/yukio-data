@@ -3,36 +3,102 @@
     "number": 1,
     "title": "Unrest",
     "aired": "2018-10-05",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXOXFYamF4b0lsaC9hZzRVUlpLbHNPST0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "The Right Seat of God",
     "aired": "2018-10-12",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXNDFud2U5U25zejVPb0xETElYSkN0bz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "The Document of C",
     "aired": "2018-10-19",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXM0h2VWhBb1YrN1l5cm1lQ1Bsb3VsTT0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "The Dark Side of Academy City",
     "aired": "2018-10-26",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXeVhOQlVnQlZ6Yms4d09tV2JnR0x4MD0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Dark Matter",
     "aired": "2018-11-02",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXd1h5Q2RNVFpKdmhscVdERWhXWGM1Zz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Super-espers",
     "aired": "2018-11-09",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "desuwatch",
+            "url": "https://desustream.net/dstream/desuwatch/new/index.php?id=TFNHdkQ5enU4K2xIbUpRcXoxZUZXMUVkMlBHQ0tSWE5FRnFyL1FUSllhQT0="
+          }
+        ]
+      }
+    ]
   }
 ]
