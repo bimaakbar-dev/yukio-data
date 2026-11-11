@@ -3,36 +3,234 @@
     "number": 1,
     "title": "Saigo no Hi",
     "aired": "2010-10-08",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/jj4P5Kp4LYrgm"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/XGDkeXn67P2P4"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-2-1"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/3MBy2XVxRRLVN"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Hou no Sho",
     "aired": "2010-10-15",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/qGkM6Xy2Rvg2j"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/RjWDqprANMXy2"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-2-2"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/V4nk5NDjX3qAe"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Amakusa-shiki",
     "aired": "2010-10-22",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/qGkMnyNAnWBzV"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Bj3MzmnRdmx6V"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-2-3"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/gRzQm8LX7Yvjd"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Sheol Fear",
     "aired": "2010-10-29",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/AwYqAgjYjNknG"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/vpmqpz6wQv6am"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-2-4"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8Gqz6wgYaQzvd"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Lotus Wand",
     "aired": "2010-11-05",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/MBAKd8wy5NdyP"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/NjM6VXX3kgNWV"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-2-5"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/vpmqBRxzPkr6a"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Remnant",
     "aired": "2010-11-12",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/52APNj5YMP54A"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/V4nkKNQKWyMpq"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-2-6"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/DvdgMzqg6evBV"
+          }
+        ]
+      }
+    ]
   }
 ]
