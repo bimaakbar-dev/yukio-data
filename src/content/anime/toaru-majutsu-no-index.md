@@ -39,4 +39,8 @@ trailer: "U04iq9T93ss"
 draft: false
 ---
 
-Set in a city of scientifically advanced superhuman students, but in a world where magic is also real. Touma Kamijou&rsquo;s right hand, the Imagine Breaker, will negate all magic, psychic, or divine powers, but not his own bad luck. One day he finds a young girl hanging on his balcony railing. She turns out to be a nun from the Church of England, and her mind has been implanted with the Index-Librorum-Prohibitorum - all the magical texts the Church has removed from circulation.
+Di kota yang dipenuhi dengan siswa-siswa berbakat yang memiliki kemampuan super, Touma Kamijou hidup dengan kehidupan yang relatif biasa. Namun, ia memiliki sebuah keistimewaan yang unik, yaitu tangan kanannya yang dikenal sebagai Imagine Breaker. Kemampuan ini memungkinkannya untuk membatalkan semua jenis kekuatan magis, psikis, atau ilahi, tetapi sayangnya, tidak bisa menghindarkan dirinya dari kesialan yang sering menimpanya.
+
+Suatu hari, Touma menemukan seorang gadis muda yang sedang bergantung di pagar balkonnya. Gadis itu ternyata seorang biarawati dari Gereja Inggris yang memiliki sebuah rahasia besar. Ia menyimpan sebuah pengetahuan yang sangat berharga, yaitu Index-Librorum-Prohibitorum, sebuah kumpulan teks magis yang telah dilarang oleh Gereja. Pertemuan ini membuka pintu bagi Touma untuk terlibat dalam dunia yang penuh dengan kekuatan magis dan konflik yang kompleks.
+
+Dengan latar belakang kota yang dipenuhi dengan teknologi canggih dan kekuatan magis, Touma harus menghadapi berbagai tantangan dan petualangan yang tidak terduga. Ia harus menggunakan kemampuan uniknya untuk menghadapi berbagai situasi yang sulit dan memecahkan misteri yang tersembunyi di balik kekuatan magis yang ada di sekitarnya.
