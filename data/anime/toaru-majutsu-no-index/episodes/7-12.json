@@ -3,36 +3,234 @@
     "number": 7,
     "title": "Kagaku Suuhai",
     "aired": "2008-11-15",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/YnYRjLgngG6G2"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/ZM3R7GNd4ARLB"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-7"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/NjMB53rjgNppW"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
     "title": "Ars Magna",
     "aired": "2008-11-22",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/wZwj2pMyxM3Ld"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/DvdrNDGn5VyzN"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-8"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/jj4VnB25k44aK"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
     "title": "Deep Blood",
     "aired": "2008-11-29",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/ZM3RDxmAYgpqv"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/52AkDxZRg7gwR"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-9"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/mdKnYrp6pYpmm"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
     "title": "Misaka Mikoto",
     "aired": "2008-12-06",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/yvmY2Be8gQ8WW"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/kDm6jBwPa2W7K"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-10"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/WdjRevz7P74PM"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 11,
     "title": "Sisters",
     "aired": "2008-12-13",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/x3mDaDkM7ZQyx"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/jj4VnxVzBjNzB"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-11"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/52AkvqQLW2VzX"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 12,
     "title": "Level 6",
     "aired": "2008-12-20",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/NjMBD6k82Ykez"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/wZwjPkgkpj85y"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-12"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/8Gqkvq2G7YkjX"
+          }
+        ]
+      }
+    ]
   }
 ]
