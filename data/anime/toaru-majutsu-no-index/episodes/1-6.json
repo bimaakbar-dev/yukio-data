@@ -3,36 +3,234 @@
     "number": 1,
     "title": "Gakuentoshi",
     "aired": "2008-10-04",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/52AkvwLRQNAwZ"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/52AkDpgggXR2R"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-1"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/52AkPeZ76Rkpk"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
     "title": "Innocentius",
     "aired": "2008-10-11",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/p8mYa3ajB83pV"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/p8mYgNMGMN8r5"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-2"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/2A8kpxD6LY2Ga"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "title": "Necessarius",
     "aired": "2008-10-18",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/52Akv2d7zzeqy"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/dkRA7GyA3N6Ne"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-3"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/rGXWRqwdyeGPQ"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
     "title": "Kanzen Kioku Nouryoku",
     "aired": "2008-10-25",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/Dvdr3KKARj45n"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/ZM3R7NXwyxZWv"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-4"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/V4ngkP2qxRkYA"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
     "title": "Limit",
     "aired": "2008-11-01",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/jj4VdXDx7PadN"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/nYmj3nBajxZLm"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-5"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/p8mYRM7Z2yMQ2"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
     "title": "Imagine Breaker",
     "aired": "2008-11-08",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/MBAPjDLGXKM6n"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/vpmnPd826v8jz"
+          },
+          {
+            "name": "moeplay",
+            "url": "https://desustream.net/dstream/moeplay/new/index.php?id=2019/06/toarumaindex-6"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "solidfiles",
+            "url": "https://www.solidfiles.com/e/aqpP7wKvY3erg"
+          }
+        ]
+      }
+    ]
   }
 ]
