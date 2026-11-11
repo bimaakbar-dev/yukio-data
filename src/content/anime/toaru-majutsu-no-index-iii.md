@@ -1,44 +1,47 @@
 ---
 title: Toaru Majutsu no Index III
 titleEnglish: A Certain Magical Index III
-titleNative: とある魔術の禁書目録III
+titleNative: とある魔術の禁書目録Ⅲ
 
 malId: 36432
 kitsuId: "13880"
 
 type: TV
 status: finished
-source: light_novel
+# source: # edit manual
 
 season: fall
 year: 2018
 episodes: 26
-duration: 25
-# rating: # edit manual
+duration: 23
+rating: PG-13
 
 aired:
   from: "2018-10-05"
   to: "2019-04-05"
 
 stats:
-  score: 6.6
+  score: 6.8
   # scoredBy: # edit manual
 
 genres:
   - action
+  - fantasy
   - sci-fi
-  - supernatural
+  - super-power
 
 studios:
   - jcstaff
 
-image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100185-mZquZyZ8QbSS.jpg"
-banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100185-5L8Io0DcDvOo.jpg"
-trailer: "ecd1qxlFR0A"
+image: "https://shikimori.one/system/animes/original/36432.jpg?1711977809"
+banner: "https://media.kitsu.app/anime/cover_images/13880/large.jpg"
+trailer: "NZCV1ADhlQg"
 
 draft: false
 ---
 
-Science, magic, and a nun on the run! Kamijo and Index return just in time to celebrate A Certain Magical Index’s 10th anniversary with a brand-new season. After their deadly struggle against the Catholic Church and the pending war between magic and science, Kamijo must work harder to protect Index. But with tensions high all around, what new adventures await them in this next chapter?
+Di dunia yang berada di ambang perang antara sains dan sihir, kota Akademia di Jepang menjadi salah satu pusat konflik. Kota ini berhadapan dengan kekuatan-kekuatan besar seperti Gereja Anglikan di Inggris dan Gereja Katolik Roma yang dipimpin oleh "Takhta di Sebelah Kanan Tuhan" di Italia dan Perancis, serta Gereja Ortodoks Rusia di Rusia.
 
-(Source: Funimation)
+Karis, putri kedua Inggris, merasa bahwa aliansi dengan Akademia kota tidak akan membawa keuntungan bagi negaranya. Ia memutuskan untuk melakukan kudeta dengan bantuan dari kesatuan ksatria setia. Untuk melaksanakan rencananya, Karis membutuhkan kekuatan khusus yang hanya dapat diperoleh dengan memiliki artefak legendaris, yaitu Kurta Original. Artefak ini dikabarkan dapat memberikan kekuatan archangel Michael kepada pemiliknya dan bawahan mereka, tetapi hanya di dalam wilayah Inggris.
+
+Dengan latar belakang konflik yang kompleks dan kekuatan-kekuatan besar yang saling berhadapan, kisah ini akan mengungkap bagaimana perjuangan antara sains dan sihir mempengaruhi nasib dunia dan para tokohnya.
