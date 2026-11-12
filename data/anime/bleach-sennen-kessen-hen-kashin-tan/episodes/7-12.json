@@ -12,5 +12,19 @@
         ]
       }
     ]
+  },
+  {
+    "number": 10,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=aWJiL3RIb3F0SnVXd2VtaGRjZm9kdldTbVBOdTFpbGF4allCTXEyYkZOZmNkLzBOS2kwdjFQWHFQNVJIVG1rMXRWSldOTFZDbkJFa3VkK0xybXozMEE9PQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
