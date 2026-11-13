@@ -69,7 +69,18 @@
   {
     "number": 20,
     "title": "Episode 20",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=NTd2MjM2Wlh3bS9qMG5uYUFmdU1pVWgrdmVnOFdab0lmQVY0ays3clRhaUQ4Q25oN3dDVk8xQ3RCd2UzNnplUWU5VVNZOW4vbml1WTk0a0psbThlaXc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 21,
