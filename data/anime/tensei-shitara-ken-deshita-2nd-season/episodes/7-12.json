@@ -1,0 +1,37 @@
+[
+  {
+    "number": 7,
+    "title": "Episode 7",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=NFFPQjBvaDFvd2FCRDQySUpKNy9NenlPREsvUHorSmE2cDdrMlkxY2pPcnNPRmVEWUV2eVR0cndoa204bmltOUpoRVZzaWFJYUhTeVRHaTQ3aTJWT1E9PQ=="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Episode 8"
+  },
+  {
+    "number": 9,
+    "title": "Episode 9"
+  },
+  {
+    "number": 10,
+    "title": "Episode 10"
+  },
+  {
+    "number": 11,
+    "title": "Episode 11"
+  },
+  {
+    "number": 12,
+    "title": "Episode 12"
+  }
+]
