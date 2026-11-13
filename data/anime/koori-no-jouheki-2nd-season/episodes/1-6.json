@@ -83,6 +83,17 @@
   {
     "number": 6,
     "title": "Episode 6",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=WmF0Q1JoUDJseUp3K3VnZUtQU0dFZz09"
+          }
+        ]
+      }
+    ]
   }
 ]
