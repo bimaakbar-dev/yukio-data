@@ -34,7 +34,7 @@ trailer: "LyDMSUR6_Q8"
 
 draft: false
 addedAt: "2026-10-29"
-updatedAt: "2026-11-08"
+updatedAt: "2026-11-14"
 ---
 
 The second season of Yasei no Last Boss ga Arawareta!
