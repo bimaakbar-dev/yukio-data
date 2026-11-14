@@ -1,0 +1,43 @@
+[
+  {
+    "number": 7,
+    "title": "Episode 7",
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=R3gvSjgyL084RGlTUUxlNHlMalFNNHFuTHpISFBlT0ZsRWR2UC9RTFJGaz0="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Episode 8",
+    "duration": 24
+  },
+  {
+    "number": 9,
+    "title": "Episode 9",
+    "duration": 24
+  },
+  {
+    "number": 10,
+    "title": "Episode 10",
+    "duration": 24
+  },
+  {
+    "number": 11,
+    "title": "Episode 11",
+    "duration": 24
+  },
+  {
+    "number": 12,
+    "title": "Episode 12",
+    "duration": 24
+  }
+]
