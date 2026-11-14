@@ -93,6 +93,17 @@
   {
     "number": 6,
     "title": "Episode 6",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://odvidhide.com/embed/b8zuikfkdibv"
+          }
+        ]
+      }
+    ]
   }
 ]
