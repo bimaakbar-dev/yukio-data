@@ -14,6 +14,7 @@ season: fall
 year: 2011
 episodes: 13
 duration: 24
+rating: R
 
 aired:
   from: "2011-10-02"
@@ -21,6 +22,7 @@ aired:
 
 stats:
   score: 8.1
+  # scoredBy: # edit manual
 
 genres:
   - action
@@ -38,12 +40,8 @@ trailer: "n-7PFiut1HI"
 draft: false
 ---
 
-With the promise of granting any wish, the omnipotent Holy Grail triggered three wars in the past, each too cruel and fierce to leave a victor. In spite of that, the wealthy Einzbern family is confident that the Fourth Holy Grail War will be different; namely, with a vessel of the Holy Grail now in their grasp. Solely for this reason, the much hated "Magus Killer" Kiritsugu Emiya is hired by the Einzberns, with marriage to their only daughter Irisviel as binding contract.
+Di pusat perang keempat Cawan Suci, Kiritsugu Emiya, seorang pembunuh penyihir yang ditakuti, terlibat dalam permainan survival yang penuh bahaya. Ia direkrut oleh keluarga Einzbern yang kaya raya dengan imbalan pernikahan dengan putri mereka, Irisviel. Dengan kekuatan Cawan Suci yang dijanjikan dapat mengabulkan keinginan apa pun, Kiritsugu harus menghadapi enam peserta lain yang masing-masing memiliki familiar kuno dan dorongan unik.
 
-Kiritsugu now stands at the center of a cutthroat game of survival, facing off against six other participants, each armed with an ancient familiar, and fueled by unique desires and ideals. Accompanied by his own familiar, Saber, the notorious mercenary soon finds his greatest opponent in Kirei Kotomine, a priest who seeks salvation from the emptiness within himself in pursuit of Kiritsugu.
+Dalam perang ini, Kiritsugu ditemani oleh Saber, familiar yang kuat. Namun, ia segera menyadari bahwa lawan terbesarnya adalah Kirei Kotomine, seorang imam yang mencari keselamatan dari kekosongan dalam dirinya. Pertarungan antara Kiritsugu dan Kirei menjadi salah satu konflik utama dalam perang ini. 
 
-Based on the light novel written by Gen Urobuchi, Fate/Zero depicts the events of the Fourth Holy Grail War—10 years prior to Fate/stay night. Witness a battle royale in which no one is guaranteed to survive.
-
-(Source: MAL Rewrite)
-
-Note: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.
+Fate/Zero menggambarkan peristiwa Perang Cawan Suci Keempat, sepuluh tahun sebelum peristiwa Fate/stay night. Ini adalah pertarungan sengit di mana tidak ada yang dijamin akan selamat.
