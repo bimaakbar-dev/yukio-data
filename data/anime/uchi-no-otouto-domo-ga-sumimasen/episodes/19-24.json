@@ -1,0 +1,43 @@
+[
+  {
+    "number": 19,
+    "title": "Episode 19",
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=SVFWaG5GUDhSNHlQd2lPK3Q3WkQ1WU1pZEcvbGprRjVhYTg4UmI2NXZHaz0="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "title": "Episode 20",
+    "duration": 24
+  },
+  {
+    "number": 21,
+    "title": "Episode 21",
+    "duration": 24
+  },
+  {
+    "number": 22,
+    "title": "Episode 22",
+    "duration": 24
+  },
+  {
+    "number": 23,
+    "title": "Episode 23",
+    "duration": 24
+  },
+  {
+    "number": 24,
+    "title": "Episode 24",
+    "duration": 24
+  }
+]
