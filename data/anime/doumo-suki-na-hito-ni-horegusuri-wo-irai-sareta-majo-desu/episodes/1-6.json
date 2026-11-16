@@ -79,6 +79,21 @@
   },
   {
     "number": 6,
-    "title": "Episode 6"
+    "title": "Episode 6",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dz_qgQVzMiWvPATcyR1VC95ezGx0HojXJtJ4b19jPi6evvnck1lUiA5HyTihVjVwAh33m3p6HDtJGM8Q3RtzzaxxkNRIDh9V0k8ZK6MmRLR2ZE_ZJO1Wbx6T_pObQgtwBuz"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dz_qgQVzMiWvPATcyR1VC95ezGx0HojXJtJ4b19jPi6evvnck1lUiA5HyTihVjVwAh33m3p6HDtJGM8Q3RtzzaxxkNRIDh9V0k8ZK6MmRLR2ZE_ZJO1Wbx6T_pObQgtwBuz"
+          }
+        ]
+      }
+    ]
   }
 ]
