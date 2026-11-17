@@ -70,6 +70,17 @@
   },
   {
     "number": 6,
-    "title": "Episode 6"
+    "title": "Episode 6",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=REdoWXAwcWxmS3c2NUROQ3VldS8zQm9vRDFHOGsxbWlPNFVaWHlCN3ovSzlXbTdxbnNEYkw2djJCQWFramdqaGY3Y2hMWDc0dmlqYkxVc1FCZ1lQekE9PQ=="
+          }
+        ]
+      }
+    ]
   }
 ]
