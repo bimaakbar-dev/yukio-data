@@ -85,7 +85,69 @@
   {
     "number": 21,
     "title": "Episode 21",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/q2YVmTyD#U5cXjKFZ878rqQzbhw64TKF4T_3AWmWxXNmVFBNFG5A"
+          }
+        ]
+      },
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/MINh5D21ac"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/4oox4tj086ey"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/SzoDDBQB#LLC6nSigG6DM7qZ2vkfBU8iruZnKw2zTMEb0GscArrs"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/abu7xWpiiQ"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ctfm1uqh40rl"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/fjIWRDAY#Wo6G677GRsbKAM-VZpzYMD-gYrsTAn38Z_Qx-hf4LDo"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/n83YI0WVem"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/ipx5tjn9woas"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/biZzmQJK#CjnenJaI5I08P_LI6tWjvq_aAo8Qfmj2Y6Su5kY3B2E"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 22,
