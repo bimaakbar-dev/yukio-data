@@ -22,7 +22,22 @@
   {
     "number": 8,
     "title": "Episode 8",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwsjd_VxnRoJop7YnFKTEHILSN_8zmSCgo4EhYTzaTh_OpNb9Ac1Slowql20x_4P0JaUx0cLVrYNGfgGqFJaVGgBlEG6cZpIaPvTStuig5irtWg5g9m1KjbncVbMTajqFP37bmA"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwsjd_VxnRoJop7YnFKTEHILSN_8zmSCgo4EhYTzaTh_OpNb9Ac1Slowql20x_4P0JaUx0cLVrYNGfgGqFJaVGgBlEG6cZpIaPvTStuig5irtWg5g9m1KjbncVbMTajqFP37bmA"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
