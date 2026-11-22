@@ -34,7 +34,18 @@
   {
     "number": 9,
     "title": "Episode 9",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=T2FxQTNISGRWL3RMcXdrOFErTDhKTUYwS3BSRlZzNkxReDZvKzZxWU12MGFCb29RaGF1dVJnTy8vOGFrZnlWdUJ0MWoyRm85by9pWGl3dEZRUmIyaUE9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
