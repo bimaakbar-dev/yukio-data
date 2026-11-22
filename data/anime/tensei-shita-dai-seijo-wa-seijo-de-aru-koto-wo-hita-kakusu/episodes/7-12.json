@@ -18,7 +18,18 @@
   {
     "number": 8,
     "title": "Episode 8",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=Ky9wakJTTXpmR0MvdElWbzB4TW91T09GTHV3THkzalp0c2xUaUpaZFg3QjZuN3pCMUUvKzA5aHJzdjdmUjRhWm1Bb1Uyd3MwOFJVaERIVGoySHFwNmc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
