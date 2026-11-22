@@ -67,7 +67,18 @@
   },
   {
     "number": 8,
-    "title": "Episode 8"
+    "title": "Episode 8",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=UEZveXdJcDBMSnpSOWFialRkck1IcllFTE5tdDFDb0ZLSWswRCtYS3ovdzRrTGFVNURnU2VQbk9uOFd1bVBzUzhyeERTTnJzamQwTnlIb092azFxaGc9PQ=="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
