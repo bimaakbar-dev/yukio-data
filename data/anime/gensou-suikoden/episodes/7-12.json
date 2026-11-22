@@ -1,0 +1,71 @@
+[
+  {
+    "number": 7,
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/2n531IJZ#Txc9UChip32k5UcgVJT7M8dx4ywazHmG3_qWgfN0tlU"
+          }
+        ]
+      },
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/ustWx0i7WC"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/wqx6iygq3p4j"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/jnYymQIS#eEBQgFaC5AcjQisPnLJgAUtxcJp3BEcnRoR-XyzcUvA"
+          }
+        ]
+      },
+      {
+        "quality": "480p",
+        "servers": [
+          {
+            "name": "vidhide",
+            "url": "https://filedon.co/embed/gl87334iSu"
+          },
+          {
+            "name": "mega",
+            "url": "https://odvidhide.com/embed/xc3dqz3p5ud9"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/vm5SlRrA#YmURwIz1U223H8AvuWQBOX29Z5gxRFO0jELTOCrPqA0"
+          },
+          {
+            "name": "filedon",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzdEIsHARIVtK_7AB9G5C9CRUj_O4QmuKNLOHXPYR4FX2uTIlE4Pl2Dhfbh3bDwyemNnT50eMO8oD9MiOfalYHf72yziStV5UAiSgdq8BpCPlJ-AIipgKHXlaZDvdMl35O-ZAk&origin=odongoing2deredesu.blogspot.com"
+          }
+        ]
+      },
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "filedon",
+            "url": "https://filedon.co/embed/cgjZDqnLme"
+          },
+          {
+            "name": "vidhide",
+            "url": "https://odvidhide.com/embed/zobw1fjq1uki"
+          },
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/Drh2lQqA#4i1vl0jxCFvUWzJ8wqUHC70WoTbgV2U5hqYekGCrDb0"
+          }
+        ]
+      }
+    ]
+  }
+]
