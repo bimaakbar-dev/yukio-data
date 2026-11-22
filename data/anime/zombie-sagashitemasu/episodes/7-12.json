@@ -1,0 +1,37 @@
+[
+  {
+    "number": 7,
+    "title": "Episode 7",
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/qqozhKjZ#pH1wHCqZPfebQP0rhWQfHVdUmLpr5eWvowKSvZE3JQU"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Episode 8"
+  },
+  {
+    "number": 9,
+    "title": "Episode 9"
+  },
+  {
+    "number": 10,
+    "title": "Episode 10"
+  },
+  {
+    "number": 11,
+    "title": "Episode 11"
+  },
+  {
+    "number": 12,
+    "title": "Episode 12"
+  }
+]
