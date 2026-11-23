@@ -18,7 +18,18 @@
   {
     "number": 8,
     "title": "Episode 8",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/b05TkZRI#lQ-_2mENSoDGBxRD0KaPI1ihEr2JtozrQT2afK1ZzJg"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
