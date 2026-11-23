@@ -5,11 +5,11 @@
     "duration": 24,
     "streams": [
       {
-        "quality": "360p",
+        "quality": "1080p",
         "servers": [
           {
-            "name": "animesub",
-            "url": "https://desustream.net/dstream/arcg/?id=Nk0rNURONmhjNkxqNmFPcjZNbHU1RmgyMTBvQklzUEU2K1lVNXoyM2hHSFZ2aGlFeDNVMUNXaG1EM3RUbkE5clNVZDFjbnhIWms0MHpFdHRpTEpjQjYyZjVrZEhCbzNIUjlVZldWZGdRRVE9"
+            "name": "mega",
+            "url": "https://mega.nz/embed/K4JVQAbZ#PQzQQSZbTIK5lVcl6uBUzf3ReOsrqreCOfUvZaDdOu8"
           }
         ]
       }
