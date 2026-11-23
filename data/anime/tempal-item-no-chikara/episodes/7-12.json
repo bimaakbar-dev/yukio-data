@@ -133,7 +133,18 @@
   },
   {
     "number": 9,
-    "title": "Episode 9"
+    "title": "Episode 9",
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/H1wm1QhQ#CJhTKOU6J0SBDloNu5IrScuQhEvaJvIjYIJ8DM-D1Uo"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 10,
