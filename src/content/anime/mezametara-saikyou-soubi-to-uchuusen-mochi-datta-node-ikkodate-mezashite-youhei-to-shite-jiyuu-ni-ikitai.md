@@ -41,7 +41,7 @@ trailer: "Z9ofT53sz2U"
 
 draft: false
 addedAt: "2026-11-09"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-23"
 ---
 
 Takahiro Sato hanyalah seorang pekerja kantoran biasa dengan hobi bermain game. Namun, kehidupannya berubah secara dramatis ketika dia terbangun di atas sebuah pesawat luar angkasa yang sangat familiar, mirip dengan yang ada di game tembak-tembakan favoritnya.
