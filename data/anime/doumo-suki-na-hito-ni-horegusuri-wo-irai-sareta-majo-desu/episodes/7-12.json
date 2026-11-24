@@ -16,7 +16,18 @@
   },
   {
     "number": 8,
-    "title": "Episode 8"
+    "title": "Episode 8",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzi7Tpzi1d7L1WAsQXDTYy7g0Yr9y1COdO4dQe0j-CUWMl1sZJgABcgIYVuWTkTcQBJxL_kLHDNRaoTfcotuA7epuMdh11N7dx8XJPpaBIJzPWcGPlGCKwoGGkjaK_szQraCHrS"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
