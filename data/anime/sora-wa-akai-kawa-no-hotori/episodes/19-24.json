@@ -22,7 +22,18 @@
   {
     "number": 20,
     "title": "Episode 20",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://upbolt.to/e/m0g4726k7dzz"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 21,
