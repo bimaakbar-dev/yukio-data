@@ -38,7 +38,18 @@
   {
     "number": 21,
     "title": "Episode 21",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://upbolt.to/e/dn88sheuxpv2"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 22,
