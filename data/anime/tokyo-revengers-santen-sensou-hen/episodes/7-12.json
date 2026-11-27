@@ -16,7 +16,18 @@
   },
   {
     "number": 8,
-    "title": "Episode 8"
+    "title": "Episode 8",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=a1hpOHljckdmQ0VFbWVXamZkaDVjNURjKzJyTHBMRWNjTUNwUXQ0SG1aYz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 9,
