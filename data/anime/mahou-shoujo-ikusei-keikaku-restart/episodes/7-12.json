@@ -12,5 +12,19 @@
         ]
       }
     ]
+  },
+  {
+    "number": 8,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dx2hJz398ZJkCm_ppoPfw1UQTlyYNmooPv1CT8u-5fiXJovAt71fi0pfYDT3TYNXjWCYXfiHFG0U4S0DnF7BB3WBE6UTc8Afc8LvZTlX875yy6RFhkmG-vM3XQx0-fxtK1Pc84"
+          }
+        ]
+      }
+    ]
   }
 ]
