@@ -1,0 +1,37 @@
+[
+  {
+    "number": 7,
+    "title": "Episode 7",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dw4xEbERRiSIjy0naGB1xZbpYTRW_OI_Ebnq3vO4xkXqzJ3h8aPIwrwFp5ArqDK0n12VGAiBYh-O0pxNh-pEewfIlq5hjV4dm8VTw03OS_hx1Oi01KRCOmjBxMDsIxAtUv4xjs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Episode 8"
+  },
+  {
+    "number": 9,
+    "title": "Episode 9"
+  },
+  {
+    "number": 10,
+    "title": "Episode 10"
+  },
+  {
+    "number": 11,
+    "title": "Episode 11"
+  },
+  {
+    "number": 12,
+    "title": "Episode 12"
+  }
+]
