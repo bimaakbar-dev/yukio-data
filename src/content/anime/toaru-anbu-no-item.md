@@ -28,7 +28,7 @@ trailer: "NNHxQJgZdbQ"
 
 draft: false
 addedAt: "2026-10-10"
-updatedAt: "2026-11-20"
+updatedAt: "2026-11-28"
 ---
 
 This is a story of four girls living in the "Dark Side" of Academy City.
